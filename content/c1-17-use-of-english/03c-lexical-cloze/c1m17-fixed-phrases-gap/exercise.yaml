@@ -1,0 +1,43 @@
+title: "Устойчивые фразы: одно слово"
+type: gap
+intro: "Впиши **одно** слово, которое завершает устойчивую фразу. Это слова, которые в Part 1 прячутся среди четырёх вариантов, а в Part 2 — в пустом пропуске."
+hints:
+  - "at stake, at short notice, by no means, in vain, out of the question, on the whole, as a whole."
+  - "bear in mind, take for granted, come to terms with, make ends meet, in the long run."
+items:
+  - q: "Please bear in ___ that the museum closes early on Sundays."
+    answers: ["mind"]
+    explain: "**bear in mind** — «иметь в виду, учитывать». Не ~~keep in head~~ (калька)."
+  - q: "On a single salary, the family found it hard to make ends ___."
+    answers: ["meet"]
+    explain: "**make ends meet** — «сводить концы с концами»."
+  - q: "The new policy may be unpopular now, but it will save money in the long ___."
+    answers: ["run", "term"]
+    explain: "**in the long run** (или *in the long term*) — «в долгосрочной перспективе»."
+  - q: "The concert was cancelled at short ___ because the conductor fell ill."
+    answers: ["notice"]
+    explain: "**at short notice** — «в последний момент». Без артикля."
+  - q: "The rescuers tried to reach the trapped miners, but all their efforts were in ___."
+    answers: ["vain"]
+    explain: "**in vain** — «напрасно, тщетно»."
+  - q: "The results are by ___ means conclusive; further research is needed."
+    answers: ["no"]
+    explain: "**by no means** — «вовсе не, ни в коем случае». Сильнее, чем *not*."
+  - q: "On the ___, the conference was a success, despite a few technical problems."
+    answers: ["whole"]
+    explain: "**On the whole** — «в целом» (обобщение). Не путай с *as a whole* — «целиком, как единое»."
+  - q: "The economy as a ___ is growing, but some regions are still in decline."
+    answers: ["whole"]
+    explain: "**as a whole** — «в целом, целиком» (противопоставление частям: *but some regions…*)."
+  - q: "Many of us take our health for ___ until something goes wrong."
+    answers: ["granted"]
+    explain: "**take sth for granted** — «принимать как должное»."
+  - q: "Investors are nervous because billions of dollars are at ___."
+    answers: ["stake"]
+    explain: "**at stake** — «на кону»."
+  - q: "To a large ___, the success of the project depends on the weather."
+    answers: ["extent", "degree"]
+    explain: "**to a large extent / degree** — «в значительной степени». Предлог только *to*."
+  - q: "Being late on the first day of the new job was simply out of the ___."
+    answers: ["question"]
+    explain: "**out of the question** — «исключено». Не путай с *out of question* (без артикля) — эта форма устарела."

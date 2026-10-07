@@ -1,0 +1,180 @@
+- id: m10-verb-object
+  lesson: 10-word-order/01-word-order
+  q: "Найди ошибку: *I like very much this song.*"
+  a: "*I like this song **very much**.* — между глаголом и дополнением ничего не вставляем."
+- id: m10-speaks-english-well
+  lesson: 10-word-order/01-word-order
+  q: "Переведи: «Она очень хорошо говорит по-французски»."
+  a: "*She speaks French **very well**.* — наречие после дополнения."
+- id: m10-frequency-position
+  lesson: 10-word-order/01-word-order
+  q: "Где стоит *always / often / never*?"
+  a: "**После** *be* (*He is always late*), **перед** смысловым глаголом (*I often go*), после первого вспомогательного (*I have never been*)."
+- id: m10-manner-place-time
+  lesson: 10-word-order/01-word-order
+  q: "В каком порядке обстоятельства в конце предложения?"
+  a: "**Как → где → когда**: *She sang beautifully at the concert last night.* Время можно вынести в начало."
+- id: m10-still-yet
+  lesson: 10-word-order/01-word-order
+  q: "Найди ошибку: *I yet haven't finished.*"
+  a: "*I haven't finished **yet**.* или *I **still** haven't finished.* — *yet* в конце, *still* перед вспомогательным."
+- id: m10-enough
+  lesson: 10-word-order/01-word-order
+  q: "Где ставить **enough**: ___ old ___ / ___ money ___?"
+  a: "*old **enough*** — после прилагательного; ***enough** money* — перед существительным."
+- id: m10-adjective-order
+  lesson: 10-word-order/01-word-order
+  q: "Порядок прилагательных перед существительным?"
+  a: "Мнение → размер → возраст → форма → цвет → происхождение → материал: *a lovely little old Italian leather bag*."
+- id: m10-subject-question
+  lesson: 10-word-order/02-questions
+  q: "В чём разница: *Who called you?* / *Who did you call?*"
+  a: "*Who called you?* — кто тебе звонил (who = подлежащее, без *did*). *Who did you call?* — кому ты звонил."
+- id: m10-what-happened
+  lesson: 10-word-order/02-questions
+  q: "Найди ошибку: *What did happen at the meeting?*"
+  a: "*What **happened** at the meeting?* — *what* подлежащее, вспомогательный глагол не нужен."
+- id: m10-preposition-end
+  lesson: 10-word-order/02-questions
+  q: "Переведи: «О чём ты думаешь?» и «С кем ты живёшь?»"
+  a: "*What are you thinking **about**?* *Who do you live **with**?* — предлог в конце."
+- id: m10-indirect-order
+  lesson: 10-word-order/02-questions
+  q: "Найди ошибку: *Could you tell me where is the station?*"
+  a: "*Could you tell me where **the station is**?* — в косвенном вопросе порядок утверждения."
+- id: m10-indirect-if
+  lesson: 10-word-order/02-questions
+  q: "Переведи: «Не знаешь, работает ли аптека?»"
+  a: "*Do you know **if / whether** the pharmacy is open?* — «ли» → *if / whether*."
+- id: m10-tag-i-am
+  lesson: 10-word-order/02-questions
+  q: "Допиши tag: *I'm right, ___?* / *Let's go, ___?*"
+  a: "*I'm right, **aren't I**?* / *Let's go, **shall we**?*"
+- id: m10-tag-nobody
+  lesson: 10-word-order/02-questions
+  q: "Допиши tag: *Nobody called, ___?*"
+  a: "***did they**?* — *nobody* уже отрицание, поэтому tag положительный, местоимение *they*."
+- id: m10-negative-answer
+  lesson: 10-word-order/02-questions
+  q: "*Aren't you tired?* Как ответить «Нет, устал»?"
+  a: "***Yes**, I am.* — *yes / no* относится к факту, а не к форме вопроса."
+- id: m10-more-better
+  lesson: 10-word-order/03-comparatives
+  q: "Найди ошибку: *My English is more better now.*"
+  a: "*My English is **better** (much better) now.* — *-er* и *more* вместе не бывают."
+- id: m10-very-comparative
+  lesson: 10-word-order/03-comparatives
+  q: "Как сказать «намного дешевле» и «чуть-чуть дешевле»?"
+  a: "***much / far / a lot** cheaper*; ***a bit / slightly** cheaper*. Не ~~very cheaper~~."
+- id: m10-the-more
+  lesson: 10-word-order/03-comparatives
+  q: "Переведи: «Чем больше практикуешься, тем легче»."
+  a: "***The more** you practise, **the easier** it gets.* — оба *the* обязательны."
+- id: m10-twice-as
+  lesson: 10-word-order/03-comparatives
+  q: "Переведи: «Аренда здесь вдвое выше»."
+  a: "*Rent here is **twice as high as**…* — внутри *as … as* исходная форма."
+- id: m10-not-as-as
+  lesson: 10-word-order/03-comparatives
+  q: "Перефразируй через **as**: *The book is better than the film.*"
+  a: "*The film **isn't as good as** the book.*"
+- id: m10-hard-hardly
+  lesson: 10-word-order/03-comparatives
+  q: "В чём разница: *He works hard* / *He hardly works*?"
+  a: "*hard* — усердно; ***hardly*** — почти не (работает)."
+- id: m10-without-thinking-twice
+  lesson: 10-word-order/04-reading
+  q: "Переведи: «Я бы вернулся туда не раздумывая»."
+  a: "*I'd go back there **without thinking twice**.*"
+- id: m10-when-it-comes-to
+  lesson: 10-word-order/05-writing
+  q: "Как в статье перейти к новому аспекту сравнения?"
+  a: "*When it comes to…, / As for…, / In terms of…,* — и сразу сравнение: *X is far cheaper than Y.*"
+- id: m10-probably-wont
+  lesson: 10-word-order/01-word-order
+  q: "Найди ошибку: *We won't probably finish today.*"
+  a: "*We **probably won't** finish today.* — *probably / certainly* перед *won't, didn't*."
+- id: m10-no-longer
+  lesson: 10-word-order/01-word-order
+  q: "Переведи двумя способами: «Он здесь больше не работает»."
+  a: "*He **no longer** works here.* / *He **doesn't** work here **any more**.*"
+- id: m10-too-very
+  lesson: 10-word-order/01-word-order
+  q: "Найди ошибку: *It's very hot to go for a run.*"
+  a: "*It's **too** hot to go for a run.* — «слишком …, чтобы» = **too** + прил. + *to*."
+- id: m10-quite-rather
+  lesson: 10-word-order/01-word-order
+  q: "Что значит **quite** в *quite good* и в *quite right*?"
+  a: "*quite good* — довольно хороший; *quite right* — совершенно верно (с *right, sure, impossible*)."
+- id: m10-what-like
+  lesson: 10-word-order/02-questions
+  q: "В чём разница: *What's she like?* / *What does she look like?* / *How is she?*"
+  a: "Характер / внешность / самочувствие. Не ~~How does she look like?~~"
+- id: m10-which-of
+  lesson: 10-word-order/02-questions
+  q: "Найди ошибку: *What of these phones is yours?*"
+  a: "***Which** of these phones is yours?* — с *of* и выбором из немногих только **which**."
+- id: m10-short-answer
+  lesson: 10-word-order/02a-short-answers
+  q: "Ответь коротко «да»: *Do you like jazz?* / *Is she coming?*"
+  a: "*Yes, I **do**.* / *Yes, she **is**.* — не ~~Yes, I like~~ и не ~~Yes, she's~~."
+- id: m10-so-do-i
+  lesson: 10-word-order/02a-short-answers
+  q: "«Я тоже»: *I love this song.* / *I've been there.* / *I went home.*"
+  a: "***So do I.*** / ***So have I.*** / ***So did I.*** — so + вспомогательный + подлежащее."
+- id: m10-neither-do-i
+  lesson: 10-word-order/02a-short-answers
+  q: "Найди ошибку: *— I don't eat meat. — Me too.*"
+  a: "*— **Neither do I.*** / ***Me neither.*** — после отрицания «я тоже не»."
+- id: m10-hope-not
+  lesson: 10-word-order/02a-short-answers
+  q: "«Думаю, нет» и «Надеюсь, нет» — как сказать?"
+  a: "*I **don't think so**.* / *I **hope not**.* — не ~~I don't hope so~~."
+- id: m10-why-dont-we
+  lesson: 10-word-order/02a-short-answers
+  q: "Что значат *Why don't we…?* и *Why didn't you…?*"
+  a: "*Why don't we take a taxi?* — предложение («давай»). *Why didn't you call?* — упрёк («надо было»)."
+- id: m10-one-of-the-best
+  lesson: 10-word-order/03-comparatives
+  q: "Найди ошибку: *It's one of the best film I ever saw.*"
+  a: "*It's one of the best **films** I'**ve ever seen**.* — множественное число и Present Perfect."
+- id: m10-fewer-less
+  lesson: 10-word-order/03-comparatives
+  q: "**fewer** или **less**: ___ cars, ___ traffic?"
+  a: "***fewer** cars* (исчисляемое), ***less** traffic* (неисчисляемое)."
+- id: m10-elder-older
+  lesson: 10-word-order/03-comparatives
+  q: "Где можно **elder**: *my ___ sister* / *She's ___ than me*?"
+  a: "*my **elder / older** sister*; но только *She's **older** than me*."
+- id: m10-very-exhausted
+  lesson: 10-word-order/01a-degree-adverbs
+  q: "Найди ошибку: *I was very exhausted after the trip.*"
+  a: "*exhausted* — предельное прилагательное: **absolutely / completely / really** exhausted, не *very*."
+- id: m10-quite-a
+  lesson: 10-word-order/01a-degree-adverbs
+  q: "*a quite good idea* или *quite a good idea*?"
+  a: "**quite a** good idea — *quite* перед артиклем. Но *a very / a fairly / a rather good idea*."
+- id: m10-quite-two-meanings
+  lesson: 10-word-order/01a-degree-adverbs
+  q: "Что значит *quite* в *quite good* и в *quite right*?"
+  a: "*quite good* — «довольно, неплохо»; *quite right / sure / impossible* — «совершенно»."
+- id: m10-rather-comparative
+  lesson: 10-word-order/01a-degree-adverbs
+  q: "Какое слово подходит: *It took ___ longer than we expected* — quite или rather?"
+  a: "**rather** longer. Перед сравнительной степенью *quite* не ставится."
+- id: m10-far-too
+  lesson: 10-word-order/01a-degree-adverbs
+  q: "Как усилить *too expensive*?"
+  a: "**much / far / a bit** too expensive. ~~very too~~ невозможно."
+- id: m10-too-young-enough
+  lesson: 10-word-order/01a-degree-adverbs
+  q: "Перефразируй с ENOUGH: *He's too young to vote.*"
+  a: "He **isn't old enough** to vote. *too* + прилагательное = *not* + антоним + *enough*."
+- id: m10-too-heavy-to-lift
+  lesson: 10-word-order/01a-degree-adverbs
+  q: "Найди ошибку: *The box is too heavy to lift it.*"
+  a: "The box is too heavy **to lift**. После *too … to* подлежащее как дополнение не повторяем."
+- id: m10-enough-of
+  lesson: 10-word-order/01a-degree-adverbs
+  q: "*enough time* — а как «хватит этого шума»?"
+  a: "**enough of** the noise. Перед *the / my / this* и местоимениями нужен **of**."

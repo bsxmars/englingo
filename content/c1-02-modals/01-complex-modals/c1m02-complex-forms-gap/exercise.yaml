@@ -1,0 +1,40 @@
+title: "Сложные модальные формы"
+type: gap
+intro: "Впиши модальный глагол из скобок и нужную форму смыслового глагола: perfect, continuous, perfect continuous или passive. Решай по контексту: о каком времени речь и кто делает действие."
+hints:
+  - "Порядок звеньев: modal → have → been → V-ing / V3."
+  - "Прошлое → have + V3; процесс → be + V-ing; объект действия в подлежащем → be / have been + V3."
+items:
+  - q: "Don't ring Ana now — it's 3 a.m. in Tokyo, so she ___ (will / sleep)."
+    answers: ["will be sleeping", "'ll be sleeping"]
+    explain: "Уверенное предположение о процессе прямо сейчас → *will* + **be + V-ing**: *will be sleeping*."
+  - q: "The figures don't add up. Someone ___ (must / make) an error when the data was entered."
+    answers: ["must have made"]
+    explain: "Вывод о событии в прошлом (*was entered*) → *must* + **have + V3**."
+  - q: "Her eyes were red and swollen. She ___ (must / cry) for hours."
+    answers: ["must have been crying"]
+    explain: "Вывод о **длительном** процессе в прошлом, видим его след → modal perfect continuous: *must have been crying*."
+  - q: "All applications ___ (should / submit) through the online portal by Friday."
+    answers: ["should be submitted"]
+    explain: "Заявки подают (подлежащее — объект действия), речь о будущем → modal passive: *should **be** submitted*."
+  - q: "The bridge collapsed minutes after the last car crossed it. Dozens of people ___ (could / kill)."
+    answers: ["could have been killed"]
+    explain: "Нереализованная возможность в прошлом, люди — объект действия → *could have been* + V3. Без *been* получилось бы, что люди сами кого-то убили."
+  - q: "You ___ (shouldn't / scroll) through your phone while the client is talking — it looks dismissive."
+    answers: ["shouldn't be scrolling", "should not be scrolling"]
+    explain: "Критика действия в процессе (*while the client is talking*) → *shouldn't* + **be + V-ing**."
+  - q: "This vase ___ (can't / make) in the 18th century — the glaze wasn't invented until 1900."
+    answers: ["can't have been made", "cannot have been made", "couldn't have been made", "could not have been made"]
+    explain: "Уверенное отрицательное заключение о прошлом + пассив → *can't / couldn't have been made*."
+  - q: "By the time the auditors arrive, the documents ___ (will / shred). We need to act now."
+    answers: ["will have been shredded", "'ll have been shredded"]
+    explain: "Действие завершится к моменту в будущем и совершается над документами → *will have been* + V3."
+  - q: "He ___ (might / wait) for us at the wrong entrance all this time — let's check the north gate."
+    answers: ["might have been waiting", "may have been waiting", "could have been waiting"]
+    explain: "Предположение о процессе, длившемся до настоящего (*all this time*) → *might have been waiting*. *may / could* здесь тоже уместны."
+  - q: "The patient ___ (ought to / tell) about the side effects before the operation, but nobody mentioned them."
+    answers: ["ought to have been told"]
+    explain: "Упрёк о прошлом, пациент — получатель информации → *ought to have been told*."
+  - q: "It's no use calling the office now. Everyone ___ (will / go) home by this time."
+    answers: ["will have gone", "'ll have gone"]
+    explain: "*will have* + V3 — уверенность в том, что уже произошло к настоящему моменту: «наверняка уже ушли»."

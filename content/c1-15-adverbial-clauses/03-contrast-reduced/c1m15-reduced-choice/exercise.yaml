@@ -1,0 +1,52 @@
+title: "Сокращённые обороты и висячие причастия"
+type: choice
+intro: "Выбери вариант, который грамматически верен и логичен. Следи, чтобы подлежащее оборота совпадало с подлежащим главной части."
+hints:
+  - "Having + V3 — предшествующее действие; being + V3 — пассив."
+  - "not ставится перед причастием."
+  - "because не сокращается до because + -ing."
+items:
+  - q: "Which sentence is correct?"
+    options: ["Walking into the room, the smell of smoke hit me.", "Walking into the room, I noticed the smell of smoke.", "Walking into the room, there was a smell of smoke."]
+    answer: 1
+    explain: "Подлежащее главной части должно совершать действие оборота: в комнату вошёл **я**. В остальных вариантах причастие висячее."
+  - q: "___ the report, she emailed it to the board."
+    options: ["Having finished", "Finishing", "Being finished"]
+    answer: 0
+    explain: "Сначала закончила, потом отправила → **Having finished**. *Being finished* — пассив, не подходит по смыслу."
+  - q: "___ to work alongside the professor, I felt rather flattered."
+    options: ["Being asked", "Asking", "Having asked"]
+    answer: 0
+    explain: "Меня попросили → пассив: **Being asked**. *Asking* / *Having asked* значили бы, что просил я."
+  - q: "___ very well, she left the meeting early."
+    options: ["Not feeling", "Feeling not", "Not felt"]
+    answer: 0
+    explain: "Отрицание — **not** перед причастием: *Not feeling well*."
+  - q: "Before ___ the building, please switch off all the lights."
+    options: ["leaving", "you leaving", "to leave"]
+    answer: 0
+    explain: "**Before + -ing** — сокращённое придаточное времени."
+  - q: "He stood by the door, as if ___ for someone."
+    options: ["waiting", "he waiting", "waited"]
+    answer: 0
+    explain: "**as if + -ing** — сокращённое придаточное образа действия."
+  - q: "___ from the air, the island looks like a giant turtle."
+    options: ["Seen", "Seeing", "Having seen"]
+    answer: 0
+    explain: "Остров *видят* сверху → пассивное **Seen**. *Seeing* значило бы, что остров что-то видит."
+  - q: "___ necessary, the dose can be increased after a week."
+    options: ["If", "Unless", "Because"]
+    answer: 0
+    explain: "**If necessary** = *if it is necessary*. *Unless necessary* грамматично, но смысл противоположный, *because* так не сокращается."
+  - q: "Which sentence is NOT correct?"
+    options: ["Because feeling ill, she stayed at home.", "Feeling ill, she stayed at home.", "As she felt ill, she stayed at home."]
+    answer: 0
+    explain: "**because** не используется в сокращённых оборотах: либо просто *Feeling ill*, либо полное придаточное."
+  - q: "___ in 1889, the tower was originally meant to stand for only twenty years."
+    options: ["Built", "Building", "Having built"]
+    answer: 0
+    explain: "Башню *построили* → пассив: **Built**. *Having built* значило бы, что башня сама что-то построила."
+  - q: "Once ___, the application cannot be withdrawn."
+    options: ["submitted", "submitting", "having submitted"]
+    answer: 0
+    explain: "**Once submitted** = *once it has been submitted* — союз + причастие прошедшего времени."

@@ -1,0 +1,43 @@
+title: "Существительное с артиклем или без"
+type: gap
+intro: "Впиши слово из скобок с артиклем **the** или **a/an**, если он нужен, или без артикля. Решай по смыслу: общее утверждение или конкретная вещь."
+hints:
+  - "Общая мысль: plural или неисчисляемое без артикля."
+  - "the + of-фраза / придаточное — конкретное."
+items:
+  - q: "___ (unemployment) has fallen for the third year in a row."
+    answers: ["Unemployment"]
+    explain: "Безработица вообще, абстрактное понятие → без артикля."
+  - q: "___ (unemployment rate) in the region is still above 10%."
+    answers: ["The unemployment rate"]
+    explain: "*rate* — исчисляемое в единственном числе, причём конкретный показатель этого региона → **The unemployment rate**."
+  - q: "I find ___ (modern art) hard to understand."
+    answers: ["modern art"]
+    explain: "Современное искусство вообще. Прилагательное не требует артикля → **modern art**."
+  - q: "___ (art) in this gallery is mostly from the 17th century."
+    answers: ["The art"]
+    explain: "*in this gallery* уточняет, какое именно искусство → **The art**."
+  - q: "___ (life) of a professional athlete is shorter than people think."
+    answers: ["The life"]
+    explain: "*of a professional athlete* сужает понятие → **The life of**."
+  - q: "In my opinion, ___ (social media) has made people more anxious."
+    answers: ["social media"]
+    explain: "Соцсети вообще, общее утверждение → без артикля."
+  - q: "___ (poor) are hit hardest when prices go up."
+    answers: ["The poor"]
+    explain: "**the** + прилагательное = группа людей (бедные). Глагол во множественном числе: *are hit*."
+  - q: "___ (computer) has changed almost every job in the last fifty years."
+    answers: ["The computer", "Computers"]
+    explain: "Изобретение как тип → **The computer** (книжный стиль). Можно и *Computers have changed…*, но с *has* подходит только единственное число."
+  - q: "___ (Italians) I worked with were incredibly well organised."
+    answers: ["The Italians"]
+    explain: "Придаточное *I worked with* указывает на конкретных людей → **The Italians**."
+  - q: "My sister is ___ (vegetarian), so she never eats meat."
+    answers: ["a vegetarian"]
+    explain: "Принадлежность к группе (как профессия) → **a vegetarian**."
+  - q: "___ (good teacher) never makes students feel stupid."
+    answers: ["A good teacher"]
+    explain: "«Любой хороший учитель» — утверждение верно для каждого представителя → **A good teacher**, глагол *makes* в единственном числе."
+  - q: "We need to protect ___ (environment) for future generations."
+    answers: ["the environment"]
+    explain: "*the environment* (окружающая среда) — единственная в своём роде, как *the sun, the internet* → всегда с **the**."

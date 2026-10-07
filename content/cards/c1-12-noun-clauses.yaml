@@ -1,0 +1,136 @@
+- id: c1m12-what-subject
+  lesson: c1-12-noun-clauses/01-that-wh-clauses
+  q: "Переведи: «Больше всего меня удивило его спокойствие»."
+  a: "***What surprised me most** was his calm.*"
+- id: c1m12-that-subject
+  lesson: c1-12-noun-clauses/01-that-wh-clauses
+  q: "Переведи формально: «То, что он солгал, очевидно»."
+  a: "***That he lied** is obvious.* / *It is obvious that he lied.* — *that* в начале обязателен."
+- id: c1m12-whether-subject
+  lesson: c1-12-noun-clauses/01-that-wh-clauses
+  q: "Найди ошибку: *If the plan is popular is irrelevant.*"
+  a: "***Whether** the plan is popular is irrelevant.* — в начале предложения только *whether*."
+- id: c1m12-that-obligatory
+  lesson: c1-12-noun-clauses/01-that-wh-clauses
+  q: "Когда *that* нельзя опустить?"
+  a: "В формальном стиле, после существительного, когда что-то вставлено между глаголом и придаточным, во втором однородном придаточном, в придаточном-подлежащем."
+- id: c1m12-prep-wh
+  lesson: c1-12-noun-clauses/01-that-wh-clauses
+  q: "Найди ошибку: *The debate focused on that the minister had promised.*"
+  a: "*The debate focused on **what** the minister had promised.* — после предлога wh-слово, не *that*."
+- id: c1m12-that-vs-whether
+  lesson: c1-12-noun-clauses/01-that-wh-clauses
+  q: "*They didn't know that the figures were wrong* и *…whether the figures were wrong* — разница?"
+  a: "*that* — цифры неверны, а они не знали; *whether* — неизвестно, верны ли."
+- id: c1m12-find-it-odd
+  lesson: c1-12-noun-clauses/01-that-wh-clauses
+  q: "Найди ошибку: *She found strange that nobody had replied.*"
+  a: "*She found **it** strange that nobody had replied.*"
+- id: c1m12-hate-it
+  lesson: c1-12-noun-clauses/01-that-wh-clauses
+  q: "Переведи: «Терпеть не могу, когда меня перебивают»."
+  a: "*I can't stand **it** when people interrupt me.*"
+- id: c1m12-despite-fact
+  lesson: c1-12-noun-clauses/02-nouns-adjectives
+  q: "Переведи: «Несмотря на то, что она устала, она закончила отчёт»."
+  a: "*Despite **the fact that** she was tired, she finished the report.* (или *Although she was tired…*)"
+- id: c1m12-discuss-fact
+  lesson: c1-12-noun-clauses/02-nouns-adjectives
+  q: "Найди ошибку: *We discussed that sales had fallen.*"
+  a: "*We discussed **the fact that** sales had fallen.*"
+- id: c1m12-question-of
+  lesson: c1-12-noun-clauses/02-nouns-adjectives
+  q: "Вставь предлог: *the question ___ how we pay for it*."
+  a: "***of***: *the question / issue / matter **of how**…*"
+- id: c1m12-noun-vs-relative
+  lesson: c1-12-noun-clauses/02-nouns-adjectives
+  q: "*the news that the mayor had resigned* и *the news that the courier brought* — где можно *which*?"
+  a: "Только во втором (relative clause: *he brought ___*). В первом — noun clause, законченное предложение."
+- id: c1m12-seem-to-be-that
+  lesson: c1-12-noun-clauses/02-nouns-adjectives
+  q: "Закончи: *The assumption seems ___ prices will rise.*"
+  a: "*seems **to be that***. С пустым *it* — без *to be*: *It seems that…*"
+- id: c1m12-sorry-about-what
+  lesson: c1-12-noun-clauses/02-nouns-adjectives
+  q: "Найди ошибку: *I'm sorry what happened.*"
+  a: "*I'm sorry **about** what happened.* — перед wh-словом нужен предлог; перед *that* — нет."
+- id: c1m12-subjunctive-form
+  lesson: c1-12-noun-clauses/03-subjunctive-uses
+  q: "Как образуется present subjunctive?"
+  a: "Базовая форма для всех лиц: *that he **be**, that she **pay***; отрицание *that he **not be***."
+- id: c1m12-essential-that
+  lesson: c1-12-noun-clauses/03-subjunctive-uses
+  q: "Найди ошибку (формальный стиль): *It is vital that every employee completes the course.*"
+  a: "*It is vital that every employee **complete** / **should complete** the course.*"
+- id: c1m12-insist-two
+  lesson: c1-12-noun-clauses/03-subjunctive-uses
+  q: "*He insisted that she be there* и *He insisted that she was there* — разница?"
+  a: "Первое — требование (сослагательное); второе — утверждение факта."
+- id: c1m12-suggest-data
+  lesson: c1-12-noun-clauses/03-subjunctive-uses
+  q: "*The data suggest that the drug ___ effective* — *be* или *is*?"
+  a: "***is*** — *suggest* здесь «указывать», это утверждение, а не совет."
+- id: c1m12-not-be
+  lesson: c1-12-noun-clauses/03-subjunctive-uses
+  q: "Переведи формально: «Мы рекомендуем не публиковать эти данные»."
+  a: "*We recommend that the data **not be published**.*"
+- id: c1m12-comma-after-that
+  lesson: c1-12-noun-clauses/03-subjunctive-uses
+  q: "Где запятая: *The study found that under laboratory conditions reading speed improved*?"
+  a: "*The study found that**,** under laboratory conditions**,** reading speed improved.* — первая запятая после *that*."
+- id: c1m12-fact-front
+  lesson: c1-12-noun-clauses/03-subjunctive-uses
+  q: "Зачем в академическом тексте *The fact that…* в начале предложения?"
+  a: "Подать информацию как установленный факт и сделать из неё вывод: *The fact that X… suggests that Y.*"
+- id: c1m12-in-its-own-right
+  lesson: c1-12-noun-clauses/04-reading
+  q: "Переведи: *a phenomenon worth studying in its own right*."
+  a: "Явление, которое стоит изучать само по себе."
+- id: c1m12-propose-that
+  lesson: c1-12-noun-clauses/05-writing
+  q: "Начни proposal формально: «Я предлагаю переоборудовать здание в общественный центр»."
+  a: "*I propose that the building **be converted** into a community centre.*"
+- id: c1m12-whether-only
+  lesson: c1-12-noun-clauses/01a-whether-wh-infinitive
+  q: "Где «ли» передаётся только через **whether**, а не *if*?"
+  a: "В начале предложения, после предлога, перед to-инфинитивом, вплотную перед *or not*, после *be* (*The issue is whether…*)."
+- id: c1m12-let-me-know-if
+  lesson: c1-12-noun-clauses/01a-whether-wh-infinitive
+  q: "*Let me know if you need the car* и *Let me know whether you need the car* — разница?"
+  a: "*if* — условие: скажи, **если** понадобится. *whether* — скажи в любом случае, нужна или нет."
+- id: c1m12-why-to
+  lesson: c1-12-noun-clauses/01a-whether-wh-infinitive
+  q: "Найди ошибку: *I don't know why to bother.*"
+  a: "С *why* инфинитив не ставится: *I don't know **why I should bother*** (или *why I bother*)."
+- id: c1m12-all-what
+  lesson: c1-12-noun-clauses/01a-whether-wh-infinitive
+  q: "Найди ошибку: *We did all what we could.*"
+  a: "*We did **all (that)** we could* / *everything we could*. *what* уже значит «то, что»."
+- id: c1m12-which-comment
+  lesson: c1-12-noun-clauses/01a-whether-wh-infinitive
+  q: "«Он извинился публично, что всех удивило» — *what* или *which*?"
+  a: "*He apologised in public, **which** surprised everyone.* Комментарий ко всему предложению — *which*."
+- id: c1m12-what-little
+  lesson: c1-12-noun-clauses/01a-whether-wh-infinitive
+  q: "Переведи книжно: «Те немногие деньги, что у нас были, ушли на аренду»."
+  a: "***What little money** we had went on rent.*"
+- id: c1m12-as-to-whether
+  lesson: c1-12-noun-clauses/01a-whether-wh-infinitive
+  q: "Формально: «Отчёт ничего не говорит о том, надо ли платить за переработку»."
+  a: "*The report says nothing **as to whether** overtime should be paid.*"
+- id: c1m12-told-asked-what-to-do
+  lesson: c1-12-noun-clauses/01a-whether-wh-infinitive
+  q: "*She told me what to do* и *She asked me what to do* — кто должен действовать?"
+  a: "*told me* — я (мне велели). *asked me* — она (спросила, что ей делать)."
+- id: c1m12-mentioned-that
+  lesson: c1-12-noun-clauses/01-that-wh-clauses
+  q: "Почему здесь нельзя опустить *that*: *She mentioned over coffee that she was leaving*?"
+  a: "Между глаголом и придаточным вставка (*over coffee*) — тогда **that** обязателен."
+- id: c1m12-claim-was
+  lesson: c1-12-noun-clauses/02-nouns-adjectives
+  q: "Найди ошибку: *Her claim that she had never seen the documents were false.*"
+  a: "Подлежащее — *her claim*: ***was** false*. Придаточное лишь раскрывает содержание."
+- id: c1m12-suffice-it
+  lesson: c1-12-noun-clauses/03-subjunctive-uses
+  q: "Переведи: «Достаточно сказать, что проект провалился»."
+  a: "***Suffice it to say** (that) the project failed.* — застывшее сослагательное."

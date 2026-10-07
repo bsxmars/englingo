@@ -1,0 +1,36 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении одна ошибка. Исправь её и перепиши предложение целиком."
+hints:
+  - "mind, How about → -ing; Let's, Why don't we → инфинитив без to; Would you like → to + инфинитив."
+items:
+  - q: "Would you mind to close the window?"
+    answers: ["Would you mind closing the window?"]
+    explain: "После **mind** — *-ing*, а не инфинитив: *mind closing*."
+  - q: "How about to meet for lunch tomorrow?"
+    answers: ["How about meeting for lunch tomorrow?"]
+    explain: "**How about** — предлог, после него нужна форма на *-ing*: *How about meeting…?*"
+  - q: "Let's to go to the beach this weekend."
+    answers: ["Let's go to the beach this weekend."]
+    explain: "После **Let's** — инфинитив без *to*: *Let's go*."
+  - q: "Do you like a cup of tea? I've just made some."
+    answers: ["Would you like a cup of tea? I've just made some.", "Do you want a cup of tea? I've just made some.", "Do you fancy a cup of tea? I've just made some."]
+    explain: "Предлагаем чай сейчас → **Would you like…?** *Do you like tea?* — вопрос о вкусах вообще."
+  - q: "The bag looks heavy. I carry it for you."
+    answers: ["The bag looks heavy. I'll carry it for you.", "The bag looks heavy. Let me carry it for you.", "The bag looks heavy. I can carry it for you."]
+    explain: "Спонтанное предложение помощи → **I'll** (*will*), решение в момент речи. Простое настоящее *I carry* так не работает."
+  - q: "Why we don't go to the new Italian restaurant tonight?"
+    answers: ["Why don't we go to the new Italian restaurant tonight?"]
+    explain: "**Why don't we…?** строится как вопрос: *don't* перед подлежащим."
+  - q: "Do you mind if I will open the window?"
+    answers: ["Do you mind if I open the window?"]
+    explain: "После **if** в такой просьбе — настоящее время: *if I open*, без *will*."
+  - q: "My colleague should like to meet you tomorrow."
+    answers: ["My colleague would like to meet you tomorrow."]
+    explain: "*should* вместо *would* возможно только с **I / we** (*We should be delighted*). С другими подлежащими — **would like**."
+  - q: "Shall you help me with these boxes?"
+    answers: ["Will you help me with these boxes?", "Could you help me with these boxes?", "Can you help me with these boxes?", "Would you help me with these boxes?", "Shall I help you with these boxes?"]
+    explain: "**Shall** в вопросах — только с *I / we* (*Shall I…? Shall we…?*). Попросить другого — *Could / Can / Will / Would you…?*, а предложить свою помощь — *Shall I help you…?*"
+  - q: "Would you like going to the theatre with us on Friday?"
+    answers: ["Would you like to go to the theatre with us on Friday?", "Would you like to come to the theatre with us on Friday?"]
+    explain: "Приглашение: **Would you like to + инфинитив**. *Would you like going* — ошибка."

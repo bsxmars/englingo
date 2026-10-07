@@ -1,0 +1,56 @@
+title: "Угадай по частице"
+type: choice
+intro: "Выбери фразовый глагол, который подходит по смыслу. Опирайся на значение частицы: **up** — рост, появление, итог; **out** — исчезновение или обнаружение; **off** — старт, постепенное исчезновение, результат; **over** — переход контроля."
+hints:
+  - "off: set off, wear off, pay off, lay off."
+  - "out: sell out, die out, turn out, break out, point out."
+  - "up: come up, pick up, end up."
+items:
+  - q: "The headache tablet should ___ in about four hours, so take another one then."
+    options: ["wear off", "wear out", "wear down"]
+    answer: 0
+    explain: "Действие лекарства постепенно проходит → **wear off**. *wear out* — износить(ся), *wear down* — измотать."
+  - q: "We didn't plan to stay in Lisbon, but we ___ living there for six years."
+    options: ["ended up", "ended off", "ended out"]
+    answer: 0
+    explain: "**end up** + *-ing* — «в итоге оказаться». *up* — итог, конечная точка."
+  - q: "The tickets for the final ___ within twenty minutes."
+    options: ["sold off", "sold out", "sold up"]
+    answer: 1
+    explain: "**sell out** — распродать всё до конца, *out* — «закончиться». *sell off* — распродать дёшево (обычно имущество, акции)."
+  - q: "All those evenings of practice finally ___ — she got the part."
+    options: ["paid back", "paid off", "paid out"]
+    answer: 1
+    explain: "**pay off** — окупиться, принести результат. *pay back* — вернуть долг."
+  - q: "I'm sorry I can't come to lunch — something urgent has ___ at work."
+    options: ["come over", "come up", "come out"]
+    answer: 1
+    explain: "**come up** — неожиданно возникнуть (о проблеме, деле). *come out* — выйти (книга, фильм), стать известным."
+  - q: "Nobody knows exactly why the dinosaurs ___."
+    options: ["died off", "died down", "died out"]
+    answer: 2
+    explain: "Вымереть полностью как вид → **die out**. *die down* — стихнуть (ветер, шум), *die off* — умирать один за другим."
+  - q: "After the merger, a Swedish company ___ our department."
+    options: ["took over", "took up", "took off"]
+    answer: 0
+    explain: "**take over** — взять под контроль. *over* — переход власти от одного к другому."
+  - q: "My manager ___ that the figures in my report didn't add up."
+    options: ["pointed up", "pointed out", "pointed off"]
+    answer: 1
+    explain: "**point out** — обратить внимание на что-то. *out* — «сделать видимым, ясным»."
+  - q: "The factory ___ two hundred workers when demand fell."
+    options: ["laid off", "laid out", "laid down"]
+    answer: 0
+    explain: "**lay off** — уволить (по сокращению). *lay out* — разложить, спланировать; *lay down* — установить (правила)."
+  - q: "After a slow start, sales began to ___ in the spring."
+    options: ["pick out", "pick up", "pick off"]
+    answer: 1
+    explain: "**pick up** — улучшаться, оживляться (о бизнесе, погоде). *pick out* — выбрать."
+  - q: "Leave the yoghurt — it smells strange. I think it's ___."
+    options: ["gone off", "gone out", "gone over"]
+    answer: 0
+    explain: "О еде **go off** — испортиться. *go out* — погаснуть или выйти из дома; *go over* — просмотреть."
+  - q: "She was ___ away at her laptop until two in the morning."
+    options: ["typing", "turning", "giving"]
+    answer: 0
+    explain: "Глагол + **away** — делать что-то непрерывно и усердно: *typing away, working away*. *give away* — отдать, *turn away* — отвернуться или не пустить."

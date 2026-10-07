@@ -1,0 +1,48 @@
+title: "Перефразирование (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "Два предложения → одно: второе превращается в придаточное с who / which / whose / where / when."
+  - "«…, и большинство из них» → most of whom / most of which."
+items:
+  - q: "That's the woman. Her son is in my class."
+    key: "WHOSE"
+    stem: "That's the woman ___ in my class."
+    answers: ["whose son is"]
+    explain: "*Her son* → **whose son**: «женщина, чей сын…»."
+  - q: "I was born in this hospital."
+    key: "WHERE"
+    stem: "This is the hospital ___ born."
+    answers: ["where I was"]
+    explain: "*in this hospital* → **where**: *the hospital where I was born*."
+  - q: "He didn't call me back. This was very annoying."
+    key: "WHICH"
+    stem: "He didn't call me back, ___ annoying."
+    answers: ["which was very"]
+    explain: "*This* относится ко всей ситуации → **which** про всё предложение."
+  - q: "I have twenty cousins, and I've never met most of them."
+    key: "WHOM"
+    stem: "I have twenty cousins, ___ never met."
+    answers: ["most of whom I have", "most of whom I've"]
+    explain: "*most of them* внутри одного предложения → **most of whom**. Порядок: *most of whom I have never met*."
+  - q: "She lent me two books. Neither of them was interesting."
+    key: "WHICH"
+    stem: "She lent me two books, ___ interesting."
+    answers: ["neither of which was", "neither of which were"]
+    explain: "Вещи → **neither of which**. Формально глагол в единственном числе (*was*), но в речи встречается и *were*."
+  - q: "I spoke to that man yesterday. He was really rude."
+    key: "TO"
+    stem: "The man I ___ really rude."
+    answers: ["spoke to yesterday was"]
+    explain: "Местоимение опущено, предлог в конце придаточного: *the man I spoke **to** yesterday* + основное сказуемое *was*."
+  - q: "Do you remember the day? We first met on that day."
+    key: "WHEN"
+    stem: "Do you remember the day ___ ?"
+    answers: ["when we first met", "when we met for the first time", "when we met first"]
+    explain: "*on that day* → **when**: *the day when we first met*."
+  - q: "The company's founder was only 19. The company is now worth billions."
+    key: "WHOSE"
+    stem: "The company, ___ only 19, is now worth billions."
+    answers: ["whose founder was"]
+    explain: "*The company's founder* → **whose founder**: *whose* работает и для неодушевлённых."

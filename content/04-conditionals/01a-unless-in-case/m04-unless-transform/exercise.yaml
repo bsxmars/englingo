@@ -1,0 +1,64 @@
+title: "Перефразирование: другие «если» (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "unless = if not: следи, чтобы не было двойного отрицания."
+  - "in case — мера предосторожности; after in case — Present Simple (о будущем) или Past Simple (о прошлом)."
+  - "otherwise / but for — скрытое условие: проверь, о каком оно времени."
+items:
+  - q: "If you don't turn the music down, the neighbours will complain."
+    key: "UNLESS"
+    stem: "The neighbours will complain ___ the music down."
+    answers: ["unless you turn"]
+    explain: "*if you don't turn* → **unless you turn**: отрицание уже внутри *unless*."
+  - q: "I'll take an umbrella because it might rain."
+    key: "CASE"
+    stem: "I'll take an umbrella ___ rains."
+    answers: ["in case it"]
+    explain: "«Беру заранее, вдруг пойдёт дождь» → **in case it** rains. После *in case* — Present Simple."
+  - q: "You can borrow my bike, but you must lock it outside the shop."
+    key: "LONG"
+    stem: "You can borrow my bike ___ it outside the shop."
+    answers: ["as long as you lock", "so long as you lock"]
+    explain: "Разрешение с условием → **as long as** + Present Simple: *as long as you lock*."
+  - q: "We'll sign the contract, but only if the price stays the same."
+    key: "PROVIDED"
+    stem: "We'll sign the contract ___ the same."
+    answers: ["provided the price stays", "provided that the price stays", "provided that the price remains", "provided the price remains"]
+    explain: "«Только при условии, что» → **provided (that)** + Present Simple."
+  - q: "It doesn't matter whether you apologise — I won't forgive you."
+    key: "EVEN"
+    stem: "I won't forgive you ___ apologise."
+    answers: ["even if you"]
+    explain: "Неизвестно, извинится ли он, но результат не изменится → **even if you** apologise."
+  - q: "Without your advice, I would have made a terrible mistake."
+    key: "FOR"
+    stem: "___ advice, I would have made a terrible mistake."
+    answers: ["But for your", "If it hadn't been for your", "If it had not been for your", "Had it not been for your"]
+    explain: "«Если бы не твой совет» → **But for your** advice (или *If it hadn't been for your*). Слово *for* — в обоих вариантах."
+  - q: "Leave now or you'll miss the last bus."
+    key: "OTHERWISE"
+    stem: "Leave now; ___ the last bus."
+    answers: ["otherwise you'll miss", "otherwise you will miss"]
+    explain: "*or* → **otherwise**: скрытое условие *if you don't leave now*, результат — *you'll miss*."
+  - q: "I didn't have your number, so I couldn't call you."
+    key: "OTHERWISE"
+    stem: "I didn't have your number; ___ called you."
+    answers: ["otherwise I would have", "otherwise I'd have", "otherwise I could have"]
+    explain: "Скрытое условие о прошлом (*if I had had your number*) → **otherwise I would / could have** called."
+  - q: "I made a backup copy because I thought the laptop might crash."
+    key: "CASE"
+    stem: "I made a backup copy ___ crashed."
+    answers: ["in case the laptop", "just in case the laptop", "in case my laptop", "just in case my laptop"]
+    explain: "Мера предосторожности в прошлом → **in case** + Past Simple: *in case the laptop crashed*."
+  - q: "Imagine you were offered a job abroad. Would you take it?"
+    key: "SUPPOSING"
+    stem: "___ a job abroad, would you take it?"
+    answers: ["Supposing you were offered", "Supposing you got offered", "Supposing someone offered you"]
+    explain: "Гипотеза → **Supposing** + Past Simple (здесь пассив *were offered*), как во втором типе."
+  - q: "You'll only get a refund if you have the receipt."
+    key: "UNLESS"
+    stem: "You won't get a refund ___ the receipt."
+    answers: ["unless you have", "unless you've got", "unless you have got"]
+    explain: "«Только если есть чек» = «не получишь, если нет чека» → **unless you have** the receipt. Главная часть стала отрицательной."

@@ -1,0 +1,55 @@
+title: "Единственное или множественное?"
+type: choice
+intro: "Выбери правильный вариант. Смотри не на окончание слова, а на то, единственное это число или множественное по смыслу английской грамматики."
+hints:
+  - "one of + мн. число → глагол в единственном. a number of → мн., the number of → ед."
+  - "news, physics, maths — единственное; police, people, jeans, scissors — множественное."
+items:
+  - q: "One of my neighbours ___ a pilot."
+    options: ["is", "are"]
+    answer: 0
+    explain: "Подлежащее — **one**, а не *neighbours* → глагол в единственном числе: *is*."
+  - q: "A number of students ___ complained about the new timetable."
+    options: ["has", "have"]
+    answer: 1
+    explain: "**a number of** = «несколько, ряд» → глагол во множественном числе: *have*."
+  - q: "The number of people working from home ___ risen sharply."
+    options: ["has", "have"]
+    answer: 0
+    explain: "**the number of** = «количество», это одно число → *has*."
+  - q: "The news ___ better than we expected."
+    options: ["was", "were"]
+    answer: 0
+    explain: "**news** только выглядит как множественное, на деле это неисчисляемое → *was*."
+  - q: "Physics ___ never been my strong point."
+    options: ["has", "have"]
+    answer: 0
+    explain: "Названия наук на *-ics* (*physics, economics, maths*) — единственное число → *has*."
+  - q: "My new jeans ___ already faded."
+    options: ["has", "have"]
+    answer: 1
+    explain: "**jeans** — pair noun, всегда множественное число → *have*."
+  - q: "The police ___ questioning two men about the robbery."
+    options: ["is", "are"]
+    answer: 1
+    explain: "**police** всегда с глаголом во множественном числе: *The police are…*"
+  - q: "Twenty kilometres ___ too far to walk in this heat."
+    options: ["is", "are"]
+    answer: 0
+    explain: "Расстояние воспринимается как одна величина → глагол в единственном числе: *is*."
+  - q: "Can you give me ___? I need to write down a phone number."
+    options: ["a paper", "a piece of paper", "papers"]
+    answer: 1
+    explain: "Бумага для письма — неисчисляемое *paper*, один лист — **a piece of paper**. *a paper* — газета или научная статья, *papers* — документы."
+  - q: "Be careful — there's broken ___ on the kitchen floor."
+    options: ["a glass", "glass", "glasses"]
+    answer: 1
+    explain: "Стекло как материал — неисчисляемое **glass**. *a glass* — стакан, *glasses* — стаканы или очки."
+  - q: "This species of frog ___ only in one small valley in Peru."
+    options: ["lives", "live"]
+    answer: 0
+    explain: "**species** имеет одну форму для обоих чисел; здесь *This species* — единственное → *lives*."
+  - q: "Every member of staff ___ a parking space."
+    options: ["has", "have"]
+    answer: 0
+    explain: "После **every** + существительное — глагол в единственном числе: *has*."

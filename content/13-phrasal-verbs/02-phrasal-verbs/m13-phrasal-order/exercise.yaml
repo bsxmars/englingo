@@ -1,0 +1,37 @@
+title: "Собери предложение: где стоит местоимение?"
+type: order
+intro: "Собери предложение из слов. Помни: местоимение ставится **между** глаголом и частицей, но **после** предлога у предложных глаголов."
+hints:
+  - "turn it off, pick me up, throw them away — местоимение внутри."
+  - "look after them, wait for her — предлог не отделяется от глагола."
+items:
+  - q: "«Я выбросил их вчера» (старые журналы)."
+    answers: ["I threw them away yesterday", "Yesterday I threw them away"]
+    explain: "Местоимение *them* — между глаголом и частицей: *threw **them** away*."
+  - q: "«Сделай потише, пожалуйста» (про телевизор)."
+    answers: ["Please turn it down", "Turn it down please"]
+    explain: "*turn **it** down* — местоимение внутри фразового глагола."
+  - q: "«Я заберу тебя в восемь»."
+    answers: ["I will pick you up at eight", "At eight I will pick you up"]
+    explain: "*pick **you** up* — не ~~pick up you~~."
+  - q: "«Мне нужно это обдумать» (о предложении работы)."
+    answers: ["I need to think it over"]
+    explain: "*think **it** over* — обдумать от начала до конца."
+  - q: "«Она отклонила их предложение»."
+    answers: ["She turned down their offer", "She turned their offer down"]
+    explain: "Дополнение-существительное может стоять и после частицы, и между: *turned down their offer* = *turned their offer down*."
+  - q: "«Найди его в словаре» (это слово)."
+    answers: ["Look it up in the dictionary"]
+    explain: "*look **it** up* — фразовый глагол, местоимение внутри."
+  - q: "«Не откладывай это до завтра»."
+    answers: ["Don't put it off until tomorrow"]
+    explain: "*put **it** off* — отложить; местоимение внутри."
+  - q: "«Кто присматривает за ними сегодня вечером?» (за детьми)."
+    answers: ["Who is looking after them tonight"]
+    explain: "*look after* — **предложный** глагол: местоимение после предлога, *looking after **them***, не ~~looking them after~~."
+  - q: "«Он бросил курить в прошлом году»."
+    answers: ["He gave up smoking last year", "Last year he gave up smoking"]
+    explain: "*give up* + *-ing*: *gave up **smoking***."
+  - q: "«Она примерила платье» (но не купила его)."
+    answers: ["She tried the dress on", "She tried on the dress"]
+    explain: "*try on* — примерить. С существительным оба порядка возможны: *tried the dress on* = *tried on the dress*."

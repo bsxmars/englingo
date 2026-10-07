@@ -1,0 +1,92 @@
+title: "The lost art of losing your way"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. Вопросы с вариантами — в формате C1 Advanced, Part 5; в остальных впиши слово или фразу из текста."
+hints:
+  - "Вопросы идут в порядке текста."
+  - "Верный вариант перефразирует текст; неверные часто повторяют его слова, но искажают смысл."
+text: |
+  ## The lost art of losing your way
+
+  When did you last get properly lost? I don't mean taking a wrong turning and correcting it within seconds, but the slow, stomach-tightening realisation that you have no idea where you are. For most people under forty, the honest answer is probably "never". Somewhere between the arrival of the first satellite navigation systems and the moment smartphones became indispensable, getting lost went from being an everyday inconvenience to something close to a historical curiosity.
+
+  On the face of it, this is pure progress. Few of us miss standing at a crossroads in the rain, turning a soggy map upside down. Delivery drivers no longer waste hours circling unfamiliar housing estates; tourists wander through medieval labyrinths without a moment's anxiety. And yet a growing body of research suggests that by handing over the task of navigation to our phones, we may have given up something we did not know we valued.
+
+  The most frequently cited evidence comes from studies of London taxi drivers. To obtain a licence, they must master "the Knowledge": the layout of some 25,000 streets within a six-mile radius of Charing Cross, along with thousands of landmarks. Brain scans carried out around the turn of the century found that the hippocampus, a region associated with spatial memory, was noticeably larger in experienced cabbies than in comparable adults. More strikingly, it appeared to grow over the years the drivers spent learning their routes. Bus drivers, who follow the same fixed routes day after day, showed no such change.
+
+  Researchers are careful not to overstate the point. Nobody is claiming that a week of following a blue dot across a screen will shrink anyone's brain. But experiments in which volunteers find their way through a virtual town, either with turn-by-turn instructions or without them, tend to point in the same direction. Those who are told where to go reach their destination just as reliably, yet afterwards they are far less able to sketch the route, estimate distances or point towards a starting point they passed only minutes earlier. They have arrived, in other words, without ever really having been anywhere.
+
+  Part of the explanation lies in where our attention goes. A navigator who relies on memory has to keep an eye on the surroundings: the church on the left, the river running alongside the road, the hill rising above the rooftops. Each of these becomes a mental anchor, and together they form what psychologists call a cognitive map, a flexible picture of how places relate to one another. A phone user, by contrast, looks mostly at the phone. The city is reduced to a sequence of instructions: in 200 metres, turn right; continue past the station. The streets themselves fade into the background.
+
+  Does any of this matter outside the laboratory? Some argue that it does not. Humans have always offloaded mental work onto tools, from shopping lists to calculators, and nobody seriously regards the decline of mental arithmetic as a threat to civilisation. Navigation, the argument runs, is simply another chore we have been freed from. Besides, the apps are very good, and getting better all the time.
+
+  Others are less relaxed. Spatial skills, they point out, are not confined to finding the nearest chemist's. They are closely bound up with how we remember events, which are almost always stored together with a sense of where they happened, and some researchers have suggested links with the kind of abstract reasoning used in science and engineering. There are also more practical concerns. Mountain rescue teams report a steady rise in call-outs involving walkers who set off with nothing except a phone, only to find themselves out of battery, out of signal and entirely out of their depth.
+
+  None of this means we should throw our phones into the nearest canal. A more realistic suggestion, made by several of the researchers involved, is to treat navigation the way many people now treat exercise: as something worth doing deliberately, precisely because modern life no longer demands it. Walk to a new café without checking the route first. Glance at the map before you leave, then put the phone away and rely on your memory of it. Notice which way the river flows.
+
+  You may well take a wrong turning or two. You may even, briefly, get lost. But that moment of uncertainty, uncomfortable as it is, is exactly when the brain starts paying attention again, and when a place stops being a set of directions and becomes somewhere you actually know.
+items:
+  - q: "What is the writer's main point in the first paragraph?"
+    options:
+      - "Younger people are worse at reading maps than older generations."
+      - "Getting lost has become an unusual experience for many people."
+      - "Satellite navigation systems were slow to become popular."
+      - "Being lost is more frightening than most people admit."
+    answer: 1
+    explain: "*getting lost went from being an everyday inconvenience to something close to a historical curiosity* — заблудиться стало редкостью. О картах и о страхе в абзаце говорится лишь попутно."
+  - q: "The phrase 'On the face of it' at the start of paragraph 2 signals that the writer"
+    options:
+      - "is about to question a conclusion that seems obvious."
+      - "fully agrees with the people who welcome the change."
+      - "is going to describe the appearance of modern cities."
+      - "regrets the disappearance of paper maps."
+    answer: 0
+    explain: "*On the face of it* — «на первый взгляд»; дальше идёт *And yet…*, то есть автор сомневается в очевидном выводе о «чистом прогрессе»."
+  - q: "What does the comparison between taxi drivers and bus drivers suggest?"
+    options:
+      - "Driving for long hours has a harmful effect on memory."
+      - "Taxi drivers were chosen because they already had unusual brains."
+      - "The change in the brain is linked to learning routes, not to driving as such."
+      - "Bus drivers are less experienced than taxi drivers."
+    answer: 2
+    explain: "У водителей автобусов, которые ездят по одним и тем же маршрутам, изменений нет, а у таксистов отдел мозга рос **по мере** запоминания улиц. Значит, дело в обучении маршрутам."
+  - q: "What does the writer mean by 'They have arrived … without ever really having been anywhere' in paragraph 4?"
+    options:
+      - "The volunteers did not complete the experiment."
+      - "The volunteers reached the goal but formed little sense of the place they crossed."
+      - "The virtual town did not resemble any real place."
+      - "The volunteers took a longer route than necessary."
+    answer: 1
+    explain: "Те, кто шёл по подсказкам, дошли так же надёжно, но не могли нарисовать маршрут или показать направление — путь не оставил «карты» в голове."
+  - q: "According to paragraph 5, why do phone users build weaker mental maps?"
+    options:
+      - "Phone maps contain too few landmarks."
+      - "They walk faster and notice less."
+      - "Their attention is focused on instructions rather than on their surroundings."
+      - "They tend to use unfamiliar routes more often."
+    answer: 2
+    explain: "*A phone user… looks mostly at the phone… The streets themselves fade into the background* — внимание уходит на инструкции, а не на ориентиры."
+  - q: "In paragraph 7, those who are 'less relaxed' argue that"
+    options:
+      - "spatial skills are connected with other mental abilities, such as memory."
+      - "navigation apps are becoming less reliable."
+      - "rescue teams should refuse to help walkers without maps."
+      - "people should stop using calculators as well as phones."
+    answer: 0
+    explain: "*Spatial skills… are not confined to finding the nearest chemist's. They are closely bound up with how we remember events* — пространственные навыки связаны с памятью и мышлением."
+  - q: "What does the writer recommend in the final paragraphs?"
+    options:
+      - "Giving up navigation apps entirely."
+      - "Choosing to practise finding the way without constant help from technology."
+      - "Taking up a sport that involves map reading."
+      - "Getting lost on purpose as often as possible."
+    answer: 1
+    explain: "*treat navigation the way many people now treat exercise: as something worth doing deliberately* — практиковаться сознательно. Выбрасывать телефон автор прямо не советует (*None of this means we should throw our phones…*)."
+  - q: "Find a phrasal verb in paragraph 2 that means 'giving (a task or responsibility) to someone else'."
+    answers: ["handing over", "hand over", "handing over the task"]
+    explain: "*by **handing over** the task of navigation to our phones* — передавая задачу. После предлога *by* — герундий."
+  - q: "Find a phrase in paragraph 7 that means 'in a situation that is too difficult for them to deal with'."
+    answers: ["out of their depth", "entirely out of their depth", "out of one's depth"]
+    explain: "**out of one's depth** — «не по силам», буквально «там, где не достаёшь до дна». Автор обыгрывает три *out of* подряд: *out of battery, out of signal, out of their depth*."
+  - q: "Find a verb in paragraph 6 that means 'transferred (work or a burden) to something else'."
+    answers: ["offloaded", "offload"]
+    explain: "*Humans have always **offloaded** mental work onto tools* — переложили. Предлог движения *onto* подчёркивает «перекладывание»."

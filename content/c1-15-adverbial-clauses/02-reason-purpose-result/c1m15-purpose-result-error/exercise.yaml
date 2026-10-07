@@ -1,0 +1,41 @@
+title: "Найди ошибку: причина, цель, результат"
+type: error
+intro: "В каждом предложении **одна** ошибка в союзе или конструкции. Исправь её и отправь предложение целиком."
+hints:
+  - "Один союз на одну связь: не because… so."
+  - "in order not to, so as not to; in order for + сущ. + to."
+  - "such + именная группа; so + прилагательное / наречие / many / much."
+items:
+  - q: "Because there were no streetlights, so I couldn't see where I was going."
+    answers: ["Because there were no streetlights, I couldn't see where I was going.", "There were no streetlights, so I couldn't see where I was going."]
+    explain: "Два союза на одну связь. Либо *Because…*, либо *…, so…*."
+  - q: "She whispered in order to not disturb the others."
+    answers: ["She whispered in order not to disturb the others.", "She whispered so as not to disturb the others.", "She whispered so that she wouldn't disturb the others.", "She whispered so she wouldn't disturb the others."]
+    explain: "Отрицание цели: **in order not to** — *not* перед *to*."
+  - q: "In order the team to succeed, everyone must pull their weight."
+    answers: ["In order for the team to succeed, everyone must pull their weight."]
+    explain: "У цели своё подлежащее → **in order for** + *the team* + *to*."
+  - q: "It was so nice weather that we had lunch in the garden."
+    answers: ["It was such nice weather that we had lunch in the garden.", "The weather was so nice that we had lunch in the garden."]
+    explain: "Перед именной группой (*nice weather*) — **such**, не *so*."
+  - q: "They sprayed the crops for kill the insects."
+    answers: ["They sprayed the crops to kill the insects.", "They sprayed the crops in order to kill the insects.", "They sprayed the crops so as to kill the insects."]
+    explain: "Цель действия → **to** + инфинитив. ~~for kill~~ — калька с «для»."
+  - q: "I'm saving every penny so that I could buy a flat next year."
+    answers: ["I'm saving every penny so that I can buy a flat next year.", "I'm saving every penny so that I will be able to buy a flat next year.", "I'm saving every penny so I can buy a flat next year.", "I'm saving every penny so that I'll be able to buy a flat next year."]
+    explain: "Главная часть в настоящем → **can / will** после *so that*. *could* — после прошедшего времени."
+  - q: "For it was raining heavily, we decided to stay indoors."
+    answers: ["As it was raining heavily, we decided to stay indoors.", "Since it was raining heavily, we decided to stay indoors.", "Because it was raining heavily, we decided to stay indoors.", "We decided to stay indoors, for it was raining heavily."]
+    explain: "**for** («ибо») не начинает предложение. Впереди — *As / Since / Because*."
+  - q: "There were so much people that we couldn't get into the hall."
+    answers: ["There were so many people that we couldn't get into the hall.", "There were such a lot of people that we couldn't get into the hall."]
+    explain: "*people* — исчисляемое → **so many**."
+  - q: "Now as we've got a car, we can visit my parents more often."
+    answers: ["Now that we've got a car, we can visit my parents more often.", "Now we've got a car, we can visit my parents more often.", "As we've got a car, we can visit my parents more often."]
+    explain: "Новая ситуация в настоящем → **now (that)**, не *now as*."
+  - q: "The lecturer spoke such fast that nobody could take notes."
+    answers: ["The lecturer spoke so fast that nobody could take notes.", "The lecturer spoke so quickly that nobody could take notes."]
+    explain: "Перед наречием — **so**: *so fast*. *such* — только перед существительным."
+  - q: "Please explain it in such way that everyone can follow."
+    answers: ["Please explain it in such a way that everyone can follow."]
+    explain: "Устойчивая фраза **in such a way that** — с артиклем *a*."

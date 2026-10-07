@@ -1,0 +1,45 @@
+title: "Essay: reducing traffic in cities"
+type: writing
+intro: "Напиши эссе в формате C1 Advanced, Part 1. Покажи логику связками разных типов, а главные мысли выдели инверсией и cleft-конструкциями."
+prompt: |
+  Your class has attended a panel discussion on **how city authorities could reduce traffic congestion**. You have made the notes below.
+
+  **Methods discussed:**
+
+  - charging drivers to enter the city centre
+  - investing in public transport
+  - creating safe cycle routes
+
+  **Some opinions expressed in the discussion:**
+
+  - "Drivers only change their habits when it costs them money."
+  - "There's no point asking people to leave their cars if the buses are unreliable."
+  - "Cycling is fine for the young and fit, but not for everyone."
+
+  Write an **essay** discussing **two** of the methods in your notes. You should **explain which method you think is more effective**, giving reasons to support your answer.
+
+  You may, if you wish, make use of the opinions expressed in the discussion, but you should use your own words as far as possible.
+
+  Write your essay in **220–260 words**.
+words: [220, 260]
+target_grammar:
+  - "Связки разных типов: moreover / furthermore, however / nevertheless, on the contrary, consequently / hence / thereby, in the meantime"
+  - "Инверсия: Not only…, Only by / Only when…, Seldom…, Not until…"
+  - "Cleft sentences: What … is…, It is … that…, The reason … is that…"
+checklist:
+  - "Вступление обозначает проблему и называет два выбранных метода; нет готового ответа «в лоб» в первой же фразе."
+  - "Каждому методу посвящён отдельный абзац с доводами «за» и «против»."
+  - "В заключении ясно сказано, какой метод эффективнее и почему."
+  - "Есть связки минимум четырёх типов: добавление, контраст, следствие, перечисление или итог."
+  - "Есть хотя бы одна инверсия и одна cleft-конструкция, и они стоят там, где действительно нужен акцент."
+  - "Нет comma splice: however, therefore, moreover отделены от предыдущего предложения точкой или точкой с запятой."
+  - "Формальный регистр: без сокращений и разговорных связок вроде besides, anyway, plus."
+  - "Объём 220–260 слов."
+model_answer: |
+  Few issues frustrate city dwellers more than traffic congestion. Two remedies are frequently proposed: charging drivers to enter the centre and investing heavily in public transport. While both have merit, they differ considerably in their long-term impact.
+
+  A congestion charge has the obvious advantage of producing results almost immediately. Since drivers are reluctant to pay, many switch to other forms of transport or travel at quieter times. Moreover, the revenue raised can be reinvested in the city's infrastructure. However, such charges are often criticised as unfair, since they hit low-income drivers hardest while the wealthy continue to drive as before. Unless alternatives are in place, the charge may therefore simply penalise those who have no other option.
+
+  Investment in public transport, by contrast, addresses the root of the problem. What most drivers want is not a car as such but a reliable way of getting to work. Only when buses and trains are frequent, affordable and punctual will people willingly leave their cars at home. Admittedly, such investment is costly and takes years to show results; in the meantime, congestion is likely to persist.
+
+  On balance, it is public transport that offers the more lasting solution. A charge may reduce traffic in the short term, but it does nothing to change the underlying need to travel. Not until people have a genuinely attractive alternative will they abandon their cars, and providing that alternative should consequently be the authorities' priority.

@@ -1,0 +1,44 @@
+title: "Причина, цель, результат: одно слово"
+type: gap
+intro: "Впиши в пропуск **одно** слово, как в C1 Advanced Part 2 (open cloze). Где подходят несколько слов, засчитывается любое."
+hints:
+  - "in that — «в том смысле, что»; seeing that / now that — «раз уж»."
+  - "lest и for fear of — цель «чтобы не»."
+  - "such перед именной группой, so перед прилагательным и many / much / few / little."
+items:
+  - q: "The new design is a clear improvement ___ that it uses far less energy."
+    answers: ["in"]
+    explain: "**in that** = «в том смысле, что»: уточняет, *в чём именно* улучшение. Формальный союз для эссе и отчётов."
+  - q: "___ that you're here, you might as well give me a hand with these boxes."
+    answers: ["Seeing", "Now"]
+    explain: "**Seeing that** — разговорное «раз уж»; **Now that** — «теперь, когда». Оба подходят по смыслу."
+  - q: "She recorded the lecture ___ fear of missing any of the key points."
+    answers: ["for"]
+    explain: "**for fear of + -ing** = «чтобы не…, боясь что». Предлог *for* здесь фиксирован."
+  - q: "They hid the documents ___ they be discovered by the inspectors."
+    answers: ["lest"]
+    explain: "**lest** + голый инфинитив (или *should*) = «чтобы не». Очень книжно; после него не нужно *not*."
+  - q: "___ was the demand for tickets that the website crashed within minutes."
+    answers: ["Such"]
+    explain: "Фронтирование с инверсией: **Such was the demand that…** = «спрос был так велик, что…»."
+  - q: "The flight was cancelled ___ to a technical fault."
+    answers: ["owing", "due"]
+    explain: "**owing to / due to** + существительное — причина. Строгие пуристы ставят *due to* только после *be*, но после глагола оно давно нормально."
+  - q: "He is so experienced ___ engineer that the company can't afford to lose him."
+    answers: ["an"]
+    explain: "Книжный порядок **so + прилагательное + a/an + существительное**: *so experienced **an** engineer*."
+  - q: "The instructions were written in ___ a way that nobody could follow them."
+    answers: ["such"]
+    explain: "**in such a way that** — фиксированная формула; *that* в ней не опускается."
+  - q: "We'll need to leave at six so ___ to avoid the rush hour."
+    answers: ["as"]
+    explain: "**so as to** = *in order to*, нейтрально-формальное. Отрицание — *so as **not** to*."
+  - q: "___ that interest rates are rising, this may not be the best time to borrow."
+    answers: ["Given", "Seeing", "Now"]
+    explain: "**Given that** = «учитывая, что» — нейтрально-формально. *Seeing that* и *Now that* тоже грамматичны, но звучат разговорнее."
+  - q: "There was ___ little interest in the course that it had to be cancelled."
+    answers: ["so"]
+    explain: "Перед **many / much / few / little** — **so**, а не *such*: *so little interest*."
+  - q: "In order ___ the system to work properly, all users must update their passwords."
+    answers: ["for"]
+    explain: "У цели своё подлежащее → **in order for + сущ. + to-инфинитив**."

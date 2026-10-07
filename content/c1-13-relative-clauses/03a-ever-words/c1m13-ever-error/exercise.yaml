@@ -1,0 +1,41 @@
+title: "Найди ошибку: whatever, however, no matter"
+type: error
+intro: "В каждом предложении **одна** ошибка. Исправь и отправь предложение целиком."
+hints:
+  - "После -ever нет would и will, если речь о будущем или общем случае."
+  - "however + прилагательное без разрыва."
+  - "no matter — только уступка и только с wh-словом."
+items:
+  - q: "Whatever you would choose, the price stays the same."
+    answers: ["Whatever you choose, the price stays the same."]
+    explain: "После *whatever* — Present: **Whatever you choose**. «бы» из русского не переводится."
+  - q: "However I try hard, I can't remember his surname."
+    answers: ["However hard I try, I can't remember his surname."]
+    explain: "Наречие идёт сразу за *however*: **However hard I try**."
+  - q: "Help yourself to no matter what you want from the fridge."
+    answers: ["Help yourself to whatever you want from the fridge."]
+    explain: "Здесь именная роль («всё, что хочешь») → **whatever**. *no matter what* только для уступки."
+  - q: "The refund will be paid to whomever booked the tickets."
+    answers: ["The refund will be paid to whoever booked the tickets."]
+    explain: "Слово — подлежащее для *booked* → **whoever**, хотя перед ним предлог."
+  - q: "There is no whatsoever reason to panic."
+    answers: ["There is no reason whatsoever to panic.", "There is no reason whatever to panic."]
+    explain: "Усилитель стоит **после** существительного: *no reason whatsoever*."
+  - q: "No matter he says, don't sign anything today."
+    answers: ["No matter what he says, don't sign anything today.", "Whatever he says, don't sign anything today."]
+    explain: "После *no matter* обязательно wh-слово: **No matter what** he says."
+  - q: "Whatever the weather will be like tomorrow, the ceremony will take place outdoors."
+    answers: ["Whatever the weather is like tomorrow, the ceremony will take place outdoors."]
+    explain: "Даже о будущем после *whatever* — Present: **is like**."
+  - q: "You can have the blue one or the red one, whatever you like best."
+    answers: ["You can have the blue one or the red one, whichever you like best.", "You can have the blue one or the red one, whichever you like better."]
+    explain: "Выбор из двух названных предметов → **whichever**."
+  - q: "However much times I tell him, he still forgets to lock the door."
+    answers: ["However many times I tell him, he still forgets to lock the door."]
+    explain: "*times* — исчисляемое → **However many** times."
+  - q: "Wherever possibly, applications should be submitted online."
+    answers: ["Wherever possible, applications should be submitted online."]
+    explain: "Устойчивая формула — **Wherever possible** (прилагательное, опущено *it is*), не наречие."
+  - q: "No matter what you wear to the party."
+    answers: ["It doesn't matter what you wear to the party.", "It does not matter what you wear to the party."]
+    explain: "*No matter what…* не бывает отдельным предложением. Самостоятельное «неважно, что…» — **It doesn't matter what…**"

@@ -1,0 +1,15 @@
+level: c1
+book: book-advanced
+title: "C1 · 1. Предложения и времена"
+summary: "Строишь сложные предложения без калек: правильно согласуешь подлежащее и сказуемое, знаешь, после каких глаголов нужен to, и выбираешь время по смыслу, а не по маркеру — вплоть до be to, be about to и будущего в прошедшем."
+topics:
+  - "Структура предложения: согласование, переходные и непереходные глаголы, два дополнения, глаголы с придаточными"
+  - "Linking verbs: seem, appear, turn, grow, come to, remain"
+  - "Сложное предложение: comma splice, парные союзы и параллелизм, один союз на связь, эллипсис"
+  - "Сочинённые и сложноподчинённые предложения, эллипсис"
+  - "Present и Present Perfect, Past и Past Perfect в тонкостях: глаголы состояния, процесс и результат"
+  - "Будущее: will, going to, Present Continuous, Future Continuous и Perfect, be to, be about to, be on the point of, future in the past"
+sources:
+  - {title: "Oxford Practice Grammar Advanced — предложения и времена", url: "https://elt.oup.com/catalogue/items/global/grammar_vocabulary/oxford_practice_grammar/"}
+  - {title: "Cambridge C1 Advanced — формат экзамена", url: "https://www.cambridgeenglish.org/exams-and-tests/advanced/"}
+  - {title: "Perfect English Grammar: Present Perfect или Past Simple", url: "https://www.perfect-english-grammar.com/past-simple-present-perfect-1.html"}

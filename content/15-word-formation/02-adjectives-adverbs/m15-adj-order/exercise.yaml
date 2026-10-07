@@ -1,0 +1,36 @@
+title: "Собери предложение с производными словами"
+type: order
+intro: "Собери предложение из слов. В каждом есть прилагательное или наречие, образованное с помощью суффикса."
+hints:
+  - "Прилагательное стоит перед существительным или после be; наречие образа действия — обычно после глагола и дополнения."
+items:
+  - q: "«Её карьера была очень успешной»."
+    answers: ["Her career was very successful"]
+    explain: "*success → **successful***: после *was very* — прилагательное."
+  - q: "«Пожалуйста, внимательно прочитайте инструкцию»."
+    answers: ["Please read the instructions carefully", "Please carefully read the instructions"]
+    explain: "Наречие *carefully* обычно ставится после дополнения: *read the instructions carefully*."
+  - q: "«Музей знаменит своей исторической коллекцией»."
+    answers: ["The museum is famous for its historical collection"]
+    explain: "*famous for* + *historical* (относящийся к истории). *fame → famous*, *history → historical*."
+  - q: "«Невозможно точно предсказать погоду»."
+    answers: ["It is impossible to predict the weather accurately", "It is impossible to accurately predict the weather"]
+    explain: "*It is impossible to…* + наречие *accurately* в конце (или перед глаголом)."
+  - q: "«Без интернета это приложение совершенно бесполезно»."
+    answers: ["This app is completely useless without the internet", "Without the internet this app is completely useless"]
+    explain: "*use → useless* (*-less* = без пользы). Наречие *completely* — перед прилагательным."
+  - q: "«Она была очень отзывчивой и дружелюбной»."
+    answers: ["She was extremely helpful and friendly", "She was extremely friendly and helpful"]
+    explain: "*helpful* (*-ful*) и *friendly* — оба прилагательные, хотя *friendly* оканчивается на *-ly*."
+  - q: "Вопрос: «Можно ли пить воду из-под крана в этой стране?»"
+    answers: ["Is tap water drinkable in this country", "Is tap water in this country drinkable"]
+    explain: "*drinkable* = пригодный для питья (*-able*). В вопросе *is* выходит вперёд."
+  - q: "«Цены резко выросли после объявления»."
+    answers: ["Prices rose dramatically after the announcement", "After the announcement prices rose dramatically"]
+    explain: "*dramatic → **dramatically*** (*-ic* → *-ically*), наречие после глагола. *announce → announcement*."
+  - q: "«Он дал очень творческий и оригинальный ответ»."
+    answers: ["He gave a very creative and original answer", "He gave a very original and creative answer"]
+    explain: "*create → **creative*** (*-ive*), *origin → **original*** (*-al*)."
+  - q: "«К сожалению, национальная команда проиграла финал»."
+    answers: ["Unfortunately the national team lost the final", "The national team unfortunately lost the final", "The national team lost the final unfortunately"]
+    explain: "*fortune → fortunate → **unfortunately***: приставка + суффикс. *nation → **national***."

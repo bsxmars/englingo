@@ -1,0 +1,57 @@
+title: "Перефразируй с производным словом"
+type: transform
+intro: "Закончи второе предложение так, чтобы смысл совпал с первым. Используй слово в скобках **без изменений**, всего 2–5 слов. Ключевое слово — производное от слова в первом предложении."
+hints:
+  - "Глагол часто превращается в существительное с make / have / give: decide → make a decision."
+  - "Не меняй форму ключевого слова."
+items:
+  - q: "They decided to close the factory."
+    key: "DECISION"
+    stem: "They made ___ the factory."
+    answers: ["the decision to close", "a decision to close"]
+    explain: "*decide to do* = **make a / the decision to do**."
+  - q: "She isn't patient enough to be a teacher."
+    key: "PATIENCE"
+    stem: "She doesn't have ___ to be a teacher."
+    answers: ["enough patience", "the patience"]
+    explain: "*not patient enough* = *doesn't have **enough patience*** (или *the patience*) *to*."
+  - q: "I'm sure he'll succeed."
+    key: "SUCCESSFUL"
+    stem: "I'm sure he ___."
+    answers: ["will be successful", "is going to be successful"]
+    explain: "*succeed* (глагол) = *be **successful*** (прилагательное после *be*)."
+  - q: "Nobody explained the changes to us."
+    key: "EXPLANATION"
+    stem: "We weren't ___ the changes."
+    answers: ["given an explanation of", "given any explanation of", "given an explanation for", "given any explanation for"]
+    explain: "Пассив *give someone an explanation*: *We weren't **given an explanation of / for***."
+  - q: "It's against the law to drive without insurance."
+    key: "ILLEGAL"
+    stem: "It ___ without insurance."
+    answers: ["is illegal to drive"]
+    explain: "*against the law* = **illegal**: *It is illegal to drive…*"
+  - q: "I don't agree with you at all."
+    key: "DISAGREE"
+    stem: "I ___ you."
+    answers: ["completely disagree with", "totally disagree with", "strongly disagree with", "entirely disagree with", "disagree completely with", "disagree totally with", "disagree entirely with"]
+    explain: "*don't agree at all* = **completely / totally / strongly disagree with**."
+  - q: "The film was so long that people got bored."
+    key: "LENGTH"
+    stem: "People got bored because of ___ the film."
+    answers: ["the length of"]
+    explain: "*long → **length***: *because of the length of the film*."
+  - q: "He communicates very well."
+    key: "COMMUNICATION"
+    stem: "He has ___ skills."
+    answers: ["very good communication", "excellent communication", "really good communication", "great communication", "good communication"]
+    explain: "*communicates well* = *has good **communication** skills* — существительное в роли определения."
+  - q: "It isn't possible to finish the report today."
+    key: "IMPOSSIBLE"
+    stem: "It ___ finish the report today."
+    answers: ["is impossible to"]
+    explain: "*not possible* = **impossible**. Конструкция *It is impossible to do*."
+  - q: "Everyone was very kind to us during our stay."
+    key: "KINDNESS"
+    stem: "We were shown ___ by everyone during our stay."
+    answers: ["great kindness", "a lot of kindness", "a great deal of kindness", "such kindness", "real kindness", "so much kindness"]
+    explain: "*kind* → **kindness**: *show someone kindness* — проявлять доброту; в пассиве *we were shown great kindness*."

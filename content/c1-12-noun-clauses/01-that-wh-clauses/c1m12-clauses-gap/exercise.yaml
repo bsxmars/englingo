@@ -1,0 +1,44 @@
+title: "That, what, whether или it?"
+type: gap
+intro: "Впиши **одно** слово: *that, what, whether, if, who, how, why, it, as*. Если подходят несколько слов, засчитается любое."
+hints:
+  - "what = «то, что»; that = «что» (факт); whether / if = «ли»."
+  - "В начале предложения — that или whether, но не if."
+  - "find / think / consider + it + прилагательное + that…"
+items:
+  - q: "___ surprised me most was how calm she remained throughout."
+    answers: ["What"]
+    explain: "«То, что меня удивило» → **What** — придаточное-подлежащее без существительного."
+  - q: "___ the company knew about the defect for years is now beyond doubt."
+    answers: ["That"]
+    explain: "Придаточное-факт в роли подлежащего начинается с **That**; опустить его нельзя."
+  - q: "___ or not the project goes ahead depends on the minister."
+    answers: ["Whether"]
+    explain: "В начале предложения и с *or not* — только **Whether**."
+  - q: "We were never told ___ had made the decision — the board or the chief executive."
+    answers: ["who"]
+    explain: "Вопрос о человеке-исполнителе → **who**; он же подлежащее, поэтому порядок прямой."
+  - q: "I can't stand ___ when people check their phones during a meeting."
+    answers: ["it"]
+    explain: "Пустое дополнение после глаголов отношения: *can't stand **it** when…*"
+  - q: "The investigators found ___ strange that the alarm had been switched off."
+    answers: ["it"]
+    explain: "*find + **it** + прилагательное + that…* — без *it* предложение неграмматично."
+  - q: "The minister refused to comment on ___ the report recommended."
+    answers: ["what"]
+    explain: "После предлога *on* — wh-слово: **what** = «то, что». *that* после предлога невозможно."
+  - q: "Her colleagues had no idea ___ she had been offered the job until she handed in her notice."
+    answers: ["that"]
+    explain: "Ей **действительно** предложили работу — это факт, которого коллеги не знали → **that**."
+  - q: "It makes little difference ___ the guests arrive at seven or at eight."
+    answers: ["whether", "if"]
+    explain: "После пустого *it* в конце предложения возможны и **whether**, и **if**."
+  - q: "The auditors noticed on their second visit ___ several invoices were missing."
+    answers: ["that"]
+    explain: "Между глаголом и придаточным вставлена фраза (*on their second visit*) → *that* обязателен."
+  - q: "___ the virus spread so quickly is the question scientists are now trying to answer."
+    answers: ["How", "Why"]
+    explain: "wh-придаточное в роли подлежащего: **How / Why** the virus spread… Прямой порядок слов."
+  - q: "Many voters regard it ___ unacceptable that the decision was taken in secret."
+    answers: ["as"]
+    explain: "*regard / see / view + it **as** + прилагательное + that…*"

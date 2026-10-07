@@ -1,0 +1,55 @@
+title: "Выбери нужное существительное"
+type: choice
+intro: "Выбери слово, которое подходит по смыслу и по форме."
+hints:
+  - "-er / -or — тот, кто делает; -ee — тот, с кем делают; -ist / -ian — специалист."
+  - "У некоторых слов корень меняется: advise → advice, prove → proof, deep → depth."
+items:
+  - q: "The company has more than 200 ___ in five countries."
+    options: ["employers", "employees", "employments"]
+    answer: 1
+    explain: "Люди, которые работают в компании, — **employees**. *employer* — работодатель, а *employment* (занятость) неисчисляемое."
+  - q: "Teaching small children requires a lot of ___."
+    options: ["patient", "patience", "patients"]
+    answer: 1
+    explain: "*a lot of ___* → неисчисляемое существительное **patience** (терпение). *patients* — пациенты."
+  - q: "The ___ of the new bridge took three years."
+    options: ["construction", "constructor", "constructive"]
+    answer: 0
+    explain: "Процесс → **construction** (*-ion*). *constructor* — строитель, *constructive* — прилагательное «конструктивный»."
+  - q: "She won the ___ two years in a row."
+    options: ["competition", "competitor", "competitive"]
+    answer: 0
+    explain: "Выиграть можно соревнование — **competition**. *competitor* — участник."
+  - q: "Every ___ in the race received a medal."
+    options: ["competition", "competitor", "competitive"]
+    answer: 1
+    explain: "*Every ___ received* — человек → **competitor** (участник)."
+  - q: "Her ___ to the problem was surprisingly simple."
+    options: ["solve", "solution", "solving"]
+    answer: 1
+    explain: "*solution to a problem* — устойчивое сочетание; после *her* нужно существительное."
+  - q: "The ___ of the lake is about forty metres in the middle."
+    options: ["deep", "depth", "deepness"]
+    answer: 1
+    explain: "*deep → **depth*** (суффикс *-th*). *deepness* в таком значении не употребляется."
+  - q: "I need some ___ before I sign the contract."
+    options: ["advise", "advice", "advices"]
+    answer: 1
+    explain: "Существительное — **advice** (с *c*), неисчисляемое: без *-s*. *advise* (с *s*) — глагол."
+  - q: "The police have no ___ that he took the money."
+    options: ["prove", "proof", "proven"]
+    answer: 1
+    explain: "*prove* (глагол) → **proof** (существительное), как *believe → belief*."
+  - q: "Poverty and ___ are the main problems in the region."
+    options: ["unemployed", "unemployment", "unemployer"]
+    answer: 1
+    explain: "Через *and* соединяем два существительных-явления: *poverty and **unemployment*** (безработица)."
+  - q: "His ___ improved a lot after a year in London."
+    options: ["pronounce", "pronunciation", "pronounciation"]
+    answer: 1
+    explain: "*pronounce → **pronunciation***: в существительном *o* выпадает. *pronounciation* — частая орфографическая ошибка."
+  - q: "She's a well-known ___ who has written about the economy for twenty years."
+    options: ["economy", "economics", "economist"]
+    answer: 2
+    explain: "*a ___ who* — человек → **economist**. *economy* — экономика страны, *economics* — наука."

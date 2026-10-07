@@ -1,0 +1,64 @@
+title: "Перефразирование: условие без if (C1 Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы смысл совпал с первым. Используй **ключевое слово** без изменений и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "После provided, in case, as long as — Present о будущем, без will."
+  - "But for и in the event of — только с существительным."
+  - "После otherwise время согласуется по смыслу: would have для прошлого."
+items:
+  - q: "You can stay out late, but you must text me when you leave the party."
+    key: "PROVIDED"
+    stem: "You can stay out late ___ me when you leave the party."
+    answers: ["provided you text", "provided that you text", "provided you message", "provided that you message"]
+    explain: "**provided (that)** + Present — условие разрешения. Не ~~provided you will text~~."
+  - q: "Take an umbrella, because it might rain this afternoon."
+    key: "CASE"
+    stem: "Take an umbrella ___ this afternoon."
+    answers: ["in case it rains", "just in case it rains", "in case it should rain", "in case it starts raining", "in case it starts to rain"]
+    explain: "Предосторожность → **in case** + Present. Формальный вариант — *in case it should rain*."
+  - q: "If it hadn't been for the lifeguard, the boy would have drowned."
+    key: "BUT"
+    stem: "___, the boy would have drowned."
+    answers: ["But for the lifeguard"]
+    explain: "**But for** + существительное = *If it hadn't been for*. Любимая трансформация экзамена."
+  - q: "If you don't leave now, you'll miss your flight."
+    key: "OTHERWISE"
+    stem: "Leave now; ___ your flight."
+    answers: ["otherwise you will miss", "otherwise you might miss", "otherwise you may miss", "otherwise you could miss"]
+    explain: "**otherwise** = «если не уйдёшь сейчас»; дальше — обычное будущее *you'll miss*."
+  - q: "We'll sell you the house only if you pay a 10% deposit by Monday."
+    key: "CONDITION"
+    stem: "We'll sell you the house ___ a 10% deposit by Monday."
+    answers: ["on condition that you pay", "on condition you pay", "on the condition that you pay", "on condition that you put down", "on condition that you leave"]
+    explain: "**on condition that** — формальный эквивалент *only if*. После него Present."
+  - q: "What would you do if you saw a colleague stealing?"
+    key: "SUPPOSING"
+    stem: "___ a colleague stealing — what would you do?"
+    answers: ["Supposing you saw", "Supposing that you saw", "Supposing you were to see", "Supposing you caught"]
+    explain: "**Supposing** + Past для маловероятной ситуации; в вопросе — *would*."
+  - q: "If there is a power cut, the generator starts automatically."
+    key: "EVENT"
+    stem: "___ cut, the generator starts automatically."
+    answers: ["In the event of a power"]
+    explain: "**In the event of** + существительное — официальный стиль инструкций."
+  - q: "Provided nobody objects, the meeting will be moved to Thursday."
+    key: "LONG"
+    stem: "The meeting will be moved to Thursday ___ objects."
+    answers: ["as long as nobody", "so long as nobody", "as long as no one", "so long as no one", "as long as no-one", "so long as no-one"]
+    explain: "**as long as / so long as** — нейтральные синонимы *provided*."
+  - q: "I didn't have your number, which is the only reason I didn't call you."
+    key: "OTHERWISE"
+    stem: "I didn't have your number; ___ you."
+    answers: ["otherwise I would have called", "otherwise I would have rung", "otherwise I would have phoned", "otherwise I could have called", "otherwise I would have contacted"]
+    explain: "После **otherwise** о прошлом — counterfactual: *would have called*."
+  - q: "Do that again and I'll report you to the manager."
+    key: "IF"
+    stem: "I'll report you to the manager ___."
+    answers: ["if you do that again", "if you do it again"]
+    explain: "Императив + **and** = условие: *Do that again and…* = ***If** you do that again, …*"
+  - q: "We know the deadline is fixed, so we'll have to work over the weekend."
+    key: "GIVEN"
+    stem: "___ fixed, we'll have to work over the weekend."
+    answers: ["Given that the deadline is", "Given the deadline is", "Given that the deadline's"]
+    explain: "Известный факт → **given (that)** = «учитывая, что». Это не условие, а причина."

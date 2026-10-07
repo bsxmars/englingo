@@ -1,0 +1,47 @@
+title: "Say, tell и сдвиг"
+type: choice
+intro: "Выбери единственный верный вариант."
+hints:
+  - "tell + человек (tell me, tell us); say + (to sb) + that."
+  - "tell a story / a lie / a joke / the truth / the time / the difference."
+items:
+  - q: "She ___ me she would be late."
+    options: ["said", "told", "spoke"]
+    answer: 1
+    explain: "После глагола сразу идёт человек (*me*) → **told**. *said me* — ошибка."
+  - q: "He ___ that the office was closed for the holidays."
+    options: ["told", "said", "talked"]
+    answer: 1
+    explain: "Без адресата → **said that…**. *told that* невозможно: *tell* требует человека."
+  - q: "What did she ___ to you at the meeting?"
+    options: ["tell", "say", "speak"]
+    answer: 1
+    explain: "**say to sb** — с предлогом *to*. *tell to you* — ошибка: *tell you*."
+  - q: "Children, please don't ___ lies."
+    options: ["say", "tell", "speak"]
+    answer: 1
+    explain: "Устойчивое сочетание **tell lies / tell a lie**."
+  - q: "The twins look so alike that I can't ___ the difference."
+    options: ["say", "tell", "speak"]
+    answer: 1
+    explain: "**tell the difference** — «различить». Здесь *tell* без человека — устойчивое выражение."
+  - q: "He ___ goodbye and closed the door."
+    options: ["told", "said", "talked"]
+    answer: 1
+    explain: "**say goodbye / hello / sorry / thank you** — с *say*."
+  - q: "\"I'm starving,\" said Leo just before lunch. Now, after lunch, you report: Leo said he ___ starving."
+    options: ["is", "was", "has been"]
+    answer: 1
+    explain: "Голод был до обеда и уже прошёл → сдвиг: **was**."
+  - q: "\"I've fixed the bug,\" said Mia. → Mia told us she ___ the bug."
+    options: ["had fixed", "have fixed", "has been fixed"]
+    answer: 0
+    explain: "Present Perfect → Past Perfect: **had fixed**. *she have* — неверное согласование, *has been fixed* — пассив."
+  - q: "Two weeks ago Jack said, \"I'll call you tomorrow.\" → Jack said he would call me ___ ."
+    options: ["tomorrow", "the next day", "the day before"]
+    answer: 1
+    explain: "Пересказываем через две недели → **the next day**. *the day before* — это «вчера» в пересказе."
+  - q: "Yesterday, in the office, my boss said, \"I'll be here until six.\" Now at home I tell my wife: He said he would be ___ until six."
+    options: ["here", "there", "this"]
+    answer: 1
+    explain: "Мы уже не в офисе → *here* становится **there**."

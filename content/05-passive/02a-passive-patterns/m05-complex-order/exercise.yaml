@@ -1,0 +1,40 @@
+title: "Собери предложение"
+type: order
+intro: "Собери английское предложение из слов. Везде, кроме двух пунктов, нужен пассив."
+hints:
+  - "Пассив + to: We were asked to…, He was made to…"
+  - "«Само случилось» → актив: The door opened…"
+items:
+  - q: "«Нас попросили подождать в коридоре»."
+    answers: ["We were asked to wait in the corridor."]
+    explain: "*ask sb to do* → **We were asked to wait**. Человек — подлежащее, *to wait* остаётся после V3."
+  - q: "«Его избрали капитаном команды»."
+    answers: ["He was elected captain of the team."]
+    explain: "*elect sb captain* → **was elected captain**: должность сразу после V3, без *as* и артикля."
+  - q: "«Её видели, когда она выходила из офиса в полночь»."
+    answers: ["She was seen leaving the office at midnight."]
+    explain: "Видели процесс → **was seen leaving**. Время и место — в конце предложения."
+  - q: "«Нас заставили сдать телефоны на входе»."
+    answers: ["We were made to hand in our phones at the entrance.", "We were made to hand our phones in at the entrance."]
+    explain: "**were made to** + инфинитив. У *hand in* частица может стоять и после объекта: *hand our phones in*."
+  - q: "«Дверь вдруг открылась сама»."
+    answers: ["The door suddenly opened by itself.", "Suddenly the door opened by itself."]
+    explain: "«Открылась сама» → актив **opened**, без *be*. *by itself* = «сама»."
+  - q: "«Детям не разрешили засиживаться допоздна»."
+    answers: ["The children were not allowed to stay up late."]
+    explain: "Пассив от *let* → **were not allowed to**. *stay up late* — не ложиться спать допоздна."
+  - q: "«Эту книгу считают его лучшим романом»."
+    answers: ["This book is considered his best novel."]
+    explain: "*consider sth sth* → **is considered** + существительное, без *as*."
+  - q: "«Сотрудникам рекомендуют обновлять пароли каждый месяц»."
+    answers: ["Employees are advised to update their passwords every month."]
+    explain: "*advise sb to do* → **are advised to update**. Обычная формула служебных объявлений."
+  - q: "«Шум не давал нам уснуть всю ночь»."
+    answers: ["We were kept awake by the noise all night.", "We were kept awake all night by the noise."]
+    explain: "*keep sb awake* → **were kept awake**. Исполнитель (*the noise*) важен, поэтому есть *by*."
+  - q: "«Город известен своими мостами»."
+    answers: ["The city is known for its bridges."]
+    explain: "Известен **чем** → *known **for***."
+  - q: "«Цены резко выросли за последний год»."
+    answers: ["Prices have risen sharply over the last year.", "Prices have sharply risen over the last year."]
+    explain: "*rise* — непереходный, поэтому актив: **have risen**. *over the last year* → Present Perfect."

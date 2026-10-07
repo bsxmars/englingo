@@ -1,0 +1,61 @@
+title: "Перефразирование (C1 Advanced, Part 4): замена и эллипсис"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+
+  Задача — убрать повтор: заменить его на *one, so, not, do so* или оставить только вспомогательный глагол или *to*.
+hints:
+  - "do so — формальная замена глагола с дополнением; do it — разговорная, особенно если деятель другой."
+  - "hope / be afraid + so / not; think + don't… so."
+  - "После want / like / used в эллипсисе остаётся to."
+items:
+  - q: "Anyone who wants to leave early is allowed to leave early."
+    key: "DO"
+    stem: "Anyone who wants to leave early ___ ."
+    answers: ["may do so", "is allowed to do so", "can do so", "is permitted to do so", "is free to do so", "is welcome to do so"]
+    explain: "Формальная замена глагольной группы — **do so**: *may do so*. Это стиль объявлений и правил."
+  - q: "Has the contract been signed? If it has, we can begin on Monday."
+    key: "SO"
+    stem: "Has the contract been signed? ___ can begin on Monday."
+    answers: ["If so, we", "If so we"]
+    explain: "**If so** заменяет целое условие «если это так». Отрицательная пара — *if not*."
+  - q: "I'd love to come to your party, but I can't come."
+    key: "LIKE"
+    stem: "___, but I can't."
+    answers: ["I would like to", "I would really like to", "I would like to come", "I would really like to come"]
+    explain: "В эллипсисе после *like* остаётся частица **to**: *I'd like to, but I can't*. Без неё (~~I'd like, but…~~) фраза обрывается."
+  - q: "— Is the museum open on Mondays? — No, unfortunately it isn't."
+    key: "AFRAID"
+    stem: "— Is the museum open on Mondays? — ___ ."
+    answers: ["I'm afraid not", "I am afraid not", "No, I'm afraid not", "No, I am afraid not", "I'm afraid it isn't", "I am afraid it is not"]
+    explain: "*be afraid* в отрицании — только **I'm afraid not**. ~~I'm not afraid so~~ невозможно и меняет смысл."
+  - q: "The first chapter was difficult, but the second chapter was even more difficult."
+    key: "MORE"
+    stem: "The first chapter was difficult, but ___ so."
+    answers: ["the second was even more", "the second one was even more", "the second chapter was even more"]
+    explain: "**more so** заменяет повторяемое прилагательное: *even more so* = «ещё более (трудной)»."
+  - q: "— Will the shop be open on Sunday? — I doubt it will."
+    key: "THINK"
+    stem: "— Will the shop be open on Sunday? — I ___ ."
+    answers: ["don't think so", "do not think so", "don't think it will", "don't think it will be", "think not"]
+    explain: "С *think* отрицание обычно строят через **don't think so**. *I think not* существует, но звучит книжно."
+  - q: "She promised to call me, and she called me."
+    key: "DID"
+    stem: "She said she would call me, ___ ."
+    answers: ["and she did", "and she did so", "and she actually did", "and indeed she did", "and she really did"]
+    explain: "Вся глагольная группа опускается, остаётся вспомогательный в нужном времени: **and she did**."
+  - q: "I can't fix the tap. Could you fix it?"
+    key: "DO"
+    stem: "I can't fix the tap. ___ for me?"
+    answers: ["Could you do it", "Can you do it", "Could you do that", "Can you do that", "Would you do it", "Would you do that"]
+    explain: "Деятель другой (*I → you*), регистр разговорный → **do it / do that**, а не *do so*."
+  - q: "My laptop is old, but it still works fine, so I don't need a new laptop."
+    key: "ONE"
+    stem: "My laptop still works fine, so I ___ ."
+    answers: ["don't need a new one", "do not need a new one", "don't need to buy a new one", "do not need to buy a new one"]
+    explain: "**one** заменяет исчисляемое существительное в единственном числе; с прилагательным нужен артикль: *a new one*."
+  - q: "I don't smoke any more, but I smoked in the past."
+    key: "USED"
+    stem: "I don't smoke any more, ___ ."
+    answers: ["but I used to", "though I used to", "although I used to", "but I once used to"]
+    explain: "После *used* в эллипсисе остаётся **to**: *but I used to*. Без *to* фраза неграмматична."

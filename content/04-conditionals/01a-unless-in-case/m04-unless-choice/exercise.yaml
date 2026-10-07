@@ -1,0 +1,56 @@
+title: "unless, in case, even if, as long as: выбери слово"
+type: choice
+intro: "Выбери слово или выражение, которое подходит по смыслу. Иногда грамматически возможны несколько, но верен только один по смыслу."
+hints:
+  - "in case — делаем заранее; if — делаем, когда (и если) это случится."
+  - "even if — неизвестно, случится ли; even though — точно факт."
+  - "unless = если не; не подходит для эмоций и нереального прошлого."
+items:
+  - q: "I'll download the slides to my laptop ___ the Wi-Fi at the venue is unreliable."
+    options: ["if", "in case", "unless", "provided"]
+    answer: 1
+    explain: "Скачиваю **заранее**, потому что Wi-Fi может подвести → **in case**. С *if* получилось бы «скачаю, когда окажется, что Wi-Fi плохой» — поздно."
+  - q: "You can work from home on Fridays ___ you're available on Slack during office hours."
+    options: ["as long as", "in case", "even if", "otherwise"]
+    answer: 0
+    explain: "Разрешение при строгом условии → **as long as** («при условии, что»)."
+  - q: "She refused to apologise, ___ she knew she was wrong."
+    options: ["even if", "even though", "unless", "in case"]
+    answer: 1
+    explain: "Она **точно** знала, что неправа, — это факт → **even though** («хотя»). *even if* — для неизвестного условия."
+  - q: "I'm not changing my mind, ___ the whole team votes against me."
+    options: ["even though", "unless", "even if", "provided"]
+    answer: 2
+    explain: "Голосования ещё не было, неизвестно, как проголосуют, а решение не изменится → **even if**."
+  - q: "I'll be really annoyed ___ the delivery doesn't arrive today."
+    options: ["unless", "if", "in case", "as long as"]
+    answer: 1
+    explain: "Эмоция как реакция на «не придёт» → **if … doesn't**. *unless* («во всех случаях, кроме») тут не работает."
+  - q: "The patient can go home tomorrow ___ his temperature stays normal."
+    options: ["unless", "in case", "provided", "even though"]
+    answer: 2
+    explain: "«При условии, что» → **provided**. *unless* дало бы обратный смысл: выпишут, если температура **не** будет нормальной."
+  - q: "Leave your phone number with reception ___ we need to contact you."
+    options: ["in case", "unless", "even if", "as long as"]
+    answer: 0
+    explain: "Оставь номер **заранее** — вдруг понадобится → **in case**."
+  - q: "Book the tickets today, ___ they'll all be sold out by the weekend."
+    options: ["unless", "in case", "otherwise", "provided"]
+    answer: 2
+    explain: "«Купи сегодня, **иначе**…» → **otherwise**. Это скрытое условие: *if you don't book today, they'll be sold out*."
+  - q: "___ the investors pulled out tomorrow — could we still launch?"
+    options: ["Unless", "Supposing", "In case", "Even though"]
+    answer: 1
+    explain: "Гипотеза для обсуждения «а если бы…» → **Supposing** (= *What if*). Past Simple *pulled* — маловероятная ситуация."
+  - q: "We won't be able to finish on time ___ someone helps us."
+    options: ["if", "unless", "in case", "even if"]
+    answer: 1
+    explain: "«Если никто не поможет», «разве что кто-то поможет» → **unless** + утвердительный глагол *helps*."
+  - q: "___ your support, I would never have finished my degree."
+    options: ["Unless", "Even if", "But for", "Provided"]
+    answer: 2
+    explain: "«Если бы не твоя поддержка» + существительное → **But for** (= *If it hadn't been for*). *unless* не ставится перед существительным."
+  - q: "I took my passport with me ___ they asked for ID at the entrance."
+    options: ["in case", "if", "unless", "otherwise"]
+    answer: 0
+    explain: "Мера предосторожности в прошлом → **in case** + Past Simple: взял паспорт заранее, вдруг спросят."

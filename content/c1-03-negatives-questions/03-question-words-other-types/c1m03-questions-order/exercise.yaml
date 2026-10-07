@@ -1,0 +1,37 @@
+title: "Собери вопрос"
+type: order
+intro: "Собери предложение из слов. Вопросительный порядок получает только одна часть — найди её."
+hints:
+  - "Вопрос внутри вопроса: wh-слово + do you think + порядок утверждения."
+  - "Косвенный вопрос (Could you tell me…, I wonder…, She asked…) — порядок утверждения."
+items:
+  - q: "Вопрос внутри вопроса: «Как ты думаешь, кто выиграет?»"
+    answers: ["Who do you think will win"]
+    explain: "*Who* — подлежащее для *will win*, а *do you think* — вставка с вопросительным порядком."
+  - q: "Вежливая просьба: «Не могли бы вы сказать, где находится конференц-зал?»"
+    answers: ["Could you tell me where the conference room is"]
+    explain: "После *Could you tell me* — порядок утверждения: *where the conference room **is***."
+  - q: "«Интересно, примут ли они наше предложение»."
+    answers: ["I wonder whether they will accept our offer"]
+    explain: "Да/нет-вопрос в косвенной форме → *whether* + порядок утверждения. Это не вопрос, а утверждение, поэтому без знака вопроса."
+  - q: "Формально: «С кем вы обсуждали этот вопрос?»"
+    answers: ["With whom did you discuss this matter"]
+    explain: "Предлог в начале → *whom*. Дальше обычный вопрос с *did*."
+  - q: "«Когда, по его словам, начнётся ремонт?»"
+    answers: ["When did he say the repairs would start"]
+    explain: "Вставка *did he say* — вопросительная, а *the repairs would start* — порядок утверждения, с согласованием времён."
+  - q: "«Почему, по-твоему, она уволилась?»"
+    answers: ["Why do you think she resigned"]
+    explain: "*do you think* — вставка; *she resigned* без *did*: вспомогательный уже «использован» во вставке."
+  - q: "«Что именно ты имеешь в виду?»"
+    answers: ["What exactly do you mean", "Exactly what do you mean"]
+    explain: "*exactly* обычно стоит после wh-слова, но может стоять и перед ним для усиления."
+  - q: "Пересказ: «Я спросил её, почему она отказалась от предложения»."
+    answers: ["I asked her why she had turned down the offer", "I asked her why she had turned the offer down"]
+    explain: "Косвенный вопрос: порядок утверждения и Past Perfect после *asked*. Частица *down* может стоять до или после *the offer*."
+  - q: "«Ты хоть представляешь, сколько это стоит?»"
+    answers: ["Do you have any idea how much this costs"]
+    explain: "Главный вопрос — *Do you have any idea*, а *how much this costs* — косвенный, без *does*."
+  - q: "Риторический вопрос: «Кто бы мог подумать, что всё так закончится?»"
+    answers: ["Who would have thought it would end like this"]
+    explain: "*Who would have thought…?* — устойчивая риторическая формула: ответа не ждут, это выражение удивления."

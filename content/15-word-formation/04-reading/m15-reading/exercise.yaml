@@ -1,0 +1,83 @@
+title: "Four days, full pay"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. Вопросы с вариантами — как в B2 First Part 5; в остальных найди в тексте производное слово."
+hints:
+  - "Вопросы идут в порядке текста."
+  - "В вопросах на словообразование ищи слово с тем же корнем, но другой частью речи."
+text: |
+  ## Four days, full pay: is this the future of work?
+
+  When a mid-sized software company in Manchester announced that its employees would work four days a week for the same salary, the reaction online was predictable. Some people called it a brilliant idea; others described it as irresponsible and economically unrealistic. A year later, the results are in, and they are surprisingly positive.
+
+  The company's director, Helen Marsh, admits she was nervous at the beginning. "My biggest worry was that our clients would see it as unprofessional," she says. "I was also afraid that people would simply try to squeeze five days of work into four and end up exhausted." Instead, the company measured a twelve per cent increase in productivity. Staff wasted less time in long meetings, answered emails more efficiently and, according to an internal survey, felt considerably happier at work.
+
+  The explanation, Marsh believes, is that a shorter week forces people to prioritise. "When you know you only have four days, you stop doing things that are useless. Meetings got shorter because nobody wanted to waste their limited time." Sickness levels also fell dramatically, and for the first time in years, nobody resigned. Several employees also reported that they were sleeping better and spending more time outdoors, which may partly explain the improvement in their health.
+
+  Not everyone is convinced, however. Critics point out that the experiment worked well in an office where most tasks can be done on a computer, but that the model is far more difficult to apply in hospitals, schools or shops, where someone has to be physically present. "For a nurse or a bus driver, a four-day week either means hiring more people or leaving the public without a service," says the economist David Pryce. "It's an attractive idea, but its success depends heavily on the type of work."
+
+  There are also concerns about inequality. If the four-day week becomes common in well-paid office jobs but remains unavailable to workers in lower-paid sectors, the gap between the two groups could grow even wider. Some trade unions argue that any change should be introduced gradually and fairly across the whole economy.
+
+  For the employees in Manchester, though, the debate feels rather distant. Many say the extra day has transformed their lives, and few of them can imagine going back to the old system. Some use it to look after their children or elderly parents; others have taken up hobbies they had abandoned years ago. "I used to spend Saturdays doing housework and Sundays recovering," says Tom, a designer. "Now I actually have a weekend. I feel more creative and much less stressed."
+
+  Whether the four-day week will spread beyond a handful of enthusiastic companies is still uncertain. But one thing seems clear: the traditional assumption that longer hours automatically mean better results is looking increasingly unreliable.
+items:
+  - q: "How did people react when the company first announced its plan?"
+    options:
+      - "Almost everyone was enthusiastic about it."
+      - "Opinions were divided, as might have been expected."
+      - "Most people did not pay much attention to it."
+      - "People were surprised by how positive the results were."
+    answer: 1
+    explain: "*the reaction online was predictable. Some people called it a brilliant idea; others described it as irresponsible* — мнения разделились, и это было ожидаемо (*predictable*). Удивительные результаты — это уже год спустя."
+  - q: "What was Helen Marsh most worried about at the start?"
+    options:
+      - "The company's image in the eyes of its clients."
+      - "Losing some of her best employees."
+      - "A small fall in the company's income."
+      - "The cost of hiring extra staff."
+    answer: 0
+    explain: "*My biggest worry was that our clients would see it as unprofessional* — беспокоилась о репутации у клиентов."
+  - q: "According to Marsh, why did productivity increase?"
+    options:
+      - "Employees worked longer hours on the remaining days."
+      - "The company introduced new software."
+      - "Having less time made staff focus on what really mattered."
+      - "Most meetings were cancelled completely."
+    answer: 2
+    explain: "*a shorter week forces people to prioritise… you stop doing things that are useless* — сосредоточились на главном. Встречи стали короче, но их не отменили."
+  - q: "What is David Pryce's main point?"
+    options:
+      - "The four-day week is unfair to office workers."
+      - "The idea works better in some jobs than in others."
+      - "The four-day week will lead to job losses."
+      - "Software companies cannot afford the change."
+    answer: 1
+    explain: "*its success depends heavily on the type of work* — модель подходит не всем профессиям. Это перефразировано в варианте B."
+  - q: "Why are some trade unions concerned?"
+    options:
+      - "The change could make the gap between better-paid and lower-paid workers bigger."
+      - "Salaries might be reduced for people who work fewer days."
+      - "The change is being introduced too slowly."
+      - "They were not consulted about the Manchester experiment."
+    answer: 0
+    explain: "*the gap between the two groups could grow even wider* — разрыв между группами может вырасти. Про снижение зарплат в тексте ничего нет."
+  - q: "What does the writer suggest in the final paragraph?"
+    options:
+      - "The four-day week will soon become normal everywhere."
+      - "The Manchester experiment has not really proved anything."
+      - "The belief that more hours lead to better work is being questioned."
+      - "Only enthusiastic companies should try the four-day week."
+    answer: 2
+    explain: "*the traditional assumption that longer hours automatically mean better results is looking increasingly unreliable* — убеждение «больше часов = лучше результат» вызывает сомнения. Распространение модели автор называет *uncertain*."
+  - q: "Find a noun in paragraph 2 that is formed from the verb 'produce'."
+    answers: ["productivity"]
+    explain: "*produce → productive → **productivity*** — две операции: *-ive* и *-ity*. Сравни: *production* (производство), *product* (продукт)."
+  - q: "Find an adjective in paragraph 1 that is formed from 'responsible' with a negative prefix."
+    answers: ["irresponsible"]
+    explain: "Перед *r* — **ir-**, с двумя *r*: *irresponsible*."
+  - q: "Find a noun in paragraph 5 that means 'a situation in which people are not equal'."
+    answers: ["inequality"]
+    explain: "*equal → equality → **inequality***: суффикс *-ity* + приставка *in-*."
+  - q: "Find an adverb in the last paragraph that is formed from the verb 'increase'."
+    answers: ["increasingly"]
+    explain: "*increase → increasing → **increasingly*** (всё более): *-ing* + *-ly*."

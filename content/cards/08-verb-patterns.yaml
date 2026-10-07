@@ -1,0 +1,192 @@
+- id: m08-ing-verbs
+  lesson: 08-verb-patterns/01-gerund-infinitive
+  q: "Назови 6 глаголов, после которых идёт **-ing**."
+  a: "*enjoy, mind, avoid, finish, suggest, consider, can't stand, give up, deny, keep* + -ing."
+- id: m08-to-verbs
+  lesson: 08-verb-patterns/01-gerund-infinitive
+  q: "Назови 6 глаголов, после которых идёт **to**."
+  a: "*decide, hope, manage, refuse, afford, agree, promise, plan, want, expect* + to."
+- id: m08-suggest
+  lesson: 08-verb-patterns/01-gerund-infinitive
+  q: "Найди ошибку: *I suggest to go by train.*"
+  a: "*I suggest **going** by train.* / *I suggest **that we go** by train.*"
+- id: m08-want-you-to
+  lesson: 08-verb-patterns/01-gerund-infinitive
+  q: "Переведи: «Я хочу, чтобы ты мне перезвонил»."
+  a: "*I **want you to call** me back.* — не ~~I want that you~~."
+- id: m08-preposition-ing
+  lesson: 08-verb-patterns/01-gerund-infinitive
+  q: "Какая форма глагола после предлога: *interested in ___ (learn)*?"
+  a: "Всегда **-ing**: *interested in learning, without saying, before leaving*."
+- id: m08-look-forward
+  lesson: 08-verb-patterns/01-gerund-infinitive
+  q: "Найди ошибку: *I look forward to hear from you.*"
+  a: "*I look forward to **hearing** from you.* — *to* здесь предлог."
+- id: m08-manage-afford
+  lesson: 08-verb-patterns/01-gerund-infinitive
+  q: "Переведи: «Нам удалось найти парковку» / «Мы не можем себе это позволить»."
+  a: "*We **managed to find** a parking space.* / *We **can't afford** it.*"
+- id: m08-seem-to-have
+  lesson: 08-verb-patterns/01-gerund-infinitive
+  q: "Переведи: «Похоже, они уже ушли» / «Похоже, она сейчас работает»."
+  a: "*They **seem to have left**.* / *She **seems to be working**.*"
+- id: m08-cant-help
+  lesson: 08-verb-patterns/01-gerund-infinitive
+  q: "*can't help*, *fancy*, *can't wait* — какая форма после каждого?"
+  a: "*can't help **laughing***, *fancy **going***, но *can't wait **to see***."
+- id: m08-prevent-from
+  lesson: 08-verb-patterns/01-gerund-infinitive
+  q: "Переведи: «Дождь помешал нам закончить матч»."
+  a: "*The rain **prevented us from finishing** the match.*"
+- id: m08-succeed-in
+  lesson: 08-verb-patterns/01-gerund-infinitive
+  q: "Найди ошибку: *I succeeded to fix the bug.*"
+  a: "*I **succeeded in fixing** the bug.* / *I **managed to fix** it.*"
+- id: m08-remember
+  lesson: 08-verb-patterns/02-meaning-change
+  q: "*remember doing* vs *remember to do*"
+  a: "**doing** — помню, как сделал (прошлое). **to do** — не забыть сделать (задача)."
+- id: m08-stop
+  lesson: 08-verb-patterns/02-meaning-change
+  q: "*He stopped smoking* vs *He stopped to smoke*"
+  a: "Бросил курить / Остановился, **чтобы** покурить."
+- id: m08-try
+  lesson: 08-verb-patterns/02-meaning-change
+  q: "*try to do* vs *try doing*"
+  a: "**try to** — стараться (трудно). **try -ing** — попробовать как способ: *Try restarting it.*"
+- id: m08-regret
+  lesson: 08-verb-patterns/02-meaning-change
+  q: "Переведи: «Жалею, что не учился усерднее»."
+  a: "*I **regret not studying** harder.* (*regret to inform* — «с сожалением сообщаем»)"
+- id: m08-mean
+  lesson: 08-verb-patterns/02-meaning-change
+  q: "*I meant to call you* / *This means moving abroad* — разница?"
+  a: "**mean to** — собираться; **mean -ing** — означать, влечь за собой."
+- id: m08-go-on
+  lesson: 08-verb-patterns/02-meaning-change
+  q: "*go on talking* vs *go on to talk about*"
+  a: "**-ing** — продолжать то же самое; **to** — перейти к следующему."
+- id: m08-forget-to
+  lesson: 08-verb-patterns/02-meaning-change
+  q: "Найди ошибку: *Don't forget locking the door.*"
+  a: "*Don't forget **to lock** the door.* — задача на будущее → **to**."
+- id: m08-would-like-to
+  lesson: 08-verb-patterns/02-meaning-change
+  q: "Найди ошибку: *I would like going to the cinema tonight.*"
+  a: "*I'**d like to go**…* — *would like / love / prefer / hate* только с *to*."
+- id: m08-like-to-do
+  lesson: 08-verb-patterns/02-meaning-change
+  q: "*I like swimming* vs *I like to pay my bills on time*"
+  a: "**like doing** — нравится, удовольствие; **like to do** — считаю правильным, привычка."
+- id: m08-starting-to
+  lesson: 08-verb-patterns/02-meaning-change
+  q: "Что не так: *It's starting raining.*"
+  a: "Два -ing подряд звучат плохо: *It's starting **to rain**.*"
+- id: m08-make-let
+  lesson: 08-verb-patterns/03-make-let-allow
+  q: "Найди ошибку: *My boss made me to work late.*"
+  a: "*My boss **made me work** late.* — после *make* и *let* без *to*."
+- id: m08-made-to
+  lesson: 08-verb-patterns/03-make-let-allow
+  q: "Пассив: *They made us wait.* → ?"
+  a: "*We **were made to wait**.* — в пассиве *to* появляется."
+- id: m08-let-passive
+  lesson: 08-verb-patterns/03-make-let-allow
+  q: "Как сказать «Мне не разрешили войти»?"
+  a: "*I **wasn't allowed to** go in.* — *let* в пассиве не используется."
+- id: m08-enough-order
+  lesson: 08-verb-patterns/03-make-let-allow
+  q: "*enough* до или после: *old ___* / *___ money*?"
+  a: "После прилагательного (*old **enough***), перед существительным (***enough** money*)."
+- id: m08-easy-to-use
+  lesson: 08-verb-patterns/03-make-let-allow
+  q: "Найди ошибку: *This app is easy to use it.*"
+  a: "*This app is easy to use.* — объект уже в начале, *it* лишнее."
+- id: m08-had-better
+  lesson: 08-verb-patterns/03-make-let-allow
+  q: "Найди ошибку: *You'd better to call her.*"
+  a: "*You'd better **call** her.* — после *had better* и *would rather* без *to*."
+- id: m08-likely-to
+  lesson: 08-verb-patterns/03-make-let-allow
+  q: "Переведи: «Он вряд ли согласится»."
+  a: "*He's **unlikely to agree**.* / *It's unlikely that he'll agree.*"
+- id: m08-about-to
+  lesson: 08-verb-patterns/03-make-let-allow
+  q: "Переведи: «Фильм вот-вот начнётся»."
+  a: "*The film **is about to start**.*"
+- id: m08-something-to-read
+  lesson: 08-verb-patterns/03-make-let-allow
+  q: "Переведи: «Мне нужно что-нибудь почитать в поезде»."
+  a: "*I need **something to read** on the train.*"
+- id: m08-what-to-do
+  lesson: 08-verb-patterns/03a-infinitive-structures
+  q: "Переведи коротко: «Я не знаю, что мне делать»."
+  a: "*I don't know **what to do**.* — не ~~what should I do~~."
+- id: m08-whether-to
+  lesson: 08-verb-patterns/03a-infinitive-structures
+  q: "Найди ошибку: *I can't decide if to go.*"
+  a: "*I can't decide **whether to** go.* — перед инфинитивом только *whether*."
+- id: m08-for-of
+  lesson: 08-verb-patterns/03a-infinitive-structures
+  q: "**for** или **of**: *It was kind ___ you to help.* / *It's hard ___ me to say no.*"
+  a: "*kind **of** you* (оценка человека); *hard **for** me* (для кого)."
+- id: m08-wait-for-sb-to
+  lesson: 08-verb-patterns/03a-infinitive-structures
+  q: "Переведи: «Я жду, когда ты ответишь»."
+  a: "*I'm waiting **for you to answer**.* — не ~~waiting that you answer~~."
+- id: m08-afraid-to-of
+  lesson: 08-verb-patterns/03a-infinitive-structures
+  q: "*afraid to ask* vs *afraid of falling*"
+  a: "**afraid to** — не решаюсь (сам выбираю не делать); **afraid of + -ing** — боюсь, что случится."
+- id: m08-see-do-doing
+  lesson: 08-verb-patterns/03a-infinitive-structures
+  q: "*I saw him cross the road* vs *I saw him crossing the road*"
+  a: "**cross** — видел всё действие целиком; **crossing** — застал в процессе."
+- id: m08-instead-of
+  lesson: 08-verb-patterns/03a-infinitive-structures
+  q: "Найди ошибку: *Let's walk instead of to take a taxi.*"
+  a: "*…instead of **taking** a taxi.* — после предлога только -ing."
+- id: m08-in-a-row
+  lesson: 08-verb-patterns/04-reading
+  q: "Переведи: «Не пропускай два дня подряд»."
+  a: "*Don't miss two days **in a row**.* (*refuse to miss, avoid missing*)"
+- id: m08-commit-to
+  lesson: 08-verb-patterns/04-reading
+  q: "*commit to* + какая форма? «Обязуйся читать одну страницу»."
+  a: "*to* — предлог → **-ing**: *Commit to reading one page.*"
+- id: m08-formal-closing
+  lesson: 08-verb-patterns/05-writing
+  q: "Пары обращение–подпись в официальном письме?"
+  a: "*Dear Ms Harper* → **Yours sincerely**; *Dear Sir or Madam* → **Yours faithfully**."
+- id: m08-hope-that
+  lesson: 08-verb-patterns/01a-verb-object
+  q: "Найди ошибку: *I hope you to come to the party.*"
+  a: "*I hope **(that) you'll come**.* — *hope* не берёт объект + *to*."
+- id: m08-talk-into
+  lesson: 08-verb-patterns/01a-verb-object
+  q: "Переведи: «Он уговорил меня записаться на курс»."
+  a: "*He **talked me into signing up** for the course.* / *persuaded me **to sign up***."
+- id: m08-talk-out-of
+  lesson: 08-verb-patterns/01a-verb-object
+  q: "Переведи: «Друзья отговорили меня продавать машину»."
+  a: "*My friends **talked me out of selling** my car.*"
+- id: m08-mind-me-asking
+  lesson: 08-verb-patterns/01a-verb-object
+  q: "Переведи: «Не против, если я спрошу, сколько тебе лет?»"
+  a: "*Do you mind **me asking** how old you are?* (формально — *my asking*)."
+- id: m08-insist-on
+  lesson: 08-verb-patterns/01a-verb-object
+  q: "Найди ошибку: *She insisted me to stay.*"
+  a: "*She insisted **on my staying** / **that I (should) stay**.* — у *insist* нет объект + *to*."
+- id: m08-explain-to
+  lesson: 08-verb-patterns/01a-verb-object
+  q: "Найди ошибку: *Can you explain me how it works?*"
+  a: "*Can you explain **to me** how it works?* — после *explain* человек только с *to*."
+- id: m08-get-sb-to
+  lesson: 08-verb-patterns/01a-verb-object
+  q: "**get** или **have**: I'll ___ the IT guy (to) fix it."
+  a: "*get the IT guy **to fix*** (уговорить) / *have the IT guy **fix*** (поручить, без *to*)."
+- id: m08-warn-against
+  lesson: 08-verb-patterns/01a-verb-object
+  q: "Две модели для «Нас предупредили не ходить туда ночью»."
+  a: "*They warned us **not to go** there at night.* / *warned us **against going** there at night.*"

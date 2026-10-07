@@ -1,0 +1,51 @@
+title: "Non-defining: выбери вариант"
+type: choice
+intro: "Выбери единственный правильный вариант. Почти все предложения — с запятыми, то есть non-defining."
+hints:
+  - "После запятой не бывает that. Люди → who/whom, вещи → which."
+  - "«…, что удивило всех» → which, а не what."
+items:
+  - q: "My grandfather, ___ was a pilot, taught me to read maps."
+    options: ["that", "who", "which"]
+    answer: 1
+    explain: "Non-defining (запятые) о человеке → **who**. *That* после запятой невозможно, *which* — для вещей."
+  - q: "We missed the last bus, ___ meant walking home in the rain."
+    options: ["what", "which", "that"]
+    answer: 1
+    explain: "*which* относится ко всей предыдущей мысли (то, что опоздали на автобус). Русское «что» здесь — **which**, а не *what*."
+  - q: "The team has eight developers, ___ work remotely."
+    options: ["most of them", "most of whom", "most of who"]
+    answer: 1
+    explain: "Количество + **of whom** для людей. *most of them* превратит фразу в два предложения без союза, а после *of* нужно *whom*, не *who*."
+  - q: "I bought two chargers, ___ worked."
+    options: ["neither of which", "neither of them", "neither of that"]
+    answer: 0
+    explain: "Две вещи, «ни один из которых» → **neither of which**."
+  - q: "Lisbon, ___ I lived for three years, is still my favourite city."
+    options: ["which", "where", "that"]
+    answer: 1
+    explain: "Внутри придаточного — «жил **в нём**» → **where** (= *in which*). *Which* без предлога не подходит."
+  - q: "Ivan, ___ car had broken down, arrived by bike."
+    options: ["who", "whose", "which"]
+    answer: 1
+    explain: "«Чья машина сломалась» → **whose car**."
+  - q: "Какое предложение значит, что сестра у меня одна?"
+    options: ["My sister who works in a bank is getting married.", "My sister, who works in a bank, is getting married.", "My sister that works in a bank is getting married."]
+    answer: 1
+    explain: "Запятые → non-defining: работа в банке — просто доп. информация, сестра одна. Без запятых придаточное выбирает одну из нескольких сестёр."
+  - q: "The report, ___ I spent the whole weekend on, was rejected in five minutes."
+    options: ["that", "which", "what"]
+    answer: 1
+    explain: "Non-defining о вещи → **which**. После запятой *that* не используется, а *what* вообще не относительное местоимение."
+  - q: "She didn't reply to any of my messages, ___ was a bit rude."
+    options: ["which", "it", "what"]
+    answer: 0
+    explain: "**which** про всё предыдущее предложение. С *it* получились бы два предложения, склеенные запятой."
+  - q: "The festival, ___ thousands of people attend every year, was cancelled because of the storm."
+    options: ["that", "which", "where"]
+    answer: 1
+    explain: "*attend a festival* — без предлога, фестиваль здесь объект → **which**. *Where* требовал бы «в нём», *that* невозможно после запятой."
+  - q: "Our neighbours, ___ we hardly know, invited us to their wedding."
+    options: ["whom", "which", "that"]
+    answer: 0
+    explain: "Люди и объект придаточного (*we hardly know them*) → **whom** (разговорно *who*). Опустить местоимение в non-defining нельзя."

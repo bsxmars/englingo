@@ -1,0 +1,46 @@
+title: "Коллокации: наречие + прилагательное"
+type: gap
+intro: |
+  Впиши **одно** наречие, которое естественно сочетается со словом после пропуска. Подсказки из урока: *highly, deeply, bitterly, fully, acutely, perfectly, utterly, vastly, strongly, sorely, heavily, greatly*.
+
+  Засчитываются все естественные варианты, но постарайся вспомнить «главного партнёра».
+hints:
+  - "Разочарование и холод — bitterly; вероятность — highly; осознание — fully или acutely."
+  - "Глаголы recommend, oppose, disagree — strongly."
+items:
+  - q: "Fans were ___ disappointed when the final was postponed for a third time."
+    answers: ["bitterly", "deeply", "hugely", "terribly", "extremely", "very", "really", "sorely"]
+    explain: "Главная пара — **bitterly disappointed**, допустимо и *deeply disappointed*. Не ~~highly disappointed~~."
+  - q: "Given the forecast, it is ___ unlikely that the match will go ahead."
+    answers: ["highly", "very", "extremely"]
+    explain: "Вероятность усиливается через **highly**: *highly likely / unlikely*. Нельзя ~~deeply unlikely~~."
+  - q: "We are ___ aware of the concerns raised by residents and are reviewing the plans."
+    answers: ["fully", "acutely", "well", "very", "keenly", "painfully", "perfectly", "only too"]
+    explain: "*aware* сочетается с **fully** (официально: «в полной мере осознаём»), *acutely*, *well*. Не ~~highly aware~~."
+  - q: "The proposal has ___ divided opinion within the party."
+    answers: ["deeply", "sharply", "bitterly"]
+    explain: "**deeply divided** — устойчивая пара о расколе мнений; возможно и *sharply / bitterly divided*."
+  - q: "The hotel was ___ booked, so we had to find somewhere else."
+    answers: ["fully", "completely", "totally"]
+    explain: "«Всё забронировано» — **fully booked**. Это абсолютное состояние, *very booked* невозможно."
+  - q: "Local farmers are ___ opposed to the new motorway."
+    answers: ["bitterly", "strongly", "fiercely", "vehemently", "firmly", "implacably", "deeply"]
+    explain: "*opposed* ходит с **strongly** или *bitterly*: *strongly / bitterly opposed to*."
+  - q: "I was ___ tempted to walk out halfway through the presentation."
+    answers: ["sorely", "very", "really", "strongly", "seriously", "greatly", "so", "almost"]
+    explain: "Книжная устойчивая пара — **sorely tempted** («так и подмывало»)."
+  - q: "The region's economy is ___ dependent on tourism."
+    answers: ["heavily", "highly", "largely", "very", "entirely", "totally", "wholly", "completely", "almost entirely", "increasingly", "extremely", "hugely"]
+    explain: "Зависимость — **heavily dependent** (или *highly dependent*). Не ~~strongly dependent~~ в этом значении."
+  - q: "The second edition is ___ superior to the first, with three new chapters."
+    answers: ["vastly", "far", "greatly", "much", "markedly", "clearly", "considerably", "significantly", "infinitely"]
+    explain: "*superior* — уже сравнение, поэтому не *very*, а **vastly / far superior**."
+  - q: "She is ___ qualified for the role, with two degrees and a decade of experience."
+    answers: ["highly", "well", "eminently", "extremely", "very", "exceptionally", "superbly", "ideally", "more than"]
+    explain: "О квалификации — **highly qualified** (или *well qualified*). Не ~~deeply qualified~~."
+  - q: "It's ___ normal to feel nervous before a job interview."
+    answers: ["perfectly", "completely", "totally", "entirely", "quite", "absolutely"]
+    explain: "**perfectly normal** — «совершенно нормально, ничего страшного»: успокаивающая коллокация."
+  - q: "I would ___ appreciate it if you could send the documents by Friday."
+    answers: ["greatly", "really", "very much", "much", "truly"]
+    explain: "Формальное письмо: **greatly appreciate** или *really appreciate*. ~~very appreciate~~ невозможно: перед глаголом *very* без *much* не ставится."

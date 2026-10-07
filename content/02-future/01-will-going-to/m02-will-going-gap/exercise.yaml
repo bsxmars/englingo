@@ -1,0 +1,40 @@
+title: "Какое будущее?"
+type: gap
+intro: "Поставь глагол в скобках в подходящую форму: **will**, **be going to**, **Present Continuous** или **Present Simple**. Если подходят несколько, засчитаем любую верную. Сокращения (*I'll*, *won't*, *I'm*) засчитываются."
+hints:
+  - "Решение в момент речи, обещание, предложение помощи → will."
+  - "Решено заранее или видны признаки → going to. Договорились на время → Present Continuous. Расписание → Present Simple."
+items:
+  - q: "Look at those black clouds! It ___ (rain)."
+    answers: ["is going to rain", "'s going to rain"]
+    explain: "Прогноз по признакам, которые видны прямо сейчас (тучи) → **going to**."
+  - q: "— The phone's ringing. — OK, I ___ (get) it."
+    answers: ["will get"]
+    explain: "Решение принято в момент речи → **will**: *I'll get it.*"
+  - q: "I ___ (meet) Anna at 7 tonight — we booked a table last week."
+    answers: ["am meeting", "am going to meet", "will be meeting"]
+    explain: "Договорённость с конкретным временем и местом → лучше всего **Present Continuous**: *I'm meeting*. *going to meet* тоже верно."
+  - q: "Hurry up! The train ___ (leave) at 6:45, and it's already 6:30."
+    answers: ["leaves", "is leaving", "'s leaving", "will leave"]
+    explain: "Расписание → естественнее всего **Present Simple**: *The train leaves at 6:45.*"
+  - q: "I promise I ___ (not / tell) anyone."
+    answers: ["will not tell"]
+    explain: "Обещание → **will**: *I won't tell anyone.*"
+  - q: "I've decided: I ___ (learn) to drive this year. I've already found an instructor."
+    answers: ["am going to learn", "am learning"]
+    explain: "Решение принято **заранее** (*I've decided*) → **going to**; раз инструктор уже найден, подойдёт и Present Continuous."
+  - q: "I think Brazil ___ (win) the next World Cup."
+    answers: ["will win", "is going to win", "are going to win", "'s going to win"]
+    explain: "Мнение о будущем без видимых признаков, после **I think** → обычно **will**."
+  - q: "— This bag is so heavy! — Give it to me. I ___ (carry) it for you."
+    answers: ["will carry"]
+    explain: "Предложение помощи, решение в момент речи → **will**: *I'll carry it.*"
+  - q: "What time ___ (the film / start) tonight?"
+    answers: ["does the film start", "is the film starting", "will the film start", "is the film going to start"]
+    explain: "Время по расписанию кинотеатра → естественнее всего **Present Simple**: *What time does the film start?*"
+  - q: "We ___ (have) a baby in May!"
+    answers: ["are having", "'re having", "are going to have", "'re going to have", "will be having"]
+    explain: "Событие уже «запланировано» и известно → **Present Continuous** или **going to**. *will have* для такой новости не подходит."
+  - q: "— Tea or coffee? — I ___ (have) coffee, please."
+    answers: ["will have"]
+    explain: "Выбор делается прямо сейчас → **will**: *I'll have coffee.* Так заказывают в кафе."

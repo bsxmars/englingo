@@ -1,0 +1,44 @@
+title: "Найди и исправь ошибку: zero, first, second"
+type: error
+intro: "В каждом предложении **одна** ошибка в форме глагола или выборе if / when. Исправь её и отправь предложение целиком."
+hints:
+  - "Про будущее после if и when — Present Simple, will только в результате."
+  - "Второй тип: if + Past Simple, в результате would / could / might."
+  - "when — точно случится; if — может и не случиться."
+items:
+  - q: "If the deployment will fail again, we'll roll back to the previous version."
+    answers: ["If the deployment fails again, we'll roll back to the previous version.", "If the deployment fails again, we will roll back to the previous version."]
+    explain: "В условии о будущем — **Present Simple**: *If the deployment fails*. *will* — только в главной части."
+  - q: "If I would have a garden, I'd grow my own tomatoes."
+    answers: ["If I had a garden, I'd grow my own tomatoes.", "If I had a garden, I would grow my own tomatoes."]
+    explain: "Второй тип: в условии **Past Simple** (*had*), *would* — только в результате."
+  - q: "If you heat butter, it melted."
+    answers: ["If you heat butter, it melts."]
+    explain: "Zero conditional — общая истина: **Present Simple** в обеих частях: *it melts*."
+  - q: "I'll send you the link when the meeting will start."
+    answers: ["I'll send you the link when the meeting starts.", "I will send you the link when the meeting starts."]
+    explain: "После **when** о будущем — тоже Present Simple: *when the meeting starts*."
+  - q: "If I was the CEO, I'll give everyone a four-day week."
+    answers: ["If I was the CEO, I'd give everyone a four-day week.", "If I were the CEO, I'd give everyone a four-day week.", "If I were the CEO, I would give everyone a four-day week.", "If I was the CEO, I would give everyone a four-day week."]
+    explain: "Нереальная ситуация (я не CEO) → второй тип: в результате **would**, а не *will*."
+  - q: "When I win the lottery, I'll buy a house by the sea."
+    answers: ["If I win the lottery, I'll buy a house by the sea.", "If I won the lottery, I'd buy a house by the sea.", "If I won the lottery, I would buy a house by the sea.", "If I win the lottery, I will buy a house by the sea."]
+    explain: "Выигрыш не гарантирован → **if**. *when* звучит так, будто ты точно выиграешь."
+  - q: "If you'll need a hand with the move, just give me a call."
+    answers: ["If you need a hand with the move, just give me a call."]
+    explain: "*If you'll…* возможно только как вежливая просьба («будьте добры»). Здесь обычное условие → **If you need**."
+  - q: "If my laptop wasn't so old, I can run the new IDE on it."
+    answers: ["If my laptop wasn't so old, I could run the new IDE on it.", "If my laptop weren't so old, I could run the new IDE on it.", "If my laptop wasn't so old, I would be able to run the new IDE on it.", "If my laptop weren't so old, I would be able to run the new IDE on it."]
+    explain: "Второй тип: в результате **could** (= *would be able to*), а не *can*."
+  - q: "If you are going to the post office anyway, could you posting this letter for me?"
+    answers: ["If you are going to the post office anyway, could you post this letter for me?", "If you're going to the post office anyway, could you post this letter for me?"]
+    explain: "Условие в Present Continuous здесь правильное. Ошибка в результате: после **could you** — инфинитив без *to*: *could you post*."
+  - q: "What would you do if you see a colleague stealing from the company?"
+    answers: ["What would you do if you saw a colleague stealing from the company?", "What will you do if you see a colleague stealing from the company?"]
+    explain: "Гипотетическая ситуация с *would* → в условии **Past Simple**: *if you saw*. Типы не смешиваем."
+  - q: "If he has already left the office, I'll called him on his mobile."
+    answers: ["If he has already left the office, I'll call him on his mobile.", "If he's already left the office, I'll call him on his mobile."]
+    explain: "Present Perfect в условии допустим. Ошибка в результате: после **will** — голый инфинитив *call*."
+  - q: "If it's going to snow tonight, we had better to leave now."
+    answers: ["If it's going to snow tonight, we had better leave now.", "If it is going to snow tonight, we had better leave now.", "If it's going to snow tonight, we'd better leave now."]
+    explain: "*be going to* в условии допустим (снег уже предсказан). Ошибка в результате: после **had better** — инфинитив без *to*."

@@ -1,0 +1,51 @@
+title: "Глагол и наречие как позиция автора"
+type: choice
+intro: "Все варианты грамматичны. Выбери тот, что точнее передаёт отношение автора к источнику, жанр и регистр."
+hints:
+  - "demonstrate / show — автор согласен; claim / allege — дистанцируется; acknowledge — признание ограничения."
+  - "allegedly — юридическая осторожность; supposedly, ostensibly — ирония; apparently — разговорное «говорят»."
+items:
+  - q: "(Судебная хроника) The defendant ___ entered the building through a back window."
+    options: ["allegedly", "supposedly", "apparently"]
+    answer: 0
+    explain: "В отчёте о суде нужна нейтральная юридическая осторожность — **allegedly**. *supposedly* звучит как насмешка, *apparently* — как сплетня."
+  - q: "(Автор считает доказательства надёжными) Large-scale trials ___ that the vaccine reduces hospital admissions."
+    options: ["demonstrate", "claim", "allege"]
+    answer: 0
+    explain: "**demonstrate** показывает, что автор принимает вывод как доказанный. *claim* и *allege* — дистанция и сомнение."
+  - q: "Critics ___ that the reform will save money, but the figures tell a different story."
+    options: ["show", "claim", "acknowledge"]
+    answer: 1
+    explain: "Продолжение *but the figures tell a different story* — автор не верит → **claim**. *show* означал бы, что это правда."
+  - q: "The authors ___ that their sample was small and drawn from a single city."
+    options: ["claim", "acknowledge", "demonstrate"]
+    answer: 1
+    explain: "Авторы сами признают слабое место исследования → **acknowledge**."
+  - q: "(В чате с коллегой) ___, the canteen's closing next month — that's what Tom heard."
+    options: ["Apparently", "Purportedly", "Allegedly"]
+    answer: 0
+    explain: "Разговорный пересказ слухов → **Apparently**. *Purportedly* — книжное, *allegedly* — про обвинения."
+  - q: "He offered to help with the project, ___ out of kindness, but in fact he wanted access to our data."
+    options: ["ostensibly", "reportedly", "allegedly"]
+    answer: 0
+    explain: "**ostensibly** — «на вид, под предлогом»: внешний мотив противопоставлен настоящему."
+  - q: "The museum has acquired a manuscript ___ written by the poet himself."
+    options: ["purportedly", "evidently", "obviously"]
+    answer: 0
+    explain: "Авторство не подтверждено → **purportedly** («якобы», книжный регистр). *evidently / obviously* утверждали бы, что это очевидно."
+  - q: "In her 2019 study, Lee ___ 300 nurses about their working hours."
+    options: ["surveyed", "surveys", "has surveyed"]
+    answer: 0
+    explain: "Конкретное исследование как **событие** в прошлом → Past Simple. Present Simple в академическом тексте — для идей и выводов, а не для действий учёного."
+  - q: "Patel (2020) ___ that the gender pay gap is narrowing, a view shared by most economists."
+    options: ["argues", "has been arguing", "was arguing"]
+    answer: 0
+    explain: "Идеи источников в академическом тексте пересказывают в **Present Simple** — «настоящее дискуссии»."
+  - q: "The data ___ that there may be a link between screen time and poor sleep."
+    options: ["suggest", "propose", "recommend"]
+    answer: 0
+    explain: "**suggest** в академическом тексте — «дают основания предполагать». *propose / recommend* — предлагать действие, а данные ничего не предлагают."
+  - q: "The police, who have not yet identified the man, ___ him to be in his forties."
+    options: ["believe", "know", "allege"]
+    answer: 0
+    explain: "Личность не установлена, это оценка → **believe**. *know* слишком уверенно, *allege* — про обвинения, а не про возраст."

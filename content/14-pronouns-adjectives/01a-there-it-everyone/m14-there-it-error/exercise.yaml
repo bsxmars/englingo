@@ -1,0 +1,40 @@
+title: "Найди и исправь ошибку: there, it, none"
+type: error
+intro: "В каждом предложении одна ошибка. Исправь предложение и впиши его целиком."
+hints:
+  - "no point, no need → there; takes, worth, no use, find … to → it."
+  - "Одно отрицание на предложение. none of, но no one без of."
+items:
+  - q: "It is no point in waiting for him any longer."
+    answers: ["There is no point in waiting for him any longer.", "There's no point in waiting for him any longer."]
+    explain: "Конструкция *no point (in) -ing* работает только с **there**: *There's no point in waiting*."
+  - q: "I took three days to set up the new server."
+    answers: ["It took me three days to set up the new server."]
+    explain: "Затраченное время → **It took me** + время + *to*. *I took three days* значит «я взял три дня (отгула)»."
+  - q: "This museum is worth to visit if you like modern art."
+    answers: ["This museum is worth visiting if you like modern art.", "This museum is worth a visit if you like modern art."]
+    explain: "После **worth** — *-ing* или существительное: *worth visiting / worth a visit*. Инфинитив с *to* невозможен."
+  - q: "No one of the guests noticed the mistake."
+    answers: ["None of the guests noticed the mistake."]
+    explain: "Перед *of the* + сущ. нужен **None**. *No one* стоит отдельно: *No one noticed the mistake*."
+  - q: "I find very difficult to wake up early in winter."
+    answers: ["I find it very difficult to wake up early in winter."]
+    explain: "*find* + **it** + прилагательное + *to*: пустое *it* нельзя пропускать, как и в русском «мне трудно» нельзя пропустить «трудно»."
+  - q: "Everybody have to sign in at reception."
+    answers: ["Everybody has to sign in at reception."]
+    explain: "*everybody* — единственное число: **has to**. Множественное число появляется только в местоимениях: *their badge*."
+  - q: "Nobody didn't tell me the meeting had been cancelled."
+    answers: ["Nobody told me the meeting had been cancelled.", "Nobody told me that the meeting had been cancelled."]
+    explain: "*Nobody* уже отрицание, второе *not* не нужно: **Nobody told me**. Двойное отрицание — калька с русского."
+  - q: "There seem to be a problem with the payment system."
+    answers: ["There seems to be a problem with the payment system."]
+    explain: "После *there* глагол согласуется с существительным **после** него: *a problem* → **seems**."
+  - q: "I'd appreciate if you could send me the slides."
+    answers: ["I'd appreciate it if you could send me the slides.", "I would appreciate it if you could send me the slides."]
+    explain: "*appreciate* требует дополнения: **appreciate it if**. Без *it* фраза неграмматична — частая ошибка в деловых письмах."
+  - q: "It's no use to call him — his phone is always off."
+    answers: ["It's no use calling him — his phone is always off.", "It is no use calling him — his phone is always off."]
+    explain: "**It's no use + -ing**: *no use calling*. После *use* здесь не инфинитив."
+  - q: "There's raining again, so take an umbrella."
+    answers: ["It's raining again, so take an umbrella.", "It is raining again, so take an umbrella."]
+    explain: "Погода → пустое **it**: *It's raining*. *there* только сообщает, что что-то существует: *There's a storm coming*."

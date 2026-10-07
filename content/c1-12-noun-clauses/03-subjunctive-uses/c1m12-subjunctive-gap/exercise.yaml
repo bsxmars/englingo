@@ -1,0 +1,43 @@
+title: "Сослагательное или should"
+type: gap
+intro: "Поставь глагол в скобках в форму, уместную в **формальном** тексте: сослагательное наклонение (базовая форма) или *should* + базовая форма. Засчитываются оба варианта."
+hints:
+  - "Сослагательное: одна форма для всех лиц — that he be, that she pay; отрицание — not + глагол."
+  - "Пассив в сослагательном: be + V3 — that it be reversed."
+items:
+  - q: "The landlord requires that the tenant ___ (give) two months' notice before leaving."
+    answers: ["give", "should give"]
+    explain: "*require that* + сослагательное: **give** без *-s* (или *should give*)."
+  - q: "It is essential that every applicant ___ (submit) the form by Friday."
+    answers: ["submit", "should submit"]
+    explain: "*It is essential that* + сослагательное **submit**."
+  - q: "We recommend that the software ___ (not / install) on shared computers."
+    answers: ["not be installed", "should not be installed", "shouldn't be installed"]
+    explain: "Отрицательное пассивное сослагательное: **not be installed** — *not* перед *be*, без *do*."
+  - q: "The judge insisted that the defendant ___ (be) present at every hearing."
+    answers: ["be", "should be"]
+    explain: "*insist* в значении требования → сослагательное **be**, хотя главный глагол в прошедшем."
+  - q: "It is vital that the samples ___ (keep) at a constant temperature."
+    answers: ["be kept", "should be kept"]
+    explain: "Пассивное сослагательное: **be kept**."
+  - q: "The union has demanded that the decision ___ (reverse) immediately."
+    answers: ["be reversed", "should be reversed"]
+    explain: "*demand that* + **be reversed** — решение отменяют (пассив)."
+  - q: "Doctors advise that patients ___ (not / drive) for 24 hours after the procedure."
+    answers: ["not drive", "should not drive", "shouldn't drive"]
+    explain: "Отрицание в сослагательном: **not drive** (не ~~don't drive~~)."
+  - q: "She proposed that the meeting ___ (hold) online to save travel costs."
+    answers: ["be held", "should be held"]
+    explain: "*propose that* + **be held**: время *proposed* на форму не влияет."
+  - q: "If I ___ (be) you, I would accept the offer without hesitation."
+    answers: ["were", "was"]
+    explain: "Прошедшее сослагательное **were** для всех лиц; *was* — разговорный вариант."
+  - q: "It is imperative that no one ___ (enter) the laboratory without protective clothing."
+    answers: ["enter", "should enter"]
+    explain: "*It is imperative that* + сослагательное **enter**."
+  - q: "The contract stipulates that payment ___ (make) within 30 days of delivery."
+    answers: ["be made", "should be made", "must be made", "is to be made"]
+    explain: "*stipulate that* + пассивное сослагательное **be made**; *must be made* тоже передаёт условие договора."
+  - q: "The committee's recommendation that the scheme ___ (extend) to all regions was accepted."
+    answers: ["be extended", "should be extended"]
+    explain: "После существительного *recommendation* — тоже сослагательное: **be extended**."

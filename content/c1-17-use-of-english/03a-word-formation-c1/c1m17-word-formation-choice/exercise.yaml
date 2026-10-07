@@ -1,0 +1,55 @@
+title: "Похожие производные: какая форма по смыслу?"
+type: choice
+intro: "От одного корня часто образуются два-три прилагательных или существительных с разным значением. В Part 3 правильная часть речи не спасает: нужно ещё и верное значение. Выбери слово, которое подходит по смыслу."
+hints:
+  - "economic (об экономике) / economical (экономный); historic (исторически важный) / historical (относящийся к истории)."
+  - "sensible (разумный) / sensitive (чувствительный); respectful (уважительный) / respectable (достойный уважения)."
+items:
+  - q: "Buying a smaller car turned out to be a very ___ decision: we now spend half as much on fuel."
+    options: ["economic", "economical", "economy", "economically"]
+    answer: 1
+    explain: "**economical** — «экономный, выгодный». *economic* — «экономический»: *economic growth*."
+  - q: "The government's ___ policy has been blamed for the rise in unemployment."
+    options: ["economical", "economic", "economist", "economising"]
+    answer: 1
+    explain: "Политика в сфере экономики → **economic policy**. *economical policy* значило бы «бережливая политика»."
+  - q: "The signing of the treaty was a ___ moment for both nations."
+    options: ["historical", "historic", "history", "historian"]
+    answer: 1
+    explain: "**historic** — «исторический, судьбоносный» (важный для истории). *historical* — «относящийся к прошлому»: *historical documents*."
+  - q: "The museum holds a large collection of ___ documents dating back to the sixteenth century."
+    options: ["historic", "historical", "historically", "history"]
+    answer: 1
+    explain: "Документы из прошлого, предмет изучения истории → **historical**."
+  - q: "It would be ___ to get a second opinion before agreeing to the operation."
+    options: ["sensitive", "sensible", "sensory", "sensational"]
+    answer: 1
+    explain: "**sensible** — «разумный, здравый». *sensitive* — «чувствительный, деликатный» — ложный друг для русскоговорящих."
+  - q: "This is a politically ___ issue, so please choose your words carefully."
+    options: ["sensible", "sensitive", "sensual", "senseless"]
+    answer: 1
+    explain: "«Щекотливый, деликатный» вопрос → **sensitive**."
+  - q: "The children were taught to be ___ towards their elders."
+    options: ["respectable", "respectful", "respective", "respected"]
+    answer: 1
+    explain: "**respectful** — «проявляющий уважение». *respectable* — «приличный, достойный уважения»: *a respectable family*."
+  - q: "After the scandal, he tried hard to look like a ___ member of society again."
+    options: ["respectful", "respective", "respectable", "respecting"]
+    answer: 2
+    explain: "«Достойный, приличный» человек → **respectable**. *respective* — «соответствующий»: *their respective countries*."
+  - q: "The two athletes returned to their ___ countries after the championship."
+    options: ["respectable", "respectful", "respective", "respected"]
+    answer: 2
+    explain: "**respective** — «каждый свой, соответствующий»."
+  - q: "Despite his ___ manner, he can be surprisingly ruthless in negotiations."
+    options: ["childish", "childlike", "childless", "childhood"]
+    answer: 1
+    explain: "**childlike** — «по-детски непосредственный, простодушный». *Despite* требует контраста: простодушная манера ↔ безжалостность. *childish* — «инфантильный» (неодобрительно), контраст пропадает."
+  - q: "Stop being so ___ — you're thirty-five, not five!"
+    options: ["childlike", "childish", "childly", "childless"]
+    answer: 1
+    explain: "Неодобрение → **childish**. Суффикс *-ish* у прилагательных характера часто несёт негативную оценку."
+  - q: "The new drug proved highly ___ in reducing symptoms within a week."
+    options: ["efficient", "effective", "effectual", "affective"]
+    answer: 1
+    explain: "**effective** — «действенный, дающий результат». *efficient* — «эффективный по затратам ресурсов»: *an efficient engine*."

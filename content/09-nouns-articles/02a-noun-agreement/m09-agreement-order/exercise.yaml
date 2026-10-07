@@ -1,0 +1,37 @@
+title: "Собери предложение: согласование и сочетания"
+type: order
+intro: "Собери английское предложение из слов. Следи за согласованием глагола, формой составных прилагательных (*a ten-minute walk*) и местом *such a / quite a / what a*."
+hints:
+  - "a number of + мн. ч. → глагол во мн. ч.; the number of → глагол в ед. ч."
+  - "such a / quite a + прилагательное + существительное."
+items:
+  - q: "«Количество туристов в Венеции растёт каждый год»."
+    answers: ["The number of tourists in Venice grows every year", "Every year the number of tourists in Venice grows"]
+    explain: "**The number of** — «количество» (одно число) → глагол в единственном числе: *grows*."
+  - q: "«Ряд сотрудников пожаловались на новые правила»."
+    answers: ["A number of employees have complained about the new rules"]
+    explain: "**A number of** = «несколько, ряд» → глагол во множественном: *have complained*."
+  - q: "«Это двухчасовой перелёт из Москвы в Казань»."
+    answers: ["It's a two-hour flight from Moscow to Kazan"]
+    explain: "Число + существительное перед другим существительным — без *-s*: **a two-hour flight**."
+  - q: "«Новости о сделке были хуже, чем мы ожидали»."
+    answers: ["The news about the deal was worse than we expected"]
+    explain: "**news** — неисчисляемое, глагол в единственном числе: *was*."
+  - q: "«Полиция ищет водителя второй машины»."
+    answers: ["The police are looking for the driver of the other car"]
+    explain: "**the police** всегда с глаголом во множественном числе: *are looking*."
+  - q: "«Это была настолько скучная встреча, что я чуть не уснул»."
+    answers: ["It was such a boring meeting that I almost fell asleep"]
+    explain: "**such a** + прилагательное + существительное в единственном числе + *that*."
+  - q: "«Мне нужны новые очки для чтения»."
+    answers: ["I need a new pair of reading glasses"]
+    explain: "*glasses* — pair noun; «одни очки» — **a pair of glasses** (или просто *glasses* без артикля)."
+  - q: "«Какая ужасная погода для свадьбы!»"
+    answers: ["What terrible weather for a wedding"]
+    explain: "*weather* неисчисляемое → **What** + прилагательное + существительное **без a**."
+  - q: "«Ни один из ноутбуков в офисе не работает»."
+    answers: ["None of the laptops in the office is working", "None of the laptops is working in the office"]
+    explain: "После **none of** + мн. ч. возможны оба числа глагола: *is* — формальнее, *are* — разговорнее; здесь собираем вариант с *is*."
+  - q: "«Мой брат нашёл довольно хорошую работу в Берлине»."
+    answers: ["My brother found quite a good job in Berlin", "In Berlin my brother found quite a good job"]
+    explain: "**quite a** + прилагательное + существительное: *quite a good job* (а не ~~a quite good job~~)."

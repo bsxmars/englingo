@@ -1,0 +1,44 @@
+title: "Условие без if: одно слово"
+type: gap
+intro: "Впиши **одно** слово, как в C1 Use of English Part 2."
+hints:
+  - "as / so long as, on condition that, in the event of."
+  - "But for, With, Otherwise, or else."
+  - "Устойчивые формулы: if in doubt, little if any."
+items:
+  - q: "You can borrow my laptop ___ long as you don't install anything on it."
+    answers: ["as", "so"]
+    explain: "**as long as** и **so long as** — «при условии, что»; *so long as* чуть разговорнее."
+  - q: "I'll leave the porch light on in ___ you get back after dark."
+    answers: ["case"]
+    explain: "Свет включаю заранее, на всякий случай → **in case**."
+  - q: "Hurry up, or ___ we'll miss the last bus."
+    answers: ["else"]
+    explain: "**or else** после императива = «а не то». Усиленный вариант *or*."
+  - q: "___ for the referee's mistake, we would have won the cup."
+    answers: ["But"]
+    explain: "**But for** + существительное = *If it hadn't been for*."
+  - q: "I'll sign the contract on ___ that my name is removed from the press release."
+    answers: ["condition"]
+    explain: "Формальное **on condition that** — условие договорённости."
+  - q: "___ you were offered a place at Oxford — would you take it?"
+    answers: ["Suppose", "Supposing", "Say", "Imagine"]
+    explain: "Воображаемая ситуация: **Suppose / Supposing / Say / Imagine** + Past, в вопросе — *would*."
+  - q: "In the ___ of a cancellation, passengers will be offered a full refund."
+    answers: ["event", "case"]
+    explain: "Официальная формула **in the event of** + существительное = «в случае»."
+  - q: "We'd better leave now; ___, we'll get stuck in rush-hour traffic."
+    answers: ["otherwise"]
+    explain: "**otherwise** = «иначе, если нет». Стоит после точки с запятой и отделяется запятой."
+  - q: "___ a bit of luck, we should be finished by Friday."
+    answers: ["With"]
+    explain: "**With** + существительное = «если будет, при наличии»."
+  - q: "If ___ doubt, ask your supervisor before publishing anything."
+    answers: ["in"]
+    explain: "Сокращённая формула **if in doubt** = «если сомневаешься»."
+  - q: "There is little, if ___, evidence that the policy has reduced crime."
+    answers: ["any"]
+    explain: "**little, if any** — «мало, а может, и вовсе нет». Для глаголов — *rarely, if ever*."
+  - q: "Touch that switch again ___ you'll regret it!"
+    answers: ["and"]
+    explain: "Императив + **and** = «если сделаешь это — пожалеешь». Это угроза о последствиях действия."

@@ -1,0 +1,45 @@
+title: "Итоговое эссе C1: как сделать людей здоровее"
+type: writing
+prompt: |
+  *Your class has attended a panel discussion on what governments can do to encourage people to lead healthier lives. You have made the notes below.*
+
+  **Ways governments could encourage healthier lifestyles:**
+
+  - taxes on unhealthy food and drink
+  - free public sports facilities
+  - health education in schools
+
+  **Some opinions expressed in the discussion:**
+
+  - *"People will simply pay more — taxes don't change habits."*
+  - *"A new sports centre is useless if nobody has the time to use it."*
+  - *"Children who learn good habits early keep them for life."*
+
+  Write an **essay** discussing **two** of the methods in your notes. You should **explain which method you think is more effective**, giving reasons to support your opinion.
+
+  You may, if you wish, make use of the opinions expressed in the discussion, but you should use your own words as far as possible.
+
+  Write your essay in **220–260** words. Try to finish in 45 minutes.
+words: [220, 260]
+target_grammar:
+  - "безличные и пассивные конструкции для обобщений (it is often argued that…, is widely believed to…)"
+  - "уступка и противопоставление (while, admittedly, even so, however + прилагательное)"
+  - "инверсия или cleft-конструкция для акцента (Not only…, What matters is…)"
+  - "условные предложения, в том числе смешанные и с инверсией (Were…, Should…)"
+  - "точные модальные для оценки (may well, is bound to, can hardly)"
+checklist:
+  - "Вступление обозначает проблему и называет два выбранных способа; заключение ясно говорит, какой эффективнее и почему."
+  - "Каждому способу — отдельный абзац с аргументом, примером и честным ограничением."
+  - "Мнения из обсуждения пересказаны своими словами, а не скопированы."
+  - "Есть минимум одна инверсия или cleft-конструкция и одна безличная пассивная конструкция."
+  - "Связки разнообразные и точные: Admittedly, Even so, By contrast, Crucially — без механических Firstly / Secondly в каждом абзаце."
+  - "Формальный регистр: без сокращений, без разговорных слов, местоимение you — не обращение к читателю."
+  - "Объём 220–260 слов, текст написан примерно за 45 минут."
+model_answer: |
+  It is widely accepted that unhealthy lifestyles place an enormous burden on public health systems, yet there is far less agreement about how governments should respond. Two approaches are frequently proposed: taxing unhealthy food and drink, and teaching children about health at school.
+
+  The case for taxation rests on a simple principle: when something becomes more expensive, people tend to buy less of it. Admittedly, critics argue that consumers will simply absorb the extra cost rather than change their habits. Even so, the evidence from sugar taxes suggests that manufacturers often respond by reformulating their products, which means that consumers end up eating more healthily without having made any conscious decision to do so. What taxation cannot do, however, is persuade anyone that health matters.
+
+  This is precisely where education has the advantage. Not only does it reach every child regardless of family income, but it also shapes attitudes at an age when habits are still being formed. A teenager who has learnt to cook a few simple meals is far less likely to depend on processed food as an adult. The drawback, of course, is that the benefits may take a generation to become visible, which makes such programmes politically unattractive.
+
+  On balance, I believe that education is the more effective of the two methods. Taxes may well change what people buy, but only education can change why they buy it. Were governments prepared to invest in it consistently, the long-term savings would almost certainly outweigh the cost.

@@ -1,0 +1,39 @@
+title: "Эссе: смартфоны в школе"
+type: writing
+intro: "Напиши эссе в формате B2 First Part 1. Раскрой оба пункта из задания и добавь свой третий."
+hints:
+  - "Пять абзацев: вступление, пункт 1, пункт 2, твой пункт, заключение."
+  - "После модальных глаголов — инфинитив без to."
+prompt: |
+  In your English class you have been talking about technology and education. Now your English teacher has asked you to write an essay.
+
+  **Should children be allowed to use smartphones at school?**
+
+  Notes — write about:
+
+  1. learning
+  2. safety
+  3. ............ (your own idea)
+words: [140, 190]
+target_grammar:
+  - "must / mustn't / don't have to / should"
+  - "can / could / be able to / be allowed to"
+  - "might / may / could для осторожных предположений"
+checklist:
+  - "Есть вступление, абзацы про learning и safety, абзац со своим пунктом и заключение."
+  - "Мнение ясно сформулировано в заключении."
+  - "Использованы минимум четыре разных модальных глагола, в том числе be allowed to."
+  - "После must, should, can, might нигде нет лишнего to."
+  - "Абзацы связаны: On the one hand, What is more, However, In conclusion."
+  - "Нейтральный регистр: без сокращений и разговорных слов."
+  - "Объём 140–190 слов."
+model_answer: |
+  Nowadays almost every child owns a smartphone, and many parents feel their children must carry one at all times. However, whether pupils should be allowed to use them during lessons is a more difficult question.
+
+  On the one hand, smartphones can be useful for learning. Pupils are able to look up information instantly, and teachers could use educational apps to make lessons more interactive. Banning phones completely might mean losing these opportunities.
+
+  When it comes to safety, parents may want to contact their children during the day. However, every school has a telephone for emergencies, so pupils do not need to have their own phones in class. What is more, social media can lead to online bullying, which teachers are not always able to notice.
+
+  Finally, phones are a serious distraction. A single message can break a pupil's concentration, and many children find it almost impossible to stop checking their screens.
+
+  In conclusion, I believe children should be allowed to bring phones to school, but they must not use them in class unless a teacher asks them to. Clear rules, rather than a total ban, are the best solution.

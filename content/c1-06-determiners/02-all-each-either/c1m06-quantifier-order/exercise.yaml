@@ -1,0 +1,37 @@
+title: "Собери предложение"
+type: order
+intro: "Собери предложение из слов. Следи за позицией *all, both, each, half, whole* относительно артикля, вспомогательного глагола и существительного."
+hints:
+  - "half и all — перед артиклем: half an hour, all the time; whole — после: the whole week."
+  - "all / both / each после подлежащего: после be и первого вспомогательного, перед смысловым глаголом."
+items:
+  - q: "Отчёт: «Все участники уже были проинформированы»."
+    answers: ["The participants have all been informed", "All the participants have been informed", "All of the participants have been informed"]
+    explain: "*all* после первого вспомогательного: *have **all** been informed*. Можно и в начале: *All (of) the participants…*"
+  - q: "«Мы потратили на это полчаса»."
+    answers: ["We spent half an hour on it"]
+    explain: "*half* стоит перед артиклем: **half an hour**."
+  - q: "«Забастовка затронула всю Францию»."
+    answers: ["The strike affected the whole of France"]
+    explain: "Перед названием страны — **the whole of**: *the whole of France*."
+  - q: "«Обе мои сестры живут за границей»."
+    answers: ["Both my sisters live abroad", "My sisters both live abroad"]
+    explain: "*both* перед притяжательным (*of* можно опустить): ***Both my** sisters*, или после подлежащего: *My sisters **both** live…*"
+  - q: "«Каждому из нас дали по ключу»."
+    answers: ["We were each given a key", "Each of us was given a key"]
+    explain: "*each* после первого вспомогательного: *We were **each** given a key*. Или *Each of us **was** given a key* — с глаголом в единственном числе."
+  - q: "«Ни один из двух вариантов не идеален»."
+    answers: ["Neither of the two options is ideal", "Neither of the options is ideal"]
+    explain: "*neither of* + *the* + мн. ч. + глагол в ед. ч.: *Neither of the options **is** ideal*."
+  - q: "«Автобусы ходят каждые двадцать минут»."
+    answers: ["The buses run every twenty minutes", "Buses run every twenty minutes"]
+    explain: "*every* + число + мн. ч.: *every twenty minutes*."
+  - q: "«Она проработала там всю свою жизнь»."
+    answers: ["She worked there her whole life", "She worked there all her life"]
+    explain: "*whole* — между определителем и существительным: *her **whole** life*. *all* — перед определителем: ***all** her life*."
+  - q: "«Всё, что нам нужно, — немного больше времени»."
+    answers: ["All we need is a little more time"]
+    explain: "*All* + придаточное = «единственное, что»: ***All** we need is…*"
+  - q: "«Половина бюджета уже потрачена»."
+    answers: ["Half the budget has already been spent", "Half of the budget has already been spent", "Already half the budget has been spent"]
+    explain: "*half (of) the* + неисчисляемое или ед. ч. → глагол в единственном числе: *Half the budget **has** been spent*."

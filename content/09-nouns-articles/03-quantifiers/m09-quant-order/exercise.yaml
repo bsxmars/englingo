@@ -1,0 +1,34 @@
+title: "Собери предложение"
+type: order
+intro: "Собери английское предложение из слов. Перевод подсказывает смысл."
+hints:
+  - "all и both ставятся после подлежащего или после вспомогательного глагола: We all agreed, We have both seen."
+  - "Обстоятельство места или времени — в конце предложения."
+items:
+  - q: "«Ни один из моих двух братьев не живёт в Москве»."
+    answers: ["Neither of my brothers lives in Moscow."]
+    explain: "**Neither of** + *my brothers* + глагол в единственном числе (*lives*). Отрицания *not* нет — оно уже в *neither*."
+  - q: "«Ничего из этой информации не пригодилось»."
+    answers: ["None of the information was useful."]
+    explain: "*information* неисчисляемое → **None of the information** + *was*."
+  - q: "«Мы оба уже смотрели этот фильм»."
+    answers: ["Both of us have already seen this film.", "Both of us have seen this film already."]
+    explain: "**Both of us** — подлежащее. *already* — между *have* и причастием (или в конце)."
+  - q: "«Хотите ещё чаю?» (вежливое предложение)"
+    answers: ["Would you like some more tea?"]
+    explain: "В предложениях и просьбах — **some**, даже в вопросе: мы ждём ответа «да»."
+  - q: "«Я ничего не купил на рынке»."
+    answers: ["I didn't buy anything at the market.", "At the market I didn't buy anything."]
+    explain: "Одно отрицание: *didn't* + **anything**. ~~didn't buy nothing~~ — двойное отрицание."
+  - q: "«Мы все согласились с новым планом»."
+    answers: ["We all agreed with the new plan."]
+    explain: "**all** после подлежащего-местоимения и перед смысловым глаголом: *We all agreed*. ~~All we agreed~~ — ошибка."
+  - q: "«Каждый студент должен принести ноутбук»."
+    answers: ["Every student has to bring a laptop."]
+    explain: "**Every** + единственное число + *has to*. *laptop* исчисляемое → *a laptop*."
+  - q: "«На концерте было очень мало людей»."
+    answers: ["There were very few people at the concert.", "At the concert there were very few people."]
+    explain: "Мало (почти никого) + исчисляемое *people* → **very few**."
+  - q: "«В каждом номере есть своя ванная»."
+    answers: ["Each of the rooms has its own bathroom."]
+    explain: "**Each of the rooms** + *has* (единственное число) + *its own* (у каждого свой)."

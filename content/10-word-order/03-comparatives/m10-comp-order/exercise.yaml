@@ -1,0 +1,37 @@
+title: "Собери предложение: сравнения"
+type: order
+intro: "Собери английское предложение из слов. Следи за местом усилителей (*much, far, a bit*), за конструкциями *as … as*, *the … the …* и *more and more*."
+hints:
+  - "much / far / a bit — перед сравнительной степенью."
+  - "The + сравнительная …, the + сравнительная …"
+items:
+  - q: "«Чем раньше мы начнём, тем раньше закончим»."
+    answers: ["The sooner we start the sooner we will finish", "The sooner we start the sooner we'll finish"]
+    explain: "**The** + сравнительная + подлежащее + глагол, **the** + сравнительная + … — обе части с *the*."
+  - q: "«Новая версия намного быстрее старой»."
+    answers: ["The new version is much faster than the old one"]
+    explain: "Усилитель **much** стоит перед сравнительной степенью: *much faster than*."
+  - q: "«Этот отель не такой дорогой, как я думал»."
+    answers: ["This hotel isn't as expensive as I thought", "This hotel is not as expensive as I thought"]
+    explain: "«Не такой …, как» → **not as + прилагательное + as**."
+  - q: "«Это самое скучное совещание, на котором я когда-либо был»."
+    answers: ["This is the most boring meeting I have ever been to", "This is the most boring meeting I've ever been to"]
+    explain: "Превосходная степень + **Present Perfect с ever**; предлог *to* — в конце."
+  - q: "«Жильё в городе становится всё дороже и дороже»."
+    answers: ["Housing in the city is getting more and more expensive"]
+    explain: "«Всё более» с длинным прилагательным → **more and more expensive**."
+  - q: "«Она водит машину гораздо осторожнее, чем её брат»."
+    answers: ["She drives far more carefully than her brother"]
+    explain: "Сравнение наречий: **more carefully**; усилитель **far** — перед *more*."
+  - q: "«Билеты стоили вдвое дороже, чем в прошлом году»."
+    answers: ["The tickets cost twice as much as last year"]
+    explain: "Во сколько раз → **twice as much as**: число + *as … as*."
+  - q: "«Это был далеко не лучший его фильм»."
+    answers: ["It was by no means his best film"]
+    explain: "**by no means** + превосходная степень = «далеко не» (синоним — *far from*)."
+  - q: "«Мой новый офис чуть меньше старого»."
+    answers: ["My new office is a bit smaller than the old one"]
+    explain: "Смягчитель **a bit** перед сравнительной степенью: *a bit smaller than*."
+  - q: "«Чем больше я читаю, тем меньше понимаю»."
+    answers: ["The more I read the less I understand"]
+    explain: "Модель **the more …, the less …**: после *the more / the less* — подлежащее и глагол."

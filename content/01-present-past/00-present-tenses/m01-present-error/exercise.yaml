@@ -1,0 +1,41 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка. Исправь её и отправь предложение целиком."
+hints:
+  - "После do / does / did — глагол без -s и без -ed."
+  - "Глаголы состояния (know, want, believe, contain) — без -ing."
+  - "have breakfast / have a shower — без got."
+items:
+  - q: "She doesn't knows the password."
+    answers: ["She doesn't know the password."]
+    explain: "После **doesn't** — голый глагол: *know*. Окончание -s уже «ушло» в *does*."
+  - q: "Does your brother works in IT?"
+    answers: ["Does your brother work in IT?"]
+    explain: "В вопросе -s забирает **does**: *Does your brother **work**…?*"
+  - q: "I'm not believing a word he says."
+    answers: ["I don't believe a word he says."]
+    explain: "*believe* — глагол мнения, состояние → **don't believe**."
+  - q: "What time do you usually having lunch?"
+    answers: ["What time do you usually have lunch?"]
+    explain: "Привычка (*usually*) → Present Simple: *do you … **have** lunch*. После *do* — голый глагол."
+  - q: "This bag is containing all my documents."
+    answers: ["This bag contains all my documents."]
+    explain: "*contain* — глагол состояния → **contains**."
+  - q: "I've got a shower every morning before work."
+    answers: ["I have a shower every morning before work.", "I take a shower every morning before work."]
+    explain: "*have a shower* — действие, а не владение: *got* с ним не используется → **I have a shower**."
+  - q: "We did enjoyed the party a lot."
+    answers: ["We did enjoy the party a lot.", "We enjoyed the party a lot."]
+    explain: "Эмфатическое **did** + голый глагол: *did **enjoy***. Без усиления — просто *enjoyed*."
+  - q: "I was knowing the answer, but I was too shy to say it."
+    answers: ["I knew the answer, but I was too shy to say it."]
+    explain: "*know* — глагол состояния, и в прошлом без Continuous → **knew**."
+  - q: "Are you wanting some tea?"
+    answers: ["Do you want some tea?", "Would you like some tea?"]
+    explain: "*want* — глагол желания, состояние → **Do you want**. Вежливее — *Would you like*."
+  - q: "Look, the baby sleeps, so please be quiet."
+    answers: ["Look, the baby is sleeping, so please be quiet.", "Look, the baby's sleeping, so please be quiet."]
+    explain: "*Look* — значит, прямо сейчас → **is sleeping**."
+  - q: "I'm being hungry, so let's eat."
+    answers: ["I'm hungry, so let's eat."]
+    explain: "*being* — только о поведении (*you're being silly*). Голод — состояние → **I'm hungry**."

@@ -1,0 +1,44 @@
+title: "Essay: preparing young people for adult life"
+type: writing
+intro: "Напиши эссе в формате C1 Advanced, Part 1. Обсуди два метода из трёх, реши, какой эффективнее, и объясни почему. Используй сложные формы инфинитива и герундия и конструкции с прилагательными и существительными."
+prompt: |
+  Your class has attended a panel discussion on **how young people can best be prepared for adult life outside school**. You have made the notes below.
+
+  **Methods of preparing young people for adult life:**
+
+  - part-time jobs
+  - voluntary work
+  - life-skills courses at school
+
+  **Some opinions expressed in the discussion:**
+
+  - "Earning your own money teaches you responsibility."
+  - "Helping other people builds confidence."
+  - "Schools should teach practical things like budgeting."
+
+  Write an **essay** discussing **two** of the methods in your notes. You should **explain which method is more effective**, giving reasons to support your opinion. You may, if you wish, make use of the opinions expressed in the discussion, but you should use your own words as far as possible.
+
+  Write your **essay** in 220–260 words.
+words: [220, 260]
+target_grammar:
+  - "Сложные формы: having been / having done, being + V3, to have done"
+  - "It + adjective + for sb + to do; worth doing; be likely to"
+  - "Существительное + to do / of doing: the chance to, the risk of, the decision to"
+checklist:
+  - "Обсуждаются ровно два метода из трёх, каждому — отдельный абзац."
+  - "В заключении ясно сказано, какой метод эффективнее и почему."
+  - "У каждого метода есть и аргумент «за», и ограничение."
+  - "Использованы минимум две сложные формы (having done, being done, to have done и т. п.)."
+  - "Есть конструкции it is + adj + for sb to do, worth doing или be likely to."
+  - "Мнения из задания перефразированы, а не переписаны."
+  - "Формальный регистр, без сокращений; объём 220–260 слов."
+model_answer: |
+  **Preparing young people for adult life**
+
+  It is widely accepted that schools are good at teaching academic subjects but far less successful at preparing teenagers for the practical demands of adult life. Two approaches are frequently proposed to fill this gap: part-time employment and voluntary work.
+
+  The case for part-time jobs is easy to make. Having to arrive on time, deal with customers and manage a modest income instils a sense of responsibility that no classroom can replicate. Moreover, earning their own money gives teenagers a taste of being financially independent. However, such jobs are often repetitive, and there is a real risk of their interfering with schoolwork, particularly in the year before final exams.
+
+  Voluntary work, on the other hand, offers something rather different. Young people who help at a food bank or tutor younger children are likely to develop empathy and confidence, and to discover abilities they did not know they had. The fact that they are not being paid also means that they have chosen to be there, which makes the experience more meaningful. Admittedly, it may be difficult for teenagers from low-income families to give up time they could otherwise spend earning.
+
+  On balance, I consider voluntary work to be the more effective of the two. While a part-time job is certainly worth having, it mainly teaches young people to follow instructions; volunteering teaches them to take the initiative and to see themselves as valued members of their community. Schools would therefore be well advised to make it easier for every student to take part.

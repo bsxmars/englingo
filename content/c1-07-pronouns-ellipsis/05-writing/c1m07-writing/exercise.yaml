@@ -1,0 +1,46 @@
+title: "Essay: encouraging healthier lifestyles"
+type: writing
+intro: "Напиши эссе в формате C1 Advanced, Writing Part 1. Формальный регистр, четыре абзаца, решение в заключении. Используй пустые *it* и *there*, *this / these* для связи и *do so* или эллипсис вместо повторов."
+prompt: |
+  Your class has attended a panel discussion on what governments can do to **encourage people to lead healthier lives**. You have made the notes below.
+
+  **Methods governments could use:**
+
+  - taxing unhealthy food and drink
+  - public health education
+  - designing cities that encourage physical activity
+
+  **Some opinions expressed in the discussion:**
+
+  - "Price is the only thing that really changes what people buy."
+  - "People already know what's healthy — they just don't act on it."
+  - "If walking is easier than driving, people will walk."
+
+  Write an **essay** discussing **two** of the methods in your notes. You should **explain which method you think is more effective**, giving reasons in support of your answer.
+
+  You may, if you wish, make use of the opinions expressed in the discussion, but you should use your own words as far as possible.
+
+  Write your **essay** in 220–260 words.
+words: [220, 260]
+target_grammar:
+  - "Пустое it: It could be argued that…, It is worth noting that…, makes it easier to…"
+  - "Пустое there: There is little doubt that…, There are likely to be…, There seems to be…"
+  - "this / these / such для отсылки к идеям: This approach…, These measures…"
+  - "Замена и эллипсис: do so, one, …but few are able to."
+  - "Generic: people / individuals / we вместо разговорного you"
+checklist:
+  - "Четыре абзаца: введение, два подхода, заключение; обсуждены ровно два пункта из трёх."
+  - "В заключении есть чёткий ответ: какой подход эффективнее и почему."
+  - "Минимум три конструкции с пустым it (It could be argued that…, makes it possible to…)."
+  - "Минимум две конструкции с there (There is little doubt that…, There are likely to be…)."
+  - "Каждое This / These в начале предложения однозначно отсылает к мысли (при необходимости — с существительным)."
+  - "Хотя бы одна замена (do so, one) или эллипсис вместо повтора; нет generic you."
+  - "Формальный регистр, без сокращений; 220–260 слов."
+model_answer: |
+  It is widely acknowledged that unhealthy lifestyles place an enormous burden on public health systems. There is less agreement, however, about how governments should respond. This essay will consider two possible approaches: taxing unhealthy products and redesigning cities to encourage physical activity.
+
+  Taxation has the obvious advantage of speed. When sugary drinks become more expensive, consumption tends to fall almost immediately, and the revenue raised can be invested in healthcare. It could be argued, though, that such taxes hit low-income households hardest, since they spend a larger share of their income on food. There is also a risk that people will simply switch to cheaper unhealthy alternatives rather than healthy ones.
+
+  Urban design works in a less direct way. If cycle lanes are safe and shops are within walking distance, many people who currently drive would happily walk instead, and some already do so wherever the infrastructure allows. The main drawback of this approach is cost: rebuilding transport networks is expensive, and it is likely to be years before any measurable improvement in public health appears. Nevertheless, these changes benefit everyone, regardless of income, and they do not depend on individuals making a conscious effort every day.
+
+  On balance, I believe that urban design would prove more effective in the long term. Taxes may change what people buy, but it is the environment people live in that shapes their daily habits. A city that makes it easier to walk than to drive does not need to persuade its residents to be active; it simply allows them to be.

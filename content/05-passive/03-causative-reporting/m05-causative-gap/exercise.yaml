@@ -1,0 +1,37 @@
+title: "Мне сделали: have something done"
+type: gap
+intro: "Впиши конструкцию **have + объект + V3** (или *have / get* someone *do / to do*) в нужном времени. Слова в скобках даны в начальной форме и в нужном порядке. Там, где разговорный *get* звучит естественно, он тоже засчитывается."
+hints:
+  - "Порядок: have → объект → V3. Время показывает только have."
+  - "have someone do (без to), get someone to do (с to)."
+items:
+  - q: "I ___ (have / my hair / cut) yesterday. Do you like it?"
+    answers: ["had my hair cut", "got my hair cut"]
+    explain: "Стриг парикмахер → *had my hair cut*. **yesterday** → Past Simple у *have*, V3 *cut* не меняется."
+  - q: "We ___ (have / the kitchen / repaint) at the moment, so the house is a mess."
+    answers: ["are having the kitchen repainted", "'re having the kitchen repainted", "are getting the kitchen repainted", "'re getting the kitchen repainted"]
+    explain: "**at the moment** → Present Continuous у *have*: *are having the kitchen repainted*."
+  - q: "You should ___ (have / your eyes / test) — you keep getting headaches."
+    answers: ["have your eyes tested", "get your eyes tested", "get your eyes checked", "have your eyes checked"]
+    explain: "После *should* — голое *have*: *should have your eyes tested*. Это совет, а не упрёк о прошлом."
+  - q: "How often ___ (you / have / your car / service)?"
+    answers: ["do you have your car serviced", "do you get your car serviced"]
+    explain: "Вопрос в Present Simple: *do you have your car serviced?* Вспомогательный *do*, потому что *have* здесь смысловой глагол."
+  - q: "Someone broke into my car and I ___ (have / my laptop / steal)."
+    answers: ["had my laptop stolen", "got my laptop stolen"]
+    explain: "*have something done* описывает и неприятность: *I had my laptop stolen* — «у меня украли ноутбук»."
+  - q: "I ___ (never / have / my photo / take) by a professional before."
+    answers: ["have never had my photo taken", "'ve never had my photo taken"]
+    explain: "**never … before** → Present Perfect: *have never **had** my photo taken*. *have* как вспомогательный + *had* как каузатив."
+  - q: "I'm busy right now, but I'll ___ (have / my assistant / call) you back."
+    answers: ["have my assistant call", "get my assistant to call"]
+    explain: "**have + человек + глагол без to**: *have my assistant call you back* — поручить кому-то."
+  - q: "It took an hour, but I finally ___ (get / the kids / go) to bed."
+    answers: ["got the kids to go"]
+    explain: "**get + человек + to + глагол**: *got the kids to go to bed* — «уговорить, добиться». После *get* нужен *to*."
+  - q: "This jacket is filthy. I'm going to ___ (have / it / clean) before the wedding."
+    answers: ["have it cleaned", "get it cleaned", "have it dry-cleaned", "get it dry-cleaned"]
+    explain: "После *going to* — инфинитив *have*: *going to have it cleaned*. Местоимение *it* — между *have* и V3."
+  - q: "She ___ (have / her flight / cancel) twice this month — she's furious."
+    answers: ["has had her flight cancelled", "'s had her flight cancelled", "has had her flight canceled", "'s had her flight canceled"]
+    explain: "**this month** + результат сейчас → Present Perfect: *has had her flight cancelled*. Неприятность, случившаяся с ней."

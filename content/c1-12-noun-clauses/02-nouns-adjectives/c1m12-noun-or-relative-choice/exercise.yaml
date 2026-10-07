@@ -1,0 +1,47 @@
+title: "Noun clause или relative clause?"
+type: choice
+intro: "Выбери вариант, который делает предложение грамматичным. Сначала реши: придаточное раскрывает **содержание** существительного (noun clause) или **определяет** его (relative clause)?"
+hints:
+  - "Если после that стоит законченное предложение — это noun clause, which невозможно."
+  - "Если в придаточном не хватает дополнения (she made ___), это relative clause, и подходит which."
+items:
+  - q: "The suggestion ___ we should postpone the vote was rejected."
+    options: ["which", "that", "what"]
+    answer: 1
+    explain: "*we should postpone the vote* — законченное предложение, содержание *suggestion* → **that** (noun clause)."
+  - q: "The suggestion ___ she made at the meeting was rejected."
+    options: ["what", "of which", "which"]
+    answer: 2
+    explain: "*she made ___* — не хватает дополнения; это relative clause, *that / which* — местоимение → **which**."
+  - q: "At the meeting we discussed ___ the budget had been overspent."
+    options: ["the fact that", "that", "what"]
+    answer: 0
+    explain: "*discuss* не берёт голое *that*-придаточное → **the fact that**."
+  - q: "In spite of ___ the roads were icy, the bus ran on time."
+    options: ["that", "which", "the fact that"]
+    answer: 2
+    explain: "После предлога *in spite of* → **the fact that**."
+  - q: "She's worried ___ she'll be able to afford the rent."
+    options: ["about whether", "about that", "whether about"]
+    answer: 0
+    explain: "Перед wh-придаточным после *worried* нужен предлог: **about whether**. Перед *that* предлог невозможен."
+  - q: "We're delighted ___ the event went."
+    options: ["that how", "with how", "how"]
+    answer: 1
+    explain: "*delighted* + **with** + *how*-придаточное."
+  - q: "One theory — ___ the stones were dragged there on sledges — has now been abandoned."
+    options: ["that", "which", "what"]
+    answer: 0
+    explain: "Вставное придаточное раскрывает содержание *theory*, оно законченное → **that**."
+  - q: "In the end, it was simply a question ___ we could afford it."
+    options: ["whether of", "that whether", "of whether"]
+    answer: 2
+    explain: "*a question* + **of** + *whether*-придаточное."
+  - q: "The claim ___ the company published on its website turned out to be false."
+    options: ["what", "which", "of which"]
+    answer: 1
+    explain: "*the company published ___* — не хватает дополнения → relative clause: **which**."
+  - q: "The claim ___ the drug was completely safe turned out to be false."
+    options: ["which", "what", "that"]
+    answer: 2
+    explain: "*the drug was completely safe* — законченное предложение, содержание *claim* → **that**."

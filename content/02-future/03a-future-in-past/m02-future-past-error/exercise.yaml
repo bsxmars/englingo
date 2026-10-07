@@ -1,0 +1,43 @@
+title: "Найди и исправь ошибку: будущее в прошлом"
+type: error
+intro: "В каждом предложении **одна** ошибка. Исправь её и отправь предложение целиком."
+hints:
+  - "Рамка в прошлом (said, knew, thought, hoped, promised) → would, а не will."
+  - "«Должен был по договорённости» → was supposed to; must have done — это вывод."
+items:
+  - q: "I thought the exam will be easier than it was."
+    answers: ["I thought the exam would be easier than it was."]
+    explain: "Рамка *I thought* в прошлом → **would be**. По-русски «думал, что будет», но в английском будущее сдвигается назад."
+  - q: "She told us she is going to resign, and a week later she did."
+    answers: ["She told us she was going to resign, and a week later she did."]
+    explain: "После *told us* план тоже сдвигается в прошлое → **was going to resign**."
+  - q: "I was about calling you when your message arrived."
+    answers: ["I was about to call you when your message arrived.", "I was just about to call you when your message arrived."]
+    explain: "**be about to + инфинитив**: *was about to call*. *about* без *to* значит «о чём-то»."
+  - q: "You must have picked me up at six — I waited for an hour!"
+    answers: ["You were supposed to pick me up at six — I waited for an hour!", "You should have picked me up at six — I waited for an hour!"]
+    explain: "Договорённость нарушена → **were supposed to pick me up** (или упрёк *should have picked*). *must have picked* — вывод «наверное, забрал»."
+  - q: "The conference was due to starting at ten, but the speaker was late."
+    answers: ["The conference was due to start at ten, but the speaker was late."]
+    explain: "**be due to + инфинитив**: *was due to start*. *to* здесь — частица инфинитива, не предлог."
+  - q: "We hoped the weather will improve, but it rained all weekend."
+    answers: ["We hoped the weather would improve, but it rained all weekend."]
+    explain: "*hoped* — прошедшее → будущее внутри **would improve**."
+  - q: "I was going to buy the tickets yesterday, but I will forget."
+    answers: ["I was going to buy the tickets yesterday, but I forgot."]
+    explain: "Вся история в прошлом: несбывшийся план (*was going to*) + что помешало — **Past Simple** *forgot*."
+  - q: "Don't worry, the parcel is bound arrive tomorrow."
+    answers: ["Don't worry, the parcel is bound to arrive tomorrow."]
+    explain: "Конструкция **be bound to + инфинитив**: без *to* она не работает."
+  - q: "He promised that he won't be late again, but he was."
+    answers: ["He promised that he wouldn't be late again, but he was.", "He promised that he would not be late again, but he was."]
+    explain: "*promised* в прошлом → отрицательное обещание **wouldn't**."
+  - q: "The minister was to have open the new hospital, but she fell ill."
+    answers: ["The minister was to have opened the new hospital, but she fell ill."]
+    explain: "**was to have + V3** — запланированное, но не случившееся: *was to have opened*."
+  - q: "I knew my parents are going to love the present, and they did."
+    answers: ["I knew my parents were going to love the present, and they did.", "I knew my parents would love the present, and they did."]
+    explain: "Рамка *I knew* → **were going to love** или **would love**. Настоящее время ломает согласование."
+  - q: "They were supposed to arriving yesterday, but their flight was cancelled."
+    answers: ["They were supposed to arrive yesterday, but their flight was cancelled."]
+    explain: "**be supposed to + инфинитив**: *were supposed to arrive*."

@@ -1,0 +1,52 @@
+title: "Факт, сомнение или «то, что»"
+type: choice
+intro: "Выбери вариант, который подходит по смыслу и стилю. Часть вариантов грамматична сама по себе, но не подходит к контексту."
+hints:
+  - "that — известный факт; whether — неизвестно, да или нет; what — «то, что» (у придаточного не хватает члена предложения)."
+  - "В начале предложения и после предлога — whether, не if."
+  - "Если между глаголом и придаточным что-то вставлено, that обязательно."
+items:
+  - q: "The auditors didn't realise ___ several invoices had been altered — they found out only months later."
+    options: ["whether", "that", "what"]
+    answer: 1
+    explain: "Счета **действительно** изменили, аудиторы просто об этом не знали → факт → **that**. *whether* означало бы, что изменили их или нет, неизвестно."
+  - q: "___ the merger goes ahead now depends entirely on the regulators."
+    options: ["If", "Whether", "That"]
+    answer: 1
+    explain: "Исход неизвестен, и придаточное стоит **в начале** как подлежащее → только **Whether**. *That* подаёт событие как факт, а факт не может «зависеть от регуляторов»."
+  - q: "Which sentence best suits a formal report?"
+    options: ["The survey concluded young people read less.", "The survey has concluded that young people are reading less.", "The survey concluded young people are reading less, basically."]
+    answer: 1
+    explain: "В официальном стиле **that** после глагола речи и мысли не опускают. Пропуск *that* — примета разговорной речи."
+  - q: "Which sentence is correct?"
+    options: ["She mentioned over coffee she was thinking of resigning.", "She mentioned over coffee that she was thinking of resigning.", "She mentioned that over coffee, she was thinking of resigning, that."]
+    answer: 1
+    explain: "Между глаголом и придаточным вставлено *over coffee* — в этом случае **that** обязателен, иначе связь глагола и придаточного теряется."
+  - q: "Many readers find ___ that the novel was ignored by critics for so long."
+    options: ["it surprising", "surprising", "as surprising"]
+    answer: 0
+    explain: "*find* + прилагательное + *that*-придаточное требует пустого **it** на месте дополнения: *find it surprising that…*"
+  - q: "The question ___ the drug is safe for children has not yet been addressed."
+    options: ["of whether", "of if", "about that"]
+    answer: 0
+    explain: "После *question, issue, matter* wh-придаточное присоединяется через **of**, а после предлога возможно только **whether**: *the question of whether…*"
+  - q: "___ caused the outage is still being investigated by the engineers."
+    options: ["What", "That", "Which"]
+    answer: 0
+    explain: "В придаточном нет подлежащего (*something caused the outage*), значит нужно **What** = «то, что». *That* вводит законченное предложение-факт."
+  - q: "Nobody told us ___ the meeting had been moved, so we sat in an empty room for an hour."
+    options: ["whether", "that", "what"]
+    answer: 1
+    explain: "Встречу **перенесли** — это факт, о котором нам не сообщили → **that**. *whether* сделал бы перенос под вопросом, а пустая комната показывает, что он был."
+  - q: "He couldn't remember where he had parked ___ he had left the engine running, which is how the car was stolen."
+    options: ["or that", "or if", "or what"]
+    answer: 0
+    explain: "Двигатель **действительно** был заведён (так машину и угнали) → факт → *that*. Во втором однородном придаточном *that* не опускают: **or that**."
+  - q: "It's a complete mystery ___ she turned down such a generous offer."
+    options: ["why", "what", "which"]
+    answer: 0
+    explain: "Неизвестна **причина** → **why**. *what* требует пропущенного члена предложения, а здесь придаточное полное."
+  - q: "What she actually said and ___ the papers reported were two very different things."
+    options: ["what", "that", "which"]
+    answer: 0
+    explain: "Второе подлежащее строится так же, как первое: *the papers reported* без дополнения → **what** = «то, что напечатали газеты»."

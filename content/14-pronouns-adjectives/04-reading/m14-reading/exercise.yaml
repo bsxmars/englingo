@@ -1,0 +1,86 @@
+title: "Light Years: a review"
+type: reading
+intro: "Прочитай отзыв и ответь на вопросы. Вопросы с вариантами — как в B2 First Part 5; в остальных впиши слово или фразу из текста."
+hints:
+  - "Вопросы идут в порядке текста."
+  - "Обращай внимание на силу оценки: slightly, rather, absolutely."
+text: |
+  ## Worth the queue? A visit to "Light Years" at the City Gallery
+
+  I have to admit that I went to "Light Years", the new exhibition at the City Gallery, expecting to be bored. Exhibitions about the history of lighting do not sound terribly exciting, and the first room did little to change my mind: a row of oil lamps in glass cases, each one labelled with a date and not much else. There was hardly anyone else there, and for a few minutes I wondered whether I had made a rather expensive mistake.
+
+  Then I turned the corner, and everything changed. The second room is completely dark except for a single candle in the middle of the floor. You are asked to sit down on a low wooden bench and simply wait. After a minute or two your eyes adjust, and you begin to notice how much a tiny flame can actually show you: the faces of the people next to you, the shadows on the ceiling, the shape of the room itself. It is a surprisingly moving experience, and it made me think about how people lived for thousands of years before electricity.
+
+  From there, the exhibition moves quickly through gas lamps, early light bulbs and neon signs. The curators have clearly worked hard to make the science easy to follow. Short videos explain how each technology works, and the texts on the walls are refreshingly free of jargon. Children will love the interactive section, where you can build a simple circuit yourself and light up a model of a city street. My only complaint is that this section gets far too crowded at weekends: I had to wait twenty minutes before there was enough space for me to try it.
+
+  The highlight, for me, was the final room, which is devoted to the way artificial light has changed our cities and our bodies. A huge satellite image shows Europe at night, glowing like a spider's web, and next to it there is a fascinating — and slightly worrying — display about light pollution. Did you know that in some parts of the world, most people can no longer see the Milky Way from where they live? I certainly didn't, and I left the room feeling quite shocked.
+
+  Not everything works equally well. The audio guide is poorly designed: the buttons are tiny, and the recordings are so long that most of the visitors I saw gave up after a few minutes. The gift shop, too, is rather disappointing, full of expensive lamps that have little to do with the ideas of the exhibition.
+
+  Still, these are minor problems. "Light Years" is an intelligent, beautifully presented show that manages to be both educational and genuinely enjoyable. It is suitable for everyone from curious ten-year-olds to grandparents, although very young children may find the dark room frightening. Allow at least two hours, book online to avoid the queue, and if you can, go on a weekday morning, when the galleries are quiet enough to enjoy properly. I went expecting to be bored; I left absolutely delighted, and I have already told everyone I know to go.
+items:
+  - q: "What did the writer expect before visiting the exhibition?"
+    options:
+      - "That it would be dull."
+      - "That it would be too crowded."
+      - "That it would be too technical."
+      - "That it would be overpriced."
+    answer: 0
+    explain: "*I went… expecting to be bored* и *do not sound terribly exciting* — автор ждал скуки. Про цену (*expensive mistake*) он подумал уже на месте, а не заранее."
+  - q: "What does the writer suggest about the first room?"
+    options:
+      - "It was full of visitors."
+      - "It offered very little information."
+      - "It was the darkest part of the exhibition."
+      - "It contained the most valuable objects."
+    answer: 1
+    explain: "*each one labelled with a date and not much else* — информации почти нет. Посетителей, наоборот, было мало (*hardly anyone*)."
+  - q: "What makes the second room special, according to the writer?"
+    options:
+      - "It contains the oldest objects in the exhibition."
+      - "It explains in detail how candles were made."
+      - "It lets visitors feel something instead of just reading about it."
+      - "It was designed especially for children."
+    answer: 2
+    explain: "Посетитель сидит в темноте при одной свече и сам переживает опыт (*a surprisingly moving experience*). Текстов и объяснений там нет."
+  - q: "What is the writer's 'only complaint' about the interactive section?"
+    options:
+      - "It is too difficult for young children."
+      - "There is not enough room for everyone at busy times."
+      - "The instructions are full of jargon."
+      - "Visitors have to pay extra to use it."
+    answer: 1
+    explain: "*far too crowded at weekends… before there was enough space for me* — в выходные там слишком тесно. Про жаргон автор говорит обратное: тексты *free of jargon*."
+  - q: "How did the writer react to the display about light pollution?"
+    options:
+      - "It made them feel guilty about their own lifestyle."
+      - "It taught them something that surprised and troubled them."
+      - "It repeated facts they already knew."
+      - "It was less interesting than the satellite image."
+    answer: 1
+    explain: "*fascinating — and slightly worrying*, *I certainly didn't [know]*, *feeling quite shocked* — новое и тревожное знание. Про вину в тексте ничего нет."
+  - q: "What is the writer's main criticism of the audio guide?"
+    options:
+      - "It is too expensive."
+      - "It is only available in one language."
+      - "It is difficult to use and the recordings go on too long."
+      - "It gives incorrect information."
+    answer: 2
+    explain: "*the buttons are tiny, and the recordings are so long that most… gave up* — неудобно и слишком длинно."
+  - q: "What advice does the writer give in the final paragraph?"
+    options:
+      - "Go at the weekend to try the interactive section."
+      - "Do not take children under ten."
+      - "Visit at a time when there are fewer people."
+      - "Skip the dark room if you are short of time."
+    answer: 2
+    explain: "*go on a weekday morning, when the galleries are quiet enough* — приходить, когда меньше людей. Про детей автор говорит лишь, что совсем маленьких может напугать тёмная комната."
+  - q: "Find a word in paragraph 1 that means 'almost no' when used before 'anyone'."
+    answers: ["hardly"]
+    explain: "*There was **hardly** anyone else there* — почти никого. *hardly* не путай с *hard* (усердно)."
+  - q: "Find an adjective in paragraph 4 that describes the display about light pollution and means 'making you feel anxious'."
+    answers: ["worrying"]
+    explain: "*slightly **worrying*** — вызывающий тревогу, поэтому *-ing*. Сам автор после неё — *shocked* (*-ed*)."
+  - q: "Find a two-word phrase in the last paragraph that means 'extremely happy'."
+    answers: ["absolutely delighted"]
+    explain: "*delighted* — предельное прилагательное («в восторге»), поэтому с **absolutely**, а не с *very*."

@@ -1,0 +1,88 @@
+title: "In defence of boredom"
+type: reading
+intro: "Прочитай эссе и ответь на вопросы. Вопросы с четырьмя вариантами — в стиле C1 Advanced, Part 5; в остальных впиши слово или фразу из текста."
+hints:
+  - "Вопросы идут в порядке текста."
+  - "Связки (however, on the contrary, hence) и фокусные конструкции (What…is, Not until…) показывают, где автор ставит главный акцент."
+text: |
+  ## In defence of boredom
+
+  Not long ago, I timed how long I could sit on a train without reaching for my phone. The answer, rather humiliatingly, was ninety seconds. What unsettled me was not the number itself but the fact that I had not noticed the habit forming. At no point had I decided to eliminate every idle moment from my life; the moments had simply been colonised, one notification at a time.
+
+  This would hardly matter if boredom were merely an unpleasant sensation to be avoided. Yet a growing body of research suggests that it plays a far more useful role than we tend to assume. Psychologists who study the state describe it not as an absence of stimulation but as a signal — an alarm, in effect, telling us that whatever we are doing has ceased to be meaningful. Seen in this light, boredom is less a problem than a prompt. It nudges us to change course, to look for something more absorbing, or simply to let the mind wander.
+
+  It is that wandering, in particular, which has attracted scientific interest. In one frequently cited experiment, participants were first asked to complete a mind-numbing task — copying numbers from a telephone directory, in some versions — and were then set a creative challenge, such as thinking of as many uses as possible for a pair of plastic cups. Those who had endured the tedious task came up with more, and more original, ideas than those who had gone straight to the challenge. The researchers' interpretation was that a bored mind, deprived of external input, turns inwards and begins to make unexpected connections. Hence the familiar experience of solving a problem in the shower, or remembering a forgotten name while staring out of a window.
+
+  None of this, however, should be taken to mean that all boredom is beneficial. On the contrary, chronic boredom — the grinding, inescapable kind experienced by people in monotonous jobs or long periods of isolation — is associated with a range of harmful outcomes, from overeating to depression. The distinction that researchers draw is between boredom we can act on and boredom we are trapped in. The former is an invitation; the latter, a kind of slow erosion. Nor is the evidence on creativity as tidy as popular accounts suggest. Several attempts to replicate the plastic-cup results have produced weaker effects, and some none at all. Conversely, a few studies have found that people who are habitually bored tend to be less, not more, inventive.
+
+  Why, then, should we defend boredom at all? The answer lies not in boredom itself but in what we now do to escape it. Until recently, an empty half-hour in a waiting room offered few distractions: a dog-eared magazine, perhaps, or the faces of strangers. Such moments were dull, but they were also, crucially, unstructured. Today, by contrast, the smartphone ensures that no gap need ever go unfilled. The difficulty is that the stimulation it provides is rarely satisfying. We scroll not because we are interested but because we are mildly bored, and the scrolling, being largely meaningless, leaves us more restless than before. We have, in other words, found a way of curing boredom that keeps us permanently on the edge of it.
+
+  Not until I tried to break the habit did I appreciate how deep it ran. For a fortnight I left my phone in my bag on every journey. The first few days were genuinely uncomfortable; I felt twitchy and faintly anxious, as though I had forgotten something important. By the second week, however, something had shifted. I started noticing things — the architecture of stations I had passed through hundreds of times, the conversations around me, the slow drift of my own thoughts. Little did I expect that the most productive part of my working day would turn out to be the forty minutes in which I did nothing at all.
+
+  I am wary of overstating the case. A fortnight's experiment proves nothing, and there is something faintly absurd about a person who treats staring out of a train window as a lifestyle achievement. All I would suggest is that the capacity to tolerate a little emptiness is worth preserving, and that it is far easier to lose than to rebuild. Boredom, after all, is not the enemy of a full life. It is often the space in which we work out what a full life might contain.
+items:
+  - q: "What does the writer find most troubling about the experiment described in the first paragraph?"
+    options:
+      - "That ninety seconds was a shorter time than other passengers managed."
+      - "That the habit had developed without the writer being aware of it."
+      - "That the writer had deliberately chosen to avoid idle moments."
+      - "That notifications had become more frequent on trains."
+    answer: 1
+    explain: "*What unsettled me was not the number itself but the fact that I had not noticed the habit forming* — cleft-конструкция выносит главное: привычка сформировалась незаметно. Вариант C прямо противоречит *At no point had I decided…*"
+  - q: "According to the second paragraph, psychologists who study boredom regard it as"
+    options:
+      - "a sign that an activity has lost its value for us."
+      - "a condition caused by a lack of stimulation."
+      - "a problem that is more serious than people realise."
+      - "a state that should be avoided whenever possible."
+    answer: 0
+    explain: "*a signal… telling us that whatever we are doing has ceased to be meaningful* — сигнал, что занятие потеряло смысл. Вариант B автор прямо отвергает (*not as an absence of stimulation*)."
+  - q: "The writer mentions solving a problem in the shower in order to"
+    options:
+      - "cast doubt on the findings of the experiment."
+      - "show that most creative ideas occur at home."
+      - "illustrate an everyday version of the effect the researchers described."
+      - "suggest that physical activity improves creativity."
+    answer: 2
+    explain: "Абзац начинается с *Hence the familiar experience…* — «отсюда и знакомое всем…». Пример из жизни иллюстрирует вывод исследователей о «блуждающем» уме."
+  - q: "In the fourth paragraph, the writer makes the point that"
+    options:
+      - "chronic boredom tends to make people more creative over time."
+      - "the link between boredom and creativity is less certain than often claimed."
+      - "most researchers now reject the plastic-cup experiment entirely."
+      - "boredom at work is more harmful than boredom in isolation."
+    answer: 1
+    explain: "*Nor is the evidence on creativity as tidy as popular accounts suggest* — повторные эксперименты дали более слабый эффект. Вариант A противоречит тексту (*less, not more, inventive*), C — преувеличение."
+  - q: "What does the writer suggest about the way people use smartphones to deal with boredom?"
+    options:
+      - "It replaces dull moments with genuinely absorbing activity."
+      - "It is no different from reading magazines in a waiting room."
+      - "It relieves boredom only partially and leaves people less settled."
+      - "It is the main reason people experience chronic boredom."
+    answer: 2
+    explain: "*the scrolling… leaves us more restless than before… a way of curing boredom that keeps us permanently on the edge of it* — облегчение неполное, беспокойство растёт."
+  - q: "How does the writer present the results of the personal experiment in the sixth paragraph?"
+    options:
+      - "As an unexpected benefit that followed an initial period of discomfort."
+      - "As proof that everyone should stop using phones while travelling."
+      - "As a disappointment compared with the scientific studies."
+      - "As something the writer had predicted from the start."
+    answer: 0
+    explain: "Сначала *genuinely uncomfortable*, потом *something had shifted*, а *Little did I expect…* показывает, что результат оказался неожиданным. Вариант D противоречит *Little did I expect*."
+  - q: "In the final paragraph, the writer's attitude to the argument of the essay is best described as"
+    options:
+      - "confident that the case has been conclusively proved."
+      - "cautious, while still defending a modest conclusion."
+      - "dismissive of the scientific research mentioned earlier."
+      - "embarrassed at having raised the subject at all."
+    answer: 1
+    explain: "*I am wary of overstating the case… A fortnight's experiment proves nothing… All I would suggest is…* — осторожность и скромный вывод, выделенный конструкцией *All I would suggest is*."
+  - q: "Find a phrase in paragraph 3 that means 'extremely dull and boring'."
+    answers: ["mind-numbing"]
+    explain: "*a **mind-numbing** task* — «отупляюще скучная задача». Синоним в том же абзаце — *tedious*."
+  - q: "Find a connector in paragraph 4 that introduces a finding pointing in the opposite direction to the popular claim."
+    answers: ["conversely"]
+    explain: "**Conversely** — «и наоборот»: некоторые исследования показали, что скучающие люди *менее* изобретательны, чем принято считать."
+  - q: "Find a word in paragraph 5 that means 'having no fixed plan or organisation'."
+    answers: ["unstructured"]
+    explain: "*Such moments were dull, but they were also, crucially, **unstructured*** — ничем не заполненные, не организованные."

@@ -1,0 +1,136 @@
+- id: c1m07-generic-pronouns
+  lesson: c1-07-pronouns-ellipsis/01-pronouns
+  q: "Чем отличаются generic **you, we, one, they** по регистру?"
+  a: "*you* — нейтрально-разговорное, *we* — автор + читатель (наука, публицистика), *one* — очень формальное, *they* — «люди там, власти» (разговорное; в письме — пассив)."
+- id: c1m07-singular-they
+  lesson: c1-07-pronouns-ellipsis/01-pronouns
+  q: "Переведи формально: «Каждый сотрудник должен сдать свой пропуск»."
+  a: "*Every employee must return **their** pass.* Singular *they* — современная норма; *his or her* — допустимо, но громоздко."
+- id: c1m07-one-consistency
+  lesson: c1-07-pronouns-ellipsis/01-pronouns
+  q: "Найди ошибку: *One should always check your sources.*"
+  a: "Смешение *one* и *you*. → *One should always check **one's** sources* (или *You should always check your sources*)."
+- id: c1m07-this-that-ideas
+  lesson: c1-07-pronouns-ellipsis/01-pronouns
+  q: "**this** или **that** для отсылки к мысли?"
+  a: "*this* — продолжение своей мысли в тексте или то, что сейчас будет сказано (*The point is this: …*); *that* — реакция на чужие слова, дистанция (*That's absurd*)."
+- id: c1m07-friend-of-mine
+  lesson: c1-07-pronouns-ellipsis/01-pronouns
+  q: "*a portrait of his* или *his portrait* — в чём разница?"
+  a: "*his portrait* — портрет, изображающий его; *a portrait of his* — один из портретов, которые ему принадлежат или написаны им."
+- id: c1m07-reflexive-place
+  lesson: c1-07-pronouns-ellipsis/01-pronouns
+  q: "Найди ошибку: *Take a jacket with yourself.*"
+  a: "После *take / bring … with* и предлогов места — обычное местоимение: *Take a jacket **with you**.*"
+- id: c1m07-no-reflexive
+  lesson: c1-07-pronouns-ellipsis/01-pronouns
+  q: "Какие глаголы с русским «-ся» в английском без reflexive?"
+  a: "*relax, concentrate, feel, meet, worry, apologise, wash / shave / dress* (обычно): *Try to relax. We met in 2019.*"
+- id: c1m07-each-other-themselves
+  lesson: c1-07-pronouns-ellipsis/01-pronouns
+  q: "*They blamed themselves* vs *They blamed each other*?"
+  a: "*themselves* — каждый винил себя; *each other* — один винил другого. Притяжательная форма: *each other's*."
+- id: c1m07-find-it
+  lesson: c1-07-pronouns-ellipsis/02-empty-it-there
+  q: "Найди ошибку: *I find difficult to believe that he forgot.*"
+  a: "Нужно пустое *it*: *I find **it** difficult to believe…* То же с *make it, consider it, think it*."
+- id: c1m07-appreciate-it
+  lesson: c1-07-pronouns-ellipsis/02-empty-it-there
+  q: "Переведи: «Я был бы признателен, если бы вы ответили до пятницы»."
+  a: "*I would appreciate **it** if you could reply by Friday.* Без *it* — ошибка."
+- id: c1m07-no-use
+  lesson: c1-07-pronouns-ellipsis/02-empty-it-there
+  q: "«Бесполезно жаловаться» / «Не стоит чинить»"
+  a: "*It's **no use** complaining. It's **not worth** repairing.* После *no use / worth* — *-ing*."
+- id: c1m07-it-struck-me
+  lesson: c1-07-pronouns-ellipsis/02-empty-it-there
+  q: "Переведи: «Мне пришло в голову, что никто не спросил пользователей»."
+  a: "*It struck me that nobody had asked the users.* (или *It occurred to me that…*)"
+- id: c1m07-there-seems
+  lesson: c1-07-pronouns-ellipsis/02-empty-it-there
+  q: "«Похоже, произошла ошибка» (вывод сейчас о прошлом)."
+  a: "*There **seems / appears to have been** a mistake.* Не ~~There seems a mistake~~."
+- id: c1m07-there-thought
+  lesson: c1-07-pronouns-ellipsis/02-empty-it-there
+  q: "Перефразируй: *People think there are about 500 left.*"
+  a: "*There **are thought to be** about 500 left.*"
+- id: c1m07-there-bound
+  lesson: c1-07-pronouns-ellipsis/02-empty-it-there
+  q: "«Наверняка будут задержки» — с there."
+  a: "*There **are bound to be** delays.* (также *there are sure / likely to be*)"
+- id: c1m07-there-passive
+  lesson: c1-07-pronouns-ellipsis/02-empty-it-there
+  q: "Найди ошибку: *There were found no survivors.*"
+  a: "После *there* обычный пассив не ставят: *No survivors were found* или *There were no survivors*."
+- id: c1m07-one-it
+  lesson: c1-07-pronouns-ellipsis/03-substitution-ellipsis
+  q: "*I need a charger — do you have one / it?*"
+  a: "*one* — любой, какой-нибудь; *it* — конкретный, тот самый (*Do you have **my** charger? I need **it***)."
+- id: c1m07-hope-not
+  lesson: c1-07-pronouns-ellipsis/03-substitution-ellipsis
+  q: "Отрицательная замена: think, expect, hope, be afraid?"
+  a: "*I **don't** think / expect **so**.* Но *I hope **not**. I'm afraid **not**.* (~~I don't hope so~~). После *know, be sure* — без *so*."
+- id: c1m07-do-so
+  lesson: c1-07-pronouns-ellipsis/03-substitution-ellipsis
+  q: "*do so* или *do it*?"
+  a: "*do so* — формально, тот же деятель: *Few are allowed to do so.* При смене деятеля и в разговоре — *do it*: *I can't. Can **you** do it?*"
+- id: c1m07-if-so
+  lesson: c1-07-pronouns-ellipsis/03-substitution-ellipsis
+  q: "Переведи формально: «Вы получили посылку? Если да, подпишите форму»."
+  a: "*Have you received the parcel? **If so**, please sign the form.*"
+- id: c1m07-ellipsis-to
+  lesson: c1-07-pronouns-ellipsis/03-substitution-ellipsis
+  q: "Найди ошибку: *I wanted, but I couldn't.*"
+  a: "После *want / like / need* в эллипсисе остаётся *to*: *I **wanted to**, but I couldn't.*"
+- id: c1m07-she-did
+  lesson: c1-07-pronouns-ellipsis/03-substitution-ellipsis
+  q: "Переведи кратко: «Она сказала, что сделает, — и сделала»."
+  a: "*She said she would, and she did.* Глагольная группа опускается после вспомогательных."
+- id: c1m07-gapping
+  lesson: c1-07-pronouns-ellipsis/03-substitution-ellipsis
+  q: "Можно ли опустить глагол: *Anna chose law and her brother ___ medicine*? А *…and he ___ medicine*?"
+  a: "С существительным — да (книжный стиль): *and her brother medicine*. С местоимением лучше оставить глагол: *and he chose medicine*."
+- id: c1m07-come-to-rescue
+  lesson: c1-07-pronouns-ellipsis/04-reading
+  q: "Переведи: *For all its faults, the passive can come to the rescue.*"
+  a: "«При всех своих недостатках пассив может выручить»."
+- id: c1m07-catch-on
+  lesson: c1-07-pronouns-ellipsis/04-reading
+  q: "*to catch on* vs *to catch up with*?"
+  a: "*catch on* — прижиться, стать популярным; *catch up with* — догнать, наверстать."
+- id: c1m07-keep-be
+  lesson: c1-07-pronouns-ellipsis/03a-ellipsis-in-depth
+  q: "Найди ошибку: *She isn't here now, but she will in an hour.*"
+  a: "После модального *be* не опускается: *but she **will be** in an hour*."
+- id: c1m07-aux-by-tense
+  lesson: c1-07-pronouns-ellipsis/03a-ellipsis-in-depth
+  q: "**___**: *I haven't read it yet, but I ___ by Friday.*"
+  a: "**will** — остаётся вспомогательный, нужный по времени второй части, а не *have* из первой."
+- id: c1m07-so-do-i-so-i-do
+  lesson: c1-07-pronouns-ellipsis/03a-ellipsis-in-depth
+  q: "*So do I* или *So I do* — в чём разница?"
+  a: "*So do I* — «я тоже». *So I do / So it is* — без инверсии: «и правда» (подтверждение)."
+- id: c1m07-neither-have-i
+  lesson: c1-07-pronouns-ellipsis/03a-ellipsis-in-depth
+  q: "Переведи: «— Я никогда не был в Исландии. — Я тоже (не был)»."
+  a: "*— I've never been to Iceland. — **Neither / Nor have I**.* Разговорно: *Me neither.*"
+- id: c1m07-than-was-expected
+  lesson: c1-07-pronouns-ellipsis/03a-ellipsis-in-depth
+  q: "Формально: «Это стоило больше, чем ожидалось»."
+  a: "*It cost more **than was expected*** (или *than expected*). Не ~~than it was expected~~."
+- id: c1m07-if-necessary
+  lesson: c1-07-pronouns-ellipsis/03a-ellipsis-in-depth
+  q: "Что опускается в *If necessary… / Though tired… / When in doubt…*?"
+  a: "Подлежащее **и** *be* вместе: *if (it is) necessary, though (she was) tired*. Одно без другого опускать нельзя."
+- id: c1m07-though-but
+  lesson: c1-07-pronouns-ellipsis/03a-ellipsis-in-depth
+  q: "Найди ошибку: *Though tired, but she kept going.*"
+  a: "*though* и *but* не сочетаются: ***Though tired, she** kept going.*"
+- id: c1m07-than-possessive
+  lesson: c1-07-pronouns-ellipsis/03a-ellipsis-in-depth
+  q: "Найди ошибку: *My laptop is faster than my brother.*"
+  a: "Сравниваем ноутбуки: *than my **brother's***. Формально для неодушевлённого — *than **that of***."
+- id: c1m07-situational-ellipsis
+  lesson: c1-07-pronouns-ellipsis/03a-ellipsis-in-depth
+  q: "*Sounds good. Told you. Anyone seen my keys?* — где это уместно?"
+  a: "Только в разговоре и чатах. В эссе и деловом письме — полностью: *That sounds good. Has anyone seen…?*"

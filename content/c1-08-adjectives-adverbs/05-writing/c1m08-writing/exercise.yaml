@@ -1,0 +1,39 @@
+title: "Review: a book, course or podcast that improved a skill"
+type: writing
+intro: "Напиши рецензию в формате C1 Advanced, Writing Part 2. Нужны заголовок, живое вступление, оценка с плюсами и минусами и чёткая рекомендация. Работай точными прилагательными, comment adverbs и сравнением."
+prompt: |
+  An international website for young professionals is publishing a series of reviews called **"The resource that made me better at my job"**. You have been asked to write a review of a **book, online course or podcast** that helped you develop a professional skill.
+
+  In your review you should:
+
+  - briefly describe the resource and what it sets out to do;
+  - evaluate its **strengths and weaknesses**, comparing it with other resources you know if relevant;
+  - say **who would benefit most** from it and whether you would recommend it.
+
+  Write your **review** in 220–260 words.
+words: [220, 260]
+target_grammar:
+  - "Цепочки прилагательных в естественном порядке и с верной пунктуацией: a short, unassuming guide; a warm, funny tone"
+  - "Compound adjectives: well-researched, before-and-after, jargon-free, time-consuming"
+  - "Comment и viewpoint adverbs: admittedly, arguably, refreshingly, noticeably, technically"
+  - "Тонкое сравнение: far more…, noticeably weaker, easily the most…, not nearly as… as"
+checklist:
+  - "Есть заголовок, который сразу даёт оценку или интригу."
+  - "Вступление цепляет читателя (вопрос, личная ситуация), а не просто называет ресурс."
+  - "Есть отдельные абзацы: описание, сильные стороны, слабые стороны, рекомендация."
+  - "Минимум три compound adjectives и одна цепочка из двух-трёх прилагательных без ошибок в порядке."
+  - "Использованы минимум три comment или viewpoint adverbs, включая admittedly или arguably для уступки и осторожной оценки."
+  - "Есть хотя бы два сравнения с модификаторами (far, considerably, by far, nowhere near as)."
+  - "Регистр нейтрально-живой: можно обращаться к читателю (you), но без сленга; объём 220–260 слов."
+model_answer: |
+  **A slim book with a sharp edge: *The Plain Sentence* reviewed**
+
+  If you have ever stared at a blank screen, convinced that a report needed to sound important, this short, unassuming guide to clear writing is for you. I picked it up reluctantly, expecting yet another list of rules. I finished it in two evenings and have since recommended it to half my team.
+
+  The author, a former newspaper editor, makes one simple argument: most professional writing is far longer and vaguer than it needs to be. Each chapter tackles a single bad habit, from piling up abstract nouns to hiding behind the passive, and every point is illustrated with real before-and-after examples. The rewritten versions are invariably shorter, and almost always more persuasive.
+
+  What sets the book apart is its tone. It is warm, occasionally very funny and refreshingly free of jargon. The chapter on "zombie adjectives" — words like *innovative* and *robust* that sound impressive but say nothing — is easily the most entertaining thing I have read about grammar.
+
+  Admittedly, the book is not flawless. The final third is noticeably weaker, repeating earlier advice rather than developing it, and readers who already write well may find little that is genuinely new. The exercises, too, are rather basic.
+
+  Nevertheless, for anyone who writes emails, proposals or documentation for a living, this is arguably the most useful weekend read on the market. It will not turn you into a novelist, but it will make your colleagues considerably happier to read what you send them.

@@ -1,0 +1,52 @@
+title: "only if, even if, unless, otherwise…"
+type: choice
+intro: "Выбери вариант, который точно передаёт смысл. Все варианты — реальные союзы и связки, но подходит только один."
+hints:
+  - "even if — возможное условие; even though — факт."
+  - "unless не используют в counterfactual."
+  - "if only — сожаление; only if — единственное условие."
+items:
+  - q: "We'll have a great time ___ it rains — the venue has a huge covered terrace."
+    options: ["even if", "even though", "only if"]
+    answer: 0
+    explain: "Дождь возможен, но на результат не повлияет → **even if**."
+  - q: "She passed every exam ___ she hardly ever opened a textbook."
+    options: ["even though", "even if", "unless"]
+    answer: 0
+    explain: "Реальный факт (почти не открывала учебник) → **even though**."
+  - q: "___ we hadn't worked through the weekend, we would never have met the deadline."
+    options: ["If", "Unless", "Provided"]
+    answer: 0
+    explain: "Counterfactual с отрицанием → **If … hadn't**. *Unless* в нереальном прошлом не употребляется."
+  - q: "These emergency exits may be used ___ there is a fire or other emergency."
+    options: ["only if", "if only", "even if"]
+    answer: 0
+    explain: "Единственное разрешённое условие → **only if**. *if only* — сожаление."
+  - q: "___ I had listened to my mother! None of this would have happened."
+    options: ["If only", "Only if", "Even if"]
+    answer: 0
+    explain: "Сожаление о прошлом → **If only** + Past Perfect (= *I wish I had listened*)."
+  - q: "The festival will go ahead ___ the forecast improves — the organisers have ruled out cancelling it under any circumstances."
+    options: ["whether or not", "unless", "only if"]
+    answer: 0
+    explain: "Результат не зависит от условия → **whether or not**."
+  - q: "Some of the items may have been damaged in transit. ___, they will be replaced free of charge."
+    options: ["If so", "If not", "Otherwise"]
+    answer: 0
+    explain: "«Если это так (если повреждены)» → **If so**."
+  - q: "You'd better book a table now; ___, you may not get one at all."
+    options: ["otherwise", "unless", "if so"]
+    answer: 0
+    explain: "«а иначе» → **otherwise**. *unless* — союз, после него нужно придаточное с подлежащим и сказуемым."
+  - q: "You can borrow my car ___ you bring it back with a full tank."
+    options: ["as long as", "even if", "in case"]
+    answer: 0
+    explain: "Условие-требование → **as long as** (= *provided that*)."
+  - q: "___ your help, we would never have found the house in the dark."
+    options: ["Without", "Unless", "Except"]
+    answer: 0
+    explain: "«если бы не» + существительное → **Without** (или *But for*). *Unless* — союз, после него нужно придаточное."
+  - q: "___ you won the lottery tomorrow, what's the first thing you'd buy?"
+    options: ["Supposing", "Provided", "Unless"]
+    answer: 0
+    explain: "Воображаемая ситуация → **Supposing** (= *What if*). *Provided* — условие-требование."

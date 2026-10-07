@@ -1,0 +1,44 @@
+title: "Найди тонкую ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: лишний пассив, неверное подлежащее, *itself* с ergative-глаголом, потерянный предлог или не тот предлог. Исправь её и отправь предложение целиком."
+hints:
+  - "Непереходные глаголы и глаголы состояния пассива не дают."
+  - "explain, describe — человек только с to; fine — только человек в подлежащем."
+  - "Ergative-глаголы не берут itself."
+items:
+  - q: "The castle is belonged to a private foundation."
+    answers: ["The castle belongs to a private foundation."]
+    explain: "*belong to* — глагол состояния, пассива нет: **belongs to**."
+  - q: "The new campus is consisted of four buildings and a library."
+    answers: ["The new campus consists of four buildings and a library.", "The new campus is made up of four buildings and a library.", "The new campus is composed of four buildings and a library."]
+    explain: "*consist of* не бывает в пассиве: **consists of**. Если нужен пассив, есть синонимы *is made up of* / *is composed of*."
+  - q: "At the start of the session, the applicants were explained the selection criteria."
+    answers: ["At the start of the session, the selection criteria were explained to the applicants.", "At the start of the session, the applicants were told the selection criteria."]
+    explain: "*explain* не делает человека подлежащим. Либо *the criteria **were explained to** the applicants*, либо глагол с двумя дополнениями: *were told*."
+  - q: "A penalty of 200 euros was fined to the driver."
+    answers: ["The driver was fined 200 euros.", "A penalty of 200 euros was imposed on the driver.", "The driver was fined a penalty of 200 euros."]
+    explain: "*fine* даёт только пассив с человеком: *The driver **was fined** 200 euros*. Если хочется начать с суммы — другой глагол: *was imposed on*."
+  - q: "Her symptoms were disappeared after a week of treatment."
+    answers: ["Her symptoms disappeared after a week of treatment.", "Her symptoms had disappeared after a week of treatment."]
+    explain: "*disappear* — непереходный, пассива нет: **disappeared**."
+  - q: "The negotiations were resulted in a fragile compromise."
+    answers: ["The negotiations resulted in a fragile compromise."]
+    explain: "*result in* — непереходный: **resulted in**. Русское «привели к» не подсказывает пассива."
+  - q: "The windscreen cracked itself when the temperature suddenly dropped."
+    answers: ["The windscreen cracked when the temperature suddenly dropped."]
+    explain: "*crack* — ergative-глагол: «само треснуло» = **cracked** без *itself*. Возвратное местоимение — калька с «треснуло-сь»."
+  - q: "For the gala, the hall was decorated by fairy lights and paper lanterns."
+    answers: ["For the gala, the hall was decorated with fairy lights and paper lanterns."]
+    explain: "После *decorate, cover, fill* то, чем украшают или заполняют, вводится **with**, а не *by*: гирлянды не исполнитель."
+  - q: "The proposal was openly laughed by most of the board."
+    answers: ["The proposal was openly laughed at by most of the board."]
+    explain: "*laugh at* — предлог часть глагола и остаётся в пассиве: **laughed at** by most of the board."
+  - q: "A national hero was declared the pilot after the emergency landing."
+    answers: ["The pilot was declared a national hero after the emergency landing."]
+    explain: "С *declare / consider / elect* подлежащим становится объект (*the pilot*), а характеристика (*a national hero*) остаётся после глагола."
+  - q: "Once the scandal broke, the rumours were died down within a few weeks."
+    answers: ["Once the scandal broke, the rumours died down within a few weeks.", "Once the scandal broke, the rumours had died down within a few weeks."]
+    explain: "*die down* — непереходный фразовый глагол, пассива нет: **died down**."
+  - q: "Youth unemployment has been risen sharply over the past year."
+    answers: ["Youth unemployment has risen sharply over the past year."]
+    explain: "*rise* — непереходный: **has risen**. Пассив возможен только у переходного *raise*: *Taxes have been raised*."

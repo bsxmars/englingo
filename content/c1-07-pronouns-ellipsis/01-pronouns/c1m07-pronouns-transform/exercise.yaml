@@ -1,0 +1,66 @@
+title: "Перефразирование (C1 Advanced, Part 4): местоимения"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+
+  Здесь проверяются местоимения: reciprocal и reflexive, double possessive, generic и singular *they*, *those who*.
+hints:
+  - "Один другого — each other; каждый сам себя — themselves."
+  - "«Один из моих друзей» — a friend of mine; «эта твоя идея» — that idea of yours."
+  - "После предлогов места и with — обычное местоимение: take it with you."
+items:
+  - q: "Each of the two rivals blamed the other for the defeat."
+    key: "EACH"
+    stem: "The two rivals ___ for the defeat."
+    answers: ["blamed each other", "each blamed the other"]
+    explain: "Действие направлено друг на друга → **blamed each other**. Сравни *blamed themselves* — каждый винил себя самого, это другой смысл."
+  - q: "Lucy is one of my friends from university."
+    key: "MINE"
+    stem: "Lucy is ___ from university."
+    answers: ["a friend of mine"]
+    explain: "Перед существительным уже стоит *a*, поэтому притяжательность выносим в of-фразу: **a friend of mine**. ~~a my friend~~ невозможно."
+  - q: "Nobody helped her; she redecorated the flat alone."
+    key: "HERSELF"
+    stem: "She redecorated ___ ."
+    answers: ["the flat by herself", "the flat all by herself", "the flat herself", "the whole flat by herself"]
+    explain: "«Одна, без помощи» — **by herself**; усилительное *herself* в конце фразы («сама») тоже передаёт смысл."
+  - q: "People say the new bridge will open in the spring."
+    key: "THEY"
+    stem: "___ new bridge will open in the spring."
+    answers: ["They say the", "They say that the", "They are saying the", "They are saying that the"]
+    explain: "Generic **they** = «говорят, люди». Это разговорный вариант; в формальном тексте лучше *It is said that…*."
+  - q: "The previous chapter showed how the theory developed."
+    key: "WE"
+    stem: "As ___ previous chapter, the theory developed gradually."
+    answers: ["we saw in the", "we have seen in the", "we saw in our"]
+    explain: "Авторское **we** («автор + читатель») — норма научного и публицистического стиля: *As we saw in the previous chapter…*"
+  - q: "Anyone who arrives after 9 a.m. will not be admitted."
+    key: "THOSE"
+    stem: "___ 9 a.m. will not be admitted."
+    answers: ["Those who arrive after", "Those arriving after", "Those who come after", "Those who turn up after"]
+    explain: "«Те, кто» — **those who** + глагол во мн. ч. Не ~~them who~~ и не ~~these who~~. Сокращённый вариант *those arriving* тоже формален и естественен."
+  - q: "Every employee must keep his or her password secret."
+    key: "THEIR"
+    stem: "Every employee must ___ secret."
+    answers: ["keep their password", "keep their passwords", "keep their own password", "keep their own passwords"]
+    explain: "Singular **they / their** — современная норма для лица, пол которого не важен; *his or her* звучит тяжеловесно."
+  - q: "That idea you had about the logo was brilliant."
+    key: "YOURS"
+    stem: "That idea ___ the logo was brilliant."
+    answers: ["of yours about", "of yours for"]
+    explain: "После *that* притяжательное местоимение стоять не может (~~that your idea~~), поэтому **that idea of yours**. Такая конструкция часто звучит эмоционально."
+  - q: "Did someone apart from you see the accident?"
+    key: "ANYONE"
+    stem: "Did ___ the accident?"
+    answers: ["anyone else see", "anyone other than you see", "anyone besides you see", "anyone apart from you see", "anyone except you see"]
+    explain: "В вопросе с открытым ответом — **anyone**; «кроме тебя» — *else*, который ставится **после** местоимения: *anyone else*."
+  - q: "The sisters always borrow clothes from one another."
+    key: "EACH"
+    stem: "The sisters always ___ ."
+    answers: ["borrow each other's clothes"]
+    explain: "У reciprocal есть притяжательная форма: **each other's clothes** — «одежду друг друга»."
+  - q: "Remember to take an umbrella when you go out."
+    key: "WITH"
+    stem: "Take ___ when you go out."
+    answers: ["an umbrella with you", "your umbrella with you"]
+    explain: "После *with* в значении «при себе» — обычное местоимение: **with you**, не ~~with yourself~~."

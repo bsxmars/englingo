@@ -1,0 +1,36 @@
+title: "Собери пересказ"
+type: order
+intro: "Собери косвенную речь из слов. Помни: реальное сдвигается, нереальное — нет, а *Shall I…?* и *Would you like…?* пересказываем по смыслу."
+hints:
+  - "Порядок в косвенном вопросе прямой: what she should wear."
+items:
+  - q: "«Она сказала, что, возможно, опоздает»."
+    answers: ["She said that she might be late."]
+    explain: "*may* → **might**: «возможно» в пересказе."
+  - q: "«Он предложил донести мои сумки»."
+    answers: ["He offered to carry my bags."]
+    explain: "*Shall I carry your bags?* → **offered to carry**."
+  - q: "«Гид сказал, что нам нельзя фотографировать внутри»."
+    answers: ["The guide said we were not allowed to take photos inside."]
+    explain: "Запрет → **were not allowed to**."
+  - q: "«Он сказал, что, если бы у него были деньги, он бы путешествовал»."
+    answers: ["He said that if he had money he would travel.", "He said that he would travel if he had money."]
+    explain: "2nd conditional в пересказе не меняется: **if he had money, he would travel**. Части условного можно поменять местами."
+  - q: "«Она спросила, что ей надеть на собеседование»."
+    answers: ["She asked what she should wear to the interview."]
+    explain: "*What shall I wear?* → **what she should wear**: прямой порядок, *shall* → *should*."
+  - q: "«Он сказал, что жалеет, что не учил японский»."
+    answers: ["He said he wished he had studied Japanese."]
+    explain: "*I wish I had studied…* → *he wished he **had studied***: после *wish* форма не сдвигается."
+  - q: "«Они пригласили нас остаться на выходные»."
+    answers: ["They invited us to stay for the weekend."]
+    explain: "*Would you like to stay…?* → **invited us to stay**."
+  - q: "«Врач сказал, что мне лучше отдохнуть пару дней»."
+    answers: ["The doctor said I had better rest for a couple of days."]
+    explain: "*You'd better rest* → *I **had better** rest*: *had better* не меняется."
+  - q: "«Она сказала, что мне не обязательно приходить»."
+    answers: ["She said I did not have to come."]
+    explain: "*You don't have to come* → **did not have to**: «не обязательно», а не запрет."
+  - q: "«Сосед спросил, можно ли ему оставить у нас ключи»."
+    answers: ["Our neighbour asked if he could leave his keys with us."]
+    explain: "*Can I leave…?* → **asked if he could leave**: прямой порядок после *if*."

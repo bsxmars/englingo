@@ -1,0 +1,144 @@
+- id: c1m16-three-types
+  lesson: c1-16-connectors-focus/01-connectors-types
+  q: "Чем отличаются **however**, **although** и **despite** грамматически?"
+  a: "*however* — connector между двумя предложениями; *although* — союз внутри одного предложения; *despite* — предлог + существительное или *-ing*."
+- id: c1m16-comma-splice
+  lesson: c1-16-connectors-focus/01-connectors-types
+  q: "Найди ошибку: *Sales fell, however profits rose.*"
+  a: "Comma splice. *Sales fell**;** however**,** profits rose* — или *Sales fell, **but** profits rose.*"
+- id: c1m16-as-a-result-of
+  lesson: c1-16-connectors-focus/01-connectors-types
+  q: "**As a result** или **as a result of**: ___ the strike, flights were cancelled."
+  a: "**As a result of** — перед существительным нужен предлог. *As a result* — только в начале нового предложения."
+- id: c1m16-instead-end
+  lesson: c1-16-connectors-focus/01-connectors-types
+  q: "Найди ошибку: *He didn't call. He sent a text instead of.*"
+  a: "*…a text **instead**.* *instead of* требует дополнения; без него — connector *instead* в конце."
+- id: c1m16-but-nevertheless
+  lesson: c1-16-connectors-focus/01-connectors-types
+  q: "Как сочетать союз и связку: «но тем не менее»?"
+  a: "Сначала союз, потом связка: ***but nevertheless***, ***and consequently***. Не ~~nevertheless but~~."
+- id: c1m16-connector-position
+  lesson: c1-16-connectors-focus/01-connectors-types
+  q: "Найди ошибку: *They offered also a discount.*"
+  a: "*They **also** offered a discount.* Связка не встаёт между глаголом и дополнением."
+- id: c1m16-contrary-to
+  lesson: c1-16-connectors-focus/01-connectors-types
+  q: "Переведи: «Вопреки распространённому мнению, …»"
+  a: "***Contrary to** popular belief, …* — без *on the*."
+- id: c1m16-moreover-besides
+  lesson: c1-16-connectors-focus/02-adding-contrast-result
+  q: "**Moreover** или **besides** в академическом эссе?"
+  a: "**Moreover / furthermore** — формальные. *Besides* — разговорное «да и вообще», в эссе избегай."
+- id: c1m16-on-the-contrary
+  lesson: c1-16-connectors-focus/02-adding-contrast-result
+  q: "Когда **on the contrary**, а когда **on the other hand**?"
+  a: "*On the contrary* — опровергает сказанное («вовсе нет, наоборот»). *On the other hand* — вторая сторона того же вопроса."
+- id: c1m16-conversely
+  lesson: c1-16-connectors-focus/02-adding-contrast-result
+  q: "Что значит **conversely**?"
+  a: "«И наоборот»: обратная зависимость или противоположный случай. *Exports rose. **Conversely**, imports fell.*"
+- id: c1m16-nonetheless
+  lesson: c1-16-connectors-focus/02-adding-contrast-result
+  q: "Переведи: «Шансы были невелики. Тем не менее они победили»."
+  a: "*The odds were against them. **Nevertheless / Nonetheless**, they won.*"
+- id: c1m16-after-all
+  lesson: c1-16-connectors-focus/02-adding-contrast-result
+  q: "Два значения **after all**: в начале и в конце предложения."
+  a: "В начале — «ведь, не забывай» (*After all, he's only 19*). В конце — «всё-таки, вопреки ожиданиям» (*I passed after all*)."
+- id: c1m16-hence
+  lesson: c1-16-connectors-focus/02-adding-contrast-result
+  q: "Что обычно идёт после **hence**? Пример."
+  a: "Существительное без глагола: *The roads were icy — **hence** the delay.* «Отсюда и…»"
+- id: c1m16-thereby
+  lesson: c1-16-connectors-focus/02-adding-contrast-result
+  q: "Переведи: «Она ушла в отставку, тем самым положив конец спору»."
+  a: "*She resigned, **thereby** ending the dispute.* — *thereby + -ing*."
+- id: c1m16-meantime
+  lesson: c1-16-connectors-focus/02-adding-contrast-result
+  q: "**Meanwhile** и **in the meantime**: в чём разница?"
+  a: "*Meanwhile* — и «одновременно», и «а пока». *In the meantime* — только «а пока, до того момента»."
+- id: c1m16-subsequently
+  lesson: c1-16-connectors-focus/02-adding-contrast-result
+  q: "Формальное «впоследствии»?"
+  a: "**subsequently**: *He was **subsequently** promoted.*"
+- id: c1m16-at-last
+  lesson: c1-16-connectors-focus/02-adding-contrast-result
+  q: "Найди ошибку в речи: *At last, I'd like to thank my parents.*"
+  a: "***Finally / Lastly / Last but not least**, I'd like to thank…* *At last* = «наконец-то» после долгого ожидания."
+- id: c1m16-for-a-start
+  lesson: c1-16-connectors-focus/02-adding-contrast-result
+  q: "Какой связкой начать первый довод в поддержку своего мнения (неформально)?"
+  a: "***For a start**, …* или ***For one thing**, …*: *I won't go. For a start, it's too expensive.*"
+- id: c1m16-little-did
+  lesson: c1-16-connectors-focus/03-fronting-cleft
+  q: "Переведи с инверсией: «Я и не подозревал, что он лжёт»."
+  a: "***Little did I suspect / know** that he was lying.*"
+- id: c1m16-not-until
+  lesson: c1-16-connectors-focus/03-fronting-cleft
+  q: "Две модели «только когда / только после»: перефразируй *We realised it only when she left.*"
+  a: "***Not until** she left **did we realise** it.* / ***It was not until** she left **that** we realised it.*"
+- id: c1m16-only-by
+  lesson: c1-16-connectors-focus/03-fronting-cleft
+  q: "Найди ошибку: *Only by cutting costs the company can survive.*"
+  a: "*Only by cutting costs **can the company** survive.* После *Only by + -ing* — инверсия."
+- id: c1m16-so-such
+  lesson: c1-16-connectors-focus/03-fronting-cleft
+  q: "Перефразируй с инверсией: *The demand was so high that tickets sold out.*"
+  a: "***So high was the demand that** tickets sold out.* / ***Such was the demand that**…*"
+- id: c1m16-here-it-comes
+  lesson: c1-16-connectors-focus/03-fronting-cleft
+  q: "**Here comes the bus** — а если вместо *the bus* местоимение?"
+  a: "***Here it comes.*** С местоимением инверсии нет."
+- id: c1m16-what-cleft
+  lesson: c1-16-connectors-focus/03-fronting-cleft
+  q: "Выдели действие: *She called the police.* → What…"
+  a: "***What she did was (to) call** the police.*"
+- id: c1m16-reason-that
+  lesson: c1-16-connectors-focus/03-fronting-cleft
+  q: "Найди ошибку: *The reason I left was because the pay was low.*"
+  a: "*The reason I left was **that** the pay was low.*"
+- id: c1m16-cleft-that-not-when
+  lesson: c1-16-connectors-focus/03a-cleft-emphasis
+  q: "Найди ошибку: *It was in 2015 when the company went public.*"
+  a: "В письменном it-cleft после фокуса — **that**: *It was in 2015 **that** the company went public.*"
+- id: c1m16-cleft-agreement
+  lesson: c1-16-connectors-focus/03a-cleft-emphasis
+  q: "**is** или **are**: *It's you who ___ responsible.*"
+  a: "**are** — глагол после *who* согласуется с фокусом (*you*)."
+- id: c1m16-what-did-was
+  lesson: c1-16-connectors-focus/03a-cleft-emphasis
+  q: "Найди ошибку: *What he did was called the bank.*"
+  a: "Время уже в *did*, дальше инфинитив: *What he did was **(to) call** the bank.*"
+- id: c1m16-all-he-did
+  lesson: c1-16-connectors-focus/03a-cleft-emphasis
+  q: "Переведи: «Он только и делал, что жаловался»."
+  a: "***All he did was complain.*** *All* = «всего лишь, единственное, что»."
+- id: c1m16-all-what
+  lesson: c1-16-connectors-focus/03a-cleft-emphasis
+  q: "Найди ошибку: *All what I need is time.*"
+  a: "***All (that) I need** is time.* После *all* — *that* или ничего, но не *what*."
+- id: c1m16-its-not-that
+  lesson: c1-16-connectors-focus/03a-cleft-emphasis
+  q: "Переведи: «Дело не в том, что я устал, — просто уже поздно»."
+  a: "*It's not that I'm tired — it's just that it's late.*"
+- id: c1m16-last-thing
+  lesson: c1-16-connectors-focus/03a-cleft-emphasis
+  q: "Переведи: «Меньше всего я ожидал извинений»."
+  a: "***The last thing** I expected **was** an apology.*"
+- id: c1m16-emphatic-do
+  lesson: c1-16-connectors-focus/03a-cleft-emphasis
+  q: "Как сказать «Я же тебя предупреждал!» одним вспомогательным глаголом?"
+  a: "*I **did** warn you!* — эмфатическое *did* + инфинитив (не ~~did warned~~)."
+- id: c1m16-thats-where
+  lesson: c1-16-connectors-focus/03a-cleft-emphasis
+  q: "Переведи: «Вот тут-то и начинаются проблемы»."
+  a: "***That's where** the problems start.* — обратный cleft связывает с предыдущим."
+- id: c1m16-in-no-time
+  lesson: c1-16-connectors-focus/03-fronting-cleft
+  q: "Нужна ли инверсия: *In no time ___ (dinner / be) ready.*"
+  a: "Нет: *in no time* = «мигом», это не отрицание. ***In no time dinner was** ready.*"
+- id: c1m16-actually-currently
+  lesson: c1-16-connectors-focus/02-adding-contrast-result
+  q: "«В настоящее время компания нанимает 300 человек» — *actually*?"
+  a: "Нет: *actually* = «на самом деле». Нужно ***Currently / At present** the company employs 300 people.*"

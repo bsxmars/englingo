@@ -1,0 +1,55 @@
+title: "Связки между предложениями"
+type: choice
+intro: "Выбери связку, которая соединяет предложения по смыслу."
+hints:
+  - "on the other hand — вторая сторона; on the contrary — наоборот, первое неверно."
+  - "besides — к тому же (ещё довод); instead — вместо этого; after all — ведь."
+items:
+  - q: "The flat is in a great location. ___, it's surprisingly cheap."
+    options: ["In addition", "On the contrary", "Instead"]
+    answer: 0
+    explain: "Добавляем ещё один плюс → **In addition**."
+  - q: "I don't think Max is lazy. ___, he's the hardest-working person on the team."
+    options: ["On the other hand", "On the contrary", "In addition"]
+    answer: 1
+    explain: "Опровергаем мысль «Макс ленивый» → **On the contrary** («наоборот»)."
+  - q: "Working from home saves a lot of time. ___, it can feel quite lonely."
+    options: ["On the other hand", "On the contrary", "Besides"]
+    answer: 0
+    explain: "Обе мысли верны, это две стороны вопроса → **On the other hand**."
+  - q: "We were planning to fly to Rome, but the tickets were too expensive. ___, we took the train."
+    options: ["Instead", "Instead of", "Besides"]
+    answer: 0
+    explain: "«Вместо этого» в начале предложения — **Instead**. *Instead of* требует существительного или *-ing*."
+  - q: "Don't worry too much about the mistake. ___, it's only your first week."
+    options: ["After all", "Finally", "At last"]
+    answer: 0
+    explain: "**After all** = «ведь, всё-таки»: подкрепляет мысль доводом. *Finally* и *at last* — о времени."
+  - q: "I don't really want to go to the party. ___, I've got nothing to wear."
+    options: ["Besides", "Except", "Instead"]
+    answer: 0
+    explain: "Ещё один довод «против» → **Besides** («к тому же»). *Except* значит «кроме, за исключением»."
+  - q: "The tests showed that the new drug is safe. ___, it has been approved for use."
+    options: ["Therefore", "However", "For instance"]
+    answer: 0
+    explain: "Вторая мысль — вывод из первой → **Therefore**."
+  - q: "The meeting has been postponed indefinitely. ___, it probably isn't going to happen."
+    options: ["In other words", "For example", "Besides"]
+    answer: 0
+    explain: "Пересказываем то же самое проще → **In other words** («иными словами»)."
+  - q: "The weather was awful all week. ___, we had a great time."
+    options: ["Still", "Therefore", "Besides"]
+    answer: 0
+    explain: "**Still** в начале предложения = «и всё же, тем не менее»."
+  - q: "— I've just sent you the report. — Great, thanks. ___, have you seen my charger anywhere?"
+    options: ["By the way", "After all", "In addition"]
+    answer: 0
+    explain: "Меняем тему разговора → **By the way** («кстати»)."
+  - q: "I'm not sure the trip is worth the money. ___, I've already booked it, so we're going."
+    options: ["Anyway", "Therefore", "In other words"]
+    answer: 0
+    explain: "**Anyway** — «ну, как бы там ни было»: отмахиваемся от сомнений и возвращаемся к главному."
+  - q: "Some apps collect a lot of personal data. ___, many of them track your location even when they're closed."
+    options: ["For example", "On the contrary", "Instead"]
+    answer: 0
+    explain: "Приводим пример к общему утверждению → **For example** (или *For instance*)."

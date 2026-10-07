@@ -1,0 +1,34 @@
+title: "Собери пассивное предложение"
+type: order
+intro: "Собери предложение из слов. Следи за порядком вспомогательных глаголов: модальный → have → been → being → V3."
+hints:
+  - "Цепочка вспомогательных всегда идёт в одном порядке: will / must → have → been / be → being → V3."
+  - "В вопросе первый вспомогательный глагол встаёт перед подлежащим."
+items:
+  - q: "Новость о мосте: «Мост сейчас ремонтируют»."
+    answers: ["The bridge is being repaired at the moment", "At the moment the bridge is being repaired"]
+    explain: "Present Continuous пассив: *is* + *being* + V3. Обстоятельство времени обычно в конце, но может стоять и в начале."
+  - q: "Вопрос: «Когда построили этот собор?»"
+    answers: ["When was this cathedral built"]
+    explain: "Вопрос в Past Simple пассиве: *When* + *was* + подлежащее + V3."
+  - q: "Сообщение в приложении: «Ваш пароль был успешно изменён»."
+    answers: ["Your password has been changed successfully", "Your password has been successfully changed", "Your password has successfully been changed"]
+    explain: "Present Perfect пассив: *has been* + V3. Наречие *successfully* может стоять перед V3 или в конце."
+  - q: "Правило в офисе: «Телефоны нужно выключать во время совещаний»."
+    answers: ["Phones must be switched off during meetings", "During meetings phones must be switched off"]
+    explain: "Модальный глагол + **be** + V3: *must be switched off*. Частица *off* остаётся после V3."
+  - q: "Рассказ о прошлом: «Когда мы приехали, ужин уже приготовили»."
+    answers: ["When we arrived dinner had already been cooked", "Dinner had already been cooked when we arrived"]
+    explain: "Действие до другого момента в прошлом → Past Perfect пассив: *had already been* + V3. *already* — между *had* и *been*."
+  - q: "Объявление: «Результаты будут опубликованы в понедельник»."
+    answers: ["The results will be published on Monday", "On Monday the results will be published"]
+    explain: "*will* + **be** + V3. После модального *will* — голое *be*, без *-s* и *-ed*."
+  - q: "Упрёк: «Эту проблему должны были решить ещё месяц назад»."
+    answers: ["This problem should have been solved a month ago"]
+    explain: "Упрёк о прошлом в пассиве: *should* + *have* + *been* + V3."
+  - q: "История: «Эту картину написал неизвестный художник»."
+    answers: ["This picture was painted by an unknown artist"]
+    explain: "Исполнитель — новая и важная информация, поэтому он уходит в конец после **by**."
+  - q: "Вопрос: «Тебя пригласили на свадьбу?»"
+    answers: ["Have you been invited to the wedding"]
+    explain: "Present Perfect пассив в вопросе: *Have* + подлежащее + *been* + V3. Результат важен сейчас."

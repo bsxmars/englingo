@@ -1,0 +1,52 @@
+title: "most, more, enough: смысл и регистр"
+type: choice
+intro: "Выбери вариант, который подходит по форме, смыслу и стилю."
+hints:
+  - "most = большинство; the most = больше всех; mostly = в основном."
+  - "many more — с исчисляемыми, much more — с неисчисляемыми."
+  - "enough после прилагательного, но перед существительным; sufficient — формальный вариант."
+items:
+  - q: "___ people would agree that public transport in the city has improved."
+    options: ["Most", "The most", "Mostly"]
+    answer: 0
+    explain: "«Большинство людей» — **Most people**. *The most people* = «больше всего людей», *Mostly* — наречие и перед существительным не стоит."
+  - q: "Of the six candidates, Ruiz received ___ votes, though not an overall majority."
+    options: ["most of", "the most", "mostly"]
+    answer: 1
+    explain: "Нужна превосходная степень «больше всех» — **the most**. Уточнение *not an overall majority* показывает, что это не «большинство»."
+  - q: "The audience was ___ made up of postgraduate students and their supervisors."
+    options: ["mostly", "most", "the most"]
+    answer: 0
+    explain: "Перед причастием *made up* нужно наречие **mostly** («в основном»). *most* и *the most* здесь не грамматичны."
+  - q: "Благодарственное письмо: Thank you for ___ informative presentation at our annual conference."
+    options: ["a most", "a mostly", "most"]
+    answer: 0
+    explain: "*a most* + прилагательное — формальный усилитель «весьма, крайне»: **a most informative presentation**."
+  - q: "If the whole department comes, we'll need ___ chairs — at least twenty."
+    options: ["much more", "many more", "more much"]
+    answer: 1
+    explain: "*chairs* — исчисляемое во мн. ч. → **many more**. *much more* — только с неисчисляемыми."
+  - q: "More than one witness ___ seen the driver leave the scene."
+    options: ["claims to have", "claim to have", "claiming to have"]
+    answer: 0
+    explain: "После *more than one* существительное в единственном числе, и глагол тоже: **claims**. Ср. *More than two witnesses claim…*"
+  - q: "The flat was certainly ___ for the two of us, but not for a family."
+    options: ["big enough", "enough big", "sufficient big"]
+    answer: 0
+    explain: "*enough* стоит **после** прилагательного: **big enough**. *sufficient* с прилагательными не сочетается."
+  - q: "Официальное заключение: There is ___ evidence to justify further investigation."
+    options: ["insufficient", "not enough of", "plenty"]
+    answer: 0
+    explain: "В официальном тексте — **insufficient evidence**. *enough of* требует определителя после себя, а *plenty* без *of* перед существительным нестандартно."
+  - q: "Relax, there's ___ time before the meeting — it doesn't start until eleven."
+    options: ["plenty of", "numerous", "several"]
+    answer: 0
+    explain: "*time* неисчисляемое, и смысл «с избытком» → **plenty of**. *numerous* и *several* — только с исчисляемыми во мн. ч."
+  - q: "Отчёт комиссии: The minister has been criticised on ___ occasions for misleading Parliament."
+    options: ["loads of", "numerous", "plenty of"]
+    answer: 1
+    explain: "Все три грамматичны, но в официальном отчёте уместно только **numerous**. *loads of* — разговорное, *plenty of* оценочно и неформально."
+  - q: "I won't be needing the car ___ — I've sold the cottage."
+    options: ["any more", "no more", "more"]
+    answer: 0
+    explain: "«Больше не» с отрицательным глаголом — **any more** (*anymore*). *won't … no more* — двойное отрицание."

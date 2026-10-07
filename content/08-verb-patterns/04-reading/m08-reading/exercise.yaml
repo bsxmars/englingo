@@ -1,0 +1,82 @@
+title: "Why You Keep Giving Up"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. В вопросах с полем ввода впиши слово или фразу из текста."
+hints:
+  - "Вопросы идут в порядке текста."
+  - "После but и in fact обычно идёт позиция автора."
+text: |
+  ## Why You Keep Giving Up — and How to Stop
+
+  **(1)** Every January, millions of people decide to change their lives. They promise to go to the gym three times a week, to stop eating sugar or to start learning a language. By February, most of them have given up. It is tempting to blame a lack of willpower, but researchers who study behaviour suggest looking somewhere else: at the way we design our habits.
+
+  **(2)** A habit, in simple terms, is something we do without having to decide to do it. Nobody wakes up and considers brushing their teeth; it simply happens. The aim, therefore, is not to force yourself to make the right choice every day, but to arrange things so that the choice disappears.
+
+  **(3)** The first step is to make the habit ridiculously small. If you want to read more, don't promise to read a chapter every night — commit to reading one page. It sounds pointless, but it is hard to fail at something that takes two minutes, and once you have opened the book, you will often go on reading for much longer. The point is to build the routine first and worry about the amount later.
+
+  **(4)** Second, attach the new habit to something you already do. Psychologists call this "habit stacking": "After I pour my morning coffee, I will write down three things I need to do today." The existing routine reminds you to perform the new one, so you don't have to rely on memory.
+
+  **(5)** Third, change your environment. Most of us overestimate our self-control and underestimate how much our surroundings make us behave in certain ways. If your phone is on the bedside table, you will find it very difficult to avoid checking it before you go to sleep. Leave it in another room and the problem largely solves itself. Similarly, people who want to eat more fruit are far more likely to succeed if they keep a bowl of it on the kitchen table rather than hidden in the fridge.
+
+  **(6)** Finally, expect to miss a day. Many people stop trying after one bad week because they feel they have failed. In fact, research suggests that missing a single day has almost no effect on whether a habit forms. What matters is refusing to miss two days in a row. As one coach puts it, "Never miss twice."
+
+  **(7)** How long does all this take? You may have heard that it takes 21 days to form a habit. Unfortunately, this figure seems to have no scientific basis. In one well-known study at University College London, participants needed anywhere from 18 to 254 days before a new behaviour became automatic, with an average of just over two months. Simple habits, such as drinking a glass of water with lunch, became automatic sooner than more demanding ones, like doing fifty sit-ups every morning.
+
+  **(8)** That might sound discouraging, but it shouldn't. It means you can stop worrying about a deadline and let the process take as long as it needs. Remember to celebrate small wins, try not to compare yourself with others, and keep going. The person who keeps showing up, slowly and imperfectly, will usually end up further ahead than the one who tried to change everything at once.
+items:
+  - q: "According to paragraph 1, what do researchers suggest?"
+    options:
+      - "Most people do not really want to change their lives."
+      - "The problem is often in how habits are designed, not in a lack of willpower."
+      - "January is the worst month to start a new habit."
+      - "People should make fewer promises to themselves."
+    answer: 1
+    explain: "*It is tempting to blame a lack of willpower, but researchers… suggest looking… at the way we design our habits.* После *but* — позиция исследователей."
+  - q: "In paragraph 2, what does the writer say the aim of building a habit is?"
+    options:
+      - "To make the right decision every morning."
+      - "To develop stronger self-discipline."
+      - "To remove the need to make a decision at all."
+      - "To copy the routines of successful people."
+    answer: 2
+    explain: "*arrange things so that the choice disappears* — привычка работает, когда решать уже не нужно."
+  - q: "Why does the writer recommend reading just one page?"
+    options:
+      - "Because reading more than that is tiring."
+      - "Because starting is easy, and people often continue once they have started."
+      - "Because one page a night is enough to finish many books."
+      - "Because short reading sessions improve memory."
+    answer: 1
+    explain: "*hard to fail at something that takes two minutes… you will often go on reading for much longer.*"
+  - q: "What is \"habit stacking\"?"
+    options:
+      - "Doing several new habits at the same time."
+      - "Linking a new habit to something you already do regularly."
+      - "Writing a list of habits every morning."
+      - "Replacing a bad habit with a good one."
+    answer: 1
+    explain: "Абзац 4: *attach the new habit to something you already do* — пример с кофе это поясняет."
+  - q: "Why does the writer mention the phone on the bedside table?"
+    options:
+      - "To show that our surroundings influence our behaviour more than we think."
+      - "To argue that people should not use phones in the evening."
+      - "To prove that some people have no self-control."
+      - "To explain why people sleep badly."
+    answer: 0
+    explain: "Это пример к главной мысли абзаца 5: *underestimate how much our surroundings make us behave in certain ways*."
+  - q: "What does the writer say about the idea that a habit takes 21 days to form?"
+    options:
+      - "It is true for simple habits only."
+      - "It was first suggested at University College London."
+      - "It does not appear to be supported by scientific evidence."
+      - "It is a useful target even if it is not exact."
+    answer: 2
+    explain: "*this figure seems to have no scientific basis* — у цифры нет научного обоснования."
+  - q: "Find a phrase in paragraph 6 that means \"one after another, without a break\"."
+    answers: ["in a row"]
+    explain: "**in a row** — подряд: *two days in a row*, *for the third year in a row*."
+  - q: "Find a word in paragraph 7 that means \"needing a lot of effort or skill\"."
+    answers: ["demanding"]
+    explain: "**demanding** — требовательный, трудный: *a demanding job, a demanding boss*."
+  - q: "Find a word in paragraph 3 that means \"having no purpose or useful result\"."
+    answers: ["pointless"]
+    explain: "**pointless** — бессмысленный: *It's pointless arguing with him.* (обрати внимание: *pointless* + -ing)."

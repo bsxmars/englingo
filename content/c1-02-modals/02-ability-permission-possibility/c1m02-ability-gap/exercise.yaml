@@ -1,0 +1,40 @@
+title: "can, could, be able to, be allowed to"
+type: gap
+intro: "Впиши подходящую форму **can, could, be able to** или **be allowed to** вместе с глаголом из скобок. Где верны несколько вариантов, засчитываются все естественные."
+hints:
+  - "Одно конкретное успешное действие в прошлом — was / were able to, не could."
+  - "После модальных, в перфекте, в инфинитиве и герундии — be able to / be allowed to."
+items:
+  - q: "The rescue team ___ (reach) the climbers just before the storm hit."
+    answers: ["was able to reach", "were able to reach", "managed to reach"]
+    explain: "Одно успешное действие в конкретной ситуации → *was / were able to* (team — и единственное, и множественное число). *could reach* здесь звучит неестественно."
+  - q: "I ___ (not / sleep) properly since we moved next to the motorway."
+    answers: ["haven't been able to sleep", "have not been able to sleep"]
+    explain: "*since* требует Present Perfect, а у *can* перфекта нет → *haven't been able to*."
+  - q: "By the age of four, Mozart ___ (play) short pieces on the harpsichord."
+    answers: ["could play", "was able to play"]
+    explain: "Общее умение в прошлом → *could* (или *was able to*)."
+  - q: "We tried for an hour, but we ___ (not / get) the projector to work."
+    answers: ["couldn't get", "could not get", "weren't able to get", "were not able to get", "didn't manage to get", "did not manage to get"]
+    explain: "С отрицанием *could* подходит и для конкретного случая: *couldn't get*. *weren't able to* тоже верно."
+  - q: "Hopefully, after the upgrade we ___ (process) twice as many orders."
+    answers: ["will be able to process", "'ll be able to process", "should be able to process", "can process"]
+    explain: "Будущее умение → *will be able to*: два модальных (~~will can~~) не сочетаются. Разговорное *can process* тоже засчитывается."
+  - q: "It was the first time the prisoners ___ (see) their families in over a year."
+    answers: ["had been allowed to see", "were allowed to see", "had been able to see", "were able to see"]
+    explain: "Разрешение в конкретном случае → *be allowed to*, не *could*. Past Perfect подчёркивает «впервые за год». *had been able to* (была возможность) тоже засчитывается."
+  - q: "I really resent ___ (not / choose) my own working hours."
+    answers: ["not being able to choose", "not being allowed to choose"]
+    explain: "После *resent* — герундий, а у *can* нет герундия → *not being able to* или *not being allowed to* (если запрещают)."
+  - q: "She ___ (become) a professional athlete, but she chose medicine instead."
+    answers: ["could have become"]
+    explain: "Нереализованная возможность в прошлом → *could have* + V3."
+  - q: "Listen! I ___ (hear) someone moving about upstairs."
+    answers: ["can hear"]
+    explain: "С глаголами восприятия вместо Continuous — *can*: *I can hear*, а не ~~I'm hearing~~."
+  - q: "Passengers ___ (not / take) more than 100 ml of liquid through security."
+    answers: ["are not allowed to take", "aren't allowed to take", "may not take", "cannot take", "can't take", "must not take", "mustn't take"]
+    explain: "Правило: *aren't allowed to / may not / can't*. Все варианты подходят для таблички."
+  - q: "I'd love ___ (speak) Japanese well enough to read novels in the original."
+    answers: ["to be able to speak"]
+    explain: "После *I'd love* нужен инфинитив, а у *can* его нет → *to be able to speak*."

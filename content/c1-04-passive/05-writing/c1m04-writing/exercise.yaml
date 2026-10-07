@@ -1,0 +1,50 @@
+title: "Report: evaluating a pilot scheme"
+type: writing
+intro: "Напиши отчёт в формате C1 Advanced, Writing Part 2. Нужны заголовок, подзаголовки, формальный регистр, оценка с опорой на данные и рекомендации с условиями."
+prompt: |
+  Your organisation recently ran a **six-month pilot scheme** in one department. It might have been flexible working hours, a four-day week, a ban on internal emails after 6 p.m., or another change of your choice. The management board has asked you to write a report on the scheme.
+
+  In your report you should:
+
+  - **evaluate** the impact of the scheme on staff and on the work of the department;
+  - **identify** any problems that arose and explain why;
+  - **recommend** whether the scheme should be extended, and under what conditions.
+
+  Write your **report** in 220–260 words.
+words: [220, 260]
+target_grammar:
+  - "Пассив для источников и результатов: data were collected, it was found that, was well received"
+  - "Модальный перфектный пассив: could have been avoided, should have been agreed"
+  - "Reporting passives: it was noted that…, …is considered to be…, …appears to have been caused by…"
+  - "It is recommended / suggested that + субъюнктив или should"
+checklist:
+  - "Есть заголовок и 3–4 содержательных подзаголовка."
+  - "Во введении названы цель отчёта и источники данных."
+  - "В каждом разделе есть не только факты, но и оценка или вывод."
+  - "Использованы минимум одна модальная перфектная пассивная форма (could / should have been + V3) и минимум одна reporting-конструкция (it was noted that…, is considered to…)."
+  - "Рекомендации оформлены через It is recommended that… (be / should be) и содержат условия."
+  - "Формальный регистр: нет сокращений, get-passive и разговорных слов; нет пустых by-phrases."
+  - "Объём 220–260 слов."
+model_answer: |
+  **Evaluation of the flexible-hours pilot scheme**
+
+  **Introduction**
+
+  This report assesses the six-month flexible-hours pilot introduced in the customer support department and makes recommendations as to whether it should be extended. The findings are based on an anonymous staff survey, response-time data and interviews with team leaders.
+
+  **Impact on staff**
+
+  The scheme was very well received. Over 80% of respondents reported lower stress levels, and sick leave fell by almost a third compared with the same period last year. Several employees with young children stated that, without the scheme, they would have been forced to reduce their hours.
+
+  **Impact on service**
+
+  Contrary to initial concerns, response times did not deteriorate. However, it was noted by team leaders that cover on Monday mornings and Friday afternoons was occasionally insufficient, and a number of urgent queries had to be redirected to other departments. These gaps could have been avoided if a minimum staffing rota had been agreed in advance.
+
+  **Recommendations**
+
+  On balance, it is recommended that the scheme be extended to the whole company for a further year, subject to the following conditions:
+
+  - a minimum level of cover should be guaranteed for peak periods;
+  - core hours, during which all staff are expected to be available, should be clearly defined.
+
+  It is also suggested that the results be reviewed after six months. If these measures are adopted, the benefits observed during the pilot are likely to be maintained without any loss in service quality.

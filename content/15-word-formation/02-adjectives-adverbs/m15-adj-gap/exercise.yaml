@@ -1,0 +1,43 @@
+title: "Прилагательное или наречие от слова в скобках"
+type: gap
+intro: "Формат B2 First Use of English, Part 3. Образуй от слова КАПСОМ **прилагательное** или **наречие**, которое подходит по смыслу."
+hints:
+  - "После be / seem и перед существительным — прилагательное. Описывает действие или всё предложение — наречие."
+  - "Проверь смысл: может, нужна отрицательная форма (-less, un-)?"
+items:
+  - q: "Be careful — this road is very ___ (DANGER) at night."
+    answers: ["dangerous"]
+    explain: "После *very* — прилагательное: *danger → **dangerous*** (*-ous*)."
+  - q: "It was a ___ (SUCCESS) campaign that raised a lot of money."
+    answers: ["successful"]
+    explain: "Перед существительным — прилагательное: **successful** (*-ful*, одна *l*)."
+  - q: "This old charger is completely ___ (USE) with the new phone."
+    answers: ["useless"]
+    explain: "Старая зарядка не подходит → «бесполезная» → **useless** (*-less* = без)."
+  - q: "She's very ___ (CREATE) — she's always coming up with new ideas."
+    answers: ["creative"]
+    explain: "После *very* — прилагательное: *create → **creative*** (*-e* выпадает перед *-ive*)."
+  - q: "Is the water in this river ___ (DRINK)?"
+    answers: ["drinkable"]
+    explain: "«Можно пить?» → **-able**: *drinkable*."
+  - q: "It was a warm, ___ (SUN) day, so we went to the beach."
+    answers: ["sunny"]
+    explain: "*sun → **sunny***: суффикс *-y*, согласная удваивается (как *fun → funny*)."
+  - q: "He's one of the most ___ (FAME) writers in the country."
+    answers: ["famous"]
+    explain: "*the most ___ writers* → прилагательное: *fame → **famous*** (*-e* выпадает)."
+  - q: "There has been a ___ (DRAMA) rise in house prices this year."
+    answers: ["dramatic"]
+    explain: "Перед существительным *rise* — прилагательное: **dramatic** (*-ic*)."
+  - q: "House prices have risen ___ (DRAMA) this year."
+    answers: ["dramatically"]
+    explain: "Описывает глагол *have risen* → наречие: *-ic* → **-ically**."
+  - q: "___ (LUCK), the train was late, so I didn't miss it."
+    answers: ["luckily"]
+    explain: "Начало предложения + запятая → наречие-оценка: *luck → lucky → **luckily*** (*-y* → *-ily*)."
+  - q: "Please drive ___ (CARE) — the roads are icy."
+    answers: ["carefully"]
+    explain: "Как вести машину? → наречие **carefully**: *care → careful → carefully* (две *l*)."
+  - q: "Tom is very ___ (RELY): he never misses a deadline."
+    answers: ["reliable"]
+    explain: "*never misses a deadline* — положительное качество → **reliable** (*y* → *i* + *-able*)."

@@ -1,0 +1,140 @@
+- id: c1m06-of-determiner
+  lesson: c1-06-determiners/01-determiners-some-any
+  q: "Найди ошибку: *Most of students prefer online lectures.*"
+  a: "После *of* нужен определитель: *Most **of the** students* или просто *Most students*."
+- id: c1m06-most-of-europe
+  lesson: c1-06-determiners/01-determiners-some-any
+  q: "«Большая часть Европы» — как правильно?"
+  a: "***Most of** Europe* — с *of*, без артикля. Не ~~most Europe~~, не ~~most of the Europe~~."
+- id: c1m06-every-one
+  lesson: c1-06-determiners/01-determiners-some-any
+  q: "*every* или *every one*: I checked ___ of the boxes."
+  a: "***every one** of*. ~~every of~~ не бывает; без существительного тоже *every one*."
+- id: c1m06-some-approx
+  lesson: c1-06-determiners/01-determiners-some-any
+  q: "Что значит *some* в *The village lies some thirty miles from the coast*?"
+  a: "«Около, примерно» — книжный вариант *about*."
+- id: c1m06-some-singular
+  lesson: c1-06-determiners/01-determiners-some-any
+  q: "Чем *A journalist called* отличается от *Some journalist called*?"
+  a: "*some* + ед. ч. = «какой-то (неизвестный, неважный)», часто с оттенком пренебрежения."
+- id: c1m06-any-whichever
+  lesson: c1-06-determiners/01-determiners-some-any
+  q: "Переведи: «Любой юрист скажет вам то же самое»."
+  a: "***Any** lawyer will tell you the same.* — ударное *any* в утверждении = «любой»."
+- id: c1m06-no-subject
+  lesson: c1-06-determiners/01-determiners-some-any
+  q: "Найди ошибку: *Not any explanation was offered.*"
+  a: "В подлежащем — только **no**: *No explanation was offered.*"
+- id: c1m06-deny-any
+  lesson: c1-06-determiners/01-determiners-some-any
+  q: "Почему *He denied **any** involvement*, а не *some*?"
+  a: "*deny, refuse, without, hardly* имеют отрицательный смысл → после них *any*."
+- id: c1m06-whole-of
+  lesson: c1-06-determiners/02-all-each-either
+  q: "«Вся Италия» — *the whole Italy* или *the whole of Italy*?"
+  a: "***the whole of** Italy* (или *all of Italy*). Перед названием места и определителем — *the whole of*."
+- id: c1m06-whole-money
+  lesson: c1-06-determiners/02-all-each-either
+  q: "Найди ошибку: *She spent the whole money in a week.*"
+  a: "*whole* — только с исчисляемыми в ед. ч.: ***all the** money*."
+- id: c1m06-we-all
+  lesson: c1-06-determiners/02-all-each-either
+  q: "*All we know* или *We all know* — в чём разница?"
+  a: "*We all know* = «мы все знаем». *All we know (is)…* = «всё, что мы знаем; единственное, что мы знаем»."
+- id: c1m06-almost-every
+  lesson: c1-06-determiners/02-all-each-either
+  q: "*almost each* или *almost every*?"
+  a: "Только ***almost / nearly every***."
+- id: c1m06-every-reason
+  lesson: c1-06-determiners/02-all-each-either
+  q: "Переведи: «У неё есть все основания жаловаться»."
+  a: "*She has **every reason** to complain.* — *every* + абстрактное = «полный, всяческий»."
+- id: c1m06-either-side
+  lesson: c1-06-determiners/02-all-each-either
+  q: "Что значит *trees on either side of the road*?"
+  a: "«С обеих сторон дороги». *either* + *side / end / hand* = каждый из двух."
+- id: c1m06-neither-of-verb
+  lesson: c1-06-determiners/02-all-each-either
+  q: "*Neither of the reports mention / mentions it* — что лучше в эссе?"
+  a: "***mentions*** — в формальном стиле после *neither of / each of* глагол в ед. ч."
+- id: c1m06-many-a
+  lesson: c1-06-determiners/03-quantity-fractions
+  q: "Найди ошибку: *Many a student have failed this exam.*"
+  a: "*many a* + ед. ч. + глагол в ед. ч.: *Many a student **has** failed.*"
+- id: c1m06-great-deal
+  lesson: c1-06-determiners/03-quantity-fractions
+  q: "*a great deal of people* — верно?"
+  a: "Нет: *a great deal of* — только с неисчисляемыми. Для людей — *a great many / a large number of people*."
+- id: c1m06-much-of-day
+  lesson: c1-06-determiners/03-quantity-fractions
+  q: "Переведи формально: «Большую часть года она провела за границей»."
+  a: "*She spent **much of** the year abroad.* — *much of* + ед. ч. = «значительная часть»."
+- id: c1m06-few-a-few
+  lesson: c1-06-determiners/03-quantity-fractions
+  q: "*Few people came* vs *A few people came* — разница?"
+  a: "*Few* — «мало, почти никто» (недостаточно). *A few* — «несколько, кое-кто»."
+- id: c1m06-less-than-miles
+  lesson: c1-06-determiners/03-quantity-fractions
+  q: "*fewer* или *less*: It's ___ than five miles away."
+  a: "***less*** — расстояние, сумма и время — одно количество. Но *fewer than five people*."
+- id: c1m06-fraction-agreement
+  lesson: c1-06-determiners/03-quantity-fractions
+  q: "*Two-thirds of the budget is / are…*, *Two-thirds of the employees is / are…*?"
+  a: "Глагол согласуется с существительным после *of*: *of the budget **is***, *of the employees **are***."
+- id: c1m06-number-of
+  lesson: c1-06-determiners/03-quantity-fractions
+  q: "*The number of* или *A number of* — какой глагол?"
+  a: "*The number of complaints **has** risen* (ед. ч.); *A number of complaints **have** been made* (мн. ч.)."
+- id: c1m06-times-size
+  lesson: c1-06-determiners/03-quantity-fractions
+  q: "Переведи: «Новый стадион в три раза больше старого»."
+  a: "*The new stadium is **three times the size of** the old one* / ***three times as big as***."
+- id: c1m06-out-of-proportion
+  lesson: c1-06-determiners/04-reading
+  q: "Что значит *out of all proportion to*?"
+  a: "«Совершенно несоразмерно»: *The reaction was out of all proportion to the risk.*"
+- id: c1m06-percentage-point
+  lesson: c1-06-determiners/04-reading
+  q: "Рост с 4% до 6% — это сколько *percentage points* и сколько *per cent*?"
+  a: "На **два процентных пункта** (*two percentage points*), или на **50 процентов** от исходного."
+- id: c1m06-hardly-anyone
+  lesson: c1-06-determiners/01-determiners-some-any
+  q: "Найди ошибку: *Hardly no one came to the meeting.*"
+  a: "*hardly* уже отрицает: ***Hardly anyone** came.*"
+- id: c1m06-half-an-hour
+  lesson: c1-06-determiners/02-all-each-either
+  q: "«Полчаса» — *a half of hour*, *half an hour* или *half of an hour*?"
+  a: "***half an hour*** — *half* стоит перед артиклем (*half the price*). Допустимо и *a half hour*."
+- id: c1m06-most-the-most
+  lesson: c1-06-determiners/03a-more-most-enough
+  q: "Найди ошибку: *The most people in my team work remotely.*"
+  a: "«Большинство» — без артикля: ***Most people** / **Most of the people**.* *the most* = «больше всех»."
+- id: c1m06-mostly
+  lesson: c1-06-determiners/03a-more-most-enough
+  q: "*most* или *mostly*: The audience was ___ students."
+  a: "***mostly*** — наречие «в основном». *most* — перед существительным: *most students*."
+- id: c1m06-a-most
+  lesson: c1-06-determiners/03a-more-most-enough
+  q: "Что значит *It was a most enjoyable evening*?"
+  a: "«Весьма, очень приятный вечер» — *a most* = формальный усилитель, не превосходная степень."
+- id: c1m06-many-more
+  lesson: c1-06-determiners/03a-more-most-enough
+  q: "*much more* или *many more*: We need ___ volunteers."
+  a: "***many more*** (исчисляемые) или *far more*. *much more* — с неисчисляемыми: *much more money*."
+- id: c1m06-more-than-one
+  lesson: c1-06-determiners/03a-more-most-enough
+  q: "*More than one passenger was / were injured* — какой глагол?"
+  a: "***was*** — после *more than one* + ед. ч. глагол в единственном числе."
+- id: c1m06-enough-position
+  lesson: c1-06-determiners/03a-more-most-enough
+  q: "Найди ошибку: *The room isn't enough big, and we don't have enough of time.*"
+  a: "***big enough*** (после прилагательного), ***enough time*** (перед существительным, без *of*)."
+- id: c1m06-sufficient
+  lesson: c1-06-determiners/03a-more-most-enough
+  q: "Переведи формально: «Доказательств недостаточно для обвинения»."
+  a: "*There is **insufficient evidence** to bring charges.* / *The evidence **is not sufficient**…*"
+- id: c1m06-several-hundred
+  lesson: c1-06-determiners/03a-more-most-enough
+  q: "Найди ошибку: *Several hundreds people attended the protest.*"
+  a: "***several hundred people*** — после числа и *several* без *-s* и *of*. Но: *hundreds of people*."

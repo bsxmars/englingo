@@ -1,0 +1,43 @@
+title: "Сдвиг времён"
+type: gap
+intro: "Перескажи слова в косвенной речи: впиши нужную форму глагола или указатель времени. Сокращения (*he'd*, *couldn't*) засчитываются."
+hints:
+  - "Present → Past, Past и Present Perfect → Past Perfect, will → would, can → could, may → might."
+  - "Если сказанное — вечная истина или всё ещё правда, сдвиг не обязателен."
+items:
+  - q: "At the party last Saturday Kate said, \"I'm exhausted.\" → Kate said she ___ exhausted."
+    answers: ["was"]
+    explain: "Present Simple → Past Simple. Усталость была на прошлой вечеринке, а не сейчас, поэтому *is* здесь не подходит."
+  - q: "\"We're moving to Spain,\" my neighbours told me in 2019. → They told me they ___ to Spain."
+    answers: ["were moving", "were going to move"]
+    explain: "Present Continuous → Past Continuous: *are moving* → **were moving**."
+  - q: "\"I've never seen snow,\" said Ana when she arrived from Brazil. → Ana said she ___ snow before."
+    answers: ["had never seen", "hadn't seen", "had not seen"]
+    explain: "Present Perfect → Past Perfect: *have never seen* → **had never seen**. Опыт «до того момента»."
+  - q: "\"I'll send you the link,\" said the manager. → The manager said he ___ me the link."
+    answers: ["would send"]
+    explain: "**will → would**. Сокращение *he'd send* тоже засчитывается."
+  - q: "\"I can't come,\" Olga said. → Olga said she ___ come, so we started the meeting without her."
+    answers: ["couldn't", "could not", "wasn't able to", "was not able to", "was unable to"]
+    explain: "**can → could**: *can't* → *couldn't*. Встреча уже прошла, поэтому сдвиг обязателен."
+  - q: "\"I bought a new laptop last month,\" Dan said. → Dan said he ___ a new laptop the month before."
+    answers: ["had bought", "bought"]
+    explain: "Past Simple → Past Perfect: **had bought**. В разговоре Past Simple часто оставляют, если порядок событий и так ясен."
+  - q: "On Friday Sarah said, \"The deadline is on Monday.\" Today is Wednesday. → Sarah said the deadline ___ on Monday."
+    answers: ["was"]
+    explain: "Понедельник уже прошёл, факт больше не актуален → сдвиг обязателен: **was**."
+  - q: "A week ago Ben said, \"I'll see you tomorrow.\" → Ben said he would see me ___ ."
+    answers: ["the next day", "the following day", "the day after"]
+    explain: "Пересказываем через неделю → *tomorrow* становится **the next day / the following day**."
+  - q: "\"I moved here five years ago,\" said the old fisherman. → He said he had moved there five years ___ ."
+    answers: ["before", "earlier"]
+    explain: "*ago* отсчитывает от момента речи; в пересказе — от того момента: **before / earlier**."
+  - q: "\"You should update your password,\" the IT guy said. → The IT guy said I ___ my password."
+    answers: ["should update", "ought to update"]
+    explain: "**should** не сдвигается — у него нет прошедшей формы. Так же ведут себя *would, could, might*."
+  - q: "\"It may rain later,\" said the forecaster this morning. → The forecaster said it ___ rain later."
+    answers: ["might", "may", "could"]
+    explain: "**may → might** — классический сдвиг. В современной речи *may* часто оставляют, особенно если прогноз ещё актуален."
+  - q: "\"The Earth goes round the Sun,\" the teacher told the class. → The teacher told the class that the Earth ___ round the Sun."
+    answers: ["goes", "went"]
+    explain: "Общеизвестная истина → сдвиг не обязателен: **goes**. *went* тоже грамматически верно."

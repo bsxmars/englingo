@@ -1,0 +1,44 @@
+title: "Пассив или нет?"
+type: gap
+intro: "Поставь глагол в скобках в нужную форму. Используй **пассив, если он возможен**; если глагол пассива не даёт (непереходный, глагол состояния), оставь актив."
+hints:
+  - "Есть ли у глагола прямое дополнение? Нет → пассива нет: happen, rise, consist of."
+  - "Глаголы состояния (belong, weigh, resemble, cost) остаются в активе."
+  - "fine, explain, describe — проверь, кто может стать подлежащим."
+items:
+  - q: "Last month the company ___ (award) a lucrative government contract."
+    answers: ["was awarded"]
+    explain: "*award someone something* → подлежащим стал получатель: **was awarded** a contract. *Last month* → Past Simple."
+  - q: "The new safety procedure ___ (describe) to all staff at yesterday's briefing."
+    answers: ["was described"]
+    explain: "*describe* ставит человека только после *to*, поэтому подлежащее — процедура: **was described** to all staff."
+  - q: "While the family was on holiday, their house ___ (break into) twice."
+    answers: ["was broken into", "had been broken into"]
+    explain: "*break into* — переходный фразовый глагол, частица остаётся после V3: **was broken into**."
+  - q: "After a few days on antibiotics, the swelling ___ (go down) completely."
+    answers: ["went down", "had gone down", "has gone down"]
+    explain: "*go down* — непереходный фразовый глагол, пассива нет: **went down**."
+  - q: "This suitcase ___ (weigh) more than the airline allows, so you'll have to pay extra."
+    answers: ["weighs"]
+    explain: "*weigh* в значении «весить» — глагол состояния, только актив: **weighs**."
+  - q: "Both drivers ___ (fine) €1,000 and banned from driving for a year."
+    answers: ["were fined"]
+    explain: "*fine* допускает только человека в роли подлежащего: **were fined** €1,000 (не ~~€1,000 was fined to them~~)."
+  - q: "My grandmother ___ (bear) in a village that no longer appears on any map."
+    answers: ["was born"]
+    explain: "«Родиться» в английском — только пассив: **was born**."
+  - q: "Due to the storm warning, the regatta ___ (call off) at the last minute."
+    answers: ["was called off", "had been called off", "has been called off"]
+    explain: "*call off* — переходный фразовый глагол («отменить»), частица остаётся: **was called off**."
+  - q: "Unemployment ___ (fall) for the third month in a row, according to today's figures."
+    answers: ["has fallen", "fell"]
+    explain: "*fall* — непереходный, пассива нет. Новость с результатом сейчас → **has fallen**; *fell* тоже возможно в отчёте о прошлом месяце."
+  - q: "Within a decade of graduating, she ___ (consider) one of the most original architects of her generation."
+    answers: ["was considered", "had been considered", "was being considered"]
+    explain: "*consider someone something* → подлежащим становится человек, характеристика остаётся после глагола: **was considered** one of… (не ~~One of… was considered her~~)."
+  - q: "Their son ___ (resemble) his grandfather far more than either of his parents."
+    answers: ["resembles"]
+    explain: "*resemble* — глагол состояния без пассива: **resembles** (не ~~is resembled~~)."
+  - q: "At the weekend school, children of all ages ___ (teach) Mandarin by native speakers."
+    answers: ["are taught", "were taught", "are being taught", "have been taught", "will be taught"]
+    explain: "*teach someone something* → подлежащее — дети: **are taught** Mandarin. by-phrase здесь оправдан: *native speakers* — важная информация."

@@ -1,0 +1,64 @@
+title: "Перефразирование: весь спектр условий (C1 Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы смысл совпал с первым. Используй **ключевое слово** без изменений и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "Прошлая закономерность — factual: if + Past, Past."
+  - "were to — отстранённая, формальная гипотеза."
+  - "will / would в if-части — упрёк, вежливая просьба или результат позже условия."
+items:
+  - q: "Whenever the temperature dropped below zero, the pipes in our old house froze."
+    key: "IF"
+    stem: "The pipes in our old house froze ___ below zero."
+    answers: ["if the temperature dropped", "if the temperature fell", "if temperatures dropped", "if temperatures fell", "if the temperature went"]
+    explain: "Повторявшаяся ситуация в прошлом → **factual**: *if* ≈ *whenever*, Past + Past. Это не второй тип: речь о реальных событиях."
+  - q: "It's very unlikely, but suppose the bank closed this branch — fifty people would lose their jobs."
+    key: "WERE"
+    stem: "If the bank ___ branch, fifty people would lose their jobs."
+    answers: ["were to close this", "were to shut this", "were to shut down this", "were to close down this"]
+    explain: "**were to** + инфинитив делает гипотезу более отстранённой и формальной — как раз для «маловероятно, но допустим»."
+  - q: "You insist on leaving everything to the last minute, so of course you're stressed."
+    key: "WILL"
+    stem: "If you ___ to the last minute, of course you're stressed."
+    answers: ["will leave everything", "will keep leaving everything", "will insist on leaving everything", "will always leave everything"]
+    explain: "Ударное **will** в if-части = «если ты упорно…». Это упрёк, а не будущее время, поэтому *will* здесь уместно."
+  - q: "Please take a seat and the doctor will see you shortly."
+    key: "WOULD"
+    stem: "If ___ seat, the doctor will see you shortly."
+    answers: ["you would take a", "you would have a", "you would like to take a"]
+    explain: "**if you would** — вежливая просьба. Главная часть при этом остаётся predictive: *will see*."
+  - q: "I'm not a native speaker, so I can't tell whether this phrase sounds natural."
+    key: "WERE"
+    stem: "If ___ speaker, I could tell whether this phrase sounds natural."
+    answers: ["I were a native"]
+    explain: "Воображаемое настоящее → hypothetical: **were** для всех лиц (в разговоре допустимо *was*), в главной части *could*."
+  - q: "The machine broke because you didn't follow the instructions."
+    key: "HAD"
+    stem: "The machine wouldn't have broken ___ the instructions."
+    answers: ["if you had followed", "had you followed", "if you had read", "had you read", "if you had obeyed"]
+    explain: "То, чего не было в прошлом → counterfactual: **if + Past Perfect**. Инверсия *had you followed* тоже верна."
+  - q: "Could you please send me the invoice by Friday?"
+    key: "GRATEFUL"
+    stem: "I would ___ send me the invoice by Friday."
+    answers: ["be grateful if you could", "be grateful if you would", "be most grateful if you could", "be very grateful if you could", "be most grateful if you would", "be very grateful if you would", "be extremely grateful if you could", "be really grateful if you could"]
+    explain: "Формула делового письма: **I would be grateful if you could / would…** Здесь *would* в if-части — просьба, а не ошибка."
+  - q: "Whenever the screen freezes, hold down the power button for ten seconds."
+    key: "IF"
+    stem: "Hold down the power button for ten seconds ___."
+    answers: ["if the screen freezes", "if your screen freezes", "if the display freezes"]
+    explain: "Инструкция — factual + императив: **if + Present**, в главной части повелительное наклонение."
+  - q: "I'd come with you to the airport, but I'm not well enough at the moment."
+    key: "FEELING"
+    stem: "If I ___, I'd come with you to the airport."
+    answers: ["were feeling better", "was feeling better", "were feeling well enough", "was feeling well enough", "were feeling any better", "was feeling any better", "were feeling well", "was feeling well"]
+    explain: "«Готов, но не могу» — hypothetical: **were feeling** (Past Continuous) о временном состоянии сейчас."
+  - q: "He refuses to listen to us; if he were willing to, we could solve this in a day."
+    key: "ONLY"
+    stem: "If he ___ to us, we could solve this in a day."
+    answers: ["would only listen", "only listened", "would only agree to listen"]
+    explain: "**if + would** во втором типе — желаемое поведение другого человека: «если бы он только соизволил». *only listened* тоже верно."
+  - q: "I'll come in early tomorrow, as long as that makes things easier for you later in the week."
+    key: "HELP"
+    stem: "I'll come in early tomorrow ___."
+    answers: ["if it will help", "if it will help you", "if that will help", "if that will help you", "if it helps", "if it helps you", "if that helps", "if that helps you"]
+    explain: "**if it will help** — результат (польза) наступит **позже** условия, поэтому *will* в if-части возможно. *if it helps* тоже верно."

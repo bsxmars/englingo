@@ -1,0 +1,56 @@
+title: "wish, if only, would rather, it's time: выбери форму"
+type: choice
+intro: "Выбери вариант, который подходит по смыслу и грамматике. Обрати внимание, о каком времени сожаление и хотим ли мы действия или другого состояния."
+hints:
+  - "Настоящее → Past Simple; прошлое → Past Perfect; раздражающее поведение → would + V."
+  - "would rather + V (о себе); would rather + someone + Past Simple (о другом)."
+  - "Глаголы состояния (be, have, know) с wish + would не используют."
+items:
+  - q: "I wish my manager ___ me so many messages after 9 p.m. It's driving me crazy."
+    options: ["doesn't send", "wouldn't send", "hadn't sent", "won't send"]
+    answer: 1
+    explain: "Раздражающее повторяющееся поведение другого человека → **wish + wouldn't + V**."
+  - q: "I wish I ___ Python before I started this job — I'm having to learn it on the go."
+    options: ["learnt", "would learn", "had learnt", "have learnt"]
+    answer: 2
+    explain: "Сожаление о прошлом («до того, как начал работу») → **wish + Past Perfect**: *had learnt*."
+  - q: "My flat is tiny. I wish it ___ a bit bigger."
+    options: ["would be", "were", "had been", "is"]
+    answer: 1
+    explain: "Состояние сейчас → **wish + Past Simple**, *were* для всех лиц. С *be* формула *would be* не используется."
+  - q: "I'd rather you ___ the details with the client until the contract is signed."
+    options: ["don't discuss", "didn't discuss", "not to discuss", "won't discuss"]
+    answer: 1
+    explain: "**would rather + другой человек + Past Simple**: *I'd rather you didn't discuss*, хотя речь о настоящем/будущем."
+  - q: "It's high time the government ___ something about housing prices."
+    options: ["does", "did", "will do", "has done"]
+    answer: 1
+    explain: "**It's (high) time + подлежащее + Past Simple**: *did*. Смысл — «давно пора, а не делают»."
+  - q: "If only I ___ my phone at home — now I can't call anyone!"
+    options: ["didn't leave", "hadn't left", "wouldn't leave", "don't leave"]
+    answer: 1
+    explain: "Телефон уже забыт — сожаление о прошлом → **If only + Past Perfect**: *hadn't left*."
+  - q: "I wish I ___ to your wedding, but I was in hospital at the time."
+    options: ["would have come", "could have come", "came", "can come"]
+    answer: 1
+    explain: "«Жаль, что не смог» о прошлом → **wish + could have + V3**. ~~would have come~~ после *wish I* не ставится."
+  - q: "I'd rather ___ the stairs — the lift always makes me nervous."
+    options: ["take", "to take", "took", "taking"]
+    answer: 0
+    explain: "**would rather** о себе → инфинитив **без to**: *I'd rather take*."
+  - q: "Everyone's staring at their screens. I wish someone ___ the silence and say something."
+    options: ["broke", "would break", "had broken", "breaks"]
+    answer: 1
+    explain: "Хочется, чтобы что-то **произошло** (действие), а не изменилось состояние → **would break**. Подсказка — *and say* без *-s*: оба глагола после *would*."
+  - q: "She wishes she ___ in a big city — she finds village life really boring."
+    options: ["would live", "lived", "had lived", "lives"]
+    answer: 1
+    explain: "Состояние сейчас → **Past Simple** *lived*. С глаголами состояния (*live, have, know*) *would* не берём."
+  - q: "It's time ___ — the last train goes in ten minutes."
+    options: ["we go", "for us to go", "we will go", "us going"]
+    answer: 1
+    explain: "Два варианта: *It's time **for us to go*** или *It's time **we went***. Из предложенных верен только **for us to go**; ~~we go~~ без сдвига времени неверно."
+  - q: "I wish you ___ me earlier that the meeting was cancelled — I drove for an hour for nothing."
+    options: ["told", "would tell", "had told", "have told"]
+    answer: 2
+    explain: "Упрёк о прошлом (уже проехал зря) → **wish + Past Perfect**: *had told*."

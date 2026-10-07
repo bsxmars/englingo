@@ -1,0 +1,38 @@
+title: "Эссе: работа из дома или в офисе"
+type: writing
+prompt: |
+  *In your English class you have been talking about the way people work. Now your teacher has asked you to write an essay.*
+
+  **Is working from home better than working in an office?**
+
+  Notes — write about:
+
+  1. productivity
+  2. social contact
+  3. ……… (your own idea)
+
+  Write your essay in **140–190** words.
+words: [140, 190]
+target_grammar:
+  - "although / despite / whereas / however"
+  - "since / as a result / therefore"
+  - "in order to / so that"
+  - "cleft sentence или инверсия (одна на эссе)"
+checklist:
+  - "Пять абзацев: вступление, две идеи из notes, своя идея, заключение."
+  - "Обе идеи из notes раскрыты, третья идея своя и не повторяет их."
+  - "Есть хотя бы две связки противопоставления (although, despite, however, whereas) с верной грамматикой."
+  - "Есть связка причины или следствия и связка цели (since, as a result, so that, in order to)."
+  - "However стоит после точки или точки с запятой, although не соседствует с but."
+  - "Нейтральный стиль: без сокращений (don't, it's) и разговорных слов."
+  - "Объём 140–190 слов, мнение высказано в заключении."
+model_answer: |
+  These days, many people can choose to work from home, at least part of the week. But is it really better than going to an office?
+
+  On the one hand, working from home can make people more productive. Since there are fewer interruptions, it is easier to concentrate on difficult tasks. What is more, employees do not waste hours commuting, so they often start the day less tired.
+
+  On the other hand, an office offers something that a laptop at home cannot: real social contact. Although video calls are useful, they are no substitute for a quick chat over coffee. As a result, people who work alone for long periods may feel isolated, especially if they have just joined a company.
+
+  Another factor is the type of job. Whereas a programmer can easily work from the kitchen table, a nurse or a chef obviously cannot.
+
+  In conclusion, I believe that neither option is better in every case. What most people need is a balance: a few days at home in order to focus, and a few days in the office so that they stay connected to their colleagues.

@@ -1,0 +1,44 @@
+title: "После прилагательного и существительного: найди ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: инфинитив вместо предлога + *-ing* (или наоборот), *for* вместо *of*, лишнее дополнение, неверный предлог. Исправь и отправь предложение целиком."
+hints:
+  - "capable of, responsible for, committed to, opposed to + -ing."
+  - "decision, refusal, attempt, ability, tendency + to do; chance / risk / prospect of doing."
+  - "This poem is hard to translate — без it в конце; предлог остаётся: hard to work with."
+items:
+  - q: "The new system is capable to process thousands of transactions per second."
+    answers: ["The new system is capable of processing thousands of transactions per second."]
+    explain: "**capable of** + *-ing*; инфинитив после *capable* невозможен. Ср.: *able to process*."
+  - q: "It was rather thoughtless for him to book the meeting on her birthday."
+    answers: ["It was rather thoughtless of him to book the meeting on her birthday."]
+    explain: "Оценка поступка (*he was thoughtless*) → **of him**."
+  - q: "This software is very easy to use it, even for beginners."
+    answers: ["This software is very easy to use, even for beginners."]
+    explain: "Подлежащее *this software* уже является объектом *use* — повторять *it* нельзя."
+  - q: "Her new boss is notoriously difficult to work."
+    answers: ["Her new boss is notoriously difficult to work with."]
+    explain: "*work with sb* → предлог остаётся в конце: **difficult to work with**."
+  - q: "The government's refusal of negotiating with the unions prolonged the strike."
+    answers: ["The government's refusal to negotiate with the unions prolonged the strike."]
+    explain: "*refuse to do* → **refusal to do**. Существительное сохраняет модель глагола."
+  - q: "There is a serious risk for the river to flood if the rain continues."
+    answers: ["There is a serious risk of the river flooding if the rain continues.", "There is a serious risk that the river will flood if the rain continues.", "There is a serious risk of the river's flooding if the rain continues."]
+    explain: "**risk of** + (исполнитель) + *-ing*: *a risk of the river flooding*."
+  - q: "The company is fully committed to reduce its emissions by 2030."
+    answers: ["The company is fully committed to reducing its emissions by 2030."]
+    explain: "В *committed to* частица *to* — предлог, поэтому дальше *-ing*: **committed to reducing**."
+  - q: "Most residents are strongly opposed to build a new airport."
+    answers: ["Most residents are strongly opposed to building a new airport.", "Most residents are strongly opposed to the building of a new airport."]
+    explain: "**opposed to** + *-ing* (*to* — предлог), как *object to*."
+  - q: "The old cathedral is well worth to visit if you have a free afternoon."
+    answers: ["The old cathedral is well worth visiting if you have a free afternoon.", "The old cathedral is well worth a visit if you have a free afternoon."]
+    explain: "**worth** + *-ing* (или существительное: *worth a visit*); инфинитив невозможен."
+  - q: "She has a remarkable ability of remembering names and faces."
+    answers: ["She has a remarkable ability to remember names and faces.", "She has a remarkable talent for remembering names and faces."]
+    explain: "*be able to do* → **ability to do**. Если хочется *-ing* — нужно другое существительное: *talent for remembering*."
+  - q: "There's little prospect to reach an agreement before the summit."
+    answers: ["There's little prospect of reaching an agreement before the summit.", "There is little prospect of reaching an agreement before the summit."]
+    explain: "*prospect* («вероятность, перспектива») → **prospect of doing**, как *chance of / likelihood of*."
+  - q: "We were sorry for hearing that your father had been taken ill."
+    answers: ["We were sorry to hear that your father had been taken ill."]
+    explain: "Сожаление о том, что узнаёшь **сейчас** → **sorry to hear**. *sorry for doing* — извинение за свой поступок."

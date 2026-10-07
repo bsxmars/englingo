@@ -1,0 +1,44 @@
+title: "Тонкие ошибки в отрицаниях"
+type: error
+intro: "В каждом предложении **одна** ошибка: порядок слов, лишнее отрицание, не та связка. Исправь её и отправь предложение целиком."
+hints:
+  - "Инверсия после Not until / Only then / Under no circumstances / Little."
+  - "No sooner… than, hardly… when."
+  - "hardly, barely, scarcely + утвердительный глагол."
+items:
+  - q: "Not until the votes had been counted the result became clear."
+    answers: ["Not until the votes had been counted did the result become clear."]
+    explain: "После *Not until + клауза* в главной части нужна инверсия: ***did the result become***."
+  - q: "Under no circumstances you should share your password with anyone."
+    answers: ["Under no circumstances should you share your password with anyone."]
+    explain: "Отрицательная фраза в начале → вспомогательный перед подлежащим: ***should you share***."
+  - q: "I didn't hardly recognise him after all those years."
+    answers: ["I hardly recognised him after all those years.", "I hardly recognized him after all those years.", "I could hardly recognise him after all those years.", "I could hardly recognize him after all those years."]
+    explain: "*hardly* — уже отрицание, *didn't* лишнее: ***I hardly recognised him***."
+  - q: "None of the evidence were admissible in court."
+    answers: ["None of the evidence was admissible in court."]
+    explain: "*evidence* — неисчисляемое, поэтому только единственное число: ***was***."
+  - q: "No sooner had she arrived when the phone started ringing."
+    answers: ["No sooner had she arrived than the phone started ringing.", "Hardly had she arrived when the phone started ringing.", "Scarcely had she arrived when the phone started ringing."]
+    explain: "*No sooner* требует **than**. Если хочется оставить *when*, начало должно быть *Hardly / Scarcely had she arrived*."
+  - q: "Only then I understood why she had resigned."
+    answers: ["Only then did I understand why she had resigned."]
+    explain: "*Only then* в начале → инверсия: ***did I understand*** (глагол в начальной форме)."
+  - q: "— I've never been to Lisbon. — Neither I have."
+    answers: ["— I've never been to Lisbon. — Neither have I.", "— I've never been to Lisbon. — Nor have I."]
+    explain: "После *Neither / Nor* — инверсия: ***Neither have I***. Порядок *I have* без инверсии невозможен."
+  - q: "There isn't no reason to panic."
+    answers: ["There is no reason to panic.", "There isn't any reason to panic."]
+    explain: "Два отрицания в одной клаузе недопустимы: либо *is no reason*, либо *isn't any reason*."
+  - q: "Not a single of the students handed in the essay on time."
+    answers: ["Not a single one of the students handed in the essay on time.", "Not one of the students handed in the essay on time.", "None of the students handed in the essay on time."]
+    explain: "*single* — прилагательное, перед *of* нужно местоимение: ***Not a single one of*** / ***Not one of*** / ***None of***."
+  - q: "Never I have seen the city so quiet."
+    answers: ["Never have I seen the city so quiet.", "I have never seen the city so quiet."]
+    explain: "*Never* в начале требует инверсии: ***Never have I seen***. Без эмфазы — обычный порядок: *I have never seen*."
+  - q: "He pretended not hearing me and kept walking."
+    answers: ["He pretended not to hear me and kept walking."]
+    explain: "После *pretend* — инфинитив, а *not* стоит перед *to*: ***pretended not to hear***."
+  - q: "Little he knew that the letter would change his life."
+    answers: ["Little did he know that the letter would change his life."]
+    explain: "*Little* в значении «вовсе не» в начале → инверсия с *did*: ***Little did he know***."

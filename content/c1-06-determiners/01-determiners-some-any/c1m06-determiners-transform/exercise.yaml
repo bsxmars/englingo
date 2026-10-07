@@ -1,0 +1,59 @@
+title: "Перефразирование: some, any, no, none и of-фразы"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "В позиции подлежащего — no или none of, а не not any."
+  - "После of — определитель или объектное местоимение: most of us, none of the candidates."
+  - "some перед числом = «примерно»; ударное any = «любой»."
+items:
+  - q: "There weren't any seats left on the train."
+    key: "NO"
+    stem: "There ___ on the train."
+    answers: ["were no seats left", "were no seats remaining", "were no more seats left", "were no seats available", "were no free seats left"]
+    explain: "*not any* = **no**: *There were no seats left*. Вариант с *no* звучит категоричнее и короче."
+  - q: "Not one of the candidates had the experience we were looking for."
+    key: "NONE"
+    stem: "___ the experience we were looking for."
+    answers: ["None of the candidates had", "None of the applicants had"]
+    explain: "Местоимение *none* + **of** + определитель: **None of the candidates had**. *no* перед *of* невозможно (~~no of~~)."
+  - q: "The castle is about sixty kilometres from the capital."
+    key: "SOME"
+    stem: "The castle lies ___ the capital."
+    answers: ["some sixty kilometres from", "some sixty kilometers from", "some 60 kilometres from", "some 60 km from"]
+    explain: "*some* перед числом = «около, примерно»: **some sixty kilometres from**. Это формальный, книжный вариант *about*."
+  - q: "It doesn't matter which doctor you ask — they'll all give you the same advice."
+    key: "ANY"
+    stem: "___ give you the same advice."
+    answers: ["Any doctor will", "Any doctor would", "Any doctor you ask will", "Any doctor you ask would"]
+    explain: "Ударное *any* в утверждении = «любой, какой угодно»: **Any doctor will** give you the same advice."
+  - q: "He said that he had not been involved in the fraud at all."
+    key: "DENIED"
+    stem: "He ___ in the fraud."
+    answers: ["denied any involvement", "denied all involvement", "denied having any involvement", "denied having been involved", "denied being involved", "denied any part"]
+    explain: "После глаголов с отрицательным смыслом (*deny, refuse, prevent*) идёт **any**: *He denied any involvement*. *some* здесь означал бы, что какое-то участие всё же было."
+  - q: "She walked out without explaining anything."
+    key: "EXPLANATION"
+    stem: "She walked out ___ ."
+    answers: ["without any explanation", "without giving any explanation", "without offering any explanation", "without a word of explanation", "without any word of explanation", "without giving an explanation", "without offering an explanation", "without an explanation"]
+    explain: "*without* — слово с отрицательным смыслом, поэтому после него **any**: *without any explanation*. Ещё выразительнее — *without a word of explanation*."
+  - q: "The majority of people in our group voted against the plan."
+    key: "US"
+    stem: "___ voted against the plan."
+    answers: ["Most of us", "The majority of us", "Most of us in the group", "Most of us in our group"]
+    explain: "После *of* — объектное местоимение: **Most of us**. ~~Most of we~~ и ~~Most us~~ — ошибки."
+  - q: "Very few people supported the proposal."
+    key: "HARDLY"
+    stem: "There was ___ the proposal."
+    answers: ["hardly any support for", "hardly any support for the idea of"]
+    explain: "*hardly* — отрицательное по смыслу наречие, после него **any**: *hardly any support for*. ~~hardly no support~~ — двойное отрицание."
+  - q: "Each juror was handed a copy of the evidence."
+    key: "ONE"
+    stem: "___ the jurors was handed a copy of the evidence."
+    answers: ["Every one of", "Each one of", "Every single one of"]
+    explain: "*every* не стоит перед *of*, поэтому нужно **every one of**. Глагол — в единственном числе (*was*)."
+  - q: "Nobody tried to warn the residents about the flood."
+    key: "ATTEMPT"
+    stem: "___ to warn the residents about the flood."
+    answers: ["No attempt was made", "No attempt had been made", "No one made any attempt", "Nobody made any attempt", "Nobody made an attempt", "No one made an attempt"]
+    explain: "Формальный безличный стиль: **No attempt was made**. В позиции подлежащего — только *no*, не ~~Not any attempt~~."

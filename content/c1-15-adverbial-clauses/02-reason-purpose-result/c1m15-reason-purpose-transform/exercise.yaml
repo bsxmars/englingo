@@ -1,0 +1,64 @@
+title: "Перефразирование: причина, цель, результат (C1 Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы смысл совпал с первым. Используй **ключевое слово** без изменений и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "so as not to / in order not to — not перед to."
+  - "such (a) + прилагательное + существительное; so + прилагательное."
+  - "in that — формальное «в том смысле, что»."
+items:
+  - q: "She left early because she didn't want to get stuck in traffic."
+    key: "AS"
+    stem: "She left early ___ stuck in traffic."
+    answers: ["so as not to get", "so as to avoid getting", "so as not to be"]
+    explain: "Отрицательная цель → **so as not to** + инфинитив. ~~so as to not~~ в экзамене не засчитают."
+  - q: "The museum was closed, so we went to the park instead."
+    key: "SEEING"
+    stem: "___ closed, we went to the park instead."
+    answers: ["Seeing that the museum was", "Seeing as the museum was", "Seeing the museum was"]
+    explain: "**Seeing that / seeing as** = «раз уж» — причина известна обоим."
+  - q: "The talk was so dull that half the audience fell asleep."
+    key: "SUCH"
+    stem: "It was ___ half the audience fell asleep."
+    answers: ["such a dull talk that", "such a boring talk that", "such a dull talk", "such a boring talk"]
+    explain: "*so + прилагательное* → **such a + прилагательное + существительное**. *that* в разговоре можно опустить."
+  - q: "There were so many applicants that the deadline had to be extended."
+    key: "NUMBER"
+    stem: "There was ___ applicants that the deadline had to be extended."
+    answers: ["such a large number of", "such a great number of", "such a huge number of", "such a high number of", "such a vast number of"]
+    explain: "*so many* → **such a large number of**: перед именной группой — *such*. Глагол *was* согласуется с *a number*."
+  - q: "Everyone needs to cooperate if the plan is to succeed."
+    key: "FOR"
+    stem: "In ___ succeed, everyone needs to cooperate."
+    answers: ["order for the plan to"]
+    explain: "У цели своё подлежащее → **in order for + существительное + to**."
+  - q: "The proposal is flawed because it ignores long-term costs."
+    key: "THAT"
+    stem: "The proposal is flawed ___ long-term costs."
+    answers: ["in that it ignores", "in that it overlooks", "in that it disregards", "in that it does not consider", "in that it doesn't consider", "in that it fails to consider"]
+    explain: "**in that** — формальное уточнение причины: «в том смысле, что»."
+  - q: "He spoke very quietly so that he wouldn't wake the baby."
+    key: "FEAR"
+    stem: "He spoke very quietly ___ the baby."
+    answers: ["for fear of waking", "for fear of waking up", "for fear that he would wake", "for fear he would wake", "for fear that he might wake", "for fear he might wake"]
+    explain: "**for fear of + -ing** / **for fear (that)** — «чтобы не… из опасения»."
+  - q: "The storm caused so much damage that the town was declared a disaster zone."
+    key: "SUCH"
+    stem: "The damage caused by the storm ___ the town was declared a disaster zone."
+    answers: ["was such that"]
+    explain: "Формальная конструкция **be such that** = «был таким, что»."
+  - q: "She is such a talented pianist that she was offered a scholarship at fifteen."
+    key: "SO"
+    stem: "She is ___ that she was offered a scholarship at fifteen."
+    answers: ["so talented a pianist"]
+    explain: "Книжный порядок **so + прилагательное + a + существительное**: *so talented a pianist*."
+  - q: "Because there was not enough evidence, the case was dropped."
+    key: "OWING"
+    stem: "The case was dropped ___ evidence."
+    answers: ["owing to insufficient", "owing to a lack of", "owing to lack of", "owing to the lack of", "owing to the insufficient", "owing to a shortage of"]
+    explain: "Причина + существительное → **owing to** (= *because of*): *owing to a lack of evidence*."
+  - q: "Now that she's finished her exams, she can finally relax."
+    key: "HAVING"
+    stem: "___ exams, she can finally relax."
+    answers: ["Having finished her", "Having completed her", "Having taken her", "Having sat her"]
+    explain: "Причина + предшествующее действие → **Having + V3** (сокращённое придаточное, подробнее в уроке 3)."

@@ -1,0 +1,37 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка с предлогом: лишний, пропущенный или не тот. Исправь её и отправь предложение целиком."
+hints:
+  - "Перед next, last, this, every и после go home предлог не нужен."
+  - "arrive — in (город) или at (здание), но никогда не to."
+items:
+  - q: "I'll see you on next Friday."
+    answers: ["I'll see you next Friday."]
+    explain: "Перед **next, last, this, every** предлог не ставится: *next Friday*."
+  - q: "We arrived to London late at night."
+    answers: ["We arrived in London late at night."]
+    explain: "**arrive in** + город или страна. *arrive to* — частая калька с «прибыть в»."
+  - q: "Who's the girl on the photo next to you?"
+    answers: ["Who's the girl in the photo next to you?", "Who is the girl in the photo next to you?"]
+    explain: "Изображение — пространство: **in the photo**."
+  - q: "My birthday is in 14 May."
+    answers: ["My birthday is on 14 May.", "My birthday is on May 14.", "My birthday is on the 14th of May.", "My birthday is on May 14th."]
+    explain: "Дата — один конкретный день → **on**: *on 14 May*."
+  - q: "She went to home early because she felt ill."
+    answers: ["She went home early because she felt ill."]
+    explain: "После глаголов движения **home** идёт без предлога: *go home, get home*. Но «дома» — *at home*."
+  - q: "The train to Glasgow leaves at Monday morning."
+    answers: ["The train to Glasgow leaves on Monday morning."]
+    explain: "День + часть дня → **on**: *on Monday morning*. Без дня — *in the morning*."
+  - q: "I met my husband in a party in 2015."
+    answers: ["I met my husband at a party in 2015."]
+    explain: "Событие — **at**: *at a party, at a concert, at a wedding*."
+  - q: "The flight left exactly in time, at 6:15."
+    answers: ["The flight left exactly on time, at 6:15."]
+    explain: "Точно по расписанию → **on time**. *in time* — «заранее, чтобы успеть»."
+  - q: "They live in the third floor of an old building."
+    answers: ["They live on the third floor of an old building."]
+    explain: "Этаж — **on**: *on the third floor*."
+  - q: "Wait for me, please — I'll be back after ten minutes."
+    answers: ["Wait for me, please — I'll be back in ten minutes.", "Wait for me, please. I'll be back in ten minutes.", "Wait for me please, I'll be back in ten minutes."]
+    explain: "«Через» какое-то время от сейчас → **in**: *in ten minutes*. *after* требует точки отсчёта: *after lunch, after the meeting*."

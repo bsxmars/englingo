@@ -1,0 +1,86 @@
+title: "In defence of the afternoon nap"
+type: reading
+intro: "Прочитай эссе и ответь на вопросы. Вопросы с вариантами — как в C1 Advanced Part 5; в остальных впиши слово или короткую фразу из текста."
+hints:
+  - "После although / while главная мысль автора — во второй части предложения."
+  - "Вопросы идут в порядке текста."
+text: |
+  ## In defence of the afternoon nap
+
+  At around three o'clock on most working days, something curious happens in offices across the world. Conversations slow down, eyelids grow heavy, and the queue at the coffee machine lengthens noticeably. Most of us blame lunch for this mid-afternoon slump, as if a plate of pasta were solely responsible for our sudden inability to concentrate. Yet the dip occurs even in people who skip lunch altogether. It is built into the body clock, which, having kept us alert all morning, briefly lowers its guard in the early afternoon before rallying again towards evening.
+
+  In many cultures this rhythm was once simply accepted. The Spanish siesta, the Chinese practice of wujiao and the long, shuttered afternoons of southern Italy all allowed people to rest when their bodies were least inclined to work. As economies industrialised and working hours became standardised, however, these traditions came under pressure. Today, even in Spain, relatively few office workers go home for a siesta, and in much of the English-speaking world, dozing off at your desk is regarded as a sign of laziness, if not of a serious lack of commitment.
+
+  Tempting as it is to dismiss the nap as an indulgence, the evidence suggests otherwise. In one widely cited study carried out for NASA in the 1990s, long-haul pilots who were allowed a short rest in the cockpit while a colleague took over performed noticeably better on tests of alertness than those who were not. Since then, research in hospitals, schools and laboratories has pointed in the same direction: a brief sleep in the early afternoon improves reaction times, mood and, in some studies, the ability to retain new information. Such is the effect, some researchers argue, that a well-timed nap can do more for afternoon performance than a second cup of coffee.
+
+  The key word, though, is brief. Whereas a sleep of ten to twenty minutes tends to leave people refreshed, a longer nap allows the brain to sink into deeper stages of sleep, from which waking is considerably harder. The result is a state known as sleep inertia: the heavy, disoriented grogginess that can last half an hour or more and that leads many people to conclude, wrongly, that napping simply does not suit them. Timing matters too. For most adults, the ideal window falls somewhere between one and three o'clock, when the natural dip is at its deepest. A nap taken late in the afternoon may make it harder to fall asleep at night, so that the short-term gain is paid for with a poor night's rest.
+
+  None of this means that the nap is a cure-all. For people who regularly sleep too little, a short rest during the day is at best a stopgap; it cannot make up for a chronic sleep debt, any more than a snack can replace a proper meal. Doctors also caution that a sudden, persistent need to sleep during the day, particularly in older people, may be a symptom of an underlying health problem rather than simply a habit to be indulged. And for those who suffer from insomnia, daytime naps are often counterproductive in that they reduce the pressure to sleep that builds up over the course of the day.
+
+  Even so, it is hard to avoid the conclusion that many workplaces have got the matter the wrong way round. Employers who frown on napping rarely object to the far less efficient alternatives: the third coffee, the half-hearted afternoon meeting, the email read four times because the reader cannot quite take it in. A handful of companies have begun to provide quiet rooms so that staff can rest for a quarter of an hour without embarrassment, and some report that productivity has risen as a result. Nor do such rooms need to be elaborate: a sofa, a blind and an alarm set for twenty minutes are usually enough. Whether or not such schemes spread, the biology is unlikely to change. However hard we try to override it, the body clock will continue to dip after lunch, and we would probably do better to work with it than against it.
+items:
+  - q: "In the first paragraph, the writer suggests that the mid-afternoon slump"
+    options:
+      - "is mainly caused by eating a heavy lunch."
+      - "is part of a natural daily rhythm."
+      - "affects people who work in offices more than others."
+      - "can be avoided by skipping lunch."
+    answer: 1
+    explain: "*the dip occurs even in people who skip lunch… It is built into the body clock.* Автор опровергает популярную версию про обед."
+  - q: "According to the second paragraph, why did traditions such as the siesta decline?"
+    options:
+      - "People began to regard them as unhealthy."
+      - "They did not fit in with modern, regular working hours."
+      - "Governments banned them in order to increase productivity."
+      - "Office workers no longer felt the need to rest."
+    answer: 1
+    explain: "*As economies industrialised and working hours became standardised… these traditions came under pressure.* Союз *as* вводит причину."
+  - q: "What is the writer's attitude to the view that napping is an indulgence?"
+    options:
+      - "The writer considers it understandable but not supported by evidence."
+      - "The writer agrees with it in the case of office workers."
+      - "The writer believes it is common only in English-speaking countries."
+      - "The writer thinks it is supported by most scientific research."
+    answer: 0
+    explain: "***Tempting as it is** to dismiss the nap as an indulgence, the evidence suggests otherwise.* — уступка: соблазнительно, но неверно."
+  - q: "The study of pilots is mentioned in order to"
+    options:
+      - "show that pilots are more tired than other workers."
+      - "illustrate the dangers of sleeping while at work."
+      - "provide evidence that a short nap improves performance."
+      - "suggest that coffee is ineffective for staying awake."
+    answer: 2
+    explain: "Пилоты, которым разрешили короткий отдых, *performed noticeably better on tests of alertness*. Пример подтверждает тезис о пользе сна."
+  - q: "According to the fourth paragraph, many people wrongly believe that napping does not suit them because"
+    options:
+      - "they nap for too long and wake up feeling worse."
+      - "they nap too early in the afternoon."
+      - "they are unable to fall asleep during the day."
+      - "they confuse tiredness with boredom."
+    answer: 0
+    explain: "Длинный сон → глубокие стадии → *sleep inertia*, которая *leads many people to conclude, wrongly, that napping simply does not suit them.*"
+  - q: "In the fifth paragraph, the writer compares a nap to a snack in order to show that"
+    options:
+      - "napping should be done at regular times, like eating."
+      - "a short sleep cannot compensate for regularly sleeping too little."
+      - "people who nap tend to eat less healthily."
+      - "naps are more effective when combined with food."
+    answer: 1
+    explain: "*it cannot make up for a chronic sleep debt, any more than a snack can replace a proper meal* — перекус не заменит обед, а дневной сон — нормальный ночной."
+  - q: "What point does the writer make about employers in the final paragraph?"
+    options:
+      - "They are right to be cautious about allowing staff to nap."
+      - "They accept less effective ways of coping with tiredness."
+      - "Most of them now provide quiet rooms for their staff."
+      - "They cannot measure whether naps increase productivity."
+    answer: 1
+    explain: "*Employers who frown on napping rarely object to the far less efficient alternatives* — третий кофе, вялые совещания. Комнаты отдыха — лишь у *a handful of companies*."
+  - q: "Find a phrase in paragraph 3 that means the same as 'The effect is so great that…'."
+    answers: ["Such is the effect", "such is the effect that"]
+    explain: "***Such is the effect** … that…* — фронтирование *such* с инверсией для усиления результата."
+  - q: "Find a word in paragraph 5 that means 'a temporary solution until something better is available'."
+    answers: ["stopgap", "a stopgap"]
+    explain: "*a short rest during the day is at best a **stopgap*** — временная мера."
+  - q: "Which two-word conjunction in paragraph 5 means 'because' and introduces an explanation of why naps are counterproductive?"
+    answers: ["in that"]
+    explain: "*counterproductive **in that** they reduce the pressure to sleep* — формальное «в том смысле, что»."

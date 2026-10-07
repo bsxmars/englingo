@@ -1,0 +1,44 @@
+title: "Время по смыслу"
+type: gap
+intro: "Поставь глагол в скобках в подходящую форму. Подумай не только о времени, но и о том, как говорящий видит действие: процесс или результат, постоянное или временное. Если подходят несколько форм — засчитываются все."
+hints:
+  - "Процесс со следами или «как долго» → Perfect Continuous; результат или «сколько» → Perfect Simple."
+  - "be в Continuous (is being) — поведение сейчас, а не характер."
+  - "В придаточных времени будущее выражается Present Simple или Present Perfect."
+items:
+  - q: "I ___ (try) to get hold of you all morning — where on earth have you been?"
+    answers: ["have been trying", "have tried"]
+    explain: "Длительный процесс до сих пор с раздражением → **have been trying**. *have tried* грамматически возможно, но Continuous лучше передаёт «всё утро пытаюсь»."
+  - q: "Look at the state of your hands! What ___ (you / do)?"
+    answers: ["have you been doing"]
+    explain: "Видим следы недавнего процесса (грязные руки) → **have you been doing**. Вопрос не о результате, а о том, чем человек занимался."
+  - q: "She ___ (write) four books on the subject, and a fifth is due out next year."
+    answers: ["has written"]
+    explain: "Количество (*four books*) + автор продолжает писать → **has written**. Continuous с числом не сочетается."
+  - q: "Charles Dickens ___ (write) fifteen novels, several of which first appeared in instalments."
+    answers: ["wrote"]
+    explain: "Автор умер, период закрыт → **wrote**. Present Perfect возможен только о живом человеке, который может написать ещё."
+  - q: "I ___ (wonder) whether you might be free for a quick call this afternoon."
+    answers: ["was wondering", "am wondering", "wondered", "have been wondering"]
+    explain: "Вежливая просьба: Past Continuous **was wondering** смягчает её сильнее всего. *am wondering* и *wondered* тоже вежливы."
+  - q: "By the time the firefighters arrived, the roof ___ (already / collapse)."
+    answers: ["had already collapsed"]
+    explain: "Событие раньше другого прошедшего (*arrived*) + *already* → Past Perfect: **had already collapsed**."
+  - q: "He's normally very easy-going, but he ___ (be) unusually difficult today."
+    answers: ["is being"]
+    explain: "Временное поведение, а не черта характера → **is being** difficult. Сравни: *He is difficult* — он вообще такой."
+  - q: "When I finally got through to the helpline, I realised I ___ (leave) my account number at home."
+    answers: ["had left"]
+    explain: "После глагола мышления в прошлом (*realised*) — более раннее событие → **had left**."
+  - q: "When we were children, we ___ (spend) every August at our grandparents' farm."
+    answers: ["would spend", "used to spend", "spent"]
+    explain: "Повторяющееся действие в прошлом → **would spend** или **used to spend**; простое *spent* тоже верно. *spend* — действие, поэтому *would* возможно."
+  - q: "I ___ (know) Marta since we were at primary school together."
+    answers: ["have known"]
+    explain: "*know* — глагол состояния, Continuous невозможен; *since* → **have known**."
+  - q: "The candidate's hands were shaking; she had clearly ___ (dread) the interview for days."
+    answers: ["been dreading"]
+    explain: "Процесс, длившийся до момента в прошлом (*for days*), со следами (*hands were shaking*) → Past Perfect Continuous: *had **been dreading***."
+  - q: "Please don't sign anything until you ___ (read) the contract carefully."
+    answers: ["have read", "read"]
+    explain: "В придаточном времени (*until*) будущее не ставится: **have read** подчёркивает завершённость, *read* тоже верно."

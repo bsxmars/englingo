@@ -1,0 +1,62 @@
+title: "Перефразирование с глаголами и отрицаниями"
+type: transform
+intro: "Закончи второе предложение так, чтобы смысл совпал с первым. Используй слово в скобках **без изменений**, всего 2–5 слов."
+hints:
+  - "make sth wider = widen sth; make sth simpler = simplify sth."
+  - "not + прилагательное часто = приставка: not possible → impossible, not honest → dishonest."
+items:
+  - q: "They are going to make the motorway wider."
+    key: "WIDENED"
+    stem: "The motorway is ___ ."
+    answers: ["going to be widened"]
+    explain: "*make wider* = **widen**; подлежащее — дорога, поэтому пассив: *is going to **be widened***."
+  - q: "The new app makes booking a table much simpler."
+    key: "SIMPLIFIES"
+    stem: "The new app ___ a table."
+    answers: ["simplifies booking", "greatly simplifies booking", "really simplifies booking"]
+    explain: "*make sth simpler* = **simplify sth**: *simplifies booking*."
+  - q: "The scholarship made it possible for her to study abroad."
+    key: "ENABLED"
+    stem: "The scholarship ___ abroad."
+    answers: ["enabled her to study"]
+    explain: "*make it possible for sb to do* = **enable sb to do**."
+  - q: "I'm sorry that I didn't reply earlier."
+    key: "APOLOGISE"
+    stem: "I ___ replying earlier."
+    answers: ["apologise for not", "must apologise for not", "would like to apologise for not", "'d like to apologise for not"]
+    explain: "*I'm sorry that I didn't* = **apologise for not** + *-ing*. После предлога *for* — герундий, отрицание *not* перед ним."
+  - q: "It isn't possible to predict the result of the match."
+    key: "UNPREDICTABLE"
+    stem: "The result of the match ___ ."
+    answers: ["is unpredictable", "is completely unpredictable", "is totally unpredictable"]
+    explain: "*not possible to predict* = **unpredictable**; после подлежащего нужен *is*."
+  - q: "He didn't tell the truth about his qualifications."
+    key: "DISHONEST"
+    stem: "He ___ his qualifications."
+    answers: ["was dishonest about"]
+    explain: "*didn't tell the truth* = **was dishonest about**. Прилагательное *dishonest* требует предлога *about*."
+  - q: "I didn't understand what the teacher had said."
+    key: "MISUNDERSTOOD"
+    stem: "I ___ said."
+    answers: ["misunderstood what the teacher had", "misunderstood what the teacher", "misunderstood what she had", "misunderstood what he had"]
+    explain: "Понял неправильно → **misunderstood**. Остальная часть повторяет придаточное: *what the teacher had said*."
+  - q: "Nobody can avoid making mistakes when learning a language."
+    key: "UNAVOIDABLE"
+    stem: "Making mistakes ___ learning a language."
+    answers: ["is unavoidable when", "is unavoidable while"]
+    explain: "*Nobody can avoid* = **is unavoidable**; дальше нужен союз времени *when / while*."
+  - q: "The team didn't have enough experience to win the final."
+    key: "INEXPERIENCED"
+    stem: "The team was ___ win the final."
+    answers: ["too inexperienced to"]
+    explain: "*not enough experience to* = **too inexperienced to**: отрицание переходит в приставку, *not enough* → *too*."
+  - q: "Many people don't agree with the new parking rules."
+    key: "DISAGREE"
+    stem: "Many people ___ new parking rules."
+    answers: ["disagree with the"]
+    explain: "*don't agree* = **disagree** (*dis-* = противоположное). Предлог *with* сохраняется."
+  - q: "The heavy rain made the walls of the old house weaker."
+    key: "WEAKENED"
+    stem: "The walls of the old house ___ the heavy rain."
+    answers: ["were weakened by", "had been weakened by", "have been weakened by"]
+    explain: "*made weaker* = **weaken**; подлежащее — стены → пассив: *were weakened **by** the heavy rain*."

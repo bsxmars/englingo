@@ -1,0 +1,37 @@
+title: "Просьбы, предложения, отказы"
+type: gap
+intro: "Впиши нужную форму. В скобках — слова, которые нужно использовать, или подсказка по-русски."
+hints:
+  - "Would you mind / How about + -ing; Let's / Why don't we + инфинитив без to."
+  - "won't — «отказывается» сейчас; wouldn't — отказывался в прошлом."
+items:
+  - q: "Would you mind ___ (send) me the report again? I can't find it."
+    answers: ["sending"]
+    explain: "После **mind** — только **-ing**: *Would you mind sending…?*"
+  - q: "Do you mind if I ___ (use) your phone? Mine's dead."
+    answers: ["use"]
+    explain: "**Do you mind if I + настоящее время** — просим разрешения для себя. С *would you mind if I* обычно было бы *used*."
+  - q: "___ (shall / I) make some coffee for everyone?"
+    answers: ["Shall I"]
+    explain: "**Shall I…?** — предлагаем свою помощь: «Сделать всем кофе?»"
+  - q: "It's pouring with rain. ___ (why / we) take a taxi instead of walking?"
+    answers: ["Why don't we"]
+    explain: "**Why don't we…?** — предложение, а не вопрос «почему». Порядок как в обычном вопросе: *don't* перед *we*."
+  - q: "How about ___ (have) a barbecue on Saturday?"
+    answers: ["having"]
+    explain: "После **How about / What about** — форма на **-ing**: *How about having…?*"
+  - q: "My laptop ___ (не хочет, «отказывается») switch on. I think the battery is dead."
+    answers: ["won't", "will not"]
+    explain: "**won't** о предмете — «никак не включается, отказывается». Это не будущее, а упрямство в настоящем."
+  - q: "Yesterday my little sister was so upset that she ___ (отказывалась) talk to anyone."
+    answers: ["wouldn't", "would not", "refused to"]
+    explain: "Отказ в прошлом → **wouldn't** (= *refused to*): «ни с кем не хотела разговаривать»."
+  - q: "___ (would / you / like) to come to my birthday party next Friday?"
+    answers: ["Would you like"]
+    explain: "Приглашение → **Would you like to…?** Ответ: *I'd love to!*"
+  - q: "I ___ (wonder) if you could help me with my CV."
+    answers: ["wonder", "was wondering", "'m wondering", "am wondering"]
+    explain: "**I wonder / I was wondering if you could…** — самая мягкая форма просьбы. Прошедшая форма *was wondering* звучит ещё деликатнее."
+  - q: "___ (let's — отрицание) argue about this now — we're both tired."
+    answers: ["Let's not", "Let us not", "Don't let's"]
+    explain: "Отрицание от *Let's* — **Let's not** + инфинитив без *to*. Британский разговорный вариант — *Don't let's*."

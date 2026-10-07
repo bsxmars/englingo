@@ -1,0 +1,55 @@
+title: "Предлог меняет смысл"
+type: choice
+intro: "Все варианты существуют в английском, но с разным значением. Выбери предлог, который передаёт смысл этого предложения."
+hints:
+  - "result in (следствие) / result from (причина); agree with (человек, мнение) / agree to (предложение) / agree on (общее решение)."
+  - "concerned about (обеспокоен) / concerned with (касается, занимается); responsible for (что) / responsible to (кому)."
+items:
+  - q: "The new safety rules have resulted ___ a dramatic fall in workplace accidents."
+    options: ["from", "in", "of", "with"]
+    answer: 1
+    explain: "Правила → следствие: **result in** + следствие. *result from* + причина: *The fall resulted from the new rules.*"
+  - q: "After months of talks, the two governments finally agreed ___ a date for the summit."
+    options: ["with", "to", "on", "for"]
+    answer: 2
+    explain: "**agree on** — договориться об общем решении (дата, цена, план). *agree with* — с человеком или мнением, *agree to* — согласиться на чьё-то предложение."
+  - q: "The landlord eventually agreed ___ our request to repaint the flat."
+    options: ["on", "with", "to", "about"]
+    answer: 2
+    explain: "Согласиться на просьбу или предложение другой стороны → **agree to**. *agree with a request* звучит как «разделять мнение»."
+  - q: "This chapter is mainly concerned ___ the economic causes of the crisis."
+    options: ["about", "with", "for", "over"]
+    answer: 1
+    explain: "**be concerned with** — «посвящён, касается». *concerned about* — «обеспокоен»: *Parents are concerned about safety.*"
+  - q: "Many residents are deeply concerned ___ the rising crime rate in the area."
+    options: ["with", "about", "in", "on"]
+    answer: 1
+    explain: "Тревога → **concerned about**. С *with* предложение означало бы «занимаются вопросом преступности»."
+  - q: "In this system, the director is directly responsible ___ the board of trustees."
+    options: ["for", "to", "with", "towards"]
+    answer: 1
+    explain: "**responsible to** + кому подотчётен. **responsible for** + за что: *responsible for the budget*."
+  - q: "The two candidates differ ___ their attitude to tax reform."
+    options: ["from", "in", "with", "on"]
+    answer: 1
+    explain: "**differ in** + в каком аспекте. *differ from* + от кого: *She differs from her rival in…*. *differ on* — «расходиться во мнениях по вопросу» — тоже бывает, но после него идёт тема (*on tax*), а не *their attitude*."
+  - q: "Nobody could account ___ the sudden disappearance of the files."
+    options: ["for", "to", "of", "on"]
+    answer: 0
+    explain: "**account for** — «объяснить» (а также «составлять долю»: *Exports account for 40%*)."
+  - q: "She is very good ___ children — they adore her."
+    options: ["at", "for", "with", "to"]
+    answer: 2
+    explain: "**good with** + люди / инструменты — «умеет обращаться». *good at* — навык (*good at maths*), *good for* — полезен (*good for children*)."
+  - q: "Regular exercise is good ___ your mental health as well as your body."
+    options: ["at", "for", "with", "to"]
+    answer: 1
+    explain: "«Полезно для» → **good for**. *good to someone* — «добр к кому-то»."
+  - q: "The museum was named ___ a local philanthropist who donated the land."
+    options: ["for", "after", "by", "from"]
+    answer: 1
+    explain: "Британское **name after** — «назвать в честь» (в американском возможно *name for*, но в C1 Advanced ждут *after*). *named by* — кто дал имя."
+  - q: "The report draws a clear distinction ___ correlation and causation."
+    options: ["among", "between", "from", "of"]
+    answer: 1
+    explain: "**a distinction between A and B**. *distinguish A from B* — с глаголом другой предлог."

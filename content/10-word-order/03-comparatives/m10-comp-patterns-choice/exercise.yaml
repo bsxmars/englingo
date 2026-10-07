@@ -1,0 +1,51 @@
+title: "one of the best, the least, any better"
+type: choice
+intro: "Выбери правильный вариант."
+hints:
+  - "one of the + превосходная + множественное число."
+  - "fewer — с исчисляемыми, less — с неисчисляемыми."
+items:
+  - q: "Lisbon is one of the most ___ in Europe."
+    options: ["beautiful city", "beautiful cities", "beautifuller cities"]
+    answer: 1
+    explain: "**one of the** + превосходная + **множественное число**: *one of the most beautiful cities*."
+  - q: "That was the best pizza I ___."
+    options: ["have ever eaten", "ever eat", "have never eaten"]
+    answer: 0
+    explain: "После превосходной степени — **Present Perfect** с *ever*: *the best … I've ever eaten*. *never* здесь не подходит по смыслу."
+  - q: "My ___ brother is a surgeon."
+    options: ["elder", "more old", "eldest of"]
+    answer: 0
+    explain: "О старшем члене семьи перед существительным можно **elder** (или *older*). *more old* — ошибка."
+  - q: "Anna is three years ___ than her brother."
+    options: ["elder", "older", "more old"]
+    answer: 1
+    explain: "После глагола и перед *than* — только **older**. *elder* ставится лишь перед существительным."
+  - q: "Let's take the bus. It's the ___ expensive option."
+    options: ["less", "least", "fewest"]
+    answer: 1
+    explain: "Превосходная степень «наименее» — **the least**. *fewest* — только с исчисляемыми существительными."
+  - q: "There are ___ cars in the city centre since the new rules came in."
+    options: ["less", "fewer", "least"]
+    answer: 1
+    explain: "*cars* — исчисляемое во множественном → **fewer**. *less* — с неисчисляемыми (*less traffic*)."
+  - q: "— Are you feeling ___ better today? — A little, thanks."
+    options: ["any", "no", "very"]
+    answer: 0
+    explain: "В вопросе «хоть немного лучше» — **any better**. *very better* невозможно."
+  - q: "I paid more for the new charger, but it's ___ faster than the old one."
+    options: ["no", "not", "none"]
+    answer: 0
+    explain: "**no** + comparative = «ничуть не»: *no faster*. Также можно *not any faster*."
+  - q: "— When do you need the report? — ___"
+    options: ["Sooner the better.", "The sooner the better.", "The soonest the better."]
+    answer: 1
+    explain: "Короткая форма *the … the …* без глаголов: **The sooner the better**."
+  - q: "Of all the students, Max made ___ mistakes."
+    options: ["the fewest", "the least", "the less"]
+    answer: 0
+    explain: "*mistakes* — исчисляемое → **the fewest**. *the least* — с неисчисляемыми (*the least effort*)."
+  - q: "My new flat is exactly ___ my old one."
+    options: ["the same size as", "the same size like", "same size than"]
+    answer: 0
+    explain: "**the same** + существительное + **as**: *the same size as*."

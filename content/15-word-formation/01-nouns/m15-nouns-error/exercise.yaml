@@ -1,0 +1,36 @@
+title: "Неверная форма слова"
+type: error
+intro: "В каждом предложении одно слово стоит не в той части речи. Исправь его и впиши предложение целиком."
+hints:
+  - "После артикля, притяжательного местоимения и перед of нужно существительное."
+items:
+  - q: "The government has made a strange decide."
+    answers: ["The government has made a strange decision."]
+    explain: "После *a strange* нужно существительное: **decision**. *make a decision* — устойчивое сочетание."
+  - q: "I was shocked by his rude behave at the party."
+    answers: ["I was shocked by his rude behaviour at the party.", "I was shocked by his rude behavior at the party."]
+    explain: "*his rude ___* → существительное: *behave → **behaviour*** (в американском — *behavior*)."
+  - q: "The strong of the wind damaged several roofs."
+    answers: ["The strength of the wind damaged several roofs."]
+    explain: "*The ___ of* → существительное: *strong → **strength***."
+  - q: "My cousin works as a journalism for a local newspaper."
+    answers: ["My cousin works as a journalist for a local newspaper."]
+    explain: "*works as a* + профессия → **journalist**. *journalism* — сама профессия как область."
+  - q: "We admired the beautiful of the old town."
+    answers: ["We admired the beauty of the old town."]
+    explain: "*the ___ of* → существительное: *beautiful → **beauty***."
+  - q: "There is a lot of competitive between the two supermarkets."
+    answers: ["There is a lot of competition between the two supermarkets."]
+    explain: "*a lot of* + существительное: **competition** (конкуренция). *competitive* — прилагательное."
+  - q: "He gave a long speak at his brother's wedding."
+    answers: ["He gave a long speech at his brother's wedding."]
+    explain: "*give a speech* — произнести речь. *speak → **speech***, корень меняется."
+  - q: "She has a lot of experienced in marketing."
+    answers: ["She has a lot of experience in marketing."]
+    explain: "*a lot of* + существительное **experience**. *experienced* — прилагательное «опытный»."
+  - q: "The arrive of the new director changed everything."
+    answers: ["The arrival of the new director changed everything."]
+    explain: "*The ___ of* → существительное: *arrive → **arrival*** (*-al*, как *survival*, *refusal*)."
+  - q: "For most parents, the happy of their children comes first."
+    answers: ["For most parents, the happiness of their children comes first."]
+    explain: "*the ___ of* → существительное: *happy → **happiness*** (*y* → *i* + *-ness*)."

@@ -1,0 +1,37 @@
+title: "Собери предложение: предлог и смысл"
+type: order
+intro: "Собери предложение по русскому смыслу. Обрати внимание, какой предлог требует каждое слово."
+hints:
+  - "Предлог держится за своё слово: concerned about, access to, effect on."
+  - "Перед that-предложением предлога нет."
+items:
+  - q: "«Этот отчёт посвящён рискам безопасности»."
+    answers: ["This report is concerned with security risks"]
+    explain: "«посвящён, касается» → **concerned with**. *concerned about* — «обеспокоен»."
+  - q: "«Мне жаль, что так вышло с твоим ноутбуком»."
+    answers: ["I'm sorry about your laptop", "I am sorry about your laptop"]
+    explain: "Сожалеть о ситуации, вещи → **sorry about**. *sorry for* — жалеть человека."
+  - q: "«Я знаю, что дедлайн завтра»."
+    answers: ["I'm aware that the deadline is tomorrow", "I am aware that the deadline is tomorrow"]
+    explain: "Перед *that*-предложением предлог *of* выпадает: **aware that**."
+  - q: "«Её имя мне смутно знакомо»."
+    answers: ["Her name is vaguely familiar to me"]
+    explain: "Вещь знакома **человеку** → **familiar to** me."
+  - q: "«Он отлично ладит с клиентами»."
+    answers: ["He is brilliant with clients", "He's brilliant with clients", "He is great with clients", "He's great with clients"]
+    explain: "Умеет обращаться с людьми → **good / great / brilliant with**."
+  - q: "«У новых сотрудников нет доступа к базе данных»."
+    answers: ["New employees have no access to the database", "New employees don't have access to the database", "The new employees have no access to the database", "The new employees don't have access to the database"]
+    explain: "**access to** — доступ к чему-то."
+  - q: "«Шум сильно повлиял на мою концентрацию»."
+    answers: ["The noise had a big effect on my concentration", "The noise had a strong effect on my concentration"]
+    explain: "Существительное **effect** + **on**. С глаголом было бы без предлога: *affected my concentration*."
+  - q: "«Всё зависит от того, сколько это будет стоить»."
+    answers: ["It depends on how much it will cost", "It depends on how much it costs"]
+    explain: "**depend on** + вопросительное слово: предлог перед *how / what / whether* сохраняется."
+  - q: "«Я устал от бесконечных совещаний»."
+    answers: ["I'm tired of endless meetings", "I am tired of endless meetings", "I'm tired of all the endless meetings"]
+    explain: "«надоело» → **tired of**. *tired from* — физически устал после чего-то."
+  - q: "«Руководители отделов подотчётны генеральному директору»."
+    answers: ["Heads of department are responsible to the CEO", "Department heads are responsible to the CEO", "The heads of department are responsible to the CEO"]
+    explain: "Подотчётен **человеку** → **responsible to**. За дело — *responsible for*."

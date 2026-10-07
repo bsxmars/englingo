@@ -1,0 +1,124 @@
+# Oxford Practice Grammar — Advanced, George Yule (OUP 2006), and its Supplementary Exercises.
+# Units are book sections: n = chapter*100 + section, label "chapter.section".
+# page — main book; extra — Supplementary Exercises. Printed page numbers (see CONTENT.md for scan offsets).
+title: "Oxford Practice Grammar — Advanced"
+author: "George Yule"
+key_page: 220
+extra_title: "Supplementary Exercises"
+extra_key_page: 95
+units:
+  - {n: 101, label: "1.1", title: "Simple sentences and verbs", page: 3, extra: 2}
+  - {n: 102, label: "1.2", title: "Subjects and verbs", page: 4, extra: 3}
+  - {n: 103, label: "1.3", title: "Verbs and objects", page: 6, extra: 4}
+  - {n: 104, label: "1.4", title: "Verbs with indirect objects and clauses", page: 8, extra: 5}
+  - {n: 105, label: "1.5", title: "Linking verbs", page: 10, extra: 6}
+  - {n: 106, label: "1.6", title: "Compound and complex sentences", page: 12, extra: 7}
+  - {n: 201, label: "2.1", title: "Verbs, auxiliary verbs and tenses", page: 17, extra: 8}
+  - {n: 202, label: "2.2", title: "Present and present perfect", page: 18, extra: 9}
+  - {n: 203, label: "2.3", title: "Past and past perfect", page: 20, extra: 10}
+  - {n: 204, label: "2.4", title: "Present perfect or past simple?", page: 22, extra: 11}
+  - {n: 205, label: "2.5", title: "Past perfect or past simple?", page: 23, extra: 11}
+  - {n: 206, label: "2.6", title: "Future", page: 24, extra: 12}
+  - {n: 301, label: "3.1", title: "Modals and phrasal modals", page: 29, extra: 13}
+  - {n: 302, label: "3.2", title: "Complex modals", page: 30, extra: 14}
+  - {n: 303, label: "3.3", title: "Prediction: will, would, be going to, shall", page: 32, extra: 15}
+  - {n: 304, label: "3.4", title: "Willingness, habits and preferences: will and would", page: 33, extra: 15}
+  - {n: 305, label: "3.5", title: "Ability: can, could, be able to", page: 34, extra: 16}
+  - {n: 306, label: "3.6", title: "Permission: can, could, may, might, be allowed to", page: 35, extra: 16}
+  - {n: 307, label: "3.7", title: "Possibility: may, might, can, could", page: 36, extra: 17}
+  - {n: 308, label: "3.8", title: "Necessity: must, have to, have got to, need to, needn't", page: 38, extra: 18}
+  - {n: 309, label: "3.9", title: "Deduction: must, have to, have got to, can't and couldn't", page: 40, extra: 19}
+  - {n: 310, label: "3.10", title: "Obligation and advice: should, ought to, be supposed to, had better", page: 41, extra: 19}
+  - {n: 401, label: "4.1", title: "Word order in negatives and questions", page: 45, extra: 20}
+  - {n: 402, label: "4.2", title: "Negative questions and question tags", page: 46, extra: 21}
+  - {n: 403, label: "4.3", title: "Negative words", page: 48, extra: 22}
+  - {n: 404, label: "4.4", title: "Question words", page: 50, extra: 23}
+  - {n: 405, label: "4.5", title: "Other question types", page: 52, extra: 24}
+  - {n: 501, label: "5.1", title: "Active and passive", page: 57, extra: 25}
+  - {n: 502, label: "5.2", title: "Passives with modals, infinitives and gerunds", page: 58, extra: 26}
+  - {n: 503, label: "5.3", title: "Passive verbs", page: 60, extra: 27}
+  - {n: 504, label: "5.4", title: "The uses of the passive", page: 62, extra: 28}
+  - {n: 505, label: "5.5", title: "Passives with by-phrases and ergatives", page: 64, extra: 29}
+  - {n: 506, label: "5.6", title: "Passives with get", page: 65, extra: 29}
+  - {n: 601, label: "6.1", title: "Types of articles and nouns", page: 69, extra: 30}
+  - {n: 602, label: "6.2", title: "Articles: a/an or the", page: 70, extra: 31}
+  - {n: 603, label: "6.3", title: "A/an or one, a/an or no article, the or no article", page: 72, extra: 32}
+  - {n: 604, label: "6.4", title: "Nouns: countable and uncountable", page: 74, extra: 33}
+  - {n: 605, label: "6.5", title: "Nouns: generic, pair, group, plural and singular (+s)", page: 75, extra: 34}
+  - {n: 606, label: "6.6", title: "Possessive and compound nouns", page: 76, extra: 35}
+  - {n: 607, label: "6.7", title: "Articles and nouns in discourse", page: 78, extra: 36}
+  - {n: 701, label: "7.1", title: "Determiners", page: 83, extra: 37}
+  - {n: 702, label: "7.2", title: "Quantifiers", page: 84, extra: 38}
+  - {n: 703, label: "7.3", title: "Some and any, no and none", page: 86, extra: 39}
+  - {n: 704, label: "7.4", title: "All and both, half and whole", page: 88, extra: 40}
+  - {n: 705, label: "7.5", title: "Each and every, either and neither", page: 89, extra: 40}
+  - {n: 706, label: "7.6", title: "Many, much and a lot (of), more and most", page: 90, extra: 41}
+  - {n: 707, label: "7.7", title: "(A) few and (a) little, fewer/fewest and less/least", page: 92, extra: 42}
+  - {n: 708, label: "7.8", title: "Multipliers, fractions and percentages", page: 93, extra: 42}
+  - {n: 801, label: "8.1", title: "Personal, generic and possessive pronouns", page: 97, extra: 43}
+  - {n: 802, label: "8.2", title: "Demonstrative and indefinite pronouns", page: 98, extra: 44}
+  - {n: 803, label: "8.3", title: "Reflexive and reciprocal pronouns", page: 100, extra: 45}
+  - {n: 804, label: "8.4", title: "Empty subject it", page: 102, extra: 46}
+  - {n: 805, label: "8.5", title: "Empty subject there", page: 103, extra: 46}
+  - {n: 806, label: "8.6", title: "Substitution: one and ones", page: 104, extra: 47}
+  - {n: 807, label: "8.7", title: "Substitution: so and do so", page: 105, extra: 47}
+  - {n: 808, label: "8.8", title: "Ellipsis", page: 106, extra: 48}
+  - {n: 901, label: "9.1", title: "Adjectives: emphasizing, describing, classifying", page: 111, extra: 49}
+  - {n: 902, label: "9.2", title: "Adjectives: position and punctuation", page: 112, extra: 50}
+  - {n: 903, label: "9.3", title: "Participle adjectives, compound adjectives and adjectives as nouns", page: 114, extra: 51}
+  - {n: 904, label: "9.4", title: "Position of adverbs; adverbs of place, time, frequency, expectation, focus", page: 116, extra: 52}
+  - {n: 905, label: "9.5", title: "Adverbs: degree, manner, viewpoint, comment", page: 118, extra: 53}
+  - {n: 906, label: "9.6", title: "Equatives, comparatives and superlatives", page: 120, extra: 54}
+  - {n: 1001, label: "10.1", title: "Prepositions and prepositional phrases", page: 125, extra: 55}
+  - {n: 1002, label: "10.2", title: "Prepositions of time: at, in, on, etc.", page: 126, extra: 56}
+  - {n: 1003, label: "10.3", title: "Prepositions of time: during, for, since, etc.", page: 127, extra: 56}
+  - {n: 1004, label: "10.4", title: "Prepositions of place: at, in, on", page: 128, extra: 57}
+  - {n: 1005, label: "10.5", title: "Prepositions of place: above, below, between, etc.", page: 129, extra: 57}
+  - {n: 1006, label: "10.6", title: "Prepositions of movement and place: from, across, along, etc.", page: 130, extra: 58}
+  - {n: 1007, label: "10.7", title: "Prepositions used for connections: of, with, by", page: 132, extra: 59}
+  - {n: 1008, label: "10.8", title: "Prepositions used for exceptions: except (for), besides, without, etc.", page: 133, extra: 59}
+  - {n: 1009, label: "10.9", title: "Phrasal verbs", page: 134, extra: 60}
+  - {n: 1101, label: "11.1", title: "Simple infinitives and gerunds", page: 139, extra: 61}
+  - {n: 1102, label: "11.2", title: "Complex infinitives and gerunds", page: 140, extra: 62}
+  - {n: 1103, label: "11.3", title: "Verbs with infinitives and gerunds", page: 142, extra: 63}
+  - {n: 1104, label: "11.4", title: "Adjectives with infinitives and gerunds", page: 144, extra: 64}
+  - {n: 1105, label: "11.5", title: "Nouns and pronouns with infinitives and gerunds", page: 145, extra: 64}
+  - {n: 1201, label: "12.1", title: "Direct speech", page: 149, extra: 65}
+  - {n: 1202, label: "12.2", title: "Indirect speech", page: 150, extra: 66}
+  - {n: 1203, label: "12.3", title: "Reporting verbs", page: 152, extra: 67}
+  - {n: 1204, label: "12.4", title: "Reporting statements and questions", page: 154, extra: 68}
+  - {n: 1205, label: "12.5", title: "Reporting orders, requests, advice and opinions", page: 156, extra: 69}
+  - {n: 1301, label: "13.1", title: "That-clauses and wh-clauses", page: 161, extra: 70}
+  - {n: 1302, label: "13.2", title: "Noun clauses as subjects and objects", page: 162, extra: 71}
+  - {n: 1303, label: "13.3", title: "Nouns with noun clauses", page: 164, extra: 72}
+  - {n: 1304, label: "13.4", title: "Adjectives with noun clauses", page: 166, extra: 73}
+  - {n: 1305, label: "13.5", title: "The subjunctive or should in noun clauses", page: 167, extra: 73}
+  - {n: 1306, label: "13.6", title: "Uses of noun clauses", page: 168, extra: 74}
+  - {n: 1401, label: "14.1", title: "Relative clauses and relative pronouns", page: 173, extra: 75}
+  - {n: 1402, label: "14.2", title: "Defining and non-defining relative clauses", page: 174, extra: 76}
+  - {n: 1403, label: "14.3", title: "Reduced relative clauses", page: 176, extra: 77}
+  - {n: 1404, label: "14.4", title: "Possessives and pronouns with relative clauses", page: 178, extra: 78}
+  - {n: 1405, label: "14.5", title: "Prepositions in relative clauses", page: 179, extra: 78}
+  - {n: 1406, label: "14.6", title: "Relative clauses with where, what, whatever, etc.", page: 180, extra: 79}
+  - {n: 1501, label: "15.1", title: "Real conditionals", page: 185, extra: 80}
+  - {n: 1502, label: "15.2", title: "Unreal conditionals", page: 186, extra: 81}
+  - {n: 1503, label: "15.3", title: "Mixed conditionals", page: 188, extra: 82}
+  - {n: 1504, label: "15.4", title: "Order and punctuation in conditionals", page: 189, extra: 82}
+  - {n: 1505, label: "15.5", title: "The uses of conditionals", page: 190, extra: 83}
+  - {n: 1506, label: "15.6", title: "Only if, even if, unless, whether, if so, etc.", page: 192, extra: 84}
+  - {n: 1601, label: "16.1", title: "Adverbial clauses and conjunctions", page: 197, extra: 85}
+  - {n: 1602, label: "16.2", title: "Time clauses with when, while, as", page: 198, extra: 86}
+  - {n: 1603, label: "16.3", title: "Time clauses with after, before, until, since, etc.", page: 199, extra: 86}
+  - {n: 1604, label: "16.4", title: "Manner clauses with as, as if, as though, etc.", page: 200, extra: 87}
+  - {n: 1605, label: "16.5", title: "Reason clauses with because, as, since, etc.", page: 201, extra: 87}
+  - {n: 1606, label: "16.6", title: "Purpose clauses with so that, in order that, in order to, etc.", page: 202, extra: 88}
+  - {n: 1607, label: "16.7", title: "Result clauses with so, so ... that, such ... that", page: 203, extra: 88}
+  - {n: 1608, label: "16.8", title: "Contrast clauses with although, though, even though, etc.", page: 204, extra: 89}
+  - {n: 1609, label: "16.9", title: "Reduced adverbial clauses", page: 205, extra: 89}
+  - {n: 1701, label: "17.1", title: "Types of connectors and focus structures", page: 209, extra: 90}
+  - {n: 1702, label: "17.2", title: "Connectors, prepositions and conjunctions", page: 210, extra: 91}
+  - {n: 1703, label: "17.3", title: "Adding and contrasting connectors", page: 212, extra: 92}
+  - {n: 1704, label: "17.4", title: "Result and time connectors", page: 214, extra: 93}
+  - {n: 1705, label: "17.5", title: "Listing connectors", page: 215, extra: 93}
+  - {n: 1706, label: "17.6", title: "Focus structures: fronting and inversion", page: 216, extra: 94}
+  - {n: 1707, label: "17.7", title: "Focus structures: cleft sentences", page: 217, extra: 94}

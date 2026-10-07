@@ -1,0 +1,42 @@
+title: "Какой предлог?"
+type: gap
+intro: "Впиши **один** предлог (или одно слово, начинающее фразу), которое требует слово перед пропуском. Если возможны два варианта, засчитываются оба."
+hints:
+  - "on: elaborate, depend, insist, ban; to: susceptible, prone, attribute; with: comply, at odds; from: refrain, stem; of: in favour, on the verge, regardless."
+items:
+  - q: "The minister refused to elaborate ___ her earlier comments about the budget."
+    answers: ["on", "upon"]
+    explain: "**elaborate on / upon** — «подробнее остановиться на». Формальный вариант — *upon*."
+  - q: "Young children are particularly susceptible ___ infections during the winter months."
+    answers: ["to"]
+    explain: "**susceptible to** — «подверженный». Так же: *prone to, vulnerable to*."
+  - q: "The board voted overwhelmingly in favour ___ the proposed merger."
+    answers: ["of"]
+    explain: "**in favour of** — «за, в пользу». Фраза фиксированная: *in* + *favour* + *of*."
+  - q: "After two years of heavy losses, the firm is now on the verge ___ bankruptcy."
+    answers: ["of"]
+    explain: "**on the verge of** — «на грани». Синоним — *on the brink of*."
+  - q: "Her latest statement seems to be completely at odds ___ everything she said last year."
+    answers: ["with"]
+    explain: "**at odds with** — «в противоречии с»."
+  - q: "All employees are required to comply ___ the new data protection regulations."
+    answers: ["with"]
+    explain: "**comply with** — «соблюдать, подчиняться». Существительное: *compliance with*."
+  - q: "The scholarship is open to all applicants, regardless ___ their family income."
+    answers: ["of"]
+    explain: "**regardless of** — «независимо от». ~~regardless to~~ — ошибка."
+  - q: "Several senior officials were implicated ___ the bribery scandal."
+    answers: ["in"]
+    explain: "**be implicated in** — «быть замешанным в»."
+  - q: "The sharp decline ___ bee populations has alarmed scientists across Europe."
+    answers: ["in", "of"]
+    explain: "**a decline in** — «сокращение чего-либо» (самый частый вариант). *the decline of* тоже возможно, особенно о долгом упадке."
+  - q: "Members of the audience are asked to refrain ___ using their phones during the performance."
+    answers: ["from"]
+    explain: "**refrain from + -ing** — «воздерживаться от». Формальное слово для объявлений и правил."
+  - q: "Many of the school's current problems stem ___ a chronic lack of funding."
+    answers: ["from"]
+    explain: "**stem from** — «проистекать из, быть следствием». Синоним — *result from*."
+  - q: "___ regard to your recent enquiry, I am pleased to confirm that your application has been approved."
+    answers: ["with", "in"]
+    explain: "**With regard to** (или *In regard to*) — «что касается». Не ~~in regards to~~."

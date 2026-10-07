@@ -1,0 +1,43 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: в согласовании, в форме существительного или в порядке слов с *such / quite / what*. Исправь предложение целиком."
+hints:
+  - "jeans, scissors, police — множественное; mathematics, news — единственное."
+  - "such a + прилагательное + существительное; quite a(n) + прилагательное + существительное."
+items:
+  - q: "These scissors isn't sharp enough."
+    answers: ["These scissors aren't sharp enough."]
+    explain: "**scissors** — pair noun, всегда множественное число → *aren't*."
+  - q: "Mathematics are my favourite subject."
+    answers: ["Mathematics is my favourite subject."]
+    explain: "Названия наук на *-ics* — единственное число: *Mathematics **is**…*"
+  - q: "One of the windows were open all night."
+    answers: ["One of the windows was open all night."]
+    explain: "Подлежащее — **one** → *was*, хотя рядом стоит *windows*."
+  - q: "Our hotel was a ten-minutes walk from the beach."
+    answers: ["Our hotel was a ten-minute walk from the beach.", "Our hotel was a ten minute walk from the beach.", "Our hotel was ten minutes' walk from the beach."]
+    explain: "Число перед существительным работает как прилагательное → без *-s*: **a ten-minute walk**. Другой вариант — *ten minutes' walk*."
+  - q: "It was a such beautiful evening that we stayed outside until midnight."
+    answers: ["It was such a beautiful evening that we stayed outside until midnight."]
+    explain: "Порядок: **such a** + прилагательное + существительное. ~~a such~~ не бывает."
+  - q: "What a lovely weather we're having!"
+    answers: ["What lovely weather we're having!"]
+    explain: "*weather* неисчисляемое → **What** + прилагательное, без *a*."
+  - q: "She bought a new jeans for the trip."
+    answers: ["She bought new jeans for the trip.", "She bought a new pair of jeans for the trip.", "She bought some new jeans for the trip.", "She bought a pair of new jeans for the trip."]
+    explain: "С pair nouns *a* не ставят: **new jeans**, **some new jeans** или **a new pair of jeans**."
+  - q: "The police has arrested three people."
+    answers: ["The police have arrested three people."]
+    explain: "**police** всегда с глаголом во множественном числе → *have arrested*."
+  - q: "I'm looking for a shop of shoes near the station."
+    answers: ["I'm looking for a shoe shop near the station."]
+    explain: "Русское «магазин обуви» по-английски — **a shoe shop**: первое существительное в роли прилагательного, в единственном числе."
+  - q: "It's a quite expensive restaurant, but the food is excellent."
+    answers: ["It's quite an expensive restaurant, but the food is excellent.", "It's a rather expensive restaurant, but the food is excellent.", "It's rather an expensive restaurant, but the food is excellent.", "It's a fairly expensive restaurant, but the food is excellent."]
+    explain: "Артикль идёт **после** *quite*: **quite an expensive restaurant**. Ср.: *a very / a fairly expensive restaurant*."
+  - q: "Congratulation on your new job!"
+    answers: ["Congratulations on your new job!"]
+    explain: "**congratulations** употребляется только во множественном числе, как и *thanks*."
+  - q: "Ten thousand roubles are a lot for a pair of headphones."
+    answers: ["Ten thousand roubles is a lot for a pair of headphones."]
+    explain: "Сумму денег воспринимаем как одно целое → глагол в единственном числе: *is*."

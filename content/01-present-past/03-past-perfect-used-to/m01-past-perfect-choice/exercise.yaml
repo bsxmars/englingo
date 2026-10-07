@@ -1,0 +1,52 @@
+title: "Past Perfect: процесс, результат и «до тогда»"
+type: choice
+intro: "Выбери форму, которая подходит по смыслу. Сначала найди момент в прошлом, от которого смотрим назад."
+hints:
+  - "Как долго (for, since, all day) → had been doing; сколько, результат → had done."
+  - "was doing — во время события; had been doing — до него, только что закончилось или длилось до того момента."
+  - "Глаголы состояния (know, own, believe) — только had + V3."
+items:
+  - q: "Vera was exhausted when she got home: she ___ in the garden since breakfast."
+    options: ["had been working", "was working", "has been working"]
+    answer: 0
+    explain: "Длилось с утра **до** момента в прошлом (пришла домой), важна длительность → **had been working**."
+  - q: "By the end of the day, the team ___ over two hundred orders."
+    options: ["had been processing", "had processed", "was processing"]
+    answer: 1
+    explain: "Названо количество (*over two hundred*) и итог к моменту в прошлом → **had processed**."
+  - q: "When I phoned Dasha at eight, she ___ dinner, so she promised to call me back later."
+    options: ["was having", "had been having", "had had"]
+    answer: 0
+    explain: "Я позвонил **во время** ужина — она была в процессе → **was having**. *had been having* значило бы, что ужин только что закончился."
+  - q: "When I got to the cinema, the film ___ , so I missed the first ten minutes."
+    options: ["started", "had started", "has started"]
+    answer: 1
+    explain: "Фильм начался **до** моего прихода → **had started**. *When I got there, the film started* значило бы «начался, как только я пришёл»."
+  - q: "When the fire alarm rang, everyone calmly ___ the building and gathered in the car park."
+    options: ["left", "had left", "has left"]
+    answer: 0
+    explain: "Действия идут одно за другим (звонок → вышли → собрались) → все в **Past Simple**."
+  - q: "I didn't recognise my home town at all — it ___ so much since my childhood."
+    options: ["changed", "had changed", "has changed"]
+    answer: 1
+    explain: "Изменения произошли **до** момента, когда я приехал и не узнал город → **had changed**."
+  - q: "The company went bankrupt in 2020. It ___ money for years."
+    options: ["had been losing", "has been losing", "loses"]
+    answer: 0
+    explain: "Процесс длился годами **до** банкротства в прошлом → **had been losing**. *has been losing* — до сейчас, а компании уже нет."
+  - q: "My wallet wasn't in my bag. I ___ it on the bus."
+    options: ["have left", "had left", "was leaving"]
+    answer: 1
+    explain: "Это Present Perfect «оставил», перенесённый в прошлое: тогда кошелька не было, потому что раньше я его оставил → **had left**."
+  - q: "We ___ have a dishwasher when I was a kid, so I always did the washing-up."
+    options: ["didn't use to", "weren't used to", "didn't used to"]
+    answer: 0
+    explain: "Прошлое состояние, которого теперь нет → **didn't use to** (после *didn't* — *use* без *d*). *weren't used to* = «не привыкли» и требует -ing."
+  - q: "She looked upset. I thought she ___ ."
+    options: ["has been crying", "had been crying", "was cried"]
+    answer: 1
+    explain: "Видимые следы — как *She's been crying*, но рассказ в прошлом → **had been crying**."
+  - q: "I ___ Lev for years before we started working together."
+    options: ["had been knowing", "had known", "was knowing"]
+    answer: 1
+    explain: "*know* — глагол состояния, Continuous невозможен → **had known**."

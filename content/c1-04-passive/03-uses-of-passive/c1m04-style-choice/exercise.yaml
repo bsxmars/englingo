@@ -1,0 +1,52 @@
+title: "Стиль и регистр"
+type: choice
+intro: "Все варианты грамматически возможны или почти возможны, но **уместен** только один: по стилю, регистру, связности текста или грамматике конструкции."
+hints:
+  - "Отчёт, правила, наука → be-passive, без I / we / you."
+  - "Разговор → get-passive или актив с someone / they."
+  - "It is said that… / X is said to… / There are said to be…; tell так не работает."
+items:
+  - q: "Лабораторный отчёт: «___ to 37°C and left to incubate for two hours.»"
+    options: ["The samples were heated", "We heated the samples", "You heat the samples"]
+    answer: 0
+    explain: "Научный отчёт избегает личных местоимений, а продолжение *and left* (без подлежащего) требует пассива в первой части: **The samples were heated… and left…**"
+  - q: "Табличка в отеле: «___ by 11 a.m. on the day of departure.»"
+    options: ["Rooms must be vacated", "You've got to get out of your room", "We need you out of your rooms"]
+    answer: 0
+    explain: "Правила и официальные объявления — безличный пассив: **Rooms must be vacated**. Остальное звучит грубо или фамильярно."
+  - q: "Сообщение другу: «Guess what — ___ on the way home last night!»"
+    options: ["my bike got stolen", "my bike was stolen by someone", "a theft of my bike occurred"]
+    answer: 0
+    explain: "Неожиданное неприятное событие в разговоре → **got stolen**. *by someone* — пустой исполнитель, а номинализация звучит как полицейский протокол."
+  - q: "Путеводитель: «The Old Mill is now a boutique hotel. ___ in 1820 and converted in 1998.»"
+    options: ["It was built", "Somebody built it", "They built it"]
+    answer: 0
+    explain: "Тема (*the Old Mill*) остаётся подлежащим, а вторая часть *and converted* — пассив без *was*, поэтому первая тоже должна быть пассивом: **It was built… and converted…**"
+  - q: "Новость: «___ that the minister had known about the leak for weeks.»"
+    options: ["It was claimed", "He was claimed", "There was claimed"]
+    answer: 0
+    explain: "Перед that-clause ставим пустое подлежащее **It**: *It was claimed that…*"
+  - q: "Путеводитель: «There ___ more than 200 species of bird on the island.»"
+    options: ["are said to be", "are told to be", "say to be"]
+    answer: 0
+    explain: "**There are said to be…** — *say*, а не *tell*: *tell* в пассиве требует адресата («мне сказали»)."
+  - q: "Светская хроника: «The actor ___ in a Lisbon restaurant last week.»"
+    options: ["is rumoured to have been seen", "is rumoured to be seen", "rumours to have been seen"]
+    answer: 0
+    explain: "Слухи сейчас о событии прошлой недели → перфектный пассивный инфинитив: **is rumoured to have been seen**. *rumour* как глагол живёт почти только в пассиве."
+  - q: "Письмо клиенту, где ты отказываешь, не делая акцент на себе: «Unfortunately, ___ by Friday.»"
+    options: ["this cannot be completed", "I can't complete this", "you won't get this"]
+    answer: 0
+    explain: "Пассив смягчает отказ и убирает личную ответственность: **this cannot be completed**. *I can't* — прямо, *you won't get* — резко."
+  - q: "«Who designed the new library?» — «It ___ a young architect from Porto.»"
+    options: ["was designed by", "designed", "got designed by"]
+    answer: 0
+    explain: "Новая информация (архитектор) — в конце, через by-phrase: **was designed by**. get-passive не подходит для запланированного, сознательного действия."
+  - q: "Какое предложение звучит **неуместно**?"
+    options: ["The peace treaty got signed by both heads of state in 1648.", "Did you get invited to the launch party?", "He got caught speeding twice last year."]
+    answer: 0
+    explain: "get-passive разговорный и подчёркивает неожиданное событие. Для исторического факта и официальной процедуры нужен *was signed*. Два других предложения естественны."
+  - q: "Отчёт о демонстрации: «Several protesters ___ when the police moved in, though none seriously.»"
+    options: ["were injured", "injured", "injured themselves"]
+    answer: 0
+    explain: "Пострадавших ранили (пассив), исполнитель не назван: **were injured**. *injured* без дополнения — актив без смысла, *injured themselves* — сами себя."

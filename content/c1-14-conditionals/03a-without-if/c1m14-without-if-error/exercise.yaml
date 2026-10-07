@@ -1,0 +1,41 @@
+title: "Найди ошибку: provided, in case, given, otherwise"
+type: error
+intro: "В каждом предложении **одна** ошибка: неверное время или слово, которое не подходит по смыслу. Исправь и отправь предложение целиком."
+hints:
+  - "provided — для желаемых условий; для нежелательных — if или in the event that."
+  - "in case ≠ if: in case — предосторожность заранее."
+  - "given — только известный факт."
+items:
+  - q: "You can keep the book for another week provided you will bring it back on Monday."
+    answers: ["You can keep the book for another week provided you bring it back on Monday."]
+    explain: "После **provided** будущее передаётся Present: *you bring*."
+  - q: "Provided it rains tomorrow, the match will be cancelled."
+    answers: ["If it rains tomorrow, the match will be cancelled.", "In the event that it rains tomorrow, the match will be cancelled.", "Should it rain tomorrow, the match will be cancelled."]
+    explain: "*provided* — желаемое условие сделки. Дождь, отменяющий матч, — нежелательное событие → **If** или *In the event that*."
+  - q: "Take this number with you in case you will need a taxi later."
+    answers: ["Take this number with you in case you need a taxi later.", "Take this number with you in case you should need a taxi later."]
+    explain: "После **in case** — Present (или формальное *should*), не *will*."
+  - q: "Given the funding is approved next month, construction will begin in spring."
+    answers: ["Assuming the funding is approved next month, construction will begin in spring.", "Provided the funding is approved next month, construction will begin in spring.", "If the funding is approved next month, construction will begin in spring.", "Assuming that the funding is approved next month, construction will begin in spring.", "Providing the funding is approved next month, construction will begin in spring.", "Provided that the funding is approved next month, construction will begin in spring."]
+    explain: "Одобрение ещё впереди — это допущение → **Assuming / Provided / If**. *Given* вводит только известный факт."
+  - q: "Hurry up, and you'll miss the train."
+    answers: ["Hurry up, or you'll miss the train.", "Hurry up, or else you'll miss the train.", "Hurry up, otherwise you'll miss the train."]
+    explain: "Последствие **невыполнения** просьбы → императив + **or (else)**. С *and* выходит «поторопишься — опоздаешь»."
+  - q: "I was ill that week; otherwise I would come to your wedding."
+    answers: ["I was ill that week; otherwise I would have come to your wedding.", "I was ill that week; otherwise I'd have come to your wedding."]
+    explain: "Свадьба была в прошлом → после **otherwise** counterfactual: *would have come*."
+  - q: "But for we had a map, we would have got completely lost."
+    answers: ["But for the map, we would have got completely lost.", "But for our map, we would have got completely lost.", "But for the map we had, we would have got completely lost.", "If we hadn't had a map, we would have got completely lost.", "Had we not had a map, we would have got completely lost."]
+    explain: "После **but for** — существительное, а не придаточное: *But for the map*."
+  - q: "Supposing you will win the competition, how would you spend the prize money?"
+    answers: ["Supposing you won the competition, how would you spend the prize money?", "Supposing you were to win the competition, how would you spend the prize money?"]
+    explain: "Воображаемая ситуация + *would* → после **Supposing** нужен Past: *you won* (или *were to win*)."
+  - q: "Where possibly, use recycled paper for internal documents."
+    answers: ["Where possible, use recycled paper for internal documents.", "Wherever possible, use recycled paper for internal documents."]
+    explain: "Сокращённая формула — **where possible** (прилагательное), как *if necessary*."
+  - q: "With a bit more time, we would finish the project last month."
+    answers: ["With a bit more time, we would have finished the project last month."]
+    explain: "*last month* — прошлое, которого не было → **would have finished**."
+  - q: "In case the alarm goes off, leave the building immediately by the nearest exit."
+    answers: ["If the alarm goes off, leave the building immediately by the nearest exit.", "In the event that the alarm goes off, leave the building immediately by the nearest exit.", "Should the alarm go off, leave the building immediately by the nearest exit."]
+    explain: "В британском английском *in case* = «на всякий случай, заранее». Инструкция «когда сработает» → **If** или *In the event that*."

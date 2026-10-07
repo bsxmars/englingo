@@ -1,0 +1,51 @@
+title: "Выбери конструкцию"
+type: choice
+intro: "Выбери единственный верный вариант."
+hints:
+  - "Косвенный вопрос — прямой порядок слов, без do / did."
+  - "ask / tell + sb + to do; not to do для запрета."
+items:
+  - q: "She asked me ___ the window."
+    options: ["to open", "open", "that I open"]
+    answer: 0
+    explain: "Просьба → **ask sb to do**. Придаточное с *that* здесь не работает."
+  - q: "The guard told us ___ photos inside the museum."
+    options: ["don't take", "not to take", "not take"]
+    answer: 1
+    explain: "Запрет в пересказе → **not to take**."
+  - q: "He asked me where ___ ."
+    options: ["did I live", "I lived", "do I live"]
+    answer: 1
+    explain: "Косвенный вопрос — прямой порядок и сдвиг: **I lived**."
+  - q: "I wonder ___ tomorrow."
+    options: ["if it will rain", "will it rain", "if will it rain"]
+    answer: 0
+    explain: "После *I wonder* — косвенный вопрос: **if** + прямой порядок."
+  - q: "Excuse me, could you tell me ___ ?"
+    options: ["where is the toilet", "where the toilet is", "where does the toilet be"]
+    answer: 1
+    explain: "Вежливый вопрос — косвенный: **where the toilet is**."
+  - q: "The customer ___ whether the shop delivered abroad."
+    options: ["said", "told", "enquired"]
+    answer: 2
+    explain: "**enquire whether** — формальное «поинтересовался». *said whether* и *told whether* без человека невозможны."
+  - q: "My boss ___ me to finish the report by Friday."
+    options: ["said", "told", "spoke"]
+    answer: 1
+    explain: "Указание → **tell sb to do**. *said me to* — ошибка."
+  - q: "They asked ___ we wanted to stay for dinner."
+    options: ["that", "whether", "what"]
+    answer: 1
+    explain: "Вопрос «да/нет» (*Do you want to stay?*) → **whether / if**."
+  - q: "\"Can I sit here?\" → The man asked ___ sit there."
+    options: ["if he could", "could he", "that he can"]
+    answer: 0
+    explain: "Просьба разрешения → **asked if he could**: прямой порядок и *can → could*."
+  - q: "She wanted to know ___ ."
+    options: ["what time the meeting started", "what time did the meeting start", "what time started the meeting"]
+    answer: 0
+    explain: "Без *did* и без инверсии: **what time the meeting started**."
+  - q: "We couldn't decide ___ to take a taxi or walk."
+    options: ["if", "whether", "that"]
+    answer: 1
+    explain: "Перед инфинитивом — только **whether**: *whether to take…*."

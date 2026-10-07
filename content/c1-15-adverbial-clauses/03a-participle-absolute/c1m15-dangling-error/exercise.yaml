@@ -1,0 +1,41 @@
+title: "Найди ошибку: висячие причастия и абсолютные обороты"
+type: error
+intro: "В каждом предложении **одна** ошибка: висячее причастие, неверная форма причастия или сломанный абсолютный оборот. Исправь, меняя как можно меньше, и отправь предложение целиком."
+hints:
+  - "Проверка: подставь подлежащее главной части в оборот — получается смысл?"
+  - "Если подлежащие разные — назови подлежащее оборота (It being…, The concert over…) или верни союз."
+  - "Фиксированные обороты: generally speaking, judging by, considering."
+items:
+  - q: "Driving to work this morning, a deer ran out in front of my car."
+    answers: ["While I was driving to work this morning, a deer ran out in front of my car.", "As I was driving to work this morning, a deer ran out in front of my car.", "When I was driving to work this morning, a deer ran out in front of my car."]
+    explain: "Олень не ехал на работу. Подлежащие разные → возвращаем полное придаточное: ***While I was driving**…*"
+  - q: "Being a public holiday, all the shops were closed."
+    answers: ["It being a public holiday, all the shops were closed.", "As it was a public holiday, all the shops were closed.", "Because it was a public holiday, all the shops were closed.", "Since it was a public holiday, all the shops were closed."]
+    explain: "Праздник — не магазины. Нужно своё подлежащее: ***It being** a public holiday* или полное придаточное с *it was*."
+  - q: "Having finished the report, it was sent straight to the director."
+    answers: ["Having finished the report, I sent it straight to the director.", "Having finished the report, we sent it straight to the director.", "Having finished the report, she sent it straight to the director.", "Having finished the report, he sent it straight to the director.", "Having finished the report, they sent it straight to the director.", "Once finished, the report was sent straight to the director."]
+    explain: "Отчёт не мог сам себя закончить. Главная часть должна начинаться с того, кто закончил: *…, **I** sent it…* — или оборот перестраивается в *Once finished, the report…*."
+  - q: "Not having received a reply, a second email was sent."
+    answers: ["Not having received a reply, I sent a second email.", "Not having received a reply, we sent a second email.", "Not having received a reply, she sent a second email.", "Not having received a reply, he sent a second email.", "Not having received a reply, they sent a second email."]
+    explain: "Пассив в главной части — частая причина висячего причастия: письмо ответа не ждало. Делаем подлежащим человека: *…, **we** sent…*"
+  - q: "Having been arriving late, he missed the introduction."
+    answers: ["Having arrived late, he missed the introduction.", "Arriving late, he missed the introduction."]
+    explain: "Перфектно-длительное причастие здесь невозможно: опоздание — однократное событие. **Having arrived** или **Arriving**."
+  - q: "Seeing from above, the river looks like a silver ribbon."
+    answers: ["Seen from above, the river looks like a silver ribbon."]
+    explain: "Реку **видят** — пассив → **Seen** from above. *Seeing* значило бы, что река сама смотрит сверху."
+  - q: "Generally speak, the service has improved over the last year."
+    answers: ["Generally speaking, the service has improved over the last year."]
+    explain: "Застывшая формула — **Generally speaking**. Такие обороты-связки висячими не считаются."
+  - q: "The concert was over, we went for a late dinner."
+    answers: ["The concert over, we went for a late dinner.", "The concert being over, we went for a late dinner.", "When the concert was over, we went for a late dinner.", "Once the concert was over, we went for a late dinner.", "After the concert was over, we went for a late dinner."]
+    explain: "Два независимых предложения через запятую — comma splice. Либо абсолютный оборот (***The concert over***), либо союз (*When the concert was over*)."
+  - q: "With prices rise every month, people are buying less."
+    answers: ["With prices rising every month, people are buying less."]
+    explain: "После **with + сущ.** нужно причастие, а не личная форма глагола: *With prices **rising***."
+  - q: "While cooking dinner, the smoke alarm went off."
+    answers: ["While I was cooking dinner, the smoke alarm went off.", "While we were cooking dinner, the smoke alarm went off.", "While she was cooking dinner, the smoke alarm went off.", "While he was cooking dinner, the smoke alarm went off.", "While they were cooking dinner, the smoke alarm went off."]
+    explain: "Сокращать *while + -ing* можно только при общем подлежащем. Ужин готовила не сигнализация → возвращаем подлежащее: *While **I was** cooking…*"
+  - q: "After been rejected twice, she finally got the job."
+    answers: ["After being rejected twice, she finally got the job.", "After having been rejected twice, she finally got the job."]
+    explain: "После предлога **after** — герундий: пассив *being rejected* или *having been rejected*. Голое *been* невозможно."

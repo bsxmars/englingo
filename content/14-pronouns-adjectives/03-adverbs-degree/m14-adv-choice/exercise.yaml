@@ -1,0 +1,55 @@
+title: "Прилагательное или наречие?"
+type: choice
+intro: "Выбери верный вариант. Смотри, что описывает слово: предмет (прилагательное) или действие (наречие)."
+hints:
+  - "После связок be, look, feel, sound, taste, smell (в значении «каким кажется») — прилагательное."
+  - "hardly, lately, highly, nearly — отдельные слова со своим значением."
+items:
+  - q: "Don't worry about the wedding — everything went ___."
+    options: ["beautiful", "beautifully", "beautifuly"]
+    answer: 1
+    explain: "*went* — как всё прошло → наречие **beautifully** (*-ful* + *-ly*, двойная *l*)."
+  - q: "The receptionist greeted us ___."
+    options: ["friendly", "in a friendly way", "friendlily"]
+    answer: 1
+    explain: "*friendly* — прилагательное, наречия от него нет. Говорим **in a friendly way**."
+  - q: "I've ___ slept this week because of the builders next door."
+    options: ["hard", "hardly", "hardily"]
+    answer: 1
+    explain: "«Почти не спал» → **hardly**. *hard* значит «усердно»."
+  - q: "Have you read any good books ___?"
+    options: ["late", "lately", "latest"]
+    answer: 1
+    explain: "«В последнее время» → **lately** (с Present Perfect). *late* — «поздно»."
+  - q: "Her first novel has been ___ praised by critics."
+    options: ["high", "highly", "height"]
+    answer: 1
+    explain: "**highly** = «очень, высоко» в переносном смысле: *highly praised, highly recommended*. *high* — о физической высоте."
+  - q: "Children under five travel ___ on city buses."
+    options: ["free", "freely", "freedom"]
+    answer: 0
+    explain: "**free** = бесплатно. *freely* — «свободно, без ограничений» (*move freely*)."
+  - q: "This pasta tastes ___ — what did you put in it?"
+    options: ["amazing", "amazingly", "amaze"]
+    answer: 0
+    explain: "*taste* = «на вкус какой?» — связка → прилагательное **amazing**."
+  - q: "He looked ___ at the contract before he signed it."
+    options: ["careful", "carefully", "care"]
+    answer: 1
+    explain: "*look at* = смотреть (действие) → наречие **carefully**. Сравни: *He looked careful* — «выглядел осторожным»."
+  - q: "My grandmother was ill last month, but she's quite ___ again now."
+    options: ["well", "good", "healthily"]
+    answer: 0
+    explain: "**well** как прилагательное = «здоров»: *She's well again.* *good* о здоровье так не говорят."
+  - q: "The balloon rose ___ above the city."
+    options: ["high", "highly", "height"]
+    answer: 0
+    explain: "Физическая высота → **high** (наречие без *-ly*). *highly* = «весьма»."
+  - q: "The bridge was ___ finished when the money ran out."
+    options: ["near", "nearly", "nearby"]
+    answer: 1
+    explain: "«Почти» → **nearly**. *near* = «близко», *nearby* = «поблизости»."
+  - q: "You sound ___. Is everything OK?"
+    options: ["worried", "worriedly", "worry"]
+    answer: 0
+    explain: "*sound* = «звучишь как?» — связка → прилагательное **worried**."

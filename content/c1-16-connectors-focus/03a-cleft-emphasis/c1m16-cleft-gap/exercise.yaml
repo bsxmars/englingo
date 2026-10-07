@@ -1,0 +1,44 @@
+title: "Служебные слова cleft-конструкций"
+type: gap
+intro: "Впиши **одно** слово. Если в скобках дан глагол, поставь его в нужную форму."
+hints:
+  - "It-cleft: It + be + фокус + that / who."
+  - "Wh-cleft: What / All + придаточное + is / was + фокус."
+  - "Эмфатическое do: do / does / did + инфинитив."
+items:
+  - q: "It was only after the merger ___ the true scale of the debt became clear."
+    answers: ["that"]
+    explain: "It-cleft с фокусом на времени: *It was only after X **that** Y*. *When* в письменном тексте здесь считается ошибкой."
+  - q: "What the report fails to explain ___ why the costs doubled in a single year."
+    answers: ["is"]
+    explain: "*What*-придаточное — подлежащее в единственном числе, дальше **is** и фокус. Время *is* совпадает с *fails*."
+  - q: "___ I'm asking for is a little patience — nothing more."
+    answers: ["All", "What"]
+    explain: "**All** = «единственное, что» и хорошо сочетается с *nothing more*. *What* тоже грамматически верно, но менее точно передаёт «всего лишь»."
+  - q: "The reason she resigned was ___ she had been passed over for promotion twice."
+    answers: ["that"]
+    explain: "После *The reason … was* — **that**, а не *because*: слово *reason* уже содержит причину."
+  - q: "What he did ___ phone the bank and cancel the card straight away."
+    answers: ["was"]
+    explain: "Фокус на действии: *What he did **was** (to) phone…* После *was* — инфинитив без *to*, поэтому нужно ровно одно слово *was*."
+  - q: "It's not ___ I don't trust you — it's just that I'd rather check the figures myself."
+    answers: ["that"]
+    explain: "Модель **It's not that…, it's (just) that…** — «дело не в том, что…, а в том, что…»."
+  - q: "It was the junior analyst ___ spotted the error, not the external auditors."
+    answers: ["who", "that"]
+    explain: "Фокус — человек, поэтому подходят **who** и *that*. *Which* о человеке и *what* в it-cleft — ошибки."
+  - q: "I didn't make it to the lecture, but I ___ read the handout afterwards."
+    answers: ["did"]
+    explain: "Эмфатическое **did** подчёркивает контраст с отрицанием: «на лекции не был, но раздатку-то прочитал». После *did* — *read* в начальной форме."
+  - q: "After three postponements, the last ___ we wanted was yet another delay."
+    answers: ["thing"]
+    explain: "**The last thing** … **was** — «меньше всего на свете». Устойчивая голова cleft-конструкции."
+  - q: "It is the parents who ___ (decide) which school the child attends."
+    answers: ["decide"]
+    explain: "Глагол после *who* согласуется с фокусом: *the parents* — множественное число, значит **decide**, а не *decides*."
+  - q: "Please ___ help yourselves to coffee while you wait."
+    answers: ["do"]
+    explain: "**Do** + повелительное — вежливая настойчивость: «да угощайтесь же». Тон теплее, чем просто *Help yourselves*."
+  - q: "That's exactly ___ I mean: the plan looks great on paper, but nobody will follow it."
+    answers: ["what"]
+    explain: "Обратный wh-cleft: **That's what** I mean. Указательное *that* связывает с предыдущей репликой."

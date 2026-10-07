@@ -1,0 +1,58 @@
+title: "Трансформации (C1 Advanced, Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "Глагол → существительное: decide to → decision to; probably → likely to."
+  - "There's no point → It isn't worth -ing."
+items:
+  - q: "Keeping accurate records is vital in a laboratory."
+    key: "VITAL"
+    stem: "In a laboratory, ___ accurate records."
+    answers: ["it is vital to keep", "it's vital to keep", "it is vital that you keep", "it's vital that you keep", "it is vital for you to keep", "it's vital for you to keep"]
+    explain: "Герундий-подлежащее → пустое *it* + прилагательное + инфинитив: *it is **vital to keep***."
+  - q: "It wasn't easy to translate the poem."
+    key: "DIFFICULT"
+    stem: "The poem ___ translate."
+    answers: ["was difficult to", "was rather difficult to", "was quite difficult to", "was very difficult to"]
+    explain: "Объект инфинитива становится подлежащим: *The poem **was difficult to** translate*."
+  - q: "There's no point in arguing with him."
+    key: "WORTH"
+    stem: "It ___ with him."
+    answers: ["is not worth arguing", "isn't worth arguing", "'s not worth arguing", "is not worth your while arguing", "isn't worth your while arguing"]
+    explain: "*There's no point (in) doing* = *It isn't **worth doing***. *worth* — прилагательное, нужен *is*."
+  - q: "The meeting will probably be cancelled."
+    key: "LIKELY"
+    stem: "The meeting ___ cancelled."
+    answers: ["is likely to be", "is very likely to be", "is highly likely to be"]
+    explain: "*probably will* → *is likely to*; пассив сохраняется: *to **be** cancelled*."
+  - q: "You lent us your car, which was very generous."
+    key: "OF"
+    stem: "It was very generous ___ your car."
+    answers: ["of you to lend us"]
+    explain: "Оценка поступка → *generous **of you to lend***."
+  - q: "The management decided to close the factory, and this shocked the town."
+    key: "DECISION"
+    stem: "The management's ___ the factory shocked the town."
+    answers: ["decision to close"]
+    explain: "*decide to* → *decision **to close***. Существительное сохраняет инфинитив."
+  - q: "We may never get another opportunity to see the comet."
+    key: "CHANCE"
+    stem: "This may be our last ___ the comet."
+    answers: ["chance to see", "chance of seeing"]
+    explain: "*chance* = возможность → обычно **to see**. В британском английском в этом значении встречается и *chance of seeing*."
+  - q: "I was worried about travelling alone at night."
+    key: "ANXIOUS"
+    stem: "I was ___ alone at night."
+    answers: ["anxious about travelling", "anxious about traveling", "rather anxious about travelling", "quite anxious about travelling"]
+    explain: "Тревога → *anxious **about** + -ing*. *anxious to travel* значило бы «очень хотел поехать»."
+  - q: "She can easily manage the department on her own."
+    key: "CAPABLE"
+    stem: "She ___ managing the department on her own."
+    answers: ["is perfectly capable of", "is quite capable of", "is fully capable of", "is entirely capable of", "is more than capable of", "is capable of"]
+    explain: "*capable **of** + -ing*; *easily* передаётся усилителем *perfectly / quite*."
+  - q: "Nobody expects an agreement to be reached this week."
+    key: "UNLIKELY"
+    stem: "An agreement ___ this week."
+    answers: ["is unlikely to be reached"]
+    explain: "*Nobody expects* → *is **unlikely to be reached***: прилагательное + пассивный инфинитив."

@@ -1,0 +1,44 @@
+title: "most, more, enough и другие"
+type: gap
+intro: "Впиши слово или короткое выражение по подсказке в скобках. Если в скобках глагол — поставь его в нужную форму."
+hints:
+  - "most / most of the / the most / mostly — смотри, что стоит после пропуска."
+  - "enough — после прилагательного, перед существительным."
+  - "После more than one глагол в единственном числе."
+items:
+  - q: "___ (большинство) of the staff work from home at least two days a week."
+    answers: ["Most"]
+    explain: "«Большинство» конкретной группы — **Most of the staff**. *The most* здесь значило бы «больше всех»."
+  - q: "The software is ___ (в основном) used by small and medium-sized businesses."
+    answers: ["mostly", "mainly", "largely", "chiefly", "primarily"]
+    explain: "Перед причастием нужно наречие: **mostly** (или формальнее *mainly, largely, chiefly, primarily*)."
+  - q: "Could I have two ___ (ещё) minutes to finish the report?"
+    answers: ["more"]
+    explain: "«Ещё» после числа — **more**: *two more minutes, one more question*."
+  - q: "There were ___ (гораздо больше) people at the rally than the police had expected."
+    answers: ["many more", "far more", "a lot more", "lots more", "considerably more", "a great many more", "a good many more", "significantly more"]
+    explain: "*people* исчисляемое → **many more** или универсальное *far more*. ~~much more people~~ — ошибка."
+  - q: "The meeting room holds twelve people at ___ (максимум)."
+    answers: ["most", "the most", "the very most", "the outside"]
+    explain: "«Максимум» — **at (the) most**. Противоположность — *at least*."
+  - q: "Is the water warm ___ (достаточно) for the children to swim?"
+    answers: ["enough"]
+    explain: "*enough* стоит **после** прилагательного: *warm enough*, дальше *for* + сущ. + *to* + инфинитив."
+  - q: "Frankly, we've had ___ (более чем достаточно) of their excuses."
+    answers: ["more than enough", "quite enough"]
+    explain: "**more than enough** = «с избытком». Перед *of their excuses* — *enough of*, потому что дальше определитель."
+  - q: "The payment was declined because of ___ (недостаточных) funds."
+    answers: ["insufficient"]
+    explain: "Формальное «недостаточный» — **insufficient**: *insufficient funds, insufficient evidence*."
+  - q: "She doesn't work here ___ (больше) — she left in March."
+    answers: ["any more", "anymore"]
+    explain: "«Больше не» с отрицательным глаголом — **any more** (слитно *anymore* — стандарт в AmE и всё чаще в BrE)."
+  - q: "There's ___ (полно) more coffee in the pot if anyone wants some."
+    answers: ["plenty", "lots", "a lot", "loads"]
+    explain: "*plenty more* = «ещё полно» — естественная разговорная формула. Подойдут и *lots more, a lot more*."
+  - q: "For the ___ (большей) part, the reviews were positive."
+    answers: ["most"]
+    explain: "Устойчивое выражение **for the most part** = «по большей части», с *the*."
+  - q: "More than one passenger ___ (be) injured in the collision."
+    answers: ["was"]
+    explain: "После *more than one* существительное и глагол — в **единственном** числе: *More than one passenger was injured*."

@@ -1,0 +1,55 @@
+title: "some, any, no, both, either, each, every, none"
+type: choice
+intro: "Выбери единственный правильный вариант."
+hints:
+  - "Два предмета → both / either / neither. Три и больше → all / any / none."
+  - "В предложении только одно отрицание: didn't + anybody или nobody, но не didn't + nobody."
+items:
+  - q: "I'm sorry, there's ___ coffee left. I'll make some more."
+    options: ["any", "no", "some"]
+    answer: 1
+    explain: "Утвердительный глагол *there's* + отрицание через **no** = *there isn't any*. *there's any* в этом смысле невозможно."
+  - q: "I didn't see ___ at the party that I knew."
+    options: ["anybody", "nobody", "somebody"]
+    answer: 0
+    explain: "Отрицание уже есть (*didn't*) → **anybody**. *didn't … nobody* — двойное отрицание."
+  - q: "___ of my parents speaks English — they only speak Russian."
+    options: ["Neither", "Both", "None"]
+    answer: 0
+    explain: "Родителей двое и ни один не говорит → **Neither**. *None* — для трёх и больше; *Both* противоречит смыслу."
+  - q: "You can take ___ bus from this stop — they all go to the city centre."
+    options: ["any", "some", "every"]
+    answer: 0
+    explain: "**any** в утверждении = «любой, неважно какой»."
+  - q: "___ student in the class got a certificate."
+    options: ["Every", "All", "Both"]
+    answer: 0
+    explain: "После пропуска — *student* в единственном числе → **Every**. *All* требует множественного: *All the students*."
+  - q: "I invited five friends, but ___ of them came."
+    options: ["none", "no", "neither"]
+    answer: 0
+    explain: "Друзей пять (больше двух), и *of them* → **none of them**. *no* ставится только прямо перед существительным."
+  - q: "We have two options, and ___ of them is perfect."
+    options: ["neither", "none", "any"]
+    answer: 0
+    explain: "Вариантов **два** → **neither** (ни один из двух)."
+  - q: "There are shops on ___ side of the street."
+    options: ["both", "either", "all"]
+    answer: 1
+    explain: "**either side** = с обеих сторон, после *either* — единственное число *side*. *both* потребовал бы *both sides*."
+  - q: "___ the students passed the exam."
+    options: ["All", "Every", "Each"]
+    answer: 0
+    explain: "*the students* — множественное число → **All the students**. *Every* и *Each* требуют единственного: *Every student*, *Each of the students*."
+  - q: "The concert tickets cost £20 ___."
+    options: ["each", "every", "all"]
+    answer: 0
+    explain: "**each** может стоять в конце в значении «каждый, за штуку»: *They cost £20 each*. *every* так не употребляется."
+  - q: "I've looked everywhere, but I can't find my keys ___."
+    options: ["anywhere", "nowhere", "somewhere"]
+    answer: 0
+    explain: "Отрицание уже есть (*can't*) → **anywhere**. *can't … nowhere* — двойное отрицание."
+  - q: "She goes to the gym ___ day before work."
+    options: ["every", "all the", "each of"]
+    answer: 0
+    explain: "Регулярность → **every day**. *all the day* так не говорят (только *all day* = весь день), а *each of* требует *the days*."

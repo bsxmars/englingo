@@ -1,0 +1,55 @@
+title: "Сильные сочетания: наречие + прилагательное"
+type: choice
+intro: "Как в C1 Advanced, Part 1: все четыре слова по смыслу похожи, но устойчивое сочетание образует только одно. Выбери его."
+hints:
+  - "highly unlikely / successful; bitterly disappointed / opposed; deeply rooted / concerned; painfully aware; fully booked; widely available."
+  - "С экстремальными прилагательными (exhausted, furious) — utterly / absolutely, а не very."
+items:
+  - q: "It is ___ unlikely that the bill will pass before the summer recess."
+    options: ["deeply", "highly", "bitterly", "strongly"]
+    answer: 1
+    explain: "**highly unlikely** — «крайне маловероятно». *highly* сочетается с *unlikely, successful, effective, recommended*."
+  - q: "Local residents are ___ opposed to the plans for a new motorway."
+    options: ["highly", "widely", "bitterly", "fully"]
+    answer: 2
+    explain: "**bitterly opposed** — «яростно против». С *opposed* также *strongly* и *fiercely*, но не *highly* или *fully*."
+  - q: "I was ___ aware that everyone in the room was staring at me."
+    options: ["bitterly", "painfully", "highly", "heavily"]
+    answer: 1
+    explain: "**painfully aware** — «мучительно осознавать». Похожее сочетание — *acutely aware*."
+  - q: "I'm afraid the hotel is ___ booked for the whole of August."
+    options: ["widely", "highly", "fully", "deeply"]
+    answer: 2
+    explain: "**fully booked** — «все места заняты». Ни одно другое наречие с *booked* не сочетается."
+  - q: "The festival is a tradition that is ___ rooted in the region's history."
+    options: ["deeply", "highly", "bitterly", "fully"]
+    answer: 0
+    explain: "**deeply rooted** — «глубоко укоренившийся». *deeply* сочетается с *rooted, divided, concerned, moved*."
+  - q: "Two passengers were ___ injured in the collision and taken to hospital."
+    options: ["heavily", "highly", "seriously", "deeply"]
+    answer: 2
+    explain: "**seriously injured** (или *badly injured*). ~~heavily injured~~ — калька с «тяжело ранен»."
+  - q: "The vaccine is now ___ available in pharmacies across Europe."
+    options: ["highly", "widely", "deeply", "heavily"]
+    answer: 1
+    explain: "**widely available** — «широко доступен». Также *widely believed, widely regarded, widely used*."
+  - q: "After a fourteen-hour shift in the emergency ward, she was ___ exhausted."
+    options: ["very", "highly", "utterly", "slightly"]
+    answer: 2
+    explain: "*exhausted* — экстремальное прилагательное, с ним **utterly / absolutely / completely**, но не *very*."
+  - q: "The proposal sparked a ___ debate in parliament that lasted well into the night."
+    options: ["boiling", "heated", "warm", "burning"]
+    answer: 1
+    explain: "**a heated debate / argument** — «жаркий спор». *burning* сочетается с *issue* или *question*."
+  - q: "We got caught in ___ rain on the way home and were soaked to the skin."
+    options: ["strong", "heavy", "thick", "big"]
+    answer: 1
+    explain: "**heavy rain** — «сильный дождь». ~~strong rain~~ — частая калька; *strong* — для ветра: *a strong wind*."
+  - q: "There is an ___ shortage of qualified nurses in rural areas."
+    options: ["acute", "sharp", "intense", "deep"]
+    answer: 0
+    explain: "**an acute shortage** — «острая нехватка» (также *severe*). *sharp* — для роста и падения: *a sharp rise*."
+  - q: "In her speech, the minister made a ___ case for raising the minimum wage."
+    options: ["compelling", "heavy", "tight", "deep"]
+    answer: 0
+    explain: "**a compelling case / argument** — «убедительный довод». Синонимы — *convincing, persuasive*."

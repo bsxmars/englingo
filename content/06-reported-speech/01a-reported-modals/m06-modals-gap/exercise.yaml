@@ -1,0 +1,44 @@
+title: "Модальные и условные в пересказе"
+type: gap
+intro: "Перескажи прямую речь: впиши в пропуск модальный глагол или форму глагола. Пересказываем позже, поэтому реальные формы сдвигаются, а нереальные остаются. Сокращения засчитываются."
+hints:
+  - "will → would, can → could, may → might; would / could / should / might / had better не меняются."
+  - "must: обязанность → had to / must, вывод → must, запрет → mustn't / wasn't allowed to."
+  - "1st conditional сдвигается, 2nd и 3rd — нет."
+items:
+  - q: "\"I can't swim,\" said Oleg. → Oleg admitted he ___ swim."
+    answers: ["could not", "couldn't"]
+    explain: "*can* → **could** при пересказе: *can't* превращается в *couldn't*."
+  - q: "\"It may be too late,\" the doctor said. → The doctor said it ___ be too late."
+    answers: ["might", "may", "could"]
+    explain: "*may* (вероятность) обычно становится **might**. Можно оставить *may* или сказать *could* — смысл тот же: «возможно»."
+  - q: "\"You must be Anna's sister!\" he said to me. → He said I ___ be Anna's sister."
+    answers: ["must"]
+    explain: "Это **вывод** («ты, должно быть, сестра Анны»), а не обязанность → **must** не меняется. *had to be* звучало бы как «был обязан быть»."
+  - q: "\"You mustn't use your phones during the exam,\" the teacher said. → The teacher said we ___ use our phones during the exam."
+    answers: ["must not", "mustn't", "were not allowed to", "weren't allowed to", "could not", "couldn't"]
+    explain: "Запрет остаётся запретом: **mustn't** или **weren't allowed to** (*couldn't* тоже передаёт «нельзя»). Только не *didn't have to* — это «не обязательно»."
+  - q: "\"You don't have to bring anything,\" said the host. → The host said we ___ bring anything."
+    answers: ["did not have to", "didn't have to", "need not", "needn't", "did not need to", "didn't need to"]
+    explain: "«Не обязательно» → **didn't have to** / **didn't need to** / *needn't*. Это отсутствие необходимости, а не запрет."
+  - q: "\"If the price drops, I'll buy it,\" said Dan. → Dan said that if the price dropped, he ___ it."
+    answers: ["would buy"]
+    explain: "1st conditional — реальное условие, поэтому сдвигается целиком: *drops* → *dropped*, *will buy* → **would buy**."
+  - q: "\"If I knew the answer, I'd tell you,\" said Mila. → Mila said that if she ___ the answer, she would tell me."
+    answers: ["knew"]
+    explain: "2nd conditional **не меняется**: *knew* остаётся *knew*. ~~had known~~ перенесло бы ситуацию в прошлое."
+  - q: "\"If we'd left earlier, we wouldn't have missed the train,\" Pavel said. → Pavel said that if they ___ earlier, they wouldn't have missed the train."
+    answers: ["had left"]
+    explain: "3rd conditional уже в Past Perfect, сдвигаться некуда → **had left**."
+  - q: "\"I wish I spoke German,\" said my boss. → My boss said he wished he ___ German."
+    answers: ["spoke", "could speak"]
+    explain: "После *wish* нереальное прошедшее не сдвигается: меняется только *wish* → *wished*, а **spoke** остаётся."
+  - q: "\"You'd better check the address,\" Nina told me. → Nina told me I ___ check the address."
+    answers: ["had better", "should"]
+    explain: "*had better* в пересказе не меняется: **I'd better** check. По смыслу это совет, поэтому подойдёт и *should*."
+  - q: "\"Shall I open the window?\" asked the waiter. → The waiter ___ open the window."
+    answers: ["offered to", "asked if he should", "asked whether he should", "asked if she should", "asked whether she should"]
+    explain: "*Shall I…?* — предложение помощи → **offered to** open. Можно пересказать и вопросом: *asked if he should open*."
+  - q: "\"I shall be back before midnight,\" Dad promised. → Dad promised he ___ back before midnight."
+    answers: ["would be"]
+    explain: "*shall* о будущем пересказываем так же, как *will*: **would be**."

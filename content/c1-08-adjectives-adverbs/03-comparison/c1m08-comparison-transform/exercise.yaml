@@ -1,0 +1,71 @@
+title: "Перефразирование (C1 Advanced, Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+
+  Сравнительные конструкции — одна из самых частых тем Part 4: *much better → not nearly as good*, *never… such → the most… ever*.
+hints:
+  - "far less / much worse → nowhere near as… as, not nearly as… as."
+  - "such a + adj + noun → so / too + adj + a + noun: too good an offer."
+  - "As X increases, Y increases → The more X, the more Y."
+items:
+  - q: "Her latest novel is far less gripping than her first one."
+    key: "NEAR"
+    stem: "Her latest novel is ___ her first one."
+    answers: ["nowhere near as gripping as", "not anywhere near as gripping as", "nowhere near so gripping as"]
+    explain: "*far less X than* = **nowhere near as X as** — «далеко не такой захватывающий»."
+  - q: "I've never stayed in such a comfortable hotel."
+    key: "MOST"
+    stem: "This is ___ I have ever stayed in."
+    answers: ["the most comfortable hotel"]
+    explain: "*never… such* → superlative + *I have ever*: **the most comfortable hotel** I have ever stayed in."
+  - q: "As you practise more, speaking becomes easier."
+    key: "EASIER"
+    stem: "The more you practise, ___ becomes."
+    answers: ["the easier speaking", "the easier it"]
+    explain: "Две связанные тенденции: *the + comparative…, **the + comparative** + подлежащее + глагол*: *the easier speaking (it) becomes*."
+  - q: "He cooks much better than I do."
+    key: "NEARLY"
+    stem: "I'm not ___ he is."
+    answers: ["nearly as good a cook as", "nearly so good a cook as"]
+    explain: "*much better* → **not nearly as good**; с существительным в ед. числе порядок *as + adj + **a** + noun + as*: *as good a cook as*."
+  - q: "Life in the city is becoming more and more expensive."
+    key: "INCREASINGLY"
+    stem: "Living in the city ___ expensive."
+    answers: ["is becoming increasingly", "is increasingly", "is getting increasingly", "is growing increasingly", "has become increasingly"]
+    explain: "*more and more + adj* = **increasingly + adj** — более формальный вариант."
+  - q: "No other city in Europe comes close to this one in terms of cost."
+    key: "BY"
+    stem: "This is ___ city in Europe."
+    answers: ["by far the most expensive", "by far the costliest", "by far the priciest", "by far the dearest"]
+    explain: "«Никто и близко не стоит» = **by far** + superlative: *by far the most expensive*."
+  - q: "I didn't expect the exam to be so easy."
+    key: "THAN"
+    stem: "The exam was ___ expected."
+    answers: ["easier than I had", "easier than I", "much easier than I had", "much easier than I", "far easier than I had", "far easier than I", "a lot easier than I had", "a lot easier than I", "considerably easier than I had", "considerably easier than I", "a great deal easier than I"]
+    explain: "*so easy* (вопреки ожиданиям) → **easier than I (had) expected**. Past Perfect подчёркивает, что ожидание было раньше."
+  - q: "The second interview was not as stressful as the first."
+    key: "LESS"
+    stem: "The second interview was ___ the first."
+    answers: ["less stressful than"]
+    explain: "*not as X as* = **less X than** — обычный способ сказать «менее»."
+  - q: "Their flat is twice the size of ours."
+    key: "AS"
+    stem: "Their flat is ___ ours."
+    answers: ["twice as big as", "twice as large as", "twice as spacious as", "two times as big as", "two times as large as"]
+    explain: "*twice the size of* = **twice as big as** — кратность ставится перед *as… as*."
+  - q: "This year's results are slightly worse than last year's."
+    key: "QUITE"
+    stem: "This year's results are not ___ last year's."
+    answers: ["quite as good as", "quite so good as"]
+    explain: "*slightly worse* = **not quite as good as** — «чуть-чуть не дотягивают»."
+  - q: "Fewer people came than we had expected."
+    key: "MANY"
+    stem: "Not ___ we had expected."
+    answers: ["as many people came as", "so many people came as"]
+    explain: "*fewer… than* → **not as many… as**: *Not as many people came as we had expected*."
+  - q: "It was such a good offer that I couldn't refuse it."
+    key: "TOO"
+    stem: "It was ___ to refuse."
+    answers: ["too good an offer"]
+    explain: "*such a good offer that I couldn't* → **too good an offer to**. После *too* порядок *adj + a/an + noun*."

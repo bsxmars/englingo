@@ -1,0 +1,44 @@
+title: "one, so, not, do so — или ничего"
+type: gap
+intro: "Впиши **одно-два слова**, которые заменяют повтор: *one, ones, it, some, so, not, do so, did so, to* и т.п. Следи за регистром, указанным в скобках."
+hints:
+  - "one / ones — исчисляемое; some / any — неисчисляемое; it — конкретный предмет."
+  - "hope / be afraid → not; think / believe / expect → don't … so."
+  - "do so — формально; при смене деятеля — do it."
+items:
+  - q: "The old printer finally broke, so we ordered a new ___ online."
+    answers: ["one"]
+    explain: "Замена исчисляемого существительного в единственном числе с прилагательным: *a new **one***."
+  - q: "— Is the museum open on Mondays? — I'm afraid ___. It's closed until Tuesday."
+    answers: ["not"]
+    explain: "После *be afraid* отрицание — **not**: *I'm afraid not*. ~~I'm not afraid so~~ невозможно."
+  - q: "Visitors who wish to photograph the exhibits may ___ only without flash. (формально, два слова)"
+    answers: ["do so"]
+    explain: "**do so** заменяет *photograph the exhibits* и уместно в официальном тексте."
+  - q: "I can't get this jar open. Could you ___ for me? (разговорно, два слова)"
+    answers: ["do it", "open it", "do that"]
+    explain: "Действие выполняет **другой** человек → *do it*, а не *do so*. Можно и просто повторить глагол: *open it*."
+  - q: "— Do you think the company will survive the crisis? — I don't ___ — not without a major investor."
+    answers: ["think so", "believe so", "expect so", "suppose so", "imagine so"]
+    explain: "*think / believe / expect* в отрицании: **don't think so**. *so* заменяет всё придаточное *that the company will survive*."
+  - q: "Applications must be submitted online. Those who fail to ___ by 5 March will not be considered. (формально, два слова)"
+    answers: ["do so"]
+    explain: "*fail to **do so*** = *fail to submit them online*. Формальная замена глагола с дополнением."
+  - q: "I needed some advice about the contract, and luckily my cousin was able to give me ___."
+    answers: ["some", "plenty", "a lot", "lots"]
+    explain: "*advice* — неисчисляемое, поэтому не *one*, а **some**."
+  - q: "Has the client signed the agreement? If ___, we can start work on Monday."
+    answers: ["so"]
+    explain: "**If so** = «если да / если это так» — заменяет целое условие *if the client has signed*."
+  - q: "Her first novel was ambitious; her second is even more ___."
+    answers: ["so"]
+    explain: "**more so** заменяет прилагательное: *even more ambitious*."
+  - q: "— Do you have the report I gave you yesterday? — Sorry, I left ___ on the train."
+    answers: ["it"]
+    explain: "Речь о **конкретном** отчёте → **it**. *one* значило бы «какой-нибудь отчёт»."
+  - q: "— Are we going to make the deadline? — I hope ___, or the client will walk away."
+    answers: ["so"]
+    explain: "Утвердительная надежда → **I hope so**. ~~I hope it~~ — калька."
+  - q: "Of all the proposals, the ___ that impressed the panel most came from a student team."
+    answers: ["one"]
+    explain: "*the one + придаточное* = «то (предложение), которое…». *the* с *one* допустимо, потому что дальше идёт уточнение *that impressed…*."

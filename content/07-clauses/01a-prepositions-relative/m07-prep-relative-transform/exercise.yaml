@@ -1,0 +1,58 @@
+title: "Перефразирование (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "Предлог + whom / which — в начале придаточного; предлог фразового глагола — в конце."
+  - "the way (that) / the reason (why) — без how и because."
+items:
+  - q: "I work with a woman. Her husband is a famous chef."
+    key: "WHOSE"
+    stem: "I work with a woman ___ a famous chef."
+    answers: ["whose husband is"]
+    explain: "*Her husband* → **whose husband**: «женщина, чей муж…»."
+  - q: "I was talking about that film."
+    key: "WHICH"
+    stem: "That's the film ___ talking."
+    answers: ["about which I was"]
+    explain: "Предлог перед *which*, потому что в основе после *talking* ничего нет: **about which I was** talking."
+  - q: "I grew up in this town."
+    key: "WHERE"
+    stem: "This is the town ___ up."
+    answers: ["where I grew"]
+    explain: "*grow up **in** a town* → **where** = *in which*. *up* — часть фразового глагола, она остаётся в конце."
+  - q: "I depend on my sister more than on anyone else."
+    key: "WHOM"
+    stem: "My sister is the person on ___ more than on anyone else."
+    answers: ["whom I depend"]
+    explain: "После предлога *on* про человека — **whom**."
+  - q: "I was ill on the day of the meeting."
+    key: "WHEN"
+    stem: "I was ill on the day ___ place."
+    answers: ["when the meeting took"]
+    explain: "День → **when**: *the day when the meeting took place*."
+  - q: "She explains grammar in a very clear way, and I like it."
+    key: "WAY"
+    stem: "I like ___ explains grammar."
+    answers: ["the way she", "the way that she", "the way in which she"]
+    explain: "«То, как она объясняет» → **the way (that) she** explains. ~~the way how~~ — ошибка."
+  - q: "Why did he resign? Nobody knows."
+    key: "REASON"
+    stem: "Nobody knows ___ resigned."
+    answers: ["the reason he", "the reason why he", "the reason that he", "the reason for which he"]
+    explain: "**the reason (why / that) he** resigned. Формально — *the reason for which*."
+  - q: "I paid for these headphones, but they don't work."
+    key: "PAID"
+    stem: "The headphones I ___ work."
+    answers: ["paid for do not", "paid for don't"]
+    explain: "*pay **for*** — предлог остаётся в конце придаточного: *the headphones I **paid for** don't work*."
+  - q: "I can't put up with that kind of behaviour."
+    key: "UP"
+    stem: "That's the kind of behaviour ___ with."
+    answers: ["I cannot put up", "that I cannot put up", "which I cannot put up"]
+    explain: "*put up with* — фразовый глагол, частицы остаются вместе в конце: *(that) I **can't put up with***."
+  - q: "Our company sold the building. Its roof was leaking."
+    key: "WHOSE"
+    stem: "Our company sold the building ___ leaking."
+    answers: ["whose roof was"]
+    explain: "*Its roof* → **whose roof**: *whose* работает и для вещей."

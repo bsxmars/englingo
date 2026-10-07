@@ -1,0 +1,58 @@
+title: "Перефразирование: причина, следствие, цель (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "because + предложение ↔ because of / due to / owing to + существительное."
+  - "to / in order to + глагол ↔ so that + подлежащее + can / could."
+items:
+  - q: "The match was cancelled because it was raining heavily."
+    key: "OF"
+    stem: "The match was cancelled ___ rain."
+    answers: ["because of the heavy", "because of heavy", "as a result of the heavy", "as a result of heavy"]
+    explain: "*because* + предложение → **because of** + существительное: *because of the heavy rain*."
+  - q: "The delay happened because there was a technical problem."
+    key: "DUE"
+    stem: "The delay was ___ technical problem."
+    answers: ["due to a"]
+    explain: "*be due to* + существительное: *The delay was due to a technical problem.*"
+  - q: "I left early because I wanted to avoid the traffic."
+    key: "ORDER"
+    stem: "I left early ___ the traffic."
+    answers: ["in order to avoid"]
+    explain: "Цель → **in order to** + глагол."
+  - q: "She wrote the address down so that she wouldn't forget it."
+    key: "AS"
+    stem: "She wrote the address down ___ it."
+    answers: ["so as not to forget"]
+    explain: "Отрицательная цель → **so as not to** + глагол: *not* стоит перед *to*."
+  - q: "I'm learning Spanish because I want to talk to my in-laws."
+    key: "THAT"
+    stem: "I'm learning Spanish ___ talk to my in-laws."
+    answers: ["so that I can", "so that I could"]
+    explain: "Цель с подлежащим → **so that I can** + глагол."
+  - q: "The roads were icy, so several flights were delayed."
+    key: "RESULT"
+    stem: "Several flights were delayed ___ icy roads."
+    answers: ["as a result of the", "as a result of"]
+    explain: "Причина + существительное → **as a result of** (не путай с *as a result*, после которого идёт новое предложение)."
+  - q: "It was such an interesting book that I couldn't put it down."
+    key: "SO"
+    stem: "The book was ___ I couldn't put it down."
+    answers: ["so interesting that"]
+    explain: "*such a/an + прилагательное + существительное* ↔ **so + прилагательное + that**."
+  - q: "There was so much noise that we couldn't sleep."
+    key: "SUCH"
+    stem: "The neighbours made ___ that we couldn't sleep."
+    answers: ["such a lot of noise", "such a noise"]
+    explain: "С существительным → **such**: *such a lot of noise* или *such a noise* («такой шум»)."
+  - q: "The museum is closed because it is being repaired."
+    key: "OWING"
+    stem: "The museum is closed ___ repairs."
+    answers: ["owing to"]
+    explain: "**owing to** + существительное — формальное «из-за», типично для объявлений."
+  - q: "We went to the café because we wanted a coffee."
+    key: "FOR"
+    stem: "We went to the café ___."
+    answers: ["for a coffee", "for coffee"]
+    explain: "Цель, выраженная существительным → **for** + существительное: *for a coffee*. С глаголом было бы *to have a coffee*."

@@ -1,0 +1,64 @@
+title: "Is the four-day week too good to be true?"
+type: reading
+intro: "Прочитай колонку и ответь на вопросы. В вопросах с вариантами выбери один ответ, в остальных впиши слово или выражение из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Ответ часто стоит сразу после however, despite или although."
+text: |
+  **Is the four-day week too good to be true?**
+
+  *Every few months, another company announces that its staff will work four days instead of five — for the same pay. Our columnist Helen Marsh asks whether the idea deserves the hype.*
+
+  I'll admit it: when my editor first suggested the four-day week as a topic, I rolled my eyes. It sounded like one of those ideas that are popular on social media but collapse the moment they meet a real business. Having spent a month talking to managers, researchers and exhausted employees, however, I have changed my mind — at least partly.
+
+  Let's start with the evidence. In most of the trials I looked at, productivity did not fall, even though people were working around twenty per cent fewer hours. In some cases it actually rose. The reason is less mysterious than it sounds. When people know they have only four days, they cut out the things that waste everyone's time: pointless meetings, endless email chains, the long lunch that somehow turns into an afternoon. As one software manager told me, "What we discovered was that we had been busy rather than productive."
+
+  Then there is wellbeing. Employees on a shorter week reported sleeping better and feeling less stressed. Consequently, fewer of them took sick days, and fewer started looking for another job. For employers, this matters more than it might seem, since replacing an experienced member of staff can cost a small fortune.
+
+  Despite all this, I am not entirely convinced. For one thing, the companies that volunteer for trials are hardly typical. They tend to be small, office-based and already open to new ideas, whereas a hospital or a factory faces very different problems. Not only would a hospital need to hire more nurses to cover the extra day, but it would also struggle to find them. A four-day week for some workers could therefore mean a longer week for others.
+
+  There is also the question of intensity. While a three-day weekend sounds wonderful, several people admitted that the four working days had become noticeably more exhausting. "I do love my Fridays," one accountant said, "but by Thursday evening I can barely think." Squeezing five days of work into four is not the same as working less, and in some jobs it may simply move the stress from one place to another.
+
+  Finally, the results of a trial and the results of a permanent change may not be the same thing. People who know they are part of an experiment often work harder so as to prove that it can succeed. Only after several years will we know whether the effect lasts once the novelty has worn off.
+
+  So where does that leave us? Although I have become more sympathetic, I don't think the four-day week should be imposed on every organisation by law. It works best where the work can be measured by results rather than hours, and where managers are prepared to rethink how the day is organised, not just shorten it. Rather than asking "four days or five?", perhaps we should ask a simpler question: why do we spend so much of our working time on things that don't matter?
+
+  Never have so many people been so tired of the way we work. That alone is a good reason to keep experimenting — carefully, honestly, and with our eyes open.
+items:
+  - q: "How did the writer feel when the topic was first suggested?"
+    options: ["She was excited to write about it.", "She thought it was too complicated to explain.", "She was sceptical about it.", "She had already decided it would work."]
+    answer: 2
+    explain: "*I rolled my eyes* и *ideas that … collapse the moment they meet a real business* — она отнеслась **скептически**. Мнение поменялось только после месяца интервью (*however, I have changed my mind*)."
+  - q: "According to the writer, why did productivity not fall in most trials?"
+    options: ["Employees stopped spending time on unnecessary activities.", "Companies hired extra staff for the fifth day.", "Managers checked employees' work more often.", "Employees were paid more for working harder."]
+    answer: 0
+    explain: "*They cut out the things that waste everyone's time: pointless meetings, endless email chains…* — сотрудники **перестали тратить время на ненужное**."
+  - q: "Why does the writer think lower staff turnover matters to employers?"
+    options: ["Fewer sick days means the office is less crowded.", "Employees who stay longer accept lower pay.", "It makes the company more attractive to journalists.", "It is expensive to replace experienced workers."]
+    answer: 3
+    explain: "*…since replacing an experienced member of staff can cost a small fortune.* Связка **since** вводит причину."
+  - q: "What is the writer's main concern about the companies that take part in trials?"
+    options: ["They often exaggerate their results.", "They are not representative of many other workplaces.", "They are too large to change quickly.", "They are mostly hospitals and factories."]
+    answer: 1
+    explain: "*…are hardly typical. They tend to be small, office-based…, **whereas** a hospital or a factory faces very different problems.* — они **не типичны** для других мест работы."
+  - q: "What point does the accountant's comment illustrate?"
+    options: ["Most employees would prefer to work five days.", "Fridays are the least productive day of the week.", "A shorter week can make each working day more tiring.", "Accountants are especially unsuited to a four-day week."]
+    answer: 2
+    explain: "Абзац о *intensity*: *the four working days had become noticeably more exhausting.* Цитата подтверждает именно это — каждый день стал тяжелее."
+  - q: "Why might the results of trials be misleading, according to the writer?"
+    options: ["Trials usually last too long to be accurate.", "Researchers only interview the happiest employees.", "Companies stop the trial when the results are poor.", "People may work harder because they want the experiment to succeed."]
+    answer: 3
+    explain: "*People who know they are part of an experiment often work harder so as to prove that it can succeed.* **so as to** вводит цель их усилий."
+  - q: "What is the writer's overall conclusion?"
+    options: ["The four-day week should be introduced by law as soon as possible.", "The four-day week can work in suitable organisations but should not be made compulsory.", "The four-day week is a fashionable idea that will soon disappear.", "The four-day week is only suitable for hospitals and factories."]
+    answer: 1
+    explain: "*Although I have become more sympathetic, I don't think the four-day week should be imposed … by law. It works best where…* — работает **там, где подходит**, но не должна быть обязательной."
+  - q: "Find a word in the second paragraph (\"Let's start with the evidence…\") that means \"having no purpose or use\"."
+    answers: ["pointless"]
+    explain: "**pointless** meetings — бессмысленные встречи. Суффикс *-less* = «без»: *point* (смысл) + *less*."
+  - q: "Find a word in the paragraph about intensity that means \"only just; almost not\"."
+    answers: ["barely"]
+    explain: "*By Thursday evening I can **barely** think* — «едва могу соображать». Синоним — *hardly*."
+  - q: "Complete the phrase from the text meaning \"stopped feeling new and exciting\": once the novelty has ___"
+    answers: ["worn off"]
+    explain: "**the novelty wears off** — новизна проходит. *wear – wore – worn*."

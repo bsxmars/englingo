@@ -1,0 +1,383 @@
+title: "Итоговый тест: грамматика"
+type: choice
+intro: |
+  75 вопросов по всем 15 темам курса, уровень B2. Выбери один вариант. Для зачёта нужно **60 %**.
+
+  Словарь не используй. Ориентир по времени — 40–45 минут.
+pass: 60
+items:
+  - q: "When I was a child, my grandmother ___ tell us stories every evening."
+    options: ["was used to", "would", "used", "had"]
+    answer: 1
+    topic: "01-present-past"
+    explain: "Повторяющееся действие в прошлом → **would** + глагол (или *used to*). *used* без *to* невозможно."
+  - q: "Very ___ students passed the exam, so the teacher was disappointed."
+    options: ["a little", "few", "little", "a few"]
+    answer: 1
+    topic: "09-nouns-articles"
+    explain: "Исчисляемые + «мало, недостаточно» → **few**. *a few* — «несколько» без негативного оттенка."
+  - q: "Not only ___ late, but she also forgot her notes."
+    options: ["was she", "she was", "she did", "did she"]
+    answer: 0
+    topic: "11-linking"
+    explain: "*Not only* в начале → инверсия; вспомогательный здесь *was*: **was she** late."
+  - q: "The company had to ___ fifty workers last year."
+    options: ["lay out", "lay off", "lay by", "lay down"]
+    answer: 1
+    topic: "13-phrasal-verbs"
+    explain: "**lay off** — сократить, уволить из-за нехватки работы."
+  - q: "I'll never forget ___ the Alps for the first time."
+    options: ["to have seen", "see", "seeing", "to see"]
+    answer: 2
+    topic: "08-verb-patterns"
+    explain: "**forget + -ing** — помнить (никогда не забуду) то, что было. *forget to do* — забыть сделать."
+  - q: "I ___ to the gym on Mondays."
+    options: ["usually go", "usually am going", "go usually", "am going usually"]
+    answer: 0
+    topic: "10-word-order"
+    explain: "Наречие частоты — **перед** основным глаголом: *I usually go*."
+  - q: "We won't leave until everyone ___ ."
+    options: ["has arrived", "would arrive", "will have arrived", "will arrive"]
+    answer: 0
+    topic: "02-future"
+    explain: "После **until** будущее не ставится; чтобы подчеркнуть завершённость — Present Perfect: *until everyone has arrived*."
+  - q: "The more you practise, ___ you'll become."
+    options: ["the more confident", "the most confident", "more confident", "the confident"]
+    answer: 0
+    topic: "10-word-order"
+    explain: "Конструкция **the + сравнительная, the + сравнительная**."
+  - q: "Don't worry, I'll ___ the kids while you're at work."
+    options: ["look out", "look up to", "look into", "look after"]
+    answer: 3
+    topic: "13-phrasal-verbs"
+    explain: "«Присмотреть за» → **look after**. *look into* — расследовать, *look up to* — уважать, равняться."
+  - q: "Careful! You ___ that vase!"
+    options: ["drop", "'ll have dropped", "'re going to drop", "'ll be dropping"]
+    answer: 2
+    topic: "02-future"
+    explain: "Вот-вот случится, признаки видны прямо сейчас → **be going to**."
+  - q: "We had ___ terrible weather on our holiday."
+    options: ["the", "a", "such a", "— (без артикля)"]
+    answer: 3
+    topic: "09-nouns-articles"
+    explain: "**weather** — неисчисляемое, поэтому без *a*: *terrible weather*, *such terrible weather*."
+  - q: "If I had accepted that job in London, I ___ in a big city now."
+    options: ["had lived", "will live", "would be living", "would have lived"]
+    answer: 2
+    topic: "04-conditionals"
+    explain: "Mixed conditional: условие в прошлом (*had accepted*), результат сейчас (*now*) → **would + глагол** (здесь *would be living*)."
+  - q: "I have two brothers, both of ___ live abroad."
+    options: ["them", "whom", "which", "who"]
+    answer: 1
+    topic: "07-clauses"
+    explain: "После *both of / some of / none of* в придаточном о людях — **whom**."
+  - q: "The film was so sad that it made me ___ ."
+    options: ["cried", "crying", "to cry", "cry"]
+    answer: 3
+    topic: "08-verb-patterns"
+    explain: "**make + кого-то + глагол без to** в активном залоге."
+  - q: "You ___ smoke in here — it's a hospital!"
+    options: ["aren't supposed", "mustn't", "don't have to", "needn't"]
+    answer: 1
+    topic: "03-modals"
+    explain: "Запрет → **mustn't**. *don't have to / needn't* — «не обязательно»; *be supposed* требует *to*."
+  - q: "___ unemployed often find it hard to get a loan."
+    options: ["A", "An", "The", "— (без артикля)"]
+    answer: 2
+    topic: "09-nouns-articles"
+    explain: "**the + прилагательное** = группа людей (*the unemployed, the rich*), глагол во множественном числе."
+  - q: "We were ___ surprised by the result — we'd expected much worse."
+    options: ["pleasant", "pleasantly", "pleased", "pleasing"]
+    answer: 1
+    topic: "14-pronouns-adjectives"
+    explain: "Причастие *surprised* (как прилагательное) описывает **наречие**: *pleasantly surprised*."
+  - q: "Could you tell me what time ___ ?"
+    options: ["the museum opens", "does the museum open", "the museum does open", "opens the museum"]
+    answer: 0
+    topic: "10-word-order"
+    explain: "Косвенный вопрос: прямой порядок и без *does* → *what time the museum opens*."
+  - q: "You can borrow my car ___ you bring it back by six."
+    options: ["in case", "provided", "even if", "unless"]
+    answer: 1
+    topic: "04-conditionals"
+    explain: "«При условии, что» → **provided (that)**."
+  - q: "She ___ me to check the figures again."
+    options: ["explained", "said", "advised", "suggested"]
+    answer: 2
+    topic: "06-reported-speech"
+    explain: "**advise + кого-то + to do**. *suggest* так не употребляется: *suggested that I check*."
+  - q: "I ___ have bought so much food — only three people came."
+    options: ["mustn't", "needn't", "couldn't", "can't"]
+    answer: 1
+    topic: "03-modals"
+    explain: "Сделал, а оказалось, что было не нужно → **needn't have + V3**."
+  - q: "She hates ___ what to do."
+    options: ["be told", "being told", "telling", "to tell"]
+    answer: 1
+    topic: "05-passive"
+    explain: "**hate + -ing**, а по смыслу ей говорят (пассив) → **being told**."
+  - q: "The new manager has made several important ___."
+    options: ["decidings", "decides", "decisive", "decisions"]
+    answer: 3
+    topic: "15-word-formation"
+    explain: "После *several important* нужно существительное во мн. числе: **decisions** (*decide* → *decision*)."
+  - q: "___ the fact that he had trained hard, he lost the match."
+    options: ["Although", "However", "Even though", "Despite"]
+    answer: 3
+    topic: "11-linking"
+    explain: "*the fact that* ставится после предлога **despite / in spite of**. *Although* сразу требует предложение."
+  - q: "The ___ of the new law led to protests across the country."
+    options: ["introductory", "introduction", "introducing", "introducement"]
+    answer: 1
+    topic: "15-word-formation"
+    explain: "Существительное от *introduce* → **introduction**. *introductory* — прилагательное (*introductory course*)."
+  - q: "Hurry up! The film ___ by the time we get there."
+    options: ["starts", "has started", "will have started", "will start"]
+    answer: 2
+    topic: "02-future"
+    explain: "К моменту в будущем (*by the time we get there*) действие уже завершится → Future Perfect."
+  - q: "None of the information ___ useful."
+    options: ["are", "were", "have been", "was"]
+    answer: 3
+    topic: "09-nouns-articles"
+    explain: "**information** — неисчисляемое, глагол в единственном числе: *was*."
+  - q: "We apologise for any ___ caused by the delay."
+    options: ["inconvenience", "disconvenience", "inconvenient", "unconvenience"]
+    answer: 0
+    topic: "15-word-formation"
+    explain: "Нужно существительное (*any … caused*) → **inconvenience**: *convenient* → *inconvenient* → *inconvenience*. Приставка — *in-*."
+  - q: "After hours of searching, we ___ find the hotel."
+    options: ["were able to", "could", "must", "can"]
+    answer: 0
+    topic: "03-modals"
+    explain: "Однократный успех в конкретной ситуации → **was / were able to** (или *managed to*). *could* в утверждении так не употребляют."
+  - q: "The exam was ___ difficult that half the class failed."
+    options: ["so", "such", "too", "very"]
+    answer: 0
+    topic: "14-pronouns-adjectives"
+    explain: "Прилагательное без существительного + *that* → **so … that**. *such* нужно существительное: *such a difficult exam*."
+  - q: "By next June, she ___ here for exactly twenty years."
+    options: ["will be working", "will have been working", "is working", "works"]
+    answer: 1
+    topic: "02-future"
+    explain: "**By** + момент в будущем + длительность (*for twenty years*) → Future Perfect Continuous."
+  - q: "I wish you ___ making that noise — it's driving me crazy."
+    options: ["are stopping", "had stopped", "will stop", "would stop"]
+    answer: 3
+    topic: "04-conditionals"
+    explain: "Раздражение чужим поведением → **wish + would**: *I wish you would stop*."
+  - q: "Her explanation was completely ___ — nobody believed a word."
+    options: ["nonconvincing", "inconvincing", "disconvincing", "unconvincing"]
+    answer: 3
+    topic: "15-word-formation"
+    explain: "От *convince* → *convincing*; отрицание — приставка **un-**: *unconvincing*."
+  - q: "The new hospital ___ by the end of next year."
+    options: ["will have completed", "has been completed", "will have been completed", "will be completing"]
+    answer: 2
+    topic: "05-passive"
+    explain: "К моменту в будущем + пассив (больницу достроят) → **will have been** + V3."
+  - q: "___ had we left the house than it started to pour."
+    options: ["Only", "No sooner", "Hardly", "As soon as"]
+    answer: 1
+    topic: "11-linking"
+    explain: "Пара с *than* — **No sooner … than**. *Hardly* сочетается с *when*."
+  - q: "I felt really ___ after the long journey."
+    options: ["exhausting", "exhausted", "exhaustion", "exhaust"]
+    answer: 1
+    topic: "14-pronouns-adjectives"
+    explain: "Как **я себя чувствую** → **-ed**: *exhausted*. *exhausting* — то, что утомляет: *an exhausting journey*."
+  - q: "Tom apologised ___ late for the meeting."
+    options: ["to be", "for being", "for be", "that he is"]
+    answer: 1
+    topic: "06-reported-speech"
+    explain: "**apologise for + -ing**."
+  - q: "We regret ___ you that your application has been unsuccessful."
+    options: ["to informing", "to inform", "informing", "inform"]
+    answer: 1
+    topic: "08-verb-patterns"
+    explain: "**regret to inform** — «с сожалением сообщаем» (сейчас). *regret doing* — жалеть о том, что сделал."
+  - q: "He isn't old ___ to drive a car."
+    options: ["such", "enough", "too", "so"]
+    answer: 1
+    topic: "14-pronouns-adjectives"
+    explain: "**enough** ставится **после** прилагательного: *old enough to drive*. *too* — перед: *too young to drive*."
+  - q: "She ___ for the company for ten years when she was finally promoted."
+    options: ["was working", "had been working", "has been working", "is working"]
+    answer: 1
+    topic: "01-present-past"
+    explain: "Длительность до момента в прошлом (*for ten years when…*) → Past Perfect Continuous."
+  - q: "All the lights are off. They ___ have gone to bed."
+    options: ["must", "need", "can", "should"]
+    answer: 0
+    topic: "03-modals"
+    explain: "Уверенный вывод о прошлом → **must have + V3**."
+  - q: "It's ___ film I've ever seen."
+    options: ["the most funniest", "by far the funniest", "the far funniest", "by far funnier"]
+    answer: 1
+    topic: "10-word-order"
+    explain: "Усиление превосходной степени → **by far the** + superlative. *most funniest* — двойная степень."
+  - q: "We need to ___ a solution before the client calls back."
+    options: ["come up with", "catch up with", "come down with", "come across"]
+    answer: 0
+    topic: "13-phrasal-verbs"
+    explain: "«Придумать, предложить» → **come up with**. *come across* — случайно наткнуться, *come down with* — заболеть."
+  - q: "She went to ___ prison to visit her brother."
+    options: ["a", "an", "the", "— (без артикля)"]
+    answer: 2
+    topic: "09-nouns-articles"
+    explain: "*go to prison* без артикля — сесть в тюрьму. Пришла как посетитель, в конкретное здание → **the prison**."
+  - q: "I'll be on holiday ___ the 3rd to the 17th of August."
+    options: ["since", "during", "from", "between"]
+    answer: 2
+    topic: "12-prepositions"
+    explain: "Пара **from … to** — период с начала до конца. *between* сочетается с *and*: *between the 3rd and the 17th*."
+  - q: "By the time we arrived at the party, most of the guests ___ ."
+    options: ["have gone home", "had gone home", "went home", "were going home"]
+    answer: 1
+    topic: "01-present-past"
+    explain: "Гости ушли **до** нашего прихода; *by the time* + прошлое → Past Perfect."
+  - q: "I ___ my passport stolen while I was on holiday."
+    options: ["was", "made", "did", "had"]
+    answer: 3
+    topic: "05-passive"
+    explain: "Неприятность, случившаяся с тобой → **have something done**: *I had my passport stolen*."
+  - q: "He's very good ___ explaining complicated things."
+    options: ["for", "in", "at", "with"]
+    answer: 2
+    topic: "12-prepositions"
+    explain: "Устойчивое сочетание: **good at** + сущ. / -ing. *good with* — о людях и инструментах: *good with children*."
+  - q: "The electrician warned us ___ the wires."
+    options: ["to not touching", "don't touch", "not to touch", "not touching"]
+    answer: 2
+    topic: "06-reported-speech"
+    explain: "**warn + кого-то + not to do** — предостеречь от чего-то."
+  - q: "I can't ___ with his constant complaining any longer."
+    options: ["make up", "put up", "put off", "get on"]
+    answer: 1
+    topic: "13-phrasal-verbs"
+    explain: "**put up with** — терпеть, мириться. *get on with* — ладить с кем-то или продолжать дело."
+  - q: "The event was cancelled ___ a lack of interest."
+    options: ["as", "owing to", "since", "because"]
+    answer: 1
+    topic: "11-linking"
+    explain: "Причина + существительное → **owing to** (*due to, because of*). *because, as, since* требуют предложения."
+  - q: "___ the report, she sent it to her boss."
+    options: ["Finished", "Being finished", "Having been finished", "Having finished"]
+    answer: 3
+    topic: "07-clauses"
+    explain: "Сначала закончила, потом отправила (действие самой героини) → **Having + V3**."
+  - q: "___ the end of the film, everyone in the cinema was in tears."
+    options: ["By", "Since", "For", "Until"]
+    answer: 0
+    topic: "12-prepositions"
+    explain: "**By the end** — к концу (к этому моменту уже). *until* — действие длится до момента, *since* — с момента."
+  - q: "The suspect is believed ___ the country last week."
+    options: ["to have left", "that he left", "leaving", "to leave"]
+    answer: 0
+    topic: "05-passive"
+    explain: "Действие раньше момента речи (*last week*) → **be believed to have + V3**."
+  - q: "The manager ___ that the project was behind schedule."
+    options: ["accused", "refused", "admitted", "told"]
+    answer: 2
+    topic: "06-reported-speech"
+    explain: "**admit that** — «признать». *told* требует дополнения (*told us that*), *accuse* — *accuse someone of*, *refuse* — *refuse to do*."
+  - q: "She's one of the most ___ scientists of her generation."
+    options: ["influential", "influenced", "influencing", "influenceful"]
+    answer: 0
+    topic: "15-word-formation"
+    explain: "Прилагательное от *influence* → **influential** (с *-ial*). Слов ~~influenceful~~ нет."
+  - q: "Don't call me at eight — I ___ dinner with my in-laws then."
+    options: ["'ll have had", "'ll be having", "have had", "'d have"]
+    answer: 1
+    topic: "02-future"
+    explain: "Процесс в конкретный момент будущего (*at eight*) → Future Continuous: *I'll be having dinner*."
+  - q: "She didn't even apologise, ___ really annoyed me."
+    options: ["which", "what", "who", "that"]
+    answer: 0
+    topic: "07-clauses"
+    explain: "**which** в запятых может относиться ко всей предыдущей мысли. *that* и *what* так не используются."
+  - q: "He's seriously considering ___ his job."
+    options: ["leaving", "to leave", "to leaving", "leave"]
+    answer: 0
+    topic: "08-verb-patterns"
+    explain: "**consider + -ing**."
+  - q: "These are the forms. Please fill ___ and return them by Friday."
+    options: ["in them", "them in", "them", "in"]
+    answer: 1
+    topic: "13-phrasal-verbs"
+    explain: "Разделяемый фразовый глагол + местоимение: местоимение **между** частями — *fill them in*. Не ~~fill in them~~."
+  - q: "I've lived here for a year, but I still can't get used to ___ on the left."
+    options: ["have driven", "driving", "be driving", "drive"]
+    answer: 1
+    topic: "01-present-past"
+    explain: "**get / be used to** = «привыкнуть»; *to* — предлог, после него **-ing**."
+  - q: "The hotel ___ we stayed was right next to the beach."
+    options: ["at which", "which", "that", "at where"]
+    answer: 0
+    topic: "07-clauses"
+    explain: "Предлог + **which** = *where*: *the hotel at which we stayed*. Без предлога *which* здесь не работает."
+  - q: "I wonder ___ ."
+    options: ["why she left so early", "why left she so early", "why did she leave so early", "why she did leave so early"]
+    answer: 0
+    topic: "10-word-order"
+    explain: "После *I wonder* — косвенный вопрос с прямым порядком: *why she left*."
+  - q: "This is the third time you ___ me this week!"
+    options: ["had interrupted", "have interrupted", "are interrupting", "interrupted"]
+    answer: 1
+    topic: "01-present-past"
+    explain: "После **This is the first / second / third time** — Present Perfect."
+  - q: "What's the reason ___ the delay?"
+    options: ["for", "about", "to", "of"]
+    answer: 0
+    topic: "12-prepositions"
+    explain: "Устойчивое сочетание: **reason for** something. Не ~~reason of~~ (калька с «причина чего»)."
+  - q: "The people ___ in the flat upstairs are very noisy."
+    options: ["lived", "who living", "are living", "living"]
+    answer: 3
+    topic: "07-clauses"
+    explain: "Сокращённое придаточное: *who live* → **living**."
+  - q: "She looks ___ her mother — they have the same eyes."
+    options: ["as", "like", "alike", "such as"]
+    answer: 1
+    topic: "12-prepositions"
+    explain: "Сравнение «похожа на» → **look like** + существительное. *alike* стоит без дополнения: *They look alike*."
+  - q: "___ you need any help, just give me a call."
+    options: ["Would", "Were", "Should", "Had"]
+    answer: 2
+    topic: "04-conditionals"
+    explain: "Формальное условие с инверсией: **Should you need** = *If you need*."
+  - q: "We were made ___ for two hours before the doctor saw us."
+    options: ["waited", "to wait", "waiting", "wait"]
+    answer: 1
+    topic: "08-verb-patterns"
+    explain: "В пассиве у **make** появляется *to*: *We were made to wait*."
+  - q: "If only I ___ to my parents' advice when I was younger!"
+    options: ["have listened", "had listened", "listened", "would listen"]
+    answer: 1
+    topic: "04-conditionals"
+    explain: "Сожаление о прошлом → **if only + Past Perfect**."
+  - q: "What surprised me most ___ how calm she was."
+    options: ["was", "that", "it was", "were"]
+    answer: 0
+    topic: "11-linking"
+    explain: "Cleft sentence: *What … **was** …* — глагол *be* в единственном числе."
+  - q: "You ___ have seen Mark at the party — he was in Berlin that night."
+    options: ["shouldn't", "mustn't", "can't", "needn't"]
+    answer: 2
+    topic: "03-modals"
+    explain: "Уверенность, что в прошлом это было невозможно → **can't have + V3**."
+  - q: "It ___ that the company will cut 200 jobs."
+    options: ["has reported", "is reported", "is reporting", "reports"]
+    answer: 1
+    topic: "05-passive"
+    explain: "Безличный пассив: **It is reported / said / believed that…**"
+  - q: "He asked me ___ the day before."
+    options: ["where I had been", "where had I been", "where have I been", "where was I"]
+    answer: 0
+    topic: "06-reported-speech"
+    explain: "Косвенный вопрос: прямой порядок слов и сдвиг времени (*the day before* → Past Perfect)."
+  - q: "___ no point in arguing — he never changes his mind."
+    options: ["It's", "There's", "That's", "There"]
+    answer: 1
+    topic: "14-pronouns-adjectives"
+    explain: "Устойчивое выражение: **There's no point (in) + -ing**. Нужен глагол: *There* без *is* не работает."

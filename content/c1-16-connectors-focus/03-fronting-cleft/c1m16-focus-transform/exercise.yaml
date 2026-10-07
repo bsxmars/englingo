@@ -1,0 +1,71 @@
+title: "Перефразирование: инверсия и cleft (C1 Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово** без изменений и впиши от **трёх до шести слов** (включая ключевое).
+
+  Инверсия, cleft sentences и связки — постоянные гости C1 Advanced, Part 4.
+hints:
+  - "I didn't know… → Little did I know…; We didn't… until… → It was not until… that…"
+  - "The noise was so loud… → Such was the noise that…"
+  - "I only want… → All I want is…"
+items:
+  - q: "I had no idea at the time that the company was in such serious financial trouble."
+    key: "LITTLE"
+    stem: "At the time, ___ the company was in such serious financial trouble."
+    answers: ["little did I know that", "little did I realise that", "little did I realize that", "little did I suspect that", "little did I know", "little did I realise", "little did I realize", "little did I suspect"]
+    explain: "*I had no idea* → **Little did I know (that)**: инверсия с *did* после *little*. *that* можно опустить."
+  - q: "We didn't discover the error until the report had already been published."
+    key: "NOT"
+    stem: "It ___ the report had already been published that we discovered the error."
+    answers: ["was not until", "wasn't until", "was not till", "wasn't till", "was not until after", "wasn't until after"]
+    explain: "Модель **It was not until X that Y** — «только после X мы…». Время у *be* — прошедшее, как в исходном предложении."
+  - q: "The only way the club can avoid relegation is by winning its last three games."
+    key: "ONLY"
+    stem: "___ its last three games can the club avoid relegation."
+    answers: ["only by winning"]
+    explain: "*Only by + -ing* в начале, за ним инверсия *can the club avoid*. Здесь инверсия уже дана в основе, вписываем **Only by winning**."
+  - q: "The noise from the street was so loud that we couldn't hear ourselves think."
+    key: "SUCH"
+    stem: "___ from the street that we couldn't hear ourselves think."
+    answers: ["such was the noise"]
+    explain: "*so loud that* → **Such was the noise (that)…** — *such + be + подлежащее*. Прилагательное *loud* уходит, его значение несёт *such*."
+  - q: "Ella's attitude to her colleagues really annoys me."
+    key: "WHAT"
+    stem: "___ Ella's attitude to her colleagues."
+    answers: ["what really annoys me is", "what really irritates me is", "what really bothers me is"]
+    explain: "Wh-cleft: **What really annoys me is** + фокус. Наречие *really* нужно сохранить — без него теряется часть смысла."
+  - q: "I only want you to tell me the truth."
+    key: "ALL"
+    stem: "___ to tell me the truth."
+    answers: ["all I want is for you"]
+    explain: "*All* = «единственное, что»: **All I want is for you to…** Когда у инфинитива своё подлежащее, нужен *for you*."
+  - q: "The firm not only cut salaries but also closed two of its factories."
+    key: "ONLY"
+    stem: "Not ___ salaries, but it also closed two of its factories."
+    answers: ["only did the firm cut", "only did it cut"]
+    explain: "*Not only* в начале → инверсия: **Not only did the firm cut**. Во второй части прямой порядок: *but it also closed*."
+  - q: "Immediately after I had sent the email, I noticed the typo in the first line."
+    key: "SOONER"
+    stem: "No ___ than I noticed the typo in the first line."
+    answers: ["sooner had I sent the email", "sooner had I sent it"]
+    explain: "*No sooner had I + V3 … than…* — Past Perfect с инверсией и обязательное *than* (не *when*)."
+  - q: "You must never, whatever happens, give your password to anyone."
+    key: "CIRCUMSTANCES"
+    stem: "Under ___ your password to anyone."
+    answers: ["no circumstances should you give", "no circumstances must you give", "no circumstances are you to give", "no circumstances should you reveal", "no circumstances must you reveal"]
+    explain: "*Under no circumstances* — отрицательное выражение → инверсия с модальным: **should / must you give**."
+  - q: "Tom's lack of preparation caused the failure, not the difficulty of the task."
+    key: "WAS"
+    stem: "It ___ caused the failure, not the difficulty of the task."
+    answers: ["was Tom's lack of preparation that", "was Tom's lack of preparation which"]
+    explain: "It-cleft: **It was + фокус + that** + остаток предложения. Фокус здесь — *Tom's lack of preparation*."
+  - q: "She left the company because she was offered a better-paid job elsewhere."
+    key: "REASON"
+    stem: "The ___ that she was offered a better-paid job elsewhere."
+    answers: ["reason she left was", "reason why she left was", "reason she left the company was", "reason that she left was"]
+    explain: "**The reason (why) she left was that…** После *reason … was* — *that*, а не *because*."
+  - q: "The tickets were extremely expensive; however, the show was worth every penny."
+    key: "EVEN"
+    stem: "___ extremely expensive, the show was worth every penny."
+    answers: ["even though the tickets were"]
+    explain: "Связку *however* меняем на союз **even though** внутри одного предложения. После него — подлежащее и сказуемое."

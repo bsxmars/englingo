@@ -1,0 +1,106 @@
+title: "Итоговый тест: key word transformations"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое). Для зачёта нужно **60 %**.
+pass: 60
+items:
+  - q: "It's two years since I last saw Maria."
+    key: "SEEN"
+    stem: "I ___ two years."
+    answers: ["haven't seen Maria for", "have not seen Maria for", "haven't seen her for", "have not seen her for"]
+    explain: "*It's … since I last saw* = **haven't seen … for** + период. Present Perfect, потому что «не видел» длится до сих пор."
+  - q: "Working at night doesn't feel strange to me any more."
+    key: "USED"
+    stem: "I ___ at night."
+    answers: ["am used to working", "have got used to working", "have gotten used to working", "am now used to working", "have become used to working"]
+    explain: "«Привык» → **be / get used to + -ing**. *to* здесь предлог, поэтому *working*, а не *work*."
+  - q: "I'll finish the report before Friday."
+    key: "HAVE"
+    stem: "I ___ the report by Friday."
+    answers: ["will have finished", "will have done", "will have completed", "will have written"]
+    explain: "**by** + момент в будущем → Future Perfect: *will have finished*."
+  - q: "I'm sure Jane didn't take the money."
+    key: "CAN'T"
+    stem: "Jane ___ the money."
+    answers: ["can't have taken", "can't have stolen"]
+    explain: "Уверенность, что в прошлом чего-то не было → **can't have + V3**."
+  - q: "It wasn't necessary for you to bring a present, but you did."
+    key: "NEED"
+    stem: "You ___ a present."
+    answers: ["needn't have brought", "need not have brought"]
+    explain: "Сделал, хотя было не нужно → **needn't have + V3**. *didn't need to bring* не передаёт, что подарок всё-таки принесли."
+  - q: "I regret not studying harder at school."
+    key: "WISH"
+    stem: "I ___ harder at school."
+    answers: ["wish I had studied", "wish I'd studied", "wish I had worked"]
+    explain: "Сожаление о прошлом → **wish + Past Perfect**: *I wish I had studied*."
+  - q: "People say that the castle is haunted."
+    key: "SAID"
+    stem: "The castle ___ haunted."
+    answers: ["is said to be"]
+    explain: "*People say that…* → **be said to + глагол**: *The castle is said to be haunted*."
+  - q: "A mechanic is repairing my car at the moment."
+    key: "HAVING"
+    stem: "I ___ at the moment."
+    answers: ["am having my car repaired", "am having my car fixed"]
+    explain: "Кто-то делает это для меня сейчас → **have something done** в Present Continuous: *I'm having my car repaired*."
+  - q: "'Why don't we go to the beach?' said Tom."
+    key: "SUGGESTED"
+    stem: "Tom ___ to the beach."
+    answers: ["suggested going", "suggested that we go", "suggested we go", "suggested that we went", "suggested we went", "suggested that we should go", "suggested we should go", "suggested that they go", "suggested they go", "suggested that they should go"]
+    explain: "**suggest + -ing** или *suggest (that) we (should) go*. Не ~~suggested to go~~."
+  - q: "'I didn't break the vase,' said Lucy."
+    key: "DENIED"
+    stem: "Lucy ___ the vase."
+    answers: ["denied breaking", "denied having broken", "denied that she broke", "denied she broke", "denied that she had broken", "denied she had broken"]
+    explain: "**deny + -ing** (или *deny having + V3*): *Lucy denied breaking the vase*."
+  - q: "The woman lives next door. Her son is a doctor."
+    key: "WHOSE"
+    stem: "The woman ___ a doctor lives next door."
+    answers: ["whose son is"]
+    explain: "Принадлежность (*her son*) → **whose**: *the woman whose son is a doctor*."
+  - q: "My parents made me tidy my room every Saturday."
+    key: "WAS"
+    stem: "I ___ tidy my room every Saturday by my parents."
+    answers: ["was made to"]
+    explain: "В пассиве после **make** появляется *to*: *I was made to tidy my room*."
+  - q: "There weren't many people at the meeting."
+    key: "FEW"
+    stem: "Only ___ at the meeting."
+    answers: ["a few people were", "a few people turned up"]
+    explain: "*not many* = **only a few**. С исчисляемыми — *few*, не *little*."
+  - q: "Where is the nearest bank?"
+    key: "TELL"
+    stem: "Could you ___ the nearest bank is?"
+    answers: ["tell me where"]
+    explain: "Косвенный вопрос: **Could you tell me where** + прямой порядок слов (*the nearest bank is*)."
+  - q: "Although it rained heavily, the match continued."
+    key: "DESPITE"
+    stem: "The match continued ___ rain."
+    answers: ["despite the heavy"]
+    explain: "*Although + предложение* → **despite + существительное**: *despite the heavy rain*."
+  - q: "I have never been so embarrassed in my life."
+    key: "NEVER"
+    stem: "___ so embarrassed in my life."
+    answers: ["never have I been", "never before have I been", "never have I felt"]
+    explain: "*Never* в начале → инверсия: **Never have I been** so embarrassed."
+  - q: "You must return the book no later than Friday."
+    key: "BY"
+    stem: "You must ___ Friday."
+    answers: ["return the book by", "return it by", "bring the book back by", "bring back the book by", "give the book back by", "give back the book by", "take the book back by", "take back the book by", "bring it back by", "give it back by", "take it back by", "hand the book in by", "hand in the book by", "hand it in by"]
+    explain: "«Не позже чем» → **by** + срок. *until* здесь не подходит: оно значит, что действие длится до этого момента."
+  - q: "I can't tolerate his rudeness any more."
+    key: "UP"
+    stem: "I can't ___ his rudeness any more."
+    answers: ["put up with"]
+    explain: "«Терпеть, мириться» → фразовый глагол с предлогом **put up with**: все три части обязательны."
+  - q: "The film was so boring that we left before the end."
+    key: "SUCH"
+    stem: "It was ___ that we left before the end."
+    answers: ["such a boring film", "such a dull film"]
+    explain: "*so + прилагательное* → **such a + прилагательное + существительное**: *such a boring film*. Фильм вызывает скуку — значит *boring*, не *bored*."
+  - q: "Nobody could explain why the lights suddenly went out."
+    key: "EXPLANATION"
+    stem: "There was ___ why the lights suddenly went out."
+    answers: ["no explanation", "no explanation for", "no explanation of", "no explanation as to"]
+    explain: "Глагол *explain* → существительное **explanation**: *There was no explanation (as to) why…*"

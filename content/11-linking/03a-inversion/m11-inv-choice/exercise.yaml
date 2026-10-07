@@ -1,0 +1,55 @@
+title: "Инверсия или обычный порядок?"
+type: choice
+intro: "Выбери грамматически верный вариант. Помни: инверсия нужна только после отрицательного выражения, которое относится ко всему действию, и в предложениях с *Not until / Only when* — только в главной части."
+hints:
+  - "Hardly anyone / Not many people / Only Anna — это подлежащее, инверсии нет."
+  - "Had I known = If I had known; Should you need = If you need."
+items:
+  - q: "Under no circumstances ___ the fire doors be left open."
+    options: ["should", "you should", "do"]
+    answer: 0
+    explain: "После *Under no circumstances* — инверсия: модальный **should** перед подлежащим *the fire doors*."
+  - q: "Not until the results came out ___ how well she had done."
+    options: ["she realised", "did she realise", "she did realise"]
+    answer: 1
+    explain: "Придаточное *the results came out* — обычный порядок; в главной части инверсия: **did she realise**."
+  - q: "Only when you have finished the test ___ leave the room."
+    options: ["you may", "may you", "you can to"]
+    answer: 1
+    explain: "*Only when* + придаточное → инверсия в главной части: **may you leave**."
+  - q: "Hardly anyone ___ the new rules."
+    options: ["understood", "has understand", "did anyone understand"]
+    answer: 0
+    explain: "*Hardly* относится к подлежащему *anyone*, поэтому инверсии нет: **Hardly anyone understood**."
+  - q: "___ about the strike, I would have booked a different flight."
+    options: ["If had I known", "Had I known", "Did I know"]
+    answer: 1
+    explain: "Инверсия вместо *if* в третьем условном: **Had I known** = *If I had known*."
+  - q: "___ you require further information, please contact our office."
+    options: ["Should", "Would", "Do"]
+    answer: 0
+    explain: "**Should you require** = *If you require* — формальная инверсия для писем."
+  - q: "Little ___ that the stranger was a famous actor."
+    options: ["we knew", "did we know", "we did know"]
+    answer: 1
+    explain: "**Little did we know** — «мы и не подозревали»: после *Little* в начале — инверсия с *did*."
+  - q: "In no time, ___ ready to leave."
+    options: ["were we", "we were", "did we be"]
+    answer: 1
+    explain: "*In no time* = «очень быстро», это не отрицание → **обычный порядок**: *we were ready*."
+  - q: "So loud ___ that we couldn't hear each other."
+    options: ["the music was", "was the music", "did the music be"]
+    answer: 1
+    explain: "**So + прилагательное + be + подлежащее + that**: *So loud was the music that…*"
+  - q: "Nowhere else in the city ___ such a view of the river."
+    options: ["you can get", "can you get", "you get can"]
+    answer: 1
+    explain: "После *Nowhere* в начале — инверсия: **can you get**."
+  - q: "___ for the GPS, we would have got completely lost."
+    options: ["Hadn't it been", "Had it not been", "If it hadn't"]
+    answer: 1
+    explain: "Отрицание в условной инверсии — полной формой и после подлежащего: **Had it not been for…**"
+  - q: "Only Maria ___ the answer to the last question."
+    options: ["knew", "did know", "did Maria know"]
+    answer: 0
+    explain: "*Only* относится к подлежащему *Maria* → обычный порядок: **Only Maria knew**."

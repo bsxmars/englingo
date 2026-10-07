@@ -1,0 +1,40 @@
+title: "a shoe shop, a ten-minute walk, what a…"
+type: gap
+intro: "Впиши пропущенное. Если в скобках даны слова, составь из них словосочетание или притяжательную форму."
+hints:
+  - "Число + существительное перед другим существительным — через дефис и без -s: a two-day course."
+  - "What a + исчисляемое в единственном; What + множественное или неисчисляемое."
+items:
+  - q: "It's only a ___ (ten / minute) walk to the station."
+    answers: ["ten-minute", "ten minute"]
+    explain: "Число перед существительным — как прилагательное: **ten-minute**, без *-s*."
+  - q: "Their daughter is a very clever ___ (seven / year / old) girl."
+    answers: ["seven-year-old", "seven year old"]
+    explain: "**a seven-year-old girl** — *year* без *-s*, все части через дефис. Но без существительного: *She is seven years old*."
+  - q: "I'm doing a ___ (three / day) course in data analysis next week."
+    answers: ["three-day", "three day"]
+    explain: "**a three-day course** — снова единственное число внутри словосочетания."
+  - q: "— Where did you get those boots? — In a little ___ (shoes / shop) near the market."
+    answers: ["shoe shop"]
+    explain: "Первое существительное отвечает на вопрос «какой?» и стоит в единственном числе: **shoe shop**."
+  - q: "It was ___ boring lecture that half the audience left early."
+    answers: ["such a"]
+    explain: "Прилагательное + исчисляемое в единственном → **such a** boring lecture."
+  - q: "There were ___ many people at the station that we missed our train."
+    answers: ["so"]
+    explain: "Перед *many / much / few / little* — **so**: *so many people* (или *such a lot of people*)."
+  - q: "___ beautiful flowers! Are they from your garden?"
+    answers: ["What"]
+    explain: "Восклицание с множественным числом — **What** без *a*."
+  - q: "___ great idea! Let's do it this weekend."
+    answers: ["What a"]
+    explain: "Исчисляемое в единственном числе → **What a** great idea!"
+  - q: "Have you read ___ (today) news? There's an article about our company."
+    answers: ["today's"]
+    explain: "Притяжательная форма времени: **today's** news, *yesterday's paper, last week's meeting*."
+  - q: "The results will be ready in two ___ (week) time."
+    answers: ["weeks'"]
+    explain: "*in two weeks' time* — «через две недели». Множественное на *-s* получает только апостроф: **weeks'**."
+  - q: "The ___ (children) toys were lying all over the floor."
+    answers: ["children's"]
+    explain: "*children* — множественное без *-s*, поэтому добавляем **'s**: *children's*."

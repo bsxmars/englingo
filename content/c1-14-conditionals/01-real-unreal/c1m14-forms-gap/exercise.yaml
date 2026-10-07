@@ -1,0 +1,41 @@
+title: "Поставь глагол в нужную форму"
+type: gap
+intro: "Поставь глагол в скобках в подходящую форму. Подумай, о чём речь: закономерность, вероятное будущее, воображаемое настоящее или то, чего не было. Сокращения засчитываются."
+hints:
+  - "Прошлая закономерность: if + Past Simple, Past Simple — это не второй тип."
+  - "were to + инфинитив — формальная гипотеза."
+  - "would в if-части возможна, когда говорим о желаемом поведении другого человека."
+items:
+  - q: "If water ___ (reach) 100°C at sea level, it boils."
+    answers: ["reaches"]
+    explain: "Научный факт → factual: **Present Simple** в обеих частях."
+  - q: "When I was at school, if it ___ (snow) heavily, the buses simply stopped running."
+    answers: ["snowed"]
+    explain: "Реальная прошлая закономерность → **if + Past Simple**, главная часть тоже в Past. Это не второй тип."
+  - q: "If the government ___ (raise) fuel taxes again, there would be mass protests."
+    answers: ["raised", "were to raise", "was to raise"]
+    explain: "Гипотеза → **Past Simple** или формальное **were to raise**: предположение звучит ещё более отстранённо."
+  - q: "If I ___ (know) about the strike, I would have taken an earlier train."
+    answers: ["had known"]
+    explain: "Нереальное прошлое (не знал) → **Past Perfect** в if-части."
+  - q: "If she ___ (not / leave) her passport in the taxi, she might have caught the flight."
+    answers: ["had not left", "hadn't left"]
+    explain: "Counterfactual: *she left it* → *if she **hadn't left** it*. В главной части *might have* — меньше уверенности, чем *would have*."
+  - q: "If you ___ (need) to speak to an adviser, press 3."
+    answers: ["need"]
+    explain: "Инструкция → factual: **Present Simple** + императив."
+  - q: "Lunch would have been much better if we ___ (not / forget) the bread."
+    answers: ["had not forgotten", "hadn't forgotten"]
+    explain: "Нереальное прошлое → **Past Perfect**. if-часть может стоять второй — форма от этого не меняется."
+  - q: "If I ___ (be) in your position, I'd get a second opinion before signing."
+    answers: ["were", "was"]
+    explain: "Воображаемое настоящее → **were** (для всех лиц, формально) или разговорное *was*."
+  - q: "If he ___ (only / apologise), I'd be willing to forget the whole thing."
+    answers: ["would only apologise", "would only apologize", "only apologised", "only apologized"]
+    explain: "Желаемое поведение другого → **would only apologise** («если бы он только соизволил извиниться»). Простое *only apologised* тоже верно."
+  - q: "If they ___ (offer) me the post, I'm going to turn it down."
+    answers: ["offer"]
+    explain: "Predictive: вероятное будущее → **Present Simple**; в главной части — *be going to*, не только *will*."
+  - q: "If the paper ___ (turn) red, the solution is acidic."
+    answers: ["turns"]
+    explain: "Научное наблюдение → factual, **Present Simple**."

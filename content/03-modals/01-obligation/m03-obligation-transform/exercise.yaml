@@ -1,0 +1,53 @@
+title: "Перефразирование (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "It isn't necessary → don't have to / don't need to / needn't."
+  - "It's a good idea → should / ought to; It was necessary → had to."
+items:
+  - q: "It isn't necessary for you to bring anything."
+    key: "HAVE"
+    stem: "You ___ anything."
+    answers: ["don't have to bring", "haven't got to bring"]
+    explain: "«Нет необходимости» → **don't have to** + глагол."
+  - q: "Smoking is not permitted in the building."
+    key: "MUST"
+    stem: "You ___ in the building."
+    answers: ["must not smoke"]
+    explain: "«Не разрешено» = запрет → **mustn't smoke**."
+  - q: "I strongly advise you to see a lawyer, or you'll regret it."
+    key: "BETTER"
+    stem: "You ___ a lawyer."
+    answers: ["had better see", "had better talk to", "had better speak to", "had better consult"]
+    explain: "Совет с угрозой последствий → **had better** + инфинитив без *to*."
+  - q: "It was necessary for us to wait for two hours."
+    key: "HAD"
+    stem: "We ___ for two hours."
+    answers: ["had to wait"]
+    explain: "Необходимость в прошлом → **had to wait**."
+  - q: "It's a good idea to book a table in advance."
+    key: "OUGHT"
+    stem: "You ___ a table in advance."
+    answers: ["ought to book"]
+    explain: "Совет → **ought to** + глагол. Без *to* после *ought* нельзя."
+  - q: "There's no need for you to come to the meeting."
+    key: "NEED"
+    stem: "You ___ to the meeting."
+    answers: ["don't need to come", "needn't come"]
+    explain: "«Нет необходимости» → **don't need to come** или **needn't come** (после *needn't* — без *to*)."
+  - q: "Is it necessary for me to fill in this form?"
+    key: "HAVE"
+    stem: "Do ___ in this form?"
+    answers: ["I have to fill"]
+    explain: "Вопрос об обязанности → **Do I have to fill in…?**"
+  - q: "Employees are required to wear ID badges."
+    key: "MUST"
+    stem: "Employees ___ ID badges."
+    answers: ["must wear", "must always wear"]
+    explain: "«Обязаны» по правилу → **must wear**."
+  - q: "You aren't allowed to use calculators in this exam."
+    key: "MUSTN'T"
+    stem: "You ___ calculators in this exam."
+    answers: ["mustn't use"]
+    explain: "«Не разрешено» = **mustn't use**."

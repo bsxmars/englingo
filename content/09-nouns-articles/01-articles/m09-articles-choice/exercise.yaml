@@ -1,0 +1,55 @@
+title: "a, an, the или без артикля"
+type: choice
+intro: "Выбери артикль. Вариант «—» значит, что артикль не нужен."
+hints:
+  - "Слушатель знает, какой именно? → the. Один из многих, первое упоминание → a/an. Вообще, во множественном или неисчисляемое → без артикля."
+  - "a или an решает первый **звук**: an hour, a university."
+items:
+  - q: "My sister is ___ architect."
+    options: ["a", "an", "the", "—"]
+    answer: 1
+    explain: "Профессия → неопределённый артикль. *architect* начинается с гласного звука → **an**."
+  - q: "I bought a jacket and a pair of jeans. ___ jacket was on sale."
+    options: ["A", "An", "The", "—"]
+    answer: 2
+    explain: "Второе упоминание: слушатель уже знает, о какой куртке речь → **The**."
+  - q: "___ moon was so bright last night that we didn't need a torch."
+    options: ["A", "The", "—"]
+    answer: 1
+    explain: "Луна одна на всех, единственная в своём роде → **the moon**."
+  - q: "___ life in a big city can be really stressful."
+    options: ["A", "The", "—"]
+    answer: 2
+    explain: "Общее утверждение о жизни вообще → без артикля. ~~The life~~ — классическая ошибка русскоговорящих."
+  - q: "We usually have ___ dinner at about seven."
+    options: ["a", "the", "—"]
+    answer: 2
+    explain: "Приёмы пищи без прилагательного — без артикля: **have dinner**, **have breakfast**."
+  - q: "Is there ___ bank near here?"
+    options: ["a", "the", "—"]
+    answer: 0
+    explain: "Какой-нибудь банк, любой из многих → **a**. *the bank* значило бы, что мы оба знаем, какой."
+  - q: "It was ___ best concert I've ever been to."
+    options: ["a", "the", "—"]
+    answer: 1
+    explain: "Перед превосходной степенью всегда **the**: *the best, the worst, the most…*"
+  - q: "She was born in ___ Netherlands but grew up in Canada."
+    options: ["a", "the", "—"]
+    answer: 1
+    explain: "Название страны во множественном числе → **the Netherlands**. *Canada* — обычная страна, без артикля."
+  - q: "They sailed across ___ Atlantic in a small boat."
+    options: ["an", "the", "—"]
+    answer: 1
+    explain: "Океаны, моря и реки — с **the**: *the Atlantic, the Black Sea, the Volga*."
+  - q: "Our startup was bought by ___ European company that nobody had heard of."
+    options: ["a", "an", "the"]
+    answer: 0
+    explain: "Компания новая для слушателя → неопределённый артикль. *European* начинается со звука /j/ (как «ю») → **a**, не *an*."
+  - q: "I'm so tired — I'm going to ___ bed."
+    options: ["a", "the", "—"]
+    answer: 2
+    explain: "*go to bed* = ложиться спать, речь о назначении, а не о предмете мебели → без артикля."
+  - q: "Could you pass me ___ salt, please?"
+    options: ["a", "the", "—"]
+    answer: 1
+    explain: "Соль на столе, оба видим, какую → **the salt**."

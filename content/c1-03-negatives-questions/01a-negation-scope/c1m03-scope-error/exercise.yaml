@@ -1,0 +1,44 @@
+title: "Отрицание в тонкостях: найди ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: двойное отрицание, неверное место still / either, hope с переносом отрицания, неверная связка. Исправь её и отправь предложение целиком."
+hints:
+  - "С hope отрицание остаётся в придаточном: I hope it doesn't…"
+  - "В отрицании «тоже» — either, а не too."
+  - "still стоит перед отрицанием: still hasn't."
+items:
+  - q: "I don't hope the weather will spoil the ceremony."
+    answers: ["I hope the weather won't spoil the ceremony.", "I hope the weather doesn't spoil the ceremony.", "I hope the weather will not spoil the ceremony."]
+    explain: "*hope* не переносит отрицание в главную часть: **I hope the weather won't spoil…**"
+  - q: "She doesn't work for the agency no longer."
+    answers: ["She doesn't work for the agency any longer.", "She doesn't work for the agency any more.", "She doesn't work for the agency anymore.", "She no longer works for the agency."]
+    explain: "Двойное отрицание: либо **doesn't… any longer / any more**, либо **no longer works**."
+  - q: "The contractor hasn't still sent the revised quote."
+    answers: ["The contractor still hasn't sent the revised quote.", "The contractor hasn't sent the revised quote yet.", "The contractor still has not sent the revised quote."]
+    explain: "*still* в отрицании стоит **перед** вспомогательным с *not*: **still hasn't sent**. Нейтральный вариант — *hasn't sent… yet*."
+  - q: "— Do you think it'll be cancelled? — I don't hope so."
+    answers: ["— Do you think it'll be cancelled? — I hope not."]
+    explain: "Краткий отрицательный ответ с *hope* — только **I hope not**. Сравни: *I don't think so / I think not*."
+  - q: "I haven't read the report and I don't intend to read it too."
+    answers: ["I haven't read the report and I don't intend to read it either.", "I haven't read the report and I don't intend to read it."]
+    explain: "«Тоже» в отрицательной клаузе — **either**, не *too*."
+  - q: "There is no evidence whatsoever to suggest that nobody was negligent."
+    answers: ["There is no evidence whatsoever to suggest that anybody was negligent.", "There is no evidence whatsoever to suggest that anyone was negligent."]
+    explain: "Смысл — «нет доказательств, что кто-то был небрежен». После отрицания в главной части нужно **anybody / anyone**; *nobody* даёт двойное отрицание и переворачивает смысл."
+  - q: "We have neither the budget or the staff to take on another project."
+    answers: ["We have neither the budget nor the staff to take on another project."]
+    explain: "Пара *neither… nor* не смешивается с *or*: **neither the budget nor the staff**. С *or* — *We don't have the budget or the staff*."
+  - q: "The proposal is not without its merit, but it isn't nothing new."
+    answers: ["The proposal is not without its merit, but it isn't anything new.", "The proposal is not without its merit, but it is nothing new.", "The proposal is not without its merits, but it isn't anything new."]
+    explain: "Литота *not without* допустима, а *isn't nothing* — ошибочное двойное отрицание: **isn't anything new** или **is nothing new**."
+  - q: "The conclusions are far from being not convincing; in fact, they are compelling."
+    answers: ["The conclusions are far from unconvincing; in fact, they are compelling.", "The conclusions are far from being unconvincing; in fact, they are compelling."]
+    explain: "*far from* уже несёт отрицание; к нему добавляют прилагательное, а не *not*: **far from unconvincing**. Это литота: «вполне убедительны»."
+  - q: "I don't think so that the figures have been checked."
+    answers: ["I don't think that the figures have been checked.", "I don't think the figures have been checked."]
+    explain: "*so* заменяет придаточное только в кратком ответе (*I don't think so*). Если придаточное есть, *so* лишнее: **I don't think (that) the figures…**"
+  - q: "He didn't even not say goodbye before he left."
+    answers: ["He didn't even say goodbye before he left."]
+    explain: "*not even* — одно отрицание: **didn't even say**. Второе *not* — калька русского «даже не… не…»."
+  - q: "Hardly none of the delegates stayed for the closing session."
+    answers: ["Hardly any of the delegates stayed for the closing session.", "Almost none of the delegates stayed for the closing session."]
+    explain: "*hardly* уже отрицательное: после него **any**, не *none*. Либо **Almost none of** the delegates…"

@@ -1,0 +1,44 @@
+title: "Найди ошибку: время и образ действия"
+type: error
+intro: "В каждом предложении **одна** ошибка: союз, время глагола или порядок слов. Исправь и отправь предложение целиком."
+hints:
+  - "В придаточном времени будущее выражают настоящим временем."
+  - "Пары фиксированы: no sooner… than, hardly / scarcely… when."
+  - "Параллельное изменение — as, а не while."
+items:
+  - q: "I'll send you the figures as soon as I will get them from accounts."
+    answers: ["I'll send you the figures as soon as I get them from accounts.", "I'll send you the figures as soon as I've got them from accounts.", "I'll send you the figures as soon as I've gotten them from accounts."]
+    explain: "После **as soon as** будущее передаёт Present Simple или Present Perfect: *as soon as I **get** them*. *will* в придаточном времени — ошибка."
+  - q: "No sooner had the plane landed when the passengers started unbuckling their seatbelts."
+    answers: ["No sooner had the plane landed than the passengers started unbuckling their seatbelts."]
+    explain: "Пара фиксирована: **no sooner… than**. *when* идёт в паре с *hardly / scarcely*."
+  - q: "Hardly the meeting had started when the fire alarm went off."
+    answers: ["Hardly had the meeting started when the fire alarm went off.", "The meeting had hardly started when the fire alarm went off."]
+    explain: "Фронтированное отрицательное наречие требует **инверсии**: *Hardly **had the meeting** started…* Без инверсии *hardly* ставится после *had*."
+  - q: "While the deadline approached, the atmosphere in the office grew more and more tense."
+    answers: ["As the deadline approached, the atmosphere in the office grew more and more tense."]
+    explain: "Два процесса меняются параллельно («по мере того как») → **as**. *while* описывает фон, а не синхронное изменение."
+  - q: "After the row, he behaved as if nothing has happened."
+    answers: ["After the row, he behaved as if nothing had happened.", "After the row, he behaved as though nothing had happened."]
+    explain: "Главная часть в прошлом, а «ничего не случилось» — раньше неё и не соответствует действительности → Past Perfect: *as if nothing **had happened***."
+  - q: "We haven't had a single complaint since we have launched the new version."
+    answers: ["We haven't had a single complaint since we launched the new version."]
+    explain: "После **since** точка отсчёта — законченное событие в прошлом → Past Simple: *since we **launched***. Present Perfect после since возможен только для состояния, которое длится."
+  - q: "By the time we will arrive, the film will have started."
+    answers: ["By the time we arrive, the film will have started.", "By the time we get there, the film will have started."]
+    explain: "**by the time** — тоже союз времени: будущее в нём не ставится. *By the time we **arrive***."
+  - q: "It feels as winter today, even though it's only September."
+    answers: ["It feels like winter today, even though it's only September."]
+    explain: "Перед существительным в значении «как будто, похоже на» нужен предлог **like**: *feels **like** winter*. *as winter* значило бы «в качестве зимы»."
+  - q: "Don't act as a child — just tell me what's wrong."
+    answers: ["Don't act like a child — just tell me what's wrong."]
+    explain: "«Как ребёнок» в смысле сравнения → **like a child**. *as a child* = «в роли ребёнка / в детстве»."
+  - q: "Stir the mixture before it thickens, then remove it from the heat."
+    answers: ["Stir the mixture until it thickens, then remove it from the heat."]
+    explain: "Действие длится **до** момента, когда соус загустеет → **until**. *before it thickens* значило бы «прекрати мешать раньше, чем загустеет»."
+  - q: "The moment when the doors opened, the crowd rushed in."
+    answers: ["The moment the doors opened, the crowd rushed in.", "The moment that the doors opened, the crowd rushed in."]
+    explain: "**the moment (that)** работает как союз = *as soon as*; *when* после него лишнее."
+  - q: "Scarcely had I closed my eyes than the baby started crying."
+    answers: ["Scarcely had I closed my eyes when the baby started crying.", "Scarcely had I closed my eyes before the baby started crying."]
+    explain: "**scarcely / hardly** идут в паре с **when** (реже *before*); *than* — только после *no sooner*."

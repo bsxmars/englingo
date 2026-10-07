@@ -1,0 +1,44 @@
+title: "what to do, for sb to do, instead of doing"
+type: gap
+intro: "Впиши недостающее. Где в скобках дан глагол, поставь его в нужную форму (иногда вместе с предлогом или вопросительным словом). Где скобок нет, впиши одно слово."
+hints:
+  - "Вопросительное слово + to: what to do, how to start; перед инфинитивом — whether, а не if."
+  - "Исполнитель инфинитива — через for: It's hard for me to…; оценка поведения — of: kind of you."
+  - "После предлогов (instead of, by, without, despite, on) — -ing."
+items:
+  - q: "I've never used this program. Can you show me ___ (open) a new file?"
+    answers: ["how to open"]
+    explain: "«Как открыть» → **how to open**: вопросительное слово + to-инфинитив, без *should* и *can*."
+  - q: "We can't decide ___ to sell the car or keep it for another year."
+    answers: ["whether"]
+    explain: "Перед инфинитивом — только **whether**: *decide whether to sell*. *if to sell* невозможно."
+  - q: "It's really important ___ all passengers to keep their seatbelts on."
+    answers: ["for"]
+    explain: "У инфинитива свой исполнитель (*all passengers*) → **for** + кто + to: *important for all passengers to keep*."
+  - q: "It was very generous ___ your parents to pay for the wedding."
+    answers: ["of"]
+    explain: "Оцениваем поведение родителей (*they were generous*) → **of**: *generous of your parents*."
+  - q: "Let's cook at home tonight instead of ___ (order) another pizza."
+    answers: ["ordering"]
+    explain: "После предлога **instead of** — только -ing: *instead of ordering*."
+  - q: "I managed to save the document ___ (press) Ctrl+S just before the laptop died."
+    answers: ["by pressing"]
+    explain: "Способ («нажав») → **by + -ing**: *by pressing*."
+  - q: "She was afraid ___ (say) anything, so she just nodded."
+    answers: ["to say"]
+    explain: "Не решилась сказать и не сказала → **afraid to say**."
+  - q: "Many people are afraid ___ (lose) their jobs because of AI."
+    answers: ["of losing"]
+    explain: "Боятся, что это **случится** помимо их воли → **afraid of + -ing**: *afraid of losing*."
+  - q: "Sorry ___ (bother) you, but could you sign this form?"
+    answers: ["to bother"]
+    explain: "Извиняемся за то, что делаем **сейчас** → **sorry to bother**."
+  - q: "We're still waiting ___ the landlord to fix the heating."
+    answers: ["for"]
+    explain: "«Ждём, когда хозяин починит» → **wait for sb to do**. ~~waiting that the landlord fixes~~ — калька."
+  - q: "I'm not sure ___ (wear) to the interview. Is a suit too much?"
+    answers: ["what to wear"]
+    explain: "«Что надеть» → **what to wear**."
+  - q: "___ (despite / feel) exhausted, she finished the marathon."
+    answers: ["Despite feeling", "In spite of feeling"]
+    explain: "После **despite** — -ing и без *of*: *Despite feeling*. Вариант с *of*: *In spite of feeling*."

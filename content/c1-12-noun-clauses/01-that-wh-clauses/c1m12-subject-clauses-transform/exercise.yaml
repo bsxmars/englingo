@@ -1,0 +1,58 @@
+title: "Трансформации: придаточное как подлежащее (C1 Advanced, Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "The thing that… → What…; It… that… ↔ That… is…"
+  - "think / find / consider it + adj + that…; regard sth as…"
+items:
+  - q: "Everyone was surprised that the bill passed so easily."
+    key: "IT"
+    stem: "___ that the bill passed so easily."
+    answers: ["It surprised everyone", "It was a surprise to everyone", "It came as a surprise to everyone"]
+    explain: "Пустое *it* + глагол, придаточное в конце: **It surprised everyone** that…"
+  - q: "More time is the only thing I need."
+    key: "WHAT"
+    stem: "___ more time."
+    answers: ["What I need is"]
+    explain: "*What* = «то, что»: **What I need is** more time. Придаточное — подлежащее, *is* — сказуемое."
+  - q: "Nobody knows how the virus first reached the island."
+    key: "MYSTERY"
+    stem: "How the virus first reached the island ___ ."
+    answers: ["is a mystery", "remains a mystery", "is still a mystery", "is a complete mystery", "is a total mystery", "remains a complete mystery"]
+    explain: "wh-придаточное в роли подлежащего + *is / remains a mystery*."
+  - q: "It is obvious that the minister was misled."
+    key: "THAT"
+    stem: "___ was misled is obvious."
+    answers: ["That the minister"]
+    explain: "Придаточное переходит в начало как подлежащее; *that* обязателен."
+  - q: "She thought it was strange that nobody had replied to her email."
+    key: "ODD"
+    stem: "She thought ___ nobody had replied to her email."
+    answers: ["it odd that", "it rather odd that", "it very odd that", "it a bit odd that", "it quite odd that"]
+    explain: "*think + **it** + прилагательное + that*: *thought it odd that*."
+  - q: "It isn't important whether you agree with me or not."
+    key: "MATTER"
+    stem: "Whether you agree with me or not ___ ."
+    answers: ["does not matter", "doesn't matter", "does not really matter", "doesn't really matter", "does not matter at all", "doesn't matter at all"]
+    explain: "Придаточное с *whether* — подлежащее, сказуемое *doesn't matter*."
+  - q: "The thing that annoys me is his constant lateness."
+    key: "WHAT"
+    stem: "___ is his constant lateness."
+    answers: ["What annoys me", "What really annoys me"]
+    explain: "*The thing that* → **What**: *What annoys me is…*"
+  - q: "I really dislike it if people interrupt me."
+    key: "HATE"
+    stem: "I ___ people interrupt me."
+    answers: ["hate it when", "hate it if", "really hate it when", "really hate it if"]
+    explain: "*hate **it** when / if…* — пустое дополнение *it* обязательно."
+  - q: "Many people think the new tax is unfair."
+    key: "REGARD"
+    stem: "Many people ___ unfair."
+    answers: ["regard the new tax as"]
+    explain: "*regard sth **as** + прилагательное*."
+  - q: "We don't know if the deal will go ahead."
+    key: "UNCLEAR"
+    stem: "It ___ the deal will go ahead."
+    answers: ["is unclear whether", "is unclear if", "is still unclear whether", "is still unclear if", "remains unclear whether", "remains unclear if"]
+    explain: "Пустое *it* + *is unclear* + **whether / if** — в конце допустимы оба."

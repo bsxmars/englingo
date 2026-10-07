@@ -1,0 +1,43 @@
+title: "Word formation C1"
+type: gap
+intro: "Образуй от слова в скобках форму, которая подходит к пропуску. Часто нужно сразу несколько изменений: приставка, суффикс, множественное число или наречие. Британское и американское написание (*-ise / -ize*) засчитываются оба."
+hints:
+  - "Определи часть речи, число и знак (положительное или отрицательное значение)."
+  - "Отрицание: un- (unprecedented), in- (inconclusive), ir- (irreversible), mis- (mismanagement), non- (non-committal)."
+items:
+  - q: "The rise in global temperatures over the past decade has been ___ (PRECEDENT)."
+    answers: ["unprecedented"]
+    explain: "После *has been* — прилагательное. *precedent* → *precedented* → **unprecedented** — «беспрецедентный»."
+  - q: "The results of the first trial were ___ (CONCLUDE), so a second study was commissioned."
+    answers: ["inconclusive"]
+    explain: "Понадобилось второе исследование → результаты не дали ответа. *conclude* → *conclusive* → **inconclusive**."
+  - q: "Her performance in the final was ___ (COMPARE) better than anything she had produced before."
+    answers: ["incomparably"]
+    explain: "Перед *better* — наречие-усилитель. *compare* → *comparable* → *incomparable* → **incomparably**: три изменения."
+  - q: "The rapid ___ (INDUSTRY) of the region in the nineteenth century transformed its landscape."
+    answers: ["industrialisation", "industrialization"]
+    explain: "После *the rapid* — существительное-процесс: *industry* → *industrial* → *industrialise* → **industrialisation**."
+  - q: "Despite repeated ___ (ASSURE) from the management, staff remained anxious about their jobs."
+    answers: ["assurances", "reassurances"]
+    explain: "После *repeated* без артикля — исчисляемое во множественном числе: **assurances** (или *reassurances*)."
+  - q: "Scientists fear that the damage to the coral reef may already be ___ (REVERSE)."
+    answers: ["irreversible"]
+    explain: "*reverse* → *reversible*; перед *r* отрицательная приставка **ir-**: **irreversible**."
+  - q: "The minister's reply was deliberately ___ (COMMIT), giving no clear answer either way."
+    answers: ["non-committal", "noncommittal"]
+    explain: "«Уклончивый, ни к чему не обязывающий» → **non-committal**. Обрати внимание на двойное *tt*."
+  - q: "The ___ (RELY) of the data has been seriously called into question."
+    answers: ["reliability"]
+    explain: "После *the* — существительное: *rely* → *reliable* → **reliability** (*-y* меняется на *-i*)."
+  - q: "Many patients ___ (ESTIMATE) how long it takes to recover from surgery and return to work far too soon."
+    answers: ["underestimate"]
+    explain: "Возвращаются слишком рано → недооценивают срок: **underestimate**. Подлежащее во множественном числе, время — Present Simple."
+  - q: "The company was hit by a series of ___ (FORESEE) problems in its first year of trading."
+    answers: ["unforeseen", "unforeseeable"]
+    explain: "«Непредвиденные» проблемы → **unforeseen** (V3 + *un-*). *unforeseeable* — «которые невозможно было предвидеть» — тоже подходит."
+  - q: "She has campaigned ___ (TIRE) for better care for elderly patients."
+    answers: ["tirelessly", "untiringly"]
+    explain: "После глагола — наречие: *tire* → *tireless* → **tirelessly** — «неустанно»."
+  - q: "Years of financial ___ (MANAGE) left the club with debts of over £40 million."
+    answers: ["mismanagement"]
+    explain: "Долги → управляли плохо: приставка **mis-** («неправильно») + *-ment*: **mismanagement**."

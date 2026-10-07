@@ -1,0 +1,63 @@
+title: "Перефразирование с зависимыми предлогами (C1 Advanced, Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово** без изменений и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "Глагол → существительное: affect → effect on, demand → demand for, increase → increase in."
+  - "accuse sb of -ing, prevent sb from -ing, blame sth on sb."
+items:
+  - q: "“You copied your essay from the internet,” the teacher said to Max."
+    key: "ACCUSED"
+    stem: "The teacher ___ his essay from the internet."
+    answers: ["accused Max of copying", "accused him of copying", "accused Max of having copied", "accused him of having copied"]
+    explain: "**accuse sb of + -ing**. Перфектный герундий *having copied* подчёркивает, что действие было раньше, но и простой герундий верен."
+  - q: "The new motorway has badly affected tourism in the valley."
+    key: "EFFECT"
+    stem: "The new motorway has ___ tourism in the valley."
+    answers: ["had a bad effect on", "had a negative effect on", "had a damaging effect on", "had a serious effect on", "had a harmful effect on", "had a detrimental effect on", "had an adverse effect on", "had a very bad effect on", "had a severe effect on"]
+    explain: "Глагол *affect* → существительное **effect on**. Наречие *badly* превращается в прилагательное: *a bad / negative effect*."
+  - q: "Customers increasingly want electric vehicles."
+    key: "DEMAND"
+    stem: "There is ___ electric vehicles."
+    answers: ["a growing demand for", "an increasing demand for", "a rising demand for", "increasing demand for", "growing demand for", "rising demand for", "more and more demand for", "a greater demand for", "greater demand for"]
+    explain: "**demand for** + существительное. *increasingly* превращается в прилагательное *growing / increasing*."
+  - q: "The number of cyclists in the city has risen sharply."
+    key: "SHARP"
+    stem: "There has been ___ the number of cyclists in the city."
+    answers: ["a sharp rise in", "a sharp increase in", "a sharp growth in"]
+    explain: "Что выросло → **a rise / an increase in**. Наречие *sharply* становится прилагательным *sharp*."
+  - q: "The fog meant that none of the planes could land."
+    key: "PREVENTED"
+    stem: "The fog ___ landing."
+    answers: ["prevented all the planes from", "prevented any of the planes from", "prevented the planes from", "prevented all of the planes from", "prevented every plane from", "prevented all planes from"]
+    explain: "**prevent sb / sth from + -ing**. Отрицание *none of … could* уходит в сам глагол *prevent*."
+  - q: "The manager said the failure of the project was the fault of the IT department."
+    key: "BLAMED"
+    stem: "The manager ___ the IT department."
+    answers: ["blamed the failure of the project on", "blamed the project's failure on", "blamed the failure on", "blamed the project failure on"]
+    explain: "**blame sth on sb** — вину «кладут на» кого-то. Другая модель — *blamed the IT department for the failure*, но в этой основе отдел стоит в конце."
+  - q: "I don't mind if you work late, but I'd rather you didn't work at weekends."
+    key: "OBJECTION"
+    stem: "I have ___ late, but I'd rather you didn't work at weekends."
+    answers: ["no objection to your working", "no objection to you working", "no objection to working", "no objections to your working", "no objections to you working"]
+    explain: "**objection to + -ing**: *to* здесь предлог. Перед герундием возможно *your* (формально) или *you* (разговорно)."
+  - q: "Using a computer model, the team predicted the spread of the virus."
+    key: "MEANS"
+    stem: "The team predicted the spread of the virus ___ computer model."
+    answers: ["by means of a"]
+    explain: "**by means of** — формальное «с помощью, посредством». После составного предлога — существительное с артиклем: *by means of a model*."
+  - q: "The proposal was opposed by most of the residents."
+    key: "FAVOUR"
+    stem: "Most of the residents were ___ the proposal."
+    answers: ["not in favour of", "not at all in favour of", "not in the least in favour of"]
+    explain: "**in favour of** — «за». Чтобы сохранить смысл «против», нужно отрицание: *not in favour of*."
+  - q: "Her research is mainly about the history of medicine."
+    key: "CONCERNED"
+    stem: "Her research is ___ the history of medicine."
+    answers: ["mainly concerned with", "chiefly concerned with", "principally concerned with", "largely concerned with", "primarily concerned with", "concerned mainly with", "concerned chiefly with", "concerned primarily with", "concerned largely with"]
+    explain: "**concerned with** — «посвящена, занимается». *concerned about* значило бы «обеспокоена» — это другой смысл."
+  - q: "Our new range of products is designed to follow the latest safety regulations."
+    key: "LINE"
+    stem: "Our new range of products is designed to be ___ safety regulations."
+    answers: ["in line with the latest"]
+    explain: "**in line with** — «в соответствии с», синоним *in accordance with*. Предлог внутри устойчивого выражения не меняется."

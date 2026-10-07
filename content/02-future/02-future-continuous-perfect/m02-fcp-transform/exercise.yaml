@@ -1,0 +1,48 @@
+title: "Перефразирование (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "«закончу до пятницы» = will have + V3 + by."
+  - "«буду в процессе в момент X» = will be + -ing."
+items:
+  - q: "I'll finish the report before Friday."
+    key: "HAVE"
+    stem: "I ___ by Friday."
+    answers: ["will have finished the report", "will have finished it", "'ll have finished the report", "'ll have finished it", "will have completed the report", "will have completed it"]
+    explain: "Результат к сроку → **will have finished** … **by** Friday."
+  - q: "Our exam starts at nine and finishes at twelve tomorrow."
+    key: "DOING"
+    stem: "At ten o'clock tomorrow, we ___ exam."
+    answers: ["will be doing our", "will be doing the", "will be doing an", "will still be doing our", "will still be doing the"]
+    explain: "В 10 часов экзамен будет в процессе → Future Continuous: **will be doing our** exam."
+  - q: "We moved here in 2020, so in 2030 it will be ten years."
+    key: "LIVED"
+    stem: "By 2030, we ___ ten years."
+    answers: ["will have lived here for", "'ll have lived here for"]
+    explain: "Сколько пройдёт к моменту в будущем → **will have lived here for** ten years."
+  - q: "We're going to start eating at seven. Tom is arriving at eight."
+    key: "STARTED"
+    stem: "When Tom arrives, we ___ eating."
+    answers: ["will have started", "will have already started", "will already have started"]
+    explain: "К приходу Тома ужин уже начнётся → Future Perfect: **will have started**. После *when* — Present (*arrives*)."
+  - q: "Are you planning to see Anna today? Could you give her this book?"
+    key: "SEEING"
+    stem: "___ Anna today? Could you give her this book?"
+    answers: ["Will you be seeing", "Are you seeing", "Are you going to be seeing"]
+    explain: "Вежливый вопрос о планах → **Will you be seeing** Anna today?"
+  - q: "We'll finish cleaning the flat at six, and the guests are coming at seven."
+    key: "CLEANED"
+    stem: "We ___ the flat by the time the guests come."
+    answers: ["will have cleaned", "'ll have cleaned"]
+    explain: "К приходу гостей уборка будет закончена → **will have cleaned**."
+  - q: "I'm going to spend all of next week travelling around Spain."
+    key: "TRAVELLING"
+    stem: "This time next week, I ___ around Spain."
+    answers: ["will be travelling", "'ll be travelling", "am travelling", "am going to be travelling", "will still be travelling"]
+    explain: "Процесс в момент будущего (**this time next week**) → **will be travelling**."
+  - q: "My sister started her job last September, so next September it will be a year."
+    key: "WORKED"
+    stem: "By next September, my sister ___ for a year."
+    answers: ["will have worked there", "'ll have worked there"]
+    explain: "Длительность к моменту в будущем → **will have worked there** for a year."

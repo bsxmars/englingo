@@ -1,0 +1,83 @@
+title: "Who exactly is 'one'?"
+type: reading
+intro: "Прочитай эссе и ответь на вопросы. Вопросы с вариантами — в стиле C1 Advanced, Part 5; в остальных впиши слово или короткую фразу из текста."
+hints:
+  - "Вопросы идут в порядке текста."
+  - "В вопросах о ссылке (what does 'this' refer to?) перечитай предложение до местоимения."
+  - "Неверные варианты часто повторяют слова текста, но искажают их смысл."
+text: |
+  ## Who exactly is 'one'?
+
+  There is a particular kind of sentence that every learner of English eventually meets and few ever learn to love. *One should always read the small print.* *One never knows what to expect.* It sounds dignified, a little old-fashioned and, to many modern ears, faintly ridiculous. Yet the problem it was designed to solve has not gone away. Every language needs a way of talking about people in general, and English, it turns out, has rather too many.
+
+  Consider the options. A speaker who wants to say that a rule applies to everybody can choose *one*, *you*, *we*, *they*, a passive construction, or a noun such as *people*. Each of these does roughly the same job, but none of them does it neutrally. *One* signals formality, and perhaps a touch of social distance. *You* is friendly and inclusive, but it can slip easily into sounding like an instruction, as anyone who has been told *you shouldn't leave it so late* will know. *We* invites the listener into a shared community, which is precisely why it is so popular with politicians and textbook writers. *They* does the opposite: it points to a vague group somewhere else, usually in authority, and rarely in a flattering light. *They've closed the library again.* Nobody asks who 'they' are, and nobody needs to.
+
+  It is tempting to see this abundance as a weakness. Surely a language would be more efficient if it had a single, neutral word for 'a person in general'? Some languages do have such a word, and speakers of those languages often find English choices puzzling. But there is another way of looking at it. Because English offers so many alternatives, speakers can signal their attitude without ever stating it. Choosing *one* over *you* is a small social decision, and native speakers make dozens of such decisions every day, mostly without noticing that they are doing so.
+
+  The same is true of a far more controversial pronoun. For centuries, grammar books insisted that a sentence such as *Everyone should bring their own lunch* was incorrect, because *everyone* is singular and *their* is plural. The approved alternative was *his*, on the grounds that the masculine form included women as well. This argument was always somewhat strained, and it became harder to defend as society changed. Writers who wished to avoid it tried *he or she*, which is accurate but clumsy, especially when it has to be repeated three times in a paragraph. Some experimented with invented forms; none of these caught on.
+
+  What did catch on, or rather what had never gone away, was singular *they*. Ordinary speakers had been using it for hundreds of years, and so had a number of respected writers. There seems to have been little confusion as a result. When someone says *Somebody left their coat behind*, nobody imagines that a crowd of people shared a single coat. Today, most major style guides accept singular *they*, and many actively recommend it. It is worth noting that this was not a revolution imposed from above. If anything, the rule-makers were simply catching up with usage that had been there all along.
+
+  None of this means that pronoun choice has become easy. On the contrary, it requires more sensitivity than ever. A writer producing a formal report will probably avoid *you*; one writing a friendly blog post will probably avoid *one*. Academic writers tend to favour *we*, though some editors dislike it and others insist on it. There are bound to be occasions when every option sounds slightly wrong, and on those occasions the passive, for all its faults, can come to the rescue: *Applications should be submitted by Friday* avoids the question of who is doing the submitting altogether.
+
+  That, perhaps, is the real lesson for learners. Mastering English pronouns is not a matter of memorising which form is 'correct'. It is a matter of developing an ear for what each one implies, and choosing accordingly. A learner who writes *One must consider the costs* in a casual email has made no grammatical error, yet something has gone wrong. So has a learner who addresses a formal complaint to *you guys*. The grammar is the easy part; the judgement takes longer.
+
+  And *one*? It is unlikely to disappear entirely. It still has its uses, particularly when a writer wants to generalise about an experience without appearing to lecture the reader. *One does not easily forget a winter in Moscow* is more modest, somehow, than *You never forget a winter in Moscow*. The first sentence describes; the second instructs. Whether that difference is worth the faint air of a nineteenth-century drawing room is, of course, for each writer to decide for themselves.
+items:
+  - q: "In the first paragraph, the writer suggests that the main difficulty English has with talking about people in general is that"
+    options:
+      - "the traditional solution sounds too informal."
+      - "it offers several possible solutions rather than one."
+      - "learners are rarely taught the correct form."
+      - "the problem has only recently been recognised."
+    answer: 1
+    explain: "*English, it turns out, has rather too many* — проблема не в отсутствии средств, а в их избытке. *One* описан как формальный и старомодный, а не разговорный."
+  - q: "What point does the writer make about the pronoun 'you' in the second paragraph?"
+    options:
+      - "It excludes the listener from the statement."
+      - "It is mainly used by people in authority."
+      - "It can sometimes sound as if the speaker is giving orders."
+      - "It is the most neutral of all the available options."
+    answer: 2
+    explain: "*it can slip easily into sounding like an instruction* — *you* может звучать как указание. Нейтральным автор не считает ни один вариант (*none of them does it neutrally*)."
+  - q: "In paragraph 3, what does 'doing so' refer to?"
+    options:
+      - "making decisions about which pronoun to use"
+      - "finding English pronoun choices puzzling"
+      - "stating their attitude directly"
+      - "using a single neutral word"
+    answer: 0
+    explain: "*do so* заменяет глагольную группу из предыдущей части предложения: *native speakers make dozens of such decisions… without noticing that they are doing so* = making these decisions."
+  - q: "How does the writer present the traditional argument for using 'his' after 'everyone'?"
+    options:
+      - "as a sensible rule that was later misunderstood"
+      - "as a weak argument that became increasingly difficult to support"
+      - "as a rule that most writers continue to follow"
+      - "as a recent invention of style guides"
+    answer: 1
+    explain: "*This argument was always somewhat strained, and it became harder to defend as society changed* — аргумент изначально натянутый и со временем всё менее убедительный."
+  - q: "According to the writer, the acceptance of singular 'they' by style guides"
+    options:
+      - "caused considerable confusion among ordinary speakers."
+      - "was a bold attempt to change the way people speak."
+      - "reflected a usage that was already long established."
+      - "has been rejected by most respected writers."
+    answer: 2
+    explain: "*the rule-makers were simply catching up with usage that had been there all along* — справочники лишь признали давно существующее употребление. *There seems to have been little confusion* — путаницы не было."
+  - q: "What is the writer's main point in the seventh paragraph?"
+    options:
+      - "Grammatical accuracy matters more than style."
+      - "Learners should avoid informal pronouns altogether."
+      - "Choosing the appropriate pronoun is a question of judgement as well as grammar."
+      - "Formal emails should always use 'one' rather than 'you'."
+    answer: 2
+    explain: "*The grammar is the easy part; the judgement takes longer* — главное умение не грамматика, а чутьё на уместность. Пример с *One must consider…* показывает ошибку стиля, а не грамматики."
+  - q: "Find a phrase in paragraph 6 that means 'help in a difficult situation'."
+    answers: ["come to the rescue", "to the rescue"]
+    explain: "*the passive… can **come to the rescue*** — «прийти на помощь, выручить»."
+  - q: "Find a two-word phrasal verb in paragraph 4 that means 'became popular or widely used'."
+    answers: ["caught on"]
+    explain: "*none of these **caught on*** — *catch on* = «прижиться, стать популярным». В следующем абзаце автор обыгрывает то же выражение: *What did catch on…*"
+  - q: "In the last sentence, which pronoun does the writer use to avoid saying 'himself or herself'?"
+    answers: ["themselves"]
+    explain: "*for each writer to decide for **themselves*** — автор сам применяет singular *they* (в возвратной форме), о котором писал в эссе."

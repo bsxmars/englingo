@@ -1,0 +1,31 @@
+title: "Собери предложение"
+type: order
+intro: "Расставь слова в правильном порядке. Знаки препинания в конце ставить не нужно."
+hints:
+  - "В вопросах с used to вспомогательный глагол — did, а после него use без d."
+  - "Наречия already, still, never стоят перед смысловым глаголом или после первого вспомогательного."
+items:
+  - q: "Спроси, играл ли собеседник раньше на пианино."
+    answers: ["Did you use to play the piano?"]
+    explain: "Вопрос с used to строится через **Did**, а после него — **use** без *d*."
+  - q: "Скажи, что раньше ты не любил овощи."
+    answers: ["I didn't use to like vegetables."]
+    explain: "Отрицание: **didn't use to + глагол**."
+  - q: "Вспомни, что каждое воскресенье вы ездили на пляж."
+    answers: ["We would go to the beach every Sunday.", "Every Sunday we would go to the beach."]
+    explain: "**would + глагол** — повторяющееся действие в прошлом. Обстоятельство времени — в конце или в начале."
+  - q: "Скажи, что когда ты пришёл, она уже ушла."
+    answers: ["She had already left when I arrived.", "When I arrived she had already left."]
+    explain: "Ушла раньше прихода → **had already left**. *already* стоит между *had* и причастием."
+  - q: "Скажи, что ты до сих пор не привык рано вставать."
+    answers: ["I'm still not used to getting up early."]
+    explain: "**be used to + -ing**; *still* в отрицании ставится перед *not*."
+  - q: "Спроси, как долго человек тебя ждал (до твоего прихода)."
+    answers: ["How long had you been waiting for me?"]
+    explain: "Длительность до момента в прошлом → **Past Perfect Continuous**: *had you been waiting*."
+  - q: "Скажи, что он читал, когда погас свет."
+    answers: ["He was reading when the lights went out.", "When the lights went out he was reading."]
+    explain: "Фон (**was reading**) прерван коротким событием (**went out**)."
+  - q: "Скажи, что раньше на этом углу была пекарня."
+    answers: ["There used to be a bakery on this corner.", "On this corner there used to be a bakery."]
+    explain: "Состояние в прошлом → **there used to be**; *would* здесь невозможно."

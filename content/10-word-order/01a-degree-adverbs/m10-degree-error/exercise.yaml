@@ -1,0 +1,40 @@
+title: "Найди и исправь ошибку: степень"
+type: error
+intro: "В каждом предложении **одна** ошибка: не то наречие степени, не то место или лишнее слово. Исправь предложение целиком."
+hints:
+  - "enough — после прилагательного, перед существительным."
+  - "very не сочетается с too и с предельными прилагательными."
+items:
+  - q: "The kitchen isn't enough big for a dining table."
+    answers: ["The kitchen isn't big enough for a dining table.", "The kitchen is not big enough for a dining table."]
+    explain: "*enough* стоит **после** прилагательного: *big enough*."
+  - q: "It's very cold to have lunch on the terrace."
+    answers: ["It's too cold to have lunch on the terrace.", "It is too cold to have lunch on the terrace."]
+    explain: "Есть продолжение *to have lunch* — значит, «слишком … чтобы» → **too cold to**."
+  - q: "The view from the top was very amazing."
+    answers: ["The view from the top was absolutely amazing.", "The view from the top was really amazing.", "The view from the top was amazing."]
+    explain: "*amazing* — предельное прилагательное, *very* с ним не сочетается → **absolutely / really amazing**."
+  - q: "She's a quite experienced developer."
+    answers: ["She's quite an experienced developer.", "She is quite an experienced developer.", "She's a fairly experienced developer.", "She is a fairly experienced developer.", "She's a rather experienced developer.", "She is a rather experienced developer."]
+    explain: "**quite** стоит перед артиклем: *quite an experienced developer*. *a fairly / a rather* — после артикля."
+  - q: "The hotel was very too noisy, so we moved."
+    answers: ["The hotel was much too noisy, so we moved.", "The hotel was far too noisy, so we moved.", "The hotel was too noisy, so we moved.", "The hotel was a bit too noisy, so we moved."]
+    explain: "*too* усиливают **much / far / a bit**, но не *very*."
+  - q: "The soup was too hot to eat it."
+    answers: ["The soup was too hot to eat."]
+    explain: "После *too … to* дополнение, совпадающее с подлежащим, не повторяем: *too hot to eat*."
+  - q: "We didn't have time enough to see the whole museum."
+    answers: ["We didn't have enough time to see the whole museum.", "We did not have enough time to see the whole museum."]
+    explain: "С существительным *enough* стоит **перед** ним: *enough time*."
+  - q: "There are too much cars in the city centre."
+    answers: ["There are too many cars in the city centre.", "There are far too many cars in the city centre."]
+    explain: "*cars* — исчисляемое во множественном числе → **too many**."
+  - q: "The second version is quite better than the first."
+    answers: ["The second version is rather better than the first.", "The second version is much better than the first.", "The second version is a bit better than the first.", "The second version is slightly better than the first.", "The second version is a lot better than the first.", "The second version is far better than the first."]
+    explain: "*quite* не ставится перед сравнительной степенью. Нужно **rather / much / a bit / slightly better**."
+  - q: "I've had enough the noise — I'm moving to the countryside."
+    answers: ["I've had enough of the noise — I'm moving to the countryside.", "I have had enough of the noise — I'm moving to the countryside.", "I've had enough of the noise. I'm moving to the countryside."]
+    explain: "Перед *the / my / this* после *enough* нужен **of**: *enough of the noise*."
+  - q: "Your essay is good, but it's not enough long for the exam."
+    answers: ["Your essay is good, but it's not long enough for the exam.", "Your essay is good, but it isn't long enough for the exam.", "Your essay is good, but it is not long enough for the exam."]
+    explain: "Прилагательное + **enough**: *not long enough for the exam*."

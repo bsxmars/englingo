@@ -1,0 +1,44 @@
+title: "Пассив с дополнением и инфинитивом"
+type: gap
+intro: "Поставь глагол(ы) в скобках в правильную форму. Где-то нужен пассив (*was forced, were made to…*), а где-то — обычный актив, потому что действие происходит «само». Сокращения засчитываются."
+hints:
+  - "make / see / hear в пассиве → to do: were made to open, was seen to enter (или was seen entering)."
+  - "let в пассиве не бывает → be allowed to."
+  - "«Само случилось» (rise, break, increase) → актив, без be."
+items:
+  - q: "After the scandal, the minister ___ (force) to resign."
+    answers: ["was forced"]
+    explain: "*force sb to do* → в пассиве человек становится подлежащим, а *to resign* остаётся: **was forced** to resign."
+  - q: "At the airport we ___ (make / open) all our bags."
+    answers: ["were made to open"]
+    explain: "В активе *made us open* без *to*, но в пассиве **to возвращается**: *were made **to** open*."
+  - q: "The suspect ___ (see / enter) the bank shortly before the robbery."
+    answers: ["was seen to enter", "was seen entering"]
+    explain: "*see* в пассиве: **was seen to enter** (сам факт) или **was seen entering** (видели процесс). Голый инфинитив (~~was seen enter~~) невозможен."
+  - q: "In 2019 she ___ (elect) mayor of the city — the youngest in its history."
+    answers: ["was elected"]
+    explain: "*elect sb mayor* → *she **was elected** mayor*. Должность идёт сразу после V3, без *as* и без артикля."
+  - q: "Ticket prices ___ (rise) by 15% since January."
+    answers: ["have risen"]
+    explain: "*rise* — непереходный глагол, пассива у него нет. *since January* → Present Perfect: **have risen**."
+  - q: "Children under twelve ___ (not / allow) to use the pool without an adult."
+    answers: ["are not allowed", "aren't allowed"]
+    explain: "Правило бассейна, общий факт → Present Simple passive: **are not allowed to**. Это и есть пассив от *let*."
+  - q: "The ice ___ (break) under his feet, but luckily the water wasn't deep."
+    answers: ["broke"]
+    explain: "Лёд проломился сам, никто его не ломал → актив **broke**. Пассив *was broken* означал бы, что кто-то его сломал."
+  - q: "The new bridge ___ (name) after a local engineer."
+    answers: ["was named", "has been named"]
+    explain: "*name sth after sb* → **was named after**. Если важен результат сейчас, подойдёт и *has been named*."
+  - q: "According to the new policy, all employees ___ (require) to complete safety training every year."
+    answers: ["are required"]
+    explain: "Действующее правило → Present Simple passive: **are required to**. Это типичная формула официальных документов."
+  - q: "Lomonosov ___ (often / call) the father of Russian science."
+    answers: ["is often called", "has often been called"]
+    explain: "*call sb sth* → **is called** + имя/звание. Наречие *often* ставим после *is*: *is often called*."
+  - q: "When the guests finally went home, the kitchen ___ (leave) in a terrible mess."
+    answers: ["was left"]
+    explain: "*leave sth in a mess* → **was left** in a mess: «кухню оставили в ужасном виде». Время — Past Simple, как у *went*."
+  - q: "I can't believe we ___ (keep) waiting for two hours at the clinic yesterday."
+    answers: ["were kept"]
+    explain: "*keep sb waiting* («заставлять ждать») → **were kept waiting**. Форма *-ing* остаётся после V3."

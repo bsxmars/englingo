@@ -1,0 +1,37 @@
+title: "Найди ошибку"
+type: error
+intro: "В каждом предложении одна ошибка: say/tell, сдвиг времени или указатель. Исправь и перепиши предложение целиком."
+hints:
+  - "tell + человек; say + to + человек."
+  - "Если событие уже в прошлом, сдвиг обязателен."
+items:
+  - q: "He said me that he was busy."
+    answers: ["He told me that he was busy.", "He told me he was busy.", "He said to me that he was busy.", "He said to me he was busy.", "He said that he was busy.", "He said he was busy."]
+    explain: "После *say* человек ставится только с *to*: **told me** или *said to me*."
+  - q: "She told that she lived in Kazan."
+    answers: ["She said that she lived in Kazan.", "She said she lived in Kazan.", "She told me that she lived in Kazan.", "She told me she lived in Kazan.", "She told us that she lived in Kazan.", "She told us she lived in Kazan."]
+    explain: "*tell* без человека не употребляется: **said that…** или *told me that…*."
+  - q: "Last week Tom said he will help me on Monday, but he never came."
+    answers: ["Last week Tom said he would help me on Monday, but he never came."]
+    explain: "Понедельник уже прошёл, обещание не выполнено → **will → would**."
+  - q: "When I met Anna in 2010, she told me she has never been abroad."
+    answers: ["When I met Anna in 2010, she told me she had never been abroad."]
+    explain: "Опыт на момент 2010 года → Present Perfect сдвигается в **had never been**."
+  - q: "My boss told to me that I was doing well."
+    answers: ["My boss told me that I was doing well.", "My boss told me I was doing well.", "My boss said to me that I was doing well.", "My boss said to me I was doing well."]
+    explain: "**tell sb** — без предлога: *told me*. Предлог *to* нужен только после *say*."
+  - q: "Last month she said she would call me tomorrow, but she didn't."
+    answers: ["Last month she said she would call me the next day, but she didn't.", "Last month she said she would call me the following day, but she didn't.", "Last month she said she would call me the day after, but she didn't."]
+    explain: "Слова сказаны месяц назад → *tomorrow* превращается в **the next day / the following day**."
+  - q: "When I called him on Sunday, Max said he is watching the football."
+    answers: ["When I called him on Sunday, Max said he was watching the football."]
+    explain: "Матч был в воскресенье и закончился → Present Continuous сдвигается в **was watching**."
+  - q: "I asked her about the plan, but she said me nothing."
+    answers: ["I asked her about the plan, but she told me nothing.", "I asked her about the plan, but she said nothing to me.", "I asked her about the plan, but she said nothing."]
+    explain: "*said me* невозможно: **told me nothing** или *said nothing (to me)*."
+  - q: "Last year my sister said she can speak four languages, but it turned out she could only speak two."
+    answers: ["Last year my sister said she could speak four languages, but it turned out she could only speak two."]
+    explain: "Слова оказались неправдой → без сдвига нельзя: **can → could**."
+  - q: "He told us a joke and said us goodbye."
+    answers: ["He told us a joke and said goodbye to us.", "He told us a joke and said goodbye."]
+    explain: "**say goodbye to sb** — с предлогом *to*; *say us* невозможно."

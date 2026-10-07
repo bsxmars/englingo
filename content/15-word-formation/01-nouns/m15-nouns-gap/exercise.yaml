@@ -1,0 +1,43 @@
+title: "Существительное от слова в скобках"
+type: gap
+intro: "Формат B2 First Use of English, Part 3. Образуй от слова КАПСОМ **существительное**, которое подходит по смыслу. Проверь, нужно ли множественное число."
+hints:
+  - "После the / a / my / your и перед of — существительное."
+  - "Нет артикля перед исчисляемым существительным → скорее всего, множественное число."
+items:
+  - q: "The ___ (DECIDE) to close the factory surprised everyone."
+    answers: ["decision"]
+    explain: "После *the* — существительное: *decide → **decision*** (*-de* → *-sion*)."
+  - q: "We need a clear ___ (EXPLAIN) of the new rules."
+    answers: ["explanation"]
+    explain: "*a clear ___ of* → существительное: *explain → **explanation***. Внимание: в суффиксе нет *i*."
+  - q: "Her ___ (KIND) to strangers is well known."
+    answers: ["kindness"]
+    explain: "После *her* — существительное; качество от прилагательного → **-ness**: *kindness*."
+  - q: "There has been a sharp ___ (GROW) in online shopping."
+    answers: ["growth"]
+    explain: "*a sharp ___* → существительное: *grow → **growth*** (суффикс *-th*, как *strength*, *length*)."
+  - q: "All the ___ (EMPLOY) received a bonus at the end of the year."
+    answers: ["employees"]
+    explain: "Бонус получают работники → **employees** (*-ee* — тот, кого наняли), множественное после *all the*."
+  - q: "Many ___ (SCIENCE) believe the climate is changing faster than expected."
+    answers: ["scientists"]
+    explain: "*Many ___ believe* → люди во множественном числе: **scientists**. Две операции: суффикс *-ist* + *-s*."
+  - q: "I spent my ___ (CHILD) in a small village by the sea."
+    answers: ["childhood"]
+    explain: "Период жизни → **-hood**: *childhood*, как *adulthood*."
+  - q: "Their ___ (FRIEND) began at university and has lasted forty years."
+    answers: ["friendship"]
+    explain: "Отношения → **-ship**: *friendship*, как *relationship*, *partnership*."
+  - q: "What's the ___ (HIGH) of the tower?"
+    answers: ["height"]
+    explain: "*high → **height*** — корень меняется. Не путай с *highness* (титул)."
+  - q: "Good ___ (COMMUNICATE) is essential in any team."
+    answers: ["communication"]
+    explain: "Подлежащее после прилагательного *good* → существительное: **communication** (*-ate* → *-ation*)."
+  - q: "Thank you for your ___ (GENEROUS) — your donation will help a lot of families."
+    answers: ["generosity"]
+    explain: "После *your* — существительное: *generous → **generosity*** (*-ous* → *-osity*, как *curious → curiosity*)."
+  - q: "He has an impressive ___ (KNOW) of medieval history."
+    answers: ["knowledge"]
+    explain: "*an impressive ___ of* → существительное: *know → **knowledge***."

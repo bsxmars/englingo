@@ -1,0 +1,37 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка. Исправь её и отправь всё предложение целиком. Запятые при проверке не учитываются — ошибка всегда в словах."
+hints:
+  - "Нет ли лишнего местоимения (he, it, there) внутри придаточного?"
+  - "После запятой — which/who, после of — whom/which."
+items:
+  - q: "St Petersburg, that was founded in 1703, was the capital of Russia for two centuries."
+    answers: ["St Petersburg, which was founded in 1703, was the capital of Russia for two centuries."]
+    explain: "Non-defining (после запятой) → только **which**, *that* невозможно."
+  - q: "My boss cancelled the meeting at the last minute, what annoyed everyone."
+    answers: ["My boss cancelled the meeting at the last minute, which annoyed everyone."]
+    explain: "Комментарий ко всему предложению вводится через **which**, а не *what*."
+  - q: "I have two brothers, both of them are engineers."
+    answers: ["I have two brothers, both of whom are engineers.", "I have two brothers, and both of them are engineers."]
+    explain: "Внутри одного предложения нужно **both of whom**. С *them* — это два отдельных предложения, их нужно соединить союзом *and*."
+  - q: "The new manager, who she started on Monday, has already changed everything."
+    answers: ["The new manager, who started on Monday, has already changed everything."]
+    explain: "*who* уже подлежащее придаточного, второе подлежащее (*she*) — лишнее."
+  - q: "We visited Tallinn, where my mother was born there."
+    answers: ["We visited Tallinn, where my mother was born."]
+    explain: "*where* уже значит «там», поэтому *there* в конце — дублирование."
+  - q: "The project manager, to who I sent the report, hasn't replied yet."
+    answers: ["The project manager, to whom I sent the report, hasn't replied yet.", "The project manager, who I sent the report to, hasn't replied yet.", "The project manager, whom I sent the report to, hasn't replied yet."]
+    explain: "После предлога — только **whom**: *to whom*. Разговорный вариант — предлог в конце: *who I sent the report to*."
+  - q: "He gave me three books, none of who I have read."
+    answers: ["He gave me three books, none of which I have read."]
+    explain: "Книги — вещи → **none of which**. *whom* — для людей, *who* после *of* не используется."
+  - q: "My laptop, which I bought it last year, has already broken down."
+    answers: ["My laptop, which I bought last year, has already broken down."]
+    explain: "*which* — уже объект глагола *bought*, поэтому *it* лишнее."
+  - q: "Anna, whose her husband is a chef, always brings the best food to parties."
+    answers: ["Anna, whose husband is a chef, always brings the best food to parties."]
+    explain: "**whose** уже значит «её», поэтому *her* лишнее: *whose husband*."
+  - q: "The hotel, which we stayed, had an amazing view of the sea."
+    answers: ["The hotel, where we stayed, had an amazing view of the sea.", "The hotel, in which we stayed, had an amazing view of the sea.", "The hotel, which we stayed in, had an amazing view of the sea.", "The hotel, which we stayed at, had an amazing view of the sea.", "The hotel, at which we stayed, had an amazing view of the sea."]
+    explain: "*stay **in/at** a hotel* — нужен предлог: *where we stayed* или *which we stayed in*."

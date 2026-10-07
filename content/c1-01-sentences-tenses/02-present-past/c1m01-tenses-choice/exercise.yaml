@@ -1,0 +1,52 @@
+title: "Все варианты грамматичны — верен один"
+type: choice
+intro: "Каждый вариант сам по себе грамматичен, но по смыслу контекста подходит только один. Читай всё предложение до конца — подсказка часто в его второй половине."
+hints:
+  - "Есть видимые следы процесса? → Perfect Continuous."
+  - "Действие шло в момент другого события → Continuous; завершилось до него → Perfect."
+  - "Глаголы состояния в Continuous меняют значение: see a client = встречаться, weigh the luggage = взвешивать."
+items:
+  - q: "Sorry the kitchen's such a mess — I ___ bread all afternoon, and the second loaf is still in the oven."
+    options: ["'ve been baking", "'ve baked", "'d baked"]
+    answer: 0
+    explain: "Процесс, который длится до сих пор и оставил следы (беспорядок), → **'ve been baking**. *'ve baked* подчёркивало бы готовый результат, а он ещё не готов."
+  - q: "Jenny can't come to the phone right now — she ___ a bath."
+    options: ["has", "is having", "has had"]
+    answer: 1
+    explain: "*have* в значении действия (*have a bath / lunch / a party*) возможен в Continuous: **is having** — прямо сейчас."
+  - q: "When the guests arrived, Mark ___ the table, so they helped him finish it."
+    options: ["laid", "had laid", "was laying"]
+    answer: 2
+    explain: "Действие ещё шло в момент прихода (*helped him finish*) → **was laying**."
+  - q: "When the guests arrived, Mark ___ the table, so everything was ready for them."
+    options: ["was laying", "had laid", "laid"]
+    answer: 1
+    explain: "Действие завершилось **до** прихода гостей (*everything was ready*) → **had laid**. *laid* означало бы, что он начал накрывать после их прихода."
+  - q: "I ___ to Lisbon three times so far, and I'd happily go again."
+    options: ["went", "have been", "have been going"]
+    answer: 1
+    explain: "*so far* — период до сих пор + количество раз → **have been**. Continuous с числом раз невозможен."
+  - q: "Our founder ___ the company in a garage in 1998; today it employs 3,000 people."
+    options: ["started", "has started", "had started"]
+    answer: 0
+    explain: "Точная дата в прошлом (*in 1998*) → **started**. Past Perfect не нужен: события идут в прямом порядке."
+  - q: "Can you call back later? I ___ a client at the moment."
+    options: ["see", "am seeing", "have seen"]
+    answer: 1
+    explain: "*see* = «встречаться, принимать» — действие, поэтому Continuous: **am seeing** a client. *I see* = «вижу / понимаю»."
+  - q: "This suitcase ___ a ton — what on earth have you packed in it?"
+    options: ["is weighing", "weighs", "has weighed"]
+    answer: 1
+    explain: "*weigh* = «весить» — состояние → **weighs**. *is weighing* значит «взвешивает»: *The clerk is weighing the suitcase*."
+  - q: "We ___ for any inconvenience caused by the temporary closure of the car park."
+    options: ["apologise", "are apologising", "have apologised"]
+    answer: 0
+    explain: "Перформатив: сказав *we apologise*, мы и совершаем извинение → Present Simple **apologise**. *have apologised* — сообщение о прошлом извинении."
+  - q: "By the time she retired, she ___ at the same school for thirty-five years."
+    options: ["taught", "had been teaching", "was teaching"]
+    answer: 1
+    explain: "*By the time* + период до момента в прошлом → **had been teaching** (подходит и *had taught*). Past Simple и Past Continuous не передают «к тому моменту»."
+  - q: "I didn't recognise him at first — he ___ a beard."
+    options: ["grew", "had grown", "has grown"]
+    answer: 1
+    explain: "Борода появилась **до** момента встречи и объясняет, почему я не узнал → **had grown**."

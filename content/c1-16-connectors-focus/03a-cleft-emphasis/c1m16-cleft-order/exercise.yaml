@@ -1,0 +1,41 @@
+title: "Собери cleft-предложение"
+type: order
+intro: "Собери предложение из слов так, чтобы оно передавало русскую фразу с выделением."
+hints:
+  - "«Именно…» → It was … that / who…"
+  - "«Что меня поразило, так это…» → What struck me was…"
+  - "«Я же…» → эмфатическое do / did."
+items:
+  - q: "«Больше всего меня поразила тишина»."
+    answers: ["What struck me most was the silence", "What most struck me was the silence"]
+    explain: "Wh-cleft: **What struck me most was** + фокус. Новое и важное — *the silence* — стоит в конце."
+  - q: "«Только когда он ушёл, я поняла свою ошибку»."
+    answers: ["It was only when he left that I realised my mistake"]
+    explain: "**It was only when … that …** — фокус на моменте. Порядок после *that* прямой, без инверсии."
+  - q: "«Тебе нужно только подписать здесь»."
+    answers: ["All you have to do is sign here"]
+    explain: "**All you have to do is** + инфинитив без *to* — «всё, что нужно, — это…»."
+  - q: "«Причина в том, что никто не прочитал отчёт»."
+    answers: ["The reason is that nobody read the report"]
+    explain: "**The reason is that…** — после *reason* ставим *that*, а не *because*."
+  - q: "«Я же предупреждал тебя о погоде!»"
+    answers: ["I did warn you about the weather"]
+    explain: "Эмфатическое **did** = «же, ведь»: подчёркивает, что предупреждение действительно было."
+  - q: "«Ошибку нашла именно Анна, а не Том»."
+    answers: ["It was Anna not Tom who found the error", "It was Anna who found the error not Tom"]
+    explain: "It-cleft с контрастом: **It was Anna, not Tom, who…** Уточнение *not Tom* можно поставить и в конец."
+  - q: "«Вот тут-то и начинаются проблемы»."
+    answers: ["This is where the problems start"]
+    explain: "Обратный cleft **This is where…** указывает на только что описанную ситуацию."
+  - q: "«Дело не в том, что я устал, просто уже поздно»."
+    answers: ["It's not that I'm tired it's just that it's late"]
+    explain: "**It's not that…, it's just that…** — отводим одну причину и называем настоящую."
+  - q: "«Меньше всего мне сейчас нужна ещё одна встреча»."
+    answers: ["The last thing I need right now is another meeting", "The last thing I need is another meeting right now", "Right now the last thing I need is another meeting"]
+    explain: "**The last thing I need is…** — «меньше всего мне нужно…». *right now* может стоять в разных местах."
+  - q: "«Что нам действительно нужно, так это чёткий план»."
+    answers: ["What we really need is a clear plan", "A clear plan is what we really need"]
+    explain: "**What we really need is** + фокус. Обратный порядок (*A clear plan is what…*) тоже верен и звучит ещё напористее."
+  - q: "«Она сделала вот что: позвонила в банк и заблокировала карту»."
+    answers: ["What she did was call the bank and block the card"]
+    explain: "Фокус на действиях: **What she did was** + инфинитив без *to*. Оба глагола стоят в одной форме: *call … and block*."

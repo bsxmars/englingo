@@ -1,0 +1,40 @@
+title: "Впиши модальный глагол"
+type: gap
+intro: "Впиши модальный глагол или конструкцию. В скобках — подсказка: либо смысл по-русски, либо слова, которые нужно поставить в правильную форму. Сокращения (*mustn't*, *'d better*) засчитываются."
+hints:
+  - "«нельзя» → mustn't / can't; «не обязательно» → don't have to / don't need to / needn't."
+  - "Прошлое и будущее у must нет: had to, will have to."
+items:
+  - q: "You ___ (нельзя) park here — it's a fire exit."
+    answers: ["mustn't", "can't", "aren't allowed to", "are not allowed to", "may not"]
+    explain: "Запрет → **mustn't** (или *can't*, *aren't allowed to*). *don't have to* значило бы «не обязательно»."
+  - q: "It's a casual party, so you ___ (не обязательно) wear a suit."
+    answers: ["don't have to", "don't need to", "needn't", "haven't got to"]
+    explain: "Нет обязанности → **don't have to** / **don't need to** / **needn't**. Это разрешение не делать, а не запрет."
+  - q: "I ___ (пришлось) work late last night, so I'm really tired."
+    answers: ["had to"]
+    explain: "Обязанность в прошлом → **had to**. Форм ~~musted~~ или ~~must~~ в прошлом нет."
+  - q: "If you want to pass the exam, you ___ (придётся) study harder."
+    answers: ["will have to", "have to", "will need to", "need to", "must", "are going to have to"]
+    explain: "Будущая обязанность → **will have to** (*'ll have to*). В таком условии подходят и *have to*, *need to*, *must*."
+  - q: "You look ill. I think you ___ (стоит) see a doctor."
+    answers: ["should", "ought to", "had better"]
+    explain: "Совет → **should** или **ought to**. *'d better* тоже возможно — звучит настойчивее."
+  - q: "We ___ (had better / not) be late — the boss is already angry."
+    answers: ["had better not", "'d better not"]
+    explain: "Отрицание: **had better not** + глагол. Не ~~hadn't better~~ и не ~~had not better~~."
+  - q: "___ (тебе приходится / you) work at weekends?"
+    answers: ["Do you have to", "Have you got to", "Do you need to"]
+    explain: "Вопрос об обязанности → **Do you have to…?** *have to* — обычный глагол, поэтому вопрос через *do*."
+  - q: "Kids ___ (не нужно было) pay for the museum yesterday, so we saved some money."
+    answers: ["didn't have to", "didn't need to"]
+    explain: "В прошлом не было необходимости → **didn't have to** / **didn't need to**."
+  - q: "My brother ___ (have to) get up at 5 a.m. for his job."
+    answers: ["has to", "has got to", "'s got to"]
+    explain: "*have to* ведёт себя как обычный глагол: в 3-м лице — **has to**."
+  - q: "You ___ (ought to / not) eat so much sugar."
+    answers: ["ought not to", "oughtn't to"]
+    explain: "Отрицание *ought to* → **ought not to**: *not* встаёт после *ought*, перед *to*. В разговоре чаще говорят *shouldn't*."
+  - q: "Visitors ___ (must) leave their bags at the entrance. That's the rule."
+    answers: ["must", "have to"]
+    explain: "Правило → **must** + глагол без *to*. *have to* тоже верно."

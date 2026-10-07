@@ -1,0 +1,51 @@
+title: "Согласование подлежащего и сказуемого"
+type: choice
+intro: "Выбери форму глагола, которая верна в **нейтральном письменном** английском. Найди главное существительное подлежащего — не ориентируйся на ближайшее слово."
+hints:
+  - "Отбрось предложные фразы (of the students, with her children) — главное слово стоит перед ними."
+  - "Суммы, сроки, расстояния и придаточные в роли подлежащего — единственное число."
+items:
+  - q: "The cost of the repairs to the two damaged bridges ___ been underestimated."
+    options: ["have", "has", "were"]
+    answer: 1
+    explain: "Главное слово — *cost* (ед. ч.); *repairs* и *bridges* стоят внутри предложных фраз и на глагол не влияют → **has**."
+  - q: "Neither of the reports ___ any reference to the budget cuts."
+    options: ["make", "makes", "are making"]
+    answer: 1
+    explain: "После *neither of* в формальном стиле — единственное число: **makes**. *make* встречается в разговорной речи, но в отчёте или эссе будет ошибкой."
+  - q: "Three weeks ___ hardly enough time to prepare a proper defence."
+    options: ["is", "are", "have been"]
+    answer: 0
+    explain: "Срок воспринимается как единое количество → **is**: «три недели — это вряд ли достаточно»."
+  - q: "What the committee really wants ___ clear guarantees from both sides."
+    options: ["are", "is", "were"]
+    answer: 1
+    explain: "Подлежащее — придаточное *What the committee really wants* → единственное число **is**, даже если после глагола идёт множественное *guarantees*."
+  - q: "The police ___ appealing for witnesses to come forward."
+    options: ["is", "has been", "are"]
+    answer: 2
+    explain: "*police* всегда с глаголом во множественном числе: **are appealing**."
+  - q: "The number of people working from home ___ almost tripled since 2019."
+    options: ["has", "have", "are"]
+    answer: 0
+    explain: "*The number of* — одно число → **has tripled**. Сравни: *A number of people **have**…* = «несколько человек»."
+  - q: "A number of residents ___ objected to the new parking regulations."
+    options: ["has", "have", "is"]
+    answer: 1
+    explain: "*A number of* = «ряд, несколько» → множественное число: **have objected**."
+  - q: "Economics ___ often been described as 'the dismal science'."
+    options: ["have", "has", "are"]
+    answer: 1
+    explain: "Названия наук на *-ics* (*economics, physics, politics* как дисциплина) — единственное число: **has**."
+  - q: "Everyone in the department, including the two new interns, ___ expected to attend."
+    options: ["are", "were", "is"]
+    answer: 2
+    explain: "*Everyone* — всегда единственное число: **is**. Вставка *including the two new interns* число не меняет."
+  - q: "The news from the coastal regions ___ getting more alarming by the hour."
+    options: ["are", "is", "have been"]
+    answer: 1
+    explain: "*news* — неисчисляемое, хоть и на *-s* → **is getting**."
+  - q: "Not only the manager but also the employees ___ unaware of the change."
+    options: ["was", "were", "has been"]
+    answer: 1
+    explain: "В парах *not only… but also*, *either… or*, *neither… nor* глагол согласуется с ближайшей частью: *the employees* → **were**."

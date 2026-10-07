@@ -1,0 +1,54 @@
+title: "Перефразирование (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "«N лет назад начал» = «уже N лет делаю»: ago → have + V3 + for."
+  - "«Последний раз тогда-то» = «не делал с тех пор / уже сколько-то»."
+  - "while + предложение ↔ during + существительное."
+items:
+  - q: "It's three years since I last saw Tom."
+    key: "FOR"
+    stem: "I ___ three years."
+    answers: ["haven't seen Tom for", "have not seen Tom for", "haven't seen him for", "have not seen him for"]
+    explain: "*It's … since I last…* = *I **haven't seen** Tom **for*** three years — длительность после *for*."
+  - q: "I bought this laptop five years ago."
+    key: "HAD"
+    stem: "I ___ five years."
+    answers: ["have had this laptop for", "have had it for", "'ve had this laptop for", "'ve had it for"]
+    explain: "*bought … ago* → владею до сих пор: *I **have had** this laptop **for** five years*. С *have* (иметь) Continuous не нужен."
+  - q: "My phone rang while I was giving the presentation."
+    key: "DURING"
+    stem: "My phone rang ___ ."
+    answers: ["during the presentation", "during my presentation"]
+    explain: "*while* + предложение → **during** + существительное: *during the presentation*."
+  - q: "You need to finish the report no later than Monday."
+    key: "BY"
+    stem: "The report has to ___ Monday."
+    answers: ["be finished by", "be ready by", "be done by", "be completed by", "be in by", "be submitted by"]
+    explain: "*no later than* = **by**. Подлежащее — отчёт, поэтому пассив: *has to **be finished by** Monday*."
+  - q: "The shop opens at 9 am and closes at 9 pm."
+    key: "UNTIL"
+    stem: "The shop ___ 9 pm."
+    answers: ["is open until", "stays open until", "is open from 9 am until", "remains open until"]
+    explain: "Магазин работает непрерывно вплоть до 21:00 → **until**: *is open until 9 pm*."
+  - q: "My brother is a waiter in a café."
+    key: "AS"
+    stem: "My brother ___ in a café."
+    answers: ["works as a waiter", "is working as a waiter"]
+    explain: "Профессия → **as**: *works as a waiter*. С *like* значило бы «работает, как будто официант»."
+  - q: "Your bag is very similar to mine."
+    key: "LIKE"
+    stem: "Your bag ___ mine."
+    answers: ["looks like", "looks just like", "looks exactly like", "is like", "is just like", "is very like", "looks very like", "looks a lot like", "is a lot like", "looks very much like", "is very much like"]
+    explain: "*similar to* = **like**: *Your bag looks (just) like mine*."
+  - q: "When we arrived at the cinema, the film had already started."
+    key: "TIME"
+    stem: "___ at the cinema, the film had already started."
+    answers: ["By the time we arrived"]
+    explain: "«Когда мы пришли, уже…» = **By the time** + предложение. После *by the time* — Past Simple, в главной части — Past Perfect."
+  - q: "I haven't seen Mike for a week."
+    key: "AGO"
+    stem: "I last ___ ."
+    answers: ["saw Mike a week ago", "saw him a week ago"]
+    explain: "*haven't seen … for a week* = *last **saw** … a week **ago*** — законченный момент, Past Simple."

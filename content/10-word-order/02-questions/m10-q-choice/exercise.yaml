@@ -1,0 +1,47 @@
+title: "Выбери правильный вопрос"
+type: choice
+intro: "Выбери единственный правильный вариант."
+hints:
+  - "Косвенный вопрос: после Could you tell me / Do you know — порядок как в утверждении."
+  - "Ответ на отрицательный вопрос: yes = да, это так; no = нет, это не так (по факту, а не по форме вопроса)."
+items:
+  - q: "— ___ about the changes? — The new manager told us."
+    options: ["Who told you", "Who did tell you", "Who you told"]
+    answer: 0
+    explain: "Ответ *The new manager told us* — *who* подлежащее → **Who told you**, без *did*."
+  - q: "Excuse me, could you tell me where ___?"
+    options: ["is the toilet", "the toilet is", "does the toilet"]
+    answer: 1
+    explain: "Косвенный вопрос → порядок утверждения: **where the toilet is**."
+  - q: "I have no idea what ___."
+    options: ["does she want", "she wants", "wants she"]
+    answer: 1
+    explain: "После *I have no idea* — косвенный вопрос без *does*: **what she wants**."
+  - q: "— What ___? — My new project. It's a bit stressful."
+    options: ["are you worried about", "about are you worried", "you are worried about"]
+    answer: 0
+    explain: "Прямой вопрос: *are* перед подлежащим, предлог **about** — в конце."
+  - q: "— Don't you like the soup? — ___ It's delicious, it's just too hot."
+    options: ["No, I do.", "Yes, I do.", "No, I don't."]
+    answer: 1
+    explain: "Суп нравится → **Yes, I do**. В английском *yes / no* отвечает на факт, а не на форму вопроса. Русское «Нет, нравится» → *Yes, I do*."
+  - q: "This is your first time in London, ___?"
+    options: ["isn't it", "is it", "doesn't it"]
+    answer: 0
+    explain: "Утверждение с *is* → отрицательный tag **isn't it**."
+  - q: "Close the door, ___? It's freezing in here."
+    options: ["will you", "do you", "don't you"]
+    answer: 0
+    explain: "После повелительного наклонения tag — **will you** (или *would you*, *can you*)."
+  - q: "Which question is correct?"
+    options: ["Do you know if the meeting is still on?", "Do you know is the meeting still on?", "Do you know does the meeting still on?"]
+    answer: 0
+    explain: "Вопрос «да/нет» внутри косвенного → **if / whether** + порядок утверждения. Русское «ли» передаётся через *if*."
+  - q: "— Who ___ the most goals last season? — Kane, I think."
+    options: ["scored", "did score", "did he score"]
+    answer: 0
+    explain: "*Who* — подлежащее (кто забил?) → **scored**, без *did*. *Who did score?* бывает только с эмфатическим ударением."
+  - q: "Which question is correct?"
+    options: ["Where do you come from?", "From where you come?", "Where you come from?"]
+    answer: 0
+    explain: "Нужен вспомогательный *do* перед подлежащим, а предлог **from** — в конце."

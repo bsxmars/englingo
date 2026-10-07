@@ -1,0 +1,38 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка в *most, more, enough, several, plenty* или *numerous*. Исправь её и отправь предложение целиком."
+hints:
+  - "the most = больше всех, а не «большинство»."
+  - "several hundred, a few thousand — без -s и без of."
+  - "numerous и enough не берут of перед существительным без определителя."
+items:
+  - q: "The most people in my office commute by train."
+    answers: ["Most people in my office commute by train.", "Most of the people in my office commute by train."]
+    explain: "«Большинство» — **most** без артикля. *the most* — превосходная степень: «больше всех»."
+  - q: "Mostly employees prefer a hybrid working model."
+    answers: ["Most employees prefer a hybrid working model.", "Employees mostly prefer a hybrid working model."]
+    explain: "*mostly* — наречие и не стоит перед существительным. «Большинство сотрудников» — **Most employees**."
+  - q: "We'll need much more volunteers if the event is to go ahead."
+    answers: ["We'll need many more volunteers if the event is to go ahead.", "We'll need far more volunteers if the event is to go ahead.", "We'll need a lot more volunteers if the event is to go ahead.", "We'll need lots more volunteers if the event is to go ahead."]
+    explain: "*volunteers* исчисляемое → **many more** (или *far more*). *much more* — с неисчисляемыми."
+  - q: "The hall wasn't enough big for the whole school."
+    answers: ["The hall wasn't big enough for the whole school."]
+    explain: "С прилагательным *enough* стоит **после**: *big enough*."
+  - q: "Do we have enough of time to finish before the deadline?"
+    answers: ["Do we have enough time to finish before the deadline?"]
+    explain: "*enough of* — только перед определителем или местоимением (*enough of the time*). Перед голым существительным — **enough time**."
+  - q: "More than one employee have complained about the noise."
+    answers: ["More than one employee has complained about the noise."]
+    explain: "После *more than one* + ед. ч. глагол тоже в единственном числе: **has complained**."
+  - q: "Numerous of the participants dropped out before the end of the trial."
+    answers: ["Numerous participants dropped out before the end of the trial.", "Many of the participants dropped out before the end of the trial.", "Several of the participants dropped out before the end of the trial."]
+    explain: "*numerous* — прилагательное, оно не стоит перед *of*: **Numerous participants**. С *of the* нужно *many / several*."
+  - q: "Profits fell for the most part of the year."
+    answers: ["Profits fell for most of the year.", "Profits fell for the greater part of the year."]
+    explain: "*for the most part* — «в целом, по большей части» и не присоединяет существительное. «Большую часть года» — **for most of the year**."
+  - q: "I've got plenty money saved for the trip."
+    answers: ["I've got plenty of money saved for the trip."]
+    explain: "Перед существительным нужно **plenty of**. Без *of* — только *plenty more* или в ответе: *I've got plenty.*"
+  - q: "There were several hundreds people at the protest outside parliament."
+    answers: ["There were several hundred people at the protest outside parliament.", "There were several hundred people at the protest outside Parliament."]
+    explain: "После *several* и числа *hundred* не берёт *-s* и *of*: **several hundred people**. Ср. *hundreds of people*."

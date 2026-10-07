@@ -1,0 +1,43 @@
+title: "Артикль в контексте: впиши слово"
+type: gap
+intro: "Впиши слово из скобок **вместе с артиклем** (*a, an, the*), если он нужен, или **без артикля**. Предложения взяты из писем, новостей и разговоров."
+hints:
+  - "Исчисляемое в единственном числе не бывает «голым»."
+  - "go to bed / school / work, at home, by train — без артикля; реки, моря, the UK — с the."
+items:
+  - q: "Sorry I'm late — I came by ___ (bus) and it broke down."
+    answers: ["bus"]
+    explain: "После **by** транспорт — без артикля: *by bus, by train*. Но *on the bus*, *in my car*."
+  - q: "We spent a week cruising down ___ (Danube) and loved every minute."
+    answers: ["the Danube"]
+    explain: "Реки всегда с **the**: *the Danube, the Volga, the Thames*."
+  - q: "After the accident he was in ___ (hospital) for three weeks."
+    answers: ["hospital", "the hospital"]
+    explain: "*in hospital* — лечиться, по назначению места (британский вариант); американцы говорят *in the hospital*."
+  - q: "My cousin works as ___ (UX designer) for a bank in Riga."
+    answers: ["a UX designer"]
+    explain: "Профессия → **a/an**. *UX* читается «ю-экс» — начинается со звука /j/, поэтому **a**, а не *an*."
+  - q: "Could you text me ___ (address) of the restaurant?"
+    answers: ["the address"]
+    explain: "*of the restaurant* уточняет, какой именно адрес → **the address**."
+  - q: "I've got ___ (interview) on Monday — wish me luck!"
+    answers: ["an interview"]
+    explain: "Первое упоминание, одно из многих → неопределённый артикль; *interview* начинается с гласного звука → **an**."
+  - q: "We met on ___ (Friday) before the conference started."
+    answers: ["the Friday"]
+    explain: "Обычно *on Friday*, но здесь уточнение *before the conference* — какая именно пятница → **the Friday**."
+  - q: "She's ___ (only person) in the team who can fix this bug."
+    answers: ["the only person"]
+    explain: "*only* (единственный) всегда требует **the**: *the only person, the only way*."
+  - q: "The flat costs £900 ___ (month), bills included."
+    answers: ["a month"]
+    explain: "«В месяц, за месяц» → **a**: *£900 a month, twice a week*."
+  - q: "They live in ___ (Czech Republic), not far from Brno."
+    answers: ["the Czech Republic"]
+    explain: "В названии есть *Republic* → **the Czech Republic**, как *the United Kingdom*."
+  - q: "What ___ (amazing view)! Let's take a photo."
+    answers: ["an amazing view"]
+    explain: "*What a/an* + исчисляемое в единственном числе; *amazing* начинается с гласного звука → **an amazing view**."
+  - q: "I'm going ___ (home) early tonight — I'm exhausted."
+    answers: ["home"]
+    explain: "**go home** — без артикля и без *to*."

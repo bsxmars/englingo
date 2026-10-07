@@ -1,0 +1,164 @@
+- id: m06-say-tell
+  lesson: 06-reported-speech/01-reported-statements
+  q: "**say** или **tell**: She ___ me she was busy."
+  a: "**told** — после *tell* сразу человек. *say* — без человека или *say to sb*."
+- id: m06-said-me-error
+  lesson: 06-reported-speech/01-reported-statements
+  q: "Найди ошибку: *He said me that he was tired.*"
+  a: "*He **told me** (that) he was tired.* / *He said (to me) that…*"
+- id: m06-tell-expressions
+  lesson: 06-reported-speech/01-reported-statements
+  q: "С каким глаголом: ___ a lie, ___ the truth, ___ the difference, ___ goodbye?"
+  a: "**tell** a lie / the truth / the difference; **say** goodbye."
+- id: m06-backshift-table
+  lesson: 06-reported-speech/01-reported-statements
+  q: "Сдвиг времён: во что превращаются Present Perfect, Past Simple, will, can?"
+  a: "Present Perfect и Past Simple → **Past Perfect**; will → **would**; can → **could**."
+- id: m06-no-backshift
+  lesson: 06-reported-speech/01-reported-statements
+  q: "Когда в косвенной речи можно **не** сдвигать время?"
+  a: "Если сказанное всё ещё правда или общеизвестно, а также если глагол-рассказчик в настоящем (*she says…*)."
+- id: m06-tomorrow
+  lesson: 06-reported-speech/01-reported-statements
+  q: "Пересказ через неделю: *tomorrow*, *yesterday*, *ago*, *here* → ?"
+  a: "**the next day**, **the day before**, **before / earlier**, **there**."
+- id: m06-explain-to
+  lesson: 06-reported-speech/01-reported-statements
+  q: "Найди ошибку: *She explained us that the server was down.*"
+  a: "*She **explained to us** that…* — *explain, mention, announce* как *say*: человек через *to*."
+- id: m06-thought-you-said
+  lesson: 06-reported-speech/01-reported-statements
+  q: "Переведи с удивлением: «Я думал, ты говорил, что не пьёшь кофе!»"
+  a: "*I thought you said you **didn't drink** coffee!* — сказанное неправда → сдвиг обязателен."
+- id: m06-this-evening
+  lesson: 06-reported-speech/01-reported-statements
+  q: "Вчера Ник сказал: \"I'll call you tomorrow evening.\" Как пересказать сегодня?"
+  a: "*Nick said he'd call me **this evening**.* — указатели меняются по ситуации, а не по таблице."
+- id: m06-first-word-shifts
+  lesson: 06-reported-speech/01-reported-statements
+  q: "\"We don't need help.\" → They said they ___ help."
+  a: "*didn't need* — сдвигается только первое слово глагола (*don't → didn't*)."
+- id: m06-question-order
+  lesson: 06-reported-speech/02-reported-questions
+  q: "Найди ошибку: *She asked me where did I live.*"
+  a: "*She asked me where **I lived**.* — в косвенном вопросе прямой порядок, без *did*."
+- id: m06-if-whether
+  lesson: 06-reported-speech/02-reported-questions
+  q: "Переведи: «Он спросил, свободна ли я в пятницу»."
+  a: "*He asked **if / whether I was** free on Friday.*"
+- id: m06-whether-only
+  lesson: 06-reported-speech/02-reported-questions
+  q: "Когда возможно только **whether**, а не *if*?"
+  a: "Перед инфинитивом и после предлога: *I don't know **whether to** call. We talked about **whether**…*"
+- id: m06-tell-not-to
+  lesson: 06-reported-speech/02-reported-questions
+  q: "Перескажи: \"Don't touch it!\" — he said to me."
+  a: "*He **told me not to touch** it.* — не ~~told me don't touch~~."
+- id: m06-ask-to
+  lesson: 06-reported-speech/02-reported-questions
+  q: "Переведи: «Она попросила меня закрыть дверь»."
+  a: "*She **asked me to close** the door.* — без *that*."
+- id: m06-polite-question
+  lesson: 06-reported-speech/02-reported-questions
+  q: "Найди ошибку: *Could you tell me where is the station?*"
+  a: "*Could you tell me where **the station is**?*"
+- id: m06-ask-to-see
+  lesson: 06-reported-speech/02-reported-questions
+  q: "Перескажи: \"Can I see your ticket?\" the inspector said."
+  a: "*The inspector **asked to see** my ticket.* — просит для себя → *ask to do* без человека."
+- id: m06-ask-for
+  lesson: 06-reported-speech/02-reported-questions
+  q: "Найди ошибку: *I asked the waiter the bill.*"
+  a: "*I asked the waiter **for** the bill.* — попросить вещь = *ask for*."
+- id: m06-wants-to-know
+  lesson: 06-reported-speech/02-reported-questions
+  q: "Сдвигается ли время: *The client wants to know when the update ___ ready.*"
+  a: "Нет: *wants to know* в настоящем → *when the update **will be** ready*. Порядок прямой."
+- id: m06-suggest
+  lesson: 06-reported-speech/03-reporting-verbs
+  q: "Найди ошибку: *He suggested me to take a taxi.*"
+  a: "*He **suggested taking** a taxi* или *He **suggested (that) I take / I should take** a taxi.*"
+- id: m06-offer-vs-suggest
+  lesson: 06-reported-speech/03-reporting-verbs
+  q: "«Он предложил подвезти меня» — offer или suggest?"
+  a: "**offer** — вызвался сам: *He **offered to give** me a lift.*"
+- id: m06-accuse-of
+  lesson: 06-reported-speech/03-reporting-verbs
+  q: "Переведи: «Она обвинила его во лжи»."
+  a: "*She **accused him of lying**.* — *of*, а не *in*."
+- id: m06-deny-admit
+  lesson: 06-reported-speech/03-reporting-verbs
+  q: "Какая форма после **deny** и **admit**?"
+  a: "**-ing** или **having + V3**: *He denied **taking** / **having taken** it.* Или *that*-придаточное."
+- id: m06-to-do-verbs
+  lesson: 06-reported-speech/03-reporting-verbs
+  q: "Какие reporting verbs берут **to do** без человека?"
+  a: "**agree, offer, promise, refuse, threaten**: *She refused to sign it.*"
+- id: m06-sb-to-do-verbs
+  lesson: 06-reported-speech/03-reporting-verbs
+  q: "Какие reporting verbs берут **sb + to do**?"
+  a: "**advise, warn, remind, persuade, tell, ask**: *He warned us not to swim.*"
+- id: m06-apologise-for
+  lesson: 06-reported-speech/03-reporting-verbs
+  q: "Перескажи: \"Sorry I didn't call,\" said Tom."
+  a: "*Tom **apologised for not calling**.* — *not* перед *-ing*."
+- id: m06-insist-on
+  lesson: 06-reported-speech/03-reporting-verbs
+  q: "Найди ошибку: *She insisted to pay for dinner.*"
+  a: "*She **insisted on paying** for dinner.*"
+- id: m06-warn-remind-that
+  lesson: 06-reported-speech/03-reporting-verbs
+  q: "Какие глаголы ставят человека прямо перед *that*: warn, admit, remind, explain, assure?"
+  a: "**warn, remind, assure** sb that. *admit* и *explain* — без человека или *to sb*."
+- id: m06-assured-us
+  lesson: 06-reported-speech/03-reporting-verbs
+  q: "Переведи: «Они заверили нас, что всё безопасно»."
+  a: "*They **assured us that** it was safe.* — не ~~assured that~~ без человека."
+- id: m06-admitted-me-error
+  lesson: 06-reported-speech/03-reporting-verbs
+  q: "Найди ошибку: *He admitted me that he was wrong.*"
+  a: "*He **admitted (to me) that** he was wrong.*"
+- id: m06-take-legal-action
+  lesson: 06-reported-speech/04-reading
+  q: "Как сказать «пригрозил подать в суд»?"
+  a: "*threatened to **take legal action***."
+- id: m06-turn-down
+  lesson: 06-reported-speech/04-reading
+  q: "Синоним *refuse an invitation* (фразовый глагол)?"
+  a: "**turn down** an invitation."
+- id: m06-recommend-watching
+  lesson: 06-reported-speech/05-writing
+  q: "Найди ошибку: *I recommend you to watch this series.*"
+  a: "*I **recommend watching** this series* или *I recommend (that) you watch it.*"
+- id: m06-must-deduction
+  lesson: 06-reported-speech/01a-reported-modals
+  q: "Перескажи: *\"You must be tired,\" he said.*"
+  a: "*He said I **must** be tired.* — *must*-вывод не меняется; *had to* — только для обязанности."
+- id: m06-mustnt-reported
+  lesson: 06-reported-speech/01a-reported-modals
+  q: "Как пересказать запрет *\"You mustn't park here\"*?"
+  a: "*She said we **mustn't** / **weren't allowed to** park there.* Не ~~didn't have to~~ — это «не обязательно»."
+- id: m06-shall-i-offered
+  lesson: 06-reported-speech/01a-reported-modals
+  q: "Перескажи: *\"Shall I make some coffee?\" Ben asked.*"
+  a: "*Ben **offered to make** some coffee.*"
+- id: m06-shall-we-suggested
+  lesson: 06-reported-speech/01a-reported-modals
+  q: "Перескажи: *\"Shall we go by bike?\" said Kate.*"
+  a: "*Kate **suggested going** by bike.* / *suggested (that) we go* by bike."
+- id: m06-second-conditional-reported
+  lesson: 06-reported-speech/01a-reported-modals
+  q: "Сдвигается ли 2nd conditional: *\"If I had a car, I'd drive you\"*?"
+  a: "Нет: *He said if he **had** a car, he**'d drive** me.* 2nd и 3rd не меняются, 1st — сдвигается."
+- id: m06-first-conditional-reported
+  lesson: 06-reported-speech/01a-reported-modals
+  q: "Перескажи: *\"If it rains, we'll stay in,\" she said.*"
+  a: "*She said that if it **rained**, they **would stay** in.*"
+- id: m06-wish-reported
+  lesson: 06-reported-speech/01a-reported-modals
+  q: "Перескажи: *\"I wish I lived by the sea,\" Ira said.*"
+  a: "*Ira said she **wished** she **lived** by the sea.* — меняется только *wish*."
+- id: m06-would-you-like-invited
+  lesson: 06-reported-speech/01a-reported-modals
+  q: "Перескажи одним глаголом: *\"Would you like to join us?\" they asked me.*"
+  a: "*They **invited me to join** them.*"

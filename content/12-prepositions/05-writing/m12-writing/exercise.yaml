@@ -1,0 +1,37 @@
+title: "Email: a friend is coming to visit"
+type: writing
+intro: "Напиши неформальное письмо в формате B2 First, Part 2. Ответь на все вопросы друга и используй точные предлоги места, движения и времени."
+prompt: |
+  You have received this email from your English-speaking friend Sam:
+
+  > *I've finally booked my flights — I'm coming to visit you next month for a long weekend! What's the best way to get from the airport to your place? And what should I definitely see while I'm there? I only have two days, so I want to make the most of them!*
+
+  Write your **email** to Sam. Explain how to get to your home and suggest **two or three** things to see or do.
+
+  Write your **email** in 140–190 words.
+words: [140, 190]
+target_grammar:
+  - "Предлоги движения и транспорта: by train, get off at, across, along, on foot"
+  - "Предлоги места: opposite, next to, at the end of, on the corner of, in the centre"
+  - "Предлоги времени: on Saturday, in the evening, at the weekend, by the time, until"
+checklist:
+  - "Есть приветствие и реакция на письмо друга."
+  - "Объяснено, как добраться: вид транспорта, время в пути, где выйти."
+  - "Предложены 2–3 места, и про каждое сказано, где оно и почему стоит туда пойти."
+  - "Использовано не меньше восьми разных предлогов места, движения и времени, без калек (on the photo, arrive to, by foot)."
+  - "Неформальный регистр: сокращения, прямые обращения, дружеская концовка."
+  - "Есть связки и переходы: first, after that, if you're tired, by the way."
+  - "Объём 140–190 слов."
+model_answer: |
+  Hi Sam,
+
+  Great news that you've booked your flights — I can't wait to see you!
+
+  Getting to my place is easy. When you come out of arrivals, follow the signs to the express train. It leaves every twenty minutes and takes about half an hour to get to the city centre. Get off at Central Station, and I'll meet you on the platform. My flat is just a ten-minute walk from there, so we can go on foot.
+
+  As for sightseeing, two days is enough if we plan well. On Saturday morning, let's walk along the river to the old town. The cathedral is right in the middle of the main square, and you can climb up to the top for an amazing view. In the afternoon, there's a great market opposite the castle — it's open until six. On Sunday, if the weather's nice, we could take a boat across the lake to the island and have lunch there.
+
+  By the way, bring comfortable shoes — the streets are steep! Text me when you land.
+
+  See you soon,
+  Alex

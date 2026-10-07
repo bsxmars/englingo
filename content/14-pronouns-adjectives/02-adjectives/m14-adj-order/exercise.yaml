@@ -1,0 +1,36 @@
+title: "Собери предложение с прилагательными"
+type: order
+intro: "Собери предложение из слов. Следи за порядком прилагательных и за выбором -ed / -ing."
+hints:
+  - "Мнение → размер → возраст → цвет → происхождение → материал → тип → существительное."
+items:
+  - q: "«Мы купили красивый старый деревянный стол»."
+    answers: ["We bought a beautiful old wooden table"]
+    explain: "Мнение (*beautiful*) → возраст (*old*) → материал (*wooden*)."
+  - q: "«Она водит маленькую красную итальянскую машину»."
+    answers: ["She drives a small red Italian car"]
+    explain: "Размер → цвет → происхождение: *small red Italian*."
+  - q: "Тезис для эссе: «Богатые должны платить больше налогов»."
+    answers: ["The rich should pay more taxes"]
+    explain: "*the rich* = богатые люди вообще, множественное число без *-s*."
+  - q: "«Я был очень разочарован концовкой»."
+    answers: ["I was really disappointed with the ending"]
+    explain: "Чувство человека → *disappointed*, дальше предлог **with** (или *by*)."
+  - q: "«Фильм был таким запутанным, что я ушёл пораньше»."
+    answers: ["The film was so confusing that I left early"]
+    explain: "Фильм **сбивает с толку** → *confusing*. Конструкция *so + прилагательное + that*."
+  - q: "«На диване спит кошка» (буквально: есть спящая кошка)."
+    answers: ["There is a sleeping cat on the sofa", "On the sofa there is a sleeping cat"]
+    explain: "Перед существительным — *sleeping*, а не *asleep*. Новое сообщаем через *there is*."
+  - q: "«В музее огромная современная стеклянная крыша»."
+    answers: ["The museum has a huge modern glass roof"]
+    explain: "Размер (*huge*) → возраст (*modern*) → материал (*glass*) → существительное."
+  - q: "«После совещания все выглядели уставшими и скучающими»."
+    answers: ["Everyone looked tired and bored after the meeting", "After the meeting everyone looked tired and bored", "Everyone looked bored and tired after the meeting", "After the meeting everyone looked bored and tired"]
+    explain: "После *look* — прилагательные; чувства людей → *tired, bored* (на -ed)."
+  - q: "«Мой старший брат работает поваром в Париже»."
+    answers: ["My elder brother works as a chef in Paris", "My elder brother works in Paris as a chef"]
+    explain: "*elder* стоит только перед существительным: *my elder brother*."
+  - q: "«Это чудесный маленький греческий ресторанчик»."
+    answers: ["It is a lovely little Greek restaurant"]
+    explain: "Мнение (*lovely*) → размер (*little*) → происхождение (*Greek*)."

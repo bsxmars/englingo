@@ -1,0 +1,55 @@
+title: "Я тоже, а я нет, думаю, да"
+type: choice
+intro: "Выбери естественную реакцию на реплику."
+hints:
+  - "После утверждения — So + вспомогательный + подлежащее; после отрицания — Neither / Nor."
+  - "Не согласен — подлежащее + вспомогательный: I do. / I don't."
+items:
+  - q: "— I'm exhausted. — ___"
+    options: ["So am I.", "So I am.", "Neither am I."]
+    answer: 0
+    explain: "Реплика утвердительная → **So** + *am* + *I*. Подлежащее — в конце."
+  - q: "— I didn't sleep well last night. — ___"
+    options: ["So did I.", "Neither did I.", "Neither I did."]
+    answer: 1
+    explain: "Реплика отрицательная → **Neither did I**. Порядок: вспомогательный, потом подлежащее."
+  - q: "— I've never been to Iceland. — ___"
+    options: ["Neither have I.", "So have I.", "Neither I have."]
+    answer: 0
+    explain: "*never* делает реплику отрицательной → **Neither have I**."
+  - q: "— Anna can speak four languages. — Really? And ___ her husband."
+    options: ["so can", "so does", "neither can"]
+    answer: 0
+    explain: "Вспомогательный повторяем из реплики: *can* → **so can** her husband."
+  - q: "— I love working early in the morning. — Oh, I ___. I'm useless before ten."
+    options: ["do", "don't", "am not"]
+    answer: 1
+    explain: "Не согласен с утверждением → **I don't** (вспомогательный *do* + *not*)."
+  - q: "— I don't like spicy food. — ___ I could eat chilli every day!"
+    options: ["Neither do I.", "I do.", "So do I."]
+    answer: 1
+    explain: "Возражение на отрицательную реплику — **I do** (с ударением на *do*)."
+  - q: "— Our team lost again on Saturday. — And ___ ours."
+    options: ["so did", "so was", "neither did"]
+    answer: 0
+    explain: "*lost* — Past Simple → вспомогательный **did**: *And so did ours*."
+  - q: "— I won't be at the meeting tomorrow. — ___ I've got a dentist's appointment."
+    options: ["Neither will I.", "So will I.", "Neither won't I."]
+    answer: 0
+    explain: "*won't* — отрицание → **Neither will I**. *Neither* уже содержит «не», второй *not* не нужен."
+  - q: "— Are you sure the back door is locked? — Yes, ___."
+    options: ["I'm sure", "I'm sure so", "I think it so"]
+    answer: 0
+    explain: "После **be sure** и **know** *so* не ставится: *Yes, I'm sure. Yes, I know.*"
+  - q: "— Do you think they'll accept our offer? — ___ It's much lower than they wanted."
+    options: ["I don't think so.", "I think not so.", "I don't hope so."]
+    answer: 0
+    explain: "С *think* отрицание обычно в начале: **I don't think so**. *I don't hope so* — ошибка."
+  - q: "— Will you be home for dinner? — ___ I've got loads of work to finish."
+    options: ["I hope not.", "I'm afraid not.", "I don't think not."]
+    answer: 1
+    explain: "«К сожалению, нет» — **I'm afraid not**. *I don't think not* — двойное отрицание."
+  - q: "— There's a train strike tomorrow. — Yes, ___. I'll have to work from home."
+    options: ["I know", "I know so", "I know it so"]
+    answer: 0
+    explain: "После **know** *so* не ставят: просто *Yes, I know*."

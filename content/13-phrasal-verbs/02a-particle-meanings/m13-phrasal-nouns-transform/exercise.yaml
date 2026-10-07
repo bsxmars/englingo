@@ -1,0 +1,64 @@
+title: "Перефразирование: глагол ↔ существительное (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое). Часто нужно превратить фразовый глагол в существительное или наоборот.
+hints:
+  - "breakdown ↔ break down, outcome ↔ turn out / come out, takeover ↔ take over."
+  - "После *because of, due to, despite* — существительное; после *because* — придаточное."
+  - "turn out = оказаться: It turned out that… / … turned out to be…"
+items:
+  - q: "We were late because our bus broke down."
+    key: "BREAKDOWN"
+    stem: "We were late because of ___ our bus."
+    answers: ["the breakdown of", "a breakdown of"]
+    explain: "После *because of* — существительное: **the breakdown of** our bus. Глагол *broke down* превращается в *breakdown*."
+  - q: "In the end, the hike was much easier than we expected."
+    key: "TURNED"
+    stem: "The hike ___ much easier than we expected."
+    answers: ["turned out to be", "turned out"]
+    explain: "**turn out (to be)** — оказаться в итоге. Можно и без *to be*: *turned out much easier*."
+  - q: "The medicine stopped working after a couple of hours."
+    key: "WORE"
+    stem: "The effect of the medicine ___ a couple of hours."
+    answers: ["wore off after"]
+    explain: "**wear off** — постепенно пройти (об эффекте, боли). *off* — постепенное исчезновение."
+  - q: "A large bank took control of the company last year."
+    key: "TAKEOVER"
+    stem: "Last year there was ___ the company by a large bank."
+    answers: ["a takeover of"]
+    explain: "Глагол *take over* → существительное **a takeover of** sth. Конструкция *there was* требует существительного."
+  - q: "Despite the problems at the start, the project was a success."
+    key: "SETBACKS"
+    stem: "Despite ___ start, the project was a success."
+    answers: ["the setbacks at the", "some setbacks at the", "early setbacks at the", "several setbacks at the"]
+    explain: "*problems* → **setbacks** (неудачи на пути). После *despite* — существительное."
+  - q: "All my effort in the gym has finally produced results."
+    key: "PAID"
+    stem: "All my effort in the gym has ___."
+    answers: ["finally paid off", "paid off"]
+    explain: "**pay off** — окупиться, дать результат. Present Perfect сохраняется: *has finally paid off*."
+  - q: "War started suddenly in 1914."
+    key: "BROKE"
+    stem: "War ___ 1914."
+    answers: ["broke out in"]
+    explain: "**break out** — внезапно начаться (о войне, пожаре, эпидемии). *out* — внезапное появление."
+  - q: "We didn't intend to spend the whole weekend at home, but we did."
+    key: "ENDED"
+    stem: "We ___ the whole weekend at home."
+    answers: ["ended up spending"]
+    explain: "**end up** + *-ing* — в итоге сделать то, что не планировал."
+  - q: "Very few people came to vote in the local election."
+    key: "TURNOUT"
+    stem: "There was a ___ local election."
+    answers: ["very low turnout in the", "low turnout in the", "very low turnout at the", "low turnout at the", "poor turnout in the", "poor turnout at the"]
+    explain: "*few people came* → **a low turnout** (низкая явка). *turnout in / at the election*."
+  - q: "The final result of the negotiations was a compromise."
+    key: "OUTCOME"
+    stem: "The ___ negotiations was a compromise."
+    answers: ["outcome of the"]
+    explain: "*result* → **outcome**: *the outcome of the negotiations*. Предлог после *outcome* — *of*."
+  - q: "Experts expect the economy to do well next year."
+    key: "OUTLOOK"
+    stem: "According to experts, the ___ next year is positive."
+    answers: ["economic outlook for", "outlook for the economy"]
+    explain: "*expect to do well* → **outlook** (прогноз, перспектива): *the economic outlook for next year*. Предлог после *outlook* — *for*."

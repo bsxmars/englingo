@@ -1,0 +1,43 @@
+title: "in, on или at"
+type: gap
+intro: "Впиши **in**, **on** или **at**. Предложения написаны на британском английском."
+hints:
+  - "at — точка (адрес, час, событие), on — поверхность и день, in — пространство и длинный период."
+  - "Не переводи дословно: «на фото» = in the photo, «на работе» = at work, «через час» = in an hour."
+items:
+  - q: "Our flat is ___ the fifth floor, and the lift is always broken."
+    answers: ["on"]
+    explain: "Этаж — **on**: *on the fifth floor*. Этаж мыслится как поверхность, по которой ходят."
+  - q: "My sister has lived ___ Manchester for ten years."
+    answers: ["in"]
+    explain: "Город или страна — **in**: *in Manchester, in Italy*."
+  - q: "Have you seen this? There's a typo ___ the very first page."
+    answers: ["on"]
+    explain: "Страница — поверхность: **on the page**. Сравни: *in the book* — внутри книги."
+  - q: "Who's the man standing next to you ___ this photo?"
+    answers: ["in"]
+    explain: "Люди на фотографии — **in the photo** (внутри изображения). Русское «на фото» — ловушка."
+  - q: "The interview starts ___ half past nine, so please don't be late."
+    answers: ["at"]
+    explain: "Время по часам — точка: **at** half past nine."
+  - q: "I was born ___ 1994, the same year as my best friend."
+    answers: ["in"]
+    explain: "Год — длинный период: **in** 1994."
+  - q: "The supermarket is closed ___ Christmas Day."
+    answers: ["on"]
+    explain: "Конкретный день, даже праздничный, — **on**: *on Christmas Day*. А праздник целиком — *at Christmas*."
+  - q: "I can't sleep ___ night when the neighbours are having a party."
+    answers: ["at"]
+    explain: "«Ночью» вообще, по ночам — **at night**. *In the night* — однажды посреди ночи."
+  - q: "She isn't home yet — she's still ___ work."
+    answers: ["at"]
+    explain: "Устойчивое сочетание: **at work**, *at school, at home*. Важно, чем человек занят, а не здание."
+  - q: "Don't worry, the new office will open ___ three weeks."
+    answers: ["in"]
+    explain: "«Через» какой-то срок от сейчас — **in**: *in three weeks*. Не ~~after three weeks~~."
+  - q: "My grandfather is ___ hospital after a minor operation."
+    answers: ["in"]
+    explain: "Лежит в больнице как пациент — **in hospital** (в британском английском без артикля). *At the hospital* — пришёл туда, например, на работу или навестить."
+  - q: "Budapest is ___ the Danube, and it's beautiful at night."
+    answers: ["on"]
+    explain: "Город стоит на реке — **on**: *on the Danube, on the Thames*. Река — линия, город на ней — как точка на линии."

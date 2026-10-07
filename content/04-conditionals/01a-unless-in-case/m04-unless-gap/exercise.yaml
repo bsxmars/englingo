@@ -1,0 +1,44 @@
+title: "Формы глаголов после unless, in case, even if"
+type: gap
+intro: "Поставь глагол в скобках в нужную форму. Помни: после условных союзов про будущее — Present Simple, а в нереальных ситуациях время сдвигается назад."
+hints:
+  - "unless уже содержит отрицание — глагол после него утвердительный."
+  - "in case о прошлом → Past Simple; supposing / what if о фантазии → Past Simple; о прошлом → Past Perfect."
+  - "otherwise в прошлом → would have + V3."
+items:
+  - q: "Unless the landlord ___ (fix) the heating by Monday, we're moving out."
+    answers: ["fixes"]
+    explain: "После **unless** о будущем — Present Simple, и без второго отрицания: *unless he fixes* = *if he doesn't fix*."
+  - q: "I packed an extra charger in case my phone ___ (die) on the trip."
+    answers: ["died"]
+    explain: "Мера предосторожности в прошлом → **in case + Past Simple**: *in case it died*."
+  - q: "What if the train ___ (be) cancelled tomorrow? Have you got a backup plan?"
+    answers: ["is", "gets"]
+    explain: "Реальная возможность в будущем → **What if** + Present Simple, как в first conditional."
+  - q: "Supposing you ___ (lose) your job tomorrow, how long could you live on your savings?"
+    answers: ["lost"]
+    explain: "Воображаемая, маловероятная ситуация → **Supposing** + Past Simple, а в результате *could*."
+  - q: "I'm going to the match on Saturday even if it ___ (pour) with rain."
+    answers: ["pours", "is pouring"]
+    explain: "**even if** о будущем — Present Simple (или Continuous для процесса), не *will pour*."
+  - q: "Luckily, I had a GPS; otherwise I ___ (get) completely lost in those hills."
+    answers: ["would have got", "would have gotten", "might have got", "could have got", "might have gotten", "could have gotten"]
+    explain: "**otherwise** о прошлом = *if I hadn't had a GPS* → результат третьего типа: **would have + V3**."
+  - q: "You can use my car as long as you ___ (bring) it back with a full tank."
+    answers: ["bring"]
+    explain: "После **as long as** о будущем — Present Simple: *as long as you bring*."
+  - q: "What if you ___ (not / notice) the mistake before the report went out? We'd have been in serious trouble."
+    answers: ["hadn't noticed", "had not noticed"]
+    explain: "Гипотеза о прошлом, которого не было → **What if** + Past Perfect, результат — *would have been*."
+  - q: "But for the safety net, the acrobat ___ (break) his neck."
+    answers: ["would have broken", "could have broken", "might have broken"]
+    explain: "**But for** = *if it hadn't been for*; падение уже случилось → **would have + V3**."
+  - q: "Take the stairs in case the lift ___ (break) down again."
+    answers: ["breaks"]
+    explain: "**in case** о будущем — Present Simple. ~~in case it will break~~ — ошибка."
+  - q: "I wouldn't eat that even if you ___ (pay) me."
+    answers: ["paid"]
+    explain: "Нереальная ситуация с **even if** → второй тип: Past Simple *paid* + *wouldn't eat*."
+  - q: "The contract will be renewed on condition that the supplier ___ (meet) every deadline this year."
+    answers: ["meets"]
+    explain: "**on condition that** — тоже условный союз: о будущем Present Simple, без *will*."

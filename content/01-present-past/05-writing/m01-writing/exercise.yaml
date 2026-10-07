@@ -1,0 +1,38 @@
+title: "Статья: A moment that changed my life"
+type: writing
+intro: "Напиши статью для англоязычного сайта. Сначала набросай план по абзацам из урока, потом пиши."
+prompt: |
+  You see this announcement on an English-language website for young professionals.
+
+  > **Articles wanted: A moment that changed my life**
+  >
+  > Tell us about a moment that changed your life. What was your life like before? What happened? How is your life different now?
+  >
+  > The best articles will be published on our website.
+
+  Write your **article** (140–190 words).
+words: [140, 190]
+target_grammar:
+  - "Past Simple, Past Continuous, Past Perfect (Continuous) в рассказе"
+  - "used to / would — жизнь до перемены"
+  - "Present Perfect — что изменилось с тех пор"
+checklist:
+  - "Есть заголовок, и первая фраза цепляет читателя (вопрос, сцена, неожиданное утверждение)."
+  - "Текст разбит на 4–5 абзацев: раньше → момент → что изменилось → вывод."
+  - "Жизнь «до» описана через used to и/или would (would — только для действий)."
+  - "В рассказе о моменте есть Past Continuous для фона и хотя бы один Past Perfect."
+  - "Перемены описаны через Present Perfect: Since then I've…"
+  - "Есть связки последовательности: at first, then, by the time, eventually."
+  - "Стиль живой и личный, но без сленга; 140–190 слов."
+model_answer: |
+  **The day I missed my train**
+
+  Have you ever been grateful for a mistake? I have, and it happened on an ordinary Tuesday.
+
+  Five years ago, I used to work in a bank. Every morning I would catch the 7:15 train, sit at my desk until seven and go home too tired to do anything else. I had stopped noticing how unhappy I was.
+
+  That Tuesday I was running to the station when my phone fell into a puddle. By the time I had picked it up, the train had left. I was standing on the platform, furious, when an old man next to me started talking about his garden. He had been a lawyer for forty years, he said, and his only regret was that he hadn't started painting until he retired.
+
+  Since then, I've changed a lot. I've been taking art classes for four years, and last spring I quit the bank to work as an illustrator. I've never earned less, or felt better.
+
+  So, if you ever miss a train, don't get angry. Look around. Someone might have something to tell you.

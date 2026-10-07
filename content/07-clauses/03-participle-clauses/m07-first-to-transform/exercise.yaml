@@ -1,0 +1,51 @@
+title: "The first to…, the only one to… (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+
+  Почти везде подходит конструкция *the first / the last / the only one / the youngest + to do*.
+hints:
+  - "the first / the last / the only one / превосходная степень + to-инфинитив = «первый, кто…»."
+  - "Пассивный смысл → to be + V3: the first to be chosen."
+  - "После only нужно существительное или one: the only one to…"
+items:
+  - q: "Nobody else in the group passed the test. Only Dima did."
+    key: "ONLY"
+    stem: "Dima was ___ the test."
+    answers: ["the only one to pass", "the only person to pass", "the only student to pass", "the only one who passed", "the only person who passed", "the only student who passed"]
+    explain: "«Единственный, кто…» → **the only one / person to pass**. После *only* существительное или *one* обязательно."
+  - q: "No woman had run the company before Ms Lee."
+    key: "FIRST"
+    stem: "Ms Lee was ___ the company."
+    answers: ["the first woman to run", "the first woman who ran"]
+    explain: "«Первая женщина, которая…» → **the first woman to run**. Инфинитив здесь описывает реальное прошлое событие."
+  - q: "Everyone else had already gone home when Max left the party."
+    key: "LAST"
+    stem: "Max was ___ the party."
+    answers: ["the last to leave", "the last one to leave", "the last person to leave", "the last guest to leave", "the last person who left", "the last one who left", "the last guest who left"]
+    explain: "«Ушёл последним» → **the last (one) to leave**. После *last* существительное можно опустить."
+  - q: "No player as young as Lin has ever won this tournament."
+    key: "YOUNGEST"
+    stem: "Lin is ___ this tournament."
+    answers: ["the youngest player to win", "the youngest person to win", "the youngest to win", "the youngest ever to win", "the youngest winner of", "the youngest ever winner of"]
+    explain: "Превосходная степень + to-инфинитив: **the youngest player to win**. Можно и через существительное: *the youngest winner of*."
+  - q: "They chose Mia for the team before anyone else."
+    key: "FIRST"
+    stem: "Mia was ___ for the team."
+    answers: ["the first to be chosen", "the first one to be chosen", "the first one chosen", "the first person chosen", "the first player chosen", "the first chosen"]
+    explain: "Мию выбрали (пассив) → **the first to be chosen**. Можно и сокращённо с V3: *the first one chosen*."
+  - q: "Nobody else noticed the mistake. Only the intern did."
+    key: "ONE"
+    stem: "The intern was ___ the mistake."
+    answers: ["the only one to notice", "the only one who noticed"]
+    explain: "**the only one to notice** = «единственный, кто заметил». ~~the only to notice~~ без *one* невозможно."
+  - q: "Anna was the only person who offered to help."
+    key: "TO"
+    stem: "Anna was the only ___ help."
+    answers: ["person to offer to", "one to offer to"]
+    explain: "*who offered* → **to offer**: *the only person to offer to help*. Два *to* подряд по смыслу нормальны: *to offer* + *to help*."
+  - q: "Neil Armstrong was the first man who walked on the Moon."
+    key: "WALK"
+    stem: "Neil Armstrong was ___ on the Moon."
+    answers: ["the first man to walk", "the first person to walk", "the first human to walk", "the first to walk", "the first astronaut to walk"]
+    explain: "*the first man who walked* → **the first man to walk**. Ключевое слово *walk* в начальной форме подсказывает инфинитив."

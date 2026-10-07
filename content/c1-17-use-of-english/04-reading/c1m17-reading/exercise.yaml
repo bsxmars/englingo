@@ -1,0 +1,60 @@
+title: "Why learn a language now?"
+type: reading
+intro: "Прочитай четыре мнения и ответь на вопросы. Первые шесть — в формате C1 Advanced, Part 6 (сравнение мнений): выбери автора A, B, C или D. В остальных впиши слово или фразу из текста."
+hints:
+  - "Для каждого вопроса найди нужную тему во **всех четырёх** текстах и сравни позиции."
+  - "Если автор тему не затрагивает, он не может ни соглашаться, ни спорить."
+text: |
+  ## Why learn a language in the age of machine translation?
+
+  *Four commentators give their views.*
+
+  ### A. Hannah Reeve, technology journalist
+
+  Let us be honest about what machine translation can now do. For the vast majority of commercial texts — manuals, contracts, product descriptions — it produces output that is accurate enough to publish with minimal editing. Consequently, the routine end of the translation industry is shrinking, and I see no reason to expect it to recover. Literary translation may survive as a craft, but it has always been a niche. Nor am I persuaded by the claim that learning a language somehow rewires the brain or broadens the mind. The research behind such claims is thinner than enthusiasts admit, and most of the benefits attributed to language study could equally be gained from learning music or mathematics. None of this means that people should stop learning languages for pleasure. It does mean, however, that schools ought to be far more selective about how they spend limited timetable hours. In my view, a foreign language should become an option rather than a requirement, freeing time for subjects that today's students will genuinely need.
+
+  ### B. Marcus Delaney, former diplomat
+
+  I have little doubt that demand for routine translation will continue to fall; in that narrow sense, the machines have won. And for a tourist ordering dinner or asking for directions, a pair of translating earbuds is perfectly adequate — I have used them myself without embarrassment. But to treat language learning as nothing more than a means of exchanging information is to misunderstand it entirely. What thirty years of diplomacy taught me is that each language carries a set of assumptions about politeness, time and obligation, and that you only start to grasp them once you have struggled to express yourself within them. That struggle changes how you see your own culture as much as anyone else's. It is precisely for this reason that I would resist any attempt to make languages optional in schools. Teenagers rarely choose what is difficult, and the value of the experience only becomes apparent years later.
+
+  ### C. Dr Amira Haddad, linguist
+
+  The debate tends to focus on whether machines can translate, when the more interesting question is what is lost when they do. Even the simplest exchange between two people — a greeting, a joke, a hesitant apology — relies on timing, tone and the willingness to make mistakes in front of someone. Route those moments through a device and something essential disappears: the other person is no longer talking to you but to your phone. Learning a language, by contrast, forces a kind of humility that I believe makes people more patient listeners in every language they speak. My frustration is less with technology than with classrooms. Far too many students spend years conjugating verbs and memorising vocabulary lists without ever holding a real conversation. Little wonder, then, that so many leave school convinced they are "bad at languages" and grateful for any app that spares them the effort.
+
+  ### D. Professor Jonas Lind, cognitive scientist
+
+  There is now reasonably robust evidence that sustained language learning strengthens attention and the ability to switch between tasks, and that these effects persist into old age. Such benefits are not trivial, and they are one of several reasons why I believe a foreign language should remain a core part of every child's education rather than an optional extra. As for the translation industry, predictions of its demise strike me as premature. Machine output still requires checking by someone who understands both languages and both cultures, and as the volume of translated text multiplies, so does the need for skilled human editors. The work is changing, certainly, but it is not disappearing. If anything, linguists who understand how these systems fail will be in greater demand than ever. The real risk is not that machines will replace human expertise, but that we will stop producing the experts capable of supervising them.
+items:
+  - q: "Which writer shares A's view about the future of routine professional translation?"
+    options: ["Writer B", "Writer C", "Writer D", "None of the other writers"]
+    answer: 0
+    explain: "A: *the routine end of the translation industry is shrinking*. B: *demand for routine translation will continue to fall*. D, напротив, считает, что работа меняется, но не исчезает; C эту тему не обсуждает."
+  - q: "Which writer has a different view from the others on the personal benefits of learning a language?"
+    options: ["Writer A", "Writer B", "Writer C", "Writer D"]
+    answer: 0
+    explain: "B (меняет взгляд на свою культуру), C (учит смирению и терпению) и D (внимание, переключение задач) видят пользу. A сомневается: *Nor am I persuaded… The research… is thinner than enthusiasts admit*."
+  - q: "Which writer shares B's opinion that languages should remain compulsory at school?"
+    options: ["Writer A", "Writer C", "Writer D", "None of the other writers"]
+    answer: 2
+    explain: "B: *I would resist any attempt to make languages optional*. D: *should remain a core part of every child's education rather than an optional extra*. A — за то, чтобы сделать язык предметом по выбору; C критикует методику, но не статус предмета."
+  - q: "Which writer takes a different view from C on whether translation devices are adequate for simple everyday exchanges?"
+    options: ["Writer A", "Writer B", "Writer D", "None of the other writers"]
+    answer: 1
+    explain: "C: даже простой обмен фразами через устройство теряет главное. B: *for a tourist ordering dinner… translating earbuds is perfectly adequate*. A и D разговорные устройства не обсуждают."
+  - q: "Which writer criticises the way languages are currently taught?"
+    options: ["Writer A", "Writer B", "Writer C", "Writer D"]
+    answer: 2
+    explain: "C: *My frustration is less with technology than with classrooms… years conjugating verbs… without ever holding a real conversation*."
+  - q: "Which writer suggests that machine translation may create more demand for certain specialists?"
+    options: ["Writer A", "Writer B", "Writer C", "Writer D"]
+    answer: 3
+    explain: "D: *linguists who understand how these systems fail will be in greater demand than ever*. Оборот *If anything* («скорее даже») подчёркивает, что спрос, скорее, вырастет."
+  - q: "Find a word in text D that means 'the end or death of something'."
+    answers: ["demise"]
+    explain: "*predictions of its **demise*** — «гибель, конец». Формальное слово, частое в публицистике."
+  - q: "Find a phrase in text C that means 'it is not surprising'."
+    answers: ["little wonder", "Little wonder, then"]
+    explain: "***Little wonder**, then, that…* — «неудивительно, что…». Это фокусная конструкция без глагола, типичная для эссе."
+  - q: "Find a word in text A that means 'a small, specialised area of activity or market'."
+    answers: ["niche"]
+    explain: "*it has always been a **niche*** — «ниша», узкая специализированная область."

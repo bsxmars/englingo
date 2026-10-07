@@ -1,0 +1,59 @@
+title: "Перефразирование: which, whom, of which (C1 Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы смысл совпал с первым. Используй **ключевое слово** без изменений и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "Два предложения → одно: which о всём предложении, квантор + of whom / of which."
+  - "in which case, by which time, at which point — связки внутри одного предложения."
+  - "Предлог впереди — только перед which / whom."
+items:
+  - q: "The train was delayed by two hours. This meant we missed the opening speech."
+    key: "WHICH"
+    stem: "The train was delayed by two hours, ___ the opening speech."
+    answers: ["which meant we missed", "which meant that we missed", "which meant missing", "which meant us missing", "which meant our missing", "which resulted in us missing", "which resulted in our missing", "which made us miss"]
+    explain: "Комментарий ко всему предложению → **which**: *…, which meant (that) we missed…*."
+  - q: "The firm employs two hundred people. Most of them work remotely."
+    key: "WHOM"
+    stem: "The firm employs two hundred people, ___ remotely."
+    answers: ["most of whom work", "the majority of whom work", "most of whom are working"]
+    explain: "Квантор + **of whom** превращает второе предложение в non-defining-придаточное."
+  - q: "The jury may fail to agree. If that happens, there will be a retrial."
+    key: "CASE"
+    stem: "The jury may fail to agree, ___ a retrial."
+    answers: ["in which case there will be", "in which case there would be", "in which case there'll be"]
+    explain: "**in which case** = «и в этом случае»; одна связка заменяет целое условное предложение."
+  - q: "The fire brigade arrived at midnight. By then the barn had burnt down."
+    key: "TIME"
+    stem: "The fire brigade arrived at midnight, ___ had burnt down."
+    answers: ["by which time the barn", "by which time the whole barn"]
+    explain: "**by which time** = «а к тому времени»; после неё Past Perfect, потому что сарай сгорел раньше."
+  - q: "I sent the contract to a lawyer, but I can't remember her name."
+    key: "WHOSE"
+    stem: "I sent the contract to a lawyer ___ remember."
+    answers: ["whose name I can't", "whose name I cannot", "whose name I can not"]
+    explain: "«чьё имя» → **whose name**. *whose* стоит в начале придаточного вместе со своим существительным."
+  - q: "The council received six proposals. None of them was funded in the end."
+    key: "WHICH"
+    stem: "The council received six proposals, ___ funded in the end."
+    answers: ["none of which was", "none of which were"]
+    explain: "Вещи → **of which**; *none of which* сочетается и с *was*, и с *were*. *none of them* после запятой дало бы comma splice."
+  - q: "Everyone was surprised that she agreed to the deal without a single objection."
+    key: "WHICH"
+    stem: "She agreed to the deal without a single objection, ___."
+    answers: ["which surprised everyone", "which came as a surprise to everyone", "which was a surprise to everyone", "which took everyone by surprise", "which surprised everybody", "which came as a surprise to everybody", "which took everybody by surprise"]
+    explain: "Реакция на всё событие целиком → **which** о всём предложении."
+  - q: "Talks broke down at that moment, and both delegations walked out."
+    key: "POINT"
+    stem: "Talks broke down, ___ walked out."
+    answers: ["at which point both delegations", "at which point the two delegations", "at which point both of the delegations"]
+    explain: "**at which point** = «и в этот момент» — формальная связка внутри одного предложения."
+  - q: "The person I was speaking to was the head of the department."
+    key: "WHOM"
+    stem: "The person ___ was the head of the department."
+    answers: ["to whom I was speaking", "to whom I was talking", "with whom I was speaking", "with whom I was talking", "whom I was speaking to", "whom I was talking to"]
+    explain: "Формально предлог переносится вперёд: **to whom I was speaking**. Вариант с предлогом в конце тоже грамматичен."
+  - q: "She has written four novels. The second one is by far the best."
+    key: "OF"
+    stem: "She has written four novels, ___ by far the best."
+    answers: ["the second of which is", "of which the second is"]
+    explain: "Порядковое числительное + **of which**: *the second of which*. Возможен и формальный порядок *of which the second*."

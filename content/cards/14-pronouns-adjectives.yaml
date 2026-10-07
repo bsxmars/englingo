@@ -1,0 +1,136 @@
+- id: m14-there-it
+  lesson: 14-pronouns-adjectives/01-pronouns
+  q: "**there** или **it**: ___'s a new café on our street. ___'s really cosy."
+  a: "*There*'s a new café… *It*'s really cosy. — *there* вводит новое, *it* продолжает о нём."
+- id: m14-it-weather
+  lesson: 14-pronouns-adjectives/01-pronouns
+  q: "Переведи: «Сегодня холодно, и до станции далеко»."
+  a: "***It**'s cold today, and **it**'s a long way to the station.* — пустое *it* для погоды и расстояния."
+- id: m14-met-ourselves
+  lesson: 14-pronouns-adjectives/01-pronouns
+  q: "Найди ошибку: *We met ourselves at the station.*"
+  a: "*We **met** at the station.* — *meet, relax, hurry, feel, concentrate* без *-self*."
+- id: m14-enjoy-yourself
+  lesson: 14-pronouns-adjectives/01-pronouns
+  q: "Переведи: «Хорошо вам провести время!» (нескольким людям)"
+  a: "*Enjoy **yourselves**!* — *enjoy* без дополнения не бывает."
+- id: m14-by-myself
+  lesson: 14-pronouns-adjectives/01-pronouns
+  q: "Переведи: «Я сам всё покрасил, без помощи»."
+  a: "*I painted it all **myself** / **by myself**.*"
+- id: m14-each-other
+  lesson: 14-pronouns-adjectives/01-pronouns
+  q: "Разница: *They blamed themselves* / *They blamed each other*?"
+  a: "*themselves* — каждый себя; ***each other*** — друг друга."
+- id: m14-one-ones
+  lesson: 14-pronouns-adjectives/01-pronouns
+  q: "Найди ошибку: *My laptop is old, I need a new.*"
+  a: "*I need a new **one**.* — после прилагательного *one / ones* обязательно. Но не ~~a one~~."
+- id: m14-something-else
+  lesson: 14-pronouns-adjectives/01-pronouns
+  q: "Переведи: «Давай поедем куда-нибудь ещё / в другое место»."
+  a: "*Let's go **somewhere else**.* — *else* после *some- / any- / every- / no-*."
+- id: m14-ed-ing
+  lesson: 14-pronouns-adjectives/02-adjectives
+  q: "*I'm boring* или *I'm bored* — «мне скучно»?"
+  a: "*I'm **bored***. *I'm boring* = «я зануда». -ed — что чувствую, -ing — какое впечатление произвожу."
+- id: m14-interested-in
+  lesson: 14-pronouns-adjectives/02-adjectives
+  q: "Найди ошибку: *I'm very interesting in modern art.*"
+  a: "*I'm very **interested in** modern art.*"
+- id: m14-the-rich
+  lesson: 14-pronouns-adjectives/02-adjectives
+  q: "Найди ошибку: *The unemployed needs more help.*"
+  a: "*The unemployed **need**…* — *the + прилагательное* = группа людей, мн. ч., без *-s*."
+- id: m14-asleep-sleeping
+  lesson: 14-pronouns-adjectives/02-adjectives
+  q: "*an asleep baby* или *a sleeping baby*?"
+  a: "*a **sleeping** baby*. *asleep, alive, afraid, alone* — только после глагола: *The baby is asleep*."
+- id: m14-alone-lonely
+  lesson: 14-pronouns-adjectives/02-adjectives
+  q: "Разница: *He lives alone* / *He feels lonely*?"
+  a: "***alone*** — один, без людей (факт); ***lonely*** — одинокий (чувство)."
+- id: m14-look-angry
+  lesson: 14-pronouns-adjectives/03-adverbs-degree
+  q: "Разница: *She looked angry* / *She looked angrily at me*?"
+  a: "*looked angry* — выглядела сердитой (связка + прил.); *looked angrily at* — сердито посмотрела (действие + нар.)."
+- id: m14-friendly-way
+  lesson: 14-pronouns-adjectives/03-adverbs-degree
+  q: "Найди ошибку: *She smiled at us friendly.*"
+  a: "*She smiled at us **in a friendly way**.* — *friendly* прилагательное, наречия от него нет."
+- id: m14-lately-highly
+  lesson: 14-pronouns-adjectives/03-adverbs-degree
+  q: "Что значат *lately*, *highly*, *nearly*?"
+  a: "*lately* — в последнее время; *highly* — весьма (*highly recommended*); *nearly* — почти."
+- id: m14-very-absolutely
+  lesson: 14-pronouns-adjectives/03-adverbs-degree
+  q: "*very* или *absolutely*: ___ exhausted, ___ tired, ___ freezing."
+  a: "***absolutely** exhausted, **very** tired, **absolutely** freezing* — предельные прилагательные только с *absolutely / completely*."
+- id: m14-quite-two-meanings
+  lesson: 14-pronouns-adjectives/03-adverbs-degree
+  q: "Что значит *quite* в *quite good* и в *quite right*?"
+  a: "*quite good* — довольно хороший (не очень); *quite right* — совершенно прав."
+- id: m14-rather-longer
+  lesson: 14-pronouns-adjectives/03-adverbs-degree
+  q: "Найди ошибку: *It took quite longer than we expected.*"
+  a: "*It took **rather** longer…* — со сравнительной степенью *rather*, не *quite*."
+- id: m14-too-for-to
+  lesson: 14-pronouns-adjectives/03-adverbs-degree
+  q: "Переведи: «Этот текст слишком сложный для детей»."
+  a: "*This text is **too difficult for children** (to read).*"
+- id: m14-such-so
+  lesson: 14-pronouns-adjectives/03-adverbs-degree
+  q: "*so* или *such*: It was ___ a nice day / The day was ___ nice."
+  a: "***such** a nice day* (+ существительное); *The day was **so** nice* (без существительного)."
+- id: m14-moving
+  lesson: 14-pronouns-adjectives/04-reading
+  q: "Что значат *a moving experience* и *the highlight*?"
+  a: "*moving* — трогательный; *the highlight* — самая яркая часть, «гвоздь программы»."
+- id: m14-review-phrases
+  lesson: 14-pronouns-adjectives/05-writing
+  q: "Три фразы для рекомендации в отзыве."
+  a: "*I would highly recommend it to… · It is well worth a visit if… · Make sure you…*"
+- id: m14-no-point
+  lesson: 14-pronouns-adjectives/01a-there-it-everyone
+  q: "Переведи: «Нет смысла с ним спорить»."
+  a: "***There's no point (in) arguing** with him.* — с *there* и *-ing*; не ~~It is no point to argue~~."
+- id: m14-it-took-me
+  lesson: 14-pronouns-adjectives/01a-there-it-everyone
+  q: "Найди ошибку: *I took an hour to get to work.*"
+  a: "***It took me** an hour to get to work.* — затраченное время: *It takes* + кто + время + *to*."
+- id: m14-worth-ing
+  lesson: 14-pronouns-adjectives/01a-there-it-everyone
+  q: "Найди ошибку: *The exhibition is worth to see.*"
+  a: "*The exhibition is worth **seeing**.* — после *worth* только *-ing* (или *worth a visit*)."
+- id: m14-there-seems
+  lesson: 14-pronouns-adjectives/01a-there-it-everyone
+  q: "Переведи: «Похоже, с сервером какая-то проблема»."
+  a: "***There seems to be** a problem with the server.* — сообщаем о существовании → *there* + *seem to be*."
+- id: m14-find-it-hard
+  lesson: 14-pronouns-adjectives/01a-there-it-everyone
+  q: "Найди ошибку: *I find difficult to focus in the evening.*"
+  a: "*I find **it** difficult to focus…* — пустое *it* после *find / make / consider*."
+- id: m14-none-of
+  lesson: 14-pronouns-adjectives/01a-there-it-everyone
+  q: "**no one** или **none**: ___ of my colleagues uses Windows."
+  a: "**None** of my colleagues… — перед *of* только *none*; *no one / nobody* без *of*."
+- id: m14-everyone-has
+  lesson: 14-pronouns-adjectives/01a-there-it-everyone
+  q: "Найди ошибку: *Everyone have read the email, haven't they?*"
+  a: "*Everyone **has** read the email, haven't they?* — глагол в ед. ч., а в хвостике — *they*."
+- id: m14-someone-elses
+  lesson: 14-pronouns-adjectives/01a-there-it-everyone
+  q: "Переведи: «Я по ошибке взял чужой телефон»."
+  a: "*I took **someone else's** phone by mistake.* — *'s* после *else*."
+- id: m14-blame-yourself
+  lesson: 14-pronouns-adjectives/01-pronouns
+  q: "Когда нужен **-self**: *We met ___ at six* или *Don't blame ___*?"
+  a: "*We **met** at six* — без *-self*; *Don't blame **yourself*** — объект совпадает с подлежащим."
+- id: m14-elder-older
+  lesson: 14-pronouns-adjectives/02-adjectives
+  q: "Найди ошибку: *My sister is two years elder than me.*"
+  a: "*…two years **older** than me.* — *elder* только перед существительным: *my elder sister*."
+- id: m14-enough-position
+  lesson: 14-pronouns-adjectives/03-adverbs-degree
+  q: "Найди ошибку: *He isn't enough old to vote.*"
+  a: "*He isn't **old enough** to vote.* — *enough* после прилагательного, но перед существительным: *enough money*."

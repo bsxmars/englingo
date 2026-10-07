@@ -1,0 +1,38 @@
+title: "Говорят, решено, вроде бы: безличный пассив"
+type: gap
+intro: "Впиши недостающие слова. В скобках — глаголы в начальной форме и в нужном порядке. Сокращения засчитываются."
+hints:
+  - "be supposed to = «говорят, что» или «должен по плану». suppose всегда в пассиве."
+  - "It + пассив + that — с agree, decide, announce, suggest; подлежащее + пассив + to — с say, think, believe, know, expect."
+  - "Вопросы и отрицания с have something done в Present / Past Simple — через do / did."
+items:
+  - q: "Let's try that new Thai place. It ___ (suppose / be) really good."
+    answers: ["is supposed to be", "'s supposed to be"]
+    explain: "«Говорят, что хорошее» → **is supposed to be**. *suppose* в этом значении всегда в пассиве."
+  - q: "You ___ (suppose / not / park) here — it's for residents only."
+    answers: ["are not supposed to park", "aren't supposed to park", "'re not supposed to park"]
+    explain: "Второе значение — «по правилам нельзя»: **aren't supposed to park**. Отрицание ставим к *be*."
+  - q: "The parcel ___ (suppose / arrive) yesterday, but it still hasn't come."
+    answers: ["was supposed to arrive"]
+    explain: "«Должна была прийти (по плану), но не пришла» → **was supposed to arrive**. Past Simple у *be*."
+  - q: "This castle ___ (suppose / build) by the Romans, but nobody really knows."
+    answers: ["is supposed to have been built"]
+    explain: "«Говорят, что построили» — событие в прошлом и пассив → **is supposed to have been built**."
+  - q: "After a long discussion, it ___ (agree) that the office will close at five on Fridays."
+    answers: ["has been agreed", "was agreed"]
+    explain: "С *agree* работает только **It + пассив + that**: *it has been agreed that…* Вариант ~~The office has been agreed to close~~ невозможен."
+  - q: "It ___ (announce) yesterday that the festival had been postponed."
+    answers: ["was announced"]
+    explain: "**yesterday** → Past Simple пассив: *It **was announced** that…* После *that* — полное предложение."
+  - q: "The suspect ___ (know / be) dangerous, so do not approach him."
+    answers: ["is known to be"]
+    explain: "*People know that he is dangerous* → *He **is known to be** dangerous*. Состояние сейчас → простой инфинитив."
+  - q: "The missing climbers ___ (now / think / be) safe."
+    answers: ["are now thought to be"]
+    explain: "*now* ставим после *are*: **are now thought to be**. Подлежащее во множественном числе → *are*."
+  - q: "— Your hair looks great! Where ___ (you / have / it / cut)?"
+    answers: ["did you have it cut", "did you get it cut"]
+    explain: "Past Simple вопрос → *did* + *have* + объект + V3: **did you have it cut**. Без *did* (~~had you it cut~~) нельзя: *have* здесь смысловой."
+  - q: "We ___ (not / have / the windows / replace) last year because it was too expensive."
+    answers: ["did not have the windows replaced", "didn't have the windows replaced", "did not get the windows replaced", "didn't get the windows replaced"]
+    explain: "Отрицание в Past Simple → **didn't have the windows replaced**. Не ~~hadn't the windows replaced~~."

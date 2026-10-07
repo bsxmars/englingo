@@ -1,0 +1,52 @@
+title: "if или when, вежливые просьбы, другие формы в условии"
+type: choice
+intro: "Выбери вариант, который подходит и по смыслу, и по форме. Обращай внимание на контекст: уверен ли говорящий, что событие произойдёт?"
+hints:
+  - "when — точно случится; if — может случиться; для воображаемого — только if."
+  - "will / would после if — только в вежливой просьбе (= please)."
+  - "В условии может стоять Present Continuous, Present Perfect, be going to."
+items:
+  - q: "I'm having lunch with Sara tomorrow. ___ I see her, I'll ask her about the flat."
+    options: ["When", "Unless", "In case"]
+    answer: 0
+    explain: "Встреча уже запланирована, то есть точно состоится → **when**. *If* звучал бы так, будто встреча под вопросом."
+  - q: "I'm not sure the museum is open on Mondays. ___ it's closed, we'll go to the park instead."
+    options: ["When", "If", "In case"]
+    answer: 1
+    explain: "Говорящий не знает, закрыт ли музей → **if**. *When it's closed* означало бы, что он точно закрыт."
+  - q: "___ I were you, I'd talk to your manager about it."
+    options: ["When", "In case", "If"]
+    answer: 2
+    explain: "Воображаемая ситуация (я не ты) → только **if**. *When* с нереальным не используется."
+  - q: "My train gets in at six. I'll text you ___ I get to the station."
+    options: ["when", "unless", "in case"]
+    answer: 0
+    explain: "Поезд приходит по расписанию, на вокзал я точно попаду → **when**."
+  - q: "If you ___ like to follow me, I'll show you to your table."
+    options: ["will", "would", "are"]
+    answer: 1
+    explain: "Вежливая просьба официанта: *If you'd like to…* = *Please…* Это то исключение, где **would** после *if* возможно."
+  - q: "If you ___ with the scissors, can I borrow them for a minute?"
+    options: ["'ve finished", "'ll finish", "'d finish"]
+    answer: 0
+    explain: "«Если ты уже закончил (к этому моменту)» → Present Perfect в условии: **'ve finished**. *will* после *if* здесь не ставится."
+  - q: "If you ___ to the supermarket anyway, could you get some milk?"
+    options: ["will go", "are going", "would go"]
+    answer: 1
+    explain: "Человек уже собирается в магазин → Present Continuous в условии: **are going**."
+  - q: "If it ___ to rain all afternoon, let's go to the cinema instead of the park."
+    options: ["will", "would", "is going"]
+    answer: 2
+    explain: "Прогноз по признакам → *be going to* в условии: **If it's going to rain…** *will* и *would* в условии тут невозможны."
+  - q: "If you ever needed somewhere to stay in Berlin, you ___ use our spare room."
+    options: ["could", "will", "would have"]
+    answer: 0
+    explain: "Мягкое предложение во втором типе: *If you needed…, you **could**…* Говорящий не уверен, что это понадобится."
+  - q: "If my sister ___ her laptop right now, I'd let you borrow it."
+    options: ["isn't using", "wasn't using", "won't use"]
+    answer: 1
+    explain: "Второй тип (в результате *I'd*), а действие длится сейчас → Past Continuous: **wasn't using** (сестра сейчас им пользуется)."
+  - q: "Don't touch that wire! If you touch it, you ___ an electric shock."
+    options: ["'ll get", "'d get", "got"]
+    answer: 0
+    explain: "Предупреждение о реальной опасности → first conditional: *If you touch it, you**'ll get**…*"

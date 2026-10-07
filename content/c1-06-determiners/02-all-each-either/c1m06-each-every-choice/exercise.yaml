@@ -1,0 +1,52 @@
+title: "each, every, either, whole или all"
+type: choice
+intro: "Выбери единственный вариант, который верен по смыслу и по форме."
+hints:
+  - "each — по отдельности (от двух); every — все вместе, регулярность, «всяческий»."
+  - "either side = с обеих сторон; neither — ни один из двух."
+  - "После each of / neither of в формальном стиле — глагол в единственном числе."
+items:
+  - q: "The two finalists were ___ awarded a scholarship worth £5,000."
+    options: ["each", "every", "either"]
+    answer: 0
+    explain: "*each* может стоять после вспомогательного глагола и говорит о каждом по отдельности: *were **each** awarded*. *every* в этой позиции невозможен, а *either* значит «любой из двух»."
+  - q: "The medication should be taken ___ eight hours, preferably with food."
+    options: ["each", "every", "all"]
+    answer: 1
+    explain: "Регулярные интервалы — только **every**: *every eight hours*."
+  - q: "Given the circumstances, she had ___ reason to feel let down."
+    options: ["each", "every", "all"]
+    answer: 1
+    explain: "*every* + абстрактное существительное = «полное, все основания»: **every reason**."
+  - q: "The road was lined with ancient oaks on ___ side."
+    options: ["both", "either", "all"]
+    answer: 1
+    explain: "**either side** = «с обеих сторон» (с единственным числом). *both* и *all* потребовали бы множественного числа: *both sides, all sides*."
+  - q: "We considered two venues, but ___ was large enough for three hundred guests."
+    options: ["either", "neither", "none"]
+    answer: 1
+    explain: "Ни один **из двух** → **neither**. *none* говорят о трёх и больше."
+  - q: "Научная статья: «Neither of the studies ___ the long-term effects of the treatment.»"
+    options: ["address", "addresses", "addressing"]
+    answer: 1
+    explain: "После *neither of* в формальном академическом тексте — единственное число: **addresses**. *address* встречается в разговоре, но не подходит для научного стиля."
+  - q: "She devoted ___ career to the study of a single medieval manuscript."
+    options: ["her whole", "her all", "the whole her"]
+    answer: 0
+    explain: "*whole* стоит между определителем и существительным: **her whole career**. *all her career* тоже возможно, но такого варианта нет."
+  - q: "I've read ___ of her novels, and the first was by far the best."
+    options: ["both", "every", "either"]
+    answer: 0
+    explain: "Речь о двух романах, оба прочитаны → **both of her novels**. *every* не стоит перед *of*, а *either of* значило бы «любой из двух»."
+  - q: "Tickets cost £40 ___, which seemed excessive for a two-hour lecture."
+    options: ["every", "each", "all"]
+    answer: 1
+    explain: "*each* может стоять в конце фразы: *£40 each* = «по 40 фунтов каждый». *every* так не употребляется."
+  - q: "The guide checked ___ passport carefully before letting us board."
+    options: ["each", "either", "the whole"]
+    answer: 0
+    explain: "Проверяли по одному, каждый отдельно → **each passport**. *either* — только о двух, *the whole passport* меняет смысл («весь паспорт целиком»)."
+  - q: "___ I'm asking for is a little more transparency from the board."
+    options: ["Everything", "All", "Whole"]
+    answer: 1
+    explain: "*All* + придаточное = «единственное, что»: ***All** I'm asking for is…* *Everything I'm asking for* звучало бы как «всё, о чём я прошу», что противоречит *a little*."

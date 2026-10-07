@@ -1,0 +1,47 @@
+title: "Актив или пассив?"
+type: choice
+intro: "Выбери вариант, который грамматически верен и звучит естественно. Смотри, кто делает действие и нужен ли он вообще."
+hints:
+  - "Подлежащее само делает действие → актив. С подлежащим что-то делают → пассив."
+  - "У happen, arrive, die, disappear, consist of пассива нет."
+items:
+  - q: "Something strange ___ at the office yesterday."
+    options: ["was happened", "happened", "has been happened"]
+    answer: 1
+    explain: "*happen* — непереходный глагол, у него нет дополнения и поэтому нет пассива: **happened**."
+  - q: "This song ___ by millions of people since it came out."
+    options: ["has downloaded", "has been downloaded", "was downloading"]
+    answer: 1
+    explain: "Песню скачивают (с ней что-то делают) + **since** → Present Perfect пассив: **has been downloaded**."
+  - q: "Our train ___ at 6:40, but we only got to the station at seven."
+    options: ["was arrived", "arrived", "had been arrived"]
+    answer: 1
+    explain: "*arrive* — непереходный глагол, пассива у него нет: **arrived**. Поезд прибывает сам, с ним ничего не делают."
+  - q: "— Why is the street closed? — A new pipe ___ ."
+    options: ["is laying", "is being laid", "has laid"]
+    answer: 1
+    explain: "Трубу кладут прямо сейчас → Present Continuous пассив: **is being laid** (*lay – laid – laid*)."
+  - q: "— Where's your car? — It ___ at the garage this week."
+    options: ["is repairing", "is being repaired", "repairs"]
+    answer: 1
+    explain: "Машину чинят (сама она ничего не делает), процесс идёт сейчас → **is being repaired**. *is repairing* значило бы, что машина сама что-то ремонтирует."
+  - q: "The first iPhone ___ in 2007."
+    options: ["was presented by Steve Jobs", "presented by Steve Jobs", "was presented with Steve Jobs"]
+    answer: 0
+    explain: "Исполнитель важен (Стив Джобс) → **by**. Без *was* нет сказуемого, а *with* — для инструмента, не для человека."
+  - q: "The dish ___ of rice, vegetables and a spicy sauce."
+    options: ["is consisted", "consists", "is consisting"]
+    answer: 1
+    explain: "**consist of** — глагол состояния без пассива: *The dish consists of…* (зато можно *is made up of*)."
+  - q: "My laptop ___ when I left it in the café for two minutes."
+    options: ["stole", "was stolen", "was stealing"]
+    answer: 1
+    explain: "Ноутбук не крал, его украли → пассив **was stolen**. Вор неизвестен, поэтому без *by*."
+  - q: "Don't worry about the dishes — they ___ by the time you get back."
+    options: ["will have washed", "will be washing", "will have been washed"]
+    answer: 2
+    explain: "Посуду помоют к определённому моменту → Future Perfect пассив: **will have been washed**."
+  - q: "The parcel ___ to the wrong address, so it never arrived."
+    options: ["sent", "was sent", "was sending"]
+    answer: 1
+    explain: "Посылку отправили → пассив **was sent**. А *arrived* — в активе: у *arrive* пассива нет."

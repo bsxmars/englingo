@@ -1,0 +1,41 @@
+title: "Linking verbs: turn into, come to, go bankrupt"
+type: gap
+intro: "Впиши глагол из скобок в нужной форме. Где нужно, добавь **like**, **into** или **to (be)**. Если в скобках несколько глаголов через косую черту — выбери тот, что образует естественное сочетание."
+hints:
+  - "turn into + существительное; look / sound like + существительное или придаточное."
+  - "seem / appear + to be; come to + инфинитив — «постепенно начать»."
+  - "go — чаще к худшему (go bankrupt, go off), get — в устойчивых фразах (get married), become — нейтрально с существительными."
+items:
+  - q: "Within a fortnight the caterpillar had ___ (turn) a butterfly."
+    answers: ["turned into"]
+    explain: "Полная перемена сущности → **turn into** + существительное. Без *into* (*turn* + прил.) — смена цвета или состояния: *turn pale*."
+  - q: "There ___ (appear) a serious flaw in the design, so the launch has been postponed."
+    answers: ["appears to be", "appeared to be"]
+    explain: "*There* + **appear(s) to be** + существительное. ~~There appears a flaw~~ без *to be* в таком значении не говорят."
+  - q: "Over the years I ___ (come) respect his judgement, even when I disagreed with him."
+    answers: ["have come to", "came to", "had come to"]
+    explain: "**come to** + инфинитив — отношение сложилось постепенно: «со временем я стал уважать»."
+  - q: "Take an umbrella — it ___ (look) rain."
+    answers: ["looks like", "looks as if it will", "looks as though it will"]
+    explain: "Перед существительным после *look* нужно **like**: *it looks like rain*. ~~It looks rain~~ невозможно."
+  - q: "Hundreds of small publishers ___ (become / go / get) bankrupt during the recession."
+    answers: ["went"]
+    explain: "**go bankrupt** — устойчивое сочетание; *go* часто описывает перемену к худшему: *go bald, go blind, go bust*."
+  - q: "They ___ (become / get / go) married in a tiny chapel on the island."
+    answers: ["got"]
+    explain: "**get married** — устойчивая фраза, как *get dressed, get ready*. ~~became married~~ звучит неестественно."
+  - q: "After the merger she ___ (become / get / go) head of the legal department."
+    answers: ["became"]
+    explain: "С существительным-ролью — **become**: *became head of…* *get* и *go* с существительными так не работают."
+  - q: "Her childhood dream finally ___ (come / grow / go) true when the novel was published."
+    answers: ["came"]
+    explain: "**come true** — устойчивое «сбыться». Похожие: *come loose, come undone*."
+  - q: "As the speech dragged on, the audience ___ (become / grow / turn) restless."
+    answers: ["grew", "became"]
+    explain: "Постепенная перемена → **grew** restless (книжно) или **became**. *turned restless* не говорят: *turn* — о резкой смене цвета, возраста, характера."
+  - q: "Don't drink that milk — it's ___ (go / turn / become) off."
+    answers: ["gone"]
+    explain: "**go off** — «испортиться» о еде. Форма — *it's gone off* (Present Perfect: результат сейчас)."
+  - q: "Whatever happens during the inspection, try to keep ___ (calm / calmly)."
+    answers: ["calm"]
+    explain: "*keep* здесь связочный глагол (≈ *remain*), после него — **прилагательное**: *keep calm*, *keep quiet*, *stay warm*."

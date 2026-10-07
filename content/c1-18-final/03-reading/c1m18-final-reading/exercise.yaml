@@ -1,0 +1,66 @@
+title: "In defence of forgetting"
+type: reading
+intro: "Прочитай текст и ответь на вопросы. В каждом вопросе один верный вариант из четырёх. Для зачёта нужно **60 %**."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Неверные варианты часто повторяют слова из текста, но меняют смысл или делают утверждение слишком сильным."
+pass: 60
+text: |
+  **In defence of forgetting**
+
+  For most of my adult life I treated my memory as a faulty piece of equipment. I forgot the names of people I had been introduced to only minutes earlier; I walked into rooms with a purpose and stood there, baffled, having mislaid it somewhere in the corridor. When smartphones arrived, I greeted them with the gratitude of someone who had finally been issued a replacement part. Here at last was a device that would remember on my behalf. It was only when I began reading about how memory actually works that I started to suspect I had been asking the wrong question all along.
+
+  The traditional view, which most of us absorb without ever examining it, is that memory is a kind of storage. Experiences go in, are filed away and are retrieved more or less intact when needed; forgetting, accordingly, is what happens when the filing system breaks down. It is an intuitive picture, and it is almost entirely misleading. Neuroscientists increasingly describe forgetting not as a failure of memory but as one of its functions: an active process, regulated by the brain, which is every bit as deliberate as the process of remembering.
+
+  Consider what would happen if we retained everything. The psychologist Alexander Luria spent some thirty years studying a man, referred to in his writings simply as S., whose memory appeared to have no limits. S. could reproduce long tables of numbers, or lists of words in a language he did not speak, years after hearing them once. Yet far from finding this gift an advantage, S. complained that he could barely follow a simple story, because every word summoned such vivid images that he lost track of the plot. Abstract ideas eluded him. Every detail clung to him with equal force, so that he could never see the wood for the trees. Had he been able to forget, one suspects, he would have found it far easier to think.
+
+  This is the insight at the heart of much recent research. To generalise — to recognise that the dog in front of you belongs to the same category as every other dog you have met — the brain has to discard the particulars: the colour of this one's collar, the angle of the light on that afternoon. Forgetting, in other words, is the price of understanding, and it is a price the brain pays willingly. Experiments on animals have even identified mechanisms that appear to exist specifically to weaken memories which are no longer being used, which would be a strange thing for evolution to have produced if forgetting were merely a defect.
+
+  None of this means that every lapse is a blessing in disguise. Losing your keys is irritating, and the memory loss that accompanies certain illnesses is devastating. But it does cast our everyday complaints in a different light. When I forget the name of someone I met at a party, my brain is, in effect, placing a bet that the information is unlikely to be needed again. Usually the bet is a sound one. Occasionally it is not, and I find myself hiding behind the cereal boxes in the supermarket for a fortnight.
+
+  What troubles me now is less my own forgetfulness than the tools I adopted to cure it. If the brain decides what to keep partly on the basis of how often we need something, then handing our memories over to devices may be altering those decisions in ways we barely notice. Psychologists have found, for instance, that people who expect information to be saved for them make less effort to retain it — which is perfectly rational, and also slightly unnerving. I can no longer recall a single phone number apart from my own, a fact that would have astonished my grandmother, who kept dozens in her head well into her nineties.
+
+  Is this a loss? Honestly, nobody yet knows. Optimists argue that freeing the mind from routine storage leaves it more room for the kind of thinking that machines cannot do. Pessimists reply that thinking draws on what we know, and that a mind which has given away its contents may discover it has rather less to think with. Both camps, it seems to me, take for granted that memory is essentially about the past. The more intriguing possibility is that it is about the future: we remember, and forget, in order to anticipate what will happen next, and what we choose to keep shapes the kind of predictions we are able to make.
+
+  I have not thrown my phone away. But I have begun, in a modest way, to trust my own forgetting a little more. When something slips my mind, I try to resist the reflex to look it up at once, and wait to see whether it comes back of its own accord. Surprisingly often it does, usually at an inconvenient moment and usually attached to something else I had forgotten I knew. It is a small pleasure, and an old one, and I had very nearly forgotten that it existed.
+items:
+  - q: "In the first paragraph, what does the writer say about his early reaction to smartphones?"
+    options: ["He was suspicious of a device that claimed to replace human memory.", "He welcomed them as a solution to what he saw as a personal weakness.", "He used them mainly to record the names of people he met.", "He realised at once that they would change the way memory works."]
+    answer: 1
+    explain: "*I treated my memory as a faulty piece of equipment* и *greeted them with the gratitude of someone who had finally been issued a replacement part* — он воспринял смартфон как «запчасть» для своей «неисправной» памяти."
+  - q: "What does the writer say about the traditional view of memory in the second paragraph?"
+    options: ["It exaggerates how much information the brain is able to store.", "It has only recently been accepted by neuroscientists.", "It wrongly treats forgetting as a breakdown rather than a purpose.", "It is useful as long as people do not examine it too closely."]
+    answer: 2
+    explain: "По традиционной модели забывание — это *what happens when the filing system breaks down*; учёные же видят в нём *not a failure … but one of its functions*."
+  - q: "Why does the writer mention the case of S.?"
+    options: ["To show that an exceptional memory can get in the way of thinking.", "To suggest that Luria's methods would not be accepted today.", "To argue that people with good memories tend to be poor storytellers.", "To illustrate how rare a perfect memory is among adults."]
+    answer: 0
+    explain: "S. помнил всё, но не мог следить за сюжетом и понимать абстракции; вывод абзаца — *Had he been able to forget… he would have found it far easier to think*."
+  - q: "What does the writer mean by \"the price of understanding\"?"
+    options: ["the mental effort needed to remember complicated categories", "the loss of specific details that allows us to form general ideas", "the time it takes to learn the difference between similar things", "the risk of confusing one experience with another"]
+    answer: 1
+    explain: "Чтобы обобщить (*generalise*), мозг *has to discard the particulars* — цвет ошейника, угол света. Плата за понимание — потеря частностей."
+  - q: "Why does the writer find the animal experiments significant?"
+    options: ["They prove that animals forget more efficiently than humans.", "They show that forgetting can be prevented by the right treatment.", "They suggest that forgetting is a capacity the brain has evolved to have.", "They explain why some memories last longer than others."]
+    answer: 2
+    explain: "Механизмы, которые *appear to exist specifically to weaken memories*, были бы странным продуктом эволюции, *if forgetting were merely a defect*. Значит, забывание — функция, выработанная эволюцией."
+  - q: "What does the writer imply by mentioning the cereal boxes in the supermarket?"
+    options: ["He prefers to avoid social situations whenever possible.", "His brain's judgement about what to keep occasionally lets him down, with embarrassing results.", "Forgetting names is more common in busy public places.", "He has learnt to treat memory lapses as a blessing in disguise."]
+    answer: 1
+    explain: "*Occasionally it is not* (ставка мозга не оправдывается) — и он прячется от человека, чьё имя забыл. Это самоирония о неудачной «ставке»."
+  - q: "How does the writer regard the finding that people make less effort to remember information that will be saved for them?"
+    options: ["He considers it sensible but somewhat disturbing.", "He doubts whether the research was carried out properly.", "He sees it as evidence that devices damage the brain.", "He believes it explains his grandmother's excellent memory."]
+    answer: 0
+    explain: "*which is perfectly rational, and also slightly unnerving* — разумно, но тревожно. О вреде для мозга он прямо не говорит: *in ways we barely notice*."
+  - q: "What is the writer's view of the debate between optimists and pessimists?"
+    options: ["The pessimists have produced the stronger argument.", "The question will soon be settled by new research.", "Both sides share an assumption that may be mistaken.", "Neither side has considered the needs of older people."]
+    answer: 2
+    explain: "*Both camps … take for granted that memory is essentially about the past. The more intriguing possibility is that it is about the future* — общее для обеих сторон допущение, которое он ставит под сомнение."
+  - q: "What does \"it\" refer to in the final sentence (\"I had very nearly forgotten that it existed\")?"
+    options: ["the writer's phone", "the habit of looking things up immediately", "the pleasure of a memory returning unprompted", "something the writer had forgotten he knew"]
+    answer: 2
+    explain: "*It is a small pleasure, and an old one* — речь о радости, когда забытое возвращается само. Именно об этом удовольствии он «чуть не забыл»."
+  - q: "What is the writer's main purpose in the article?"
+    options: ["To warn readers that smartphones are destroying human memory.", "To explain the history of research into exceptional memory.", "To persuade readers to stop using digital devices to store information.", "To argue that forgetting is valuable and to question our reliance on devices to avoid it."]
+    answer: 3
+    explain: "Текст доказывает, что забывание — функция, а не дефект, и размышляет о том, что мы теряем, перекладывая память на устройства. Ни к отказу от телефона, ни к панике автор не призывает: *I have not thrown my phone away*."

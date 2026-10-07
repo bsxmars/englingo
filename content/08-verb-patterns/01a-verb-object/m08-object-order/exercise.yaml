@@ -1,0 +1,36 @@
+title: "Собери предложение"
+type: order
+intro: "Собери английское предложение из слов. В каждом — глагол + объект + to / -ing / предлог."
+hints:
+  - "Объект стоит сразу после первого глагола: want you to…, mind me asking…"
+items:
+  - q: "«Я хочу, чтобы ты посмотрел мой код»."
+    answers: ["I want you to look at my code."]
+    explain: "«Хочу, чтобы ты» → **want you to**, без *that*."
+  - q: "«Не против, если я задам вопрос?»"
+    answers: ["Do you mind me asking a question?"]
+    explain: "*mind* + объект + **-ing**: *mind me asking*."
+  - q: "«Она уговорила меня пойти на хакатон»."
+    answers: ["She talked me into going to the hackathon."]
+    explain: "«Уговорить» → **talk sb into doing**."
+  - q: "«Отец отговорил меня бросать университет»."
+    answers: ["My father talked me out of leaving university."]
+    explain: "«Отговорить» → **talk sb out of doing**."
+  - q: "«Шум не давал мне сосредоточиться»."
+    answers: ["The noise kept me from concentrating."]
+    explain: "**keep sb from doing** — «мешать кому-то делать»."
+  - q: "«Попроси их не звонить после девяти»."
+    answers: ["Ask them not to call after nine."]
+    explain: "*ask sb **not to** do* — отрицание перед *to*."
+  - q: "«Терпеть не могу, когда люди опаздывают на встречи»."
+    answers: ["I can't stand people being late for meetings."]
+    explain: "*can't stand* + объект + **-ing**: *people being late*."
+  - q: "«Ошибка в конфиге привела к тому, что сервер перезагрузился»."
+    answers: ["A config error caused the server to restart."]
+    explain: "«Привести к тому, что» → **cause sth to do**."
+  - q: "«Нам посоветовали подождать неделю»."
+    answers: ["We were advised to wait a week."]
+    explain: "Пассив от *advise sb to do* → **were advised to wait**."
+  - q: "«Мы ценим, что вы нашли время»."
+    answers: ["We appreciate you taking the time."]
+    explain: "*appreciate* + объект + **-ing**: *appreciate you taking*."

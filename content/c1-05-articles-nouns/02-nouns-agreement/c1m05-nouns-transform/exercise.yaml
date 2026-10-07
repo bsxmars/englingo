@@ -1,0 +1,69 @@
+title: "Перефразирование: partitives и согласование"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "Неисчисляемое считают через partitive: a stroke of luck, a round of applause, a fit of rage."
+  - "a number of + мн. ч. глагол; the number of + ед. ч. глагол."
+  - "Сумма, расстояние, срок как одно количество — глагол в единственном числе."
+items:
+  - q: "We were lucky: we found the missing file completely by chance."
+    key: "STROKE"
+    stem: "It was ___ that we found the missing file."
+    answers: ["a stroke of luck", "a real stroke of luck", "a pure stroke of luck", "a stroke of good luck", "a lucky stroke"]
+    explain: "*luck* неисчисляемое; одно везение — **a stroke of luck**. ~~a luck~~ невозможно."
+  - q: "The audience applauded her warmly when she finished."
+    key: "ROUND"
+    stem: "When she finished, the audience gave her ___ ."
+    answers: ["a warm round of applause", "a round of warm applause"]
+    explain: "*applause* неисчисляемое: «аплодисменты как один эпизод» — **a warm round of applause**."
+  - q: "This room isn't big enough to put another bed in."
+    key: "ROOM"
+    stem: "There isn't ___ another bed in here."
+    answers: ["enough room for", "any room for", "room enough for", "enough room to put", "any more room for", "enough room left for"]
+    explain: "*room* в значении «место, пространство» неисчисляемо: **enough room for**, без *a*. *a room* — комната."
+  - q: "My glasses are scratched, so I need to buy new ones."
+    key: "PAIR"
+    stem: "My glasses are scratched, so I need ___ ."
+    answers: ["a new pair", "to buy a new pair", "a new pair of glasses", "to buy a new pair of glasses", "a new pair of them", "another pair"]
+    explain: "Pair noun считается через **pair**: *a new pair (of glasses)*. ~~a new glasses~~ невозможно."
+  - q: "Twice as many customers complain now as they did last year."
+    key: "NUMBER"
+    stem: "___ complaints from customers has doubled since last year."
+    answers: ["The number of"]
+    explain: "«Количество» — **The number of**, и глагол согласуется с *number*: *has doubled*."
+  - q: "Several of the applicants have withdrawn since the deadline was moved."
+    key: "NUMBER"
+    stem: "___ applicants have withdrawn since the deadline was moved."
+    answers: ["A number of", "A large number of", "A small number of"]
+    explain: "«Несколько» — **A number of** + мн. ч. глагол (*have withdrawn*). Ср. *The number of… has*."
+  - q: "Of all the subjects I studied at university, I found economics the hardest."
+    key: "WAS"
+    stem: "Economics ___ subject at university."
+    answers: ["was my hardest", "was the hardest", "was my most difficult", "was the most difficult"]
+    explain: "Название науки на *-ics* — единственное число: **Economics was**."
+  - q: "She owns and runs a small company."
+    key: "BUSINESS"
+    stem: "She runs ___ of her own."
+    answers: ["a small business"]
+    explain: "*a business* — фирма (исчисляемое значение). *business* без артикля — торговля, дела вообще: *Business is slow*."
+  - q: "I'll always remember the time I spent living in Japan."
+    key: "EXPERIENCE"
+    stem: "Living in Japan was ___ never forget."
+    answers: ["an experience I will", "an experience that I will", "an experience which I will", "an experience I shall", "an experience that I shall"]
+    explain: "Отдельное событие, переживание — исчисляемое **an experience**. Неисчисляемое *experience* — опыт: *She has experience in sales*."
+  - q: "He suddenly got furious and threw his phone across the room."
+    key: "FIT"
+    stem: "He threw his phone across the room ___ ."
+    answers: ["in a fit of rage", "in a fit of anger", "in a sudden fit of rage", "in a sudden fit of anger", "in a fit of temper", "in a fit of fury"]
+    explain: "Вспышка чувства — partitive **a fit of** + неисчисляемое: *in a fit of rage*."
+  - q: "The individual members of the committee are arguing with each other."
+    key: "COMMITTEE"
+    stem: "___ arguing among themselves."
+    answers: ["The committee are", "The committee are still", "The whole committee are"]
+    explain: "Group noun как отдельные люди — британское **The committee are** + *themselves*. С *is* не сочеталось бы *among themselves*."
+  - q: "It costs five hundred pounds, and I can't afford that much."
+    key: "TOO"
+    stem: "Five hundred pounds ___ for me."
+    answers: ["is too much", "is far too much", "is much too much", "is way too much", "is just too much", "is simply too much"]
+    explain: "Сумма денег — одно количество, глагол в единственном числе: **Five hundred pounds is too much**."

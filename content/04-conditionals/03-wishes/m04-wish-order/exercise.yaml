@@ -1,0 +1,30 @@
+title: "Собери предложение"
+type: order
+intro: "Собери английское предложение из слов. Смысл подсказан по-русски."
+hints:
+  - "wish + Past Simple (сейчас), wish + had + V3 (прошлое), wish + would (раздражение)."
+items:
+  - q: "«Жаль, что я не знаю его номер телефона»."
+    answers: ["I wish I knew his phone number"]
+    explain: "Сожаление о настоящем → wish + **Past Simple** (*knew*)."
+  - q: "«Жаль, что я не пошёл на концерт»."
+    answers: ["I wish I had gone to the concert"]
+    explain: "Сожаление о прошлом → wish + **had gone**."
+  - q: "«Хоть бы ты перестал жаловаться!»"
+    answers: ["I wish you would stop complaining"]
+    explain: "Раздражение чужим поведением → wish + **would**."
+  - q: "«Нам давно пора домой»."
+    answers: ["It's high time we went home"]
+    explain: "**It's high time** + **Past Simple**."
+  - q: "«Я бы предпочёл, чтобы ты пришёл чуть раньше»."
+    answers: ["I'd rather you came a bit earlier"]
+    explain: "**would rather** + другой человек + **Past Simple**."
+  - q: "«Если бы только я не потерял паспорт!»"
+    answers: ["If only I hadn't lost my passport"]
+    explain: "Сожаление о прошлом → if only + **Past Perfect**."
+  - q: "«Мой сын хотел бы играть в футбол, как Месси» (а пока не умеет)."
+    answers: ["My son wishes he could play football like Messi"]
+    explain: "Желание иметь умение → wish + **could**. *wishes* — 3-е лицо."
+  - q: "«Я бы лучше остался сегодня дома»."
+    answers: ["I would rather stay at home tonight", "Tonight I would rather stay at home"]
+    explain: "Своё предпочтение → **would rather** + глагол без *to*."

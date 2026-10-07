@@ -1,0 +1,34 @@
+title: "Собери формальное предложение"
+type: order
+intro: "Собери предложение из слов. Ориентируйся на русский смысл и формальный регистр."
+hints:
+  - "Предлог + which / whom стоит в начале придаточного."
+  - "Квантор + of whom / of which идёт сразу после запятой."
+items:
+  - q: "Формально: «Это вопрос, на который у нас пока нет ответа»."
+    answers: ["This is a question to which we have no answer yet"]
+    explain: "*have an answer **to** a question* → предлог переходит вперёд: **to which**. *yet* в конце — самое естественное место."
+  - q: "«Он опоздал на час, что всех раздражило»."
+    answers: ["He was an hour late which irritated everyone"]
+    explain: "Комментарий ко всему предложению → **which** после запятой. Запятые проверка не учитывает, но на письме она нужна."
+  - q: "«Лекторы, большинство из которых были из Оксфорда, говорили слишком быстро»."
+    answers: ["The lecturers most of whom were from Oxford spoke too quickly"]
+    explain: "Non-defining с квантором: *The lecturers, **most of whom** were from Oxford, spoke…*"
+  - q: "«Степень, в которой это повлияет на цены, неясна»."
+    answers: ["The extent to which this will affect prices is unclear"]
+    explain: "Формальная связка **the extent to which**; всё придаточное вместе с *extent* — подлежащее при *is unclear*."
+  - q: "«Первым, кто это заметил, был стажёр»."
+    answers: ["The first person to notice it was an intern", "An intern was the first person to notice it"]
+    explain: "*the first person* + **to-инфинитив** вместо *who noticed*."
+  - q: "«Тем, кто опоздает, придётся подождать снаружи»."
+    answers: ["Those who arrive late will have to wait outside"]
+    explain: "**Those who** = «те, кто»; в придаточном времени будущее не ставится: *who arrive*."
+  - q: "«Что бы ты ни решил, я тебя поддержу»."
+    answers: ["Whatever you decide I will support you", "I will support you whatever you decide"]
+    explain: "**Whatever** = «что бы ни». Если придаточное впереди, на письме ставим запятую."
+  - q: "«Это компания, продукция которой продаётся по всему миру»."
+    answers: ["This is a company whose products are sold all over the world"]
+    explain: "«продукция которой» → **whose products**. *whose* для организаций — норма."
+  - q: "«Нашли сотни писем, ни одно из которых не было подписано»."
+    answers: ["Hundreds of letters were found none of which were signed", "Hundreds of letters were found none of which was signed"]
+    explain: "Квантор **none of which** вводит non-defining; после *none* допустимы и *was*, и *were*."

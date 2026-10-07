@@ -1,0 +1,40 @@
+title: "Вопросы и просьбы в пересказе"
+type: gap
+intro: "Перескажи прямую речь: впиши недостающие слова. Сокращения засчитываются."
+hints:
+  - "Вопрос без вопросительного слова → if / whether."
+  - "Просьба → to + глагол, запрет → not to + глагол."
+items:
+  - q: "\"Where are you going?\" → She asked me where I ___ ."
+    answers: ["was going"]
+    explain: "Present Continuous → Past Continuous, прямой порядок: *where I **was going***."
+  - q: "\"Do you like sushi?\" → He asked ___ I liked sushi."
+    answers: ["if", "whether"]
+    explain: "Вопрос «да/нет» → **if** или **whether**."
+  - q: "\"What did you do at the weekend?\" → My colleague asked me what I ___ at the weekend."
+    answers: ["had done", "did"]
+    explain: "Past Simple → Past Perfect: **had done**. В разговоре Past Simple нередко оставляют."
+  - q: "\"How long have you lived here?\" → The doctor asked how long I ___ there."
+    answers: ["had lived", "had been living"]
+    explain: "Present Perfect (Continuous) → Past Perfect (Continuous). *here* → *there*."
+  - q: "\"Can you speak Spanish?\" → The interviewer asked whether I ___ Spanish."
+    answers: ["could speak", "spoke"]
+    explain: "**can → could**, порядок прямой: *whether I could speak*."
+  - q: "\"Please wait outside.\" → The nurse asked us ___ outside."
+    answers: ["to wait"]
+    explain: "Просьба → **ask sb to do**."
+  - q: "\"Don't forget your keys!\" → Dad told me ___ my keys."
+    answers: ["not to forget"]
+    explain: "Запрет → **not to** + глагол, а не *don't*."
+  - q: "\"When will the parcel arrive?\" → I asked when the parcel ___ ."
+    answers: ["would arrive"]
+    explain: "**will → would**, подлежащее перед глаголом: *the parcel would arrive*."
+  - q: "\"Who wrote this report?\" → The director asked who ___ the report."
+    answers: ["had written", "wrote"]
+    explain: "*who* — подлежащее, порядок прямой. Сдвиг в **had written**; Past Simple тоже допустим."
+  - q: "\"Could you turn the music down?\" → My neighbour asked me ___ the music down."
+    answers: ["to turn"]
+    explain: "Вежливая просьба с *could you* тоже пересказывается как **ask sb to do**."
+  - q: "Вежливый вопрос в настоящем: \"Is the museum open on Mondays?\" → Do you know whether the museum ___ open on Mondays?"
+    answers: ["is"]
+    explain: "Вводная фраза в настоящем (*Do you know…*) → сдвига нет, только прямой порядок: *the museum **is***."

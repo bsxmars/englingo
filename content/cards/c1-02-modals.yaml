@@ -1,0 +1,132 @@
+- id: c1m02-phrasal-modals
+  lesson: c1-02-modals/01-complex-modals
+  q: "Где вместо модального глагола обязателен phrasal modal (be able to, have to, be allowed to)?"
+  a: "После другого модального, в инфинитиве, в герундии, в перфекте и в длительной форме: *will have to, to be able to, having to, have had to, is having to*."
+- id: c1m02-chain-order
+  lesson: c1-02-modals/01-complex-modals
+  q: "Порядок звеньев в сложной модальной форме?"
+  a: "modal → have → been → V-ing / V3: *must have been sleeping*, *could have been injured*."
+- id: c1m02-must-have-been-crying
+  lesson: c1-02-modals/01-complex-modals
+  q: "Переведи: «Она, наверное, плакала — глаза красные»."
+  a: "*She **must have been crying** — her eyes are red.*"
+- id: c1m02-could-have-been-injured
+  lesson: c1-02-modals/01-complex-modals
+  q: "Найди ошибку: *Several people could have injured by the falling glass.*"
+  a: "Нужен пассив: *could **have been injured***. Без *been* люди сами кого-то ранили бы."
+- id: c1m02-will-present
+  lesson: c1-02-modals/01-complex-modals
+  q: "Что значит *will* в *That'll be the courier* и *As you will have noticed*?"
+  a: "Уверенное предположение о настоящем / уже случившемся: «наверняка это курьер», «как вы, конечно, заметили»."
+- id: c1m02-would-state
+  lesson: c1-02-modals/01-complex-modals
+  q: "*We would live in a flat near the river* (о прошлом) — что не так?"
+  a: "*live* — состояние; *would* о прошлом — только для повторяющихся действий → *We **used to live**…*"
+- id: c1m02-was-going-to
+  lesson: c1-02-modals/01-complex-modals
+  q: "Как сказать «Я собирался тебе позвонить, но забыл»?"
+  a: "*I **was going to** call you, but I forgot.* (не ~~would~~)"
+- id: c1m02-wont-refusal
+  lesson: c1-02-modals/01-complex-modals
+  q: "Переведи: «Крышка никак не открывалась»."
+  a: "*The lid **wouldn't** come off.* — *wouldn't* = отказ, упрямство вещей в прошлом."
+- id: c1m02-could-vs-able
+  lesson: c1-02-modals/02-ability-permission-possibility
+  q: "*could* или *was able to*: «Нам удалось найти отель после двух часов поисков»."
+  a: "*We **were able to / managed to** find it.* Для одного успешного действия *could* не используют; *couldn't* — можно."
+- id: c1m02-could-have-won
+  lesson: c1-02-modals/02-ability-permission-possibility
+  q: "Разница: *I was able to win* и *I could have won*?"
+  a: "Первое — выиграл; второе — мог выиграть, но не выиграл."
+- id: c1m02-allowed-occasion
+  lesson: c1-02-modals/02-ability-permission-possibility
+  q: "Переведи: «Вчера мне разрешили уйти пораньше»."
+  a: "*Yesterday I **was allowed to** leave early.* (*could* звучало бы как общая возможность)"
+- id: c1m02-may-usual
+  lesson: c1-02-modals/02-ability-permission-possibility
+  q: "Почему в инструкции *Side effects **may** include nausea*, а не *might*?"
+  a: "*may* — для того, что обычно бывает, известной возможности; это язык инструкций и науки."
+- id: c1m02-could-not-can
+  lesson: c1-02-modals/02-ability-permission-possibility
+  q: "Найди ошибку: *Your keys can be in the car — go and check.*"
+  a: "Конкретное предположение → *could / might / may be*. *can* — только общая возможность («так бывает»)."
+- id: c1m02-may-concession
+  lesson: c1-02-modals/02-ability-permission-possibility
+  q: "Что значит *It may be old, but it works perfectly*?"
+  a: "Уступка: «пусть старый, но работает» = *Although it's old, it works*."
+- id: c1m02-may-not-cant
+  lesson: c1-02-modals/02-ability-permission-possibility
+  q: "*It may not be true* и *It can't be true* — разница?"
+  a: "*may not* — возможно, неправда; *can't* — точно неправда."
+- id: c1m02-mustnt-donthave
+  lesson: c1-02-modals/03-necessity-deduction-obligation
+  q: "*mustn't* и *don't have to*?"
+  a: "*mustn't* — нельзя (запрет); *don't have to* — не обязательно."
+- id: c1m02-neednt-have
+  lesson: c1-02-modals/03-necessity-deduction-obligation
+  q: "*I needn't have cooked* и *I didn't need to cook* — разница?"
+  a: "*needn't have cooked* — готовил, но зря; *didn't need to cook* — не нужно было (обычно и не готовил)."
+- id: c1m02-cant-have
+  lesson: c1-02-modals/03-necessity-deduction-obligation
+  q: "Переведи: «Не может быть, что он уже прочитал весь отчёт»."
+  a: "*He **can't have read** the whole report already.* (не ~~mustn't have~~)"
+- id: c1m02-supposed-reputation
+  lesson: c1-02-modals/03-necessity-deduction-obligation
+  q: "Переведи: «Говорят, этот ресторан отличный»."
+  a: "*This restaurant **is supposed to be** excellent.* — *should* так не употребляется."
+- id: c1m02-had-better-not
+  lesson: c1-02-modals/03-necessity-deduction-obligation
+  q: "Найди ошибку: *You hadn't better tell her yet.*"
+  a: "*You**'d better not** tell her yet.* — *not* после *better*, глагол без *to*."
+- id: c1m02-ought-to-have
+  lesson: c1-02-modals/03-necessity-deduction-obligation
+  q: "Упрёк о прошлом с *ought to*: «Нам следовало посоветоваться с юристом»."
+  a: "*We **ought to have consulted** a lawyer.* — *to* сохраняется."
+- id: c1m02-borne-out
+  lesson: c1-02-modals/04-reading
+  q: "Что значит *The theory was borne out by later research*?"
+  a: "Теория **подтвердилась** последующими исследованиями. *bear out* = подтверждать."
+- id: c1m02-hedge
+  lesson: c1-02-modals/04-reading
+  q: "Что такое *hedging* и какие модальные для него используют?"
+  a: "Смягчение утверждений в академическом стиле: *may, might, could* (*These results may suggest…*)."
+- id: c1m02-proposal-would
+  lesson: c1-02-modals/05-writing
+  q: "Почему в proposal пишут *This would reduce costs*, а не *This will reduce costs*?"
+  a: "*would* — гипотетично и вежливо («если примете»); *will* звучит как самоуверенное обещание."
+- id: c1m02-must-have-vs-should-have
+  lesson: c1-02-modals/03a-modal-perfects
+  q: "«Он должен был позвонить (но не позвонил)» — *must have called* или *should have called*?"
+  a: "**should have called** / *was supposed to call*. *must have called* = «наверное, позвонил»."
+- id: c1m02-might-have-reproach
+  lesson: c1-02-modals/03a-modal-perfects
+  q: "Как упрекнуть: «Мог бы и предупредить!»?"
+  a: "*You **might / could have warned** me!* — ударение на модальном."
+- id: c1m02-may-vs-might-imaginary
+  lesson: c1-02-modals/03a-modal-perfects
+  q: "*You were lucky. You ___ been killed.* — **may have** или **might have**?"
+  a: "**might / could have** — воображаемое прошлое (не погиб). *may have* — «неизвестно, погиб ли»."
+- id: c1m02-neednt-thanks
+  lesson: c1-02-modals/03a-modal-perfects
+  q: "Гость принёс цветы. Как вежливо сказать «Ну зачем же!»?"
+  a: "*Oh, you **needn't have**!* / *You **shouldn't have**!* — действие сделано, «не стоило»."
+- id: c1m02-couldnt-have-better
+  lesson: c1-02-modals/03a-modal-perfects
+  q: "Переведи: «Лучше и быть не могло»."
+  a: "*It **couldn't have been** better.* / *I **couldn't have asked for** more.*"
+- id: c1m02-was-to-have
+  lesson: c1-02-modals/03a-modal-perfects
+  q: "Что значит *The minister **was to have opened** the bridge*?"
+  a: "План был, но сорвался (формально). Нейтрально: *was supposed / going to open*."
+- id: c1m02-supposed-to-have
+  lesson: c1-02-modals/03a-modal-perfects
+  q: "Переведи: «Говорят, он заработал состояние на крипте»."
+  a: "*He **is supposed to have made** a fortune in crypto.* (= *is said to have made*)"
+- id: c1m02-should-have-been-told
+  lesson: c1-02-modals/03a-modal-perfects
+  q: "Найди ошибку: *We should have told about the changes earlier.*"
+  a: "*We should have **been** told…* — нам должны были сказать → пассив *have been* + V3."
+- id: c1m02-should-have-expected
+  lesson: c1-02-modals/03a-modal-perfects
+  q: "*The parcel should have arrived by now.* — упрёк или ожидание?"
+  a: "Ожидание: «по плану уже должна была прийти». *should have* — не только упрёк."

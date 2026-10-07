@@ -1,0 +1,41 @@
+title: "Одно слово: текст «The comeback of the paper notebook»"
+type: gap
+intro: |
+  Связный текст в формате C1 Advanced, Part 2, разбитый на предложения. Читай пункты по порядку и впиши **одно** слово в каждый пропуск. Сокращения не подходят.
+hints:
+  - "Ищи рамки: so… that, such… that, no sooner… than, as… as, the… the."
+  - "Если после пропуска стоит подлежащее и вспомогательный глагол — вероятна инверсия или союз."
+items:
+  - q: "You might expect paper notebooks to have disappeared long ago, ___ that almost everyone now carries a phone."
+    answers: ["given", "considering", "seeing", "now"]
+    explain: "**given that** — «учитывая, что». Подходят и *considering that, seeing that, now that*: все вводят причину или обстоятельство."
+  - q: "In fact, the opposite seems to be the case: sales have rarely ___ higher."
+    answers: ["been"]
+    explain: "*have rarely been higher* — Present Perfect от *be*. Ключ — *have* перед пропуском и прилагательное *higher* после."
+  - q: "Part of the explanation lies ___ the way handwriting affects memory."
+    answers: ["in"]
+    explain: "**lie in** — «заключаться в»: *The explanation lies in…*"
+  - q: "Several studies suggest that students ___ take notes by hand remember more than those who type."
+    answers: ["who", "that"]
+    explain: "Определительное придаточное о людях без запятых → **who** (или *that*). Ключ — *those who type* дальше."
+  - q: "Because writing is slower, people are forced to summarise rather ___ copy word for word."
+    answers: ["than"]
+    explain: "**rather than** + инфинитив без *to* — «а не, вместо того чтобы»."
+  - q: "There is also ___ undeniable pleasure in choosing a beautiful notebook and a good pen."
+    answers: ["an"]
+    explain: "Перед *undeniable pleasure* нужен неопределённый артикль: гласный звук → **an**. Это типичный «незаметный» пропуск Part 2."
+  - q: "For some, the appeal lies precisely in the fact ___ paper cannot send notifications."
+    answers: ["that"]
+    explain: "**the fact that** + предложение. *which* здесь невозможно: это не относительное, а пояснительное придаточное."
+  - q: "No ___ had I started journaling than I began to sleep better, one enthusiast claims."
+    answers: ["sooner"]
+    explain: "Рамка **No sooner had… than** — «едва… как». Ключ — *than* и инверсия *had I started*."
+  - q: "Manufacturers, for their part, have been quick to cash ___ on the trend, releasing ever more expensive editions."
+    answers: ["in"]
+    explain: "**cash in on** — «нажиться на, воспользоваться». Пропуск — частица фразового глагола."
+  - q: "Whether the craze will last is anyone's guess, but for ___ being, the humble notebook is thriving."
+    answers: ["the"]
+    explain: "**for the time being** — «пока что». Фиксированная фраза: артикль обязателен."
+  - q: "Strange ___ it may seem, the most old-fashioned tool on the desk may also be the most effective."
+    answers: ["as", "though"]
+    explain: "Уступительная модель **прилагательное + as / though + подлежащее + глагол** = *Although it may seem strange*. В Part 2 это частый пропуск."

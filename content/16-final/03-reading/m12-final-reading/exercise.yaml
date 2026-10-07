@@ -1,0 +1,66 @@
+title: "Starting from zero at forty"
+type: reading
+intro: "Прочитай текст и ответь на вопросы. В каждом вопросе один верный вариант из четырёх. Для зачёта нужно **60 %**."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Неверные варианты часто повторяют слова из текста, но меняют смысл."
+pass: 60
+text: |
+  **Starting from zero at forty**
+
+  When I told my friends that I had bought myself a cello for my fortieth birthday, their reactions fell into two groups. Half of them said "How wonderful!" in the voice people use for children's drawings. The other half asked, quite reasonably, why I wanted to spend my evenings producing noises that would make the neighbours complain. I didn't have a good answer for either group. All I knew was that I had wanted to play the instrument since I was eleven, when a visiting orchestra performed at my school, and that if I didn't start now, I probably never would.
+
+  The first lesson was humbling. My teacher, a calm woman in her sixties called Ruth, spent forty minutes showing me how to hold the bow. I had assumed we would at least play a note. "Everybody wants to run before they can walk," she said, watching my frustration with what I later recognised as affection. "Adults most of all. Children don't mind being bad at things. You've had thirty years of practice at avoiding it."
+
+  She was right, and it took me months to understand how right. As a journalist, I am used to being reasonably competent. I know how to interview a politician, how to cut a thousand words down to six hundred, how to sound confident on the radio even when I'm not. What I had forgotten was the particular discomfort of not being able to do something at all — of knowing exactly what the music should sound like and hearing something completely different come out.
+
+  For the first few weeks, I practised in the evenings, when I was tired and easily discouraged. Progress was so slow that I almost gave up twice. It was Ruth who suggested I try practising for fifteen minutes before breakfast instead. I was sceptical — I am not a morning person — but the change made an enormous difference. My hands were fresher, my mind was clearer and, crucially, I was no longer comparing myself with the professional recordings I had been listening to all day.
+
+  Researchers who study adult learning will tell you that this pattern is common. Adults often learn faster than children at the start, because they can follow instructions and organise their practice. Where they struggle is in tolerating the long middle stage, when improvement is real but almost invisible. Children, who are constantly learning new things, accept this as normal. Adults, who have built their lives around what they are already good at, tend to interpret it as failure.
+
+  There were other surprises. I had expected the physical side to be difficult, and it was: for the first two months the tips of my fingers were sore, and my back ached after every session. What I had not expected was how much the cello would change the rest of my week. Because I had to practise every day, I began to protect small pockets of time that would previously have disappeared into email. I slept better. I even listened to music differently, noticing the bass line rather than the tune.
+
+  A year on, I can play a handful of simple pieces from beginning to end, provided nobody is listening too closely. Last month I took part in a concert for Ruth's students, most of whom were under twelve. I was the tallest performer by about a metre and by far the most nervous. My piece lasted ninety seconds. I made three mistakes, one of them quite loud, and when it was over, a seven-year-old in the front row clapped so enthusiastically that she dropped her own violin.
+
+  Would I recommend the experience? Not to everyone. If you are looking for quick results, choose something else. But if you suspect that you have become a little too comfortable — that you have stopped being a beginner at anything — I can think of few better ways to find out. Being bad at something, it turns out, is a skill in itself. And like any skill, it gets easier with practice.
+items:
+  - q: "What does the writer say about her reasons for buying the cello?"
+    options: ["She wanted to prove to her friends that she could learn something new.", "She had been inspired by an orchestra she heard on her birthday.", "She could not fully explain them, but it was a wish she had had since childhood.", "She wanted a hobby that would not disturb her neighbours."]
+    answer: 2
+    explain: "*I didn't have a good answer for either group. All I knew was that I had wanted to play the instrument since I was eleven…* — объяснить не могла, но мечтала с детства. Оркестр она слышала в 11 лет, а не на день рождения."
+  - q: "How did the writer feel at the end of her first lesson?"
+    options: ["Embarrassed that she could not hold the bow correctly.", "Frustrated that she had not been allowed to play anything.", "Grateful that her teacher had been so patient.", "Surprised by how quickly she had learnt the basics."]
+    answer: 1
+    explain: "*I had assumed we would at least play a note* и *watching my frustration* — её раздражало, что за весь урок она не сыграла ни ноты."
+  - q: "What does Ruth mean when she says \"You've had thirty years of practice at avoiding it\"?"
+    options: ["Adults have usually stopped practising the things they learnt as children.", "The writer should have started learning the cello thirty years earlier.", "Adults find it hard to accept advice from their teachers.", "Adults are used to staying away from situations in which they perform badly."]
+    answer: 3
+    explain: "*it* = *being bad at things*. Взрослые десятилетиями избегают ситуаций, где у них что-то не получается."
+  - q: "Why does the writer mention her work as a journalist?"
+    options: ["To show that she was used to feeling competent in her daily life.", "To explain why she had little time to practise.", "To suggest that her job had made her more confident on stage.", "To compare interviewing politicians with playing music."]
+    answer: 0
+    explain: "*As a journalist, I am used to being reasonably competent… What I had forgotten was the particular discomfort of not being able to do something at all.* — контраст с привычным ощущением компетентности."
+  - q: "According to the writer, why was practising in the morning more successful?"
+    options: ["Ruth was available to help her at that time.", "She was naturally more energetic in the mornings.", "She had not yet been comparing herself with professional musicians.", "She had more time before work than in the evenings."]
+    answer: 2
+    explain: "*crucially, I was no longer comparing myself with the professional recordings I had been listening to all day.* *I am not a morning person* исключает вариант про энергичность."
+  - q: "According to the fifth paragraph, why do adults often struggle with learning?"
+    options: ["They learn more slowly than children at the beginning.", "They find it difficult to follow instructions.", "They are not used to organising their practice.", "They see slow progress as a sign that they are failing."]
+    answer: 3
+    explain: "*Adults… tend to interpret it as failure* — медленный «средний» этап взрослые принимают за провал. В начале они, наоборот, учатся быстрее детей."
+  - q: "What effect of learning the cello had the writer NOT expected?"
+    options: ["It caused her physical discomfort.", "It made her more careful about how she used her time.", "It made her sleep less than before.", "It made her listen to more classical music."]
+    answer: 1
+    explain: "Физические трудности она как раз ожидала (*I had expected the physical side to be difficult*). Неожиданным было то, что она начала беречь время: *I began to protect small pockets of time*."
+  - q: "How does the writer describe her performance at the concert?"
+    options: ["With disappointment, because she made several mistakes.", "With pride, because she played better than the children.", "With humour, accepting that she is still a beginner.", "With embarrassment, because a child laughed at her."]
+    answer: 2
+    explain: "Детали про рост «на метр выше» и девочку, уронившую скрипку от восторга, — это **самоирония**: она спокойно принимает, что всё ещё новичок."
+  - q: "In the last paragraph, what does \"it\" refer to in \"it gets easier with practice\"?"
+    options: ["being bad at something", "playing the cello", "becoming too comfortable", "finding quick results"]
+    answer: 0
+    explain: "Предыдущее предложение: *Being bad at something… is a skill in itself.* — именно этот «навык» становится легче с практикой."
+  - q: "What is the writer's main purpose in the article?"
+    options: ["To persuade adults that the cello is the best instrument to learn.", "To explain why children learn music more easily than adults.", "To describe the difficulties of combining a career with a hobby.", "To encourage readers to consider the value of being a beginner again."]
+    answer: 3
+    explain: "Вывод в последнем абзаце: стоит снова стать новичком хоть в чём-то, ведь *being bad at something… is a skill in itself*."

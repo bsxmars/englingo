@@ -1,0 +1,82 @@
+title: "From a garage to a shop"
+type: reading
+intro: "Прочитай блог-пост и ответь на вопросы. Вопросы с вариантами — как в B2 First Part 5; в остальных впиши одно слово из текста."
+hints:
+  - "Вопросы идут в порядке текста."
+  - "В вариантах ответа фразовые глаголы из текста часто заменены однословными синонимами."
+text: |
+  ## From a garage to a shop: how we set up our bike business
+
+  Three years ago, my friend Leo and I were both working in offices and fixing bikes at weekends, mostly for friends. We never planned to start a business. It just grew out of a hobby that had taken over our lives — and our garage.
+
+  The idea came up one evening when a neighbour knocked on the door with a broken wheel. "You should charge for this," she said, handing us twenty euros. We laughed, but later that night Leo did the maths. If we fixed ten bikes a week, we could pay for a small workshop. If we fixed thirty, we could give up our office jobs. I told him he was dreaming. A month later, I handed in my notice.
+
+  Setting up the shop was harder than we had expected. Two banks turned us down for a loan, saying a bike repair business was "too risky". In the end, we put our savings together and borrowed the rest from Leo's uncle, who made us promise to pay him back within two years. We found a tiny shop near the station, but the deal fell through at the last minute when the landlord decided to sell the building. For a few weeks, I honestly thought we would have to give up the whole idea.
+
+  Then, to our surprise, the landlord's son got in touch. He had heard what had happened and offered us a space at the back of his café. It was dark and cramped, but the rent was low, and every customer who came in for a coffee walked past our bikes. Looking back, that "bad luck" was the best thing that could have happened to us.
+
+  The first winter nearly finished us off. Nobody cycles much in January, and we soon ran out of money. We came up with a plan: instead of waiting for broken bikes, we would offer cheap check-ups to delivery riders, who use their bikes every day whatever the weather. It worked. Word of mouth did the rest, and by spring we had more work than we could cope with.
+
+  Last year we took on our first employee, Maya, a student who turned up one day asking if she could watch us work. She now runs our evening repair classes, which have become surprisingly popular. People don't just want their bikes fixed; they want to understand how to look after them.
+
+  We're not rich, and we still work long hours. We put off our holidays two summers in a row, and I've had to cut down on sleep more often than I'd like. But we've paid Leo's uncle back in full, three months early, and every morning I look forward to opening the shop.
+
+  If you're thinking of turning a hobby into a business, my advice is simple: work out your numbers, find people you trust, and when things go wrong — and they will — don't give up too quickly. Sometimes the plan that falls through makes room for a better one.
+items:
+  - q: "How did the writer react when Leo first suggested the business?"
+    options:
+      - "They agreed immediately and left their job."
+      - "They thought the plan was unrealistic at first."
+      - "They asked the neighbour for financial help."
+      - "They suggested starting with thirty bikes a week."
+    answer: 1
+    explain: "*I told him he was dreaming* — сначала автор считал идею нереальной. Уволился он только *a month later*."
+  - q: "Why did the banks refuse to lend them money?"
+    options:
+      - "They had no savings of their own."
+      - "They already owed money to Leo's uncle."
+      - "The banks considered the business too uncertain."
+      - "The shop near the station was too expensive."
+    answer: 2
+    explain: "*Two banks turned us down for a loan, saying a bike repair business was \"too risky\"* — *turned down* = отказали, *too risky* = *too uncertain*."
+  - q: "What happened to the shop near the station?"
+    options:
+      - "They rented it but had to leave after a few weeks."
+      - "The agreement was cancelled before they could move in."
+      - "The landlord's son offered to sell it to them."
+      - "It turned out to be too small for their business."
+    answer: 1
+    explain: "*the deal fell through at the last minute* — *fall through* = сорваться, не состояться. Они туда так и не въехали."
+  - q: "What does the writer mean by 'that \"bad luck\" was the best thing that could have happened to us'?"
+    options:
+      - "Losing the first shop led to a better location."
+      - "The café owner gave them the space for free."
+      - "They were lucky to avoid paying high rent near the station."
+      - "Bad experiences taught them to be more careful."
+    answer: 0
+    explain: "Неудача со станцией привела их в кафе, где каждый посетитель проходил мимо их велосипедов, — место оказалось лучше. Про бесплатную аренду в тексте ничего нет: *the rent was low*."
+  - q: "How did they get through their first winter?"
+    options:
+      - "They borrowed more money from Leo's uncle."
+      - "They closed the shop until the spring."
+      - "They found customers who needed their bikes all year round."
+      - "They started running evening repair classes."
+    answer: 2
+    explain: "*we would offer cheap check-ups to delivery riders, who use their bikes every day whatever the weather* — нашли клиентов, которым велосипед нужен круглый год. Курсы появились позже."
+  - q: "What is the main point of the final paragraph?"
+    options:
+      - "Running a business is not worth the stress."
+      - "Problems can sometimes lead to better opportunities."
+      - "It is important to repay loans as early as possible."
+      - "Everyone should turn their hobby into a business."
+    answer: 1
+    explain: "*Sometimes the plan that falls through makes room for a better one* — неудача может открыть путь к лучшему. Автор не советует всем открывать бизнес: *If you're thinking of…*"
+  - q: "Find a phrasal verb in paragraph 6 that means 'employed'."
+    answers: ["took on"]
+    explain: "*we **took on** our first employee* — *take on* = нанять (на работу)."
+  - q: "Find a phrasal verb in paragraph 6 that means 'arrived, appeared (often unexpectedly)'."
+    answers: ["turned up"]
+    explain: "*a student who **turned up** one day* — *turn up* = появиться, прийти, часто неожиданно."
+  - q: "Find a phrasal verb in paragraph 7 that means 'postponed'."
+    answers: ["put off"]
+    explain: "*We **put off** our holidays two summers in a row* — *put off* = отложить."

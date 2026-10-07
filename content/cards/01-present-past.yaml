@@ -1,0 +1,176 @@
+- id: m01-since-for
+  lesson: 01-present-past/01-present-perfect
+  q: "**since** или **for**: I've known her ___ ten years."
+  a: "**for** — длительность (*for ten years*); **since** — точка отсчёта (*since 2015*)."
+- id: m01-been-gone
+  lesson: 01-present-past/01-present-perfect
+  q: "В чём разница: *She's been to Paris* / *She's gone to Paris*?"
+  a: "**been** — была и вернулась; **gone** — уехала и сейчас там."
+- id: m01-ago-error
+  lesson: 01-present-past/01-present-perfect
+  q: "Найди ошибку: *I have seen him two days ago.*"
+  a: "*I **saw** him two days ago.* — **ago** называет законченный момент → Past Simple."
+- id: m01-know-for-years
+  lesson: 01-present-past/01-present-perfect
+  q: "Переведи: «Я знаю его пять лет»."
+  a: "*I**'ve known** him for five years.* — не ~~I know him for five years~~."
+- id: m01-first-time
+  lesson: 01-present-past/01-present-perfect
+  q: "Какое время после *It's the first time…* и *the best … I've ever…*?"
+  a: "Present Perfect: *It's the first time I**'ve tried** this.*"
+- id: m01-news-details
+  lesson: 01-present-past/01-present-perfect
+  q: "Новость и подробности: какие времена? *I ___ (lose) my phone! — How ___ it happen?*"
+  a: "*I**'ve lost** my phone!* (новость → PP) — *How **did** it happen?* (подробности → Past Simple)."
+- id: m01-ppc-result-process
+  lesson: 01-present-past/02-present-perfect-continuous
+  q: "В чём разница: *I've written the report* / *I've been writing the report*?"
+  a: "**written** — отчёт готов (результат); **been writing** — занимался этим (процесс), готов ли — неважно."
+- id: m01-ppc-how-many
+  lesson: 01-present-past/02-present-perfect-continuous
+  q: "Найди ошибку: *I've been drinking four cups of coffee today.*"
+  a: "*I**'ve drunk** four cups…* — есть количество → Present Perfect **Simple**."
+- id: m01-ppc-how-long-wait
+  lesson: 01-present-past/02-present-perfect-continuous
+  q: "Переведи: «Ты давно ждёшь?»"
+  a: "*Have you been waiting long?* / *How long have you been waiting?* — не ~~Do you wait long?~~"
+- id: m01-ppc-state-verbs
+  lesson: 01-present-past/02-present-perfect-continuous
+  q: "Какие глаголы не бывают в Present Perfect Continuous? Назови 4–5."
+  a: "Глаголы состояния: **know, believe, own, belong, have** (= иметь), like, understand. *I've known*, не ~~I've been knowing~~."
+- id: m01-ppc-evidence
+  lesson: 01-present-past/02-present-perfect-continuous
+  q: "Переведи: «Почему ты весь мокрый? — Я бегал»."
+  a: "*Why are you so wet? — I**'ve been running**.* Видимые следы недавнего занятия → PP Continuous."
+- id: m01-past-perfect-when
+  lesson: 01-present-past/03-past-perfect-used-to
+  q: "Когда нужен Past Perfect?"
+  a: "Когда событие случилось **раньше другого момента в прошлом**: *When I arrived, the train **had left**.*"
+- id: m01-narrative-background
+  lesson: 01-present-past/03-past-perfect-used-to
+  q: "Какое время для фона в рассказе? *I ___ (walk) home when it started to rain.*"
+  a: "Past Continuous: *I **was walking** home…* — длинное действие, которое прервали."
+- id: m01-would-states
+  lesson: 01-present-past/03-past-perfect-used-to
+  q: "Найди ошибку: *There would be a park here when I was a child.*"
+  a: "*There **used to be** a park here…* — **would** не используется с состояниями (be, have, like)."
+- id: m01-didnt-use-to
+  lesson: 01-present-past/03-past-perfect-used-to
+  q: "Как правильно: *I didn't used to* или *I didn't use to*?"
+  a: "*I didn't **use** to…* — после **did / didn't** пишется **use** без *d*."
+- id: m01-be-used-to
+  lesson: 01-present-past/03-past-perfect-used-to
+  q: "В чём разница: *I used to work at night* / *I'm used to working at night*?"
+  a: "**used to work** — раньше работал (теперь нет); **be used to working** — привык работать (+ -ing)."
+- id: m01-get-used-to
+  lesson: 01-present-past/03-past-perfect-used-to
+  q: "Переведи: «Я никак не могу привыкнуть к этой погоде»."
+  a: "*I can't **get used to** this weather.* — **get used to** = привыкать."
+- id: m01-take-the-plunge
+  lesson: 01-present-past/04-reading
+  q: "Что значит *take the plunge*?"
+  a: "Решиться на рискованный шаг: *He finally took the plunge and quit his job.*"
+- id: m01-pay-cut
+  lesson: 01-present-past/04-reading
+  q: "Переведи: «Ему пришлось согласиться на снижение зарплаты»."
+  a: "*He had to **take a pay cut**.*"
+- id: m01-article-structure
+  lesson: 01-present-past/05-writing
+  q: "Из каких частей состоит статья B2 First о важном моменте жизни?"
+  a: "Заголовок → цепляющее вступление → как было раньше (used to) → сам момент (narrative tenses) → что изменилось (Present Perfect) → вывод."
+- id: m01-state-verbs-list
+  lesson: 01-present-past/00-present-tenses
+  q: "Назови 6 глаголов состояния, которые почти не бывают в Continuous."
+  a: "**know, believe, understand, want, need, own, belong, contain, depend, seem** — *I don't understand*, не ~~I'm not understanding~~."
+- id: m01-think-thinking
+  lesson: 01-present-past/00-present-tenses
+  q: "В чём разница: *I think it's risky* / *I'm thinking about it*?"
+  a: "**think** = считаю (мнение, Simple); **be thinking about** = обдумываю (процесс, Continuous)."
+- id: m01-always-continuous
+  lesson: 01-present-past/00-present-tenses
+  q: "В чём разница: *He always loses his keys* / *He's always losing his keys!*?"
+  a: "Simple — просто факт, каждый раз; **always + Continuous** — «вечно он…», с раздражением."
+- id: m01-have-got-action
+  lesson: 01-present-past/00-present-tenses
+  q: "Найди ошибку: *I've got breakfast at eight every day.*"
+  a: "*I **have** breakfast at eight.* — *have* как действие (есть, принимать душ) не бывает с **got**."
+- id: m01-emphatic-did
+  lesson: 01-present-past/00-present-tenses
+  q: "Найди ошибку: *We did enjoyed the concert!*"
+  a: "*We did **enjoy** the concert!* — после эмфатического **did / does** глагол без -ed и -s."
+- id: m01-its-ages-since
+  lesson: 01-present-past/01-present-perfect
+  q: "Перефразируй: *I haven't seen Ira for months.* → It's months since…"
+  a: "*It's months since I last **saw** Ira.* — после *It's … since* и *the last time* — Past Simple."
+- id: m01-lived-for-finished
+  lesson: 01-present-past/01-present-perfect
+  q: "*We lived in Omsk for ten years.* Они сейчас живут в Омске?"
+  a: "Нет: Past Simple + *for* — ситуация закончилась. Живут до сих пор → *We**'ve lived** in Omsk for ten years.*"
+- id: m01-this-morning
+  lesson: 01-present-past/01-present-perfect
+  q: "Сейчас 3 часа дня. *Has* или *Did*: ___ the post come this morning?"
+  a: "**Did** — утро уже закончилось. Пока ещё утро: *Has the post come this morning?*"
+- id: m01-yet-position
+  lesson: 01-present-past/01-present-perfect
+  q: "Где стоят *just*, *already* и *yet*?"
+  a: "*just, already* — между *have* и V3 (*I've **just** left*); *yet* — в конце вопроса или отрицания (*Have you finished **yet**?*)."
+- id: m01-ppc-lately
+  lesson: 01-present-past/02-present-perfect-continuous
+  q: "Переведи: «Я плохо сплю в последнее время»."
+  a: "*I **haven't been sleeping** well lately / recently.* — не ~~I don't sleep well lately~~."
+- id: m01-ppc-repeated
+  lesson: 01-present-past/02-present-perfect-continuous
+  q: "Можно ли PP Continuous о повторяющихся действиях? Пример."
+  a: "Да: *She**'s been going** to the pool twice a week since May.* — регулярно, с тех пор до сейчас."
+- id: m01-ppc-blowing-blown
+  lesson: 01-present-past/02-present-perfect-continuous
+  q: "В чём разница: *The wind has been blowing all night* / *The wind has blown the fence down*?"
+  a: "**has been blowing** — процесс и длительность; **has blown … down** — результат (забор лежит)."
+- id: m01-was-having-had-been
+  lesson: 01-present-past/03-past-perfect-used-to
+  q: "В чём разница: *When I called, she was having a meeting* / *…she had been having a meeting*?"
+  a: "**was having** — позвонил во время встречи; **had been having** — встреча только что закончилась."
+- id: m01-after-past-perfect
+  lesson: 01-present-past/03-past-perfect-used-to
+  q: "Обязателен ли Past Perfect после *after*: *After she ___ (check) the figures, she sent the report*?"
+  a: "Нет: подходят и **had checked**, и **checked** — *after* и так показывает порядок. То же с *before, until*."
+- id: m01-had-done-how-many
+  lesson: 01-present-past/03-past-perfect-used-to
+  q: "Найди ошибку: *By noon he had been answering forty emails.*"
+  a: "*By noon he **had answered** forty emails.* — есть количество → had + V3."
+- id: m01-never-used-to
+  lesson: 01-present-past/03-past-perfect-used-to
+  q: "Как ещё сказать *We didn't use to lock the door*?"
+  a: "*We **never used to** lock the door.* (с *never* — **used** с *d*)."
+- id: m01-pc-when-meaning
+  lesson: 01-present-past/00a-past-continuous
+  q: "В чём разница: *When she came, we were having dinner* / *When she came, we had dinner*?"
+  a: "**were having** — ужин уже шёл, она пришла посреди; **had** — она пришла, и **потом** мы поужинали."
+- id: m01-pc-sequence
+  lesson: 01-present-past/00a-past-continuous
+  q: "Найди ошибку: *Yesterday I was getting up at seven and was going to work.*"
+  a: "*Yesterday I **got up** at seven and **went** to work.* — цепочка событий → Past Simple."
+- id: m01-pc-while-during
+  lesson: 01-present-past/00a-past-continuous
+  q: "**while** или **during**: ___ I was waiting, I read the news."
+  a: "**While** — союз, после него подлежащее и глагол. **during** — предлог: *during the wait*."
+- id: m01-pc-interrupted
+  lesson: 01-present-past/00a-past-continuous
+  q: "Переведи: «Я выкатывал релиз, когда упал сервер»."
+  a: "*I **was deploying** the release when the server **crashed**.* — длинное прерывается коротким."
+- id: m01-pc-always-past
+  lesson: 01-present-past/00a-past-continuous
+  q: "Как сказать с раздражением: «Он вечно терял ключи»?"
+  a: "*He **was always losing** his keys.* — *was always + -ing*."
+- id: m01-pc-wondering
+  lesson: 01-present-past/00a-past-continuous
+  q: "Сделай просьбу мягче: *Can you check my code?*"
+  a: "*I **was wondering** if you could check my code.* — прошедшее здесь ради вежливости."
+- id: m01-pc-times
+  lesson: 01-present-past/00a-past-continuous
+  q: "Найди ошибку: *The phone was ringing three times this morning.*"
+  a: "*The phone **rang** three times.* — количество раз → законченные события → Past Simple."
+- id: m01-pc-plan-past
+  lesson: 01-present-past/00a-past-continuous
+  q: "Переведи: «Мы летели в Рим в пятницу, но рейс отменили»."
+  a: "*We **were flying** to Rome on Friday, but the flight **was cancelled**.* — план в прошлом, который сорвался."

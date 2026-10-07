@@ -1,0 +1,44 @@
+title: "Reporting passives и get-passive: найди ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: в reporting passive (it is said that / is said to), во времени инфинитива, в get-passive. Исправь её и отправь предложение целиком."
+hints:
+  - "It + passive + that-clause; подлежащее + passive + to-инфинитив."
+  - "Событие раньше сообщения → to have + V3."
+  - "Для «говорят» — say, а не tell."
+items:
+  - q: "The minister is said that he knew about the leak."
+    answers: ["The minister is said to have known about the leak.", "It is said that the minister knew about the leak."]
+    explain: "Две модели не смешиваются: **The minister is said to have known…** или *It is said that the minister knew…*"
+  - q: "The painting is believed to be stolen in 1990."
+    answers: ["The painting is believed to have been stolen in 1990."]
+    explain: "Кража раньше момента сообщения, и картина — объект: пассивный перфектный инфинитив **to have been stolen**."
+  - q: "There are told to be over a hundred islands in the archipelago."
+    answers: ["There are said to be over a hundred islands in the archipelago.", "There are thought to be over a hundred islands in the archipelago.", "There are believed to be over a hundred islands in the archipelago."]
+    explain: "*tell* не используется в этой конструкции: **There are said to be…**"
+  - q: "It was reported a serious problem with the software."
+    answers: ["A serious problem with the software was reported.", "It was reported that there was a serious problem with the software."]
+    explain: "После *It was reported* нужен that-clause, не существительное: **A serious problem… was reported** или *It was reported that there was…*"
+  - q: "The two companies are reported to negotiate a merger at the moment."
+    answers: ["The two companies are reported to be negotiating a merger at the moment."]
+    explain: "Процесс прямо сейчас → длительный инфинитив **to be negotiating**."
+  - q: "I was mentioned that the office would be relocating."
+    answers: ["It was mentioned to me that the office would be relocating.", "I was told that the office would be relocating."]
+    explain: "*mention* не делает адресата подлежащим: **It was mentioned to me that…** или *I was told that…*"
+  - q: "Did your brother got promoted in the end?"
+    answers: ["Did your brother get promoted in the end?"]
+    explain: "После *did* — начальная форма *get*: **Did your brother get promoted?**"
+  - q: "The suspect is alleged to steal two cars last month."
+    answers: ["The suspect is alleged to have stolen two cars last month."]
+    explain: "Кража (*last month*) произошла раньше сообщения → перфектный инфинитив **to have stolen**."
+  - q: "He was considered being the best candidate for the job."
+    answers: ["He was considered to be the best candidate for the job.", "He was considered the best candidate for the job."]
+    explain: "*be considered* + **to be** или сразу существительное: *was considered (to be) the best candidate*."
+  - q: "It is expected the new law to come into force in January."
+    answers: ["The new law is expected to come into force in January.", "It is expected that the new law will come into force in January."]
+    explain: "*It is expected* требует that-clause: **It is expected that the new law will…** или личная конструкция *The new law is expected to…*"
+  - q: "Nobody got hurted in the crash, thankfully."
+    answers: ["Nobody got hurt in the crash, thankfully."]
+    explain: "*hurt* — неправильный глагол, V3 = **hurt**: *got hurt*."
+  - q: "The firm is rumoured that it is planning to move to Dublin."
+    answers: ["The firm is rumoured to be planning to move to Dublin.", "It is rumoured that the firm is planning to move to Dublin."]
+    explain: "*be rumoured* + инфинитив (процесс → **to be planning**), или *It is rumoured that…*"

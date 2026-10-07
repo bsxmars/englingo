@@ -1,0 +1,136 @@
+- id: c1m11-comma-inside
+  lesson: c1-11-reporting/01-direct-indirect
+  q: "Найди ошибку: *'The shop is closed', he said.*"
+  a: "*'The shop is closed**,'** he said.* — запятая внутри кавычек."
+- id: c1m11-said-he
+  lesson: c1-11-reporting/01-direct-indirect
+  q: "*'Not today,' replied the receptionist.* — можно ли *replied she*?"
+  a: "Нет. Инверсия возможна только с существительным; с местоимением — *she replied*."
+- id: c1m11-quote-in-quote
+  lesson: c1-11-reporting/01-direct-indirect
+  q: "Какие кавычки внутри цитаты в британском и американском стиле?"
+  a: "BrE: снаружи одинарные, внутри двойные — *'…\"Stop\"…'*. AmE — наоборот."
+- id: c1m11-no-backshift
+  lesson: c1-11-reporting/01-direct-indirect
+  q: "Когда в косвенной речи время можно не сдвигать?"
+  a: "Reporting verb в настоящем (*says*), ситуация всё ещё верна, общеизвестный факт."
+- id: c1m11-shall
+  lesson: c1-11-reporting/01-direct-indirect
+  q: "Перескажи: *'Shall I order a taxi?' he asked.*"
+  a: "*He asked if he **should** order a taxi.*"
+- id: c1m11-ago
+  lesson: c1-11-reporting/01-direct-indirect
+  q: "Во что превращаются *yesterday*, *tomorrow*, *two days ago* при пересказе позже?"
+  a: "*the day before / the previous day*, *the next / following day*, *two days earlier / before*."
+- id: c1m11-backshift-signal
+  lesson: c1-11-reporting/01-direct-indirect
+  q: "Чем отличаются *He said the policy is working* и *…was working*?"
+  a: "Без сдвига — пересказчик согласен, что это верно и сейчас; со сдвигом — нейтрально передаёт чужие слова."
+- id: c1m11-explain-to
+  lesson: c1-11-reporting/02-reporting-verbs
+  q: "Найди ошибку: *She explained me the rules.*"
+  a: "*She explained the rules **to me**.* — у *explain* нет прямого объекта-человека."
+- id: c1m11-agree-with
+  lesson: c1-11-reporting/02-reporting-verbs
+  q: "Найди ошибку: *He agreed me that it was risky.*"
+  a: "*He agreed **with me** that it was risky.*"
+- id: c1m11-threaten
+  lesson: c1-11-reporting/02-reporting-verbs
+  q: "Найди ошибку: *They threatened us to call the police.*"
+  a: "*They **threatened to call** the police.* — после *threaten* объекта нет."
+- id: c1m11-accuse
+  lesson: c1-11-reporting/02-reporting-verbs
+  q: "Перескажи: *'You lied to me!' she said to him.*"
+  a: "*She **accused him of lying** to her.*"
+- id: c1m11-blame
+  lesson: c1-11-reporting/02-reporting-verbs
+  q: "Две модели *blame*?"
+  a: "*blame sth **on** sb* — *blamed the delay on the weather*; *blame sb **for** sth* — *blamed the weather for the delay*."
+- id: c1m11-concede
+  lesson: c1-11-reporting/02-reporting-verbs
+  q: "Чем *concede* отличается от *admit*?"
+  a: "*concede* — неохотно признать правоту **оппонента** в споре; *admit* — признать неприятный факт или свою вину."
+- id: c1m11-claim
+  lesson: c1-11-reporting/02-reporting-verbs
+  q: "Что сообщает читателю глагол *claim*?"
+  a: "Утверждение не доказано, пересказчик дистанцируется: *The company claims its product works.*"
+- id: c1m11-speak-summary
+  lesson: c1-11-reporting/02-reporting-verbs
+  q: "Найди ошибку: *She spoke to us that she was leaving.*"
+  a: "*She **told us** that she was leaving.* — *speak / talk* только для краткого пересказа: *She spoke to us.*"
+- id: c1m11-whether-only
+  lesson: c1-11-reporting/03-questions-orders
+  q: "Где возможно только *whether*, а не *if*?"
+  a: "После предлога, перед инфинитивом, после *question / discuss*, в *whether or not*, в начале предложения."
+- id: c1m11-why-to
+  lesson: c1-11-reporting/03-questions-orders
+  q: "Найди ошибку: *I asked why to apologise.*"
+  a: "*I asked **why I should** apologise.* — *why* + инфинитив невозможно."
+- id: c1m11-ask-to
+  lesson: c1-11-reporting/03-questions-orders
+  q: "*She asked to leave* или *She asked me to leave* — кто уходит?"
+  a: "*asked to leave* — уходит она; *asked me to leave* — ухожу я."
+- id: c1m11-insist-subjunctive
+  lesson: c1-11-reporting/03-questions-orders
+  q: "*They insisted that he be present* и *He insisted that he was innocent* — в чём разница?"
+  a: "Первое — требование (сослагательное *be*); второе — утверждение факта (обычное время)."
+- id: c1m11-recommend
+  lesson: c1-11-reporting/03-questions-orders
+  q: "Найди ошибку: *The doctor recommended me to rest.*"
+  a: "*The doctor recommended **that I (should) rest*** / *recommended **resting***."
+- id: c1m11-noun-that
+  lesson: c1-11-reporting/03-questions-orders
+  q: "Перескажи через существительное: *'Exams are outdated,' she believes.*"
+  a: "*It is her **view / belief that** exams are outdated.*"
+- id: c1m11-out-of-context
+  lesson: c1-11-reporting/04-reading
+  q: "Переведи: «Меня процитировали вне контекста»."
+  a: "*I was **quoted out of context**.*"
+- id: c1m11-report-verbs
+  lesson: c1-11-reporting/05-writing
+  q: "Замени *said* в отчёте: «большинство выразили беспокойство, что…», «некоторые усомнились, можно ли…»."
+  a: "*A majority **expressed concern that**… · Some **questioned whether**…*"
+- id: c1m11-said-is-tense
+  lesson: c1-11-reporting/01-direct-indirect
+  q: "Перескажи в другой день: *'I'll have finished it by tomorrow,' Leo said.*"
+  a: "*Leo said he **would have finished** it **by the next day**.* Сдвигается только *will*; *tomorrow* → *the next / following day*."
+- id: c1m11-object-to-ing
+  lesson: c1-11-reporting/02-reporting-verbs
+  q: "Найди ошибку: *Residents objected to be excluded from the talks.*"
+  a: "*objected to **being** excluded* — в *object to* частица *to* — предлог, дальше -ing."
+- id: c1m11-ask-no-preposition
+  lesson: c1-11-reporting/03-questions-orders
+  q: "Найди ошибку: *She asked to me to forward the invoice.*"
+  a: "*She asked **me** to forward…* — *ask* берёт человека без предлога."
+- id: c1m11-is-said-to-have
+  lesson: c1-11-reporting/03a-impersonal-reporting
+  q: "Перефразируй: *It is said that he left the country.* → *He …*"
+  a: "*He **is said to have left** the country.* Событие раньше мнения → перфектный инфинитив."
+- id: c1m11-no-mixing
+  lesson: c1-11-reporting/03a-impersonal-reporting
+  q: "Найди ошибку: *The suspect is believed that he fled abroad.*"
+  a: "Либо *The suspect **is believed to have fled***, либо *It is believed **that the suspect fled***. Модели не смешиваются."
+- id: c1m11-there-thought
+  lesson: c1-11-reporting/03a-impersonal-reporting
+  q: "Переведи: «Предполагается, что выживших больше двухсот»."
+  a: "***There are thought to be** over 200 survivors.*"
+- id: c1m11-allegedly-supposedly
+  lesson: c1-11-reporting/03a-impersonal-reporting
+  q: "**allegedly** или **supposedly** в судебной хронике?"
+  a: "**allegedly** — нейтральная юридическая осторожность. *supposedly* («якобы») звучит иронично."
+- id: c1m11-according-to-me
+  lesson: c1-11-reporting/03a-impersonal-reporting
+  q: "Что не так: *According to me, the plan will fail.*"
+  a: "*according to* — только про чужой источник. Своё мнение: ***In my view / opinion**, …*"
+- id: c1m11-claim-demonstrate
+  lesson: c1-11-reporting/03a-impersonal-reporting
+  q: "*Brown **claims** that…* vs *Brown **demonstrates** that…* — в чём разница?"
+  a: "*claims* — автор дистанцируется, сомневается; *demonstrates* — принимает вывод как доказанный."
+- id: c1m11-rumoured
+  lesson: c1-11-reporting/03a-impersonal-reporting
+  q: "Переведи: «Ходят слухи, что певица уходит из группы»."
+  a: "*The singer **is rumoured to be leaving** the band.* Глагол *rumour* — только в пассиве."
+- id: c1m11-academic-present
+  lesson: c1-11-reporting/03a-impersonal-reporting
+  q: "Какое время для идей источника в эссе: *Jones (2015) ___ (argue) that…*?"
+  a: "Present Simple: *Jones (2015) **argues** that…* Past Simple — для исследования как события: *Jones **surveyed** 500 teachers.*"

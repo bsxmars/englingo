@@ -1,0 +1,132 @@
+- id: c1m03-not-to
+  lesson: c1-03-negatives-questions/01-negatives-negative-words
+  q: "Где стоит *not* с инфинитивом и герундием? «Он решил не отвечать»."
+  a: "Перед *to* и перед *-ing*: *He decided **not to reply**. I regret **not asking**.*"
+- id: c1m03-no-better
+  lesson: c1-03-negatives-questions/01-negatives-negative-words
+  q: "Переведи: «Новая версия ничуть не лучше старой»."
+  a: "*The new version is **no better** than the old one.* (= *isn't any better*)"
+- id: c1m03-not-all
+  lesson: c1-03-negatives-questions/01-negatives-negative-words
+  q: "«Не все сотрудники согласились» — *Not all* или *All… did not*?"
+  a: "***Not all** employees agreed.* *All employees did not agree* двусмысленно и звучит как «никто не согласился»."
+- id: c1m03-none-of-evidence
+  lesson: c1-03-negatives-questions/01-negatives-negative-words
+  q: "Найди ошибку: *None of the evidence were convincing.*"
+  a: "*evidence* неисчисляемое → *None of the evidence **was** convincing.*"
+- id: c1m03-hardly-double
+  lesson: c1-03-negatives-questions/01-negatives-negative-words
+  q: "Найди ошибку: *I couldn't hardly hear the speaker.*"
+  a: "*hardly* уже отрицание: *I **could hardly** hear the speaker.*"
+- id: c1m03-no-sooner-than
+  lesson: c1-03-negatives-questions/01-negatives-negative-words
+  q: "*No sooner had we arrived ___ it began to rain.* / *Hardly had we arrived ___ it began to rain.*"
+  a: "***No sooner… than***; ***Hardly / Scarcely… when*** (или *before*)."
+- id: c1m03-not-until
+  lesson: c1-03-negatives-questions/01-negatives-negative-words
+  q: "Перефразируй с *Not until*: *I only understood the risk when I read the report.*"
+  a: "*Not until I read the report **did I understand** the risk.* — инверсия в главной части."
+- id: c1m03-under-no-circumstances
+  lesson: c1-03-negatives-questions/01-negatives-negative-words
+  q: "Переведи формально: «Ни при каких обстоятельствах не открывайте этот файл»."
+  a: "*Under no circumstances **should you open** this file.*"
+- id: c1m03-little-did
+  lesson: c1-03-negatives-questions/01-negatives-negative-words
+  q: "Переведи: «Он и не подозревал, что за ним следят»."
+  a: "*Little did he know (that) he was being followed.*"
+- id: c1m03-answer-negative-question
+  lesson: c1-03-negatives-questions/02-negative-questions-tags
+  q: "— *Aren't you hungry?* — Ты НЕ голоден. Как ответить?"
+  a: "***No, I'm not.*** *Yes / No* отвечают на факт, а не на форму вопроса."
+- id: c1m03-why-not
+  lesson: c1-03-negatives-questions/02-negative-questions-tags
+  q: "Найди ошибку: *Why not you ask your manager?*"
+  a: "После *Why not* нет подлежащего: *Why not **ask** your manager?* или *Why **don't you** ask…?*"
+- id: c1m03-did-you-not
+  lesson: c1-03-negatives-questions/02-negative-questions-tags
+  q: "Формальный отрицательный вопрос: *Did not you…* или *Did you not…*?"
+  a: "***Did you not** receive our letter?* — полное *not* после подлежащего."
+- id: c1m03-tag-i-am
+  lesson: c1-03-negatives-questions/02-negative-questions-tags
+  q: "Тег: *I'm invited, ___?* / *Let's start, ___?*"
+  a: "*I'm invited, **aren't I**? Let's start, **shall we**?*"
+- id: c1m03-tag-nobody
+  lesson: c1-03-negatives-questions/02-negative-questions-tags
+  q: "Тег: *Nobody noticed, ___?* / *Nothing happened, ___?*"
+  a: "*Nobody noticed, **did they**? Nothing happened, **did it**?* — предложение отрицательное, тег утвердительный."
+- id: c1m03-same-polarity-tag
+  lesson: c1-03-negatives-questions/02-negative-questions-tags
+  q: "Что выражает *So you're leaving, are you?*"
+  a: "Тег одной полярности: реакция на услышанное — удивление, интерес или сарказм, а не проверка."
+- id: c1m03-which-of
+  lesson: c1-03-negatives-questions/03-question-words-other-types
+  q: "*What* или *which*: ___ of these options is cheaper?"
+  a: "***Which** of* — перед *of* и *one / ones* только *which*."
+- id: c1m03-to-whom
+  lesson: c1-03-negatives-questions/03-question-words-other-types
+  q: "Формально и нейтрально: «Кому ты отправил отчёт?»"
+  a: "Формально: ***To whom** did you send the report?* Нейтрально: *Who did you send the report **to**?*"
+- id: c1m03-do-you-think
+  lesson: c1-03-negatives-questions/03-question-words-other-types
+  q: "Найди ошибку: *What do you think is it the problem?*"
+  a: "*What do you think **is the problem**?* — после вставки *do you think* порядок утверждения."
+- id: c1m03-however-did
+  lesson: c1-03-negatives-questions/03-question-words-other-types
+  q: "Что значит *However did you find us?*"
+  a: "«Как же тебе вообще удалось нас найти?» — *-ever* добавляет удивление (как *on earth*)."
+- id: c1m03-indirect
+  lesson: c1-03-negatives-questions/03-question-words-other-types
+  q: "Найди ошибку: *Do you know when does the train leave?*"
+  a: "*Do you know when **the train leaves**?* — косвенный вопрос без *does*."
+- id: c1m03-echo
+  lesson: c1-03-negatives-questions/03-question-words-other-types
+  q: "— *I've just quit my job.* — Переспроси с удивлением, что он сделал."
+  a: "*You've **what**?* / *You did **what**?* — эхо-вопрос, wh-слово на месте ответа."
+- id: c1m03-gimmicky
+  lesson: c1-03-negatives-questions/04-reading
+  q: "*feign* · *stifle* · *gimmicky* — переведи."
+  a: "*feign* — изображать; *stifle* — подавлять; *gimmicky* — показной, «рекламный трюк»."
+- id: c1m03-not-only-essay
+  lesson: c1-03-negatives-questions/05-writing
+  q: "Найди ошибку в эссе: *Not only it saves time, but it also reduces costs.*"
+  a: "*Not only **does it save** time, but it also reduces costs.*"
+- id: c1m03-dont-think
+  lesson: c1-03-negatives-questions/01a-negation-scope
+  q: "Как естественнее: *I think he won't come* или *I don't think he'll come*?"
+  a: "*I **don't think** he'll come.* — с *think, believe, expect, suppose* отрицание переносится в главную часть; первое звучит категорично."
+- id: c1m03-hope-not
+  lesson: c1-03-negatives-questions/01a-negation-scope
+  q: "Найди ошибку: *— Will it rain? — I don't hope so.*"
+  a: "*I **hope not**.* — *hope* и *be afraid* не переносят отрицание: *I hope it doesn't…, I'm afraid not.*"
+- id: c1m03-not-necessarily
+  lesson: c1-03-negatives-questions/01a-negation-scope
+  q: "Переведи осторожно, академично: «Корреляция не обязательно означает причинность»."
+  a: "*Correlation does **not necessarily** imply causation.*"
+- id: c1m03-anything-but
+  lesson: c1-03-negatives-questions/01a-negation-scope
+  q: "*anything but* или *nothing but*: *The trip was ___ relaxing.*"
+  a: "***anything but*** relaxing = совсем не расслабляющая. *nothing but* = «только»: *nothing but trouble*."
+- id: c1m03-far-from
+  lesson: c1-03-negatives-questions/01a-negation-scope
+  q: "Переведи формально: «План далеко не идеален»."
+  a: "*The plan is **far from** perfect.* (или *by no means perfect*)"
+- id: c1m03-not-uncommon
+  lesson: c1-03-negatives-questions/01a-negation-scope
+  q: "Что значит *It is not uncommon for projects to overrun*?"
+  a: "Литота: «проекты довольно часто выходят за сроки». Сдержанный формальный стиль."
+- id: c1m03-still-hasnt
+  lesson: c1-03-negatives-questions/01a-negation-scope
+  q: "Найди ошибку: *He hasn't still answered my email.*"
+  a: "*He **still hasn't** answered.* — *still* перед отрицанием; нейтрально: *hasn't answered yet*."
+- id: c1m03-no-longer
+  lesson: c1-03-negatives-questions/01a-negation-scope
+  q: "Найди ошибку: *She doesn't work here no longer.*"
+  a: "*She **no longer** works here* или *She doesn't work here **any longer / any more**.*"
+- id: c1m03-tag-everything
+  lesson: c1-03-negatives-questions/02-negative-questions-tags
+  q: "Тег: *Everything went well, ___?*"
+  a: "*didn't **it**?* — *everything / nothing* → *it*; *everyone / nobody* → *they*."
+- id: c1m03-whether-to
+  lesson: c1-03-negatives-questions/03-question-words-other-types
+  q: "*if* или *whether*: *I can't decide ___ to accept the offer.*"
+  a: "**whether** — перед инфинитивом, после предлога и в *whether or not* возможен только *whether*."

@@ -1,0 +1,43 @@
+title: "Собери формальное предложение"
+type: order
+intro: "Собери предложение по русскому смыслу. Следи за сослагательным наклонением (базовая форма для всех лиц), местом *not* и устойчивыми оборотами."
+hints:
+  - "Отрицание сослагательного — not перед глаголом, без do: that they not be…"
+  - "Be that as it may, Suffice it to say — застывшие формулы с инверсией."
+items:
+  - q: "«Мы рекомендуем, чтобы детей не оставляли одних»."
+    answers: ["We recommend that children not be left alone"]
+    explain: "Пассивное сослагательное с отрицанием: **not be left** — *not* перед *be*, без *do*."
+  - q: "«Крайне важно, чтобы каждый участник подписал форму»."
+    answers: ["It is essential that every participant sign the form"]
+    explain: "После *essential that* — базовая форма **sign** без *-s*, хотя подлежащее в 3-м лице."
+  - q: "«Судья потребовал, чтобы свидетель говорил громче»."
+    answers: ["The judge demanded that the witness speak louder"]
+    explain: "*demanded* в прошедшем, но в придаточном всё равно базовая форма **speak** — время главного глагола на сослагательное не влияет."
+  - q: "«Правила требуют, чтобы гости уходили до полуночи»."
+    answers: ["The rules require that guests leave before midnight"]
+    explain: "*require that* + сослагательное **leave**. Порядок обычный: подлежащее, глагол, обстоятельство."
+  - q: "«Обязательно, чтобы данные не передавались третьим лицам»."
+    answers: ["It is imperative that the data not be shared with third parties"]
+    explain: "*imperative that* + **not be shared**: отрицание и пассив без вспомогательного *do / are*."
+  - q: "«Я предложил провести встречу онлайн» (через that-придаточное)."
+    answers: ["I proposed that the meeting be held online"]
+    explain: "*propose that* + пассивное сослагательное **be held**. Формальный стиль протокола и proposal."
+  - q: "Британский вариант с should: «Совет директоров настоял, чтобы директор ушёл в отставку»."
+    answers: ["The board insisted that the director should resign"]
+    explain: "BrE часто ставит **should** + базовая форма вместо чистого сослагательного. Оба варианта формальны."
+  - q: "«Как бы то ни было, решение уже принято»."
+    answers: ["Be that as it may the decision has been made"]
+    explain: "**Be that as it may** — застывшее сослагательное с инверсией, книжное «как бы то ни было»."
+  - q: "«Достаточно сказать, что проект провалился»."
+    answers: ["Suffice it to say that the project failed"]
+    explain: "**Suffice it to say (that)** — формула-остаток сослагательного: глагол перед *it*, без *-s*."
+  - q: "«Было рекомендовано распространить программу на все регионы»."
+    answers: ["It was recommended that the scheme be extended to all regions"]
+    explain: "Безличный пассив *It was recommended* + *that* + **be extended**. Типичная фраза отчёта."
+  - q: "«Исследование показало, что в сельских районах спрос ниже»."
+    answers: ["The study found that in rural areas demand was lower", "The study found that demand was lower in rural areas"]
+    explain: "Обстоятельство можно поставить сразу после *that* (тогда в письме запятая после *that*) или в конец придаточного."
+  - q: "Начни с wh-придаточного (известная информация): «Как рукопись туда попала, никто не знает»."
+    answers: ["How the manuscript got there nobody knows", "Nobody knows how the manuscript got there"]
+    explain: "Вынесенное вперёд wh-придаточное связывает фразу с предыдущим контекстом; порядок внутри него прямой: *how the manuscript got there*."

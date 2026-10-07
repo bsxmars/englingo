@@ -1,0 +1,51 @@
+title: "Смешанная практика по главе"
+type: choice
+intro: "Прилагательные, наречия и сравнение вперемешку. Все варианты похожи, верен **один**."
+hints:
+  - "so / too / as + adj + a + noun."
+  - "Неградуируемые прилагательные (fascinating, exhausted) — с absolutely, а не с very."
+items:
+  - q: "It was ___ offer that nobody in the room could turn it down."
+    options: ["so generous an", "so a generous", "such generous an"]
+    answer: 0
+    explain: "*so + adj + a/an + noun*: **so generous an offer** (= *such a generous offer*)."
+  - q: "She is ___ the most original thinker in the department."
+    options: ["very", "easily", "so"]
+    answer: 1
+    explain: "Усилители превосходной степени — **easily**, *by far*. *very* и *so* с *the most* не сочетаются."
+  - q: "The new rules apply ___ to vehicles registered after 2020; older cars are exempt."
+    options: ["only", "even", "too"]
+    answer: 0
+    explain: "Старые машины освобождены → правила касаются **только** новых. В письменном тексте *only* стоит прямо перед тем, что ограничивает."
+  - q: "They live in ___ farmhouse on the edge of the moor."
+    options: ["an old big stone", "a big old stone", "a stone big old"]
+    answer: 1
+    explain: "Size → age → material: **a big old stone** farmhouse."
+  - q: "I found her talk on deep-sea ecosystems ___ ."
+    options: ["absolutely fascinating", "very fascinating", "absolutely interesting"]
+    answer: 0
+    explain: "*fascinating* — неградуируемое, «сильное» прилагательное → **absolutely**. *interesting* — обычное, с ним *very*."
+  - q: "The village is ___ deserted in winter: only a handful of people stay on."
+    options: ["virtually", "hardly", "barely"]
+    answer: 0
+    explain: "**virtually deserted** — «практически пустая». *hardly / barely deserted* значило бы «почти не пустая» — противоречит контексту."
+  - q: "The government has promised more support for ___ ."
+    options: ["the unemployeds", "the unemployed", "unemployed"]
+    answer: 1
+    explain: "*the* + прилагательное = группа людей, без *-s*: **the unemployed**."
+  - q: "Sadly, the sofa is ___ comfortable as it looks in the catalogue."
+    options: ["nowhere near as", "nowhere near so much", "not near as much"]
+    answer: 0
+    explain: "**nowhere near as… as** — «далеко не такой». *so much* и *as much* здесь лишние: перед прилагательным просто *as*."
+  - q: "___ we set off, the sooner we'll get there."
+    options: ["Earlier", "The earlier", "The earliest"]
+    answer: 1
+    explain: "Обе части начинаются с *the + comparative*: **The earlier** we set off, the sooner…"
+  - q: "He was ___ disappointed when the project was cancelled."
+    options: ["heavily", "bitterly", "strongly"]
+    answer: 1
+    explain: "Устойчивая коллокация — **bitterly disappointed** (также *deeply disappointed*). *heavily* и *strongly* с *disappointed* не сочетаются."
+  - q: "Of the two reports, the first is ___ ."
+    options: ["the more detailed", "more detailed one", "most detailed"]
+    answer: 0
+    explain: "Из двух — *the + comparative*: **the more detailed**. *more detailed one* требует артикля, *most detailed* без *the* значит «очень подробный»."

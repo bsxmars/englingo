@@ -1,0 +1,59 @@
+title: "Перефразирование: most, more, enough (C1 Advanced, Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "for the most part, at most, no more than, more than enough — устойчивые выражения."
+  - "more than one + ед. ч. + глагол в ед. ч."
+  - "enough после прилагательного; sufficient — с be."
+items:
+  - q: "Most of the reviews were positive, though there were a few exceptions."
+    key: "PART"
+    stem: "___, the reviews were positive, though there were a few exceptions."
+    answers: ["For the most part"]
+    explain: "**For the most part** = «по большей части»: формальная замена *mostly / most of*."
+  - q: "No other candidate got as many votes as Ruiz."
+    key: "MOST"
+    stem: "Ruiz ___ votes of all the candidates."
+    answers: ["got the most", "received the most", "won the most", "gained the most", "obtained the most"]
+    explain: "«Больше всех» — превосходная степень **the most**, с артиклем."
+  - q: "The room was too small for all the guests to sit down."
+    key: "ENOUGH"
+    stem: "The room wasn't ___ all the guests to sit down."
+    answers: ["big enough for", "large enough for", "spacious enough for"]
+    explain: "*too small* = *not big enough*. *enough* — после прилагательного, дальше *for* + сущ. + *to*: **big enough for**."
+  - q: "There isn't enough evidence to convict him."
+    key: "SUFFICIENT"
+    stem: "The evidence ___ to convict him."
+    answers: ["is not sufficient", "isn't sufficient"]
+    explain: "Формальный синоним *enough* после связки: **is not sufficient**. ~~is insufficient~~ меняет форму ключевого слова."
+  - q: "I used to go to that gym, but I've stopped."
+    key: "ANY"
+    stem: "I don't ___ ."
+    answers: ["go to that gym any more", "go to that gym anymore", "go to the gym any more", "go to the gym anymore"]
+    explain: "«Больше не» — **not … any more**. Вариант *anymore* слитно тоже принят, но ключевое слово ANY в нём остаётся."
+  - q: "The concert hall can hold 2,000 people at the very most."
+    key: "MORE"
+    stem: "The concert hall can hold ___ 2,000 people."
+    answers: ["no more than", "not more than"]
+    explain: "«Максимум» в формальном тексте — **no more than**. Это то же, что *at most*."
+  - q: "We need another ten chairs."
+    key: "MORE"
+    stem: "We need ___ ."
+    answers: ["ten more chairs", "10 more chairs"]
+    explain: "«Ещё десять» — число + **more**: *ten more chairs*."
+  - q: "Several people have complained, not just one."
+    key: "THAN"
+    stem: "___ has complained."
+    answers: ["More than one person"]
+    explain: "**More than one person** + глагол в единственном числе (*has*) — согласование с ближайшим существительным."
+  - q: "A lot more people took part this year than last year."
+    key: "MANY"
+    stem: "This year, ___ than last year."
+    answers: ["many more people took part", "a great many more people took part", "a good many more people took part", "many more people participated", "many more people were involved"]
+    explain: "*people* исчисляемое, поэтому усилитель перед *more* — **many**: *many more people*."
+  - q: "You've given us more than we need."
+    key: "ENOUGH"
+    stem: "You've given us ___ ."
+    answers: ["more than enough", "more than enough of it"]
+    explain: "**more than enough** = «больше, чем нужно, с избытком»."

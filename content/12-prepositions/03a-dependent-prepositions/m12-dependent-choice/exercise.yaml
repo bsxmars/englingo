@@ -1,0 +1,56 @@
+title: "Какой предлог — такой и смысл"
+type: choice
+intro: "Выбери вариант, который подходит **по смыслу**. Иногда грамматичны несколько предлогов, но верен только один."
+hints:
+  - "sorry about — сожалеть о ситуации; sorry for — жалеть человека или извиняться за действие."
+  - "anxious about — тревожиться; anxious for / to — очень хотеть."
+  - "Перед that-предложением предлог выпадает."
+items:
+  - q: "I feel really sorry ___ Mike — he's been working every weekend for a month."
+    options: ["about", "for", "with"]
+    answer: 1
+    explain: "Жалеть **человека** → *feel sorry **for** someone*. *sorry about* — про ситуацию: *sorry about the noise*."
+  - q: "The whole team is anxious ___ the results of the audit — nobody knows what to expect."
+    options: ["for", "about", "of"]
+    answer: 1
+    explain: "Тревожатся, ждут с опаской → **anxious about**. *anxious for news* значило бы «очень ждут новостей»."
+  - q: "After months of uncertainty, investors are anxious ___ some good news."
+    options: ["about", "for", "with"]
+    answer: 1
+    explain: "Очень **хотят** получить → **anxious for** + существительное (или *anxious to* + глагол)."
+  - q: "Most parents are concerned ___ how much time their kids spend online."
+    options: ["with", "about", "in"]
+    answer: 1
+    explain: "Это чувство, беспокойство → **concerned about**. *concerned with* — «касается, посвящён»."
+  - q: "Are you aware ___ the new rules about working from home?"
+    options: ["of", "about that", "that"]
+    answer: 0
+    explain: "Дальше существительное (*the new rules*) → **aware of**. *aware that* — только перед предложением с подлежащим и глаголом."
+  - q: "I wasn't aware ___ the meeting had been cancelled."
+    options: ["of", "of that", "that"]
+    answer: 2
+    explain: "Дальше целое предложение (*the meeting had been cancelled*) → предлог выпадает: **aware that**."
+  - q: "Regular exercise is good ___ your mental health as well as your body."
+    options: ["at", "for", "to"]
+    answer: 1
+    explain: "Польза → **good for**. *good at* — умения, *good to* — хорошее отношение к людям."
+  - q: "This software was designed for people who aren't familiar ___ programming."
+    options: ["with", "to", "of"]
+    answer: 0
+    explain: "Человек знает или не знает предмет → **familiar with**. *familiar to* — когда подлежащее — сама вещь."
+  - q: "There has been a significant drop ___ the number of applicants this year."
+    options: ["of", "in", "on"]
+    answer: 1
+    explain: "То, что уменьшилось, — **in**: *a drop **in** the number*. Размер падения — *of*: *a drop **of** 20%*."
+  - q: "What's the main difference ___ a library and a framework?"
+    options: ["from", "of", "between"]
+    answer: 2
+    explain: "У прилагательного — *different **from***, но у существительного с двумя предметами — *the difference **between** A and B*."
+  - q: "Many teenagers worry that there is no real alternative ___ going to university."
+    options: ["to", "for", "of"]
+    answer: 0
+    explain: "**alternative to** — альтернатива чему-то. После предлога *to* — форма *-ing*: *going*."
+  - q: "Many people have a strong fear ___ speaking in public."
+    options: ["from", "of", "before"]
+    answer: 1
+    explain: "**fear of** — как и прилагательное *afraid of*. Калька с «страх **перед**» (~~fear before~~) — частая ошибка."

@@ -1,0 +1,41 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка в местоимении. Исправь её и отправь предложение целиком."
+hints:
+  - "relax, concentrate, feel, meet обходятся без reflexive."
+  - "После предлогов места и take / bring with — обычное местоимение."
+  - "Прилагательное и else — после something / nothing / someone."
+items:
+  - q: "Try to relax yourself before the interview — the panel is friendlier than you think."
+    answers: ["Try to relax before the interview — the panel is friendlier than you think.", "Try to relax before the interview the panel is friendlier than you think."]
+    explain: "*relax* в английском не требует возвратного местоимения (в отличие от «расслабиться»): **Try to relax**."
+  - q: "She put the folder on the seat next to herself and started reading."
+    answers: ["She put the folder on the seat next to her and started reading."]
+    explain: "После предлогов места (*next to, beside, behind*) — обычное местоимение: **next to her**."
+  - q: "She feels herself much better now that she has changed jobs."
+    answers: ["She feels much better now that she has changed jobs.", "She feels much better now that she's changed jobs."]
+    explain: "Калька с «чувствует себя»: в английском *feel* + прилагательное без возвратного местоимения: **She feels much better**."
+  - q: "Someone has left his phone in the meeting room — does anybody recognise it?"
+    answers: ["Someone has left their phone in the meeting room — does anybody recognise it?", "Someone has left their phone in the meeting room does anybody recognise it?", "Someone has left his or her phone in the meeting room — does anybody recognise it?", "Someone has left a phone in the meeting room — does anybody recognise it?"]
+    explain: "Владелец неизвестен, поэтому не *his*, а singular **their**. Предполагать, что это мужчина, в современном английском — ошибка стиля."
+  - q: "The committee rejected the proposal without discussing nothing new."
+    answers: ["The committee rejected the proposal without discussing anything new."]
+    explain: "*without* уже отрицание, второе отрицание не нужно: **without discussing anything new**."
+  - q: "It's an old habit of her to underline every second sentence."
+    answers: ["It's an old habit of hers to underline every second sentence.", "It is an old habit of hers to underline every second sentence."]
+    explain: "После *of* в таких оборотах — притяжательное местоимение: *a habit **of hers***, а не *of her*."
+  - q: "Anyone who has finished their test can hand them in and leave."
+    answers: ["Anyone who has finished their test can hand it in and leave.", "Anyone who has finished the test can hand it in and leave."]
+    explain: "*their* относится к человеку (*anyone*), а вот работа одна — **it**: *hand it in*. *them* здесь означало бы несколько тестов."
+  - q: "One cannot always predict how you will react under pressure."
+    answers: ["One cannot always predict how one will react under pressure.", "You cannot always predict how you will react under pressure.", "You can't always predict how you will react under pressure."]
+    explain: "Нельзя смешивать *one* и *you* в одной фразе. Либо выдерживаешь формальное **one… one**, либо нейтральное *you… you*."
+  - q: "Those students who they missed the first lecture should download the slides."
+    answers: ["Those students who missed the first lecture should download the slides.", "Students who missed the first lecture should download the slides.", "Those who missed the first lecture should download the slides."]
+    explain: "*who* уже подлежащее придаточного, повторять *they* нельзя: **who missed**."
+  - q: "The twins look so alike that even their parents sometimes confuse one with another."
+    answers: ["The twins look so alike that even their parents sometimes confuse one with the other.", "The twins look so alike that even their parents sometimes confuse them with each other.", "The twins look so alike that even their parents sometimes confuse them with one another.", "The twins look so alike that even their parents sometimes mistake one for the other.", "The twins look so alike that even their parents sometimes confuse one for the other."]
+    explain: "Когда их **двое** и речь о том, что одного путают с другим, — **one with the other**. *one another* — устойчивое reciprocal и без артикля в таком обороте не работает."
+  - q: "Unfortunately, nobody in the department have read the report yet."
+    answers: ["Unfortunately, nobody in the department has read the report yet."]
+    explain: "После *nobody, everyone, someone* глагол — в **единственном** числе: *nobody **has** read*. Местоимение при этом может быть *they*: *nobody has read **their** copy*."

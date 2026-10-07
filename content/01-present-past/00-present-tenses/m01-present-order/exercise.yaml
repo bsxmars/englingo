@@ -1,0 +1,41 @@
+title: "Собери предложение"
+type: order
+intro: "Собери английское предложение из слов. Смысл подсказан по-русски. Знаки препинания в конце ставить не нужно."
+hints:
+  - "Наречия частоты (always, usually, never) — перед смысловым глаголом, но после am / is / are."
+  - "always + Continuous = раздражение: is always complaining."
+  - "В вопросах Present Simple — do / does, а глагол без -s."
+items:
+  - q: "«Он вечно перебивает людей на совещаниях» (с раздражением)."
+    answers: ["He is always interrupting people in meetings", "He's always interrupting people in meetings"]
+    explain: "Раздражающая привычка → **is always + -ing**. *always* стоит между *is* и глаголом с *-ing*."
+  - q: "«Обычно я не работаю по пятницам»."
+    answers: ["I don't usually work on Fridays", "I usually don't work on Fridays"]
+    explain: "Регулярность → Present Simple. *usually* чаще ставят после *don't*, но *I usually don't work* тоже правильно."
+  - q: "«Как часто ты ходишь в спортзал?»"
+    answers: ["How often do you go to the gym?"]
+    explain: "Вопрос о привычке → **do** + подлежащее + глагол без *-s*: *How often do you go*."
+  - q: "«На этой неделе я работаю из дома» (временно)."
+    answers: ["I am working from home this week", "I'm working from home this week", "This week I am working from home", "This week I'm working from home"]
+    explain: "Временная ситуация → **Present Continuous**: *I'm working this week*. *this week* можно поставить и в начало."
+  - q: "«Этот ноутбук принадлежит компании, а не мне»."
+    answers: ["This laptop belongs to the company, not me"]
+    explain: "*belong* — глагол состояния → только Present Simple: **belongs**."
+  - q: "«Я правда ценю твою помощь»."
+    answers: ["I do appreciate your help"]
+    explain: "Эмфатическое **do** усиливает утверждение: *I do appreciate*. *appreciate* — глагол состояния, без *-ing*."
+  - q: "«Почему ты всегда споришь со мной?» (с раздражением)."
+    answers: ["Why are you always arguing with me?"]
+    explain: "Раздражение → **are always + -ing**. В вопросе *always* стоит после подлежащего: *are you always arguing*."
+  - q: "«Сейчас мы думаем о переезде в Казань»."
+    answers: ["We are thinking about moving to Kazan", "We're thinking about moving to Kazan"]
+    explain: "*think about* = «обдумывать» — это действие, поэтому Continuous возможен: **are thinking about**. После предлога — *-ing*."
+  - q: "«У моей сестры нет машины»."
+    answers: ["My sister hasn't got a car"]
+    explain: "Владение → **hasn't got** (то же, что *doesn't have*). Не ~~doesn't have got~~ и не ~~isn't having~~."
+  - q: "«Суп пахнет чесноком»."
+    answers: ["The soup smells of garlic"]
+    explain: "*smell* о свойстве (как пахнет) — глагол состояния → **smells**. Можно и *smells like garlic*."
+  - q: "«Она редко пьёт кофе после обеда»."
+    answers: ["She rarely drinks coffee after lunch"]
+    explain: "Наречие частоты **rarely** стоит перед смысловым глаголом; у *she* — окончание *-s*: *drinks*."

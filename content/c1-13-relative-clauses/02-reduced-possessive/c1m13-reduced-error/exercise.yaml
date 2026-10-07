@@ -1,0 +1,41 @@
+title: "Найди ошибку: причастия, whose, those"
+type: error
+intro: "В каждом предложении **одна** ошибка: неверная форма причастия или инфинитива, неверное притяжательное или местоимение. Исправь и отправь предложение целиком."
+hints:
+  - "Кто совершает действие? Если не само существительное — нужен V3."
+  - "which не бывает притяжательным: whose или the … of which."
+  - "those who — «те, кто»; these who не говорят."
+items:
+  - q: "The documents needing for the visa application are listed on the embassy website."
+    answers: ["The documents needed for the visa application are listed on the embassy website.", "The documents required for the visa application are listed on the embassy website."]
+    explain: "Документы не «нуждаются», их **требуют** → пассив **needed / required**."
+  - q: "Neil Armstrong was the first man walking on the Moon."
+    answers: ["Neil Armstrong was the first man to walk on the Moon."]
+    explain: "После **the first** — инфинитив: *the first man **to walk***."
+  - q: "They bought a cottage which roof had collapsed during the storm."
+    answers: ["They bought a cottage whose roof had collapsed during the storm.", "They bought a cottage the roof of which had collapsed during the storm."]
+    explain: "«крыша которого» → **whose roof** или формально **the roof of which**. *which* не бывает притяжательным."
+  - q: "These who signed the petition will be invited to the public hearing."
+    answers: ["Those who signed the petition will be invited to the public hearing."]
+    explain: "«Те, кто» — только **those who**."
+  - q: "Her views on taxation are quite similar to which her predecessor held."
+    answers: ["Her views on taxation are quite similar to those her predecessor held.", "Her views on taxation are quite similar to those which her predecessor held.", "Her views on taxation are quite similar to those that her predecessor held.", "Her views on taxation are quite similar to the ones her predecessor held."]
+    explain: "Нужно местоимение-заменитель существительного во мн. ч.: **those** (which) her predecessor held."
+  - q: "The suspects being held since March have finally been charged."
+    answers: ["The suspects having been held since March have finally been charged.", "The suspects who have been held since March have finally been charged.", "The suspects held since March have finally been charged."]
+    explain: "*since March* → ситуация длится с прошлого → перфектный пассив **having been held** (или полное *who have been held*). *being held* — процесс «сейчас»."
+  - q: "Members not wishing to attend should inform the secretary, and members wished to speak should register in advance."
+    answers: ["Members not wishing to attend should inform the secretary, and members wishing to speak should register in advance."]
+    explain: "Члены клуба сами **хотят** выступить → актив **wishing**. *wished* — пассив («которых пожелали»)."
+  - q: "It was a city rich of history and full of hidden courtyards."
+    answers: ["It was a city rich in history and full of hidden courtyards."]
+    explain: "Постпозитивное прилагательное с дополнением: **rich in** history. Предлог управляется прилагательным."
+  - q: "She was the only one of the finalists to having trained without a coach."
+    answers: ["She was the only one of the finalists to have trained without a coach.", "She was the only one of the finalists to train without a coach."]
+    explain: "Перфектный инфинитив — **to have trained**; после *to* герундий здесь невозможен."
+  - q: "There aren't many people which would turn down an offer like that."
+    answers: ["There aren't many people who would turn down an offer like that.", "There aren't many people that would turn down an offer like that."]
+    explain: "О людях — **who** (или *that*). *which* о людях не употребляется."
+  - q: "It is you who owes the committee an explanation, not me."
+    answers: ["It is you who owe the committee an explanation, not me."]
+    explain: "В *It is you who…* глагол согласуется с местоимением **you** → **owe**, а не *owes*."

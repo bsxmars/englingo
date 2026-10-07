@@ -1,0 +1,52 @@
+title: "Сокращённое придаточное: выбери форму по смыслу"
+type: choice
+intro: "Все варианты похожи, но верен один: по времени действия, залогу или позиции прилагательного. Подумай, что именно хочет сказать автор."
+hints:
+  - "-ing — актив; V3 — пассив (результат); being V3 — пассив в процессе."
+  - "the first / the last / the only + to-инфинитив."
+  - "the people concerned ≠ concerned people."
+items:
+  - q: "The bridge ___ across the estuary will cut the journey time by half once it opens in 2030."
+    options: ["built", "being built", "having built"]
+    answer: 1
+    explain: "Мост ещё строится (откроется в 2030) → пассив в процессе **being built**. *built* означало бы, что стройка закончена; *having built* — актив («построивший»)."
+  - q: "Could all the staff ___ please sign the attendance sheet before leaving?"
+    options: ["present", "presented", "presenting"]
+    answer: 0
+    explain: "*the staff present* = «присутствующие сотрудники»: прилагательное после существительного, как сокращённое *who are present*."
+  - q: "The committee will contact the ___ directly to discuss compensation."
+    options: ["concerned families", "families concerned", "concerning families"]
+    answer: 1
+    explain: "**the families concerned** = «семьи, которых это касается». *concerned families* — «обеспокоенные семьи», *concerning* — «вызывающие беспокойство»."
+  - q: "She became the youngest person ever ___ the English Channel solo."
+    options: ["swimming", "to swim", "swum"]
+    answer: 1
+    explain: "После превосходной степени (*the youngest… ever*) — **to-инфинитив**, как после *the first / the only*."
+  - q: "Passengers ___ connecting flights should proceed directly to Gate 14."
+    options: ["taking", "taken", "to take"]
+    answer: 0
+    explain: "Актив, общее объявление: *passengers who are taking* → **taking**. *to take* звучало бы как «которым предстоит / следует сесть» без нужды."
+  - q: "Most of the evidence ___ to the court had been obtained illegally."
+    options: ["presenting", "presented", "to present"]
+    answer: 1
+    explain: "Доказательства **представили** (пассив, уже случилось) → **presented**. *presenting* значило бы, что доказательства сами что-то представляют."
+  - q: "There was a deafening explosion ___ the whole street."
+    options: ["waking up", "which woke up", "woken up"]
+    answer: 1
+    explain: "Однократное внезапное действие в прошлом не сокращают: нужно полное придаточное **which woke up**."
+  - q: "The next item ___ is the proposed budget for 2027."
+    options: ["discussing", "discussed", "to be discussed"]
+    answer: 2
+    explain: "После *the next* — инфинитив, а пункт **будут обсуждать** → пассивный инфинитив **to be discussed**."
+  - q: "Anyone ___ a valid ticket will be asked to leave the venue."
+    options: ["not holding", "holding not", "not held"]
+    answer: 0
+    explain: "Отрицание ставится **перед** причастием: **not holding**. Держит билет сам человек → актив."
+  - q: "The ingredients ___ for this recipe can be found in any supermarket."
+    options: ["needing", "needed", "to need"]
+    answer: 1
+    explain: "Ингредиенты **нужны** (кому-то) → пассив **needed**. *needing* — «нуждающиеся», типичная калька с русского «необходимые»."
+  - q: "Of all the candidates, she is the one ___ to have read the job description carefully."
+    options: ["seeming", "seemed", "who seems"]
+    answer: 2
+    explain: "*seem + to-инфинитив* в сокращённом виде звучит неестественно (~~the one seeming to have read~~); здесь нужно полное придаточное **who seems**."

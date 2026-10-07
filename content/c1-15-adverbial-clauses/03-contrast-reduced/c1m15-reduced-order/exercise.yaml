@@ -1,0 +1,31 @@
+title: "Собери предложение с оборотом"
+type: order
+intro: "Собери предложение из слов. Используй сокращённые обороты и формальную уступку."
+hints:
+  - "Оборот обычно стоит в начале, за ним — запятая (проверка запятые не учитывает)."
+  - "Подлежащее главной части = подлежащее оборота."
+items:
+  - q: "«Закончив отчёт, она ушла домой»."
+    answers: ["Having finished the report she went home", "She went home having finished the report"]
+    explain: "Предшествующее действие → **Having + V3**."
+  - q: "«Хоть она и устала, она продолжала работать» (формально, с as)."
+    answers: ["Tired as she was she kept working"]
+    explain: "**Прилагательное + as + подлежащее + be** — формальная уступка."
+  - q: "Инструкция: «При необходимости обратитесь к врачу»."
+    answers: ["If necessary consult a doctor", "Consult a doctor if necessary"]
+    explain: "**If necessary** = *if it is necessary*."
+  - q: "«Пока ждал поезда, я прочитал всю статью»."
+    answers: ["While waiting for the train I read the whole article", "I read the whole article while waiting for the train"]
+    explain: "**While + -ing**: подлежащее (*I*) общее для обеих частей."
+  - q: "«Как бы я ни любил музыку, оперу я долго слушать не могу»."
+    answers: ["Much as I love music I can't listen to opera for long"]
+    explain: "**Much as** + *love* — формальная уступка."
+  - q: "«Если не указано иное, все цены включают НДС»."
+    answers: ["Unless otherwise stated all prices include VAT", "All prices include VAT unless otherwise stated"]
+    explain: "Фиксированный оборот **Unless otherwise stated** — частый в договорах и прайс-листах."
+  - q: "«Если смотреть из космоса, Земля кажется голубой»."
+    answers: ["Seen from space the Earth looks blue"]
+    explain: "Пассивное **Seen** без союза: Землю *видят* из космоса."
+  - q: "«Не зная, что сказать, он промолчал»."
+    answers: ["Not knowing what to say he said nothing", "He said nothing not knowing what to say"]
+    explain: "**Not + -ing** — причина, *not* стоит перед причастием."

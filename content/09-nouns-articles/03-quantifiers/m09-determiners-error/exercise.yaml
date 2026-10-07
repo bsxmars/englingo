@@ -1,0 +1,40 @@
+title: "most, whole, mine: найди ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка с *most, all, whole, half* или с притяжательными словами. Исправь предложение целиком."
+hints:
+  - "Most people — люди вообще; most of the people — из конкретной группы."
+  - "a friend of mine, my own, shake my head."
+items:
+  - q: "Most of people in my office work from home on Fridays."
+    answers: ["Most people in my office work from home on Fridays.", "Most of the people in my office work from home on Fridays."]
+    explain: "После **most of** нужен определитель (*the, my, these*): *most of the people*. Без него — просто **most people**."
+  - q: "The most people I know prefer to work remotely."
+    answers: ["Most people I know prefer to work remotely.", "Most of the people I know prefer to work remotely."]
+    explain: "«Большинство» — **most** без артикля. *the most* — превосходная степень («больше всего»)."
+  - q: "Tom is a friend of me from university."
+    answers: ["Tom is a friend of mine from university."]
+    explain: "«Один из моих друзей» — **a friend of mine**: после *of* нужна форма без существительного (*mine, yours, hers*)."
+  - q: "I'd love to have an own garden one day."
+    answers: ["I'd love to have my own garden one day.", "I'd love to have a garden of my own one day."]
+    explain: "*own* стоит только после притяжательного: **my own garden** или **a garden of my own**."
+  - q: "She shook the head and said nothing."
+    answers: ["She shook her head and said nothing."]
+    explain: "С частями тела английский ставит притяжательное слово: **her head**. Русское «покачала головой» — без «своей», а в английском *her* обязательно."
+  - q: "It rained whole the day, so we stayed in."
+    answers: ["It rained the whole day, so we stayed in.", "It rained all day, so we stayed in."]
+    explain: "**whole** стоит после артикля: *the whole day*. Синоним — *all day*."
+  - q: "I invited my cousins, but all them were busy."
+    answers: ["I invited my cousins, but all of them were busy.", "I invited my cousins, but they were all busy."]
+    explain: "Перед местоимением *of* обязателен: **all of them**. Или *they were all busy*."
+  - q: "Half us voted against the plan."
+    answers: ["Half of us voted against the plan."]
+    explain: "*half the group* можно без *of*, но перед местоимением — только **half of us**."
+  - q: "Is this umbrella your or mine?"
+    answers: ["Is this umbrella yours or mine?"]
+    explain: "Без существительного после него нужна форма **yours** (как *mine*). *your* — только перед существительным: *your umbrella*."
+  - q: "The company has changed it's logo."
+    answers: ["The company has changed its logo."]
+    explain: "Принадлежность — **its** без апострофа. *it's* = *it is / it has*."
+  - q: "All what I did was ask a simple question."
+    answers: ["All I did was ask a simple question.", "All that I did was ask a simple question.", "All I did was to ask a simple question."]
+    explain: "«Всё, что я сделал» — **All I did** (или *All that I did*). ~~All what~~ — калька с русского."

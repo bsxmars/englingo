@@ -1,0 +1,41 @@
+title: "Найди ошибку в наречии"
+type: error
+intro: "В каждом предложении **одна** ошибка: наречие стоит не там, выбрано не по смыслу или нарушает книжную конструкцию. Исправь её и отправь предложение целиком."
+hints:
+  - "Наречие не встаёт между глаголом и дополнением."
+  - "probably и still — перед отрицательным вспомогательным; often — после него."
+  - "No longer в начале предложения требует инверсии."
+items:
+  - q: "She has mastered remarkably quickly the new software."
+    answers: ["She has mastered the new software remarkably quickly.", "She has remarkably quickly mastered the new software."]
+    explain: "Наречие образа действия не разрывает глагол и дополнение: **mastered the new software remarkably quickly**."
+  - q: "The minister won't probably attend the summit in person."
+    answers: ["The minister probably won't attend the summit in person.", "Probably the minister won't attend the summit in person.", "The minister will probably not attend the summit in person."]
+    explain: "Наречие уверенности стоит **перед** отрицательным вспомогательным: **probably won't**."
+  - q: "No longer customers are willing to wait a week for delivery."
+    answers: ["No longer are customers willing to wait a week for delivery.", "Customers are no longer willing to wait a week for delivery."]
+    explain: "*No longer* в начале требует инверсии: **No longer are customers willing…** Или верни его в mid position: *Customers are no longer willing…*"
+  - q: "We have yet received no reply from the supplier."
+    answers: ["We have still received no reply from the supplier.", "We have not yet received a reply from the supplier.", "We haven't yet received a reply from the supplier.", "We have not received a reply from the supplier yet.", "We still have received no reply from the supplier.", "We have received no reply from the supplier yet.", "We have not yet received any reply from the supplier.", "We haven't received a reply from the supplier yet."]
+    explain: "*yet* в утвердительном предложении с *no* так не ставят. Нужно **still** или отрицание *have not yet received*."
+  - q: "The exhibition is free, but the offer applies to only weekdays."
+    answers: ["The exhibition is free, but the offer applies only to weekdays.", "The exhibition is free, but the offer only applies to weekdays."]
+    explain: "В письменном тексте *only* ставят прямо перед тем, к чему оно относится, — перед всей предложной группой: **applies only to weekdays**."
+  - q: "Admittedly, she is the most gifted violinist of her generation, though many critics would disagree."
+    answers: ["Arguably, she is the most gifted violinist of her generation, though many critics would disagree.", "She is arguably the most gifted violinist of her generation, though many critics would disagree."]
+    explain: "*though many critics would disagree* — смелое утверждение, допускающее спор: **Arguably**. *Admittedly* признаёт собственную слабость перед «но»."
+  - q: "Technically, the plan is possible, but financially it is entirely realistic, so we are rejecting it."
+    answers: ["Technically, the plan is possible, but financially it is entirely unrealistic, so we are rejecting it.", "Technically, the plan is possible, but financially it is completely unrealistic, so we are rejecting it.", "Technically, the plan is possible, but financially it is totally unrealistic, so we are rejecting it.", "Technically, the plan is possible, but financially it is unrealistic, so we are rejecting it."]
+    explain: "*but* и *so we are rejecting it* требуют противопоставления: технически возможно, но финансово **unrealistic**. Viewpoint adverbs здесь ограничивают оценку одной областью."
+  - q: "I don't drink coffee often after lunch, because it keeps me awake."
+    answers: ["I don't often drink coffee after lunch, because it keeps me awake.", "I don't drink coffee very often after lunch, because it keeps me awake.", "I rarely drink coffee after lunch, because it keeps me awake.", "I seldom drink coffee after lunch, because it keeps me awake."]
+    explain: "Неточная частотность — в mid position, после отрицательного вспомогательного: **don't often drink**. В конце *often* звучит естественно только с *very*: *very often*."
+  - q: "He hasn't still sent me the files I asked for."
+    answers: ["He still hasn't sent me the files I asked for.", "He hasn't sent me the files I asked for yet.", "He hasn't yet sent me the files I asked for."]
+    explain: "*still* с отрицанием стоит **перед** вспомогательным: **still hasn't sent**. Альтернатива — *hasn't… yet*."
+  - q: "The product is supposedly eco-friendly, and independent tests have confirmed it."
+    answers: ["The product is reportedly eco-friendly, and independent tests have confirmed it.", "The product is genuinely eco-friendly, and independent tests have confirmed it.", "The product is eco-friendly, and independent tests have confirmed it.", "The product is demonstrably eco-friendly, and independent tests have confirmed it.", "The product is apparently eco-friendly, and independent tests have confirmed it.", "The product is truly eco-friendly, and independent tests have confirmed it.", "The product is supposedly eco-friendly, but independent tests have not confirmed it."]
+    explain: "*supposedly* = «якобы»: говорящий сомневается. Это противоречит *tests have confirmed it*. Нужно нейтральное или утверждающее наречие: **genuinely, demonstrably**."
+  - q: "She also speaks fluently Korean and is learning Japanese."
+    answers: ["She also speaks Korean fluently and is learning Japanese.", "She also speaks fluent Korean and is learning Japanese."]
+    explain: "Наречие не стоит между глаголом и дополнением: **speaks Korean fluently**. Или через прилагательное: *speaks fluent Korean*."

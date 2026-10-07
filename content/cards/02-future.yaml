@@ -1,0 +1,148 @@
+- id: m02-will-spontaneous
+  lesson: 02-future/01-will-going-to
+  q: "— The phone's ringing. — ___ (I / get) it. Какая форма и почему?"
+  a: "*I**'ll get** it.* — решение в момент речи → **will**."
+- id: m02-going-to-plan
+  lesson: 02-future/01-will-going-to
+  q: "В чём разница: *I'll buy a car* / *I'm going to buy a car*?"
+  a: "**will** — решил только что; **going to** — решил заранее, это намерение."
+- id: m02-present-continuous-arrangement
+  lesson: 02-future/01-will-going-to
+  q: "Переведи: «Что ты делаешь в эти выходные?» (о планах)"
+  a: "*What **are** you **doing** this weekend?* — о договорённостях спрашивают в Present Continuous, не ~~What will you do~~."
+- id: m02-timetable
+  lesson: 02-future/01-will-going-to
+  q: "Какое время для расписаний? *The train ___ (leave) at 6:45 tomorrow.*"
+  a: "Present Simple: *The train **leaves** at 6:45.*"
+- id: m02-prediction-evidence
+  lesson: 02-future/01-will-going-to
+  q: "Предсказание: когда **going to**, а когда **will**?"
+  a: "**going to** — есть признаки сейчас (*Look at the clouds! It's going to rain*); **will** — мнение (*I think it'll rain*)."
+- id: m02-shall-i
+  lesson: 02-future/01-will-going-to
+  q: "Найди ошибку: *It's hot in here. Will I open the window?*"
+  a: "***Shall I** open the window?* — предложение помощи вопросом → **Shall I…?**"
+- id: m02-future-continuous
+  lesson: 02-future/02-future-continuous-perfect
+  q: "Переведи: «Завтра в это время я буду лететь в Стамбул»."
+  a: "*This time tomorrow I**'ll be flying** to Istanbul.* — процесс в момент будущего → Future Continuous."
+- id: m02-future-perfect
+  lesson: 02-future/02-future-continuous-perfect
+  q: "Переведи: «К пятнице я закончу отчёт»."
+  a: "*I**'ll have finished** the report **by** Friday.* — результат к сроку → Future Perfect."
+- id: m02-by-until
+  lesson: 02-future/02-future-continuous-perfect
+  q: "**by** или **until**: I'll have finished ___ six. / I'll work ___ six."
+  a: "*finished **by** six* — к шести; *work **until** six* — вплоть до шести, всё это время."
+- id: m02-will-you-be
+  lesson: 02-future/02-future-continuous-perfect
+  q: "Как вежливо спросить, будет ли коллега пользоваться машиной вечером?"
+  a: "***Will** you **be using** the car tonight?* — Future Continuous звучит мягче, чем *Will you use…?*"
+- id: m02-fpc
+  lesson: 02-future/02-future-continuous-perfect
+  q: "Переведи: «В июне будет пять лет, как я здесь работаю»."
+  a: "*By June, I**'ll have been working** here for five years.* (или *I'll have worked*)"
+- id: m02-when-no-will
+  lesson: 02-future/03-time-clauses
+  q: "Найди ошибку: *I'll call you when I will get home.*"
+  a: "*…when I **get** home.* — после **when, as soon as, until, before, by the time** — настоящее время."
+- id: m02-when-present-perfect
+  lesson: 02-future/03-time-clauses
+  q: "Переведи: «Я дам тебе книгу, когда дочитаю её»."
+  a: "*I'll lend you the book when I**'ve finished** it.* — Present Perfect подчёркивает завершённость."
+- id: m02-was-going-to
+  lesson: 02-future/03-time-clauses
+  q: "Переведи: «Я собирался тебе позвонить, но забыл»."
+  a: "*I **was going to** call you, but I forgot.*"
+- id: m02-about-to
+  lesson: 02-future/03-time-clauses
+  q: "Что значит *be about to*? Можно ли сказать *I'm about to leave tomorrow*?"
+  a: "«Вот-вот, сейчас»: *The film is about to start.* С *tomorrow* — нельзя: *about to* только о ближайшем мгновении."
+- id: m02-due-to
+  lesson: 02-future/03-time-clauses
+  q: "Переведи: «Новый мост должны открыть следующей весной» (по плану)."
+  a: "*The new bridge **is due to open** next spring.*"
+- id: m02-likely-to
+  lesson: 02-future/03-time-clauses
+  q: "Найди ошибку: *Prices are likely rise this year.*"
+  a: "*Prices are likely **to** rise this year.* — **be likely to + инфинитив**."
+- id: m02-hot-desking
+  lesson: 02-future/04-reading
+  q: "Что такое *hot-desking*?"
+  a: "Система, где у сотрудника нет постоянного стола: место бронируют (*book a desk*) перед приходом."
+- id: m02-phase-out
+  lesson: 02-future/04-reading
+  q: "Переведи: «Компания постепенно отказывается от бумажных отчётов»."
+  a: "*The company is **phasing out** paper reports.*"
+- id: m02-informal-email
+  lesson: 02-future/05-writing
+  q: "Чем начать и закончить неформальное письмо другу?"
+  a: "Начало: *Hi Sam, Thanks for your email — great to hear from you!* Конец: *Let me know what you think. Can't wait to see you! Best, …*"
+- id: m02-ill-have-order
+  lesson: 02-future/01-will-going-to
+  q: "Переведи (официанту): «Я буду салат, пожалуйста»."
+  a: "*I**'ll have** the salad, please.* — заказ = решение в момент речи → **will**."
+- id: m02-probably-wont
+  lesson: 02-future/01-will-going-to
+  q: "Найди ошибку: *She won't probably come.*"
+  a: "*She **probably won't** come.* — **will probably**, но **probably won't**."
+- id: m02-not-going-to-refusal
+  lesson: 02-future/01-will-going-to
+  q: "Что выражает *I'm not going to apologise*?"
+  a: "Твёрдый отказ: «не стану извиняться». **I'm not going to** + глагол часто звучит как нежелание."
+- id: m02-will-be-passing
+  lesson: 02-future/02-future-continuous-perfect
+  q: "Переведи: «Я завезу тебе ключи — я всё равно буду проезжать мимо твоего дома»."
+  a: "*I'll drop off the keys — I**'ll be passing** your house anyway.* — по ходу событий → Future Continuous."
+- id: m02-wont-have-until
+  lesson: 02-future/02-future-continuous-perfect
+  q: "Переведи: «Они не закончат раньше полуночи»."
+  a: "*They **won't have finished until** midnight.* — *until* с Future Perfect только в отрицании."
+- id: m02-will-vs-will-be-when
+  lesson: 02-future/02-future-continuous-perfect
+  q: "Разница: *The band will play when the guests arrive* / *will be playing when…*?"
+  a: "**will play** — гости придут, потом заиграют; **will be playing** — музыка уже будет идти в момент прихода."
+- id: m02-be-to
+  lesson: 02-future/03-time-clauses
+  q: "Что значит *The President is to visit India next month*?"
+  a: "**be to + глагол** — официально назначено (язык новостей). В разговоре: *is visiting*."
+- id: m02-while-continuous
+  lesson: 02-future/03-time-clauses
+  q: "Найди ошибку: *I'll listen to music while I'll be driving.*"
+  a: "*…while I**'m driving**.* — после **while / when** без *will*; для процесса — Present Continuous."
+- id: m02-just-as-going-to
+  lesson: 02-future/03-time-clauses
+  q: "Переведи: «Магазин закрылся как раз когда я собирался войти»."
+  a: "*The shop closed **just as I was going to** go in.*"
+- id: m02-fip-would
+  lesson: 02-future/03a-future-in-past
+  q: "Найди ошибку: *I knew you will like it.*"
+  a: "*I knew you **would** like it.* — рамка в прошлом (*knew*) сдвигает *will* в **would**."
+- id: m02-fip-promised
+  lesson: 02-future/03a-future-in-past
+  q: "Переведи: «Он обещал, что не опоздает»."
+  a: "*He promised he **wouldn't** be late.*"
+- id: m02-fip-supposed
+  lesson: 02-future/03a-future-in-past
+  q: "Переведи: «Ты должен был позвонить мне вчера!» (договорились, но не позвонил)."
+  a: "*You **were supposed to** call me yesterday!* — не *must have called* (это вывод)."
+- id: m02-fip-about-to-when
+  lesson: 02-future/03a-future-in-past
+  q: "Переведи: «Мы как раз собирались выходить, когда пошёл дождь»."
+  a: "*We **were (just) about to** leave **when** it started to rain.*"
+- id: m02-fip-wouldnt-start
+  lesson: 02-future/03a-future-in-past
+  q: "Что значит *The car wouldn't start this morning*?"
+  a: "Машина **никак не заводилась** — *wouldn't* = «отказ» в прошлом."
+- id: m02-fip-bound-to
+  lesson: 02-future/03a-future-in-past
+  q: "Переведи: «Рано или поздно это должно было случиться»."
+  a: "*It **was bound to** happen sooner or later.* — **be bound to** = неизбежно, непременно."
+- id: m02-fip-sure-to
+  lesson: 02-future/03a-future-in-past
+  q: "Разница: *He is sure to win* / *He is sure that he will win*?"
+  a: "**is sure to win** — уверен говорящий; **is sure that he will win** — уверен сам он."
+- id: m02-fip-was-to-have
+  lesson: 02-future/03a-future-in-past
+  q: "Что значит *The talks were to have taken place in Geneva*?"
+  a: "Переговоры **должны были** пройти в Женеве, но **не состоялись**: **was to have + V3**."

@@ -1,0 +1,44 @@
+title: "Report: student feedback on library plans"
+type: writing
+intro: "Напиши отчёт в формате C1 Advanced, Part 2. Сгруппируй мнения участников, передай их точными reporting verbs и закончи рекомендациями с сослагательным наклонением или should."
+prompt: |
+  Your college is planning to turn the ground floor of its library into a **café and social space**. As a member of the student council, you were asked to find out what students think of the plan. You ran an online survey and two discussion groups.
+
+  The principal has now asked you to write a **report**. In your report you should:
+
+  - **summarise** the main concerns students expressed;
+  - describe any **positive reactions** to the plan;
+  - **recommend** what the college should do, taking students' views into account.
+
+  Write your **report** in 220–260 words.
+words: [220, 260]
+target_grammar:
+  - "Reporting verbs с разными моделями: expressed concern that, pointed out that, questioned whether, urged sb to, suggested that"
+  - "Сослагательное и should: It is recommended that the college retain / should retain…"
+  - "Косвенные вопросы с whether; при необходимости — одна короткая прямая цитата"
+checklist:
+  - "Есть заголовок и 3–4 подзаголовка (Introduction, разделы, Recommendations)."
+  - "Во введении названы цель отчёта и источник данных."
+  - "Мнения сгруппированы (большинство, меньшинство), а не перечислены по одному."
+  - "Использовано не меньше пяти разных reporting verbs, каждый в своей модели."
+  - "В рекомендациях есть сослагательное или should после recommend / suggest / insist."
+  - "Каждая рекомендация связана с проблемой из основной части."
+  - "Формальный регистр, без сокращений; объём 220–260 слов."
+model_answer: |
+  **Report on student feedback about the proposed library changes**
+
+  **Introduction**
+
+  The aim of this report is to summarise students' reactions to the plan to convert the ground floor of the library into a café and social space. The findings are based on an online survey completed by 180 students and two discussion groups.
+
+  **Main concerns**
+
+  A clear majority of respondents expressed concern that the change would reduce the number of quiet study places. Several final-year students pointed out that the library is already full during exam periods, and one complained that it was "almost impossible to find a desk after ten o'clock". Others questioned whether noise from a café could be kept away from the upper floors.
+
+  **Positive reactions**
+
+  Not all the feedback was negative, however. A significant minority welcomed the idea, arguing that the college currently lacks an informal space where students can meet. Some participants also suggested that a café might encourage students who rarely use the library to visit it more often.
+
+  **Recommendations**
+
+  In view of these findings, it is recommended that the college retain at least half of the ground floor for silent study and that the café area be separated from it by a soundproof partition. Students urged the management to consult them on the final design, so it would be advisable to invite a representative from each year group to join the planning committee. Finally, I would suggest that opening hours be extended during exam periods to relieve the pressure on study space.

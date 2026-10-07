@@ -1,0 +1,47 @@
+title: "Разрешить, отказать, рассказать о правилах"
+type: choice
+intro: "Выбери вариант, который звучит правильно в этой ситуации."
+hints:
+  - "Разрешаем — can / may, отказываем — can't / may not. Could в ответах не используется."
+  - "Разовое разрешение в прошлом — was allowed to; общее правило в прошлом — could или was allowed to."
+items:
+  - q: "— Could I use your charger for a minute? — Yes, of course you ___ ."
+    options: ["can", "could", "are able"]
+    answer: 0
+    explain: "*Could I…?* — просто вежливая просьба, а разрешение даём через **can**. ~~Yes, you could~~ звучит как «могли бы» и сбивает с толку."
+  - q: "— Could we leave our suitcases here? — I'm sorry, I'm afraid you ___ ."
+    options: ["couldn't", "can't", "don't have to"]
+    answer: 1
+    explain: "Отказ в разрешении — **can't** (формально *may not*). *couldn't* в отказе не используется, а *don't have to* значит «не обязательно»."
+  - q: "In the 1980s you ___ buy a flat in this area for very little money."
+    options: ["could", "were allowed", "managed to"]
+    answer: 0
+    explain: "Общая возможность в прошлом → **could**. *managed to* — разовый успех, а у *were allowed* не хватает *to*."
+  - q: "My boss was in a good mood yesterday, and I ___ leave two hours early."
+    options: ["could", "was allowed to", "may"]
+    answer: 1
+    explain: "Разовое разрешение в прошлом, которым ты воспользовался, → только **was allowed to**. *could* здесь звучало бы как общее правило."
+  - q: "I'm not sure what the rules are here. ___ park on this side of the street?"
+    options: ["Are we allowed to", "Are we allow to", "Do we allowed to"]
+    answer: 0
+    explain: "Спрашиваем о правиле → **Are we allowed to…?** Нужны *be* и причастие **allowed** с *-ed*."
+  - q: "When I was little, I ___ watch cartoons only on Sunday mornings."
+    options: ["could", "managed to", "was able"]
+    answer: 0
+    explain: "Общее правило детства → **could** (или *was allowed to*). *managed to* — про трудный разовый успех, у *was able* нет *to*."
+  - q: "The fog was so thick that the plane ___ take off until midday."
+    options: ["couldn't", "can't", "wasn't allowed"]
+    answer: 0
+    explain: "В отрицании *couldn't* подходит и для разовой ситуации в прошлом. У *wasn't allowed* не хватает *to*, а *can't* — настоящее время."
+  - q: "When we finally got to the top of the tower, we ___ see the whole city."
+    options: ["could", "can", "managed"]
+    answer: 0
+    explain: "С глаголами восприятия (*see, hear, smell*) **could** используется и для конкретного случая в прошлом."
+  - q: "It's such a warm evening. We ___ have dinner on the balcony if you like."
+    options: ["can", "will can", "are able"]
+    answer: 0
+    explain: "Предлагаем возможный план → **can**. ~~will can~~ не бывает, а у *are able* нет *to*."
+  - q: "You ___ use your phones during the test, so please put them in your bags."
+    options: ["can't", "couldn't", "don't have to"]
+    answer: 0
+    explain: "Запрет в настоящем → **can't** (или *mustn't*, *aren't allowed to*). *don't have to* — «не обязательно»."

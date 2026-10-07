@@ -1,0 +1,52 @@
+title: "it или there, время и форма"
+type: choice
+intro: "Выбери единственный вариант, который грамматичен и точно передаёт смысл."
+hints:
+  - "it seems that + факт; there seems to be + существование."
+  - "Прошлое при оценке сейчас — to have been."
+  - "После there не ставят обычный пассив: There were no survivors / No survivors were found."
+items:
+  - q: "___ a misunderstanding about the dates — I was sure the conference started on Monday."
+    options: ["It seems to have been", "There seems to have been", "There seems to be been"]
+    answer: 1
+    explain: "Существование недоразумения → *there*; было в прошлом, а вывод делаем сейчас → **There seems to have been**."
+  - q: "___ that the minister had been informed of the risks months earlier."
+    options: ["There later emerged", "It later emerged", "It was later emerged"]
+    answer: 1
+    explain: "*It emerged that…* — «выяснилось, что…»: пустое *it* + придаточное. *emerge* непереходный, пассива у него нет."
+  - q: "Rescue teams searched the area for days, but ___."
+    options: ["there were found no survivors", "no survivors were found", "it was found no survivors"]
+    answer: 1
+    explain: "После *there* обычный пассив не ставят. Правильно **no survivors were found** (или *there were no survivors*)."
+  - q: "I really can't stand ___ people check their phones in the middle of a conversation."
+    options: ["when", "it when", "that when"]
+    answer: 1
+    explain: "*can't stand / hate / love + **it** + when*: пустое дополнение перед придаточным обязательно."
+  - q: "___ a great deal of evidence to suggest that the diet works."
+    options: ["It isn't", "There isn't", "There aren't"]
+    answer: 1
+    explain: "Существование → *there*; *evidence* — неисчисляемое, глагол в единственном числе: **There isn't**."
+  - q: "At the time, ___ no reason to doubt his story."
+    options: ["there seemed to be", "there seems to have been", "it seemed to be"]
+    answer: 0
+    explain: "«Тогда казалось, что причины нет» → оценка в прошлом, действие одновременное: **there seemed to be**. *seems to have been* — оценка сейчас."
+  - q: "The committee regards ___ that all members declare their interests."
+    options: ["as vital", "it vital", "it as vital"]
+    answer: 2
+    explain: "*regard + **it as** + adj + that*: после *regard* нужен *as*, и пустое *it* перед ним. Сравни: *consider **it** vital* (без *as*)."
+  - q: "— Why don't we drive into town? — Well, ___ always the problem of finding somewhere to park."
+    options: ["there's", "it's", "there are"]
+    answer: 0
+    explain: "Напоминаем об известной обоим проблеме: *there's + **the** + существительное* — так *there* вводит знакомую, а не новую информацию. Существительное в единственном числе (*problem*) → *there's*."
+  - q: "___ that our proposal will be accepted without changes."
+    options: ["It is unlikely", "There is unlikely", "It is unlikely to be"]
+    answer: 0
+    explain: "Оценка вероятности факта (придаточное с *that*) → **It is unlikely that…** *There is unlikely to be* требует существительного: *There is unlikely to be any change*."
+  - q: "Was it really necessary for you to ___ so obvious that you were bored?"
+    options: ["make", "make it", "make it as"]
+    answer: 1
+    explain: "*make **it** + adj + that*: «так явно показать, что…». Без *it* предложение неполное."
+  - q: "___ to be some confusion about who is responsible for the budget."
+    options: ["It appears", "There appears", "It appears there"]
+    answer: 1
+    explain: "*there + appear + to be + существительное* — «похоже, есть путаница». С *it* нужна другая модель: *It appears **that** there is some confusion*."

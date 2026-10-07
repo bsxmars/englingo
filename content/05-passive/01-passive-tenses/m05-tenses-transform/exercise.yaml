@@ -1,0 +1,71 @@
+title: "Перефразирование: пассив в любом времени"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+
+  Во всех пунктах нужен пассив. Сначала определи время исходного глагола, потом перенеси его в форму *be*.
+hints:
+  - "Время не меняется: has used → has been used, were painting → was being painted."
+  - "После модального — be + V3, после модального с have — have been + V3."
+  - "Фразовый глагол сохраняет свою частицу: bring up → was brought up."
+items:
+  - q: "Nobody has used this meeting room for months."
+    key: "BEEN"
+    stem: "This meeting room ___ for months."
+    answers: ["has not been used", "hasn't been used"]
+    explain: "Present Perfect (*has used*) → **has been + V3**. *Nobody* превращается в отрицание: *has **not** been used*."
+  - q: "They were still painting the hall when the guests arrived."
+    key: "BEING"
+    stem: "The hall ___ when the guests arrived."
+    answers: ["was still being painted"]
+    explain: "Past Continuous → **was being + V3**. Наречие *still* стоит после первого вспомогательного: *was still being painted*."
+  - q: "Someone will meet you at the airport."
+    key: "MET"
+    stem: "You ___ at the airport."
+    answers: ["will be met"]
+    explain: "Будущее с *will* → **will be + V3**. Кто встретит — неважно, поэтому *by someone* не пишем."
+  - q: "They had already sold the last ticket before I got to the box office."
+    key: "BEEN"
+    stem: "The last ticket ___ before I got to the box office."
+    answers: ["had already been sold"]
+    explain: "Past Perfect → **had been + V3**. *already* ставим после *had*: действие закончилось раньше другого прошедшего."
+  - q: "You mustn't leave luggage unattended."
+    key: "BE"
+    stem: "Luggage ___ unattended."
+    answers: ["must not be left", "mustn't be left", "is not to be left", "isn't to be left"]
+    explain: "Модальный + пассив → **must not be + V3**. Официальный вариант-распоряжение — *is not to be left*: тоже с *be* и тоже запрет."
+  - q: "When did they discover this planet?"
+    key: "DISCOVERED"
+    stem: "When ___ ?"
+    answers: ["was this planet discovered"]
+    explain: "Вопрос в Past Simple passive: **was** + подлежащее + V3. *did* в пассиве не нужен — его роль играет *was*."
+  - q: "The company is going to launch the app next spring."
+    key: "GOING"
+    stem: "The app ___ next spring."
+    answers: ["is going to be launched", "'s going to be launched"]
+    explain: "*be going to* + пассивный инфинитив **be + V3**: *is going to be launched*. Пять слов — ровно предел."
+  - q: "They could have prevented the accident."
+    key: "BEEN"
+    stem: "The accident ___ ."
+    answers: ["could have been prevented"]
+    explain: "Модальный перфект → **could have been + V3**: «аварию можно было предотвратить» (но не предотвратили)."
+  - q: "People don't use cheques much any more."
+    key: "ARE"
+    stem: "Cheques ___ much any more."
+    answers: ["are not used", "aren't used"]
+    explain: "Present Simple, общий факт → **are + V3**. *People* — пустое подлежащее, в пассиве оно исчезает."
+  - q: "My parents brought me up in a small town near the Volga."
+    key: "BROUGHT"
+    stem: "I ___ in a small town near the Volga."
+    answers: ["was brought up"]
+    explain: "Фразовый глагол *bring up* в пассиве сохраняет частицу: **was brought up**. Без *up* смысл «вырастили» теряется."
+  - q: "Nobody had warned us about the strike."
+    key: "BEEN"
+    stem: "We ___ about the strike."
+    answers: ["had not been warned", "hadn't been warned"]
+    explain: "Past Perfect + отрицание → **had not been + V3**. Человек (*us*) становится подлежащим: *We hadn't been warned*."
+  - q: "Is anyone using this computer?"
+    key: "BEING"
+    stem: "Is ___ ?"
+    answers: ["this computer being used"]
+    explain: "Present Continuous passive в вопросе: **Is** + подлежащее + **being + V3**. *being* показывает, что процесс идёт прямо сейчас."

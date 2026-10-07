@@ -1,0 +1,63 @@
+title: "Перефразирование: оттенки отрицания (C1 Advanced, Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "far from, by no means, anything but — усиленное отрицание."
+  - "no longer, still not, not necessarily, not entirely — время и охват."
+items:
+  - q: "The plan is not perfect at all."
+    key: "FAR"
+    stem: "The plan is ___."
+    answers: ["far from perfect", "far from being perfect", "very far from perfect"]
+    explain: "*far from* + прилагательное — формальное «далеко не»: **far from perfect**."
+  - q: "It is not certain at all that the merger will go ahead."
+    key: "MEANS"
+    stem: "It is ___ that the merger will go ahead."
+    answers: ["by no means certain", "by no means sure", "by no means clear"]
+    explain: "*by no means* — книжное «вовсе не»: **by no means certain**."
+  - q: "The weekend was not restful in any way."
+    key: "BUT"
+    stem: "The weekend was ___."
+    answers: ["anything but restful", "anything but relaxing"]
+    explain: "*anything but* + прилагательное = «совсем не»: **anything but restful**."
+  - q: "Some of the participants did not agree with the proposal."
+    key: "ALL"
+    stem: "___ agreed with the proposal."
+    answers: ["Not all the participants", "Not all of the participants", "Not all participants"]
+    explain: "Частичное отрицание — **Not all (of) the participants** agreed. ~~All the participants didn't agree~~ двусмысленно."
+  - q: "He used to live in Oslo, but now he doesn't."
+    key: "LONGER"
+    stem: "He ___ in Oslo."
+    answers: ["no longer lives", "doesn't live any longer", "does not live any longer", "is no longer living"]
+    explain: "«Больше не» — **no longer lives** (формальнее) или *doesn't live… any longer*."
+  - q: "Expensive equipment doesn't always mean better results."
+    key: "NECESSARILY"
+    stem: "Expensive equipment ___ better results."
+    answers: ["does not necessarily mean", "doesn't necessarily mean", "will not necessarily mean", "won't necessarily mean", "does not necessarily lead to", "doesn't necessarily lead to", "does not necessarily produce", "doesn't necessarily produce"]
+    explain: "*not necessarily* — осторожное частичное отрицание: **doesn't necessarily mean** better results."
+  - q: "I agree with you only partly."
+    key: "ENTIRELY"
+    stem: "I ___ with you."
+    answers: ["don't entirely agree", "do not entirely agree", "don't agree entirely", "do not agree entirely"]
+    explain: "Вежливое частичное несогласие — **don't entirely agree**. *I entirely disagree* значило бы «полностью не согласен»."
+  - q: "Delays of this kind happen fairly often in the construction industry."
+    key: "UNCOMMON"
+    stem: "In the construction industry, delays of this kind ___."
+    answers: ["are not uncommon", "aren't uncommon", "are by no means uncommon", "are far from uncommon"]
+    explain: "Литота **are not uncommon** = «случаются довольно часто» — сдержанный формальный стиль."
+  - q: "She left without saying goodbye to anyone."
+    key: "EVEN"
+    stem: "She ___ goodbye to anyone before she left."
+    answers: ["didn't even say", "did not even say", "never even said"]
+    explain: "*not even* — «даже не»: **didn't even say** goodbye. Одно отрицание на клаузу."
+  - q: "I'm afraid the board has not approved the budget yet."
+    key: "STILL"
+    stem: "I'm afraid the board ___ the budget."
+    answers: ["still hasn't approved", "still has not approved"]
+    explain: "*still* перед отрицанием: **still hasn't approved** — «до сих пор не утвердил», с оттенком нетерпения."
+  - q: "I was not surprised in any way by her reaction."
+    key: "LEAST"
+    stem: "I was ___ by her reaction."
+    answers: ["not in the least surprised", "not surprised in the least", "not the least bit surprised", "not in the least bit surprised"]
+    explain: "*not in the least* = «ничуть»: **not in the least surprised**."

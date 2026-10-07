@@ -1,0 +1,43 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: лишний, пропущенный или не тот предлог. Исправь её и отправь предложение целиком."
+hints:
+  - "Без предлога: discuss, enter, reach, marry, phone, answer."
+  - "С предлогом: wait for, listen to, depend on, explain sth to sb, congratulate on, prevent from."
+items:
+  - q: "We discussed about the new project for two hours."
+    answers: ["We discussed the new project for two hours.", "We talked about the new project for two hours."]
+    explain: "**discuss** не берёт предлог: *discuss the project*. С предлогом — *talk about*."
+  - q: "Can you explain me this rule again?"
+    answers: ["Can you explain this rule to me again?", "Can you explain this rule again?", "Can you explain this rule to me?"]
+    explain: "**explain** something **to** someone. Человек без *to* сразу после *explain* не ставится."
+  - q: "Please wait me outside the station."
+    answers: ["Please wait for me outside the station."]
+    explain: "**wait for** someone — предлог обязателен."
+  - q: "Everything depends from your answer."
+    answers: ["Everything depends on your answer.", "Everything depends upon your answer."]
+    explain: "**depend on**, не ~~from~~ — частая калька с «зависеть от»."
+  - q: "She married with a Canadian and moved to Toronto."
+    answers: ["She married a Canadian and moved to Toronto.", "She got married to a Canadian and moved to Toronto."]
+    explain: "**marry** someone — без предлога. Или *get married **to*** someone."
+  - q: "When we entered into the room, everyone stopped talking."
+    answers: ["When we entered the room, everyone stopped talking.", "When we went into the room, everyone stopped talking.", "When we came into the room, everyone stopped talking.", "When we walked into the room, everyone stopped talking."]
+    explain: "**enter** — без предлога: *enter the room*. С предлогом — *go / come into*."
+  - q: "I'll phone to you as soon as I land."
+    answers: ["I'll phone you as soon as I land.", "I'll call you as soon as I land."]
+    explain: "**phone / call** someone — без *to*."
+  - q: "They congratulated me with my promotion."
+    answers: ["They congratulated me on my promotion."]
+    explain: "**congratulate** someone **on** something."
+  - q: "Nothing can prevent him to leave."
+    answers: ["Nothing can prevent him from leaving.", "Nothing can stop him from leaving.", "Nothing can stop him leaving."]
+    explain: "**prevent** someone **from** + *-ing*. Инфинитив после *prevent* не ставится."
+  - q: "Listen me carefully, because I won't repeat it."
+    answers: ["Listen to me carefully, because I won't repeat it."]
+    explain: "**listen to** someone / something — предлог обязателен."
+  - q: "We finally reached to the top of the mountain at noon."
+    answers: ["We finally reached the top of the mountain at noon.", "We finally got to the top of the mountain at noon."]
+    explain: "**reach** — без предлога. С предлогом — *get to*."
+  - q: "She really reminds me about my mother — they have the same smile."
+    answers: ["She really reminds me of my mother — they have the same smile.", "She really reminds me of my mother. They have the same smile."]
+    explain: "Похожа на кого-то → **remind** someone **of**. *remind about* — «напомнить, чтобы не забыл»."

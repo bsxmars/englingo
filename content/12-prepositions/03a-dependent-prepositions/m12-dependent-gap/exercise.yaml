@@ -1,0 +1,44 @@
+title: "Впиши зависимый предлог"
+type: gap
+intro: "Впиши **один** предлог. Сначала реши, что за слово стоит перед пропуском — глагол, существительное или прилагательное, — и какой смысл нужен."
+hints:
+  - "angry / annoyed with человек, about ситуация."
+  - "У существительного предлог есть, даже если у глагола его нет: discuss the plan → a discussion about the plan."
+  - "concerned about — беспокоится; concerned with — посвящён, касается."
+items:
+  - q: "I'm not angry ___ you — I'm angry about the way the meeting went."
+    answers: ["with", "at"]
+    explain: "Злиться **на человека** — *angry **with*** (реже *at*). Ситуация — *about*."
+  - q: "The second half of the course is mainly concerned ___ data security."
+    answers: ["with"]
+    explain: "Речь о содержании курса, а не о чувствах → **concerned with** («посвящён»)."
+  - q: "The new CEO's decisions had a huge effect ___ staff morale."
+    answers: ["on", "upon"]
+    explain: "Существительное **effect** берёт **on**. А глагол *affect* — без предлога: *affected staff morale*."
+  - q: "Only senior engineers have access ___ the production servers."
+    answers: ["to"]
+    explain: "**access to** — доступ к чему-то. Глагол *access* предлога не требует: *access the servers*."
+  - q: "My grandmother was always very good ___ me when I stayed with her as a child."
+    answers: ["to"]
+    explain: "Хорошо **относиться к** человеку — *good **to*** (как *kind to, nice to*). *good at* — умения, *good for* — польза."
+  - q: "Anna is brilliant ___ difficult customers — she always calms them down."
+    answers: ["with"]
+    explain: "Умеет **обращаться** с людьми → *good / brilliant **with***. Сравни: *good **at** sales* — навык."
+  - q: "I'm a bit tired ___ the long flight, so I'll go to bed early."
+    answers: ["from", "after"]
+    explain: "Физическая усталость от чего-то → **tired from / after**. *tired of* значит «надоело»."
+  - q: "There's a growing demand ___ developers who understand machine learning."
+    answers: ["for"]
+    explain: "Существительное **demand** — с **for**, хотя глагол *demand* идёт без предлога: *they demand higher pay*."
+  - q: "Her name sounds familiar ___ me, but I can't remember where we met."
+    answers: ["to"]
+    explain: "Вещь или имя **знакомы человеку** → *familiar **to** me*. Человек знает вещь → *I'm familiar **with** it*."
+  - q: "We had a long discussion ___ whether to move the office to the city centre."
+    answers: ["about", "on", "of"]
+    explain: "У **discussion** есть предлог (*about / on / of*), хотя у *discuss* его нет. Перед *whether* предлог сохраняется."
+  - q: "Each team lead is responsible ___ the head of department, not to the CEO."
+    answers: ["to"]
+    explain: "Подотчётен **человеку** → *responsible **to***. За дело, задачу → *responsible **for***."
+  - q: "She takes great pride ___ her work and never misses a deadline."
+    answers: ["in"]
+    explain: "Прилагательное — *proud **of***, но существительное — *pride **in***: *take pride in something*."

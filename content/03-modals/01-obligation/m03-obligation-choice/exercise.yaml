@@ -1,0 +1,55 @@
+title: "Нельзя, не обязательно или стоит?"
+type: choice
+intro: "Выбери вариант, который верен и по форме, и по смыслу."
+hints:
+  - "mustn't — запрещено; don't have to / needn't — не обязательно."
+  - "После must, should, had better, needn't — инфинитив без to. После ought, have, need (в утверждении) — с to."
+items:
+  - q: "You ___ smoke in here — it's a hospital."
+    options: ["mustn't", "don't have to", "needn't"]
+    answer: 0
+    explain: "Курить в больнице **запрещено** → **mustn't**. *don't have to* и *needn't* значили бы «курить не обязательно»."
+  - q: "My new job is great: I ___ wear a suit, but I can if I want to."
+    options: ["don't have to", "mustn't", "haven't to"]
+    answer: 0
+    explain: "Костюм носить **не обязательно**, но можно → **don't have to**. *mustn't* противоречило бы «но могу, если хочу». *have to* — обычный глагол, отрицание через *do*: ~~haven't to~~ не говорят."
+  - q: "You ___ bring your passport — an ID card is enough."
+    options: ["don't need to", "needn't to", "mustn't"]
+    answer: 0
+    explain: "Нет необходимости → **don't need to**. *needn't* тоже подошло бы, но **без to**: ~~needn't to~~. *mustn't* запрещало бы брать паспорт."
+  - q: "___ wear a uniform at your school?"
+    options: ["Do you have to", "Have you to", "Must you to"]
+    answer: 0
+    explain: "Вопрос с *have to* строим через **do**: *Do you have to…?* После *must* частица *to* невозможна."
+  - q: "Yesterday I ___ wait for the bus for forty minutes."
+    options: ["had to", "must", "have to"]
+    answer: 0
+    explain: "У **must** нет прошедшего времени. «Пришлось» в прошлом — только **had to**."
+  - q: "I think you ___ apologise to her. You were quite rude."
+    options: ["ought to", "ought", "should to"]
+    answer: 0
+    explain: "Совет → **ought to** (= *should*). Частица *to* у *ought* обязательна, а у *should* — невозможна."
+  - q: "We ___ leave now, or we'll miss the last train."
+    options: ["'d better", "'d rather", "should to"]
+    answer: 0
+    explain: "Предупреждение «иначе будут последствия» (*or we'll miss…*) → **had better**. *'d rather* — «предпочёл бы», с *or…* не сочетается."
+  - q: "You ___ not drink that milk. It's past its sell-by date."
+    options: ["had better", "would better", "have better"]
+    answer: 0
+    explain: "Устойчивая форма — только **had better** (*'d better*), отрицание — **had better not**."
+  - q: "Students ___ hand in their essays by Friday. Late work will not be accepted."
+    options: ["must", "need", "ought"]
+    answer: 0
+    explain: "Строгое правило → **must** + глагол без *to*. *need* в утверждении требует *to* (*need to hand in*), *ought* — тоже (*ought to*)."
+  - q: "Will we ___ show our tickets at the entrance?"
+    options: ["have to", "must", "need"]
+    answer: 0
+    explain: "У *must* нет будущего времени и инфинитива, поэтому после *will* — **have to**: *Will we have to…?*"
+  - q: "You ___ tell Mark about the party. It's a surprise!"
+    options: ["mustn't", "don't have to", "needn't"]
+    answer: 0
+    explain: "Говорить **нельзя** — иначе сюрприз пропадёт → **mustn't**. Русское «ты не должен» здесь — запрет, а не «не обязательно»."
+  - q: "She ___ get up at 5 a.m. every day because she works at a bakery."
+    options: ["has to", "must to", "have to"]
+    answer: 0
+    explain: "Обязанность из-за обстоятельств (работа) → **has to**; *have to* — обычный глагол, поэтому с *she* нужно окончание **-s**."

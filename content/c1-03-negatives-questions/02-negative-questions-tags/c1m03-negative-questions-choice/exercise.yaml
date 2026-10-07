@@ -1,0 +1,56 @@
+title: "Отрицательные вопросы: форма, смысл, ответ"
+type: choice
+intro: "Выбери вариант, который подходит по форме **и** по смыслу. Следи за тем, что говорящий имеет в виду: подтверждение, удивление, упрёк или предложение."
+hints:
+  - "Yes + утверждение, No + отрицание — независимо от формы вопроса."
+  - "Why not + глагол без подлежащего; Why don't you + глагол."
+  - "Полное not стоит после подлежащего: Did you not…?"
+items:
+  - q: "— Didn't you get my email? — ___, I did — I just haven't had time to reply."
+    options: ["Yes", "No", "Not"]
+    answer: 0
+    explain: "Письмо получено (*I did*) → **Yes**. Английское *yes* подтверждает факт, а не соглашается с отрицательной формой вопроса."
+  - q: "— Aren't you coming to the launch? — ___. I've got a dentist's appointment."
+    options: ["No, I'm not", "Yes, I'm not", "No, I am"]
+    answer: 0
+    explain: "Человек не идёт → **No, I'm not**. ~~Yes, I'm not~~ — калька с «да, не иду»; *No, I am* противоречит само себе."
+  - q: "Our flat is far too small for twenty guests. ___ you have the party at your place on Saturday instead?"
+    options: ["Why not", "Why don't", "Why didn't"]
+    answer: 1
+    explain: "Предложение на будущее → **Why don't you** + глагол. *Why not* не используется с подлежащим, а *Why didn't you* — упрёк о прошлом."
+  - q: "___ invite Lena as well? She'd love to come."
+    options: ["Why not", "Why don't", "Why not you"]
+    answer: 0
+    explain: "**Why not** + глагол без подлежащего — короткое предложение. *Why don't* требует *you*, а ~~Why not you invite~~ — ошибка."
+  - q: "Формальное письмо: «___ read the terms and conditions before signing?»"
+    options: ["Did you not", "Did not you", "You did not"]
+    answer: 0
+    explain: "В формальном стиле полное *not* стоит **после** подлежащего: ***Did you not read…?*** ~~Did not you~~ невозможно, а *You did not* без вопросительного порядка — утверждение."
+  - q: "— I've lived in Paris for ten years and I've never been up the Eiffel Tower. — Really? ___ been up it?"
+    options: ["Have you never", "Have never you", "Haven't you never"]
+    answer: 0
+    explain: "*never* в вопросе стоит **после** подлежащего: ***Have you never been…?*** — удивление. *Haven't… never* — двойное отрицание."
+  - q: "Who ___ their registration form yet? I'm still missing three."
+    options: ["hasn't returned", "hasn't he returned", "didn't return"]
+    answer: 0
+    explain: "*Who* — подлежащее, поэтому без перестановки: ***Who hasn't returned…?*** С *yet* нужен Present Perfect, поэтому *didn't return* не подходит."
+  - q: "Какой вопрос звучит как раздражённый упрёк, а не как просьба подтвердить?"
+    options: ["Can't you ever be on time?", "Isn't the meeting at ten?", "Didn't you say you'd been to Kyoto?"]
+    answer: 0
+    explain: "*Can't you **ever**…?* — классическая формула раздражения. Два других вопроса проверяют то, что говорящий считает верным."
+  - q: "Why ___ me you were struggling with the project? I could have helped."
+    options: ["didn't you tell", "not tell", "don't you tell"]
+    answer: 0
+    explain: "Упрёк о прошлом (*could have helped*) → ***Why didn't you tell me…?*** *Why not tell* и *Why don't you tell* — предложения на будущее."
+  - q: "— Isn't Canberra the capital of Australia? — ___. A lot of people think it's Sydney."
+    options: ["Yes, it is", "No, it is", "Yes, it isn't"]
+    answer: 0
+    explain: "Канберра — столица → **Yes, it is**. Ответ строится по факту."
+  - q: "«Ты ведь не против, да?» — говорящий почти уверен и ждёт согласия. Как звучит тег?"
+    options: ["You don't mind, ↘do you? — падающая интонация", "You don't mind, ↗do you? — восходящая интонация", "You don't mind, ↘don't you? — падающая интонация"]
+    answer: 0
+    explain: "Уверенность и ожидание согласия → **падающая** интонация. Восходящая — настоящий вопрос. Тег к отрицанию — утвердительный: *do you*."
+  - q: "Nothing ever changes in this department, ___?"
+    options: ["does it", "doesn't it", "do they"]
+    answer: 0
+    explain: "*Nothing* — отрицание и «вещь» → утвердительный тег с **it**: *does it?*"

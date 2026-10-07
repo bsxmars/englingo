@@ -1,0 +1,44 @@
+title: "Единственное или множественное"
+type: gap
+intro: "Поставь глагол в скобках в нужную форму (время — по контексту). Решает не окончание существительного, а то, что оно обозначает."
+hints:
+  - "police, people, cattle — всегда мн. ч.; news, physics, measles — ед. ч."
+  - "statistics, politics: наука → ед. ч.; данные, взгляды → мн. ч."
+  - "a pair of …, a number of …, the number of …: на что указывает подлежащее?"
+items:
+  - q: "The police ___ (appeal) for witnesses to come forward."
+    answers: ["are appealing", "have appealed", "have been appealing", "appealed", "were appealing", "appeal", "'re appealing", "'ve appealed"]
+    explain: "*police* всегда согласуется с глаголом во множественном числе: **are appealing**. ~~The police is~~ — калька с «полиция»."
+  - q: "The latest statistics ___ (suggest) that youth unemployment is finally falling."
+    answers: ["suggest", "suggested", "have suggested", "are suggesting"]
+    explain: "Здесь *statistics* — конкретные цифры, данные → множественное число: **suggest**."
+  - q: "Statistics ___ (be) a compulsory module for all first-year psychology students."
+    answers: ["is", "was", "'s"]
+    explain: "*Statistics* как учебная дисциплина — единственное число: **is**. Ср. *these statistics are alarming*."
+  - q: "Ten kilometres ___ (be) a long way to walk in this heat."
+    answers: ["is", "'s"]
+    explain: "Расстояние воспринимается как одно количество → **is**. Так же *five hundred pounds is*, *two weeks is*."
+  - q: "The news from the coast ___ (not / be) as bad as we had feared."
+    answers: ["is not", "isn't", "was not", "wasn't", "'s not"]
+    explain: "*news* — неисчисляемое в единственном числе, несмотря на *-s*: **isn't** / **wasn't**."
+  - q: "That pair of jeans ___ (be) far too tight for you now."
+    answers: ["is", "'s"]
+    explain: "Подлежащее — *pair* (*that pair*), поэтому **is**. Без *pair of*: *Those jeans are…*"
+  - q: "These scissors ___ (not / be) sharp enough to cut cardboard."
+    answers: ["are not", "aren't"]
+    explain: "pair noun без *a pair of* — всегда множественное число: **aren't**."
+  - q: "When we reached the farm, cattle ___ (graze) peacefully on the hillside."
+    answers: ["were grazing"]
+    explain: "*cattle* — множественное число без *-s*: **were grazing**. Фон для действия в прошлом → Past Continuous."
+  - q: "A number of applicants ___ (withdraw) since the deadline was extended."
+    answers: ["have withdrawn"]
+    explain: "*a number of* = «несколько», подлежащее по смыслу — *applicants* → множественное: **have withdrawn**. *since* → Present Perfect."
+  - q: "The number of applicants ___ (double) since the course went online."
+    answers: ["has doubled"]
+    explain: "*the number of* = «количество», подлежащее — само число → единственное: **has doubled**."
+  - q: "Measles ___ (make) a worrying comeback in several European countries."
+    answers: ["is making", "has been making", "has made"]
+    explain: "Название болезни на *-s* — единственное число: **is making**."
+  - q: "The remains of a Roman villa ___ (discover) under a supermarket car park last spring."
+    answers: ["were discovered"]
+    explain: "*remains* (остатки, руины) — plural-only noun → **were discovered**. *last spring* → Past Simple, пассив."

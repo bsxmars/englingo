@@ -1,0 +1,64 @@
+title: "Перефразирование (C1 Advanced, Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "Умножители: four times the size of / twice as many … as / half as much as."
+  - "Формальные замены a lot: a great deal of (неисч.), many a + ед. ч."
+  - "the little money they had = те немногие деньги, что были (всё, что было)."
+items:
+  - q: "The old office was only a quarter of the size of the new one."
+    key: "TIMES"
+    stem: "The new office is ___ the old one."
+    answers: ["four times the size of", "four times as big as", "four times as large as", "four times bigger than", "four times larger than"]
+    explain: "Умножитель + *the size of*: ***four times the size of***. Также *four times as big as*. В формальном тексте *the size of* звучит лучше всего."
+  - q: "Hardly any critics praised the film."
+    key: "FEW"
+    stem: "The film was praised ___."
+    answers: ["by very few critics", "by few critics", "by only a few critics", "by very few of the critics"]
+    explain: "*hardly any* = **very few**: *was praised by very few critics*. Без артикля *few* = «мало, почти никто»; *a few* значило бы «несколько»."
+  - q: "Many writers have struggled to follow up a successful debut."
+    key: "A"
+    stem: "___ struggled to follow up a successful debut."
+    answers: ["Many a writer has"]
+    explain: "**many a** + единственное число + глагол в единственном: *Many a writer **has** struggled…* Книжный вариант *many writers have*."
+  - q: "The number of applicants this year was double the number last year."
+    key: "MANY"
+    stem: "This year there were ___ last year."
+    answers: ["twice as many applicants as", "twice as many applicants as there were", "twice as many applicants as there had been"]
+    explain: "*twice as many* + мн. ч. + *as*: ***twice as many applicants as** last year*. ~~double as many~~ — ошибка."
+  - q: "Last year we received more complaints than this year."
+    key: "FEWER"
+    stem: "This year we ___ last year."
+    answers: ["received fewer complaints than", "have received fewer complaints than", "received fewer complaints than we did", "have received fewer complaints than we did", "received fewer complaints than in", "have received fewer complaints than in"]
+    explain: "*complaints* — исчисляемое во множественном числе → **fewer**: *received fewer complaints than last year*. *less complaints* — разговорно и в формальном тексте считается ошибкой."
+  - q: "A lot has been written about the causes of the war."
+    key: "DEAL"
+    stem: "A ___ written about the causes of the war."
+    answers: ["great deal has been", "good deal has been"]
+    explain: "*a great deal* — формальная замена *a lot* для неисчисляемого или без существительного: ***A great deal has been** written*."
+  - q: "Women make up two-thirds of the workforce."
+    key: "ARE"
+    stem: "Two-thirds ___ women."
+    answers: ["of the workforce are", "of the staff are", "of the employees are", "of the workers are", "of the company's workforce are"]
+    explain: "Дробь + *of* + групповое или множественное существительное, а дополнение — *women* → глагол во множественном: *Two-thirds of the workforce **are** women*."
+  - q: "The drought affected every part of the country."
+    key: "OF"
+    stem: "The drought affected ___."
+    answers: ["the whole of the country", "all of the country", "the whole of the nation"]
+    explain: "*the whole of* + определитель + существительное: ***the whole of the country***. Можно и *all of the country*."
+  - q: "Each of the candidates was interviewed by a panel of three."
+    key: "EVERY"
+    stem: "___ was interviewed by a panel of three."
+    answers: ["Every one of the candidates", "Every single one of the candidates", "Every candidate", "Every single candidate"]
+    explain: "Перед *of* — только **every one**, не ~~every of~~: ***Every one of the candidates** was…* Глагол — в единственном числе."
+  - q: "They had only a small amount of money, and they spent all of it on rent."
+    key: "LITTLE"
+    stem: "They spent ___ had on rent."
+    answers: ["the little money they", "what little money they", "the little that they", "what little they"]
+    explain: "*the little* / *what little* + существительное = «те немногие деньги, что были»: ***the little money they** had*. Так же *my few belongings*."
+  - q: "The new model costs fifty per cent of the price of the old one."
+    key: "AS"
+    stem: "The new model costs ___ the old one."
+    answers: ["half as much as", "only half as much as"]
+    explain: "*half as much as* = «вдвое меньше»: *costs **half as much as** the old one*."

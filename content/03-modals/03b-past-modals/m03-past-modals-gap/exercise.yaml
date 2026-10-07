@@ -1,0 +1,43 @@
+title: "Впиши модальный с have"
+type: gap
+intro: "Поставь глагол в скобках в нужную форму с модальным глаголом из подсказки. Пиши только то, что вписывается в пропуск."
+hints:
+  - "Схема: модальный + have + V3. Отрицание — not сразу после модального."
+  - "Continuous: should have been doing; пассив: should have been done."
+items:
+  - q: "I'm so tired. I ___ (should / not / stay) up so late watching that series."
+    answers: ["shouldn't have stayed", "should not have stayed"]
+    explain: "Сожаление о сделанном → **shouldn't have stayed**. *not* сразу после *should*."
+  - q: "The train was empty — we ___ (need / not / reserve) seats after all."
+    answers: ["needn't have reserved", "need not have reserved"]
+    explain: "Места забронировали, а оказалось зря → **needn't have reserved**."
+  - q: "If you'd sent me the file earlier, I ___ (would / finish) the report on time."
+    answers: ["would have finished"]
+    explain: "Third conditional: результат в воображаемом прошлом → **would have finished**."
+  - q: "You ___ (could / break) your neck jumping off that wall!"
+    answers: ["could have broken"]
+    explain: "Реальная опасность, которая не случилась → **could have broken**. Третья форма *break* — *broken*."
+  - q: "The bug ___ (should / catch) during code review, not in production."
+    answers: ["should have been caught"]
+    explain: "Баг не ловит сам себя — пассив: **should have been caught**."
+  - q: "The guests ___ (be supposed to / arrive) at seven, but most of them came after eight."
+    answers: ["were supposed to arrive"]
+    explain: "План, который не сбылся → **were supposed to arrive**. *guests* — множественное число, поэтому *were*."
+  - q: "Why didn't you ask me? I ___ (could / lend) you the money."
+    answers: ["could have lent"]
+    explain: "Упущенная возможность → **could have lent**. *lend – lent – lent*."
+  - q: "She ___ (should / revise) for the exam instead of chatting online all evening."
+    answers: ["should have been revising", "should have revised"]
+    explain: "Упрёк о процессе, которым надо было заниматься весь вечер → **should have been revising**; *should have revised* тоже верно."
+  - q: "We ___ (not / need / take) the car, because Anna offered us a lift, so we left it at home."
+    answers: ["didn't need to take", "did not need to take", "didn't have to take", "did not have to take"]
+    explain: "Машину не брали — нужды не было → **didn't need to take** (или *didn't have to take*). *needn't have taken* значило бы, что взяли."
+  - q: "I ___ (would / not / choose) that hotel — the reviews were awful. Why did you book it?"
+    answers: ["wouldn't have chosen", "would not have chosen"]
+    explain: "«Я бы на твоём месте не выбрал» → **wouldn't have chosen**."
+  - q: "You ___ (ought / tell) your manager about the problem straight away."
+    answers: ["ought to have told"]
+    explain: "**ought to have + V3** = *should have*: «тебе следовало сказать». *to* после *ought* обязательно."
+  - q: "We ___ (need / not / worry) so much — the interview turned out to be really relaxed."
+    answers: ["needn't have worried", "need not have worried"]
+    explain: "Волновались, а оказалось зря → **needn't have worried**."

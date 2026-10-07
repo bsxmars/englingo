@@ -1,0 +1,64 @@
+title: "Перефразирование: причастные и абсолютные обороты"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы смысл совпал с первым. Используй **ключевое слово** без изменений и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "Разные подлежащие → абсолютный оборот: сущ. + причастие, There being, with + сущ."
+  - "Одинаковые подлежащие → причастие без союза или союз + причастие."
+  - "Результат → …, + -ing после главной части."
+items:
+  - q: "As the work had been completed, the builders packed up and left."
+    key: "WITH"
+    stem: "___, the builders packed up and left."
+    answers: ["With the work completed", "With the work finished", "With the work done", "With the work having been completed"]
+    explain: "У оборота своё подлежащее (*the work*) → **with + сущ. + V3**: работа *завершена*, поэтому пассивное причастие."
+  - q: "If the weather is good, we will eat outside."
+    key: "PERMITTING"
+    stem: "___ eat outside."
+    answers: ["Weather permitting, we will"]
+    explain: "**Weather permitting** = «если позволит погода» — фиксированный абсолютный оборот."
+  - q: "Because there was no evidence against him, the suspect was released."
+    key: "BEING"
+    stem: "___ against him, the suspect was released."
+    answers: ["There being no evidence"]
+    explain: "**There being + сущ.** — абсолютный оборот причины. Подлежащие разные, поэтому ~~Being no evidence~~ невозможно."
+  - q: "After she had read the email, she deleted it immediately."
+    key: "HAVING"
+    stem: "___ deleted it immediately."
+    answers: ["Having read the email, she"]
+    explain: "Подлежащее то же, действие раньше главного → **Having + V3**."
+  - q: "Since I didn't want to cause offence, I said nothing."
+    key: "NOT"
+    stem: "___ cause offence, I said nothing."
+    answers: ["Not wanting to", "Not wishing to"]
+    explain: "Оборот причины с отрицанием: **not** ставится **перед** причастием — *Not wanting to*."
+  - q: "When it is viewed from the hills, the city looks like a toy town."
+    key: "VIEWED"
+    stem: "___ hills, the city looks like a toy town."
+    answers: ["Viewed from the", "When viewed from the", "If viewed from the"]
+    explain: "Город *видят* → пассивное **V3** без *being*. Союз *When / If* можно сохранить."
+  - q: "His hands were shaking as he opened the envelope."
+    key: "WITH"
+    stem: "___ shaking, he opened the envelope."
+    answers: ["With his hands", "With his hands still"]
+    explain: "**with + сущ. + -ing** — нейтральная форма абсолютного оборота; книжный вариант — *His hands shaking, …*."
+  - q: "The fire spread quickly and destroyed three houses."
+    key: "DESTROYING"
+    stem: "The fire spread ___ houses."
+    answers: ["quickly, destroying three", "quickly, destroying all three"]
+    explain: "Оборот **результата** после главной части: *…, destroying three houses* = *and destroyed*."
+  - q: "If you are in doubt, consult the manual."
+    key: "WHEN"
+    stem: "___, consult the manual."
+    answers: ["When in doubt", "When you are in doubt", "When you're in doubt"]
+    explain: "Союз + предложная группа без *you are*: **When in doubt** — короткая формула инструкций."
+  - q: "Once the forms have been signed, they cannot be altered."
+    key: "ONCE"
+    stem: "___ be altered."
+    answers: ["Once signed, the forms cannot", "Once signed, forms cannot"]
+    explain: "**Once + V3**: подлежащее (*the forms*) переходит в главную часть, а оборот теряет *they have been*."
+  - q: "If we consider how little time we had, we did a good job."
+    key: "CONSIDERING"
+    stem: "___ we had, we did a good job."
+    answers: ["Considering how little time", "Considering the little time"]
+    explain: "**Considering** — фиксированный оборот-связка, его подлежащее «общее», поэтому висячим он не считается."

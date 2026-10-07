@@ -1,0 +1,37 @@
+title: "Собери длинную модальную цепочку"
+type: order
+intro: "Собери предложение из слов. Следи за порядком звеньев: modal → have → been → V-ing / V3, и за местом отрицания и наречий."
+hints:
+  - "not и never стоят сразу после модального глагола: must not have, might never have."
+  - "Phrasal modal после модального: will have to, might be able to, may be allowed to."
+items:
+  - q: "«Наверное, они всё это время нас обсуждали»."
+    answers: ["They must have been talking about us all this time", "All this time they must have been talking about us"]
+    explain: "Вывод о длительном процессе до настоящего → *must have been* + V-ing."
+  - q: "«Эти данные не следовало публиковать без согласия»."
+    answers: ["This data should not have been published without consent"]
+    explain: "Упрёк о прошлом в пассиве: *should not* + *have been* + V3. *not* — сразу после модального."
+  - q: "«Нам, видимо, придётся отложить запуск»."
+    answers: ["We are probably going to have to postpone the launch", "Probably we are going to have to postpone the launch"]
+    explain: "Два phrasal modals подряд: *be going to have to*. Наречие *probably* — после первого вспомогательного."
+  - q: "«Возможно, к пятнице им разрешат вернуться домой»."
+    answers: ["They may be allowed to return home by Friday", "By Friday they may be allowed to return home"]
+    explain: "Модальный + phrasal modal: *may be allowed to*. Два модальных подряд (~~may can~~) невозможны."
+  - q: "«Он не мог тогда водить — у него ещё не было прав»."
+    answers: ["He cannot have been driving at the time", "At the time he cannot have been driving"]
+    explain: "Уверенное отрицание процесса в прошлом → *can't / couldn't have been* + V-ing."
+  - q: "Деловое письмо: «Как вы, вероятно, уже заметили, цены выросли»."
+    answers: ["As you will have noticed, prices have gone up", "Prices have gone up, as you will have noticed"]
+    explain: "*will have* + V3 — вежливая уверенность в том, что уже произошло: «как вы, конечно, заметили»."
+  - q: "«Тебе бы понравилось жить в Венеции XVIII века»."
+    answers: ["You would have loved living in eighteenth-century Venice"]
+    explain: "Воображаемое прошлое → *would have* + V3."
+  - q: "«Я бы с радостью помог, но я уезжаю завтра»."
+    answers: ["I would gladly help, but I am leaving tomorrow", "I would help gladly, but I am leaving tomorrow"]
+    explain: "*would* — готовность, которую мешает реализовать обстоятельство: «помог бы, но…»."
+  - q: "«Её, должно быть, предупредили заранее»."
+    answers: ["She must have been warned in advance"]
+    explain: "Вывод о прошлом в пассиве: *must have been* + V3."
+  - q: "«Тебе не стоит работать, пока ты на больничном»."
+    answers: ["You should not be working while you are on sick leave", "While you are on sick leave, you should not be working"]
+    explain: "Критика действия в процессе → *shouldn't be* + V-ing."

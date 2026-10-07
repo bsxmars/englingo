@@ -1,0 +1,43 @@
+title: "remember, stop, try и другие"
+type: gap
+intro: "Поставь глагол в скобках в форму **-ing** или **to + глагол** по смыслу. Если в скобках есть *not*, поставь его перед глаголом."
+hints:
+  - "Уже случилось → -ing. Задача или цель → to."
+  - "go on -ing = продолжать то же; go on to = перейти к новому."
+items:
+  - q: "I'm sure I posted the letter — I remember ___ (put) it in the postbox."
+    answers: ["putting"]
+    explain: "Вспоминаю действие, которое **уже было** → **remember + -ing**."
+  - q: "Don't forget ___ (water) the plants while I'm away."
+    answers: ["to water"]
+    explain: "Задача на будущее → **forget to**."
+  - q: "Halfway up the hill, he stopped ___ (rest) for a few minutes."
+    answers: ["to rest"]
+    explain: "Остановился, **чтобы** отдохнуть → **stop to** + цель."
+  - q: "My grandfather stopped ___ (drive) when he turned eighty."
+    answers: ["driving"]
+    explain: "Перестал водить → **stop + -ing**."
+  - q: "I tried ___ (fix) the printer myself, but I only made it worse."
+    answers: ["to fix", "fixing"]
+    explain: "Классический вариант — **try to fix** («пытался, но не вышло»). *tried fixing* («попробовал как способ») здесь тоже звучит естественно."
+  - q: "If the app keeps crashing, try ___ (delete) it and installing it again."
+    answers: ["deleting"]
+    explain: "Совет попробовать способ → **try + -ing**. Параллель *and installing* подсказывает форму."
+  - q: "Do you regret ___ (not / go) to university?"
+    answers: ["not going", "not having gone"]
+    explain: "Жалеешь о прошлом → **regret + -ing**. Отрицание — перед глаголом: *not going*."
+  - q: "We regret ___ (announce) that the 18:40 train to Brighton has been cancelled."
+    answers: ["to announce"]
+    explain: "Официальное «с сожалением сообщаем» → **regret to** + *announce / inform / say*."
+  - q: "I didn't mean ___ (upset) you — I'm really sorry."
+    answers: ["to upset"]
+    explain: "**mean to** = «намереваться»: не хотел тебя расстроить."
+  - q: "The new job will mean ___ (spend) a lot of time on planes."
+    answers: ["spending"]
+    explain: "**mean + -ing** = «будет означать, повлечёт»."
+  - q: "She talked about her childhood and then went on ___ (describe) her first job."
+    answers: ["to describe"]
+    explain: "Перешла к **следующей** теме → **go on to**."
+  - q: "Please don't stop — go on ___ (play)! It sounds great."
+    answers: ["playing"]
+    explain: "Продолжай **то же самое** → **go on + -ing**."

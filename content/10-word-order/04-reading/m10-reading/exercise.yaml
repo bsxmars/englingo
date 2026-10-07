@@ -1,0 +1,78 @@
+title: "Lisbon or Tbilisi? One year, two cities"
+type: reading
+intro: "Прочитай блог-пост и ответь на вопросы. Первые шесть — в формате B2 First Part 5, последние три — на лексику из текста."
+hints:
+  - "Обращай внимание на силу сравнения: slightly, much, far, the most."
+  - "Главный вывод автора — в последнем абзаце."
+text: |
+  ## Lisbon or Tbilisi? One year, two cities
+
+  When I started working remotely three years ago, I made a promise to myself: I would spend at least six months in every city I lived in, so that I could judge it fairly. Last year I kept that promise twice — first in Lisbon, then in Tbilisi. People often ask me which one is better. The honest answer is that it depends on what you value most.
+
+  Let's start with money, because for most remote workers it matters more than anything else. Tbilisi is far cheaper. My one-bedroom flat in the old town cost roughly half as much as a smaller place in Lisbon, and eating out was so affordable that I almost stopped cooking. Lisbon used to be one of the cheapest capitals in Western Europe, but those days are gone. Rents have risen faster than salaries, and many locals now find it harder and harder to live in the centre. As a foreigner earning a foreign salary, I sometimes felt slightly uncomfortable about that.
+
+  When it comes to work, Lisbon wins easily. The internet in my flat was faster and more reliable than in Tbilisi, where I lost my connection during calls more often than I would like to admit. Lisbon also has more co-working spaces than I could count, and the remote-work community is much bigger and better organised. There is a meetup almost every evening, so you are never as isolated as you might be in a smaller scene. Time zones matter too: Lisbon is on the same time as London, which made meetings with my team a lot easier. In Tbilisi, my working day finished three or four hours later than theirs.
+
+  The weather is a closer contest. Lisbon's winters are milder, and the city gets more sunshine than almost any other European capital. Tbilisi has hotter summers and colder winters, but the autumn there was the most beautiful I have ever seen — warm, golden and quiet.
+
+  What about people? This is where Tbilisi surprised me most. I have never been invited to so many family dinners by people I had only just met. Georgians are, without doubt, the most generous hosts I have ever known. Lisbon is friendly too, but in a more reserved way, and the more tourists there are in a neighbourhood, the less locals seem to want to chat with strangers — which is understandable.
+
+  So which city would I choose? If my priority were my career, I would go back to Lisbon without thinking twice: the infrastructure is simply better, and it is easier to meet people who do the same job as you. But if I wanted to save money, slow down and feel like a guest rather than a customer, Tbilisi would be my first choice. The longer I think about it, the less I believe in a "best" city. There is only the best city for a particular year of your life.
+items:
+  - q: "Why did the writer decide to stay at least six months in each city?"
+    options:
+      - "To be able to compare the cities fairly."
+      - "Because of the visa rules in both countries."
+      - "Because the writer's employer required it."
+      - "To save money on travel."
+    answer: 0
+    explain: "*I would spend at least six months in every city… so that I could judge it fairly.* — чтобы судить объективно."
+  - q: "What does the writer say about the cost of living in Lisbon?"
+    options:
+      - "It is still one of the lowest in Western Europe."
+      - "It has risen so much that it causes problems for local people."
+      - "It is about half as high as in Tbilisi."
+      - "Salaries there have risen faster than rents."
+    answer: 1
+    explain: "*those days are gone… Rents have risen faster than salaries, and many locals now find it harder and harder to live in the centre.* Вариант с *half as high* перевёрнут: это Тбилиси вдвое дешевле, а последний вариант меняет местами *rents* и *salaries*."
+  - q: "Which of these is NOT mentioned as an advantage of Lisbon for remote work?"
+    options:
+      - "A faster internet connection."
+      - "A bigger community of remote workers."
+      - "A convenient time zone."
+      - "Cheaper co-working spaces."
+    answer: 3
+    explain: "Про коворкинги сказано только, что их *more than I could count* — много, но не что они дешевле. Остальные три преимущества в абзаце есть."
+  - q: "What does the writer say about the weather in the two cities?"
+    options:
+      - "Tbilisi has milder winters than Lisbon."
+      - "Lisbon has hotter summers than Tbilisi."
+      - "The autumn in Tbilisi was especially beautiful."
+      - "Lisbon's weather is better in every way."
+    answer: 2
+    explain: "*the autumn there was the most beautiful I have ever seen*. Мягче зимы в Лиссабоне, а жарче лето — в Тбилиси. *a closer contest* значит, что однозначного победителя нет."
+  - q: "What does the writer suggest about people in Lisbon?"
+    options:
+      - "They are unfriendly to foreigners."
+      - "They are more generous hosts than Georgians."
+      - "They are less keen to talk to strangers in areas with a lot of tourists."
+      - "They never invite foreigners to their homes."
+    answer: 2
+    explain: "*the more tourists there are in a neighbourhood, the less locals seem to want to chat with strangers*. Автор прямо говорит, что Лиссабон *friendly too*, так что «недружелюбные» — преувеличение."
+  - q: "What is the writer's main conclusion?"
+    options:
+      - "Lisbon is the better city for most remote workers."
+      - "Tbilisi is the better city because it is cheaper."
+      - "The best city depends on your priorities at a particular time."
+      - "Remote workers should not move between cities so often."
+    answer: 2
+    explain: "*There is only the best city for a particular year of your life.* Условные предложения (*If my priority were…*) показывают: автор не выбирает один город навсегда."
+  - q: "Paragraph 2: найди наречие, которое значит «примерно»."
+    answers: ["roughly"]
+    explain: "**roughly** = approximately, about: *It cost roughly half as much.*"
+  - q: "Paragraph 4: «здесь соперничество более равное» — The weather is a closer ___."
+    answers: ["contest"]
+    explain: "**a close contest** — состязание, где силы почти равны. Здесь в сравнительной степени: *a closer contest*."
+  - q: "Paragraph 6: «не раздумывая» — I would go back to Lisbon without thinking ___."
+    answers: ["twice"]
+    explain: "**without thinking twice** — не раздумывая, сразу."

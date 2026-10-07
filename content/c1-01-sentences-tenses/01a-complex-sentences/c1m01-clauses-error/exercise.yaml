@@ -1,0 +1,44 @@
+title: "Архитектура предложения: найди ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: лишний союз, comma splice, нарушенный параллелизм, пропущенное подлежащее или неверный эллипсис. Исправь её и отправь предложение целиком."
+hints:
+  - "however, therefore, moreover — наречия: перед ними точка с запятой или точка, а не запятая."
+  - "although / because / as уже связывают части — второй союз (but, so) не нужен."
+  - "После парного союза обе части должны быть одного типа."
+items:
+  - q: "Although the proposal was well received, but it was never implemented."
+    answers: ["Although the proposal was well received, it was never implemented.", "The proposal was well received, but it was never implemented."]
+    explain: "Русское «хотя…, но» по-английски даёт лишний союз. Оставь один: **Although…, it was** или **…received, but it was**."
+  - q: "The results were encouraging, however the sample was too small to draw firm conclusions."
+    answers: ["The results were encouraging; however, the sample was too small to draw firm conclusions.", "The results were encouraging. However, the sample was too small to draw firm conclusions.", "The results were encouraging, but the sample was too small to draw firm conclusions.", "The results were encouraging, yet the sample was too small to draw firm conclusions."]
+    explain: "*however* — наречие, а не союз, поэтому запятая не может соединить им два предложения (comma splice). Нужно **; however,** или союз **but / yet**."
+  - q: "The new role involves managing a small team, liaising with clients and to prepare monthly forecasts."
+    answers: ["The new role involves managing a small team, liaising with clients and preparing monthly forecasts."]
+    explain: "Перечисление после *involves* должно быть параллельным: три -ing формы — **managing, liaising, preparing**."
+  - q: "She not only speaks Mandarin but also Cantonese."
+    answers: ["She speaks not only Mandarin but also Cantonese.", "She not only speaks Mandarin but also speaks Cantonese.", "She not only speaks Mandarin but also understands Cantonese."]
+    explain: "После *not only* стоит глагол, после *but also* — существительное. Сдвинь *not only* к дополнению: **speaks not only Mandarin but also Cantonese**."
+  - q: "As the venue was fully booked, so the conference was moved online."
+    answers: ["As the venue was fully booked, the conference was moved online.", "The venue was fully booked, so the conference was moved online."]
+    explain: "«Так как…, то» — один союз на одну связь: либо **As…, the conference**, либо **…booked, so the conference**."
+  - q: "Despite the train was delayed by an hour, we arrived in time for the keynote."
+    answers: ["Despite the fact that the train was delayed by an hour, we arrived in time for the keynote.", "Although the train was delayed by an hour, we arrived in time for the keynote.", "Though the train was delayed by an hour, we arrived in time for the keynote.", "Even though the train was delayed by an hour, we arrived in time for the keynote.", "Despite the train being delayed by an hour, we arrived in time for the keynote.", "In spite of the train being delayed by an hour, we arrived in time for the keynote."]
+    explain: "*despite* — предлог: после него существительное или -ing, а не целое предложение. Либо **Although the train was delayed**, либо **Despite the train being delayed** / **Despite the fact that…**"
+  - q: "The committee rejected the plan because was too expensive."
+    answers: ["The committee rejected the plan because it was too expensive."]
+    explain: "В придаточном подлежащее обязательно, даже если оно очевидно: **because it was** too expensive."
+  - q: "While waiting for the verdict, the courtroom fell completely silent."
+    answers: ["While we were waiting for the verdict, the courtroom fell completely silent.", "While they were waiting for the verdict, the courtroom fell completely silent.", "While everyone was waiting for the verdict, the courtroom fell completely silent.", "While people were waiting for the verdict, the courtroom fell completely silent.", "While the jury was waiting for the verdict, the courtroom fell completely silent."]
+    explain: "Висячее причастие: сокращённое придаточное относится к подлежащему главного, а зал суда ничего не ждал. Нужно своё подлежащее: **While we were waiting…**"
+  - q: "He never has and never will admit that he was wrong."
+    answers: ["He never has admitted and never will admit that he was wrong.", "He has never admitted that he was wrong and never will.", "He has never admitted that he was wrong, and he never will."]
+    explain: "После *has* нужно *admitted*, после *will* — *admit*: разные формы нельзя «склеить» эллипсисом. **He has never admitted… and never will.**"
+  - q: "It was so convincing argument that nobody dared to object."
+    answers: ["It was such a convincing argument that nobody dared to object.", "The argument was so convincing that nobody dared to object."]
+    explain: "Перед существительным — **such a** + прилагательное + сущ.; *so* — только перед прилагательным без существительного: *The argument was so convincing…*"
+  - q: "Neither the director nor the producers was available for comment."
+    answers: ["Neither the director nor the producers were available for comment."]
+    explain: "С *neither… nor* глагол согласуется с **ближайшей** частью: *the producers* → **were**."
+  - q: "Thanks for the invitation to speak at the summit — I'd love, but I'm already committed elsewhere that week."
+    answers: ["Thanks for the invitation to speak at the summit — I'd love to, but I'm already committed elsewhere that week."]
+    explain: "*love* здесь требует инфинитива; при эллипсисе глагол опускают, но частица остаётся: **I'd love to** (= I'd love to speak)."

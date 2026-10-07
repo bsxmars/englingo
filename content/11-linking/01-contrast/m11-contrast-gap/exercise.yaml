@@ -1,0 +1,43 @@
+title: "Связки противопоставления: впиши одно слово"
+type: gap
+intro: "Впиши **одно** слово, например *although, though, despite, spite, however, whereas, while, even, fact, as, nevertheless, still*. Смотри, что стоит после пропуска: предложение, существительное, *-ing* или точка."
+hints:
+  - "despite / in spite of + существительное / -ing / the fact that; although + предложение."
+  - "however — новое предложение или середина с запятыми; though — может стоять в конце."
+items:
+  - q: "___ having two degrees, he struggled to find a job."
+    answers: ["Despite"]
+    explain: "После пропуска *-ing* (*having*) → предлог **Despite**. *Although* требует подлежащее и глагол."
+  - q: "The plan sounded great on paper. In practice, ___, it was a disaster."
+    answers: ["however", "though"]
+    explain: "Вставка в середине предложения между запятыми → **however** (разговорно — *though*)."
+  - q: "In ___ of the fact that the shop was closing, the staff were very helpful."
+    answers: ["spite"]
+    explain: "**In spite of the fact that** + предложение. *in spite* без *of* не бывает."
+  - q: "She's quite reserved, ___ her twin sister is the life of the party."
+    answers: ["whereas", "while", "whilst"]
+    explain: "Сравниваем двух людей → **whereas / while**: «а вот она…»."
+  - q: "The flat is tiny. I love it, ___."
+    answers: ["though"]
+    explain: "В конце предложения после запятой — только **though** («всё-таки»). *although* в конце не ставится."
+  - q: "___ though the tickets were expensive, every seat was taken."
+    answers: ["Even"]
+    explain: "**Even though** — усиленное *although*: «хотя и, несмотря на то что»."
+  - q: "Despite the ___ that he apologised, she was still upset."
+    answers: ["fact"]
+    explain: "После *despite* целое предложение не ставится, нужен мост **the fact that**."
+  - q: "The evidence was weak. ___, the court found him guilty."
+    answers: ["Nevertheless", "However", "Still", "Nonetheless"]
+    explain: "Новое предложение, противоречащее ожиданию → **Nevertheless / However / Still** с запятой."
+  - q: "___ I see your point, I can't agree with your conclusion."
+    answers: ["While", "Although", "Though", "Whilst"]
+    explain: "«Хотя я понимаю…» — уступка в начале → **While / Although**. *While* в этом значении типично для эссе."
+  - q: "Much ___ I'd like to help, I simply don't have the time."
+    answers: ["as"]
+    explain: "**Much as** + предложение = «как бы ни, хотя очень» — книжная уступительная связка."
+  - q: "___ her fear of flying, she agreed to go to the conference in Tokyo."
+    answers: ["Despite"]
+    explain: "После пропуска существительное (*her fear*) → **Despite**. *In spite* потребовало бы *of*."
+  - q: "My job is stressful. ___, it's well paid and I like my colleagues."
+    answers: ["However", "Still", "Nevertheless", "Nonetheless"]
+    explain: "Новое предложение с противопоставлением → **However / Still / Nevertheless**. *But* в начале после точки — разговорно и не для эссе."

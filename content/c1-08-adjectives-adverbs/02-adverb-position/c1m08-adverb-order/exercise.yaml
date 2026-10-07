@@ -1,0 +1,38 @@
+title: "Собери предложение: где стоит наречие"
+type: order
+intro: "Собери предложение из слов по смыслу русской фразы. Следи за mid position, порядком с отрицанием и фокусными наречиями."
+hints:
+  - "Mid position: после be или первого вспомогательного, перед смысловым глаголом."
+  - "probably и still стоят перед отрицательным вспомогательным: He probably won't…"
+  - "No longer в начале требует инверсии: No longer do…"
+items:
+  - q: "«Она всегда неохотно брала на себя ответственность»."
+    answers: ["She has always been reluctant to take responsibility"]
+    explain: "*always* — после первого вспомогательного *has*, перед *been*."
+  - q: "«Мы до сих пор ждём ответа из банка»."
+    answers: ["We are still waiting for a reply from the bank"]
+    explain: "*still* — в mid position, после *are*."
+  - q: "«Он, вероятно, не придёт на собрание»."
+    answers: ["He probably won't come to the meeting", "Probably he won't come to the meeting"]
+    explain: "*probably* ставится **перед** отрицательным вспомогательным: *probably won't*. ~~won't probably~~ — ошибка."
+  - q: "«Потребители больше не мирятся с медленной доставкой» (книжный стиль, с инверсией)."
+    answers: ["No longer do consumers tolerate slow delivery"]
+    explain: "*No longer* в начале предложения → инверсия с *do*: *No longer **do consumers** tolerate…*"
+  - q: "«Министерство публикует этот отчёт ежегодно» (пассив)."
+    answers: ["The report is published annually by the ministry", "The report is published by the ministry annually"]
+    explain: "Точная частотность (*annually*) — в конце клаузы, а не в середине."
+  - q: "«Пароль знал только Марк» (никто, кроме него)."
+    answers: ["Only Mark knew the password"]
+    explain: "*Only* прямо перед *Mark*: «никто, кроме Марка». *Mark only knew the password* значило бы другое."
+  - q: "«Он даже не попрощался»."
+    answers: ["He didn't even say goodbye"]
+    explain: "*even* — в mid position, после отрицательного вспомогательного: *didn't even say*."
+  - q: "«Она удивительно хорошо говорит по-японски»."
+    answers: ["She speaks Japanese remarkably well"]
+    explain: "Образ действия — после дополнения: *speaks Japanese well*. Нельзя ставить наречие между глаголом и дополнением."
+  - q: "«Мы приехали в отель вчера поздно вечером»."
+    answers: ["We arrived at the hotel late last night", "Late last night we arrived at the hotel"]
+    explain: "Место (*at the hotel*) идёт перед временем (*late last night*). Время можно вынести и в начало."
+  - q: "«Технически план осуществим, но политически нереалистичен»."
+    answers: ["The plan is technically possible but politically unrealistic"]
+    explain: "Viewpoint adverbs стоят прямо перед прилагательным, которое ограничивают: *technically possible*, *politically unrealistic*."

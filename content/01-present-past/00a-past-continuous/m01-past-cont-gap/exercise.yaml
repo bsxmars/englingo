@@ -1,0 +1,43 @@
+title: "Раскрой скобки: истории"
+type: gap
+intro: "Поставь глагол в скобках в **Past Simple** или **Past Continuous**. Предложения — кусочки историй, читай их целиком."
+hints:
+  - "Было в процессе, когда что-то случилось → was / were + -ing."
+  - "Случилось и закончилось, шло по порядку → Past Simple."
+items:
+  - q: "It was a quiet Friday evening, and I ___ (finish) a report in the empty office."
+    answers: ["was finishing"]
+    explain: "Начало истории — декорации: что происходило в тот вечер → **was finishing**."
+  - q: "Suddenly my phone buzzed: the website ___ (not / respond)."
+    answers: ["wasn't responding", "was not responding", "didn't respond", "did not respond"]
+    explain: "Сайт «не отвечал» в тот момент — состояние-процесс → **wasn't responding**."
+  - q: "I ___ (log) in to the server and checked the error logs."
+    answers: ["logged"]
+    explain: "Цепочка действий: зашёл, проверил → **logged**."
+  - q: "While I ___ (search) for the cause, my manager kept sending me messages."
+    answers: ["was searching"]
+    explain: "**While** + длинный процесс → **was searching**."
+  - q: "At about ten o'clock I finally ___ (find) the problem: a full disk."
+    answers: ["found"]
+    explain: "Короткое завершённое событие («нашёл») → **found**."
+  - q: "My friends ___ (play) board games all evening, so nobody noticed when I left."
+    answers: ["were playing", "played"]
+    explain: "*all evening* допускает оба времени, но фон «никто не заметил» лучше передаёт **were playing**; *played* тоже грамматично."
+  - q: "When I looked out of the window, it ___ (snow) heavily."
+    answers: ["was snowing"]
+    explain: "Снег уже шёл, когда я выглянул → фон → **was snowing**."
+  - q: "When the police arrived, the thieves ___ (try) to open the safe, so they were caught red-handed."
+    answers: ["were trying"]
+    explain: "Воры были заняты сейфом в момент приезда полиции — процесс → **were trying**. С *tried* они начали бы взламывать уже при полиции."
+  - q: "When I saw the spider, I ___ (scream) and dropped my cup."
+    answers: ["screamed"]
+    explain: "Реакция сразу после события → цепочка → **screamed**."
+  - q: "We ___ (meet) the clients at nine the next morning, so I went to bed early."
+    answers: ["were meeting", "were going to meet"]
+    explain: "Договорённость, которая была в планах в тот момент → **were meeting**."
+  - q: "— Why ___ (you / laugh) when I walked into the room? — Oh, Tim was telling a joke."
+    answers: ["were you laughing"]
+    explain: "Смех уже шёл, когда ты вошёл → вопрос в **Past Continuous**: *were you laughing*."
+  - q: "Ivan ___ (not / hear) the doorbell because he was wearing headphones."
+    answers: ["didn't hear", "did not hear"]
+    explain: "*hear* — восприятие, обычно не в Continuous; факт «не услышал» → **didn't hear**. Фон дан во второй части: *was wearing*."

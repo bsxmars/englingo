@@ -1,0 +1,37 @@
+title: "Собери фразу с устойчивой конструкцией"
+type: order
+intro: "Собери предложение из слов. Обрати внимание, где артикль есть, а где его нет."
+hints:
+  - "Функция учреждения и способ передвижения — без артикля: in hospital, by train."
+  - "Парные формулы: side by side, day after day."
+items:
+  - q: "«Мой дед три недели пролежал в больнице после падения»."
+    answers: ["My grandfather spent three weeks in hospital after his fall", "After his fall my grandfather spent three weeks in hospital"]
+    explain: "Британское **in hospital** — он там как пациент. *his fall* — притяжательное заменяет артикль."
+  - q: "«Двое учёных годами работали бок о бок»."
+    answers: ["The two scientists worked side by side for years", "For years the two scientists worked side by side"]
+    explain: "**side by side** — парная формула без артиклей; *the two scientists* — уже известные из контекста."
+  - q: "«Она каждое утро ездит на работу на поезде»."
+    answers: ["She goes to work by train every morning", "Every morning she goes to work by train"]
+    explain: "*go to* **work** и **by train** — функция и способ передвижения, без артиклей."
+  - q: "«Река Темза протекает через центр Лондона»."
+    answers: ["The Thames flows through the centre of London", "The Thames flows through the center of London"]
+    explain: "Реки — с *the*: **the Thames**. *the centre of London* — часть через *of*, тоже с *the*."
+  - q: "«Это решение было принято по ошибке, а не намеренно»."
+    answers: ["The decision was made by mistake, not on purpose", "The decision was made by mistake and not on purpose"]
+    explain: "**by mistake** и **on purpose** — устойчивые сочетания предлог + существительное без артикля."
+  - q: "«Большинство туристов посещает Тауэр в первый же день»."
+    answers: ["Most tourists visit the Tower of London on their first day", "Most tourists visit the Tower of London on the first day"]
+    explain: "**Most tourists** — без *the*; название с *of* — **the Tower of London**."
+  - q: "Заголовок: «Шторм оставил тысячи домов без света»."
+    answers: ["Storm leaves thousands of homes without power"]
+    explain: "В заголовке артикль опускается и используется Present Simple: **Storm leaves…** В тексте статьи будет *A storm has left…*"
+  - q: "«Её выбрали председателем совета в прошлом году»."
+    answers: ["She was elected chair of the board last year", "Last year she was elected chair of the board", "She was elected chairman of the board last year"]
+    explain: "Должность после *elect* — без артикля: **elected chair**; *last year* — отсчёт от «сейчас», без *the*."
+  - q: "«День за днём они ждали новостей с моря»."
+    answers: ["Day after day they waited for news from the sea", "They waited for news from the sea day after day"]
+    explain: "**day after day** — повтор без артиклей; *news* неисчисляемое, без *a*; *the sea* — конкретное море, где кто-то находится."
+  - q: "«Мы поужинали с ними в отеле «Ритц»»."
+    answers: ["We had dinner with them at the Ritz", "We had dinner at the Ritz with them"]
+    explain: "*have* **dinner** — приём пищи без артикля; гостиница — **the Ritz**."

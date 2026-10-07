@@ -1,0 +1,44 @@
+title: "С to или без"
+type: gap
+intro: "Впиши форму глагола в скобках: голый инфинитив, инфинитив с *to* или *-ing*. Иногда в пропуск нужно вписать только **to** или **to be** — тогда в скобках указано (—)."
+hints:
+  - "Актив make / let / have / see + объект → без to; пассив → с to."
+  - "Why not, rather than, do nothing but, had better → голый инфинитив."
+  - "Если глагол опущен, оставь to; глагол be не опускается."
+items:
+  - q: "The auditors had the finance team ___ (resubmit) every invoice from March."
+    answers: ["resubmit"]
+    explain: "**have sb do** — «поручить кому-то сделать», голый инфинитив. С *get* было бы *get them to resubmit*."
+  - q: "After the scandal, the editor was made ___ (publish) a full apology."
+    answers: ["to publish"]
+    explain: "В пассиве *make* возвращает *to*: **was made to publish**. В активе — *made the editor publish*."
+  - q: "If the queue is that long, why not ___ (book) online instead?"
+    answers: ["book"]
+    explain: "**Why not** + голый инфинитив — вежливый совет. ~~why not to book~~ — ошибка."
+  - q: "Rather than ___ (wait) for the next bus, we decided to walk."
+    answers: ["wait", "waiting"]
+    explain: "**Rather than** в начале предложения — голый инфинитив (вариант *rather than waiting* тоже верен), но не ~~rather than to wait~~."
+  - q: "For the whole flight, the man next to me did nothing but ___ (complain) about the food."
+    answers: ["complain"]
+    explain: "**do nothing but** + голый инфинитив: «только и делал, что жаловался»."
+  - q: "I meant to reply to her email, but I completely forgot ___ (—)."
+    answers: ["to"]
+    explain: "Чтобы не повторять *reply to her email*, оставляем одно **to**: *I forgot to*."
+  - q: "He isn't the team leader any more, but he used ___ (—)."
+    answers: ["to be"]
+    explain: "Глагол **be** при сокращении не опускается: *he used **to be***, а не ~~he used to~~."
+  - q: "The witness was heard ___ (say) that she had seen nothing unusual."
+    answers: ["to say"]
+    explain: "Пассив глагола восприятия → с *to*: **was heard to say**. Это книжная модель, типичная для новостей."
+  - q: "The new software helps ___ (cut) the time spent on routine reports."
+    answers: ["cut", "to cut"]
+    explain: "После **help** инфинитив с *to* и без *to* равноценны; без *to* чуть разговорнее."
+  - q: "We left an hour early so as not ___ (miss) the start of the ceremony."
+    answers: ["to miss"]
+    explain: "**so as not to** + инфинитив — отрицательная цель. *not* стоит перед *to*."
+  - q: "She hurried back to the office, only ___ (discover) that the meeting had been cancelled."
+    answers: ["to discover"]
+    explain: "**only to do** — неожиданный (обычно неприятный) результат, а не цель."
+  - q: "Visitors used to be allowed ___ (feed) the animals, but the zoo has stopped it."
+    answers: ["to feed"]
+    explain: "*let* не бывает в пассиве; его заменяет **be allowed to do** — с *to*."

@@ -1,0 +1,59 @@
+title: "Перефразирование: предлог + which, what, the way (C1 Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы смысл совпал с первым. Используй **ключевое слово** без изменений и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "the extent to which, the rate at which, the ease with which, the means by which."
+  - "what = the thing(s) that; all (that) — никогда all what."
+  - "Частица фразового глагола остаётся после глагола."
+items:
+  - q: "It is unclear how far the figures were manipulated."
+    key: "EXTENT"
+    stem: "It is unclear ___ the figures were manipulated."
+    answers: ["to what extent", "the extent to which"]
+    explain: "«в какой степени» → **the extent to which** (или *to what extent*). Предлог *to* обязателен: *to an extent*."
+  - q: "Glaciers are retreating so fast that scientists are alarmed."
+    key: "RATE"
+    stem: "Scientists are alarmed by ___ glaciers are retreating."
+    answers: ["the rate at which"]
+    explain: "*at a rate* → **the rate at which**. Предлог берётся из сочетания существительного."
+  - q: "She solved the problem very easily, which impressed the examiners."
+    key: "EASE"
+    stem: "The examiners were impressed by ___ she solved the problem."
+    answers: ["the ease with which"]
+    explain: "*with ease* → **the ease with which** = «лёгкость, с которой»."
+  - q: "The only thing we need now is a little more time."
+    key: "ALL"
+    stem: "___ a little more time."
+    answers: ["All we need now is", "All that we need now is", "All we now need is", "All that we now need is"]
+    explain: "«Всё, что» → **All (that)**. ~~All what~~ — калька с русского."
+  - q: "The thing that annoys me most is his complete lack of tact."
+    key: "WHAT"
+    stem: "___ his complete lack of tact."
+    answers: ["What annoys me most is", "What annoys me the most is", "What I find most annoying is"]
+    explain: "*the thing that* = **what**: *What annoys me most is…* — придаточное само подлежащее, без *it*."
+  - q: "I really admire the way she handles difficult clients."
+    key: "WHICH"
+    stem: "I really admire the way ___ difficult clients."
+    answers: ["in which she handles", "in which she deals with"]
+    explain: "Формально: **the way in which**. Никогда не ~~the way how~~."
+  - q: "This is a level of noise that I simply cannot tolerate."
+    key: "PUT"
+    stem: "This is a level of noise ___ with."
+    answers: ["I simply cannot put up", "that I simply cannot put up", "which I simply cannot put up", "I simply can't put up", "that I simply can't put up", "which I simply can't put up"]
+    explain: "*put up with* — фразовый глагол: частицы остаются после глагола, и предлог нельзя вынести вперёд (~~with which I cannot put up~~)."
+  - q: "Fifty years passed, and during that time the town's population tripled."
+    key: "DURING"
+    stem: "Fifty years passed, ___ population tripled."
+    answers: ["during which the town's", "during which time the town's"]
+    explain: "*during* в придаточном стоит **только впереди**: **during which**. ~~which … during~~ невозможно."
+  - q: "Nobody knows why the project was abandoned."
+    key: "REASON"
+    stem: "Nobody knows ___ the project was abandoned."
+    answers: ["the reason why", "the reason that", "the reason for which", "the reason"]
+    explain: "**the reason (why / that)**: *why* после *reason* можно заменить на *that* или опустить. Формально — *the reason for which*."
+  - q: "Under these conditions, the experiment cannot be repeated."
+    key: "WHICH"
+    stem: "These are not conditions ___ be repeated."
+    answers: ["under which the experiment can", "under which the experiment could"]
+    explain: "*under conditions* → **conditions under which**. Предлог идёт впереди вместе с *which*."

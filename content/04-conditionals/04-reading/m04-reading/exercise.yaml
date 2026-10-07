@@ -1,0 +1,80 @@
+title: "What if? Why our minds rewrite the past"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. В вопросах 1–6 выбери вариант, в 7–9 впиши слово или выражение из текста."
+hints:
+  - "Найди абзац, о котором спрашивают, и прочитай его целиком."
+  - "Правильный вариант пересказывает текст другими словами, а не повторяет их."
+text: |
+  ## What if? Why our minds can't stop rewriting the past
+
+  If you have ever lain awake thinking *"If only I had said something different"*, you are not alone. Psychologists call this habit **counterfactual thinking**: imagining how things would have turned out if one small detail had been different. We all do it, often several times a day, and most of the time we don't even notice.
+
+  Some of the best-known research on the subject comes from an unexpected place: the Olympic podium. When researchers studied athletes' faces at medal ceremonies, they noticed something strange. Bronze medallists often looked happier than silver medallists, even though they had finished lower. The explanation lies in the comparisons each group makes. A silver medallist thinks, "If I had been just a little faster, I would have won gold." A bronze medallist thinks, "If I had made one more mistake, I wouldn't be standing here at all."
+
+  In other words, what matters is not the "what if" itself but its direction. "Upward" counterfactuals, which imagine a better outcome, tend to make us feel worse, but they can also be useful. If a student thinks, "I would have passed if I had started revising earlier," she is more likely to change her habits next time. "Downward" counterfactuals, which imagine something worse, make us feel lucky: "If I hadn't checked the tickets, we would have missed the flight."
+
+  Regret seems to follow a similar pattern over time. In the short term, people tend to regret the things they did: the angry email, the expensive purchase, the risky decision that went wrong. But when people look back over many years, the picture changes. Ask older people about their biggest regrets, and you will rarely hear about mistakes. Instead, you hear about chances they never took: "I wish I had travelled more", "If only I had told her how I felt", "I wish I hadn't been so afraid of failing".
+
+  Why should this be? One explanation is that we can usually understand our actions, even the bad ones, and learn from them, so the pain fades. Inaction is harder to make peace with, because the alternative stays open in our imagination forever. We never find out what would have happened if we had said yes, so the story we tell ourselves tends to be a happy one.
+
+  So what should we do with this knowledge? Psychologists do not suggest that we stop asking "what if?" That would be impossible, and it might not even be desirable. Instead, they recommend using the question deliberately. Unless a counterfactual teaches you something useful for the future, it is probably not worth replaying again and again. And if you catch yourself thinking, "I'd be much happier now if I had chosen a different career," it may be time to ask a more practical question: what could I still change?
+
+  Think of regret as a kind of map. If you read it carefully, it will show you where you want to go next.
+items:
+  - q: "What is counterfactual thinking, according to the article?"
+    options:
+      - "Planning what to do if something goes wrong in the future."
+      - "Imagining how events could have developed differently."
+      - "Remembering past events more positively than they were."
+      - "Comparing your achievements with other people's."
+    answer: 1
+    explain: "*imagining how things would have turned out if one small detail had been different* — представлять, как всё сложилось бы иначе."
+  - q: "Why do bronze medallists often look happier than silver medallists?"
+    options:
+      - "They did not expect to win a medal."
+      - "They compare their result with not getting a medal at all."
+      - "They made fewer mistakes during the competition."
+      - "They think they will win gold next time."
+    answer: 1
+    explain: "*If I had made one more mistake, I wouldn't be standing here at all* — бронзовый призёр сравнивает себя с теми, кто остался без медали."
+  - q: "What does the writer say about 'upward' counterfactuals?"
+    options:
+      - "They are always harmful and should be avoided."
+      - "They make people feel lucky."
+      - "They can feel unpleasant but help people improve."
+      - "They are less common than 'downward' ones."
+    answer: 2
+    explain: "*tend to make us feel worse, but they can also be useful* — неприятны, но помогают изменить поведение (пример со студенткой)."
+  - q: "What do older people tend to regret most?"
+    options:
+      - "Angry words and bad decisions."
+      - "Opportunities they did not take."
+      - "Spending too much money."
+      - "Being afraid of travelling."
+    answer: 1
+    explain: "*you hear about chances they never took* — о том, чего не сделали. Ошибки и покупки — краткосрочные сожаления."
+  - q: "Why, according to paragraph 5, is inaction harder to accept than action?"
+    options:
+      - "Because people forget their actions quickly."
+      - "Because we never learn what the other choice would have led to."
+      - "Because other people remind us of what we did not do."
+      - "Because inaction usually has worse results."
+    answer: 1
+    explain: "*We never find out what would have happened if we had said yes* — альтернатива остаётся открытой в воображении."
+  - q: "What do psychologists recommend?"
+    options:
+      - "Stopping all 'what if' thinking."
+      - "Asking 'what if' only when it can help you in the future."
+      - "Changing career if you have regrets."
+      - "Thinking only about downward counterfactuals."
+    answer: 1
+    explain: "*Unless a counterfactual teaches you something useful for the future, it is probably not worth replaying* — использовать «что если» осознанно и с пользой."
+  - q: "Find a phrasal verb in paragraph 1 that means 'developed or ended in a particular way'."
+    answers: ["turned out", "turn out"]
+    explain: "**turn out** — оказаться, сложиться: *Things would have turned out differently.*"
+  - q: "Find the expression in paragraph 5 that means 'to accept something sad and stop being upset about it': make ___ with"
+    answers: ["peace"]
+    explain: "**make peace with something** — смириться с чем-то, принять."
+  - q: "Find a word in paragraph 6 that means 'on purpose, intentionally'."
+    answers: ["deliberately"]
+    explain: "**deliberately** — намеренно, осознанно. Прилагательное — *deliberate*."

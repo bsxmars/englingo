@@ -1,0 +1,55 @@
+title: "Собери предложение со связкой"
+type: order
+intro: "Собери английское предложение по русскому переводу. Заглавная буква и запятые на карточках подскажут, где начало и где связка выделена запятыми."
+hints:
+  - "Связка в середине: после подлежащего, после be или вспомогательного глагола, перед смысловым глаголом."
+  - "Связка не встаёт между глаголом и дополнением."
+items:
+  - q: "«Предложение, однако, было отклонено советом директоров»."
+    answers:
+      - "The proposal, however, was rejected by the board."
+      - "However, the proposal was rejected by the board."
+      - "The proposal was rejected by the board, however."
+    explain: "*however* в середине, после подлежащего и между запятыми, — типичный письменный приём: связь с предыдущим и акцент на *the proposal*."
+  - q: "«Поэтому мы рекомендуем отложить запуск» (формально, связка в середине)."
+    answers:
+      - "We therefore recommend postponing the launch."
+      - "Therefore, we recommend postponing the launch."
+    explain: "*therefore* встаёт перед смысловым глаголом: *We **therefore** recommend…* После *recommend* — герундий."
+  - q: "«Отсюда и задержка с публикацией результатов»."
+    answers: ["Hence the delay in publishing the results."]
+    explain: "**Hence** + существительное без глагола — «отсюда и…». Это законченное предложение в формальном тексте."
+  - q: "«Тем не менее они решили продолжить эксперимент»."
+    answers:
+      - "They nevertheless decided to continue with the experiment."
+      - "They decided to continue with the experiment nevertheless."
+      - "Nevertheless, they decided to continue with the experiment."
+    explain: "*nevertheless* — перед смысловым глаголом (*nevertheless decided*) или в конце. Между *decided* и *to continue* его не ставят."
+  - q: "«Он не извинился, а вместо этого обвинил коллег»."
+    answers:
+      - "He didn't apologise but blamed his colleagues instead."
+      - "He didn't apologise but instead blamed his colleagues."
+    explain: "*instead* без дополнения — обычно в конце, но возможно и перед глаголом: *but instead blamed*."
+  - q: "«Отзывы были вовсе не отрицательными; напротив, критики были в восторге»."
+    answers: ["The reviews were far from negative; on the contrary, critics were delighted."]
+    explain: "**On the contrary** опровергает первую часть (*far from negative* — по сути отрицание): «вовсе нет, наоборот»."
+  - q: "«В отличие от конкурентов, компания не сокращала персонал»."
+    answers:
+      - "In contrast to its competitors, the company did not cut staff."
+      - "The company, in contrast to its competitors, did not cut staff."
+      - "The company did not cut staff, in contrast to its competitors."
+    explain: "*In contrast to* — предлог + существительное (*its competitors*), поэтому фраза стоит перед главным предложением с запятой."
+  - q: "«Впоследствии он стал одним из ведущих архитекторов страны»."
+    answers:
+      - "He subsequently became one of the country's leading architects."
+      - "Subsequently, he became one of the country's leading architects."
+    explain: "*subsequently* — в середине, перед смысловым глаголом *became*."
+  - q: "«Компания перешла в облако, тем самым сократив расходы вдвое»."
+    answers: ["The company moved to the cloud, thereby halving its costs."]
+    explain: "**thereby + -ing** после запятой — результат того же действия."
+  - q: "«В конце концов, она работает здесь всего неделю» (не будь к ней строг)."
+    answers:
+      - "After all, she has only been in the job a week."
+      - "After all, she has been in the job only a week."
+      - "She has only been in the job a week, after all."
+    explain: "**After all** в начале — напоминание-оправдание: «не забывай, ведь…». *only* стоит перед *been*."

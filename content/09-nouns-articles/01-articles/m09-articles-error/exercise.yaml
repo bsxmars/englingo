@@ -1,0 +1,40 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка с артиклем: лишний, пропущенный или не тот. Исправь предложение целиком."
+hints:
+  - "Исчисляемое в единственном числе не бывает «голым»."
+  - "Общая мысль (life, money, music вообще) — без артикля."
+items:
+  - q: "My brother is engineer at a big company."
+    answers: ["My brother is an engineer at a big company."]
+    explain: "Профессия в единственном числе требует неопределённого артикля: **an engineer**."
+  - q: "The money doesn't make people happy."
+    answers: ["Money doesn't make people happy."]
+    explain: "Речь о деньгах вообще, а не о конкретной сумме → без артикля."
+  - q: "I saw a great film yesterday. A film was about a robot."
+    answers: ["I saw a great film yesterday. The film was about a robot.", "I saw a great film yesterday. It was about a robot."]
+    explain: "Второе упоминание — фильм уже знаком слушателю → **The film**."
+  - q: "She lives in the Spain, near the coast."
+    answers: ["She lives in Spain, near the coast."]
+    explain: "Большинство стран — без артикля. **the** нужен только для *the UK, the USA, the Netherlands* и т. п."
+  - q: "Can you close a window, please? It's cold."
+    answers: ["Can you close the window, please? It's cold.", "Can you close the window, please? It is cold."]
+    explain: "Из ситуации понятно, какое окно (то, что открыто) → **the window**."
+  - q: "I usually go to the bed at midnight."
+    answers: ["I usually go to bed at midnight."]
+    explain: "*go to bed* — ложиться спать, устойчивое выражение без артикля."
+  - q: "Mount Everest is highest mountain in the world."
+    answers: ["Mount Everest is the highest mountain in the world."]
+    explain: "Превосходная степень → **the highest**."
+  - q: "We had a lunch in a small restaurant by the river."
+    answers: ["We had lunch in a small restaurant by the river."]
+    explain: "Приём пищи без прилагательного — без артикля: **have lunch**. С прилагательным можно: *a quick lunch*."
+  - q: "Thames flows through London."
+    answers: ["The Thames flows through London."]
+    explain: "Реки всегда с **the**: *the Thames, the Volga, the Danube*."
+  - q: "It was a honour to meet you."
+    answers: ["It was an honour to meet you.", "It was an honor to meet you."]
+    explain: "В *honour* буква h не читается, слово начинается с гласного звука → **an honour**."
+  - q: "I'm a vegetarian, so I don't eat the meat."
+    answers: ["I'm a vegetarian, so I don't eat meat.", "I am a vegetarian, so I don't eat meat."]
+    explain: "Мясо вообще, как вид еды → без артикля. *the meat* значило бы конкретное мясо (например, на этом столе)."

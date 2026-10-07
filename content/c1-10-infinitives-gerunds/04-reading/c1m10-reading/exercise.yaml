@@ -1,0 +1,83 @@
+title: "In praise of boredom"
+type: reading
+intro: "Прочитай эссе и ответь на вопросы. Вопросы с вариантами — в стиле C1 Advanced, Part 5; в остальных впиши слово или фразу из текста."
+hints:
+  - "Вопросы идут в порядке текста."
+  - "В Part 5 неверные варианты часто правдивы «вообще», но не отвечают на вопрос о конкретном месте текста."
+text: |
+  ## In praise of boredom
+
+  There was a time, not so long ago, when being bored was simply part of being alive. Waiting for a bus, queuing at the post office, sitting through a long train journey with nothing to read — these empty stretches were so ordinary that nobody thought them worth mentioning. Today they have all but disappeared. The moment we are made to wait, we reach for our phones, and the gap is filled before we have had time to notice it. Most of us would be hard pressed to remember the last time we were genuinely, unbearably bored. The question worth asking is whether we have lost anything by eliminating it.
+
+  Psychologists were long reluctant to take boredom seriously. For much of the twentieth century it was considered too vague to measure and too trivial to study — a mood to be endured rather than a phenomenon to be understood. That attitude has begun to change. Researchers now tend to describe boredom not as an absence of feeling but as a signal: an uncomfortable message that our attention has nowhere useful to go and that it is time to look for something else to do. Seen this way, boredom is less like an empty room than like a smoke alarm. It is not pleasant to hear, but it would be foolish to disconnect it.
+
+  Some of the most frequently cited evidence comes from experiments in which volunteers were asked to perform a deliberately tedious task — copying numbers out of a telephone directory, in one well-known version — before being set a creative challenge. Those who had been bored first tended to come up with more original ideas than those who had gone straight to the creative task. The explanation offered was that, having been starved of stimulation, the mind had begun to wander, and that wandering is precisely the state in which unexpected connections are made. Not everyone is convinced: the samples were small, and later attempts to replicate the effect have produced mixed results. Still, the findings are consistent with what many writers and scientists say about their own working habits. Remarkably few of them claim to have had their best ideas at their desks.
+
+  If boredom is so useful, why are we so determined to avoid it? Part of the answer lies in the way our devices are designed. Every app on a smartphone is competing for the same scarce resource, our attention, and the companies behind them have every reason to make sure we never experience a dull moment. But the problem is also cultural. In many workplaces, appearing busy has come to be seen as a virtue in itself, and admitting to having nothing to do feels almost shameful. Children, meanwhile, grow up with their free time carefully organised for them, moving from one supervised activity to the next. It is hardly surprising that many of them find it difficult to entertain themselves once the timetable runs out.
+
+  None of this means that we should romanticise tedium. There is a difference between the restless, open-ended boredom of a rainy afternoon and the grinding, chronic boredom of a job that offers no prospect of change. The second kind has been linked to poor health, risky behaviour and depression, and nobody would seriously recommend seeking it out. The argument here is a narrower one: that short periods of unstructured time are worth protecting, because they give the mind the chance to do something it cannot do while it is being constantly fed.
+
+  What would protecting them look like in practice? Nothing dramatic, perhaps. It might mean leaving the phone in a pocket during a short journey, or resisting the urge to put a podcast on while washing up. It might mean allowing children to complain that they have nothing to do, rather than rushing to find them something. The first few minutes are likely to be uncomfortable; that, after all, is the point. But people who have tried it often describe a curious sequence: irritation, then restlessness, and then — not always, but often enough — an idea that seems to have arrived from nowhere.
+
+  Almost a century ago, Bertrand Russell warned that a generation unable to endure boredom would be a generation of "little men". His phrasing has aged badly; his point has aged remarkably well. We have built a world in which nobody need ever be bored again. Whether we will have the sense to switch it off now and then is another matter.
+items:
+  - q: "What point does the writer make in the first paragraph?"
+    options:
+      - "People used to complain about boredom far more than they do today."
+      - "Boredom has become so rare that its possible value is seldom considered."
+      - "Mobile phones were designed specifically to eliminate waiting."
+      - "Most people would prefer to be bored than to be constantly distracted."
+    answer: 1
+    explain: "Скука почти исчезла (*all but disappeared*, *hard pressed to remember*), и автор задаёт вопрос, который мало кто задаёт: не потеряли ли мы что-то. Жалоб на скуку в прошлом в тексте нет."
+  - q: "The comparison with a smoke alarm in the second paragraph is used to suggest that boredom is"
+    options:
+      - "a warning that is unpleasant but serves a purpose."
+      - "a danger that should be dealt with immediately."
+      - "an empty feeling that has no real cause."
+      - "a reaction that most people learn to ignore."
+    answer: 0
+    explain: "*It is not pleasant to hear, but it would be foolish to disconnect it* — сигнал неприятный, но полезный. Сравнение с «пустой комнатой» автор как раз отвергает."
+  - q: "What is the writer's attitude to the experiments described in the third paragraph?"
+    options:
+      - "Dismissive, because the results could not be repeated."
+      - "Enthusiastic, because they prove that boredom causes creativity."
+      - "Cautious, acknowledging their weaknesses while finding them plausible."
+      - "Neutral, since the writer avoids drawing any conclusions from them."
+    answer: 2
+    explain: "Автор называет слабые места (*samples were small*, *mixed results*), но добавляет *Still, the findings are consistent with…* — осторожное согласие."
+  - q: "According to the fourth paragraph, our avoidance of boredom is caused by"
+    options:
+      - "children's lack of imagination."
+      - "both commercial interests and social attitudes."
+      - "employers who give their staff too much work."
+      - "the fact that modern life is more stressful."
+    answer: 1
+    explain: "Две причины: устройство приложений (коммерческий интерес) и культура (*the problem is also cultural*: занятость как добродетель, расписание детей)."
+  - q: "What is the main purpose of the fifth paragraph?"
+    options:
+      - "To admit that boredom is usually harmful."
+      - "To compare boredom at home and at work."
+      - "To narrow the scope of the writer's argument."
+      - "To introduce new scientific evidence."
+    answer: 2
+    explain: "*None of this means that we should romanticise tedium… The argument here is a narrower one* — автор уточняет, какую скуку защищает, и отделяет её от хронической."
+  - q: "In the sixth paragraph, what does 'that, after all, is the point' refer to?"
+    options:
+      - "The discomfort is an essential part of the experience."
+      - "Children need to learn to complain less."
+      - "Short journeys are the best time to switch off."
+      - "The aim is to make people feel guilty about their phones."
+    answer: 0
+    explain: "Первые минуты неприятны — и именно в этом смысл: без дискомфорта не наступит «блуждание» мыслей. Отсылка к предыдущей части фразы."
+  - q: "Find a phrase in the first paragraph that means 'would find it very difficult'."
+    answers: ["would be hard pressed", "hard pressed", "be hard pressed"]
+    explain: "*be hard pressed to do sth* — с трудом смочь что-то сделать. Обрати внимание: после фразы идёт инфинитив."
+  - q: "Find a verb in the third paragraph that means 'to repeat an experiment in order to check the results'."
+    answers: ["replicate"]
+    explain: "*attempts to **replicate** the effect* — повторить эксперимент. Существительное — *replication*."
+  - q: "Find a verb in the fifth paragraph that means 'to present something as more attractive than it really is'."
+    answers: ["romanticise", "romanticize"]
+    explain: "*romanticise tedium* — идеализировать скуку. Американское написание — *romanticize*."
+  - q: "Which phrase in the second paragraph shows that boredom was once seen as something to put up with, not to investigate?"
+    answers: ["a mood to be endured rather than a phenomenon to be understood", "a mood to be endured", "to be endured rather than a phenomenon to be understood"]
+    explain: "Два пассивных инфинитива после существительных: *a mood **to be endured*** — «то, что надо перетерпеть», *a phenomenon **to be understood*** — «то, что надо понять»."

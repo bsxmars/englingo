@@ -1,0 +1,31 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка в конструкции с акцентом. Исправь её и перепиши предложение целиком."
+hints:
+  - "После отрицательного слова в начале — порядок как в вопросе."
+  - "После do / does / did — глагол в начальной форме."
+items:
+  - q: "Never I have seen such a beautiful place."
+    answers: ["Never have I seen such a beautiful place.", "I have never seen such a beautiful place."]
+    explain: "После **Never** в начале — инверсия: *Never **have I** seen…* Без инверсии *never* ставится после *have*."
+  - q: "What I need are a good night's sleep."
+    answers: ["What I need is a good night's sleep."]
+    explain: "В cleft-конструкции с *What* глагол **is**: «то, что мне нужно» — одна вещь."
+  - q: "It were the neighbours who called the police."
+    answers: ["It was the neighbours who called the police."]
+    explain: "В конструкции *It + be + … who* глагол всегда согласуется с *it*: **It was**, даже если дальше множественное число."
+  - q: "Not only she sings, but she also plays the guitar."
+    answers: ["Not only does she sing, but she also plays the guitar.", "She not only sings but also plays the guitar.", "She not only sings, but she also plays the guitar."]
+    explain: "*Not only* в начале → инверсия с **does**: *Not only does she sing…* Глагол после *does* — в начальной форме."
+  - q: "Hardly had I closed my eyes than the alarm went off."
+    answers: ["Hardly had I closed my eyes when the alarm went off.", "Hardly had I closed my eyes before the alarm went off.", "No sooner had I closed my eyes than the alarm went off."]
+    explain: "Пары фиксированные: **Hardly … when**, **No sooner … than**. Смешивать их нельзя."
+  - q: "I do liked the film, honestly."
+    answers: ["I did like the film, honestly.", "I liked the film, honestly.", "I do like the film, honestly."]
+    explain: "После усилительного *do / did* глагол — в **начальной форме**: *I did like*. Прошедшее время уже выражено в *did*."
+  - q: "Only after the meeting I realised my mistake."
+    answers: ["Only after the meeting did I realise my mistake.", "Only after the meeting did I realize my mistake."]
+    explain: "*Only after …* в начале → инверсия во второй части: **did I realise**."
+  - q: "Seldom we go to the cinema these days."
+    answers: ["Seldom do we go to the cinema these days.", "We seldom go to the cinema these days."]
+    explain: "*Seldom* («редко») в начале → инверсия с **do**: *Seldom do we go…* Или обычный порядок: *We seldom go…*"

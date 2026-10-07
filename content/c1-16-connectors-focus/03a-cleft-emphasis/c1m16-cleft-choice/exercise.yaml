@@ -1,0 +1,52 @@
+title: "Какой фокус нужен?"
+type: choice
+intro: "Выбери вариант, который лучше всего подходит по смыслу, регистру и грамматике. Часто грамматичны несколько вариантов, но выделяют они разное."
+hints:
+  - "Кто? Когда? Где? → it-cleft; что произошло / что сделали → wh-cleft."
+  - "All = «всего лишь»; The thing is… — разговорное."
+  - "Эмфатическое do — возражение, уступка, контраст."
+items:
+  - q: "The press reported that the contract was signed in May. Correct them politely:"
+    options: ["Actually, it was in March that the contract was signed.", "Actually, what was signed in March was the contract.", "Actually, it was the contract that was signed in March."]
+    answer: 0
+    explain: "Спорная информация — **время**, значит в фокусе *in March*: *it was in March that…* Другие варианты выделяют сам контракт, а о нём спора нет."
+  - q: "— Did Tom or Sara book the hotel? — ___"
+    options: ["It was Sara who booked it.", "What Sara did was book it.", "Sara did book it."]
+    answer: 0
+    explain: "Вопрос «кто?» → фокус на подлежащем: **It was Sara who…** *What Sara did was…* отвечал бы на вопрос «что Сара сделала?», а *Sara did book it* — на сомнение «а бронировала ли она вообще?»."
+  - q: "— You never help with the housework! — That's not fair. I ___ help — I did the dishes last night."
+    options: ["do", "am", "have"]
+    answer: 0
+    explain: "Эмфатическое **do** опровергает упрёк о привычке: *I do help*. *am help* и *have help* невозможны."
+  - q: "Which sentence makes a polite concession before a criticism?"
+    options: ["Your proposal does have some merit, but it is far too costly.", "Your proposal has some merit and it is far too costly.", "It is your proposal that has some merit, but it is far too costly."]
+    answer: 0
+    explain: "**does have** признаёт достоинство, прежде чем возразить, — типичная вежливая уступка. В варианте с *and* нет контраста, а it-cleft противопоставляет предложение другим, что здесь не нужно."
+  - q: "In a formal essay, which opening of the conclusion is most appropriate?"
+    options: ["The key point is that the policy has failed.", "The thing is, the policy has failed.", "What it is, is the policy has failed."]
+    answer: 0
+    explain: "**The key point is that…** — нейтрально-формальная голова. *The thing is,…* — разговорная рамка, *What it is, is…* — просторечие."
+  - q: "— Why is the kitchen floor soaking wet? — ___"
+    options: ["What happened was that someone left the tap running all night.", "It was all night that someone left the tap running.", "All that happened was the tap all night."]
+    answer: 0
+    explain: "Вопрос «что случилось?» → фокус на целом событии: **What happened was that…** It-cleft выделил бы только *all night*, как будто спорят о времени."
+  - q: "I don't know why you're so angry. ___ ask a simple question!"
+    options: ["All I did was", "What I did was", "It was I who did"]
+    answer: 0
+    explain: "**All I did was** = «я всего лишь…» — оправдание, преуменьшение. *What I did was* нейтрально и не передаёт «всего лишь»."
+  - q: "It's you who ___ responsible for this mess, not me."
+    options: ["are", "is", "am"]
+    answer: 0
+    explain: "Глагол после *who* согласуется с фокусом: *you* → **are**."
+  - q: "It was her honesty ___ won the voters over in the end."
+    options: ["that", "what", "which it"]
+    answer: 0
+    explain: "В it-cleft после фокуса — **that** (или *who* для людей). *what* — частая ошибка под влиянием русского «что»."
+  - q: "Nobody checked the figures before the report went out. ___ the problems started."
+    options: ["That's where", "That's what", "It's where that"]
+    answer: 0
+    explain: "Обратный cleft **That's where** — «вот где / вот с чего» — связывает с предыдущей мыслью. *That's what* требовал бы дополнения: *That's what caused the problems*."
+  - q: "I didn't enjoy the guided tour itself, but I ___ the food."
+    options: ["did enjoy", "was enjoying", "had enjoyed"]
+    answer: 0
+    explain: "Эмфатическое **did** подчёркивает контраст с предыдущим отрицанием: «а вот еда мне правда понравилась»."

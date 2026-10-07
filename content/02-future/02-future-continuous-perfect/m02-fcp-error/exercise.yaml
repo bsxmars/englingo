@@ -1,0 +1,44 @@
+title: "Найди и исправь ошибку: Future Continuous и Future Perfect"
+type: error
+intro: "В каждом предложении **одна** ошибка. Исправь её и отправь предложение целиком."
+hints:
+  - "Результат к сроку → will have + V3 + by; процесс в момент будущего → will be + -ing."
+  - "by — «к какому-то моменту», until — «вплоть до»; с Future Perfect until бывает только в отрицании."
+  - "Глаголы состояния (know, be, own, belong) не ставят в Continuous."
+items:
+  - q: "Don't phone at nine — we will watch the match then."
+    answers: ["Don't phone at nine — we will be watching the match then.", "Don't phone at nine — we'll be watching the match then."]
+    explain: "В девять матч будет идти → процесс в момент будущего → **will be watching**. *will watch* значило бы, что в девять мы только начнём смотреть."
+  - q: "By the end of this year, I will have saving enough for a deposit."
+    answers: ["By the end of this year, I will have saved enough for a deposit.", "By the end of this year, I'll have saved enough for a deposit."]
+    explain: "Future Perfect = **will have + V3**: *will have saved*. Форма на -ing после *have* сюда не подходит."
+  - q: "The builders will have finished the roof until Friday."
+    answers: ["The builders will have finished the roof by Friday.", "The builders'll have finished the roof by Friday."]
+    explain: "«К пятнице» → **by** Friday. *until* с Future Perfect возможно только в отрицании: *won't have finished until Friday*."
+  - q: "In June we'll be knowing each other for ten years."
+    answers: ["In June we'll have known each other for ten years.", "In June we will have known each other for ten years."]
+    explain: "*know* — глагол состояния, в Continuous не ставится. Сколько пройдёт к моменту → **will have known**."
+  - q: "This time next month I'll be lain on a beach in Greece."
+    answers: ["This time next month I'll be lying on a beach in Greece.", "This time next month I will be lying on a beach in Greece."]
+    explain: "Future Continuous = **will be + -ing**. От *lie* (лежать) форма на -ing — **lying**."
+  - q: "Will you be use the printer this afternoon? I need to print a contract."
+    answers: ["Will you be using the printer this afternoon? I need to print a contract."]
+    explain: "Вежливый вопрос о планах → **Will you be using…?** После *be* нужна форма на -ing."
+  - q: "Don't worry, by next Monday I finish all my exams and we can celebrate."
+    answers: ["Don't worry, by next Monday I'll have finished all my exams and we can celebrate.", "Don't worry, by next Monday I will have finished all my exams and we can celebrate."]
+    explain: "**by next Monday** — срок в будущем, к которому всё будет сделано → Future Perfect **will have finished**. Present Simple для будущего — только расписание."
+  - q: "By the time the guests will arrive, we'll have cleaned the whole flat."
+    answers: ["By the time the guests arrive, we'll have cleaned the whole flat.", "By the time the guests arrive, we will have cleaned the whole flat."]
+    explain: "После **by the time** — Present Simple, даже если речь о будущем: *by the time the guests arrive*. Будущее время — только в главной части."
+  - q: "Next year my parents will have been married since thirty years."
+    answers: ["Next year my parents will have been married for thirty years.", "Next year my parents'll have been married for thirty years."]
+    explain: "Длительность → **for** thirty years. *since* ставят перед точкой отсчёта (*since 1996*)."
+  - q: "I'll be finishing this chapter by ten, and then we can go out."
+    answers: ["I'll have finished this chapter by ten, and then we can go out.", "I will have finished this chapter by ten, and then we can go out."]
+    explain: "**by ten** + результат («к десяти закончу») → Future Perfect: **will have finished**. Future Continuous показывает процесс, а не результат к сроку."
+  - q: "At midnight the team will still work on the release — it's a huge update."
+    answers: ["At midnight the team will still be working on the release — it's a huge update.", "At midnight the team'll still be working on the release — it's a huge update."]
+    explain: "*still* + момент в будущем → работа будет в процессе → **will still be working**."
+  - q: "How many countries will you have visit by the end of your trip?"
+    answers: ["How many countries will you have visited by the end of your trip?"]
+    explain: "Вопрос в Future Perfect: **will you have + V3** → *will you have visited*."

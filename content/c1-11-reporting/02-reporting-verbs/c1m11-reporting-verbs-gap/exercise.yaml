@@ -1,0 +1,44 @@
+title: "Модели reporting verbs: впиши нужную форму"
+type: gap
+intro: "Составь из слов в скобках reporting verb в прошедшем времени и нужную модель: *to do*, *-ing*, предлог + *-ing*, объект + *to do* или *that*. Впиши всё, что идёт на месте пропуска."
+hints:
+  - "offer, refuse, threaten, claim + to do; deny, admit, suggest + -ing."
+  - "apologise for, object to, insist on + -ing; accuse sb of, blame sb for, praise sb for."
+  - "explain / say + to sb; tell, assure, remind + sb без предлога."
+items:
+  - q: "Nobody believed him when he ___ (claim / be) a qualified pilot."
+    answers: ["claimed to be", "claimed that he was", "claimed he was"]
+    explain: "*claim* берёт **to do** без объекта или *that*-clause. Сам глагол уже намекает, что рассказчик сомневается."
+  - q: "She ___ (apologise / keep) us waiting so long."
+    answers: ["apologised for keeping", "apologized for keeping"]
+    explain: "**apologise for** + -ing. Инфинитив здесь невозможен: ~~apologised to keep~~."
+  - q: "The minister ___ (deny / mislead) Parliament."
+    answers: ["denied misleading", "denied having misled", "denied that he had misled", "denied that she had misled", "denied he had misled", "denied she had misled"]
+    explain: "*deny* + **-ing** (или *having* + V3, чтобы подчеркнуть предшествование) или *that*-clause. Инфинитив — ошибка: ~~denied to mislead~~."
+  - q: "Investors ___ (accuse / the firm / hide) its losses."
+    answers: ["accused the firm of hiding", "accused the firm of having hidden"]
+    explain: "**accuse sb of** + -ing. Русское «обвинили в том, что» подталкивает к *that*, но после *accuse* такой модели нет."
+  - q: "The auditors blamed poor planning ___ the delays."
+    answers: ["for"]
+    explain: "**blame sb/sth for** the result = *blame the result on sb/sth*. Здесь виновник стоит первым → *for*."
+  - q: "He ___ (threaten / resign) if the plan went ahead."
+    answers: ["threatened to resign", "threatened that he would resign"]
+    explain: "*threaten* + **to do** без объекта: ~~threatened us to resign~~ — ошибка. Возможна и модель *that* + *would*."
+  - q: "She ___ (remind / us / submit) our timesheets by Friday."
+    answers: ["reminded us to submit"]
+    explain: "*remind* + объект + **to do**. Без объекта (~~reminded to submit~~) смысл теряется: напомнить можно только кому-то."
+  - q: "The lawyer advised me ___ (not / sign) anything until she had read it."
+    answers: ["not to sign"]
+    explain: "*advise sb* + **not to do**: отрицание стоит перед *to*. ~~to not sign~~ встречается в речи, но в формальном тексте избегается."
+  - q: "Local residents have objected ___ (be) excluded from the consultation."
+    answers: ["to being"]
+    explain: "В **object to** *to* — предлог, поэтому дальше -ing: *to being*. ~~objected to be excluded~~ — частая ошибка."
+  - q: "The judges ___ (praise / the team / find) such an elegant solution."
+    answers: ["praised the team for finding", "praised the team for having found"]
+    explain: "**praise sb for** + -ing, как *thank / criticise / blame sb for*."
+  - q: "She ___ (explain / us) why the launch had been postponed."
+    answers: ["explained to us"]
+    explain: "*explain* не берёт человека как прямой объект: **explained to us**. Так же *say to, mention to, admit to*."
+  - q: "At the meeting he ___ (suggest / we / postpone) the launch."
+    answers: ["suggested that we postpone", "suggested that we should postpone", "suggested we postpone", "suggested we should postpone", "suggested postponing", "suggested that we postponed", "suggested we postponed"]
+    explain: "*suggest* + **that** sb (should) do или **-ing**. Модель *suggested us to postpone* невозможна."

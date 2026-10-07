@@ -1,0 +1,56 @@
+title: "Кто выполняет действие и в каком регистре"
+type: choice
+intro: "Выбери вариант, который лучше всего подходит по грамматике, смыслу и регистру (регистр указан в начале, если важен)."
+hints:
+  - "Другой исполнитель у инфинитива → for sb to do; у герундия → his / him + -ing."
+  - "Притяжательное перед герундием — формально; длинные группы, this / that, someone — без 's."
+  - "only to — неожиданный результат; so as not to — отрицательная цель."
+items:
+  - q: "Formal report: 'The committee was concerned about ___ the budget without consultation.'"
+    options: ["the director changing", "the director's changing", "the director to change"]
+    answer: 1
+    explain: "В официальном тексте исполнитель герундия выражают притяжательным: **the director's changing**. *the director changing* грамматично, но разговорнее; инфинитив после предлога невозможен."
+  - q: "Chat with a friend: 'Do you mind ___ the window? It's boiling.'"
+    options: ["me opening", "my opening", "that I open"]
+    answer: 0
+    explain: "В разговоре естественнее объектное **me opening**. *my opening* верно, но звучит чопорно для дружеского чата."
+  - q: "I can't imagine ___ ever happening in a company this size."
+    options: ["that's", "that", "it's"]
+    answer: 1
+    explain: "С указательными *this / that* притяжательная форма невозможна: **that happening**."
+  - q: "The plan is ___ over the project in September."
+    options: ["the new team to take", "for the new team to take", "that the new team taking"]
+    answer: 1
+    explain: "У инфинитива свой исполнитель → **for** + sb + to do: *The plan is for the new team to take over.*"
+  - q: "We'd really like ___ with us for the whole weekend."
+    options: ["for you to stay", "you to stay", "you staying"]
+    answer: 1
+    explain: "*would like* берёт объект напрямую: **would like you to stay**. *for you to stay* — американское разговорное; в британском нормативном тексте лучше без *for*."
+  - q: "The match had to be abandoned because of ___ no qualified referee available."
+    options: ["there being", "there was", "it being"]
+    answer: 0
+    explain: "После предлога нужен герундий, и его «подлежащим» может быть *there*: **because of there being**. *there was* после *because of* невозможно."
+  - q: "She slipped out of the meeting without ___ ."
+    options: ["noticing", "anyone noticing", "anyone's notice"]
+    answer: 1
+    explain: "«Так, что никто не заметил» — у герундия другой исполнитель, его надо назвать: **without anyone noticing**. *without noticing* значило бы, что *она* не заметила."
+  - q: "He fought his way through the crowd, ___ that the shop had already sold out."
+    options: ["in order to find", "only to find", "so as to find"]
+    answer: 1
+    explain: "Он не стремился узнать, что всё распродано: это неожиданный итог → **only to find**. Остальные варианты выражают цель."
+  - q: "Essay: 'Many parents work long hours ___ their children to attend good schools.'"
+    options: ["in order for", "so as", "in order that"]
+    answer: 0
+    explain: "Цель с другим исполнителем + инфинитив → **in order for** sb **to do**. *in order that* требует придаточного (*in order that their children can attend*)."
+  - q: "Formal letter: 'I would be grateful for ___ this matter as urgent.'"
+    options: ["you treating", "your treating", "you to treat"]
+    answer: 1
+    explain: "Официальное письмо → притяжательное перед герундием: **your treating**. *you treating* грамматично, но разговорнее."
+  - q: "She emigrated in 1975, ___ her home town again."
+    options: ["never to see", "not to see", "to never see"]
+    answer: 0
+    explain: "**never to do** — книжное «и больше никогда»: результат, а не цель. *not to see* читалось бы как цель."
+  - q: "I'd hate ___ the wrong idea about what happened."
+    options: ["for you getting", "you to get", "that you got"]
+    answer: 1
+    explain: "После *would hate / would like / would love* с другим исполнителем — объект + инфинитив: **I'd hate you to get**."

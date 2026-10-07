@@ -1,0 +1,44 @@
+title: "Настоящее и прошедшее: найди ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка во времени или форме глагола. Ошибки тонкие: state-глаголы, процесс и результат, закрытый период, would и used to. Исправь и отправь предложение целиком."
+hints:
+  - "Число раз или штук → Perfect Simple, а не Continuous."
+  - "Точное время в прошлом или вопрос When…? → Past Simple."
+  - "would — только повторяющиеся действия, не состояния."
+items:
+  - q: "I've been reading four of her novels this year, and I'm halfway through the fifth."
+    answers: ["I've read four of her novels this year, and I'm halfway through the fifth."]
+    explain: "Количество (*four novels*) — это результат, поэтому **Present Perfect Simple**: *I've read four…* Continuous отвечает на «как долго», а не «сколько»."
+  - q: "When have you first realised that the figures didn't add up?"
+    answers: ["When did you first realise that the figures didn't add up?"]
+    explain: "Вопрос *When…?* спрашивает о моменте в прошлом → **Past Simple**: *When did you first realise…?*"
+  - q: "I've been knowing Daniel since we were students in Prague."
+    answers: ["I've known Daniel since we were students in Prague."]
+    explain: "*know* — глагол состояния, в Continuous не употребляется даже с *since*: **I've known**."
+  - q: "As a child I would live in a tiny village near the Polish border."
+    answers: ["As a child I used to live in a tiny village near the Polish border.", "As a child I lived in a tiny village near the Polish border."]
+    explain: "*would* описывает только повторяющиеся действия. *live* — состояние → **used to live** или просто *lived*."
+  - q: "This contract is containing several clauses that we need to discuss."
+    answers: ["This contract contains several clauses that we need to discuss."]
+    explain: "*contain* — чистый глагол состояния, второго «действенного» значения у него нет → **contains**."
+  - q: "Shakespeare has written some of the most quoted lines in the English language."
+    answers: ["Shakespeare wrote some of the most quoted lines in the English language."]
+    explain: "Автор давно умер, период закрыт → **Past Simple**: *Shakespeare wrote*. Present Perfect — для живых авторов, которые ещё могут написать."
+  - q: "I'm apologising for the delay in replying to your email."
+    answers: ["I apologise for the delay in replying to your email.", "I apologize for the delay in replying to your email."]
+    explain: "*apologise* здесь — перформатив: произнося его, ты совершаешь действие. Перформативы идут в Present Simple: **I apologise**."
+  - q: "By the time the paramedics arrived, he already stopped breathing."
+    answers: ["By the time the paramedics arrived, he had already stopped breathing."]
+    explain: "*By the time* + прошлое + *already* — действие завершилось до другого момента в прошлом → **had already stopped**."
+  - q: "She was tired because she'd been answering calls since six in the morning, so she has gone to bed early."
+    answers: ["She was tired because she'd been answering calls since six in the morning, so she went to bed early."]
+    explain: "Рассказ идёт в прошедшем (*was tired*), следующее событие в цепочке — **Past Simple**: *so she went to bed early*."
+  - q: "You're seeming a bit distracted today — is everything all right?"
+    answers: ["You seem a bit distracted today — is everything all right?"]
+    explain: "*seem* — глагол состояния, Continuous с ним невозможен даже о временном впечатлении: **You seem**."
+  - q: "I'm working here since 2020, and I've never had a single complaint."
+    answers: ["I've been working here since 2020, and I've never had a single complaint.", "I've worked here since 2020, and I've never had a single complaint.", "I have been working here since 2020, and I've never had a single complaint.", "I have worked here since 2020, and I've never had a single complaint."]
+    explain: "Калька с русского «работаю с 2020». *since* + точка отсчёта требует Present Perfect: **I've been working / I've worked** here since 2020."
+  - q: "Her hands were covered in paint: she has been decorating the spare room all afternoon."
+    answers: ["Her hands were covered in paint: she had been decorating the spare room all afternoon.", "Her hands were covered in paint: she'd been decorating the spare room all afternoon."]
+    explain: "Видимые следы процесса **в прошлом** (*were covered*) → Past Perfect Continuous: **had been decorating**. Present Perfect Continuous годился бы для *Her hands are covered…*"

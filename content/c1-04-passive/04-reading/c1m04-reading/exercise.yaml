@@ -1,0 +1,92 @@
+title: "Lost in amplification"
+type: reading
+intro: "Прочитай эссе и ответь на вопросы. Вопросы с вариантами — в формате C1 Advanced, Part 5; в остальных впиши одно слово из текста."
+hints:
+  - "Вопросы идут в порядке текста: сначала найди нужный абзац."
+  - "Спрашивай себя не «что сказано», а «зачем автор это говорит»."
+text: |
+  ## Lost in amplification: how a study becomes a headline
+
+  Every few weeks, it seems, chocolate is found to prevent heart disease, red wine is shown to lengthen life, or a single gene is said to explain why some of us cannot resist a second slice of cake. A month later, the same newspapers report the opposite. Readers could be forgiven for concluding that scientists simply cannot make up their minds. The truth is more interesting, and rather less flattering to everyone involved.
+
+  Consider how a typical finding travels. A team of researchers spends three years observing a few thousand volunteers. Their paper, written in the cautious passive of academic prose, reports that "a modest association was observed" between, say, regular coffee drinking and a slightly lower risk of a particular illness. Crucially, it adds that "causation cannot be inferred" and that "the results should be interpreted with caution". None of these phrases has ever sold a newspaper.
+
+  The paper is then summarised by the university's press office, whose job, it must be said, is not to inform the public but to attract attention to the institution. The modest association becomes "a significant link". The press release is picked up by a news agency, rewritten by a junior reporter working to a deadline, and finally handed to a sub-editor who must fit the story into eight words. By now, the volunteers have been forgotten, the caveats have quietly disappeared, and coffee, we are told, "slashes your risk".
+
+  What is striking is that at no point in this chain does anyone actually lie. Each step is a small, defensible simplification. It is the accumulation of these simplifications that distorts the picture. Researchers who have tracked the process report that exaggerations in news stories can very often be traced back not to journalists but to the press releases themselves. If the claim had been stated accurately at the source, much of the later distortion could have been avoided.
+
+  Grammar plays a surprisingly large role in this drift. Scientists hedge their claims with modal verbs and impersonal constructions: a drug "may be associated with" improvements; patients "appear to have been helped". Headlines, by contrast, prefer strong active verbs with clear agents: the drug "cures", the gene "causes". Somewhere between the laboratory and the front page, *may have been linked to* turns into *triggers*. The passive voice, often criticised by style guides as evasive, is in this case the more honest form, because it reports what was found without pretending to know who or what was responsible.
+
+  Another quiet trick lies in verbs that describe change without naming its cause. "Cancer rates rose", "test scores improved", "the economy shrank" — such sentences make events sound as if they had simply happened, like the weather. Sometimes that is accurate. Often, however, a decision was made by someone, and the choice of an intransitive verb allows that someone to step out of the story. Careful readers learn to ask: rose because of what, improved thanks to whom?
+
+  None of this means that science journalism is worthless. Many reporters are scrupulous, and some of the best writing about research is produced by journalists who understand statistics better than many scientists. Nor should researchers be absolved of responsibility. In a funding system where grants are awarded partly on the basis of public impact, there is a strong temptation to let a result sound bigger than it is. A scientist who is quoted as saying that a finding "could transform treatment" has rarely been misquoted.
+
+  What, then, is to be done? Several remedies have been proposed. Some journals now insist that press releases be checked by the authors before they are sent out. A few newspapers have begun to include, at the end of a health story, a short note on how large the study was and whether it was carried out on humans or on mice. It is also suggested that schools should teach not only how to read graphs but how to read headlines — to notice when "is linked to" has been quietly upgraded to "causes".
+
+  Ultimately, however, the most effective safeguard is a sceptical reader. The next time you are told that a common food has been found to add ten years to your life, it is worth asking a few unglamorous questions. Who was studied, and how many of them? Was a cause identified, or merely a correlation? And has anything been lost in translation? The answers will rarely make a headline. They may, however, save you from buying a great deal of very expensive chocolate.
+items:
+  - q: "What point does the writer make in the first paragraph?"
+    options:
+      - "Scientists change their conclusions too often to be trusted."
+      - "Readers' confusion is understandable, but its real cause is not indecision among scientists."
+      - "Newspapers deliberately publish contradictory stories to sell more copies."
+      - "Most studies about food and drink are badly designed."
+    answer: 1
+    explain: "*Readers could be forgiven for concluding…* — автор признаёт, что вывод читателей понятен, а затем: *The truth is more interesting* — настоящая причина в другом. Вариант A — это как раз мнение читателей, которое автор оспаривает."
+  - q: "Why does the writer quote phrases from the original research paper in the second paragraph?"
+    options:
+      - "To show how carelessly scientific papers are often written."
+      - "To demonstrate that the researchers expressed their findings tentatively."
+      - "To criticise the use of the passive in academic writing."
+      - "To prove that coffee has no effect on health."
+    answer: 1
+    explain: "*a modest association was observed*, *causation cannot be inferred*, *should be interpreted with caution* — все цитаты осторожные. Автор показывает исходную точку, от которой потом начнётся «раздувание»."
+  - q: "What does the writer imply about university press offices?"
+    options:
+      - "They are staffed by people with no scientific training."
+      - "They usually refuse to work with journalists."
+      - "Their main aim is publicity rather than accurate information."
+      - "They are legally responsible for errors in news reports."
+    answer: 2
+    explain: "*whose job, it must be said, is not to inform the public but to attract attention to the institution*. Вставка *it must be said* показывает, что это мнение самого автора."
+  - q: "According to the fourth paragraph, how does distortion mainly arise?"
+    options:
+      - "Journalists invent claims that were never made by scientists."
+      - "Each person in the chain makes a minor change, and the changes add up."
+      - "Researchers deliberately hide the limitations of their work."
+      - "Sub-editors are forced to change stories by their employers."
+    answer: 1
+    explain: "*at no point… does anyone actually lie. Each step is a small, defensible simplification. It is the accumulation…* — искажение возникает из суммы мелких упрощений. Вариант A прямо противоречит тексту."
+  - q: "What is the writer's view of the passive voice in scientific writing?"
+    options:
+      - "It is evasive and should be avoided, as style guides recommend."
+      - "It makes research papers difficult for journalists to understand."
+      - "In this context it is more accurate than the active forms used in headlines."
+      - "It is the main reason why scientific findings are misreported."
+    answer: 2
+    explain: "*The passive voice, often criticised by style guides as evasive, is in this case the more honest form* — автор признаёт репутацию пассива, но защищает его здесь. Вариант A — мнение стилистических руководств, а не автора."
+  - q: "In the sixth paragraph, why does the writer discuss sentences such as 'test scores improved'?"
+    options:
+      - "To point out that such verbs can hide who was responsible for a change."
+      - "To argue that statistics about change are usually unreliable."
+      - "To show that journalists prefer short sentences."
+      - "To suggest that natural events are often misreported."
+    answer: 0
+    explain: "*the choice of an intransitive verb allows that someone to step out of the story* — глаголы вроде *rose, improved, shrank* описывают изменение без причины и позволяют скрыть ответственного. Это как раз ergative и непереходные глаголы из урока 2."
+  - q: "What does the writer suggest by saying that a scientist quoted as saying a finding 'could transform treatment' 'has rarely been misquoted'?"
+    options:
+      - "Journalists are usually careful to quote scientists accurately."
+      - "Scientists themselves sometimes contribute to the exaggeration."
+      - "Such claims are rarely made by serious researchers."
+      - "Quotations are the most reliable part of a science story."
+    answer: 1
+    explain: "Ирония: если учёного цитируют с громкой фразой, скорее всего, он её действительно сказал. Это иллюстрирует предыдущую мысль — *Nor should researchers be absolved of responsibility*."
+  - q: "Find a noun in paragraph 3 that means 'warnings or conditions that limit how a statement should be understood'."
+    answers: ["caveats", "caveat"]
+    explain: "*the caveats have quietly disappeared* — **caveat**, «оговорка». В исходной статье это были фразы вроде *causation cannot be inferred*."
+  - q: "Find an adjective in paragraph 7 that means 'extremely careful to be honest and accurate'."
+    answers: ["scrupulous"]
+    explain: "*Many reporters are **scrupulous*** — щепетильные, предельно добросовестные. Противопоставлено обвинению в адрес всей научной журналистики."
+  - q: "Find a noun in the last paragraph that means 'something that protects against a danger or problem'."
+    answers: ["safeguard"]
+    explain: "*the most effective **safeguard** is a sceptical reader* — **safeguard**, «защита, гарантия». Частая коллокация: *a safeguard against something*."

@@ -1,0 +1,348 @@
+title: "Входной тест C1"
+type: choice
+intro: |
+  68 вопросов по всем 17 тематическим модулям ступени C1, по четыре на модуль. Выбери один вариант из четырёх. **Не знаешь — пропусти**, не угадывай: так результат по темам будет честным.
+
+  Словарь не используй. Ориентир по времени — 35–40 минут.
+pass: 1
+items:
+  - q: "The bridge is thought ___ in the twelfth century."
+    options: ["that it was built", "to have been built", "having been built", "to be built"]
+    answer: 1
+    topic: "c1-04-passive"
+    explain: "*be thought / said / believed* + **perfect passive infinitive**, когда событие раньше момента речи: мост построили в XII веке → **to have been built**."
+  - q: "Nobody phoned while I was out, ___ ?"
+    options: ["did he", "didn't they", "didn't anyone", "did they"]
+    answer: 3
+    topic: "c1-03-negatives-questions"
+    explain: "*Nobody* делает предложение отрицательным → тег положительный: **did they**. После *nobody / somebody / everyone* в теге — *they*."
+  - q: "If I ___ that job in Berlin, I'd be living in Germany now."
+    options: ["took", "take", "would have taken", "had taken"]
+    answer: 3
+    topic: "c1-14-conditionals"
+    explain: "Смешанное условное: нереальное прошлое (**had taken**) → нереальное настоящее (*I'd be living now*)."
+  - q: "___ tired she was, she kept on working until midnight."
+    options: ["Despite", "Even", "Although", "However"]
+    answer: 3
+    topic: "c1-15-adverbial-clauses"
+    explain: "**However + прилагательное + подлежащее + глагол** = «как бы … ни». *Although* потребовал бы *Although she was tired*."
+  - q: "She inherited a ___ table from her grandmother."
+    options: ["wooden beautiful old", "beautiful wooden old", "old beautiful wooden", "beautiful old wooden"]
+    answer: 3
+    topic: "c1-08-adjectives-adverbs"
+    explain: "Порядок прилагательных: **мнение → возраст → материал**: *beautiful old wooden*."
+  - q: "I remember ___ this book as a child, but I've completely forgotten the ending."
+    options: ["reading", "to read", "read", "to reading"]
+    answer: 0
+    topic: "c1-10-infinitives-gerunds"
+    explain: "*remember + -ing* — помнить то, что уже было. *remember + to* — не забыть сделать в будущем."
+  - q: "Not only ___ late, but he also forgot to bring the documents."
+    options: ["arrived he", "did he arrive", "he did arrive", "he arrived"]
+    answer: 1
+    topic: "c1-16-connectors-focus"
+    explain: "После **Not only** в начале предложения — инверсия, как в вопросе: **did he arrive**."
+  - q: "The woman ___ car had been stolen went straight to the police."
+    options: ["whose", "who's", "which", "whom"]
+    answer: 0
+    topic: "c1-13-relative-clauses"
+    explain: "Принадлежность («чья машина») → **whose**. *who's* = *who is / who has*."
+  - q: "___ of my two brothers lives nearby — they both moved abroad years ago."
+    options: ["None", "Either", "Neither", "Both"]
+    answer: 2
+    topic: "c1-06-determiners"
+    explain: "Из **двух** — ни один → **Neither** (+ глагол в ед. ч.). *None* — для трёх и более."
+  - q: "It is essential that every employee ___ the safety training before starting work."
+    options: ["complete", "to complete", "completed", "will complete"]
+    answer: 0
+    topic: "c1-12-noun-clauses"
+    explain: "После *essential, vital, important that…* — сослагательное наклонение (subjunctive): базовая форма без *-s* — **complete** (или *should complete*)."
+  - q: "I'll be out of the office ___ the conference, so please contact my assistant."
+    options: ["while", "during", "since", "meanwhile"]
+    answer: 1
+    topic: "c1-09-prepositions"
+    explain: "Перед существительным → предлог **during**. *while* — союз, после него нужно придаточное: *while the conference is on*."
+  - q: "You ___ have booked a table — the restaurant was almost empty."
+    options: ["wouldn't", "couldn't", "mustn't", "needn't"]
+    answer: 3
+    topic: "c1-02-modals"
+    explain: "**needn't have + V3** — сделал, но это было не нужно. *mustn't have* не выражает ни запрет в прошлом, ни ненужность."
+  - q: "By the time the report was finally published, the team ___ on it for over two years."
+    options: ["had been working", "was working", "would work", "has been working"]
+    answer: 0
+    topic: "c1-01-sentences-tenses"
+    explain: "Длительность до момента в прошлом (*by the time … was published*) → **Past Perfect Continuous**. *has been working* привязан к «сейчас», а не к прошлому моменту."
+  - q: "The company ___ a profit for the first time last year."
+    options: ["brought", "did", "made", "took"]
+    answer: 2
+    topic: "c1-17-use-of-english"
+    explain: "Коллокация **make a profit / a loss**. *do* с прибылью не сочетается."
+  - q: "'Will the shop be open on Sunday?' — 'I don't think ___ .'"
+    options: ["so it", "so", "that", "it"]
+    answer: 1
+    topic: "c1-07-pronouns-ellipsis"
+    explain: "После *think, hope, expect, suppose* придаточное заменяется словом **so**: *I think so / I don't think so*."
+  - q: "___ cheetah is the fastest land animal in the world."
+    options: ["One", "—", "Some", "The"]
+    answer: 3
+    topic: "c1-05-articles-nouns"
+    explain: "Вид животного как класс (generic) → **the** + существительное в единственном числе: *The cheetah is…*, как *The computer has changed our lives*."
+  - q: "My manager ___ me to apply for the position."
+    options: ["encouraged", "said", "insisted", "suggested"]
+    answer: 0
+    topic: "c1-11-reporting"
+    explain: "Схема *verb + object + to-infinitive* — у **encourage** (а также *advise, persuade, urge*). *suggest* и *insist* так не употребляются: *suggested that I apply*, *insisted on my applying*."
+  - q: "The hotel was ___ we had been led to believe."
+    options: ["not nearly as comfortable as", "not as nearly comfortable as", "nearly not as comfortable as", "not nearly comfortable as"]
+    answer: 0
+    topic: "c1-08-adjectives-adverbs"
+    explain: "**not nearly as … as** = «далеко не такой, как». *nearly* стоит сразу после *not*, перед *as*."
+  - q: "He spoke quietly ___ wake the baby."
+    options: ["in order not", "so that not", "so as not to", "not to so as"]
+    answer: 2
+    topic: "c1-15-adverbial-clauses"
+    explain: "Отрицательная цель с инфинитивом → **so as not to / in order not to** + глагол."
+  - q: "I hate ___ what to do by people who know less than I do."
+    options: ["having told", "telling", "being told", "be told"]
+    answer: 2
+    topic: "c1-04-passive"
+    explain: "Мне говорят (я — объект действия) → пассивный герундий **being told**. *telling* — активный: «я говорю»."
+  - q: "___ she will accept the offer is still unclear."
+    options: ["Whether", "That", "What", "If"]
+    answer: 0
+    topic: "c1-12-noun-clauses"
+    explain: "Придаточное-подлежащее со значением «ли» начинается только с **Whether**. *If* в начале предложения в этой роли невозможно."
+  - q: "Unemployment in the region is now ___ it was ten years ago."
+    options: ["twice higher than", "double as high as", "twice as high as", "as twice high as"]
+    answer: 2
+    topic: "c1-06-determiners"
+    explain: "Множитель ставится **перед** *as … as*: **twice / three times as high as**. *twice higher than* — ошибка."
+  - q: "He asked me where ___ ."
+    options: ["have I parked the car", "did I park the car", "had I parked the car", "I had parked the car"]
+    answer: 3
+    topic: "c1-11-reporting"
+    explain: "Косвенный вопрос: прямой порядок слов и сдвиг времени → **where I had parked the car**."
+  - q: "This is the third time this month that the server ___ ."
+    options: ["has crashed", "crashed", "had crashed", "is crashing"]
+    answer: 0
+    topic: "c1-01-sentences-tenses"
+    explain: "После *This is the first / second / third time* в английском обязательно **Present Perfect**: счёт ещё идёт, месяц не закончился."
+  - q: "___ you need any further information, please do not hesitate to contact us."
+    options: ["Should", "Were", "Would", "Had"]
+    answer: 0
+    topic: "c1-14-conditionals"
+    explain: "Формальная инверсия вместо *If you (should) need* → **Should you need**. Типично для деловых писем."
+  - q: "This is the hotel ___ we stayed last summer."
+    options: ["where in", "in which", "that", "which"]
+    answer: 1
+    topic: "c1-13-relative-clauses"
+    explain: "*stay in a hotel* → предлог переходит к местоимению: **in which** (= *where*). Просто *which / that* требовали бы *in* в конце."
+  - q: "She has a great deal of ___ in her own abilities."
+    options: ["confident", "confidential", "confide", "confidence"]
+    answer: 3
+    topic: "c1-17-use-of-english"
+    explain: "После *a great deal of* нужно существительное → **confidence** (*confidence in*)."
+  - q: "The project went well over budget. ___, it was considered a success."
+    options: ["Although", "Whereas", "Despite", "Nevertheless"]
+    answer: 3
+    topic: "c1-16-connectors-focus"
+    explain: "Связка между двумя предложениями → наречие **Nevertheless**. *Although, whereas* — союзы, *despite* — предлог."
+  - q: "The lights are off and nobody is answering the door. They ___ out."
+    options: ["must have gone", "can have gone", "should have gone", "must go"]
+    answer: 0
+    topic: "c1-02-modals"
+    explain: "Уверенный вывод о прошлом → **must have + V3**. В утвердительном выводе *can have* не употребляется; *should have gone* — упрёк или ожидание."
+  - q: "Nobody turned up to the meeting ___ Tom."
+    options: ["unless", "without", "apart", "except"]
+    answer: 3
+    topic: "c1-09-prepositions"
+    explain: "«Кроме» → **except** (или *apart from*). *apart* без *from* не работает, *unless* — союз условия."
+  - q: "I don't eat meat, and ___ ."
+    options: ["neither doesn't my wife", "my wife does neither", "neither does my wife", "so doesn't my wife"]
+    answer: 2
+    topic: "c1-03-negatives-questions"
+    explain: "Согласие с отрицанием → **neither / nor + вспомогательный + подлежащее**. Отрицание уже в *neither*, второе (*doesn't*) — двойное отрицание."
+  - q: "I'd prefer a seat by the window rather than ___ near the door."
+    options: ["ones", "it", "one", "this"]
+    answer: 2
+    topic: "c1-07-pronouns-ellipsis"
+    explain: "Чтобы не повторять исчисляемое существительное в ед. ч. (*a seat*), используем **one**. *it* указывал бы на тот же самый предмет."
+  - q: "He seems ___ a lot of weight since I last saw him."
+    options: ["losing", "to lose", "to have lost", "having lost"]
+    answer: 2
+    topic: "c1-10-infinitives-gerunds"
+    explain: "*seem* + инфинитив; действие уже произошло (*since I last saw him*) → перфектный инфинитив **to have lost**."
+  - q: "The news from the hospital ___ better than we had expected."
+    options: ["have been", "are", "were", "was"]
+    answer: 3
+    topic: "c1-05-articles-nouns"
+    explain: "*news* — неисчисляемое, несмотря на *-s*: глагол в единственном числе → **was**."
+  - q: "It was my sister ___ first suggested the idea."
+    options: ["what", "whom", "who", "which"]
+    answer: 2
+    topic: "c1-16-connectors-focus"
+    explain: "Cleft-предложение *It was … who / that …*; выделяем человека-подлежащее → **who** (или *that*)."
+  - q: "The fact ___ she had no experience didn't stop her from applying."
+    options: ["which", "what", "of", "that"]
+    answer: 3
+    topic: "c1-12-noun-clauses"
+    explain: "*the fact / the idea / the news* + **that**-придаточное раскрывает содержание. *which* здесь невозможно: это не относительное придаточное."
+  - q: "At the start of the meeting, the manager ___ the new procedure in detail."
+    options: ["explained us about", "explained us", "explained for us", "explained to us"]
+    answer: 3
+    topic: "c1-01-sentences-tenses"
+    explain: "*explain* не берёт косвенное дополнение без предлога: **explain something to somebody**. *explained us* — калька с «объяснил нам»."
+  - q: "She stared at me ___ she had seen a ghost."
+    options: ["like if", "as if", "as like", "such as"]
+    answer: 1
+    topic: "c1-15-adverbial-clauses"
+    explain: "«Как будто» → **as if / as though**. *like if* — ошибка."
+  - q: "The new policy has had a significant impact ___ sales."
+    options: ["on", "to", "for", "at"]
+    answer: 0
+    topic: "c1-17-use-of-english"
+    explain: "Зависимый предлог: **impact / effect / influence on**."
+  - q: "I'll lend you the money ___ you pay me back by the end of the month."
+    options: ["provided", "even if", "in case", "unless"]
+    answer: 0
+    topic: "c1-14-conditionals"
+    explain: "**provided (that)** = «при условии, что». *unless* = «если не», *in case* = «на случай, если»."
+  - q: "My new trousers ___ too long, so I'm having them shortened."
+    options: ["has", "was", "are", "is"]
+    answer: 2
+    topic: "c1-05-articles-nouns"
+    explain: "*trousers, jeans, scissors, glasses* — парные существительные, всегда во множественном числе → **are** (и *them* дальше)."
+  - q: "Anyone ___ to join the club should contact the secretary."
+    options: ["wishing", "wished", "wishes", "to wish"]
+    answer: 0
+    topic: "c1-13-relative-clauses"
+    explain: "Сокращённое относительное придаточное: *Anyone who wishes* → **Anyone wishing**. *wishes* без *who* — ошибка."
+  - q: "There were ___ people at the conference than we had expected."
+    options: ["fewer", "little", "lesser", "a few"]
+    answer: 0
+    topic: "c1-06-determiners"
+    explain: "Исчисляемое во множественном (*people*) + сравнение (*than*) → **fewer**. *lesser* — «меньший по значению» (*a lesser problem*), не количество."
+  - q: "Anna and Mark have known ___ since primary school."
+    options: ["theirselves", "each other", "each other's", "themselves"]
+    answer: 1
+    topic: "c1-07-pronouns-ellipsis"
+    explain: "Взаимное действие («друг друга») → **each other**. *themselves* — каждый сам себя; *theirselves* не существует."
+  - q: "The negotiations ___ after the two sides failed to agree on a price."
+    options: ["broke in", "broke out", "broke through", "broke down"]
+    answer: 3
+    topic: "c1-09-prepositions"
+    explain: "Переговоры / брак / машина «сорвались, сломались» → **break down**. *break out* — о войне, пожаре, эпидемии."
+  - q: "The minister finally ___ that the policy had failed."
+    options: ["apologised", "admitted", "accused", "told"]
+    answer: 1
+    topic: "c1-11-reporting"
+    explain: "*admit that…* — «признать». *told* требует, кому сказали (*told us that*), *accuse* и *apologise* не вводят придаточное с *that* так."
+  - q: "He's ___ the best candidate we've interviewed so far."
+    options: ["too", "very", "far more", "by far"]
+    answer: 3
+    topic: "c1-08-adjectives-adverbs"
+    explain: "Усиление превосходной степени → **by far the best**. *very* так не работает (возможно только *the very best*)."
+  - q: "Nobody had touched it, but the door suddenly ___ , and a cold wind swept into the room."
+    options: ["got opened", "has been opened", "opened", "was opened"]
+    answer: 2
+    topic: "c1-04-passive"
+    explain: "*open* — эргативный глагол: может стоять без пассива, когда действие «происходит само». Пассив *was opened* требовал бы того, кто открыл."
+  - q: "I strongly object to ___ like a child."
+    options: ["be treated", "being treat", "being treated", "treating"]
+    answer: 2
+    topic: "c1-10-infinitives-gerunds"
+    explain: "*object to* — здесь *to* предлог, значит дальше герундий; со мной так обращаются → пассив **being treated**."
+  - q: "I've tried everything, but the car ___ start."
+    options: ["needn't", "won't", "shan't", "mustn't"]
+    answer: 1
+    topic: "c1-02-modals"
+    explain: "**won't** о предмете — «отказывается», «никак не хочет»: *The door won't open*. Это значение will как готовности (willingness)."
+  - q: "Could you tell me what time ___ ?"
+    options: ["does the meeting start", "the meeting does start", "the meeting starts", "starts the meeting"]
+    answer: 2
+    topic: "c1-03-negatives-questions"
+    explain: "В косвенном вопросе (*Could you tell me…*) прямой порядок слов и нет *do / does*: **what time the meeting starts**."
+  - q: "___ I need right now is a long holiday."
+    options: ["All what", "What", "That", "Which"]
+    answer: 1
+    topic: "c1-16-connectors-focus"
+    explain: "Pseudo-cleft: **What I need is…** = «Что мне нужно, так это…». *All what* — ошибка, правильно *All (that) I need*."
+  - q: "___ is no point in arguing about it any longer."
+    options: ["That", "There", "This", "It"]
+    answer: 1
+    topic: "c1-07-pronouns-ellipsis"
+    explain: "Устойчивая конструкция **There is no point (in) + -ing**. *It is no use / It's pointless*, но *There is no point*."
+  - q: "They ___ me of lying, which was completely untrue."
+    options: ["denied", "criticised", "accused", "blamed"]
+    answer: 2
+    topic: "c1-11-reporting"
+    explain: "**accuse somebody of + -ing**. Ср.: *blame somebody for*, *criticise somebody for*."
+  - q: "___ in a hurry, he left his keys on the kitchen table."
+    options: ["Being", "To be", "He was", "Been"]
+    answer: 0
+    topic: "c1-15-adverbial-clauses"
+    explain: "Сокращённое придаточное причины: *As he was in a hurry* → **Being in a hurry**. *He was …, he left* — два предложения без союза."
+  - q: "The results ___ by now, but nobody has told us anything."
+    options: ["should announce", "should have been announced", "should be announced", "should have announced"]
+    answer: 1
+    topic: "c1-04-passive"
+    explain: "Ожидание о прошлом + результаты объявляет кто-то → **should have been + V3** (модальный перфектный пассив)."
+  - q: "He lost his job last month, ___ came as a shock to everyone."
+    options: ["what", "that", "it", "which"]
+    answer: 3
+    topic: "c1-13-relative-clauses"
+    explain: "Комментарий ко всему предыдущему предложению → **, which**. *that* не ставится после запятой, *what* не относится к предыдущему."
+  - q: "Please don't phone at eight — we ___ dinner then."
+    options: ["will have had", "will be having", "had", "would have"]
+    answer: 1
+    topic: "c1-01-sentences-tenses"
+    explain: "Действие будет **в процессе** в конкретный момент будущего (*at eight*) → **Future Continuous**. *will have had* значило бы, что к восьми ужин уже закончится."
+  - q: "Despite the thick fog, the pilot ___ land the plane safely."
+    options: ["can", "could", "might", "was able to"]
+    answer: 3
+    topic: "c1-02-modals"
+    explain: "Одно конкретное удавшееся действие в прошлом → **was able to / managed to**. Утвердительное *could* — только общая способность (*I could swim at five*)."
+  - q: "___ for your help, we would never have finished on time."
+    options: ["Unless it had been", "If there hadn't been", "If it hadn't been", "Had it not"]
+    answer: 2
+    topic: "c1-14-conditionals"
+    explain: "**If it hadn't been for** = «если бы не». Инверсия возможна, но целиком: *Had it not been for*."
+  - q: "I wonder ___ we'll have enough time to see everything."
+    options: ["unless", "that", "whether", "what"]
+    answer: 2
+    topic: "c1-12-noun-clauses"
+    explain: "*wonder* вводит косвенный вопрос «ли» → **whether** (или *if*). *wonder that* — устаревшее «удивляться, что»."
+  - q: "___ of the students was given a different task."
+    options: ["Each", "Both", "Every", "All"]
+    answer: 0
+    topic: "c1-06-determiners"
+    explain: "Перед *of the …* — **each**; *every of* невозможно. *All / both of the students* потребовали бы *were*."
+  - q: "The government has ___ a number of measures to reduce air pollution."
+    options: ["made", "introduced", "put", "done"]
+    answer: 1
+    topic: "c1-17-use-of-english"
+    explain: "Коллокация **introduce / take measures**. *make measures* и *do measures* — кальки с русского."
+  - q: "Please make sure the documents reach us ___ Friday at the latest."
+    options: ["by", "since", "till", "until"]
+    answer: 0
+    topic: "c1-09-prepositions"
+    explain: "Срок, **не позже** которого → **by**. *until / till* — действие длится вплоть до момента: *wait until Friday*."
+  - q: "We're planning a ___ holiday in Portugal."
+    options: ["two-weeks", "two-week", "two-weeks'", "two weeks"]
+    answer: 1
+    topic: "c1-05-articles-nouns"
+    explain: "Числительное + существительное перед другим существительным — составное прилагательное через дефис и **без -s**: *a two-week holiday, a ten-minute walk*."
+  - q: "It's no use ___ about it now — the decision has already been made."
+    options: ["complain", "complaining", "to complain", "for complaining"]
+    answer: 1
+    topic: "c1-10-infinitives-gerunds"
+    explain: "Устойчивое **It's no use / no good + -ing**: *It's no use crying over spilt milk*."
+  - q: "There's ___ milk left — we'll have to buy some on the way home."
+    options: ["any hardly", "hardly any", "hardly no", "not hardly any"]
+    answer: 1
+    topic: "c1-03-negatives-questions"
+    explain: "*hardly* уже отрицательное, поэтому дальше **any**, а не *no*: **hardly any** = «почти нет». *hardly no / not hardly* — двойное отрицание."
+  - q: "The more you practise, ___ you'll become."
+    options: ["the most confident", "the confident more", "the more confident", "more confident"]
+    answer: 2
+    topic: "c1-08-adjectives-adverbs"
+    explain: "Парное сравнение **the + сравнительная …, the + сравнительная**: *The more you practise, the more confident you'll become*."

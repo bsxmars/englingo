@@ -1,0 +1,38 @@
+title: "Собери предложение: частицы и существительные"
+type: order
+intro: "Собери предложение из слов. Следи, где стоит частица, и не путай глагол (*break down*) с существительным (*a breakdown*)."
+hints:
+  - "turn out that / turn out to be — оказаться."
+  - "Местоимение — между глаголом и частицей: let me down, hand it over."
+  - "end up + -ing, keep on + -ing."
+items:
+  - q: "«Оказалось, что встречу перенесли» (it, out)."
+    answers: ["It turned out that the meeting had been moved"]
+    explain: "**It turned out that** + придаточное. Перенос случился раньше, чем выяснилось, поэтому Past Perfect Passive."
+  - q: "«Не подведи меня на этот раз»."
+    answers: ["Don't let me down this time", "This time don't let me down"]
+    explain: "**let down** — подвести; местоимение *me* стоит между глаголом и частицей."
+  - q: "«Мы в итоге заказали пиццу»."
+    answers: ["We ended up ordering pizza"]
+    explain: "**end up** + *-ing*: *ended up **ordering***."
+  - q: "«Пожар вспыхнул на кухне посреди ночи»."
+    answers: ["A fire broke out in the kitchen in the middle of the night", "In the middle of the night a fire broke out in the kitchen"]
+    explain: "**break out** — непереходный: дополнения нет, сразу обстоятельство места."
+  - q: "«Поломка обошлась нам в пятьсот евро»."
+    answers: ["The breakdown cost us five hundred euros"]
+    explain: "*The breakdown* — подлежащее-существительное; сказуемое *cost us* (Past Simple, форма совпадает с базовой)."
+  - q: "«Новый владелец захватил контроль над компанией в мае»."
+    answers: ["The new owner took over the company in May", "The new owner took the company over in May", "In May the new owner took over the company"]
+    explain: "**take over** — фразовый, существительное можно поставить и до, и после частицы."
+  - q: "«Действие кофе прошло через час»."
+    answers: ["The effect of the coffee wore off after an hour"]
+    explain: "**wear off** — постепенно пройти. Глагол непереходный, после него — обстоятельство времени."
+  - q: "«Исход переговоров всё ещё неясен»."
+    answers: ["The outcome of the negotiations is still unclear"]
+    explain: "**the outcome of** sth — итог; *still* стоит после *is*."
+  - q: "«Ты должен передать ключи новому арендатору» (them)."
+    answers: ["You have to hand them over to the new tenant"]
+    explain: "**hand over** — передать; местоимение *them* — внутри, получатель — после *to*."
+  - q: "«Её упорная работа в итоге окупилась»."
+    answers: ["Her hard work paid off in the end", "In the end her hard work paid off"]
+    explain: "**pay off** — окупиться, дать результат. *in the end* — в конце предложения или в начале."

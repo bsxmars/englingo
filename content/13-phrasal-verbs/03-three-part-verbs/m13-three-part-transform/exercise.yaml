@@ -1,0 +1,69 @@
+title: "Перефразирование: трёхчастные глаголы (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое). Почти везде нужен глагол из трёх частей.
+hints:
+  - "tolerate = put up with, invent = come up with, reduce = cut down on, compensate = make up for, respect = look up to."
+  - "Трёхчастный глагол не разделяется: дополнение — после предлога."
+  - "После look forward to — форма -ing."
+items:
+  - q: "I find it hard to tolerate my colleague's constant complaining."
+    key: "PUT"
+    stem: "I find it hard to ___ my colleague's constant complaining."
+    answers: ["put up with"]
+    explain: "*tolerate* = **put up with**. Глагол не разделяется: *put up with* + дополнение."
+  - q: "The printer has no more paper in it."
+    key: "RUN"
+    stem: "The printer ___ paper."
+    answers: ["has run out of", "has completely run out of", "is running out of"]
+    explain: "«Закончилось» → **run out of** + то, чего не осталось. Present Perfect — результат сейчас."
+  - q: "The hotel wasn't as good as we had expected."
+    key: "LIVE"
+    stem: "The hotel didn't ___ expectations."
+    answers: ["live up to our", "live up to my", "live up to the"]
+    explain: "**live up to** (one's) expectations — оправдать ожидания. *to* здесь предлог, после него существительное."
+  - q: "My doctor advised me to eat less salt."
+    key: "CUT"
+    stem: "My doctor advised me to ___ salt."
+    answers: ["cut down on", "cut back on"]
+    explain: "*eat less* = **cut down on** (или *cut back on*). Без *on* смысл теряется: ~~cut down salt~~."
+  - q: "Who invented the idea of a shared office kitchen?"
+    key: "CAME"
+    stem: "Who ___ the idea of a shared office kitchen?"
+    answers: ["came up with"]
+    explain: "Придумать идею → **come up with**. В вопросе о подлежащем вспомогательный *did* не нужен: *Who came up with…?*"
+  - q: "I can't wait to start my new job."
+    key: "FORWARD"
+    stem: "I'm really ___ my new job."
+    answers: ["looking forward to starting"]
+    explain: "*can't wait* = **look forward to** + *-ing*: *looking forward to **starting***."
+  - q: "My sister and her husband have a very good relationship with their neighbours."
+    key: "GET"
+    stem: "My sister and her husband ___ their neighbours."
+    answers: ["get on very well with", "get along very well with", "get on well with", "get along well with", "really get on with", "get on really well with", "get along really well with"]
+    explain: "Хорошо ладить → **get on (well) with** / *get along with*. Наречие *well* встаёт между частицей и предлогом."
+  - q: "She never kept the promise she made to help us."
+    key: "WENT"
+    stem: "She ___ her promise to help us."
+    answers: ["went back on"]
+    explain: "Нарушить обещание → **go back on** one's promise / word."
+  - q: "He bought her flowers because he wanted to compensate for forgetting her birthday."
+    key: "MAKE"
+    stem: "He bought her flowers to ___ her birthday."
+    answers: ["make up for forgetting", "make up for having forgotten"]
+    explain: "*compensate for* = **make up for** + *-ing*. После предлога *for* — герундий: *forgetting*."
+  - q: "All the younger players admire and respect the captain."
+    key: "LOOK"
+    stem: "All the younger players ___ the captain."
+    answers: ["look up to"]
+    explain: "Уважать, равняться на → **look up to**. Антоним — *look down on* (смотреть свысока)."
+  - q: "I meant to clean the garage, but I never found the time to do it."
+    key: "ROUND"
+    stem: "I never ___ the garage."
+    answers: ["got round to cleaning", "got round to tidying"]
+    explain: "**get round to** + *-ing* — наконец найти время на то, что давно откладывал. *to* — предлог, отсюда *cleaning*."
+  - q: "He cheated in the exam and wasn't punished."
+    key: "AWAY"
+    stem: "He cheated in the exam and ___ it."
+    answers: ["got away with"]
+    explain: "Избежать наказания → **get away with** sth. Дополнение *it* — после предлога, в конце."

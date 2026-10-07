@@ -1,0 +1,40 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: в отрицании, в реакции «я тоже» или в *I think so / I hope not*. Исправь предложение целиком."
+hints:
+  - "So / Neither + вспомогательный + подлежащее."
+  - "После don't / doesn't / didn't — начальная форма глагола."
+items:
+  - q: "I love this café, and so my sister does."
+    answers: ["I love this café, and so does my sister."]
+    explain: "После **so** — сначала вспомогательный, потом подлежащее: *so does my sister*."
+  - q: "Tom can't swim, and neither Anna can."
+    answers: ["Tom can't swim, and neither can Anna.", "Tom can't swim, and nor can Anna."]
+    explain: "**neither / nor** + вспомогательный + подлежащее: *neither can Anna*."
+  - q: "Smoking is no allowed anywhere in the building."
+    answers: ["Smoking is not allowed anywhere in the building.", "Smoking isn't allowed anywhere in the building."]
+    explain: "**no** ставится перед существительным (*No smoking*), а с глаголом и причастием — **not**."
+  - q: "She doesn't likes getting up early."
+    answers: ["She doesn't like getting up early."]
+    explain: "После *doesn't* — начальная форма без *-s*: **like**."
+  - q: "We didn't went out last night because of the rain."
+    answers: ["We didn't go out last night because of the rain."]
+    explain: "Прошедшее время уже выражено в *didn't* → глагол в начальной форме: **go**."
+  - q: "Why you don't ask your manager for a day off?"
+    answers: ["Why don't you ask your manager for a day off?"]
+    explain: "**Why don't you…?** — предложение-совет; порядок как в вопросе: *don't* перед подлежащим."
+  - q: "My parents didn't enjoy the trip, and I didn't too."
+    answers: ["My parents didn't enjoy the trip, and I didn't either.", "My parents didn't enjoy the trip, and neither did I.", "My parents didn't enjoy the trip, and nor did I."]
+    explain: "*too* — только в утверждениях. В отрицании «тоже не» — **either** или **neither did I**."
+  - q: "I'm not sure it'll work, but I hope it."
+    answers: ["I'm not sure it'll work, but I hope so.", "I'm not sure it will work, but I hope so."]
+    explain: "Вместо повторения мысли после *hope* ставим **so**, а не *it*."
+  - q: "It might rain tomorrow, but I don't hope so."
+    answers: ["It might rain tomorrow, but I hope not."]
+    explain: "С **hope** отрицание только через *not*: **I hope not**."
+  - q: "I'm working tomorrow, but my brother doesn't."
+    answers: ["I'm working tomorrow, but my brother isn't.", "I'm working tomorrow, but my brother is not."]
+    explain: "Вспомогательный повторяем из первой части: *am working* → **isn't** (не *doesn't*)."
+  - q: "I haven't no idea where he is."
+    answers: ["I have no idea where he is.", "I haven't any idea where he is.", "I don't have any idea where he is."]
+    explain: "Одно отрицание на предложение: **I have no idea** или *I don't have any idea*."

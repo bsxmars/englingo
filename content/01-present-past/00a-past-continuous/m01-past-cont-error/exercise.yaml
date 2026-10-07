@@ -1,0 +1,43 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка. Исправь её и отправь предложение целиком."
+hints:
+  - "Проверь, есть ли момент, на фоне которого шло действие."
+  - "После did — базовая форма; while + процесс; глаголы состояния без -ing."
+items:
+  - q: "Yesterday I was getting up at seven, had breakfast and went to work."
+    answers: ["Yesterday I got up at seven, had breakfast and went to work."]
+    explain: "Перечисление действий по порядку → все в Past Simple: **got up**."
+  - q: "When I came into the office, everyone was talk about the news."
+    answers: ["When I came into the office, everyone was talking about the news."]
+    explain: "Past Continuous = *was* + **-ing**: *was talking*."
+  - q: "While I walked to the station, I met an old friend."
+    answers: ["While I was walking to the station, I met an old friend."]
+    explain: "**While** вводит длинный фон → Past Continuous: *was walking*."
+  - q: "Did you saw the match last night?"
+    answers: ["Did you see the match last night?"]
+    explain: "После **did** — глагол в базовой форме: *did you see*."
+  - q: "I was wanting to call you, but my battery died."
+    answers: ["I wanted to call you, but my battery died."]
+    explain: "*want* — глагол состояния → **wanted**."
+  - q: "The kids were sleeping when the storm was starting."
+    answers: ["The kids were sleeping when the storm started."]
+    explain: "Короткое событие, прервавшее сон → Past Simple: **started**."
+  - q: "The phone was ringing three times while I was in the shower."
+    answers: ["The phone rang three times while I was in the shower."]
+    explain: "Считаем законченные события (*three times*) → Past Simple: **rang**. Continuous с количеством раз не сочетается."
+  - q: "We was driving through the mountains when the car broke down."
+    answers: ["We were driving through the mountains when the car broke down."]
+    explain: "С *we* — **were**: *we were driving*."
+  - q: "During I was waiting for the doctor, I read a magazine."
+    answers: ["While I was waiting for the doctor, I read a magazine.", "As I was waiting for the doctor, I read a magazine.", "When I was waiting for the doctor, I read a magazine."]
+    explain: "**during** — предлог, после него существительное (*during the wait*). Перед придаточным с подлежащим и глаголом нужен союз **while / as**."
+  - q: "This old watch was belonging to my great-grandfather."
+    answers: ["This old watch belonged to my great-grandfather."]
+    explain: "*belong* — глагол состояния → **belonged**."
+  - q: "My flatmate always was complaining about the noise."
+    answers: ["My flatmate was always complaining about the noise."]
+    explain: "*always* стоит **между** *was* и *-ing*: *was always complaining*."
+  - q: "I didn't hear you because I listened to music on my headphones."
+    answers: ["I didn't hear you because I was listening to music on my headphones."]
+    explain: "Музыка играла в тот момент, когда ты говорил → фон → **was listening**."

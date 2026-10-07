@@ -1,0 +1,32 @@
+title: "Отзыв на фильм или сериал"
+type: writing
+prompt: |
+  You see this announcement on an English-language film website.
+
+  > **Reviews wanted!**
+  > Have you watched a film or a series recently that really made you think? Write a review telling us what it is about, what you thought of the characters and the acting, and whether you would recommend it to other viewers.
+
+  Write your **review** (140–190 words). Report at least two things the characters say, using reported speech and reporting verbs.
+words: [140, 190]
+target_grammar:
+  - "Косвенная речь в настоящем без сдвига (she tells him that…, he admits that…)"
+  - "Reporting verbs: admit, deny, accuse sb of, refuse, promise, reply"
+  - "recommend / suggest + -ing"
+checklist:
+  - "Есть цепляющий заголовок и четыре абзаца: вступление, сюжет, оценка, рекомендация."
+  - "Сюжет пересказан в Present Simple, концовка не раскрыта."
+  - "Минимум две реплики героев переданы косвенной речью, использованы минимум два разных reporting verb (не только say)."
+  - "После recommend / suggest стоит -ing или that-придаточное, а не инфинитив."
+  - "В оценке есть и плюсы, и минусы, связанные словами although / however / what I loved was."
+  - "Регистр полунейтральный: обращение к читателю допустимо, сленга нет."
+  - "Объём 140–190 слов."
+model_answer: |
+  **The Last Shift: a hospital drama that refuses to play it safe**
+
+  If you think you have seen every hospital series, *The Last Shift* will make you think again. Set in a small hospital in the north of Scotland, it follows Dr Anna Reid during her final month before retirement.
+
+  The plot is simple but gripping. In the first episode, a young patient accuses Anna of making a mistake that nearly cost him his life. At first she denies it, but later she admits that she had been too exhausted to check his notes properly. What I loved is that the series never tells us whether she is a hero or a villain. When her daughter asks her why she still works night shifts, Anna replies that she doesn't know how to do anything else, a line that stayed with me for days.
+
+  The acting is outstanding, although the last two episodes feel rather rushed.
+
+  Overall, I would strongly recommend watching it if you enjoy slow, character-driven stories. My advice is to watch it in order and not to read any reviews that might spoil the ending!

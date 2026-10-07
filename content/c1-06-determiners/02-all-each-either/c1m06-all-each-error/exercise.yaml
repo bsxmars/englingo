@@ -1,0 +1,41 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка в определителе или согласовании. Исправь её и отправь предложение целиком."
+hints:
+  - "the whole of + название места; whole — только с исчисляемыми в ед. ч."
+  - "almost / nearly + every, а не each; every + число + мн. ч."
+  - "all / both: после be и первого вспомогательного, перед смысловым глаголом."
+items:
+  - q: "The flooding affected the whole Netherlands."
+    answers: ["The flooding affected the whole of the Netherlands.", "The flooding affected all of the Netherlands.", "The flooding affected all the Netherlands."]
+    explain: "Перед названием места (даже с *the*) — **the whole of**: *the whole of the Netherlands*. Или *all (of) the Netherlands*."
+  - q: "They spent the whole money on legal fees."
+    answers: ["They spent all the money on legal fees.", "They spent all of the money on legal fees.", "They spent all their money on legal fees.", "They spent all of their money on legal fees."]
+    explain: "*whole* не сочетается с неисчисляемыми: ~~the whole money~~ → **all the money**."
+  - q: "Almost each household in the village owns a car."
+    answers: ["Almost every household in the village owns a car.", "Nearly every household in the village owns a car."]
+    explain: "После *almost / nearly* — только **every**: *almost every household*."
+  - q: "Every of the applicants will be notified by email."
+    answers: ["Every one of the applicants will be notified by email.", "Each of the applicants will be notified by email.", "Each one of the applicants will be notified by email.", "All of the applicants will be notified by email.", "All the applicants will be notified by email.", "Every applicant will be notified by email."]
+    explain: "~~every of~~ не бывает: **every one of** / **each of** the applicants, или просто *every applicant*."
+  - q: "Each of the participants were given a unique code."
+    answers: ["Each of the participants was given a unique code.", "The participants were each given a unique code.", "Each participant was given a unique code."]
+    explain: "После **each of** глагол — в единственном числе: *Each of the participants **was** given…*"
+  - q: "All we know that the project is behind schedule."
+    answers: ["We all know that the project is behind schedule.", "All of us know that the project is behind schedule.", "We all know the project is behind schedule.", "All we know is that the project is behind schedule."]
+    explain: "*All we know* значит «всё, что мы знаем». «Мы все знаем» → ***We all** know* или ***All of us** know*. Возможна и другая правка — *All we know **is** that…* («единственное, что мы знаем»)."
+  - q: "The two sisters have worked both in publishing."
+    answers: ["The two sisters have both worked in publishing.", "Both sisters have worked in publishing.", "Both of the sisters have worked in publishing.", "Both the sisters have worked in publishing."]
+    explain: "*both* «плавает» как наречие частотности: после первого вспомогательного и перед смысловым глаголом: *have **both** worked*."
+  - q: "The museum is open every days except Monday."
+    answers: ["The museum is open every day except Monday.", "The museum is open every day except Mondays."]
+    explain: "*every* + единственное число: **every day**. Множественное — только с числом: *every two days*."
+  - q: "You can park on both side of the street after 7 p.m."
+    answers: ["You can park on either side of the street after 7 p.m.", "You can park on both sides of the street after 7 p.m."]
+    explain: "*both* требует множественного числа (*both sides*). Или **either side** — с единственным, в значении «с обеих сторон»."
+  - q: "The meeting lasted a half of hour longer than planned."
+    answers: ["The meeting lasted half an hour longer than planned.", "The meeting lasted a half hour longer than planned."]
+    explain: "*half* стоит **перед** артиклем: **half an hour**. Вариант *a half hour* тоже встречается (особенно в американском английском), но ~~a half of hour~~ — ошибка."
+  - q: "We have every confidences in the new management team."
+    answers: ["We have every confidence in the new management team.", "We have complete confidence in the new management team.", "We have full confidence in the new management team."]
+    explain: "*every* + абстрактное неисчисляемое = «полное, всяческое»: **every confidence**. *confidence* здесь неисчисляемое, без *-s*."

@@ -1,0 +1,43 @@
+title: "Образуй наречие: viewpoint, comment, degree"
+type: gap
+intro: "Образуй от слова в скобках **наречие**, подходящее по смыслу, и впиши его в пропуск."
+hints:
+  - "Существительное → прилагательное → наречие: finance → financial → financially; statistic → statistical → statistically."
+  - "Не все наречия значат то же, что прилагательное: hard → hardly («едва»)."
+items:
+  - q: "___ (environment), the new motorway would be a disaster."
+    answers: ["Environmentally"]
+    explain: "Viewpoint adverb «с точки зрения экологии»: *environment → environmental → **environmentally***."
+  - q: "The house is ___ (structure) sound, but it needs complete redecoration."
+    answers: ["structurally"]
+    explain: "*structurally sound* — «с точки зрения конструкции крепкий». Устойчивое сочетание из отчётов об осмотре зданий."
+  - q: "___ (surprise), nobody objected to the price increase."
+    answers: ["Surprisingly"]
+    explain: "Comment adverb в начале с запятой: реакция говорящего на факт."
+  - q: "The idea is ___ (technique) feasible but far too expensive."
+    answers: ["technically"]
+    explain: "*technique → technical → **technically***: «технически осуществим»."
+  - q: "___ (understand), local residents are furious about the night flights."
+    answers: ["Understandably"]
+    explain: "**Understandably** — «что вполне понятно»: говорящий одобряет реакцию."
+  - q: "He is, ___ (admit), very experienced, but he's hopeless at managing people."
+    answers: ["admittedly"]
+    explain: "**admittedly** — уступка перед *but*: «надо признать, опыта у него много»."
+  - q: "The portrait was ___ (suppose) painted by Rembrandt, but experts now doubt it."
+    answers: ["supposedly"]
+    explain: "**supposedly** — «якобы»: говорящий (и эксперты) сомневаются."
+  - q: "On paper the two candidates are ___ (virtue) identical."
+    answers: ["virtually"]
+    explain: "**virtually** = *almost*: «практически одинаковы». От *virtue* через *virtual*."
+  - q: "___ (statistic), you are far safer in a plane than in a car."
+    answers: ["Statistically"]
+    explain: "Viewpoint «с точки зрения статистики»: *statistic → statistical → **statistically***."
+  - q: "We were ___ (pleasant) surprised by how good the food was."
+    answers: ["pleasantly"]
+    explain: "Наречие степени/образа перед причастием: **pleasantly surprised** — устойчивое сочетание."
+  - q: "___ (hope), the rain will have stopped by the time we land."
+    answers: ["Hopefully"]
+    explain: "**Hopefully** в начале = «будем надеяться» — comment adverb, стандартный в современном английском."
+  - q: "She is so patient that she ___ (hard) ever complains."
+    answers: ["hardly"]
+    explain: "**hardly ever** — «почти никогда». *hard* как наречие значит «усердно», а *hardly* — «едва»."

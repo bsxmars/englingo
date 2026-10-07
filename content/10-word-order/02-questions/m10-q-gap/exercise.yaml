@@ -1,0 +1,44 @@
+title: "Вопросы и question tags"
+type: gap
+intro: |
+  В пунктах 1–7 построй вопрос из слов в скобках, поставив глагол в нужную форму. В пунктах 8–12 допиши разделительный вопрос (question tag). Сокращения засчитываются.
+hints:
+  - "Если who / what / how many — подлежащее, вспомогательный глагол не нужен."
+  - "Утверждение → отрицательный tag, отрицание → положительный."
+items:
+  - q: "— ___ (who / call) you last night? — My boss called me."
+    answers: ["Who called"]
+    explain: "Ответ *My boss called* — *who* здесь подлежащее → без *did*: **Who called you?**"
+  - q: "— Who ___ (you / call) last night? — I called my boss."
+    answers: ["did you call"]
+    explain: "Ответ *I called my boss* — *who* здесь дополнение (кому?) → нужен *did*: **Who did you call?**"
+  - q: "— What ___ (happen) at the meeting? — Nothing interesting."
+    answers: ["happened"]
+    explain: "*What* — подлежащее (что случилось?) → **What happened?**, без *did*."
+  - q: "— How many people ___ (come) to your party? — About twenty."
+    answers: ["came"]
+    explain: "*How many people* — подлежащее (кто пришёл) → **came**, без *did*."
+  - q: "— Who ___ (this laptop / belong) to? — I think it's Sarah's."
+    answers: ["does this laptop belong"]
+    explain: "Подлежащее — *this laptop*, *who* — дополнение предлога *to* → *does*. Предлог остаётся в конце: **Who does this laptop belong to?**"
+  - q: "— What ___ (you / look) at? — There's a huge spider on the wall!"
+    answers: ["are you looking"]
+    explain: "Действие прямо сейчас → Present Continuous; предлог **at** уходит в конец вопроса."
+  - q: "— Where ___ (your parents / come) from? — From Novosibirsk."
+    answers: ["do your parents come"]
+    explain: "Present Simple, подлежащее *your parents* → **do**. Предлог **from** — в конце."
+  - q: "You're coming to the party on Saturday, ___?"
+    answers: ["aren't you"]
+    explain: "Утверждение с *are* → отрицательный tag **aren't you**."
+  - q: "She doesn't eat meat, ___?"
+    answers: ["does she"]
+    explain: "Отрицание *doesn't* → положительный tag **does she**."
+  - q: "I'm late again, ___?"
+    answers: ["aren't I", "am I not"]
+    explain: "Особый случай: для *I am* tag — **aren't I**. Формы ~~amn't I~~ нет; *am I not* существует, но звучит очень формально."
+  - q: "Let's order a pizza, ___?"
+    answers: ["shall we"]
+    explain: "После *Let's* — всегда **shall we**."
+  - q: "Nobody called while I was out, ___?"
+    answers: ["did they"]
+    explain: "*Nobody* уже отрицание → tag положительный; о *nobody / somebody* в tag говорят **they**: **did they**."

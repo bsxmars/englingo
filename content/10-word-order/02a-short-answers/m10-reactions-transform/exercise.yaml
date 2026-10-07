@@ -1,0 +1,58 @@
+title: "Перефразирование: реакции и согласие"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "So + вспомогательный + подлежащее — «я тоже»; Neither / Nor — «я тоже не»."
+  - "I think so / I hope not / I'm afraid not — так говорят вместо повторения всего предложения."
+items:
+  - q: "Anna loves jazz, and her husband loves it too."
+    key: "DOES"
+    stem: "Anna loves jazz, and ___ husband."
+    answers: ["so does her"]
+    explain: "«И он тоже» после утверждения → **so + does + подлежащее**: *so does her husband*."
+  - q: "I haven't seen the new series, and Tom hasn't either."
+    key: "NEITHER"
+    stem: "I haven't seen the new series, and ___ Tom."
+    answers: ["neither has"]
+    explain: "«И он тоже не» → **neither + вспомогательный + подлежащее**. Вспомогательный — тот же, что в первой части (*have*), в форме *has*."
+  - q: "My sister can't drive, and I can't drive either."
+    key: "NOR"
+    stem: "My sister can't drive, and ___."
+    answers: ["nor can I"]
+    explain: "**nor** = *neither*: *nor can I*. После *nor* — инверсия, модальный *can* перед *I*."
+  - q: "— Will it rain tomorrow? — I don't want it to rain."
+    key: "HOPE"
+    stem: "— Will it rain tomorrow? — I ___."
+    answers: ["hope not"]
+    explain: "Надеюсь, что нет → **I hope not**. ~~I don't hope so~~ так не говорят."
+  - q: "— Is the museum open on Mondays? — Unfortunately, it isn't."
+    key: "AFRAID"
+    stem: "— Is the museum open on Mondays? — I'm ___."
+    answers: ["afraid not"]
+    explain: "Вежливое сожалеющее «нет» → **I'm afraid not**."
+  - q: "— Did you enjoy the concert? — No, I didn't, but my friends enjoyed it."
+    key: "DID"
+    stem: "— Did you enjoy the concert? — I didn't, but my ___."
+    answers: ["friends did"]
+    explain: "Не повторяем глагол: короткий ответ с **did** заменяет *enjoyed it*."
+  - q: "— Are you coming to the party? — I think I am."
+    key: "SO"
+    stem: "— Are you coming to the party? — I ___."
+    answers: ["think so", "guess so", "suppose so", "expect so"]
+    explain: "«Думаю, да» → **I think so**: *so* заменяет всё придаточное (*that I am coming*)."
+  - q: "I'm not very good at maths, and my brother isn't either."
+    key: "IS"
+    stem: "I'm not very good at maths, and ___ my brother."
+    answers: ["neither is", "nor is"]
+    explain: "Первая часть с *be* → **neither is / nor is** my brother."
+  - q: "— Is Mark coming? — I don't think he is."
+    key: "THINK"
+    stem: "— Is Mark coming? — I ___."
+    answers: ["don't think so", "do not think so"]
+    explain: "«Думаю, нет» с *think* — обычно **I don't think so** (а не *I think not* в разговоре)."
+  - q: "Tom went to the conference, and his boss went too."
+    key: "SO"
+    stem: "Tom went to the conference, and ___ boss."
+    answers: ["so did his"]
+    explain: "Прошедшее время без вспомогательного → в реакции **did**: *so did his boss*."

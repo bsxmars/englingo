@@ -1,0 +1,83 @@
+title: "Who really said that?"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. Вопросы с вариантами — в стиле C1 Advanced, Part 5; в остальных впиши слово или фразу из текста."
+hints:
+  - "Вопросы идут в порядке текста."
+  - "Обращай внимание на reporting verbs: они показывают, согласен ли автор с тем, что пересказывает."
+text: |
+  ## Who really said that?
+
+  Every few weeks, a quotation goes round social media attached to a name that lends it authority. Einstein is a favourite; so are Churchill, Gandhi and Mark Twain. The words are usually wise, occasionally funny and frequently invented. Fact-checkers estimate — admittedly without much precision — that a large proportion of the quotations shared online are either misattributed or so heavily edited that their supposed author would barely recognise them.
+
+  Some of the most famous lines in the language fall into this category. Marie Antoinette is widely believed to have said "Let them eat cake" when she was told that the people of Paris had no bread. Historians point out, however, that a version of the phrase appears in the memoirs of Jean-Jacques Rousseau, written when the future queen was still a child in Austria. Sherlock Holmes never says "Elementary, my dear Watson" in any of the stories Arthur Conan Doyle wrote, and in *Casablanca* nobody asks the pianist to "play it again". The line is simply "Play it, Sam" — and it is spoken by Ingrid Bergman, not Humphrey Bogart.
+
+  Why do such errors survive? One reason, researchers suggest, is that a quotation behaves less like a fact than like a story. Each time it is retold, it is smoothed a little: awkward words are dropped, the rhythm is improved, and the speaker is upgraded to someone more memorable. A remark originally made by an obscure nineteenth-century clergyman may end up, a century later, in the mouth of Abraham Lincoln. Nobody involved need be lying. Each person in the chain simply reports what they believe they heard, and the version that is easiest to remember wins.
+
+  Journalists are supposed to be the last line of defence against this drift, and good ones take the job seriously. Most newsrooms insist that direct quotations be reproduced word for word, and many require reporters to keep recordings of their interviews. Even so, the boundary between quoting and paraphrasing is less clear than readers might assume. When a politician says, "I am not, at this stage, ruling anything out," a headline announcing that the minister has refused to rule out a tax rise is technically accurate. Whether it is fair is another question. The choice of reporting verb does a great deal of quiet work: a speaker who "claims" something sounds less trustworthy than one who "states" it, and one who "admits" something sounds as though they have been caught out.
+
+  Interviewees, for their part, have learned to fight back. It is now common for public figures to publish full transcripts of their interviews, inviting readers to judge for themselves whether they were quoted out of context. Some go further and refuse to speak to journalists at all unless they are allowed to approve their quotes before publication — a practice that many editors regard as unacceptable, on the grounds that it turns journalism into public relations.
+
+  For ordinary readers, the lesson is not that every quotation should be distrusted, but that a famous name attached to a neat sentence is a reason for curiosity rather than confidence. A few minutes with a search engine is often enough to establish whether a line appears in a writer's published work, and there are websites devoted entirely to tracing popular quotations to their sources. The most useful question to ask is a simple one: where, exactly, did they say it? If nobody can tell you, there is a good chance that they never did.
+
+  There is an irony here worth noting. Some of the sentences we most enjoy quoting are better than anything their supposed authors actually said. "Be the change you wish to see in the world" is a far snappier line than anything Gandhi is known to have written on the subject, although it does reflect ideas he expressed at much greater length. Perhaps that is why such quotations are so hard to kill. We do not repeat them because they are true; we repeat them because we wish they were.
+items:
+  - q: "What does the writer suggest about quotations shared online in the first paragraph?"
+    options:
+      - "Most of them are deliberately invented to mislead readers."
+      - "Many are unreliable, although the exact extent of the problem is unclear."
+      - "Fact-checkers have proved that the majority are inaccurate."
+      - "Only quotations from scientists tend to be misattributed."
+    answer: 1
+    explain: "*admittedly without much precision* — масштаб оценён приблизительно, но *a large proportion* недостоверны. Слово *proved* в варианте C слишком сильное; о намеренном обмане речи нет."
+  - q: "The examples in the second paragraph are used to show that"
+    options:
+      - "film quotations are more often wrong than literary ones."
+      - "historians disagree about what Marie Antoinette said."
+      - "even extremely well-known lines may be inaccurate or wrongly attributed."
+      - "writers often borrow phrases from one another."
+    answer: 2
+    explain: "Абзац начинается с *Some of the most famous lines… fall into this category* — примеры иллюстрируют, что ошибочны даже самые известные цитаты."
+  - q: "What does the writer mean by 'Nobody involved need be lying'?"
+    options:
+      - "Quotations can become distorted without anyone being dishonest."
+      - "People who spread false quotations should not be criticised."
+      - "Most misquotations are eventually corrected."
+      - "It is impossible to know who first changed a quotation."
+    answer: 0
+    explain: "Следующее предложение: каждый передаёт то, что, как ему кажется, слышал. Искажение возникает без намеренной лжи."
+  - q: "The example of the politician and the headline illustrates that"
+    options:
+      - "politicians often refuse to answer questions directly."
+      - "headlines are usually inaccurate."
+      - "a report can be accurate and still create a misleading impression."
+      - "journalists should always use direct quotations in headlines."
+    answer: 2
+    explain: "*technically accurate. Whether it is fair is another question* — формально верно, но может вводить в заблуждение."
+  - q: "According to the fifth paragraph, why do many editors object to quote approval?"
+    options:
+      - "It takes too long and delays publication."
+      - "It allows the subject of an interview to control the story."
+      - "It encourages public figures to publish transcripts."
+      - "It makes interviews less interesting to read."
+    answer: 1
+    explain: "*it turns journalism into public relations* — интервьюируемый начинает управлять материалом, как пиарщик."
+  - q: "What point does the writer make in the final paragraph?"
+    options:
+      - "Popular quotations should be replaced with accurate ones."
+      - "Gandhi's ideas have been widely misunderstood."
+      - "People value some misquotations for what they express rather than for their accuracy."
+      - "Shorter quotations are more likely to be genuine."
+    answer: 2
+    explain: "*We do not repeat them because they are true; we repeat them because we wish they were* — ценность цитаты в том, что она выражает."
+  - q: "Find a word in the first paragraph that means 'wrongly said to have been written or said by a particular person'."
+    answers: ["misattributed"]
+    explain: "*misattributed* — ошибочно приписанный. Приставка *mis-* + *attribute* (приписывать)."
+  - q: "Find a phrase in the fourth paragraph that means 'shown to have done something wrong'."
+    answers: ["caught out", "been caught out", "have been caught out"]
+    explain: "*to be caught out* — попасться, быть уличённым. Автор объясняет, почему *admits* звучит как признание вины."
+  - q: "Find a phrase in the fifth paragraph that describes words repeated without the situation that explains their meaning."
+    answers: ["out of context", "quoted out of context"]
+    explain: "*to quote sb out of context* — вырвать слова из контекста."
+  - q: "Which reporting verb in the fourth paragraph, according to the writer, makes a speaker sound less trustworthy than 'states'?"
+    answers: ["claims", "claim"]
+    explain: "*a speaker who **claims** something sounds less trustworthy* — *claim* выражает сомнение пересказчика."

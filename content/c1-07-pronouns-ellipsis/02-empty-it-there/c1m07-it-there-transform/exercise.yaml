@@ -1,0 +1,66 @@
+title: "Перефразирование (C1 Advanced, Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+
+  Пустые *it* и *there* — частая тема Part 4: экзаменаторы любят переводить личную конструкцию в безличную и обратно.
+hints:
+  - "People think there are… → There are thought to be…"
+  - "I can't believe it easily → I find it hard to believe…"
+  - "It looks as if there was a mistake → There seems / appears to have been a mistake."
+items:
+  - q: "Apparently somebody made an error when the data was entered."
+    key: "SEEMS"
+    stem: "There ___ error when the data was entered."
+    answers: ["seems to have been an", "seems to have been some"]
+    explain: "Существование ошибки в прошлом + оценка сейчас → *There **seems to have been an** error*. Перфектный инфинитив показывает, что ошибка была раньше."
+  - q: "Complaining to the manager won't change anything."
+    key: "USE"
+    stem: "It's ___ to the manager."
+    answers: ["no use complaining", "not any use complaining"]
+    explain: "**It's no use + -ing** = «бесполезно что-то делать». После *no use* — герундий."
+  - q: "I can't really believe that she turned the offer down."
+    key: "HARD"
+    stem: "I find ___ that she turned the offer down."
+    answers: ["it hard to believe", "it very hard to believe", "it rather hard to believe", "it quite hard to believe"]
+    explain: "*find + **it** + adj + to-infinitive*: *I find it hard to believe…* Пустое *it* обязательно."
+  - q: "Experts believe that fewer than a hundred of these trees survive in the wild."
+    key: "BELIEVED"
+    stem: "There ___ fewer than a hundred of these trees in the wild."
+    answers: ["are believed to be"]
+    explain: "*Experts believe there are…* → **There are believed to be…** Пассив глагола мнения + *to be*."
+  - q: "The fog was so thick that we couldn't see the road."
+    key: "IMPOSSIBLE"
+    stem: "The thick fog made ___ the road."
+    answers: ["it impossible to see", "it impossible for us to see", "it impossible for anyone to see"]
+    explain: "*make + **it** + adj + to-infinitive*: *made it impossible (for us) to see the road*."
+  - q: "Delays on this route are almost certain during the holiday period."
+    key: "BOUND"
+    stem: "There ___ delays on this route during the holiday period."
+    answers: ["are bound to be"]
+    explain: "*be bound to* = «наверняка, неизбежно»: *There **are bound to be** delays*."
+  - q: "We needed three months to find a suitable replacement."
+    key: "TOOK"
+    stem: "It ___ find a suitable replacement."
+    answers: ["took us three months to", "took three months to"]
+    explain: "*It takes (someone) + время + to-infinitive*: ***It took us three months to** find…*"
+  - q: "Nobody expected her to win, so her victory surprised everyone."
+    key: "CAME"
+    stem: "It ___ everyone that she won."
+    answers: ["came as a surprise to", "came as a big surprise to", "came as a complete surprise to", "came as quite a surprise to"]
+    explain: "*It came as a surprise to someone that…* — безличная модель с пустым *it*: «для всех было неожиданностью, что…»."
+  - q: "Please let me know if you are unable to attend — I would be very grateful."
+    key: "APPRECIATE"
+    stem: "I would ___ me know if you are unable to attend."
+    answers: ["appreciate it if you let", "appreciate it if you would let", "appreciate it if you could let", "really appreciate it if you let"]
+    explain: "*I would appreciate **it if** you could…* — пустое *it* после *appreciate* обязательно. ~~appreciate if~~ — частая ошибка."
+  - q: "It's likely that nobody will object to the proposal."
+    key: "UNLIKELY"
+    stem: "There ___ any objections to the proposal."
+    answers: ["are unlikely to be", "is unlikely to be"]
+    explain: "*there + be likely / unlikely to be*: ***There are unlikely to be** any objections*. Формально — *are* (из-за *objections*)."
+  - q: "You should take care of your health for the sake of your family."
+    key: "OWE"
+    stem: "You ___ take care of your health."
+    answers: ["owe it to your family to"]
+    explain: "*owe it to someone to do something* — «быть обязанным кому-то сделать». Пустое *it* обязательно."

@@ -1,0 +1,348 @@
+title: "Итоговый тест C1: грамматика и лексика"
+type: choice
+intro: |
+  68 вопросов по всем 17 тематическим модулям ступени C1, уровень уверенного C1. Выбери один вариант из четырёх. Для зачёта нужно **60 %**.
+
+  Словарь не используй. Ориентир по времени — 40–45 минут.
+pass: 60
+items:
+  - q: "___ my parents grew up in the same small village in the north."
+    options: ["All", "Both", "Each", "Either"]
+    answer: 1
+    topic: "c1-06-determiners"
+    explain: "Про двоих вместе («оба») → **Both** (*both my parents* = *both of my parents*). *Each* и *either* перед *my* требуют *of* и единственного числа; *all* — для трёх и более."
+  - q: "In many countries, ___ rich are getting richer while everyone else stands still."
+    options: ["the", "a", "—", "some"]
+    answer: 0
+    topic: "c1-05-articles-nouns"
+    explain: "**the + прилагательное** обозначает группу людей: *the rich, the poor, the elderly*. Глагол — во множественном числе."
+  - q: "'Are you coming to the party tonight?' — 'I'd love ___ , but I have to work.'"
+    options: ["so", "it", "that", "to"]
+    answer: 3
+    topic: "c1-07-pronouns-ellipsis"
+    explain: "Эллипсис: глагол опускается, но **to** остаётся: *I'd love to (come)*. *I'd love it* значит «мне бы это понравилось»."
+  - q: "He ___ have taken the money — he was with me the whole evening."
+    options: ["needn't", "shouldn't", "can't", "mustn't"]
+    answer: 2
+    topic: "c1-02-modals"
+    explain: "Уверенность, что чего-то **не было** → **can't / couldn't have + V3**. *mustn't have* в отрицательном выводе в британском стандарте не используется."
+  - q: "The person to ___ the letter was addressed had moved away years earlier."
+    options: ["who", "which", "whom", "that"]
+    answer: 2
+    topic: "c1-13-relative-clauses"
+    explain: "После предлога о человеке — только **whom**. *to who* и *to that* — ошибки."
+  - q: "The committee recommended that the proposal ___ rejected."
+    options: ["been", "be", "being", "to be"]
+    answer: 1
+    topic: "c1-12-noun-clauses"
+    explain: "После *recommend, insist, demand that…* — subjunctive: базовая форма **be** (или *should be*)."
+  - q: "I ___ to call you for weeks, but something always seems to get in the way."
+    options: ["have been meaning", "mean", "am meaning", "had been meaning"]
+    answer: 0
+    topic: "c1-01-sentences-tenses"
+    explain: "Намерение, которое тянется до сих пор (*for weeks*, *always seems*) → **have been meaning to**. *had been meaning* требовал бы точки отсчёта в прошлом."
+  - q: "At the meeting, she ___ that we should postpone the launch."
+    options: ["persuaded", "encouraged", "suggested", "told"]
+    answer: 2
+    topic: "c1-11-reporting"
+    explain: "**suggest that + (should) …** — без дополнения-человека. *told / persuaded* требуют, кому: *told us that…*"
+  - q: "Such ___ the demand for tickets that the website crashed within minutes."
+    options: ["had", "was", "that", "being"]
+    answer: 1
+    topic: "c1-16-connectors-focus"
+    explain: "Фронтинг **Such + be + подлежащее + that**: *Such was the demand that…* = «Спрос был так велик, что…»"
+  - q: "___ the weather been better, we would have gone hiking."
+    options: ["Were", "Should", "Had", "If"]
+    answer: 2
+    topic: "c1-14-conditionals"
+    explain: "Инверсия в третьем типе: *If the weather had been* → **Had the weather been**."
+  - q: "Let's take a short break, ___ ?"
+    options: ["will we", "won't we", "shall we", "don't we"]
+    answer: 2
+    topic: "c1-03-negatives-questions"
+    explain: "После *Let's…* тег всегда **shall we?**"
+  - q: "There ___ to be over a hundred people still trapped in the building."
+    options: ["are thought", "is thought", "think", "are thinking"]
+    answer: 0
+    topic: "c1-04-passive"
+    explain: "*There + be thought / said / believed + to be*; глагол согласуется с *a hundred people* → **are thought**."
+  - q: "I'd rather not ___ about it until I've spoken to my lawyer."
+    options: ["talked", "talk", "to talk", "talking"]
+    answer: 1
+    topic: "c1-10-infinitives-gerunds"
+    explain: "*would rather* + глагол **без to**: *I'd rather not talk about it*."
+  - q: "The child was sitting ___ her parents, holding one hand of each."
+    options: ["amid", "between", "among", "amongst"]
+    answer: 1
+    topic: "c1-09-prepositions"
+    explain: "Между **двумя** отдельными людьми или предметами → **between**. *among* — среди группы."
+  - q: "She is ___ as talented as her older sister."
+    options: ["so much", "every bit", "quite much", "very much"]
+    answer: 1
+    topic: "c1-08-adjectives-adverbs"
+    explain: "Усиление равенства: **every bit as … as** = «ничуть не менее». *very much as talented* так не говорят."
+  - q: "The new evidence ___ serious doubt on his version of events."
+    options: ["gives", "makes", "puts", "casts"]
+    answer: 3
+    topic: "c1-17-use-of-english"
+    explain: "Коллокация **cast doubt on** = «ставить под сомнение»."
+  - q: "___ the evening wore on, the conversation grew more and more heated."
+    options: ["Whereby", "During", "As", "Meanwhile"]
+    answer: 2
+    topic: "c1-15-adverbial-clauses"
+    explain: "Постепенное изменение одновременно с другим → союз **As**. *During* — предлог, *Meanwhile* — наречие."
+  - q: "My bike ___ while I was in the shop for two minutes."
+    options: ["has stolen", "stole", "got stolen", "got stealing"]
+    answer: 2
+    topic: "c1-04-passive"
+    explain: "**get + V3** — разговорный пассив для неприятных, неожиданных событий: *got stolen, got damaged*. *has stolen* — актив: «велосипед украл»."
+  - q: "Roughly ___ of the population now live in cities."
+    options: ["second third", "two third's", "two-third", "two-thirds"]
+    answer: 3
+    topic: "c1-06-determiners"
+    explain: "Дробь с числителем больше одного → знаменатель во множественном: **two-thirds**, *three-quarters*."
+  - q: "I'll go to the party ___ you come with me — otherwise I'm staying at home."
+    options: ["even if", "if only", "only if", "unless"]
+    answer: 2
+    topic: "c1-14-conditionals"
+    explain: "**only if** = «только при условии». *even if* — «даже если», *if only* — сожаление."
+  - q: "The police ___ still investigating the cause of the fire."
+    options: ["are", "has", "was", "is"]
+    answer: 0
+    topic: "c1-05-articles-nouns"
+    explain: "*police* — всегда множественное число: **the police are**. Не путай с *the news is*."
+  - q: "The ___ were taken to hospital by helicopter."
+    options: ["injuring", "injured", "injury", "injureds"]
+    answer: 1
+    topic: "c1-08-adjectives-adverbs"
+    explain: "**the + причастие / прилагательное** = группа людей; оно не принимает *-s*: *the injured, the unemployed*."
+  - q: "If you need to change your booking, please ___ at least 48 hours in advance."
+    options: ["make so", "do such", "do so", "do it so"]
+    answer: 2
+    topic: "c1-07-pronouns-ellipsis"
+    explain: "**do so** заменяет целое действие (*change your booking*) — типично для формального стиля."
+  - q: "___ from a few minor errors, the report is excellent."
+    options: ["Apart", "Besides", "Except", "Without"]
+    answer: 0
+    topic: "c1-09-prepositions"
+    explain: "«Если не считать» → **Apart from** (или *Aside from*). *Except* без *for* в начале предложения не ставится, *Besides* = «вдобавок к»."
+  - q: "You ___ better apologise before she hears about it from someone else."
+    options: ["ought", "had", "should", "would"]
+    answer: 1
+    topic: "c1-02-modals"
+    explain: "Устойчивое **had better + глагол без to** = «лучше бы тебе». Остальные варианты не сочетаются с *better* + инфинитив."
+  - q: "When I got to the office, I realised that I ___ my laptop at home."
+    options: ["would leave", "was leaving", "had left", "have left"]
+    answer: 2
+    topic: "c1-01-sentences-tenses"
+    explain: "Забыл ноутбук **раньше**, чем понял это в прошлом → **Past Perfect**. *have left* привязан к настоящему и с *realised* не согласуется."
+  - q: "It is highly ___ that the minister will agree to the proposal."
+    options: ["doubtfully", "unprobable", "impossibly", "unlikely"]
+    answer: 3
+    topic: "c1-17-use-of-english"
+    explain: "**highly unlikely** — устойчивое сочетание. *unprobable* не существует (правильно *improbable*)."
+  - q: "I've no idea who ___ ."
+    options: ["belongs that building to", "does that building belong to", "that building belongs to", "that building does belong to"]
+    answer: 2
+    topic: "c1-03-negatives-questions"
+    explain: "Косвенный вопрос внутри утверждения → прямой порядок и без *does*; предлог остаётся в конце: **who that building belongs to**."
+  - q: "Little ___ that the police had been following him for weeks."
+    options: ["he did know", "knew he", "he knew", "did he know"]
+    answer: 3
+    topic: "c1-16-connectors-focus"
+    explain: "Отрицательное наречие в начале (*Little, Never, Rarely*) → инверсия: **did he know**."
+  - q: "She now regrets ___ her career so early."
+    options: ["having given up", "to give up", "to giving up", "give up"]
+    answer: 0
+    topic: "c1-10-infinitives-gerunds"
+    explain: "*regret + -ing* — сожалеть о прошлом; перфектный герундий **having given up** подчёркивает, что это было раньше. *regret to* — «с сожалением сообщаю»."
+  - q: "There is still no evidence ___ the drug is effective."
+    options: ["which", "that", "of", "what"]
+    answer: 1
+    topic: "c1-12-noun-clauses"
+    explain: "*evidence / proof / sign* + **that**-придаточное, раскрывающее содержание."
+  - q: "He apologised ___ late for the interview."
+    options: ["for being", "of being", "to be", "about be"]
+    answer: 0
+    topic: "c1-11-reporting"
+    explain: "**apologise for + -ing**: *He apologised for being late*."
+  - q: "He set off before dawn ___ he would reach the border by nightfall."
+    options: ["so that", "such that", "in case", "in order"]
+    answer: 0
+    topic: "c1-15-adverbial-clauses"
+    explain: "Цель с подлежащим и модальным → **so that** + *would / could*. *in order* без *that / to* не работает."
+  - q: "She has three brothers, ___ live abroad."
+    options: ["two of them", "two of who", "two of whom", "two of which"]
+    answer: 2
+    topic: "c1-13-relative-clauses"
+    explain: "Количество + **of whom** (люди) / **of which** (вещи) в неопределительном придаточном. *two of them* создаёт два предложения без союза."
+  - q: "If she weren't so stubborn, she ___ the offer last year."
+    options: ["accepted", "would accept", "had accepted", "would have accepted"]
+    answer: 3
+    topic: "c1-14-conditionals"
+    explain: "Смешанное условное: постоянная черта сейчас (*weren't so stubborn*) → нереальное прошлое (**would have accepted**)."
+  - q: "___ is often assumed that older workers find new technology difficult."
+    options: ["This", "That", "It", "There"]
+    answer: 2
+    topic: "c1-07-pronouns-ellipsis"
+    explain: "Формальное подлежащее **It** + пассив + *that*-придаточное: *It is often assumed / said / believed that…*"
+  - q: "Officially, staff ___ to wear a tie, but hardly anyone bothers."
+    options: ["should", "had better", "must", "are supposed"]
+    answer: 3
+    topic: "c1-02-modals"
+    explain: "**be supposed to** — правило или ожидание, которое на деле часто нарушают. *should / must / had better* не берут *to*."
+  - q: "___ did you buy that for? It's completely useless."
+    options: ["How", "Why", "Which", "What"]
+    answer: 3
+    topic: "c1-03-negatives-questions"
+    explain: "**What … for?** = «зачем?»; *for* в конце требует *what*. *Why … for* — лишний предлог."
+  - q: "The plan is extremely ambitious. ___ , it may be our only realistic option."
+    options: ["Even if", "Even though", "Although", "Even so"]
+    answer: 3
+    topic: "c1-16-connectors-focus"
+    explain: "Связка между предложениями «и всё же» → **Even so**. *Even though / although / even if* — союзы, им нужно придаточное."
+  - q: "I'm amazed ___ you managed to finish it in time."
+    options: ["what", "that", "about", "which"]
+    answer: 1
+    topic: "c1-12-noun-clauses"
+    explain: "*amazed / surprised / glad* + **that**-придаточное. Перед придаточным предлог *about* не ставится."
+  - q: "I have ___ patience with people who are rude to waiters."
+    options: ["fewer", "little", "a few", "few"]
+    answer: 1
+    topic: "c1-06-determiners"
+    explain: "*patience* — неисчисляемое; «почти нет» → **little**. *few / a few* — только с исчисляемыми."
+  - q: "Unfortunately, the rumours ___ true: the company is being sold."
+    options: ["made", "proved", "showed", "resulted"]
+    answer: 1
+    topic: "c1-01-sentences-tenses"
+    explain: "Связочный глагол **prove + прилагательное** = «оказаться»: *The rumours proved (to be) true*. Ни *result*, ни *show* так не работают."
+  - q: "Ignoring all their warnings, we went ahead ___ our lawyers' advice."
+    options: ["in spite", "despite of", "contrary", "against"]
+    answer: 3
+    topic: "c1-17-use-of-english"
+    explain: "**against somebody's advice** = «вопреки совету». *contrary to* и *in spite of* требуют предлога; *despite of* — ошибка."
+  - q: "What ___ terrible weather we've had this summer!"
+    options: ["—", "the", "a", "an"]
+    answer: 0
+    topic: "c1-05-articles-nouns"
+    explain: "*weather* — неисчисляемое, поэтому **What terrible weather!** без артикля. Ср.: *What a terrible day!*"
+  - q: "The proposals ___ at yesterday's meeting will be published next week."
+    options: ["discussing", "discussed", "were discussed", "having discussed"]
+    answer: 1
+    topic: "c1-13-relative-clauses"
+    explain: "Сокращённое придаточное с пассивным значением: *which were discussed* → **discussed**."
+  - q: "I can't ___ why she left the company so suddenly."
+    options: ["make for", "make up", "make out", "make off"]
+    answer: 2
+    topic: "c1-09-prepositions"
+    explain: "**make out** = «понять, разобрать» (*I can't make out why…*). *make up* — выдумать, *make off* — удрать, *make for* — направиться."
+  - q: "He bitterly resented ___ to wait outside like a stranger."
+    options: ["being made", "to be made", "making", "be made"]
+    answer: 0
+    topic: "c1-04-passive"
+    explain: "*resent* + герундий; его заставили → пассивный герундий **being made**. Заметь: в пассиве после *made* появляется *to*."
+  - q: "It was a mistake ___ him without checking his references."
+    options: ["that we hire", "us to hire", "for us to hire", "for us hiring"]
+    answer: 2
+    topic: "c1-10-infinitives-gerunds"
+    explain: "*It was a mistake* + **for + кто + to-infinitive**: *for us to hire him*."
+  - q: "___ speaking, the plan makes sense, but politically it would be a disaster."
+    options: ["Economically", "Economical", "Economic", "Economics"]
+    answer: 0
+    topic: "c1-08-adjectives-adverbs"
+    explain: "Наречие точки зрения (viewpoint adverb) + *speaking*: **Economically / Technically / Strictly speaking**."
+  - q: "The spokesperson refused to ___ whether the talks had broken down."
+    options: ["say", "tell", "talk", "speak"]
+    answer: 0
+    topic: "c1-11-reporting"
+    explain: "*say* без дополнения-человека вводит придаточное: **say whether…** *tell* требует, кому: *tell us whether*."
+  - q: "Try ___ she might, she couldn't get the lid off the jar."
+    options: ["as", "if", "so", "even"]
+    answer: 0
+    topic: "c1-15-adverbial-clauses"
+    explain: "Уступительная инверсия **Try as she might** = «как она ни старалась»."
+  - q: "___ told you that was clearly lying."
+    options: ["Whoever", "Who", "Anyone", "Whatever"]
+    answer: 0
+    topic: "c1-13-relative-clauses"
+    explain: "**Whoever** = «тот, кто» (кто бы это ни был) — подлежащее главного предложения. *Anyone told you* — второй глагол без союза."
+  - q: "I was ___ the impression that the meeting had been cancelled."
+    options: ["in", "on", "with", "under"]
+    answer: 3
+    topic: "c1-09-prepositions"
+    explain: "Устойчивое **be under the impression that** = «полагать (ошибочно), что»."
+  - q: "The flight may be delayed. ___ , we will notify all passengers by text."
+    options: ["If it", "If not so", "So if", "If so"]
+    answer: 3
+    topic: "c1-14-conditionals"
+    explain: "**If so** = «если это так». Противоположное — *If not*."
+  - q: "Could you give me ___ on how to apply for a visa?"
+    options: ["informations", "an information", "a few information", "some information"]
+    answer: 3
+    topic: "c1-05-articles-nouns"
+    explain: "*information* — неисчисляемое: **some information** или *a piece of information*, но не *an information / informations*."
+  - q: "'Don't you like it?' — '___ , I love it!'"
+    options: ["Nor", "No", "Not", "Yes"]
+    answer: 3
+    topic: "c1-03-negatives-questions"
+    explain: "Ответ на отрицательный вопрос строится по факту: люблю → **Yes**. По-русски «Нет, очень нравится», по-английски *No* значило бы «не нравится»."
+  - q: "___ of the three options on the table seemed realistic."
+    options: ["Either", "Neither", "No", "None"]
+    answer: 3
+    topic: "c1-06-determiners"
+    explain: "Из **трёх** и более → **None of**. *Neither / either* — только о двух; *No* не ставится перед *of*."
+  - q: "She was the first woman ___ the prize in its hundred-year history."
+    options: ["won", "to win", "to have been won", "winning"]
+    answer: 1
+    topic: "c1-10-infinitives-gerunds"
+    explain: "После *the first / the last / the only* → **to-infinitive**: *the first woman to win*."
+  - q: "Sales of electric cars ___ sharply last year."
+    options: ["were risen", "got risen", "have been risen", "rose"]
+    answer: 3
+    topic: "c1-04-passive"
+    explain: "*rise* — непереходный глагол, пассива у него нет: **rose**. (Переходный вариант — *raise*: *prices were raised*.)"
+  - q: "When we were students, we ___ often stay up all night talking about books."
+    options: ["would", "should", "used", "were used to"]
+    answer: 0
+    topic: "c1-02-modals"
+    explain: "Повторяющееся действие в прошлом → **would** + глагол (или *used to*). *used* без *to* и *were used to stay* — ошибки."
+  - q: "The receptionist wanted to know ___ ."
+    options: ["would I be able to come back later", "that I would be able to come back later", "whether I would be able to come back later", "if would I be able to come back later"]
+    answer: 2
+    topic: "c1-11-reporting"
+    explain: "Косвенный общий вопрос → **whether / if** + прямой порядок слов."
+  - q: "She was completely unaware of ___ was happening behind her back."
+    options: ["which", "what", "it", "that"]
+    answer: 1
+    topic: "c1-12-noun-clauses"
+    explain: "После предлога (*of*) придаточное с **what** («то, что»). *that*-придаточное после предлога невозможно."
+  - q: "___ was only when I got home that I noticed the scratch on the car."
+    options: ["It", "What", "That", "There"]
+    answer: 0
+    topic: "c1-16-connectors-focus"
+    explain: "Cleft-конструкция **It was only when… that…** выделяет момент."
+  - q: "It's a ___ fact that the Eiffel Tower grows taller in summer."
+    options: ["few-known", "little-known", "less-knowing", "small-known"]
+    answer: 1
+    topic: "c1-08-adjectives-adverbs"
+    explain: "Составное прилагательное **little-known** = «малоизвестный» (ср. *well-known*)."
+  - q: "This time next year, she ___ her degree and started looking for work."
+    options: ["will be completed", "completes", "has completed", "will have completed"]
+    answer: 3
+    topic: "c1-01-sentences-tenses"
+    explain: "Действие закончится **к** моменту в будущем (*this time next year*) → **Future Perfect**. *will be completed* — пассив: «её будут завершать»."
+  - q: "___ by the constant noise, she found it impossible to concentrate."
+    options: ["Distracted", "Distracting", "To distract", "Having distracted"]
+    answer: 0
+    topic: "c1-15-adverbial-clauses"
+    explain: "Сокращённое придаточное с пассивным значением: её отвлекали → **Distracted**. *Distracting* значило бы, что отвлекала она."
+  - q: "There is a growing ___ that the system needs urgent reform."
+    options: ["recognise", "recognition", "recognisable", "recognising"]
+    answer: 1
+    topic: "c1-17-use-of-english"
+    explain: "После *a growing* нужно существительное → **recognition** (*a growing recognition / awareness that…*)."
+  - q: "These boots are far too tight. Have you got any bigger ___ ?"
+    options: ["those", "them", "ones", "one"]
+    answer: 2
+    topic: "c1-07-pronouns-ellipsis"
+    explain: "Замена исчисляемого во множественном (*boots*) после прилагательного → **ones**. *bigger them* невозможно."

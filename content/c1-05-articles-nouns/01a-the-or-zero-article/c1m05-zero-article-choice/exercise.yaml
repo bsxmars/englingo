@@ -1,0 +1,55 @@
+title: "Функция, место или формула"
+type: choice
+intro: "Выбери вариант, который подходит **по смыслу и регистру**. Часто грамматичны все варианты — но значат они разное."
+hints:
+  - "Нулевой артикль — функция, способ, понятие; the — конкретный объект."
+  - "Заголовки и инструкции опускают артикли, связный текст — нет."
+items:
+  - q: "Её мать пришла в тюрьму на свидание с сыном. — His mother went to ___ every Saturday to see him."
+    options: ["prison", "the prison", "a prison"]
+    answer: 1
+    explain: "Мать не заключённая, она посещает здание → **the prison**. *go to prison* означало бы, что её саму посадили."
+  - q: "Заголовок новости на сайте газеты:"
+    options: ["The Prime Minister announces the early election", "Prime Minister announces early election", "A Prime Minister announces an early election"]
+    answer: 1
+    explain: "В заголовках артикли систематически опускаются — это примета жанра: **Prime Minister announces early election**. В тексте статьи их нужно вернуть."
+  - q: "Первое предложение самой статьи под этим заголовком:"
+    options: ["Prime Minister has announced early election.", "The Prime Minister has announced an early election.", "A Prime Minister has announced the early election."]
+    answer: 1
+    explain: "В связном тексте артикли обязательны: уникальная роль — **the Prime Minister**, новая информация — **an early election**."
+  - q: "We discussed the merger over ___ at a small Italian place near the office."
+    options: ["the lunch", "lunch", "a lunch"]
+    answer: 1
+    explain: "Приём пищи как событие — без артикля: *over* **lunch**. *a lunch* потребовало бы описания (*a long lunch*), *the lunch* — уже известного обеда."
+  - q: "I'll drive. We can all fit ___ if Tom sits in the middle."
+    options: ["by car", "in the car", "by the car"]
+    answer: 1
+    explain: "Речь о конкретной машине и о том, кто где сидит → **in the car**. *by car* — только способ передвижения, а ~~by the car~~ невозможно."
+  - q: "___ agree that the system needs reform; the question is how."
+    options: ["The most people", "Most people", "Most of people"]
+    answer: 1
+    explain: "«Большинство людей» — **Most people** без *the*. *the most* — только превосходная степень, а *most of* требует определителя: *most of the people*."
+  - q: "They had been married for forty years and still walked ___ along the seafront every evening."
+    options: ["arm in arm", "an arm in an arm", "the arm in the arm"]
+    answer: 0
+    explain: "Парная формула с повтором существительного — без артиклей: **arm in arm**, *face to face, side by side*."
+  - q: "I'm sorry — I took your umbrella ___ ; mine looks exactly the same."
+    options: ["by a mistake", "by mistake", "by the mistake"]
+    answer: 1
+    explain: "Устойчивое сочетание **by mistake** — без артикля, как *on purpose, in charge, at risk*."
+  - q: "Инструкция на коробке с прибором:"
+    options: ["Remove the plug from the socket before cleaning.", "Remove plug from socket before cleaning.", "Both are possible, but the second is typical of the genre."]
+    answer: 2
+    explain: "Оба варианта грамматичны, но инструкции и подписи **систематически опускают артикли** — второй вариант типичен для жанра. В письме или отчёте так писать нельзя."
+  - q: "We met in Prague ___ ; we got engaged ___ ."
+    options: ["the last year … the next year", "last year … the following year", "the last year … next year"]
+    answer: 1
+    explain: "*last year* — отсчёт от «сейчас», без *the*. Год после события в прошлом — **the following year** (или *the next year*): отсчёт от другого момента требует *the*."
+  - q: "The lake is ___ near the old dam, where it reaches almost 90 metres."
+    options: ["deepest", "the deepest", "most deep"]
+    answer: 0
+    explain: "Сравниваются разные места **одного и того же** озера, а не озеро с другими: превосходная степень в предикативе без *the* — **deepest**. *the deepest* звучало бы как «самое глубокое из озёр»."
+  - q: "My grandparents spent the war ___ , moving from farm to farm with their children."
+    options: ["the husband and the wife", "husband and wife", "a husband and a wife"]
+    answer: 1
+    explain: "Пары существительных в устойчивой формуле — без артиклей: **husband and wife**, *mother and child, knife and fork*."

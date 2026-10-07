@@ -1,0 +1,44 @@
+title: "Modal perfects в контексте"
+type: gap
+intro: "Впиши модальный глагол в перфектной форме с глаголом из скобок. Модальный выбери по смыслу: вывод, упрёк, ненужное действие или несостоявшаяся возможность."
+hints:
+  - "Уверенное «наверное, да» — must have; уверенное «точно нет» — can't / couldn't have."
+  - "Сделали зря — needn't have; надо было, но не сделали — should / ought to have."
+  - "Пассив и процесс: have been + V3, have been + V-ing."
+items:
+  - q: "Her coat's gone and her laptop isn't on the desk. She ___ (leave) already."
+    answers: ["must have left", "must have gone"]
+    explain: "Уверенный вывод о прошлом по фактам → **must have left**."
+  - q: "He ___ (write) that report himself — it's full of jargon he doesn't even understand."
+    answers: ["can't have written", "cannot have written", "couldn't have written", "could not have written"]
+    explain: "Уверенное «не может быть, что он» → **can't / couldn't have written**. ~~mustn't have~~ в выводах не используется."
+  - q: "You ___ (bring) anything — we've got more food than we can eat! But thank you."
+    answers: ["needn't have brought", "need not have brought", "didn't need to bring", "did not need to bring"]
+    explain: "Гость уже принёс еду, и это лишнее → **needn't have brought** (вежливое «ну зачем же»). *didn't need to bring* тоже допустимо, но слабее подчёркивает, что действие совершено."
+  - q: "I ___ (listen) to my accountant. Now I owe the tax office a fortune."
+    answers: ["should have listened", "ought to have listened"]
+    explain: "Сожаление о несделанном → **should / ought to have listened**."
+  - q: "The flight landed at six, so they ___ (reach) the hotel by now — it's only twenty minutes away."
+    answers: ["should have reached", "will have reached", "must have reached", "ought to have reached"]
+    explain: "Ожидание по расписанию → **should have reached**; уверенность — *will / must have reached*."
+  - q: "You ___ (tell) me the dress code was black tie! I'm the only one in jeans."
+    answers: ["might have told", "could have told", "should have told", "ought to have told"]
+    explain: "Раздражённый упрёк → **might / could have told** («мог бы и сказать») или *should have told*."
+  - q: "I'm not sure why Lena didn't reply. She ___ (not / get) my message."
+    answers: ["may not have got", "might not have got", "may not have received", "might not have received", "may not have gotten", "might not have gotten"]
+    explain: "Возможное «нет» → **may / might not have got**. *can't have* было бы уверенным отрицанием."
+  - q: "That was reckless. Someone ___ (kill) — you were doing ninety on a wet road."
+    answers: ["could have been killed", "might have been killed"]
+    explain: "Воображаемое прошлое (никто не погиб) + пассив → **could / might have been killed**. *may have been* здесь сбивает: будто неизвестно, погиб ли кто-то."
+  - q: "Your eyes are red and puffy. You ___ (cry)."
+    answers: ["must have been crying"]
+    explain: "Вывод о **процессе**, следы которого видны сейчас → **must have been crying**: *have been* + V-ing."
+  - q: "The results ___ (check) by a second reviewer before they were published. Nobody noticed the error."
+    answers: ["should have been checked", "ought to have been checked"]
+    explain: "Упрёк + пассив → **should have been checked**: модальный + *have been* + V3."
+  - q: "I ___ (help) you move, but I was in Berlin that weekend."
+    answers: ["would have helped", "could have helped"]
+    explain: "Готовность при других обстоятельствах → **would have helped**; *could have helped* — была бы возможность."
+  - q: "The concert ___ (be) better — the sound, the setlist, the crowd were all perfect."
+    answers: ["couldn't have been", "could not have been"]
+    explain: "*couldn't have been* + сравнительная степень = «лучше некуда»: **couldn't have been better**."

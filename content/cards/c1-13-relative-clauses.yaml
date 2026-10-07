@@ -1,0 +1,136 @@
+- id: c1m13-whom-when
+  lesson: c1-13-relative-clauses/01-relative-pronouns
+  q: "Когда в придаточном нужно **whom**, а не **who**?"
+  a: "Когда местоимение — **дополнение** (*the man whom I met*) или стоит после предлога (*to whom*). Это формальный регистр; в речи — *who* или ноль."
+- id: c1m13-whom-hyper
+  lesson: c1-13-relative-clauses/01-relative-pronouns
+  q: "Найди ошибку: *The candidate whom impressed us most has withdrawn.*"
+  a: "у *impressed* нет другого подлежащего → **who**: *The candidate **who** impressed us most…*"
+- id: c1m13-nondefining-that
+  lesson: c1-13-relative-clauses/01-relative-pronouns
+  q: "Можно ли *that* или пропуск местоимения в non-defining (с запятыми)?"
+  a: "Нет. Только **who / whom / which / whose**: *The Mini, **which** some people laughed at, …*"
+- id: c1m13-sentential-which
+  lesson: c1-13-relative-clauses/01-relative-pronouns
+  q: "Переведи: «Рейс отменили, что означало ещё одну ночь в отеле»."
+  a: "*The flight was cancelled, **which** meant another night in the hotel.* — комментарий к предложению: только **which**."
+- id: c1m13-in-which-case
+  lesson: c1-13-relative-clauses/01-relative-pronouns
+  q: "**in which case** или **in that case**: *The talks may fail, ___ the strike will go ahead.*"
+  a: "**in which case** — внутри одного предложения после запятой. *In that case* начинает новое предложение."
+- id: c1m13-most-of-whom
+  lesson: c1-13-relative-clauses/01-relative-pronouns
+  q: "Найди ошибку: *We met forty volunteers, most of them were students.*"
+  a: "Comma splice. Нужно *…, **most of whom** were students.*"
+- id: c1m13-superlative-that
+  lesson: c1-13-relative-clauses/01-relative-pronouns
+  q: "Какое местоимение естественно после superlatives и *all / everything / nothing*?"
+  a: "**that** или ноль: *the best film (that) I've seen*, *everything (that) she said*."
+- id: c1m13-reduced-forms
+  lesson: c1-13-relative-clauses/02-reduced-possessive
+  q: "Сократи: *people who are being held without trial* / *who have been held for years*."
+  a: "*people **being held** without trial* (процесс сейчас) / *people **having been held** for years* (длится с прошлого)."
+- id: c1m13-first-to
+  lesson: c1-13-relative-clauses/02-reduced-possessive
+  q: "Переведи: «Она была первой женщиной, получившей эту премию»."
+  a: "*She was **the first woman to win** the prize.* После *the first / last / only* — to-инфинитив."
+- id: c1m13-no-reduce
+  lesson: c1-13-relative-clauses/02-reduced-possessive
+  q: "Почему нельзя *There was a sudden bang waking everyone up*?"
+  a: "Однократное внезапное действие не сокращают: *a sudden bang **that woke** everyone up*."
+- id: c1m13-concerned
+  lesson: c1-13-relative-clauses/02-reduced-possessive
+  q: "*the people concerned* и *concerned people* — в чём разница?"
+  a: "*the people **concerned*** — те, кого это касается; *concerned people* — обеспокоенные люди."
+- id: c1m13-whose-things
+  lesson: c1-13-relative-clauses/02-reduced-possessive
+  q: "Найди ошибку: *a town which name I've forgotten*."
+  a: "*a town **whose name** I've forgotten* или *a town, **the name of which** I've forgotten*."
+- id: c1m13-those-who
+  lesson: c1-13-relative-clauses/02-reduced-possessive
+  q: "«Те, кто опоздает, будут ждать снаружи»."
+  a: "***Those who** arrive late will wait outside.* — *those*, не *these*."
+- id: c1m13-much-that
+  lesson: c1-13-relative-clauses/02-reduced-possessive
+  q: "*There isn't much ___ escapes her.* — which или that?"
+  a: "**that**. После *much, little, all, everything* — *that*, не *which*."
+- id: c1m13-prep-front
+  lesson: c1-13-relative-clauses/03-prepositions-nominal
+  q: "Какие местоимения могут стоять сразу после предлога?"
+  a: "Только **which** и **whom**: *in which, to whom*. Никогда ~~in that~~, ~~to who~~."
+- id: c1m13-phrasal
+  lesson: c1-13-relative-clauses/03-prepositions-nominal
+  q: "Почему нельзя *a person up to whom I look*?"
+  a: "*look up to* — фразовый глагол, частица не отрывается: *a person (whom) I look **up to***."
+- id: c1m13-during-which
+  lesson: c1-13-relative-clauses/03-prepositions-nominal
+  q: "Какие предлоги в придаточном ставятся **только впереди**?"
+  a: "*during, after, before, because of, besides, below, beyond*: *a decade **during which**…*"
+- id: c1m13-extent
+  lesson: c1-13-relative-clauses/03-prepositions-nominal
+  q: "Переведи: «степень, в которой», «скорость, с которой», «лёгкость, с которой»."
+  a: "*the extent **to which**, the speed **at which**, the ease **with which***."
+- id: c1m13-way-how
+  lesson: c1-13-relative-clauses/03-prepositions-nominal
+  q: "Найди ошибку: *I like the way how she explains things.*"
+  a: "*the way (that / in which) she explains* или просто *how she explains*. ~~the way how~~ не бывает."
+- id: c1m13-all-what
+  lesson: c1-13-relative-clauses/03-prepositions-nominal
+  q: "Найди ошибку: *All what we need is a little more time.*"
+  a: "*All (that) we need…* или *What we need…*. После *all / everything* — не *what*."
+- id: c1m13-whichever
+  lesson: c1-13-relative-clauses/03-prepositions-nominal
+  q: "**whatever** или **whichever**: *Take the train or the coach, ___ is cheaper.*"
+  a: "**whichever** — выбор из ограниченного набора вариантов."
+- id: c1m13-safeguard
+  lesson: c1-13-relative-clauses/04-reading
+  q: "Переведи: *custodian, to safeguard, to dwindle, a safety net*."
+  a: "хранитель; оберегать; сокращаться, иссякать; страховочная сетка."
+- id: c1m13-flawed-as
+  lesson: c1-13-relative-clauses/05-writing
+  q: "Две фразы для минусов и итога в рецензии."
+  a: "*Where it falls short is… · My one reservation concerns… · Flawed as it is, … · On balance, it is well worth…*"
+- id: c1m13-ever-present
+  lesson: c1-13-relative-clauses/03a-ever-words
+  q: "Найди ошибку: *Whatever you would decide, I'll support you.*"
+  a: "После -ever — Present, без «бы»: ***Whatever** you **decide**, I'll support you.*"
+- id: c1m13-ever-two-roles
+  lesson: c1-13-relative-clauses/03a-ever-words
+  q: "Почему нельзя *Take no matter what you need*?"
+  a: "*no matter what* — только уступка («неважно, что»). «Всё, что нужно» — именная роль → ***whatever** you need*."
+- id: c1m13-however-adj
+  lesson: c1-13-relative-clauses/03a-ever-words
+  q: "Переведи: «Как бы я ни старался, у меня не получается»."
+  a: "***However hard** I try, I can't do it.* — прилагательное или наречие сразу за *however*."
+- id: c1m13-whoever-after-prep
+  lesson: c1-13-relative-clauses/03a-ever-words
+  q: "**whoever** или **whomever**: *Give the keys to ___ arrives first.*"
+  a: "**whoever** — это подлежащее для *arrives*, предлог *to* на выбор не влияет."
+- id: c1m13-whatever-the-reason
+  lesson: c1-13-relative-clauses/03a-ever-words
+  q: "Сократи формально: *It doesn't matter what the reason is — the delay is unacceptable.*"
+  a: "***Whatever the reason**, the delay is unacceptable.* — глагол *be* опускается."
+- id: c1m13-wherever-possible
+  lesson: c1-13-relative-clauses/03a-ever-words
+  q: "*If possible* и *Wherever possible* — в чём разница?"
+  a: "*If possible* — «если получится» (разово). ***Wherever possible*** — «везде / всякий раз, когда возможно»: формула инструкций."
+- id: c1m13-whatsoever
+  lesson: c1-13-relative-clauses/03a-ever-words
+  q: "Переведи: «Нет вообще никаких доказательств»."
+  a: "*There is **no evidence whatsoever**.* — усилитель стоит после существительного."
+- id: c1m13-doesnt-matter
+  lesson: c1-13-relative-clauses/03a-ever-words
+  q: "Ответь одной фразой: «Неважно, что ты наденешь»."
+  a: "***It doesn't matter** what you wear.* *No matter what you wear* самостоятельным предложением не бывает."
+- id: c1m13-by-which-time
+  lesson: c1-13-relative-clauses/01-relative-pronouns
+  q: "Соедини одной связкой: *We arrived at ten. By then the speeches had finished.*"
+  a: "*We arrived at ten, **by which time** the speeches had finished.*"
+- id: c1m13-being-built
+  lesson: c1-13-relative-clauses/02-reduced-possessive
+  q: "*the bridge built across the river* и *the bridge being built across the river* — в чём разница?"
+  a: "*built* — мост уже построен; ***being built*** — строительство идёт сейчас."
+- id: c1m13-under-which
+  lesson: c1-13-relative-clauses/03-prepositions-nominal
+  q: "Переведи формально: «условия, в которых эксперимент можно повторить»."
+  a: "*the conditions **under which** the experiment can be repeated* — *under conditions* → *under which*."

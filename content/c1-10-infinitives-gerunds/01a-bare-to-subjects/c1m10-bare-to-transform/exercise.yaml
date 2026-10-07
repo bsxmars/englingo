@@ -1,0 +1,69 @@
+title: "Трансформации (C1 Advanced, Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "make / see в пассиве → was made to do, was seen to do."
+  - "Другой исполнитель: for sb to do; without sb doing; in order for sb to do."
+  - "Неожиданный итог → only to do."
+items:
+  - q: "The officials forced the journalists to hand over their cameras."
+    key: "MADE"
+    stem: "The journalists ___ over their cameras."
+    answers: ["were made to hand"]
+    explain: "Пассив от *make sb do* → **were made to hand**: *to* возвращается."
+  - q: "Security guards saw a man climb over the fence shortly after midnight."
+    key: "SEEN"
+    stem: "A man ___ over the fence shortly after midnight."
+    answers: ["was seen to climb", "was seen climbing"]
+    explain: "Пассив глагола восприятия: **was seen to climb** (действие целиком) или *was seen climbing* (процесс)."
+  - q: "My parents never allowed me to stay out after ten."
+    key: "LET"
+    stem: "My parents never ___ out after ten."
+    answers: ["let me stay"]
+    explain: "**let** + объект + голый инфинитив: *let me stay*. ~~let me to stay~~ — ошибка."
+  - q: "The landlord got a plumber to look at the leak."
+    key: "HAD"
+    stem: "The landlord ___ at the leak."
+    answers: ["had a plumber look"]
+    explain: "**have sb do** — «поручить кому-то»: *had a plumber look at*. С *have* — голый инфинитив, с *get* — *to*."
+  - q: "She doesn't usually turn down an invitation."
+    key: "UNUSUAL"
+    stem: "It is ___ down an invitation."
+    answers: ["unusual for her to turn"]
+    explain: "*it is + adj* + **for sb to do**: *It is unusual for her to turn down…*"
+  - q: "He just sat there and complained all evening."
+    key: "NOTHING"
+    stem: "All evening he ___ ."
+    answers: ["did nothing but complain"]
+    explain: "**do nothing but** + голый инфинитив — «только и делать, что…»."
+  - q: "I don't know why you'd take a taxi when the metro is faster."
+    key: "WHY"
+    stem: "___ when the metro is faster?"
+    answers: ["Why take a taxi", "Why get a taxi"]
+    explain: "**Why** + голый инфинитив — риторический вопрос «зачем?»: *Why take a taxi…?* ~~Why to take~~ — ошибка."
+  - q: "We drove all the way to the gallery, but found that it was closed for renovation."
+    key: "ONLY"
+    stem: "We drove all the way to the gallery, ___ it was closed for renovation."
+    answers: ["only to find that", "only to find", "only to discover that", "only to discover"]
+    explain: "Неожиданный, неприятный итог → **only to find (that)**."
+  - q: "Nobody noticed when she slipped out of the room."
+    key: "WITHOUT"
+    stem: "She slipped out of the room ___ ."
+    answers: ["without anyone noticing", "without anybody noticing", "without anyone noticing her", "without anybody noticing her", "without being noticed"]
+    explain: "Исполнитель герундия — другой → **without anyone noticing**; можно и пассивом: *without being noticed*."
+  - q: "They extended the deadline so that all departments could submit their data."
+    key: "ORDER"
+    stem: "The deadline was extended ___ submit their data."
+    answers: ["in order for all departments to"]
+    explain: "Цель с другим исполнителем → **in order for** sb **to** do."
+  - q: "We left early because we didn't want to miss the last train."
+    key: "AS"
+    stem: "We left early ___ the last train."
+    answers: ["so as not to miss"]
+    explain: "Отрицательная цель → **so as not to** + инфинитив; *not* перед *to*."
+  - q: "Everyone was annoyed that he arrived late yet again."
+    key: "HIS"
+    stem: "___ yet again annoyed everyone."
+    answers: ["His arriving late", "His being late", "His coming late", "His turning up late"]
+    explain: "Герундий-подлежащее с исполнителем в письменной речи → притяжательное: **His arriving / His being late…**"

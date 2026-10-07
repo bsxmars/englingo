@@ -1,0 +1,56 @@
+title: "Whether, if, what или which"
+type: choice
+intro: "Выбери вариант, который подходит по смыслу, грамматике и регистру."
+hints:
+  - "После предлога, в начале предложения и перед to — только whether."
+  - "Комментарий ко всему предложению после запятой — which."
+  - "what = «то, что»; what + little / few + существительное — «то немногое, что»."
+items:
+  - q: "Which sentence means 'tell me in either case, yes or no'?"
+    options: ["Let me know if you need the car tomorrow.", "Let me know whether you need the car tomorrow.", "Let me know when you need the car tomorrow."]
+    answer: 1
+    explain: "**whether** однозначно значит «нужна или нет». *if* здесь читается как условие: «скажи, если понадобится» (иначе можно молчать)."
+  - q: "The parliamentary debate centred on ___ the tax should be abolished altogether."
+    options: ["if", "whether", "that"]
+    answer: 1
+    explain: "После предлога (*on*) из союзов «ли» возможен только **whether**. *that* после предлога не ставится вообще."
+  - q: "I'm still trying to decide ___ to renew my contract."
+    options: ["if", "whether", "that"]
+    answer: 1
+    explain: "Перед **to-инфинитивом** — только *whether*: *whether to renew*. ~~if to~~ невозможно."
+  - q: "The key issue, which nobody has yet resolved, is ___ the system can cope with peak demand."
+    options: ["if", "whether", "that"]
+    answer: 1
+    explain: "Вопрос не решён → «ли»; после *be* в роли сказуемого — **whether**, не *if*. *that* подал бы ответ как известный факт."
+  - q: "I've no idea ___ to begin: the whole flat needs redecorating."
+    options: ["where", "why", "that"]
+    answer: 0
+    explain: "wh-слово + to-инфинитив: **where to begin**. С *why* инфинитив не употребляется, а *that* не сочетается с *to*."
+  - q: "*The manager told me what to do.* Who is supposed to do it?"
+    options: ["the manager", "I am", "it is impossible to say"]
+    answer: 1
+    explain: "После *tell someone what to do* действует **тот, кому сказали**, — то есть я. Инфинитив не называет исполнителя, его подсказывает глагол."
+  - q: "We need to look carefully at ___ the money was actually spent on."
+    options: ["what", "which", "that"]
+    answer: 0
+    explain: "Придаточное без дополнения (*spent on ___*) и без существительного перед ним → **what** = «то, на что»."
+  - q: "He ignored his lawyer's advice, ___ turned out to be a costly mistake."
+    options: ["what", "which", "that"]
+    answer: 1
+    explain: "Комментарий ко **всему** предыдущему предложению после запятой — **which**. *what* так не употребляется, *that* не ставится после запятой."
+  - q: "___ few savings they had were wiped out by the financial crisis."
+    options: ["What", "Which", "That"]
+    answer: 0
+    explain: "**What few + существительное** — книжное «те немногие…, что». Глагол согласуется с *savings*: *were*."
+  - q: "Which sentence is most appropriate in an academic essay?"
+    options: ["It depends on if the sample is representative.", "It depends on whether the sample is representative.", "Whether the sample is representative or not, it depends."]
+    answer: 1
+    explain: "После *depend on* — **whether**. *on if* — разговорная небрежность, а третий вариант искажает смысл."
+  - q: "There is still considerable doubt ___ whether the findings can be generalised."
+    options: ["as to", "about to", "that"]
+    answer: 0
+    explain: "**as to whether** — формальный аналог *about whether*, типичный для отчётов и научных текстов."
+  - q: "I honestly can't remember ___ I locked the back door or not."
+    options: ["whether", "that", "what"]
+    answer: 0
+    explain: "*or not* указывает на «ли» → **whether** (здесь, в отличие от *whether or not* вплотную, возможно и *if*, но его среди вариантов нет)."

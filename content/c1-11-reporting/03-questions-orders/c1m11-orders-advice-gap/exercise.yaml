@@ -1,0 +1,43 @@
+title: "Приказы, просьбы и советы"
+type: gap
+intro: "Перескажи слова в кавычках: впиши в пропуск недостающую часть (глагол, объект, *not*, *should* — всё, что нужно). Если подходит несколько вариантов, засчитается любой."
+hints:
+  - "tell / order / ask / advise + объект + (not) to do; ask to do — о своём действии."
+  - "insist / demand / recommend / suggest that + сослагательное (голый глагол) или should."
+items:
+  - q: "'Leave the building immediately!' → The officer ordered everyone ___ the building immediately."
+    answers: ["to leave"]
+    explain: "*order* + объект + **to do**."
+  - q: "'May I leave early today?' → Sara asked ___ early that day."
+    answers: ["to leave", "if she could leave", "if she might leave", "whether she could leave", "whether she might leave"]
+    explain: "Просьба о своём действии → *ask **to leave*** без объекта; или *asked if she could leave*."
+  - q: "'You should book the tickets online.' → He suggested that we ___ the tickets online."
+    answers: ["book", "should book", "booked"]
+    explain: "*suggest that* + сослагательное **book** или *should book*; в британском разговорном — и *booked*."
+  - q: "'Fill in the form yourself!' → The clerk insisted that I ___ the form myself."
+    answers: ["fill in", "should fill in", "had to fill in", "must fill in", "fill out", "should fill out", "had to fill out"]
+    explain: "Требование → сослагательное **fill in** / *should fill in*, или *had to fill in*."
+  - q: "'The patient must not be disturbed under any circumstances.' → The doctor insisted that the patient ___ disturbed under any circumstances."
+    answers: ["not be", "should not be", "shouldn't be", "must not be", "mustn't be", "was not to be"]
+    explain: "Отрицательное сослагательное: **not** перед голым глаголом — *that the patient **not be** disturbed*."
+  - q: "'Get a second opinion before you agree to the operation.' → The nurse advised ___ a second opinion before agreeing to the operation."
+    answers: ["me to get", "him to get", "her to get", "us to get", "them to get", "getting", "me to seek", "him to seek", "her to seek", "seeking"]
+    explain: "*advise* + объект + **to do**, или без объекта — *advise getting*."
+  - q: "'Please don't park in front of the garage.' → I asked him ___ in front of the garage."
+    answers: ["not to park"]
+    explain: "Отрицательная просьба: *ask sb **not to** do*."
+  - q: "'Could you keep an eye on my bag, please?' → A woman on the platform asked if I ___ an eye on her bag."
+    answers: ["could keep", "would keep"]
+    explain: "Просьба через *if* + **could / would**."
+  - q: "'You must save your work before the update.' → The technician warned us that we ___ our work before the update."
+    answers: ["must save", "had to save"]
+    explain: "*must* в косвенной речи → **must** или **had to**."
+  - q: "'All staff should complete the safety training by May.' → Management has recommended that all staff ___ the safety training by May."
+    answers: ["complete", "should complete"]
+    explain: "*recommend that* + сослагательное **complete** (без *-s*) или *should complete*. Reporting verb в Present Perfect — сдвига нет."
+  - q: "'Remote work will be the norm within a decade.' → It is her firm ___ that remote work will be the norm within a decade."
+    answers: ["belief", "view", "conviction", "opinion"]
+    explain: "Мнение через существительное: *It is her firm **belief / view** that…*"
+  - q: "'Don't open any attachments from unknown senders.' → The IT department has warned staff ___ any attachments from unknown senders."
+    answers: ["not to open", "against opening"]
+    explain: "*warn sb **not to** do* или *warn sb **against** doing*."

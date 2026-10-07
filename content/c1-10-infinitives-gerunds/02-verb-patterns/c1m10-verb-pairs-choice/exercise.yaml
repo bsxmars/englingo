@@ -1,0 +1,56 @@
+title: "Обе формы грамматичны — какая по смыслу?"
+type: choice
+intro: "Во всех пунктах оба (или все три) варианта грамматически возможны. Выбери тот, который подходит **по смыслу** контекста."
+hints:
+  - "remember / forget / regret + to do — действие впереди или сообщается сейчас; + doing — уже было."
+  - "try to do — усилие; try doing — эксперимент. stop to do — чтобы; stop doing — прекратить."
+  - "Глагол восприятия + do — целое действие; + doing — процесс или повтор."
+items:
+  - q: "I'm sure I posted the letter — I clearly remember ___ it into the box outside the bank."
+    options: ["to drop", "dropping"]
+    answer: 1
+    explain: "Воспоминание о том, что уже сделано → **remember doing**. *remember to do* — не забыть сделать в будущем."
+  - q: "The pilot announced that we would stop in Dubai ___ fuel."
+    options: ["to take on", "taking on"]
+    answer: 0
+    explain: "Остановка **с целью** заправиться → **stop to do**. *stop taking on fuel* — прекратить заправку."
+  - q: "The cursor kept freezing, so I tried ___ the browser extensions one by one — and that solved it."
+    options: ["to disable", "disabling"]
+    answer: 1
+    explain: "Это эксперимент: попробовал сделать и посмотрел на результат → **try doing**. *try to disable* — старался, но, видимо, было трудно."
+  - q: "However hard he tried ___ calm, his voice was trembling."
+    options: ["to stay", "staying"]
+    answer: 0
+    explain: "Усилие, которое даётся с трудом → **try to do**."
+  - q: "After summarising the problem, the report goes on ___ three possible solutions."
+    options: ["to propose", "proposing"]
+    answer: 0
+    explain: "Переход к **следующему** пункту → **go on to do**. *go on proposing* — продолжать предлагать то же самое."
+  - q: "From my window I watched the old man ___ the same patch of lawn for over an hour."
+    options: ["water", "watering"]
+    answer: 1
+    explain: "Длительный процесс (*for over an hour*) → **watching sb doing**. Голый инфинитив передаёт действие целиком, от начала до конца."
+  - q: "Suddenly, I felt something ___ against my leg under the table."
+    options: ["brush", "brushing"]
+    answer: 0
+    explain: "Короткое законченное действие (*suddenly*) → голый инфинитив **brush**."
+  - q: "Formal letter: 'We regret ___ you that the course has been cancelled.'"
+    options: ["to inform", "informing"]
+    answer: 0
+    explain: "Сожаление о том, что сообщаешь **сейчас** → **regret to inform**. *regret informing* — сожалею, что (когда-то) сообщил."
+  - q: "I'll never forget ___ the Grand Canyon for the first time — I was speechless."
+    options: ["to see", "seeing"]
+    answer: 1
+    explain: "Яркое воспоминание о прошлом → **forget doing** (обычно с *never*). *forget to do* — забыть сделать."
+  - q: "If we take on this client, it will mean ___ the whole schedule."
+    options: ["to rearrange", "rearranging"]
+    answer: 1
+    explain: "«Повлечёт за собой» → **mean doing**. *mean to do* — намереваться."
+  - q: "At the meeting, the director proposed ___ the launch until the autumn."
+    options: ["to postpone", "postponing"]
+    answer: 1
+    explain: "Предложила идею, которую обсудят все → **propose doing**. *propose to do* — «намереваюсь сам», личное решение говорящего."
+  - q: "The car really needs ___ before we drive it across Europe."
+    options: ["to service", "servicing"]
+    answer: 1
+    explain: "Пассивный смысл (машину должны обслужить) → **need doing** = *need to be serviced*. *needs to service* значило бы, что машина сама что-то обслуживает."

@@ -1,0 +1,40 @@
+title: "Сравнение: одно-два слова"
+type: gap
+intro: "Впиши **одно или два слова**. Если в скобках дано слово, поставь его в нужную форму."
+hints:
+  - "by far / the second + superlative; in + место или группа, of + период или набор."
+  - "further = «дополнительный»; fewer — с исчисляемыми."
+items:
+  - q: "This is by ___ the best restaurant in town."
+    answers: ["far"]
+    explain: "**by far** + superlative — «безусловно, с большим отрывом»."
+  - q: "The ___ you leave, the less traffic you'll hit."
+    answers: ["sooner", "earlier"]
+    explain: "*The + comparative…, the + comparative…*: **The sooner / earlier** you leave, the less traffic…"
+  - q: "He's not ___ good a player as his brother."
+    answers: ["as", "so"]
+    explain: "*not as / so + adj + a + noun + as*: *not **as** good a player as*."
+  - q: "Your essay is twice ___ long as the word limit allows."
+    answers: ["as"]
+    explain: "Кратность + *as… as*: *twice **as** long as*."
+  - q: "Birmingham is the second ___ (large) city in the UK."
+    answers: ["largest"]
+    explain: "*the second / third + superlative*: **the second largest**."
+  - q: "There were ___ (few) complaints this year than last year."
+    answers: ["fewer"]
+    explain: "*complaints* — исчисляемое → **fewer**, не *less*."
+  - q: "Please do not hesitate to contact us if you need any ___ (far) information."
+    answers: ["further"]
+    explain: "В значении «дополнительный» — только **further**; *farther* — лишь о расстоянии."
+  - q: "As the deadline approached, the meetings grew longer and ___ ."
+    answers: ["longer"]
+    explain: "Нарастание: *comparative + and + comparative*: *longer and **longer***."
+  - q: "She is widely regarded as the most gifted pianist ___ her generation."
+    answers: ["of", "in"]
+    explain: "С периодом и поколением обычно **of**: *of her generation*. *in her generation* тоже возможно."
+  - q: "Of the two candidates, Maria is clearly ___ (strong)."
+    answers: ["the stronger"]
+    explain: "При выборе из двух — *the* + **comparative**: *the stronger*. Суперлатив (*the strongest*) нужен, когда кандидатов три и больше."
+  - q: "Is the new version ___ faster, or does it just look prettier?"
+    answers: ["any"]
+    explain: "В вопросе и отрицании мера разницы — **any** + comparative: *Is it any faster?* = «хоть сколько-нибудь быстрее?»"

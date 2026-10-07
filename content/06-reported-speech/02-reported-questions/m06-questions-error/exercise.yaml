@@ -1,0 +1,44 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: порядок слов, лишний *do / did*, неверный союз или конструкция просьбы. Исправь её и отправь всё предложение целиком."
+hints:
+  - "Косвенный вопрос — прямой порядок: where I lived, if the museum was open."
+  - "Вопрос «да / нет» → if / whether, а не that."
+  - "Просьба → ask / tell sb (not) to do; вещь → ask for."
+items:
+  - q: "She asked me where did I buy my jacket."
+    answers: ["She asked me where I had bought my jacket.", "She asked me where I bought my jacket."]
+    explain: "В косвенном вопросе нет *did* и инверсии: **where I had bought** (или *where I bought* — Past Simple часто не сдвигают)."
+  - q: "He wanted to know if was the museum open on Sundays."
+    answers: ["He wanted to know if the museum was open on Sundays."]
+    explain: "После *if* — прямой порядок: подлежащее **the museum**, потом **was**."
+  - q: "My manager asked me that I could stay late on Friday."
+    answers: ["My manager asked me if I could stay late on Friday.", "My manager asked me whether I could stay late on Friday."]
+    explain: "Вопрос «да / нет» в пересказе вводится **if / whether**, а не *that*. *that* — для утверждений."
+  - q: "They asked to us if we needed any help."
+    answers: ["They asked us if we needed any help."]
+    explain: "*ask* берёт человека без предлога: **asked us**. *to* появляется только с *say*: *said to us*."
+  - q: "Could you tell me where is the nearest pharmacy?"
+    answers: ["Could you tell me where the nearest pharmacy is?"]
+    explain: "Вежливый вопрос — тоже косвенный: **where the nearest pharmacy is**. Глагол уходит в конец."
+  - q: "The officer told me not leave the country."
+    answers: ["The officer told me not to leave the country."]
+    explain: "Отрицательный приказ → **tell sb not to do**. Без *to* конструкция ломается."
+  - q: "I asked the waiter for bring the bill."
+    answers: ["I asked the waiter to bring the bill.", "I asked the waiter for the bill."]
+    explain: "Перед глаголом — **ask sb to do**, перед существительным — **ask for sth**. Смешивать их нельзя."
+  - q: "At last year's interview, they asked me how long I have been learning English."
+    answers: ["At last year's interview, they asked me how long I had been learning English."]
+    explain: "Вопрос задан в прошлом, ответ уже неактуален → сдвиг: *have been* → **had been** learning."
+  - q: "I wonder whether does she still work there."
+    answers: ["I wonder whether she still works there."]
+    explain: "После *whether* — прямой порядок, без *does*: **she still works**. *wonder* в настоящем, поэтому без сдвига."
+  - q: "Do you know what time does the shop close?"
+    answers: ["Do you know what time the shop closes?"]
+    explain: "*Do you know…* уже вопрос. Внутренняя часть — косвенная: **what time the shop closes**, без *does*."
+  - q: "The teacher asked who did break the window."
+    answers: ["The teacher asked who had broken the window.", "The teacher asked who broke the window."]
+    explain: "*who* — подлежащее, в прямом вопросе тоже нет *did* (*Who broke…?*). В пересказе: **who had broken** или *who broke*."
+  - q: "She said me to wait outside."
+    answers: ["She told me to wait outside.", "She asked me to wait outside."]
+    explain: "*say* не берёт человека и не работает с *to do*. Указание → **told me to**, просьба → **asked me to**."

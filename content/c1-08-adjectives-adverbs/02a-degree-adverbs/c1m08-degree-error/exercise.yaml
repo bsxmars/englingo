@@ -1,0 +1,40 @@
+title: "Найди ошибку в наречии степени"
+type: error
+intro: "В каждом предложении **одна** ошибка: неудачный усилитель или смягчитель, неверная коллокация или порядок слов. Исправь её и отправь предложение целиком."
+hints:
+  - "Крайнее прилагательное (exhausted, furious, enormous) не сочетается с very."
+  - "Перед comparative не ставят very и quite; перед too — much или far."
+items:
+  - q: "By the end of the hike, the children were very exhausted."
+    answers: ["By the end of the hike, the children were absolutely exhausted.", "By the end of the hike, the children were completely exhausted.", "By the end of the hike, the children were utterly exhausted.", "By the end of the hike, the children were totally exhausted.", "By the end of the hike, the children were really exhausted.", "By the end of the hike, the children were very tired.", "By the end of the hike, the children were exhausted."]
+    explain: "*exhausted* — крайнее прилагательное: **absolutely / completely exhausted**. Или оставь *very*, но смени слово: *very tired*."
+  - q: "The second draft is quite better than the first."
+    answers: ["The second draft is much better than the first.", "The second draft is far better than the first.", "The second draft is rather better than the first.", "The second draft is a lot better than the first.", "The second draft is considerably better than the first.", "The second draft is slightly better than the first.", "The second draft is a bit better than the first.", "The second draft is significantly better than the first.", "The second draft is somewhat better than the first.", "The second draft is a little better than the first.", "The second draft is quite a lot better than the first.", "The second draft is quite a bit better than the first.", "The second draft is better than the first."]
+    explain: "*quite* не ставится перед сравнительной степенью. Нужно **much / far / rather better** (или *quite a lot better*)."
+  - q: "The rent was too much expensive for two students."
+    answers: ["The rent was much too expensive for two students.", "The rent was far too expensive for two students.", "The rent was too expensive for two students.", "The rent was way too expensive for two students.", "The rent was a bit too expensive for two students.", "The rent was slightly too expensive for two students.", "The rent was rather too expensive for two students.", "The rent was a little too expensive for two students."]
+    explain: "Усилитель стоит **перед** *too*: **much too / far too expensive**. *too much* — перед неисчисляемым существительным (*too much money*)."
+  - q: "Fans were highly disappointed by the band's short set."
+    answers: ["Fans were bitterly disappointed by the band's short set.", "Fans were deeply disappointed by the band's short set.", "Fans were very disappointed by the band's short set.", "Fans were hugely disappointed by the band's short set.", "Fans were extremely disappointed by the band's short set.", "Fans were really disappointed by the band's short set.", "Fans were terribly disappointed by the band's short set.", "Fans were sorely disappointed by the band's short set.", "Fans were disappointed by the band's short set."]
+    explain: "Коллокация: **bitterly / deeply disappointed**. *highly* сочетается с *likely, qualified, recommended*, но не с эмоциями."
+  - q: "It was a pretty long journey, but a fairly enjoyable one, and it was a quite surprise to arrive early."
+    answers: ["It was a pretty long journey, but a fairly enjoyable one, and it was quite a surprise to arrive early."]
+    explain: "*quite* стоит перед артиклем: **quite a surprise**. *a pretty long* и *a fairly enjoyable* — порядок верный."
+  - q: "Your feedback would be very appreciated."
+    answers: ["Your feedback would be greatly appreciated.", "Your feedback would be much appreciated.", "Your feedback would be very much appreciated.", "Your feedback would be really appreciated.", "Your feedback would be appreciated.", "Your feedback would be hugely appreciated."]
+    explain: "С глагольным причастием в пассиве — **greatly / much / very much appreciated**, не голое *very*."
+  - q: "This is a very unique opportunity to see the collection before it closes."
+    answers: ["This is a unique opportunity to see the collection before it closes.", "This is a truly unique opportunity to see the collection before it closes.", "This is a really unique opportunity to see the collection before it closes.", "This is a quite unique opportunity to see the collection before it closes.", "This is quite a unique opportunity to see the collection before it closes.", "This is an absolutely unique opportunity to see the collection before it closes.", "This is a totally unique opportunity to see the collection before it closes.", "This is a very rare opportunity to see the collection before it closes."]
+    explain: "*unique* — абсолютное прилагательное («единственный в своём роде»); в аккуратном письме без *very*: **a unique** или **a truly unique** opportunity."
+  - q: "The two reports reach completely similar conclusions."
+    answers: ["The two reports reach very similar conclusions.", "The two reports reach remarkably similar conclusions.", "The two reports reach strikingly similar conclusions.", "The two reports reach broadly similar conclusions.", "The two reports reach almost identical conclusions.", "The two reports reach completely identical conclusions.", "The two reports reach identical conclusions.", "The two reports reach similar conclusions.", "The two reports reach extremely similar conclusions.", "The two reports reach really similar conclusions.", "The two reports reach nearly identical conclusions.", "The two reports reach virtually identical conclusions.", "The two reports reach broadly the same conclusions."]
+    explain: "*similar* — градуируемое: **very / remarkably similar**. *completely* требует абсолютного слова: *completely identical* или *almost identical*."
+  - q: "The manager was absolutely angry when he saw the figures."
+    answers: ["The manager was absolutely furious when he saw the figures.", "The manager was very angry when he saw the figures.", "The manager was extremely angry when he saw the figures.", "The manager was really angry when he saw the figures.", "The manager was furious when he saw the figures.", "The manager was angry when he saw the figures.", "The manager was incredibly angry when he saw the figures."]
+    explain: "*angry* градуируемое — **very / extremely angry**; *absolutely* требует крайнего слова: *absolutely furious*."
+  - q: "The difference is hard noticeable unless you compare the photos side by side."
+    answers: ["The difference is hardly noticeable unless you compare the photos side by side.", "The difference is barely noticeable unless you compare the photos side by side.", "The difference is scarcely noticeable unless you compare the photos side by side."]
+    explain: "«Почти незаметна» — **hardly / barely noticeable**. *hard* — наречие «усердно, сильно» (*work hard*), а не «едва»."
+  - q: "We strongly appreciate everything you have done for the team."
+    answers: ["We greatly appreciate everything you have done for the team.", "We really appreciate everything you have done for the team.", "We truly appreciate everything you have done for the team.", "We sincerely appreciate everything you have done for the team.", "We deeply appreciate everything you have done for the team.", "We much appreciate everything you have done for the team.", "We appreciate everything you have done for the team.", "We hugely appreciate everything you have done for the team.", "We very much appreciate everything you have done for the team.", "We do appreciate everything you have done for the team.", "We genuinely appreciate everything you have done for the team."]
+    explain: "*strongly* сочетается с *recommend, oppose, believe, disagree*. С *appreciate* — **greatly / really / truly**."

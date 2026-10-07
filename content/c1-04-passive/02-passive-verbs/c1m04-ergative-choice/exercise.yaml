@@ -1,0 +1,52 @@
+title: "Пассив, ergative, by или with"
+type: choice
+intro: "Выбери единственный верный вариант. Смотри на контекст: был ли исполнитель, назван ли он, что именно вводит предлог."
+hints:
+  - "Само произошло, исполнителя нет → ergative (The ice melted)."
+  - "Назван исполнитель (by…) или очевиден чей-то умысел → пассив."
+  - "by — исполнитель, причина, способ (by + -ing); with — инструмент и наполнение."
+items:
+  - q: "Nobody was anywhere near it, but the door suddenly ___ ."
+    options: ["opened", "was opened", "opened itself"]
+    answer: 0
+    explain: "Исполнителя нет → ergative **opened**. *was opened* предполагает, что кто-то открыл, а *itself* с ergative-глаголами не ставят."
+  - q: "The ice on the lake ___ as soon as the temperature rose above zero."
+    options: ["melted", "was melted", "melted itself"]
+    answer: 0
+    explain: "Природный процесс → ergative **melted**. Пассив здесь звучит так, будто лёд кто-то растопил."
+  - q: "Ticket prices ___ by the new director to cover the museum's deficit."
+    options: ["increased", "were increased", "increased themselves"]
+    answer: 1
+    explain: "Назван исполнитель (*by the new director*) и цель → пассив **were increased**. Ergative не сочетается с by-phrase."
+  - q: "Wool jumpers often ___ if you wash them in hot water."
+    options: ["shrink", "are shrunk", "shrink themselves"]
+    answer: 0
+    explain: "Изменение, которое происходит само → ergative **shrink**."
+  - q: "The vase ___ by the cleaner, who knocked it off the shelf with her elbow."
+    options: ["broke", "was broken", "broke itself"]
+    answer: 1
+    explain: "Есть исполнитель → пассив **was broken** by the cleaner."
+  - q: "The envelope had been carefully opened ___ a paper knife, not torn."
+    options: ["by", "with", "through"]
+    answer: 1
+    explain: "Нож — **инструмент**, которым кто-то действовал → **with**. *by* вводит исполнителя или причину."
+  - q: "Sales of electric vehicles ___ steadily since 2020."
+    options: ["have grown", "have been grown", "have grown themselves"]
+    answer: 0
+    explain: "*grow* в значении «расти» о показателях — ergative: **have grown**. Пассив *have been grown* — про выращивание растений."
+  - q: "Which sentence sounds most natural in a museum audio guide?"
+    options: ["The altarpiece was commissioned in 1432.", "The altarpiece was commissioned by somebody in 1432.", "The altarpiece was commissioned by people in 1432."]
+    answer: 0
+    explain: "Исполнитель-пустышка (*by somebody, by people*) не добавляет информации. Либо называем заказчика конкретно, либо by-phrase опускаем."
+  - q: "The room temperature can be lowered ___ adjusting the thermostat."
+    options: ["by", "with", "from"]
+    answer: 0
+    explain: "**by + -ing** — способ, которым достигается результат. *with* ставится перед существительным-инструментом, а не перед *-ing*."
+  - q: "The talks ___ when the two sides failed to agree on a timetable."
+    options: ["broke down", "were broken down", "broke themselves down"]
+    answer: 0
+    explain: "*break down* в значении «сорваться» (о переговорах) — непереходный фразовый глагол, пассива нет: **broke down**."
+  - q: "The disease has long been associated ___ poor sanitation."
+    options: ["with", "by", "to"]
+    answer: 0
+    explain: "*associate* в пассиве требует **with**: *be associated with*. *associated to* — частая ошибка-калька."

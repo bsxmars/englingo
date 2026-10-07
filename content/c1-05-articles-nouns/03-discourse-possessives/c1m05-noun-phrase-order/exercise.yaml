@@ -1,0 +1,37 @@
+title: "Собери именную группу"
+type: order
+intro: "Собери предложение из слов. Следи за местом артикля, 's и compound: определитель → прилагательное → существительное-классификатор → главное существительное."
+hints:
+  - "Compound: главное слово в конце — a sales assistant, a ten-minute walk."
+  - "Double possessive: a/that + существительное + of + mine / yours / Margaret's."
+items:
+  - q: "Объявление о вакансии: «Мы ищем продавца-консультанта на неполный день»."
+    answers: ["We are looking for a part-time sales assistant"]
+    explain: "Прилагательное *part-time* стоит перед compound *sales assistant*; главное слово — *assistant*."
+  - q: "Отчёт: «Рост объяснялся в основном спросом в интернете»."
+    answers: ["The increase was largely due to online demand", "The increase was due largely to online demand"]
+    explain: "*The increase* — ярлык, суммирующий предыдущую информацию. *largely* ставится перед *due to* или между *due* и *to*."
+  - q: "Новость: «Это решение было широко раскритиковано экологическими организациями»."
+    answers: ["The move was widely criticised by environmental groups", "The move was widely criticized by environmental groups"]
+    explain: "*The move* называет уже описанное решение заново; наречие *widely* — между *was* и V3."
+  - q: "Реплика: «Это была блестящая идея с твоей стороны»."
+    answers: ["That was a brilliant idea of yours"]
+    explain: "Double possessive: *a brilliant idea **of yours*** — артикль и притяжательное местоимение не могут стоять рядом (~~a your idea~~)."
+  - q: "Рассказ о приёме: «Я познакомился с женой премьер-министра»."
+    answers: ["I met the Prime Minister's wife at the reception", "At the reception I met the Prime Minister's wife"]
+    explain: "Групповой possessive: 's присоединяется ко всей группе *the Prime Minister*."
+  - q: "Биография: «Под псевдонимом она пишет детские книги»."
+    answers: ["She writes children's books under a different name", "Under a different name she writes children's books"]
+    explain: "Classifying possessive: *children's books* — «книги для детей»."
+  - q: "Новость: «Несколько прохожих остановились, чтобы помочь раненому велосипедисту»."
+    answers: ["Several passers-by stopped to help the injured cyclist"]
+    explain: "Множественное число compound — на главном слове: *passers-by*. *the injured cyclist* — уже известный из контекста."
+  - q: "Путеводитель: «Отель в десяти минутах ходьбы от пляжа»."
+    answers: ["The hotel is a ten-minute walk from the beach"]
+    explain: "Compound-мера в единственном числе: *a ten-minute walk*."
+  - q: "Политика: «Правительство обещало помочь безработным»."
+    answers: ["The government has promised to help the unemployed"]
+    explain: "*the* + прилагательное = группа людей: *the unemployed*."
+  - q: "Покупки: «Мне нужна новая пара кроссовок для бега»."
+    answers: ["I need a new pair of running shoes", "I need a pair of new running shoes"]
+    explain: "pair noun считаем через *a pair of*; прилагательное *new* обычно стоит перед *pair*, но возможно и перед *running shoes*."

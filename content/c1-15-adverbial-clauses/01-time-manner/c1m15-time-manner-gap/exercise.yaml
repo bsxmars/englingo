@@ -1,0 +1,41 @@
+title: "Время и образ действия: формы глаголов"
+type: gap
+intro: "Поставь глагол в скобках в нужную форму или впиши союз. Если в скобках подлежащее, используй его. Сокращения засчитываются."
+hints:
+  - "В придаточном времени о будущем — Present Simple или Present Perfect, не will."
+  - "since + Past Simple / Present Perfect, но не Present Simple."
+  - "as if / as though + Past или were — нереальное."
+items:
+  - q: "Scarcely ___ (we / sit) down when the lights went out."
+    answers: ["had we sat"]
+    explain: "После фронтированного **Scarcely** — инверсия и Past Perfect: *had we sat*."
+  - q: "I'll help you with the slides after I ___ (finish) this report."
+    answers: ["finish", "have finished"]
+    explain: "Будущее в придаточном времени → **Present Simple** или **Present Perfect** (подчёркивает завершённость). Не *will*."
+  - q: "She talks about the project as if she ___ (be) its sole author, which she certainly isn't."
+    answers: ["were", "was"]
+    explain: "Нереальное сравнение → **were** (формально) или *was* (разговорно)."
+  - q: "He looks as though he ___ (not / sleep) for days."
+    answers: ["has not slept", "hasn't slept", "had not slept", "hadn't slept"]
+    explain: "Вероятно правда → **hasn't slept**; если подчёркиваем, что это лишь впечатление, — *hadn't slept*. Оба варианта встречаются."
+  - q: "We'll stay in the shelter until the storm ___ (pass)."
+    answers: ["passes", "has passed"]
+    explain: "**until** + Present Simple / Present Perfect для будущего."
+  - q: "I haven't been back to Riga since I ___ (graduate)."
+    answers: ["graduated"]
+    explain: "**since** + момент в прошлом → Past Simple."
+  - q: "The moment the results ___ (publish), we'll send them to you."
+    answers: ["are published", "have been published"]
+    explain: "**The moment** = *as soon as*: будущее → Present (здесь пассив): *are published*."
+  - q: "No sooner ___ (the minister / finish) her speech than protesters stormed the stage."
+    answers: ["had the minister finished"]
+    explain: "**No sooner + had + подлежащее + V3** — инверсия, затем *than*."
+  - q: "In the end, things didn't turn out ___ we had planned."
+    answers: ["as", "the way", "how", "the way that", "like"]
+    explain: "«так, как» → **as** (нейтрально) или *the way (that)*."
+  - q: "The weather isn't nearly as warm ___ it was this time last year."
+    answers: ["as"]
+    explain: "Сравнение **as … as**; *nearly* усиливает отрицание: «далеко не так тепло»."
+  - q: "While I ___ (wait) for the bus, I read the whole report."
+    answers: ["was waiting", "waited"]
+    explain: "**while** + длительное фоновое действие → Past Continuous (или Past Simple для параллельных действий)."

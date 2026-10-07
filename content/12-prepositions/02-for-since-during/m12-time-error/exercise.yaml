@@ -1,0 +1,45 @@
+title: "Найди и исправь ошибку: время и сравнение"
+type: error
+intro: "В каждом предложении **одна** ошибка: не тот предлог или союз (for / since / ago / before, during / while, by / until, as / like / as if). Исправь её и отправь предложение целиком."
+hints:
+  - "since — точка отсчёта, for — длительность, ago — от сейчас, before — от момента в прошлом."
+  - "during + существительное, while + подлежащее и глагол."
+  - "by — «не позже», until — «непрерывно вплоть до»."
+  - "as — в роли, кем являешься; like — похоже на; as if — как будто."
+items:
+  - q: "I've been working on this project since six months."
+    answers: ["I've been working on this project for six months."]
+    explain: "*six months* — длительность, а не момент → **for**. С **since** нужна точка: *since March*."
+  - q: "The phone rang during I was having a shower."
+    answers: ["The phone rang while I was having a shower."]
+    explain: "После пропуска стоит целое предложение (*I was having*) → **while**. **during** берёт только существительное: *during my shower*."
+  - q: "You can keep the book by next Monday, then I'll need it back."
+    answers: ["You can keep the book until next Monday, then I'll need it back.", "You can keep the book till next Monday, then I'll need it back."]
+    explain: "Действие (держать книгу) длится непрерывно вплоть до понедельника → **until / till**. *by* — «не позже такого-то срока»."
+  - q: "Please let me know your decision until the end of the week."
+    answers: ["Please let me know your decision by the end of the week."]
+    explain: "Сообщить — одно действие, которое должно случиться не позже пятницы → **by**. *until* требует длящегося действия."
+  - q: "When I finally called him back, he had left the office an hour ago."
+    answers: ["When I finally called him back, he had left the office an hour before.", "When I finally called him back, he had left the office an hour earlier."]
+    explain: "Отсчёт идёт от момента в прошлом (когда я перезвонил), а не от сейчас → **before / earlier**. *ago* считает только от настоящего."
+  - q: "Like your manager, I must ask you to follow the new security rules."
+    answers: ["As your manager, I must ask you to follow the new security rules."]
+    explain: "Говорящий и **есть** менеджер, он говорит в этой роли → **as**. *Like your manager* значило бы «так же, как ваш менеджер», то есть это другой человек."
+  - q: "She treats the new intern as he was her own son."
+    answers: ["She treats the new intern as if he was her own son.", "She treats the new intern as if he were her own son.", "She treats the new intern as though he was her own son.", "She treats the new intern as though he were her own son.", "She treats the new intern like he was her own son.", "She treats the new intern like he were her own son."]
+    explain: "Нереальное сравнение «как будто» → **as if / as though** (в разговорной речи — *like*). Простое *as* + предложение значит «как, так же как»."
+  - q: "We haven't had a proper holiday since three years."
+    answers: ["We haven't had a proper holiday for three years.", "We haven't had a proper holiday in three years."]
+    explain: "*three years* — длительность → **for** (в американском английском и в отрицаниях также *in three years*)."
+  - q: "I slept for most of the flight and woke up only while the landing."
+    answers: ["I slept for most of the flight and woke up only during the landing."]
+    explain: "*the landing* — существительное, без глагола → **during**."
+  - q: "My grandmother worked like a teacher for forty years."
+    answers: ["My grandmother worked as a teacher for forty years."]
+    explain: "Профессия, роль → **as** a teacher. *like a teacher* — «как учитель», хотя она им не была."
+  - q: "He talks as an expert, but he has never studied economics."
+    answers: ["He talks like an expert, but he has never studied economics.", "He talks as if he were an expert, but he has never studied economics.", "He talks as if he was an expert, but he has never studied economics."]
+    explain: "Он **не** эксперт, лишь похож на него → **like** an expert (или *as if he were an expert*). *as an expert* значило бы, что он действительно эксперт."
+  - q: "Two years before, I moved to Berlin, and I still live here."
+    answers: ["Two years ago, I moved to Berlin, and I still live here.", "Two years ago I moved to Berlin, and I still live here."]
+    explain: "Отсчёт от **сейчас** (*I still live here*) → **ago**. *before* считает назад от другого момента в прошлом."

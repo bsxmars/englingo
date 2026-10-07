@@ -1,0 +1,8 @@
+.DS_Store
+/dist/
+node_modules/
+*.tsbuildinfo
+.vitest/
+test-results/
+playwright-report/
+englingo-progress.json

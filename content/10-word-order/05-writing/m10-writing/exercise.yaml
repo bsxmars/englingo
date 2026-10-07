@@ -1,0 +1,40 @@
+title: "Статья: офис или дом?"
+type: writing
+intro: "Напиши статью по заданию ниже. Сначала составь план по абзацам, потом пиши."
+prompt: |
+  You see this announcement in an online magazine for young professionals:
+
+  > **Articles wanted: office or home?**
+  >
+  > Some people love working from home; others can't wait to get back to the office. Which do you think is better, and why? Compare the two options — think about money, productivity and social life — and tell us which one you would choose.
+  >
+  > The best articles will be published on our website.
+
+  Write your **article** (140–190 words).
+words: [140, 190]
+target_grammar:
+  - "Сравнительная и превосходная степени: cheaper, more productive, the best option"
+  - "Усилители: much / far / a lot / slightly / a bit + comparative"
+  - "as … as, not nearly as … as, twice as … as"
+  - "the more…, the more…"
+  - "Прямые и косвенные вопросы к читателю: Have you ever wondered whether…?"
+checklist:
+  - "Есть интригующий заголовок, а начало обращается к читателю (вопрос, ситуация)."
+  - "Чёткая структура: вступление, по абзацу на каждый аспект сравнения (2–3), вывод с личным мнением."
+  - "Не меньше пяти сравнений разных типов: -er / more, much / slightly + comparative, as … as, the most."
+  - "Есть хотя бы один вопрос к читателю с правильным порядком слов (прямой или косвенный)."
+  - "Нет ошибок вида «more better» и «very cheaper»; наречия стоят на своих местах (always, often, still)."
+  - "Связки между абзацами: When it comes to…, On the other hand, All things considered."
+  - "Объём 140–190 слов, регистр нейтральный и живой."
+model_answer: |
+  **Pyjamas or a suit? The great office debate**
+
+  Have you ever wondered whether you'd work better in your kitchen or at a desk in a busy office? I've tried both, and the answer isn't as simple as I expected.
+
+  Let's start with money. Working from home is far cheaper: no train tickets, no expensive lunches, no new clothes. In my case, I spent roughly twice as much a month when I commuted to the office every day.
+
+  When it comes to productivity, things get more complicated. At home I'm much better at tasks that need deep concentration, because nobody interrupts me. On the other hand, solving problems with colleagues is a lot faster face to face. A quick chat by the coffee machine is often more useful than an hour-long video call.
+
+  Social life is where the office clearly wins. Working alone isn't nearly as lonely as people think — at first. But the longer I stayed at home, the more I missed small talk.
+
+  So which would I choose? For me, the best option is a mix: three days at home, two in the office. What about you?

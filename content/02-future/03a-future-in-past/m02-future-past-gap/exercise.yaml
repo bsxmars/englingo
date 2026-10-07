@@ -1,0 +1,43 @@
+title: "Будущее в прошлом: впиши форму"
+type: gap
+intro: "Впиши подходящую форму. В скобках — глагол и, если нужно, подсказка о конструкции."
+hints:
+  - "will → would, am going to → was going to, is about to → was about to."
+  - "После about to, due to, supposed to, bound to — инфинитив без to-повтора: was about to leave."
+items:
+  - q: "I was sure the meeting ___ (be) boring, but it was actually quite useful."
+    answers: ["would be", "was going to be"]
+    explain: "Прогноз из прошлого (*I was sure*) → **would be**; *was going to be* тоже возможно, если прогноз основан на признаках."
+  - q: "Sorry, I ___ (going to / tell) you about the change, but I completely forgot."
+    answers: ["was going to tell"]
+    explain: "Несбывшееся намерение → **was going to tell**. Подлежащее *I* → *was*."
+  - q: "We ___ (about to / give up) when we finally found the bug."
+    answers: ["were about to give up", "were just about to give up"]
+    explain: "«Уже почти сдались, и тут…» → **were about to give up** + *when* + Past Simple."
+  - q: "The train ___ (due to / arrive) at 9.15, but it didn't turn up until ten."
+    answers: ["was due to arrive"]
+    explain: "Время по расписанию в прошлом → **was due to arrive**."
+  - q: "My brother promised he ___ (not / tell) anyone, but by lunchtime the whole family knew."
+    answers: ["wouldn't tell", "would not tell", "would never tell"]
+    explain: "Обещание в прошлом → **wouldn't tell**. *won't* после *promised* — ошибка согласования."
+  - q: "You ___ (supposed to / be) on a diet! Why are you eating cake?"
+    answers: ["were supposed to be", "are supposed to be", "'re supposed to be"]
+    explain: "«Ты же вроде на диете» — договорённость, которую нарушают → **are / were supposed to be**. Оба варианта естественны."
+  - q: "I pressed the button several times, but the lift ___ (not / move)."
+    answers: ["wouldn't move", "would not move", "didn't move", "did not move"]
+    explain: "Упорное «не хотел двигаться» → **wouldn't move**. Простое *didn't move* тоже верно, но без оттенка «отказа»."
+  - q: "Don't worry about the interview — you ___ (bound to / do) well, you've prepared so much."
+    answers: ["are bound to do", "'re bound to do"]
+    explain: "Уверенный прогноз → **are bound to do**. После *bound to* — инфинитив."
+  - q: "In 1998 he was a junior programmer. Ten years later he ___ (become) the head of the company."
+    answers: ["would become", "became", "was to become"]
+    explain: "Взгляд из прошлого в «будущее» героя → **would become** (или книжное *was to become*). Простое *became* тоже верно."
+  - q: "I knew it ___ (going to / rain) — I could smell it in the air."
+    answers: ["was going to rain"]
+    explain: "Прогноз по признакам из прошлого → **was going to rain**."
+  - q: "The new stadium ___ (be) ready by 2020, but the work was delayed for years."
+    answers: ["was supposed to be", "was due to be", "was meant to be", "was going to be", "was to be"]
+    explain: "План, который не выполнили → **was supposed to / due to / meant to be**. Все варианты передают «должен был по плану»."
+  - q: "The company ___ (likely / announce) the results next week, according to analysts."
+    answers: ["is likely to announce", "'s likely to announce"]
+    explain: "Вероятность в будущем → **is likely to announce**. *likely* — прилагательное, перед ним нужен *be*."

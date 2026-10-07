@@ -1,0 +1,40 @@
+title: "Короткие ответы"
+type: gap
+intro: "Закончи ответ. Впиши только то, что стоит на месте пропуска."
+hints:
+  - "Короткий ответ = местоимение + вспомогательный глагол из вопроса: Yes, I do / No, she hasn't."
+  - "think / expect + so; hope / be afraid + so или not."
+items:
+  - q: "— Are you working tomorrow? — No, I ___."
+    answers: ["'m not", "am not"]
+    explain: "Отрицательный короткий ответ с *I am* — **No, I'm not**. ~~No, I amn't~~ не бывает."
+  - q: "— Does your sister still live in Riga? — Yes, she ___."
+    answers: ["does"]
+    explain: "Вопрос с *does* → ответ **Yes, she does**. Смысловой глагол не повторяем."
+  - q: "— Have you ever tried sushi? — Yes, I ___. Lots of times."
+    answers: ["have"]
+    explain: "Вспомогательный из вопроса — *have* → **Yes, I have**. В положительном ответе без сокращения."
+  - q: "— Did they fix your laptop? — No, they ___. It's still broken."
+    answers: ["didn't", "did not"]
+    explain: "Вопрос в Past Simple с *did* → **No, they didn't**."
+  - q: "— Will there be any snacks at the meeting? — No, there ___, so grab lunch first."
+    answers: ["won't", "will not"]
+    explain: "*Will there be…?* → **No, there won't**. *there* повторяется в ответе."
+  - q: "— Is Tom coming with us? — Yes, he ___."
+    answers: ["is"]
+    explain: "В положительном коротком ответе сокращать нельзя: **Yes, he is** (~~Yes, he's~~)."
+  - q: "— Is the shop still open, do you think? — I ___ so. It closes at six, and it's already half past."
+    answers: ["don't think", "do not think", "don't expect", "do not expect", "don't suppose", "do not suppose"]
+    explain: "Отрицательный ответ с *think / expect / suppose* — **I don't think so**."
+  - q: "— Will we get there on time? — I hope ___. I really don't want to be late."
+    answers: ["so"]
+    explain: "Надеемся, что «да» → **I hope so**. «Надеюсь, что нет» было бы *I hope not*."
+  - q: "— Is there a problem with my application? — I'm afraid ___. One of the documents is missing."
+    answers: ["so"]
+    explain: "**I'm afraid so** = «к сожалению, да». *I'm afraid not* = «к сожалению, нет»."
+  - q: "— Would you like to join us for dinner? — I'd love ___, but I'm working late tonight."
+    answers: ["to"]
+    explain: "Ответ на приглашение — **I'd love to** (частица *to* остаётся, глагол опускаем). Отказ — с объяснением."
+  - q: "— Haven't you finished the report yet? — ___, I haven't. I'll do it tonight."
+    answers: ["No"]
+    explain: "Отчёт **не** закончен → **No**, I haven't. *yes / no* выбираем по факту, а не по форме вопроса."

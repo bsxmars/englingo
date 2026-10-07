@@ -1,0 +1,60 @@
+title: "Перефразирование: too и enough (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+
+  Пары *too ↔ not … enough* и *so … that ↔ too … to* — постоянные гости Part 4.
+hints:
+  - "too young = not old enough; too slowly = not fast / quickly enough."
+  - "После too … to дополнение не повторяем."
+items:
+  - q: "My daughter is too young to watch this film."
+    key: "ENOUGH"
+    stem: "My daughter ___ to watch this film."
+    answers: ["is not old enough", "isn't old enough"]
+    explain: "*too young* → **not old enough**: прилагательное меняется на противоположное, *enough* — после него."
+  - q: "The hall isn't big enough for the whole school."
+    key: "TOO"
+    stem: "The hall ___ the whole school."
+    answers: ["is too small for", "is much too small for", "is far too small for"]
+    explain: "*not big enough* → **too small for**. Не забудь *for* перед тем, для кого / чего."
+  - q: "The water was so cold that we couldn't swim."
+    key: "TOO"
+    stem: "The water was ___ swim in."
+    answers: ["too cold for us to", "too cold to", "far too cold to", "much too cold to"]
+    explain: "*so … that we couldn't* → **too cold (for us) to swim in**. Предлог *in* остаётся в конце, местоимение *it* не нужно."
+  - q: "He spoke so quickly that nobody understood him."
+    key: "SLOWLY"
+    stem: "He didn't speak ___ anybody to understand him."
+    answers: ["slowly enough for"]
+    explain: "*too quickly* = **not slowly enough**; дальше — *for + кто-то + to глагол*."
+  - q: "We didn't have enough money to buy the tickets."
+    key: "AFFORD"
+    stem: "We ___ the tickets."
+    answers: ["could not afford", "couldn't afford", "could not afford to buy", "couldn't afford to buy", "were not able to afford", "weren't able to afford"]
+    explain: "«Не хватало денег купить» = **couldn't afford** — естественная замена конструкции с *enough money*."
+  - q: "This bag is too heavy for me to carry."
+    key: "STRONG"
+    stem: "I'm ___ carry this bag."
+    answers: ["not strong enough to"]
+    explain: "Меняем перспективу: сумка *too heavy* → я **not strong enough to** carry."
+  - q: "There were so many people that we couldn't get in."
+    key: "TOO"
+    stem: "There were ___ for us to get in."
+    answers: ["too many people", "far too many people", "much too many people"]
+    explain: "Исчисляемое во множественном числе → **too many people**. *much too many* встречается реже, *far too many* — естественнее."
+  - q: "The report was a little longer than it needed to be."
+    key: "BIT"
+    stem: "The report was ___ long."
+    answers: ["a bit too", "a little bit too"]
+    explain: "«Чуть длиннее, чем нужно» = **a bit too long**."
+  - q: "I'm completely sure that I locked the door."
+    key: "QUITE"
+    stem: "I'm ___ that I locked the door."
+    answers: ["quite sure", "quite certain"]
+    explain: "С «абсолютным» прилагательным *sure* **quite** значит «совершенно»: *quite sure*."
+  - q: "The trip was more expensive than we had expected."
+    key: "RATHER"
+    stem: "The trip cost ___ than we had expected."
+    answers: ["rather more"]
+    explain: "Перед сравнительной степенью — **rather**: *cost rather more than*. *quite more* невозможно."

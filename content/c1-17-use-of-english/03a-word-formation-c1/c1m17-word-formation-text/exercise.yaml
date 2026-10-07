@@ -1,0 +1,44 @@
+title: "Word formation: текст «Citizen science»"
+type: gap
+intro: |
+  Связный текст в формате C1 Advanced, Part 3, разбитый на предложения. Образуй от слова в скобках (капсом) форму, которая подходит к пропуску. Часто нужно два-три изменения. Написание *-ise / -ize* засчитывается в обоих вариантах.
+hints:
+  - "Сначала часть речи, потом число, потом знак: нужен ли отрицательный смысл?"
+  - "Цепочки: nation → national → nationwide; vary → variable → variability."
+items:
+  - q: "Until recently, scientific research was seen as the ___ (EXCLUDE) territory of universities and laboratories."
+    answers: ["exclusive"]
+    explain: "Перед существительным *territory* — прилагательное: *exclude* → **exclusive** («исключительный, закрытый»)."
+  - q: "Today, thousands of ___ (VOLUNTEER) count birds, classify galaxies and monitor river pollution in their spare time."
+    answers: ["volunteers"]
+    explain: "После *thousands of* — существительное во множественном числе: **volunteers**. Ловушка — забыть *-s*."
+  - q: "Their contribution is far from ___ (SIGNIFY): some projects rely almost entirely on amateurs."
+    answers: ["insignificant"]
+    explain: "*far from* + отрицание = «очень даже значимый». *signify* → *significant* → **insignificant**."
+  - q: "One astronomy project has led to the ___ (DISCOVER) of several previously unknown planets."
+    answers: ["discovery"]
+    explain: "После *the* и перед *of* — существительное: **discovery**."
+  - q: "Critics, however, question the ___ (ACCURATE) of data collected by people with no formal training."
+    answers: ["accuracy"]
+    explain: "После *the* — существительное: *accurate* → **accuracy** (*-ate* → *-acy*)."
+  - q: "Researchers argue that errors are ___ (LARGE) cancelled out by the sheer number of observations."
+    answers: ["largely"]
+    explain: "Между *are* и *cancelled* — наречие: **largely** («в основном»)."
+  - q: "In ___ (ADD), participants often become passionate advocates for the causes they study."
+    answers: ["addition"]
+    explain: "Фиксированная фраза **In addition** — «кроме того»."
+  - q: "Projects are sometimes criticised for treating volunteers as free labour and for their lack of ___ (TRANSPARENT)."
+    answers: ["transparency"]
+    explain: "После *lack of* — существительное: *transparent* → **transparency** (*-ent* → *-ency*)."
+  - q: "It would be ___ (REASON) to expect amateurs to replace professional scientists altogether."
+    answers: ["unreasonable"]
+    explain: "Смысл: такое ожидание неоправданно → отрицательная форма **unreasonable**."
+  - q: "Nevertheless, the movement has made science more ___ (ACCESS) to ordinary people than ever before."
+    answers: ["accessible"]
+    explain: "*access* → **accessible** — с *-ible*, а не ~~accessable~~."
+  - q: "Many participants describe the experience as deeply ___ (REWARD)."
+    answers: ["rewarding"]
+    explain: "Опыт, который приносит удовлетворение, — **rewarding** (прилагательное на *-ing*, а не *rewarded*)."
+  - q: "The ___ (WILLING) of so many people to give up their weekends is perhaps the most remarkable finding of all."
+    answers: ["willingness"]
+    explain: "После *the* и перед *of* — существительное: *willing* → **willingness** («готовность»)."

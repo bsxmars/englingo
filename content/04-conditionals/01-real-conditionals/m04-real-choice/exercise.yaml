@@ -1,0 +1,54 @@
+title: "if, unless, in case, as long as"
+type: choice
+intro: "Выбери вариант, который подходит по смыслу и по форме."
+hints:
+  - "in case — мера предосторожности заранее; unless — если не; as long as / provided — только при условии."
+items:
+  - q: "Take an umbrella ___ it rains later."
+    options: ["in case", "unless", "as long as"]
+    answer: 0
+    explain: "Берём зонт **заранее**, на случай дождя → **in case**. *unless* дал бы «возьми, если не пойдёт дождь»."
+  - q: "You can't come in ___ you have a ticket."
+    options: ["unless", "if", "in case"]
+    answer: 0
+    explain: "«Нельзя войти, **если нет** билета» → **unless** (= *if you don't have*)."
+  - q: "I'll help you with your project ___ you help me with my essay later."
+    options: ["as long as", "unless", "in case"]
+    answer: 0
+    explain: "«Помогу **при условии**, что ты поможешь мне» → **as long as**."
+  - q: "If I ___ a million dollars, I'd travel the world."
+    options: ["won", "will win", "would win"]
+    answer: 0
+    explain: "Маловероятная ситуация → second conditional: if + **Past Simple**. *would* в части с *if* не ставится."
+  - q: "If I see Tom, I ___ him your message."
+    options: ["'ll give", "'d give", "give"]
+    answer: 0
+    explain: "Реальное будущее → first conditional: **will give** в результате."
+  - q: "We'll go to the beach tomorrow, ___ the weather is good."
+    options: ["provided that", "unless", "in case"]
+    answer: 0
+    explain: "«При условии, что погода хорошая» → **provided that**."
+  - q: "If you ___ water to 100°C, it boils."
+    options: ["heat", "will heat", "would heat"]
+    answer: 0
+    explain: "Научный факт → zero conditional: Present Simple в обеих частях."
+  - q: "I'd buy that jacket if it ___ so expensive."
+    options: ["wasn't", "isn't", "wouldn't be"]
+    answer: 0
+    explain: "Куртка дорогая, поэтому не покупаю → second conditional: if + **Past Simple** (*wasn't* или *weren't*)."
+  - q: "Write down my number ___ you need help while I'm away."
+    options: ["in case", "unless", "as long as"]
+    answer: 0
+    explain: "Записываем номер **заранее**, на всякий случай → **in case**."
+  - q: "___ you hurry, you'll be late."
+    options: ["Unless", "If", "In case"]
+    answer: 0
+    explain: "«**Если не** поторопишься — опоздаешь» → **Unless**. С *If* смысл перевернулся бы."
+  - q: "I'll be surprised if he ___ on time."
+    options: ["arrives", "will arrive", "would arrive"]
+    answer: 0
+    explain: "После **if** — Present Simple, даже если речь о будущем."
+  - q: "If I ___ you, I wouldn't trust him."
+    options: ["were", "am", "would be"]
+    answer: 0
+    explain: "Совет через нереальное условие → **If I were you**."

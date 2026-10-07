@@ -1,0 +1,64 @@
+title: "Перефразирование: какие глаголы дают пассив (C1 Advanced, Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "Два дополнения: подлежащим пассива обычно становится человек (She was given…)."
+  - "explain, describe, suggest — человек не может быть подлежащим пассива: The rules were explained to us."
+  - "Фразовые и предложные глаголы сохраняют предлог: was looked into, was laughed at."
+items:
+  - q: "The committee awarded her a research grant."
+    key: "AWARDED"
+    stem: "She ___ by the committee."
+    answers: ["was awarded a research grant", "was awarded a grant"]
+    explain: "Два дополнения — подлежащим становится человек: **was awarded a research grant**."
+  - q: "Someone explained the new procedure to us at the briefing."
+    key: "EXPLAINED"
+    stem: "The new procedure ___ at the briefing."
+    answers: ["was explained to us"]
+    explain: "*explain* не даёт пассива с человеком в роли подлежащего (~~We were explained~~): **The procedure was explained to us**."
+  - q: "The police are investigating the complaint."
+    key: "INTO"
+    stem: "The complaint ___ by the police."
+    answers: ["is being looked into", "is currently being looked into"]
+    explain: "Предложный глагол сохраняет предлог в пассиве: **is being looked into** (Present Continuous пассива)."
+  - q: "Everyone in the room laughed at his suggestion."
+    key: "LAUGHED"
+    stem: "His suggestion ___ in the room."
+    answers: ["was laughed at by everyone", "was laughed at by everybody"]
+    explain: "*laugh at* в пассиве: **was laughed at** — предлог остаётся после причастия."
+  - q: "They called the match off because of the storm."
+    key: "OFF"
+    stem: "The match ___ the storm."
+    answers: ["was called off because of", "was called off due to", "was called off owing to", "had to be called off because of"]
+    explain: "Фразовый глагол в пассиве: **was called off** because of the storm."
+  - q: "The city council have appointed her head of the planning department."
+    key: "APPOINTED"
+    stem: "She ___ of the planning department by the city council."
+    answers: ["has been appointed head", "has been appointed the head", "has been appointed as head", "was appointed head"]
+    explain: "Дополнение + дополнение-характеристика: **has been appointed head** — второе существительное остаётся после глагола."
+  - q: "A bee stung the toddler on the arm."
+    key: "WAS"
+    stem: "The toddler ___ on the arm."
+    answers: ["was stung by a bee"]
+    explain: "Нужен исполнитель, иначе теряется смысл: **was stung by a bee**."
+  - q: "Water and fruit filled the bowl to the brim."
+    key: "WITH"
+    stem: "The bowl ___ water and fruit to the brim."
+    answers: ["was filled with", "had been filled with"]
+    explain: "Материал, а не исполнитель → **with**: *was filled with water and fruit*."
+  - q: "Someone sent the wrong invoice to the client."
+    key: "SENT"
+    stem: "The client ___ invoice."
+    answers: ["was sent the wrong", "had been sent the wrong", "has been sent the wrong"]
+    explain: "*send* даёт пассив с получателем-подлежащим: **was sent the wrong** invoice."
+  - q: "Prices have gone up by 12% since January."
+    key: "RISEN"
+    stem: "Prices ___ 12% since January."
+    answers: ["have risen by", "have risen"]
+    explain: "*rise* — непереходный, пассива нет (~~have been risen~~): **have risen by** 12%."
+  - q: "The judge fined the company two million euros."
+    key: "FINED"
+    stem: "The company ___ by the judge."
+    answers: ["was fined two million euros", "was fined €2 million", "was fined 2 million euros"]
+    explain: "*fine* — только «кого + сколько»: подлежащим становится компания: **was fined two million euros** (не ~~Two million was fined to the company~~)."

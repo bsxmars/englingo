@@ -1,0 +1,383 @@
+title: "Входной тест"
+type: choice
+intro: |
+  Около 75 вопросов по всем 15 темам курса. Выбери один вариант. **Не знаешь — пропусти**, не угадывай: так результат по темам будет честным.
+
+  Словарь не используй. Ориентир по времени — 35–40 минут.
+pass: 1
+items:
+  - q: "When I was younger, I ___ run ten kilometres without stopping."
+    options: ["could", "was able", "can"]
+    answer: 0
+    topic: "03-modals"
+    explain: "Общая способность в прошлом → **could**. *was able* требует *to*."
+  - q: "I've got ___ money left, so I can't go out tonight."
+    options: ["a few", "very little", "a little"]
+    answer: 1
+    topic: "09-nouns-articles"
+    explain: "Неисчисляемое + «мало, недостаточно» → **little** (*very little*). *a little* — «немного, но хватает»."
+  - q: "When I got to the station, the train ___ ."
+    options: ["had already left", "already left", "has already left"]
+    answer: 0
+    topic: "01-present-past"
+    explain: "Поезд ушёл **раньше**, чем я пришёл, — действие до другого действия в прошлом → Past Perfect."
+  - q: "Can you give me some ___ ?"
+    options: ["an advice", "advices", "advice"]
+    answer: 2
+    topic: "09-nouns-articles"
+    explain: "**advice** — неисчисляемое: без *a* и без *-s*. «Один совет» — *a piece of advice*."
+  - q: "Did you enjoy ___ at the party?"
+    options: ["yours", "you", "yourself"]
+    answer: 2
+    topic: "14-pronouns-adjectives"
+    explain: "*enjoy* требует дополнения; «хорошо провести время» → **enjoy yourself** (возвратное местоимение)."
+  - q: "The results ___ next week."
+    options: ["will be announced", "are announcing", "will announce"]
+    answer: 0
+    topic: "05-passive"
+    explain: "Результаты объявят (не они сами) → пассив в будущем: **will be** + V3."
+  - q: "I ___ my keys yesterday, and I still can't find them."
+    options: ["have lost", "lost", "had lost"]
+    answer: 1
+    topic: "01-present-past"
+    explain: "**yesterday** — законченный момент в прошлом → только Past Simple, даже если результат важен сейчас."
+  - q: "She suggested ___ to the cinema."
+    options: ["us to go", "going", "to go"]
+    answer: 1
+    topic: "06-reported-speech"
+    explain: "**suggest + -ing** (или *suggest that we go*). Не ~~suggest to go~~ и не ~~suggest us to go~~."
+  - q: "The ___ of the new bridge took three years."
+    options: ["construction", "constructor", "constructive"]
+    answer: 0
+    topic: "15-word-formation"
+    explain: "После *the … of* нужно существительное-процесс: **construction** (*construct* + *-ion*). *constructive* — прилагательное, *constructor* — тот, кто строит."
+  - q: "She decided ___ the job in Berlin."
+    options: ["to take", "take", "taking"]
+    answer: 0
+    topic: "08-verb-patterns"
+    explain: "**decide + to-infinitive**."
+  - q: "He speaks English ___ ."
+    options: ["well very", "very good", "very well"]
+    answer: 2
+    topic: "10-word-order"
+    explain: "Как говорит? — наречие **well**, *very* стоит перед ним. *good* — прилагательное."
+  - q: "Would you mind ___ the window?"
+    options: ["open", "opening", "to open"]
+    answer: 1
+    topic: "08-verb-patterns"
+    explain: "**mind + -ing**: *Would you mind opening…?*"
+  - q: "She speaks English very ___."
+    options: ["good", "goodly", "well"]
+    answer: 2
+    topic: "14-pronouns-adjectives"
+    explain: "Глагол описывает **наречие**: *speak well*. *good* — прилагательное (*good English*)."
+  - q: "The room ___ at the moment, so you can't go in."
+    options: ["is cleaning", "is being cleaned", "is cleaned"]
+    answer: 1
+    topic: "05-passive"
+    explain: "Процесс сейчас + пассив → **is being** + V3."
+  - q: "She plays ___ piano beautifully."
+    options: ["the", "— (без артикля)", "a"]
+    answer: 0
+    topic: "09-nouns-articles"
+    explain: "С музыкальными инструментами после *play* — **the**: *play the piano*."
+  - q: "The flight was delayed ___ fog."
+    options: ["due to", "so", "because"]
+    answer: 0
+    topic: "11-linking"
+    explain: "Причина + существительное → **due to** (*because of*). *because* требует целое предложение."
+  - q: "I don't know ___ he will come or not."
+    options: ["does", "that", "whether"]
+    answer: 2
+    topic: "10-word-order"
+    explain: "Косвенный вопрос «ли» → **whether / if**, с *or not* — обычно *whether*."
+  - q: "Anna ___ breaking the window, but nobody believed her."
+    options: ["refused", "said", "denied"]
+    answer: 2
+    topic: "06-reported-speech"
+    explain: "«Отрицала, что сделала» → **deny + -ing**. *refuse* — «отказаться» и требует *to*."
+  - q: "She isn't answering her phone. She ___ be asleep."
+    options: ["must", "can", "should to"]
+    answer: 0
+    topic: "03-modals"
+    explain: "Уверенный вывод «наверняка» → **must** + глагол. После модальных *to* не ставится."
+  - q: "This is my new jacket. Do you want to ___?"
+    options: ["try on it", "try it on", "try on"]
+    answer: 1
+    topic: "13-phrasal-verbs"
+    explain: "Фразовый глагол с местоимением: местоимение встаёт **между** глаголом и частицей — *try it on*, не ~~try on it~~."
+  - q: "I ___ for this company since 2020."
+    options: ["worked", "am working", "have worked", "work"]
+    answer: 2
+    topic: "01-present-past"
+    explain: "**since 2020** + работаю до сих пор → Present Perfect. Русское «работаю» в настоящем — ловушка."
+  - q: "We've ___ milk. Can you buy some on your way home?"
+    options: ["run into", "run out of", "run out"]
+    answer: 1
+    topic: "13-phrasal-verbs"
+    explain: "«Закончилось» с дополнением → **run out of** + что. Без *of* — только без дополнения: *The milk has run out*."
+  - q: "Excuse me, can you tell me where ___ ?"
+    options: ["is the station", "the station is", "the station"]
+    answer: 1
+    topic: "10-word-order"
+    explain: "Косвенный вопрос → прямой порядок слов: *where the station is*."
+  - q: "You ___ wear a suit — the party is informal."
+    options: ["don't have to", "mustn't", "can't"]
+    answer: 0
+    topic: "03-modals"
+    explain: "«Не обязательно» → **don't have to**. *mustn't* — «нельзя», это запрет."
+  - q: "Take an umbrella in case it ___ ."
+    options: ["rains", "would rain", "will rain"]
+    answer: 0
+    topic: "04-conditionals"
+    explain: "После **in case** будущее выражается Present Simple: *in case it rains*."
+  - q: "She has lived in Berlin ___ six years."
+    options: ["during", "for", "since"]
+    answer: 1
+    topic: "12-prepositions"
+    explain: "Длительность (сколько времени) → **for**. *since* — с какого момента: *since 2019*."
+  - q: "Look at those black clouds! It ___ rain."
+    options: ["rains", "will", "is going to"]
+    answer: 2
+    topic: "02-future"
+    explain: "Прогноз по признакам, которые видны сейчас (тучи) → **be going to**."
+  - q: "My parents didn't let me ___ out late."
+    options: ["stay", "staying", "to stay"]
+    answer: 0
+    topic: "08-verb-patterns"
+    explain: "**let + кого-то + глагол без to**."
+  - q: "It's ___ to drive without a licence."
+    options: ["illegal", "unlegal", "dislegal"]
+    answer: 0
+    topic: "15-word-formation"
+    explain: "Перед *l-* отрицательная приставка — **il-**: *illegal, illogical*. Не ~~unlegal~~."
+  - q: "You look frozen! How long ___ here?"
+    options: ["are you standing", "do you stand", "have you been standing"]
+    answer: 2
+    topic: "01-present-past"
+    explain: "Действие началось в прошлом и идёт до сих пор, вопрос о длительности → Present Perfect Continuous."
+  - q: "Please remember ___ the door when you leave."
+    options: ["locking", "lock", "to lock"]
+    answer: 2
+    topic: "08-verb-patterns"
+    explain: "**remember to do** — не забыть сделать (в будущем). *remember doing* — помнить, что сделал."
+  - q: "I don't like this cup. Can I have the blue ___?"
+    options: ["ones", "it", "one"]
+    answer: 2
+    topic: "14-pronouns-adjectives"
+    explain: "Чтобы не повторять исчисляемое в ед. числе → **one**: *the blue one*. *ones* — для множественного."
+  - q: "Is this the book ___ you were talking about?"
+    options: ["who", "what", "that"]
+    answer: 2
+    topic: "07-clauses"
+    explain: "Defining clause о предмете → **that / which**. *what* не может стоять после существительного."
+  - q: "If she had left earlier, she ___ the train."
+    options: ["would catch", "had caught", "would have caught"]
+    answer: 2
+    topic: "04-conditionals"
+    explain: "Third conditional (нереальное прошлое): *if + had + V3* → **would have + V3**."
+  - q: "I fell asleep ___ the film."
+    options: ["during", "while", "for"]
+    answer: 0
+    topic: "12-prepositions"
+    explain: "**during** + существительное (*during the film*). *while* требует предложения: *while I was watching the film*."
+  - q: "The town ___ I grew up has changed a lot."
+    options: ["which", "that", "where"]
+    answer: 2
+    topic: "07-clauses"
+    explain: "Место + придаточное без предлога → **where** (= *in which*). С *which / that* нужен предлог: *which I grew up in*."
+  - q: "I'm saving money ___ I can buy a car."
+    options: ["so that", "for", "in order to"]
+    answer: 0
+    topic: "11-linking"
+    explain: "Цель + подлежащее + *can* → **so that**. После *in order to* нужен сразу глагол."
+  - q: "My brother is a professional ___ — he plays in an orchestra."
+    options: ["musicer", "musician", "musicist"]
+    answer: 1
+    topic: "15-word-formation"
+    explain: "Профессия от *music* → **musician** (как *electrician*, *politician*)."
+  - q: "I need to ___ my car repaired."
+    options: ["do", "have", "make"]
+    answer: 1
+    topic: "05-passive"
+    explain: "Кто-то сделает это для меня → **have something done**: *have my car repaired*."
+  - q: "She ___ late for work."
+    options: ["is never", "never is", "never does be"]
+    answer: 0
+    topic: "10-word-order"
+    explain: "Наречия частоты стоят **после be**, но перед обычным глаголом: *She is never late*, *She never arrives late*."
+  - q: "If I ___ more free time, I'd learn to play the guitar."
+    options: ["had", "have", "would have"]
+    answer: 0
+    topic: "04-conditionals"
+    explain: "Second conditional (нереальное настоящее): **if + Past Simple**, *would* — в другой части."
+  - q: "I've lost my glasses. Can you help me ___ them?"
+    options: ["look up", "look for", "look after"]
+    answer: 1
+    topic: "13-phrasal-verbs"
+    explain: "«Искать» → **look for**. *look after* — присматривать, *look up* — посмотреть (в словаре)."
+  - q: "My brother, ___ lives in Canada, is visiting next month."
+    options: ["that", "which", "who"]
+    answer: 2
+    topic: "07-clauses"
+    explain: "Non-defining clause (в запятых) о человеке → **who**. *that* в запятых не используется."
+  - q: "You need to finish the report ___ Friday — that's the deadline."
+    options: ["by", "until", "till"]
+    answer: 0
+    topic: "12-prepositions"
+    explain: "Крайний срок, «не позже чем» → **by**. *until / till* — действие длится до момента: *I'll wait until Friday*."
+  - q: "That ___ be Tom at the door — he's in Paris this week."
+    options: ["shouldn't", "can't", "mustn't"]
+    answer: 1
+    topic: "03-modals"
+    explain: "Уверенность, что это невозможно → **can't**. *mustn't* выражает запрет, а не вывод."
+  - q: "The film was so ___ that I fell asleep."
+    options: ["bore", "boring", "bored"]
+    answer: 1
+    topic: "14-pronouns-adjectives"
+    explain: "Фильм вызывает скуку → **-ing** (*boring*). *-ed* — о том, кто чувствует: *I was bored*."
+  - q: "He is said ___ very rich."
+    options: ["that he is", "being", "to be"]
+    answer: 2
+    topic: "05-passive"
+    explain: "Конструкция **be said to + глагол**: *He is said to be rich* = *It is said that he is rich*."
+  - q: "I'll see you ___ Monday morning."
+    options: ["at", "in", "on"]
+    answer: 2
+    topic: "12-prepositions"
+    explain: "Дни недели, в том числе *Monday morning*, — с **on**. *in the morning*, но *on Monday morning*."
+  - q: "My boss asked me ___ I could work on Saturday."
+    options: ["if", "that", "do"]
+    answer: 0
+    topic: "06-reported-speech"
+    explain: "Косвенный общий вопрос (да/нет) вводится через **if / whether**."
+  - q: "It was ___ nice day that we had lunch in the garden."
+    options: ["such a", "such", "so"]
+    answer: 0
+    topic: "14-pronouns-adjectives"
+    explain: "Перед *(прилагательное +) исчисляемое в ед. числе* → **such a**: *such a nice day*. *so* — без существительного: *so nice*."
+  - q: "We ___ play in the street every day when we were kids."
+    options: ["used to", "use to", "were used to"]
+    answer: 0
+    topic: "01-present-past"
+    explain: "Привычка в прошлом, которой больше нет → **used to** + глагол. *be used to* значит «привык»."
+  - q: "___ being tired, she kept working."
+    options: ["Although", "Despite", "However"]
+    answer: 1
+    topic: "11-linking"
+    explain: "После пропуска *-ing* → предлог **Despite**. *Although* требует подлежащее и глагол."
+  - q: "That's the woman ___ son plays for Chelsea."
+    options: ["whose", "which", "who"]
+    answer: 0
+    topic: "07-clauses"
+    explain: "Принадлежность («чей сын») → **whose**."
+  - q: "Thank you for your ___ — it really helped me."
+    options: ["kindly", "kindness", "kindful"]
+    answer: 1
+    topic: "15-word-formation"
+    explain: "После *your* нужно существительное → **kindness** (*kind* + *-ness*). *kindly* — наречие."
+  - q: "I wish I ___ speak Chinese."
+    options: ["would", "can", "could"]
+    answer: 2
+    topic: "04-conditionals"
+    explain: "Сожаление о настоящем → **wish + прошедшая форма**: *I wish I could*."
+  - q: "— The phone's ringing. — OK, I ___ it."
+    options: ["get", "'m going to get", "'ll get"]
+    answer: 2
+    topic: "02-future"
+    explain: "Решение, принятое в момент речи → **will**."
+  - q: "This test is ___ than the last one."
+    options: ["more easier", "easier", "more easy"]
+    answer: 1
+    topic: "10-word-order"
+    explain: "Двусложные прилагательные на *-y* → **-ier**: *easy – easier*."
+  - q: "By the end of the year, we ___ the project."
+    options: ["are finishing", "will have finished", "will finish"]
+    answer: 1
+    topic: "02-future"
+    explain: "**By** + момент в будущем — действие закончится к этому моменту → Future Perfect."
+  - q: "The meeting has been ___ until next week."
+    options: ["put up", "put out", "put off"]
+    answer: 2
+    topic: "13-phrasal-verbs"
+    explain: "**put off** — отложить, перенести на потом. *put out* — потушить, *put up* — повесить, поднять."
+  - q: "___ by the noise, the baby started crying."
+    options: ["Waking", "Woken", "Having woken"]
+    answer: 1
+    topic: "07-clauses"
+    explain: "Ребёнка разбудили (пассивное значение) → причастие **V3**: *Woken by the noise*."
+  - q: "Could you ___ the music? I'm trying to sleep."
+    options: ["turn up", "turn down", "turn over"]
+    answer: 1
+    topic: "13-phrasal-verbs"
+    explain: "**turn down** — сделать тише. *turn up* — громче, наоборот."
+  - q: "This bridge ___ in 1890."
+    options: ["built", "was built", "has built"]
+    answer: 1
+    topic: "05-passive"
+    explain: "Мост не строил сам себя → пассив; **in 1890** → Past Simple: *was built*."
+  - q: "She's a very ___ driver — she has never had an accident."
+    options: ["careless", "caring", "careful"]
+    answer: 2
+    topic: "15-word-formation"
+    explain: "Никогда не попадала в аварию → **careful** (осторожный). *careless* — небрежный, *caring* — заботливый."
+  - q: "He ___ me that he would be late."
+    options: ["said", "told", "spoke"]
+    answer: 1
+    topic: "06-reported-speech"
+    explain: "**tell** + кого-то (*told me*); **say** — без дополнения или *say to me*."
+  - q: "I'll call you as soon as I ___ home."
+    options: ["get", "will get", "am going to get"]
+    answer: 0
+    topic: "02-future"
+    explain: "После **as soon as, when, until, before** будущее выражается Present Simple: *as soon as I get*."
+  - q: "You ___ told me earlier! Now it's too late."
+    options: ["should", "should have", "must have"]
+    answer: 1
+    topic: "03-modals"
+    explain: "Упрёк о прошлом «надо было» → **should have** + V3."
+  - q: "It was ___ a nice day that we had lunch outside."
+    options: ["such", "very", "so"]
+    answer: 0
+    topic: "11-linking"
+    explain: "Перед *a* + прилагательное + существительное → **such**: *such a nice day that…*"
+  - q: "I'm really looking forward to ___ you."
+    options: ["see", "seeing", "have seen"]
+    answer: 1
+    topic: "08-verb-patterns"
+    explain: "**look forward to** — здесь *to* предлог, после него **-ing**."
+  - q: "___ life is full of surprises."
+    options: ["— (без артикля)", "A", "The"]
+    answer: 0
+    topic: "09-nouns-articles"
+    explain: "Абстрактное понятие в общем смысле → **без артикля**: *Life is full of surprises*."
+  - q: "Never ___ such a beautiful view."
+    options: ["have I seen", "I have seen", "I saw"]
+    answer: 0
+    topic: "11-linking"
+    explain: "*Never* в начале предложения → инверсия: **have I seen**."
+  - q: "If you heat ice, it ___ ."
+    options: ["melted", "melts", "would melt"]
+    answer: 1
+    topic: "04-conditionals"
+    explain: "Общая истина → zero conditional: Present Simple в обеих частях."
+  - q: "She asked me where ___ ."
+    options: ["I lived", "did I live", "do I live"]
+    answer: 0
+    topic: "06-reported-speech"
+    explain: "В косвенном вопросе — прямой порядок слов (подлежащее + глагол) и без *do*: *where I lived*."
+  - q: "This time tomorrow I ___ on a beach in Spain."
+    options: ["will be lying", "will lie", "am lying"]
+    answer: 0
+    topic: "02-future"
+    explain: "Процесс в конкретный момент будущего (*this time tomorrow*) → Future Continuous."
+  - q: "He works ___ a waiter in a café near the station."
+    options: ["how", "as", "like"]
+    answer: 1
+    topic: "12-prepositions"
+    explain: "Профессия, роль → **as** (он и есть официант). *like* — «похоже на», сравнение."
+  - q: "How ___ luggage have you got?"
+    options: ["many", "a lot", "much"]
+    answer: 2
+    topic: "09-nouns-articles"
+    explain: "**luggage** — неисчисляемое → **how much**."

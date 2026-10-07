@@ -1,0 +1,61 @@
+title: "Перефразирование (C1 Advanced, Part 4): эллипсис"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+
+  Цель — сократить: оставить вспомогательный, *so / neither*, безличное *than was expected* или сокращённое придаточное.
+hints:
+  - "«Я тоже» — so + aux + subject; «я тоже нет» — neither + aux + subject."
+  - "than / as + was / had been + V3 — без подлежащего."
+  - "if / when / though + прилагательное или фраза — без subject + be."
+items:
+  - q: "Tom and I both prefer working at night."
+    key: "SO"
+    stem: "Tom prefers working at night, and ___ ."
+    answers: ["so do I"]
+    explain: "«Я тоже» → **so do I**: Present Simple в первой части, поэтому *do*."
+  - q: "My sister can't swim and I can't swim either."
+    key: "NEITHER"
+    stem: "My sister can't swim, ___ ."
+    answers: ["and neither can I", "neither can I"]
+    explain: "Согласие с отрицанием: **neither can I** — вспомогательный повторяет модальный *can*, и второе *not* не нужно."
+  - q: "The repairs were more expensive than we had expected."
+    key: "THAN"
+    stem: "The repairs cost ___ expected."
+    answers: ["more than we had", "more than had been", "more than was", "more than we", "more than anyone had", "more than anyone"]
+    explain: "Можно оставить подлежащее (*more than we had expected*) или сделать сравнение безличным: **more than was / had been expected**."
+  - q: "Ask a colleague if you are not sure what to do."
+    key: "DOUBT"
+    stem: "___, ask a colleague."
+    answers: ["When in doubt", "If in doubt", "If you are in doubt", "When you are in doubt"]
+    explain: "Сокращённое придаточное: **When / If in doubt** (= when you are in doubt). Опускаются подлежащее и *be*."
+  - q: "It was predicted that the shares would fall, and they did fall."
+    key: "AS"
+    stem: "The shares fell, ___ ."
+    answers: ["as was predicted", "as had been predicted", "just as was predicted", "just as had been predicted", "as predicted", "just as predicted"]
+    explain: "Безличная формула **as had been / was predicted** — пассив без подлежащего. ~~as it was predicted~~ — лишнее *it*."
+  - q: "Although he was exhausted, he kept on working."
+    key: "THOUGH"
+    stem: "___, he kept on working."
+    answers: ["Though exhausted", "Though he was exhausted", "Even though he was exhausted", "Though utterly exhausted"]
+    explain: "Сокращённое придаточное уступки: **Though exhausted** (= though he was exhausted). Только без *but* в главной части."
+  - q: "She said she would apologise, but she hasn't apologised yet."
+    key: "YET"
+    stem: "She said she would apologise, but ___ ."
+    answers: ["she hasn't yet", "she has not yet", "she hasn't done so yet", "she has not done so yet", "she hasn't done it yet", "she has yet to", "she hasn't yet done so"]
+    explain: "Глагол опускаем после вспомогательного: **she hasn't yet**; формально — *she has yet to* (эллипсис после *to*)."
+  - q: "You didn't lock the door, which was a mistake."
+    key: "SHOULD"
+    stem: "You didn't lock the door, but ___ ."
+    answers: ["you should have", "you really should have", "you should have done", "you should have done so", "you should have locked it"]
+    explain: "Упрёк о прошлом: **you should have** (+ опущенное *locked it*). Британское *should have done* тоже верно."
+  - q: "I intended to stay longer, but staying longer wasn't possible for me."
+    key: "ABLE"
+    stem: "I intended to stay longer, but ___ ."
+    answers: ["I wasn't able to", "I was not able to", "I just wasn't able to"]
+    explain: "После *able* в эллипсисе остаётся **to**: *I wasn't able to*. ~~I wasn't able~~ без *to* — ошибка."
+  - q: "Anna's essay was better than the essay Tom wrote."
+    key: "TOM'S"
+    stem: "Anna's essay was ___ ."
+    answers: ["better than Tom's", "much better than Tom's", "far better than Tom's"]
+    explain: "Существительное после possessive опускается: **better than Tom's** (= Tom's essay). Без 's вышло бы сравнение эссе с Томом."

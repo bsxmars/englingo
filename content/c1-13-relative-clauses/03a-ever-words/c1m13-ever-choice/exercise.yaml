@@ -1,0 +1,52 @@
+title: "-ever, no matter или it doesn't matter: выбери по смыслу и регистру"
+type: choice
+intro: "Выбери вариант, который верен грамматически и точнее всего подходит по смыслу и регистру."
+hints:
+  - "no matter — только уступка, не «всё, что»."
+  - "После -ever о будущем — Present, а не will / would."
+  - "Связка However («однако») ≠ However + прилагательное («как бы ни»)."
+items:
+  - q: "You can borrow ___ you need from the stockroom."
+    options: ["no matter what", "whatever", "however"]
+    answer: 1
+    explain: "Придаточное — дополнение к *borrow* («всё, что нужно») → **whatever**. *no matter what* бывает только уступкой."
+  - q: "___ you decide, please let the team know by Friday."
+    options: ["Whatever", "Whatever would", "Whatever will"]
+    answer: 0
+    explain: "После -ever о будущем — Present: ***Whatever** you decide*. Русское «бы» не переводится."
+  - q: "— Shall I wear the suit? — ___ what you wear. It's a very informal event."
+    options: ["No matter", "It doesn't matter", "Whatever"]
+    answer: 1
+    explain: "Нужно самостоятельное предложение → **It doesn't matter** what you wear. *No matter what you wear* требует главного предложения после себя."
+  - q: "The scheme is expensive. ___, it will pay for itself within five years."
+    options: ["However", "However expensive", "Whatever"]
+    answer: 0
+    explain: "Здесь нужна связка «однако» между двумя предложениями → **However** с запятой."
+  - q: "___ the scheme may be, it will pay for itself within five years."
+    options: ["However expensive", "However", "No matter expensive"]
+    answer: 0
+    explain: "Уступка «каким бы дорогим ни был» → **However expensive**: прилагательное сразу после *however*."
+  - q: "The two candidates are equally strong, so we'll be happy with ___ is chosen."
+    options: ["whoever", "whomever", "whichever"]
+    answer: 0
+    explain: "Слово — подлежащее для *is chosen* → **whoever**, даже после предлога *with*. *whichever* о людях звучит странно, если не уточнено «из двух кандидатов»."
+  - q: "Formal notice: ___, applicants must provide two references."
+    options: ["Wherever possible", "No matter possible", "However possible"]
+    answer: 0
+    explain: "Устойчивая формула инструкций — **Wherever possible**: «везде, где возможно»."
+  - q: "— I'm taking the train. — Why on earth? ___ made you choose that over flying?"
+    options: ["Whatever", "No matter what", "Whichever"]
+    answer: 0
+    explain: "*-ever* в вопросе выражает удивление: ***Whatever** made you…?* = «Да что же тебя заставило…?»"
+  - q: "She has no sympathy ___ for people who drop litter."
+    options: ["whatsoever", "whoever", "no matter"]
+    answer: 0
+    explain: "После отрицания усилитель **whatsoever** ставится за существительным: *no sympathy whatsoever*."
+  - q: "You can pay in euros or in pounds, ___ is more convenient."
+    options: ["whatever", "whichever", "however"]
+    answer: 1
+    explain: "Две валюты — ограниченный выбор → **whichever**."
+  - q: "Formal report: ___ the cause of the failure, it must be identified before the system is restarted."
+    options: ["Whatever", "No matter", "Whatever is"]
+    answer: 0
+    explain: "Книжная уступка без глагола: ***Whatever** the cause* (= whatever the cause is/may be). *No matter* требует wh-слова, *Whatever is the cause* — неверный порядок слов."

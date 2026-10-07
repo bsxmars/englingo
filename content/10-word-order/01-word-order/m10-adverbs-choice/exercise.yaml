@@ -1,0 +1,55 @@
+title: "Наречия: место и степень"
+type: choice
+intro: "Выбери вариант, который звучит правильно и естественно."
+hints:
+  - "probably / certainly — перед won't, didn't. also — в середине, too / as well — в конце."
+  - "too = слишком; quite = довольно (или «совершенно» с right, sure, impossible); rather — перед comparative."
+items:
+  - q: "The traffic is terrible. We ___ get there in time."
+    options: ["won't probably", "probably won't", "won't to probably"]
+    answer: 1
+    explain: "В отрицании *probably* стоит **перед** *won't*: *We probably won't…*"
+  - q: "She speaks French, and she ___ speaks a little Italian."
+    options: ["also", "too", "as well"]
+    answer: 0
+    explain: "В середине предложения, перед глаголом, — **also**. *too* и *as well* ставятся в конец: *…speaks a little Italian too*."
+  - q: "I'm sorry, we ___ make this model. Try the newer one."
+    options: ["no longer", "any longer", "not anymore"]
+    answer: 0
+    explain: "**no longer** стоит в середине и не требует *not*. *any longer / any more* — только с отрицанием и в конце."
+  - q: "Mark doesn't work here ___. He moved to Lisbon last year."
+    options: ["no longer", "any more", "still"]
+    answer: 1
+    explain: "При *doesn't* в конце нужно **any more** (или *any longer*). *no longer* уже содержит отрицание."
+  - q: "I'm ___ tired to go out tonight. Let's stay in."
+    options: ["very", "too", "enough"]
+    answer: 1
+    explain: "«Слишком …, чтобы» — **too** + прилагательное + *to*. *very tired to go out* — ошибка."
+  - q: "The film was ___ good — not bad, but I've seen better."
+    options: ["quite", "very much", "too"]
+    answer: 0
+    explain: "**quite** = «довольно, вполне», меньше, чем *very*. *very much* с прилагательным не ставится."
+  - q: "You're ___ right — I completely agree with you."
+    options: ["quite", "rather", "a bit"]
+    answer: 0
+    explain: "С *right, sure, impossible* слово **quite** значит «совершенно»: *quite right*."
+  - q: "It's ___ cold for June, isn't it? I didn't expect that."
+    options: ["rather", "quite a", "too much"]
+    answer: 0
+    explain: "**rather** — «довольно» с оттенком неожиданности или недовольства. *quite a* требует существительного, *too much* — с неисчисляемыми."
+  - q: "The repairs took ___ longer than we had planned."
+    options: ["rather", "quite", "very"]
+    answer: 0
+    explain: "Перед сравнительной степенью можно **rather** (и *much, a bit*), но не *quite* и не *very*."
+  - q: "I ___ your idea — let's try it."
+    options: ["very like", "really like", "like very"]
+    answer: 1
+    explain: "*very* не ставится перед глаголом. Перед глаголом — **really**; или *I like your idea very much*."
+  - q: "Which sentence is correct?"
+    options: ["We go every day swimming.", "Every day we go swimming.", "We every day go swimming."]
+    answer: 1
+    explain: "*every day* — в начало или в конец (*We go swimming every day*), но не в середину и не между *go* и *swimming*."
+  - q: "— Are you ___ working on that report? It's been three weeks!"
+    options: ["still", "yet", "already"]
+    answer: 0
+    explain: "«Всё ещё» — **still**, в вопросе после подлежащего. *yet* — в конце, *already* не подходит по смыслу."

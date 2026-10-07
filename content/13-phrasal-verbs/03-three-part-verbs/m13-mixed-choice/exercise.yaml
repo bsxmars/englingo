@@ -1,0 +1,55 @@
+title: "Смешанная практика: предложные, фразовые, трёхчастные"
+type: choice
+intro: "Выбери вариант, который верен и по смыслу, и по форме."
+hints:
+  - "Местоимение: turn it off (фразовый), look after it (предложный), put up with it (трёхчастный)."
+  - "После look forward to, give up, carry on — форма -ing."
+items:
+  - q: "I'm looking forward to ___ you at the conference."
+    options: ["see", "seeing", "have seen"]
+    answer: 1
+    explain: "**to** здесь — предлог, поэтому после него **-ing**: *looking forward to seeing*."
+  - q: "The meeting has been ___ until next week because the boss is ill."
+    options: ["put off", "put out", "put up"]
+    answer: 0
+    explain: "Отложить → **put off**. *put out* — потушить, *put up* — повесить, поднять."
+  - q: "We need to ___ a solution before Monday."
+    options: ["come across", "come up with", "come up"]
+    answer: 1
+    explain: "Придумать решение → **come up with**. *come across* — наткнуться, *come up* — возникнуть (*A problem came up*)."
+  - q: "I ___ an old school friend in the supermarket yesterday."
+    options: ["ran into", "ran out of", "ran over"]
+    answer: 0
+    explain: "Случайно встретить → **run into** (или *bump into*). *run over* — сбить машиной."
+  - q: "Can you look ___ my plants while I'm on holiday?"
+    options: ["for", "after", "into"]
+    answer: 1
+    explain: "Присматривать → **look after**. *look for* — искать, *look into* — расследовать."
+  - q: "The TV is too loud. Could you ___?"
+    options: ["turn down it", "turn it down", "turn it below"]
+    answer: 1
+    explain: "Местоимение — между глаголом и частицей: **turn it down** (убавить). *below* — не частица фразового глагола."
+  - q: "We'll have to ___ our spending this year."
+    options: ["cut down on", "cut off", "cut out of"]
+    answer: 0
+    explain: "Сократить → **cut down on**. *cut off* — отключить, отрезать."
+  - q: "I can't ___ my neighbours' loud parties any more."
+    options: ["put up", "put up with", "put off"]
+    answer: 1
+    explain: "Терпеть → **put up with**: без *with* значение теряется."
+  - q: "She ___ three children on her own."
+    options: ["grew up", "brought up", "brought out"]
+    answer: 1
+    explain: "Воспитывать кого-то → **bring up**. *grow up* — расти самому, дополнения у него нет."
+  - q: "The factory ___ 200 workers when orders fell."
+    options: ["laid off", "laid out", "set off"]
+    answer: 0
+    explain: "Уволить по сокращению → **lay off**. *set off* — отправиться в путь."
+  - q: "How are you ___ with your new job?"
+    options: ["getting over", "getting up", "getting on"]
+    answer: 2
+    explain: "*How are you getting on (with)…?* — как успехи, как справляешься. *get over* — оправиться от болезни или потрясения."
+  - q: "The film was good, but it didn't ___ all the hype."
+    options: ["live up to", "look up to", "make up for"]
+    answer: 0
+    explain: "Оправдать ожидания → **live up to**. *look up to* — уважать человека."

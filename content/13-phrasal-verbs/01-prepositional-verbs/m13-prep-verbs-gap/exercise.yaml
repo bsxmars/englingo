@@ -1,0 +1,43 @@
+title: "Какой предлог нужен глаголу?"
+type: gap
+intro: "Впиши предлог, который требует глагол."
+hints:
+  - "Не переводи русский предлог: «зависеть от» = depend on, «ждать кого» = wait for."
+  - "В вопросе предлог уходит в конец: Who are you waiting for?"
+items:
+  - q: "Who are you waiting ___? The bus has already gone."
+    answers: ["for"]
+    explain: "**wait for** someone. В вопросе предлог стоит в конце."
+  - q: "Whether we go to the beach depends ___ the weather."
+    answers: ["on", "upon"]
+    explain: "**depend on** (формально *upon*). Не ~~depend from~~ — калька с «зависеть от»."
+  - q: "Could you look ___ my cat while I'm on holiday?"
+    answers: ["after"]
+    explain: "**look after** — присматривать, заботиться."
+  - q: "This old laptop belongs ___ my brother."
+    answers: ["to"]
+    explain: "**belong to** — принадлежать кому-то."
+  - q: "I'm sorry, but I don't agree ___ you at all."
+    answers: ["with"]
+    explain: "**agree with** someone — соглашаться с кем-то."
+  - q: "She has applied ___ a job at a start-up in Berlin."
+    answers: ["for"]
+    explain: "**apply for** a job / a visa / a grant — подавать заявку на что-то."
+  - q: "I can't concentrate ___ my work with all this noise."
+    answers: ["on"]
+    explain: "**concentrate on** — сосредоточиться на чём-то."
+  - q: "The police are looking ___ the robbery, but they have no suspects yet."
+    answers: ["into"]
+    explain: "**look into** — расследовать, изучать вопрос."
+  - q: "My grandmother has suffered ___ back pain for years."
+    answers: ["from"]
+    explain: "**suffer from** an illness — страдать от болезни."
+  - q: "I apologise ___ my behaviour last night. It won't happen again."
+    answers: ["for"]
+    explain: "**apologise for** something, **apologise to** someone: *I apologised to her for being late*."
+  - q: "Do you believe ___ ghosts?"
+    answers: ["in"]
+    explain: "**believe in** — верить в существование. Сравни: *believe someone* — верить кому-то, без предлога."
+  - q: "Who's going to pay ___ the drinks tonight?"
+    answers: ["for"]
+    explain: "**pay for** something — платить за что-то. Но *pay the bill* — без предлога: платят сам счёт."

@@ -1,0 +1,84 @@
+title: "The demo that wasn't"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. В вопросах 1–6 выбери вариант, в 7–9 впиши слово или выражение из текста."
+hints:
+  - "Вопросы идут в порядке текста."
+  - "Обращай внимание на reporting verbs: denied, admitted, accused, threatened, promised."
+text: |
+  **The demo that wasn't: how a robot stole the show for the wrong reasons**
+
+  When Lucas Brand walked onto the main stage at last week's FutureWorks conference in Manchester, the audience expected a revolution. The 34-year-old founder of HomeHelp, a start-up that had raised £20 million in just two years, had promised to show "the first household robot that genuinely thinks for itself". By the end of the day, the only thing people were discussing was whether anything they had seen was real.
+
+  The demonstration itself looked impressive. A slim white robot folded towels, loaded a dishwasher and even asked a volunteer from the audience whether she would like a cup of tea. Brand told the crowd that the machine had learnt all of these tasks on its own in less than a month. "Nobody programmed it to do this," he said. "It watched, and it understood."
+
+  The trouble began during the question-and-answer session. A software engineer in the third row, Priya Nair, asked Brand why the robot froze every time a technician at the side of the stage looked down at his laptop. Brand laughed and said that she was imagining things. Nair, however, refused to sit down. She insisted on knowing who the man with the laptop was and what exactly he had been doing during the show.
+
+  Within an hour, a short video filmed from the back of the hall had appeared online. It seemed to show the technician moving a joystick in time with the robot's arms. By the evening, the clip had been viewed more than two million times, and several investors had asked the company to explain what was going on.
+
+  At first, HomeHelp denied doing anything wrong. In a statement released that night, the company said the technician had only been "monitoring safety systems" and accused its critics of spreading "misleading and damaging rumours". It also threatened to take legal action against anyone who repeated the claims.
+
+  The next morning, however, the story changed. In an interview with a local radio station, Brand admitted that some parts of the demonstration had been "assisted by a human operator". He explained that the robot had worked perfectly in rehearsals, but that the team had panicked when its Wi-Fi connection kept dropping in the crowded hall. He apologised for not making this clear to the audience and promised to publish full, unedited test videos within a fortnight.
+
+  Not everyone is satisfied. Several engineers have pointed out that "assisted" is a generous word for what the video shows. One of the company's earliest investors, who asked not to be named, told reporters that she had warned Brand months earlier not to overpromise. "I advised him to show less and explain more," she said. "He told me that nobody gets excited by honesty."
+
+  The conference organisers have also faced criticism. When asked whether they had checked the demonstration beforehand, a spokesperson said that it was not their job to test every product on stage, but agreed that clearer rules might be needed. They have since suggested that future speakers should reveal any remote control used during live demos.
+
+  As for Priya Nair, she has turned down every invitation to appear on television. Asked by this newspaper why she had spoken up, she simply said she had wanted to know how the robot worked. "That," she added, "is what conferences are supposed to be for."
+items:
+  - q: "What had Lucas Brand promised before the conference?"
+    options:
+      - "A robot that would be cheaper than any other on the market."
+      - "A robot that could learn tasks without being programmed."
+      - "A robot that could answer questions from the audience."
+      - "A robot that had been built in less than a month."
+    answer: 1
+    explain: "Брэнд обещал робота, который «по-настоящему думает сам», и сказал, что машина *had learnt all of these tasks on its own*. Месяц — срок обучения, а не постройки."
+  - q: "Why did Priya Nair ask her question?"
+    options:
+      - "She wanted to know how much the robot would cost."
+      - "She had noticed a link between the technician and the robot's behaviour."
+      - "She had seen a video of the demonstration online."
+      - "She thought the robot had made a mistake with the tea."
+    answer: 1
+    explain: "Она спросила, *why the robot froze every time a technician… looked down at his laptop*. Видео появилось позже, через час."
+  - q: "How did HomeHelp react at first?"
+    options:
+      - "It admitted that the demonstration had been partly controlled."
+      - "It asked investors to wait for the test videos."
+      - "It rejected the claims and threatened its critics."
+      - "It apologised to the audience for the technical problems."
+    answer: 2
+    explain: "*At first, HomeHelp **denied** doing anything wrong… **accused** its critics… **threatened** to take legal action.* Признание и извинения были на следующее утро."
+  - q: "According to Brand, why was a human operator used?"
+    options:
+      - "The robot had never worked properly."
+      - "The organisers had not allowed a live test."
+      - "There were problems with the internet connection."
+      - "The audience was too close to the stage."
+    answer: 2
+    explain: "*the team had panicked when its Wi-Fi connection kept dropping in the crowded hall.* На репетициях робот, по его словам, работал отлично."
+  - q: "What does the early investor's comment suggest about Brand?"
+    options:
+      - "He had ignored advice to be more modest about the product."
+      - "He had been honest with investors but not with the public."
+      - "He had planned to use an operator from the beginning."
+      - "He regretted not explaining the technology in more detail."
+    answer: 0
+    explain: "Инвестор *had warned Brand… not to overpromise* и *advised him to show less and explain more*, а он ответил, что честность никого не впечатляет — то есть совет проигнорировал."
+  - q: "What have the conference organisers proposed?"
+    options:
+      - "Testing every product before it is shown on stage."
+      - "Banning live demonstrations in future."
+      - "Asking speakers to say if a device is being controlled remotely."
+      - "Taking legal action against HomeHelp."
+    answer: 2
+    explain: "*They have since **suggested** that future speakers should reveal any remote control used during live demos.* Проверять каждый продукт они как раз отказались: *it was not their job*."
+  - q: "Найди в шестом абзаце слово, которое значит «две недели»."
+    answers: ["fortnight", "a fortnight"]
+    explain: "**a fortnight** — британское слово для двух недель: *within a fortnight* — «в течение двух недель»."
+  - q: "Найди в пятом абзаце выражение «подать в суд, принять юридические меры» (три слова)."
+    answers: ["take legal action", "to take legal action"]
+    explain: "**take legal action against sb** — подать в суд. Здесь после *threatened* — инфинитив: *threatened to take legal action*."
+  - q: "Найди в последнем абзаце фразовый глагол со значением «отклонить, отказаться от»."
+    answers: ["turned down", "turn down"]
+    explain: "**turn down an invitation / an offer** — отклонить приглашение / предложение. Синоним — *refuse*, *decline*."

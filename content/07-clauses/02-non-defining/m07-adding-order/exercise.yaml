@@ -1,0 +1,34 @@
+title: "Собери предложение с добавочной информацией"
+type: order
+intro: "Собери предложение из слов. Везде non-defining: придаточное добавляет информацию о том, что уже понятно. Запятые при проверке не учитываются."
+hints:
+  - "После запятой — who / which / whose / where / when, но не that."
+  - "Придаточное стоит сразу после слова, к которому относится; which про всё предложение — в конце."
+items:
+  - q: "«Мой дедушка, который был врачом, дожил до 95 лет»."
+    answers: ["My grandfather, who was a doctor, lived to 95."]
+    explain: "Дедушка один, работа врачом — добавочная информация → **who** в запятых сразу после *My grandfather*, потом основное сказуемое *lived*."
+  - q: "«Поезд опоздал на час, что испортило нам весь вечер»."
+    answers: ["The train was an hour late, which ruined our whole evening."]
+    explain: "**which** относится ко всему предыдущему предложению («то, что поезд опоздал») и стоит в конце после запятой."
+  - q: "«Мы поехали в Казань, где живут мои родители»."
+    answers: ["We went to Kazan, where my parents live."]
+    explain: "Город уже назван, придаточное добавляет информацию → **where** после запятой (= *in which*)."
+  - q: "«Я позвоню тебе в пятницу, когда буду знать больше»."
+    answers: ["I'll call you on Friday, when I'll know more."]
+    explain: "Non-defining с **when**: пятница уже названа, придаточное поясняет. Здесь *will* после *when* возможно, потому что это не придаточное времени, а добавочная информация."
+  - q: "«Анна, чей муж — повар, всегда готовит на праздники»."
+    answers: ["Anna, whose husband is a chef, always cooks for parties."]
+    explain: "**whose** + существительное без артикля: *whose husband*. Придаточное — в запятых между *Anna* и *always cooks*."
+  - q: "«У меня два брата, и оба живут в Канаде» (одним предложением)."
+    answers: ["I have two brothers, both of whom live in Canada."]
+    explain: "Количество + **of whom** (люди): *both of whom live*."
+  - q: "«Этот ноутбук, который я купил в прошлом году, уже сломался»."
+    answers: ["This laptop, which I bought last year, has already broken.", "This laptop, which I bought last year, has broken already."]
+    explain: "В non-defining местоимение-объект **which** опустить нельзя, хотя после него идёт новое подлежащее *I*."
+  - q: "«Наш директор, с которым я ни разу не разговаривал, уходит на пенсию» (формально)."
+    answers: ["Our director, with whom I have never spoken, is retiring.", "Our director, whom I have never spoken with, is retiring."]
+    explain: "Формально предлог идёт перед местоимением: **with whom**. Допустимо и *whom I have never spoken with*."
+  - q: "«Она сдала экзамен с первой попытки, что никого не удивило»."
+    answers: ["She passed the exam at the first attempt, which surprised nobody."]
+    explain: "**which** про всё предложение — «что никого не удивило». Не *what* и не *it*."

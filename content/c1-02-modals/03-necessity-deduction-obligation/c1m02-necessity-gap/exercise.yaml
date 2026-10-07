@@ -1,0 +1,44 @@
+title: "Нужно, не нужно, следовало бы"
+type: gap
+intro: "Впиши форму, указанную в скобках, вместе с глаголом. Подумай о времени: настоящее, прошлое, будущее или перфект. Сокращения засчитываются."
+hints:
+  - "needn't have + V3 — сделали зря; didn't need to + V — не нужно было (и обычно не делали)."
+  - "У must нет прошедшего времени и перфекта — используй have to."
+  - "had better не меняется: 'd better / 'd better not + V."
+items:
+  - q: "The hall was half empty, so luckily we ___ (need / queue) — we just walked straight in."
+    answers: ["didn't need to queue", "did not need to queue", "didn't have to queue", "did not have to queue"]
+    explain: "Стоять в очереди было не нужно, и мы не стояли (*walked straight in*) → *didn't need to queue*. Сравни со следующим пунктом."
+  - q: "I spent all night revising, and then the exam was postponed. I ___ (need / revise) so hard."
+    answers: ["needn't have revised", "need not have revised"]
+    explain: "Действие **совершено**, но оказалось лишним → *needn't have revised*. *didn't need to* не передаёт, что ты всё-таки учил."
+  - q: "My company paid for the course, so I ___ (need / pay) anything myself."
+    answers: ["didn't need to pay", "did not need to pay", "didn't have to pay", "did not have to pay"]
+    explain: "Не было необходимости — и не платил → *didn't need to / didn't have to pay*."
+  - q: "Since the merger, we ___ (have to / reapply) for our own jobs twice."
+    answers: ["have had to reapply", "'ve had to reapply"]
+    explain: "*twice* + *since* → Present Perfect. У *must* перфекта нет → *have had to*."
+  - q: "You ___ (must / not / mention) the takeover to anyone — it's strictly confidential."
+    answers: ["mustn't mention", "must not mention"]
+    explain: "Запрет → *mustn't*. *don't have to* значило бы «не обязательно»."
+  - q: "Dress code is smart casual, so you ___ (have to / not / wear) a tie."
+    answers: ["don't have to wear", "do not have to wear"]
+    explain: "Нет необходимости, но и не запрещено → *don't have to*. Противоположность *mustn't*."
+  - q: "If the contract is signed today, the team ___ (have to / relocate) to Berlin next spring."
+    answers: ["will have to relocate", "'ll have to relocate", "are going to have to relocate", "is going to have to relocate"]
+    explain: "Будущая необходимость → *will have to*; ~~will must~~ невозможно."
+  - q: "You look exhausted. You ___ (had better / go) home before you collapse."
+    answers: ["'d better go", "had better go"]
+    explain: "Настойчивый совет с угрозой последствий → *'d better* + голый инфинитив."
+  - q: "We ___ (had better / not / leave) the laptop in the car — there have been break-ins."
+    answers: ["'d better not leave", "had better not leave"]
+    explain: "Отрицание *had better* — *'d better not* + V. Не ~~hadn't better~~."
+  - q: "Guests ___ (be supposed to / check) out by eleven, but nobody ever does."
+    answers: ["are supposed to check"]
+    explain: "Правило, которое нарушают → *be supposed to*. *but nobody ever does* — типичный контекст."
+  - q: "I ___ (be supposed to / send) the report yesterday, but the data wasn't ready."
+    answers: ["was supposed to send", "was supposed to have sent"]
+    explain: "Обязанность в прошлом, которая не выполнена → *was supposed to send*."
+  - q: "The board ___ (ought to / consult) the staff before announcing the cuts. Now everyone is furious."
+    answers: ["ought to have consulted"]
+    explain: "Упрёк о прошлом → *ought to have* + V3. Не ~~ought have~~: *to* сохраняется."

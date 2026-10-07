@@ -1,0 +1,43 @@
+title: "Приставки: впиши слово"
+type: gap
+intro: "Образуй от слова КАПСОМ новое слово с **приставкой** (иногда нужно ещё и окончание: *-ed*, *-s*)."
+hints:
+  - "im- перед m и p, il- перед l, ir- перед r; dis- часто с глаголами."
+  - "mis- = неправильно, re- = заново, over- = слишком много, under- = слишком мало."
+items:
+  - q: "It's ___ (LEGAL) to park here after 8 am — you'll get a fine."
+    answers: ["illegal"]
+    explain: "Перед *l* — **il-**, буква удваивается: *illegal*. Штраф подсказывает отрицательный смысл."
+  - q: "Don't be so ___ (PATIENT) — the bus will be here in a minute."
+    answers: ["impatient"]
+    explain: "Перед *p* — **im-**: *impatient*."
+  - q: "His comment was completely ___ (RELEVANT) to the discussion, so we ignored it."
+    answers: ["irrelevant"]
+    explain: "Перед *r* — **ir-**, с двумя *r*: *irrelevant*. *so we ignored it* — значит, комментарий не по теме."
+  - q: "I'm afraid I ___ (AGREE) with you — I think the plan is too risky."
+    answers: ["disagree"]
+    explain: "Глагол с противоположным смыслом → **dis-**: *disagree*. Не ~~unagree~~."
+  - q: "Sorry, I ___ (UNDERSTAND) your question. Could you ask it again?"
+    answers: ["misunderstood"]
+    explain: "**mis-** = неправильно: *misunderstood* — понял неправильно. Прошедшее время: *understand – understood*."
+  - q: "The exam was so hard that it was almost ___ (POSSIBLE) to pass."
+    answers: ["impossible"]
+    explain: "Перед *p* — **im-**: *impossible*. Не ~~unpossible~~."
+  - q: "Your essay is far too short — you'll have to ___ (WRITE) it."
+    answers: ["rewrite"]
+    explain: "**re-** = заново: *rewrite* — переписать."
+  - q: "Many nurses feel that they are ___ (PAY) and overworked."
+    answers: ["underpaid"]
+    explain: "**under-** = слишком мало: *underpaid*. Пара к *overworked*."
+  - q: "My keys seem to have ___ (APPEAR) again. I can't find them anywhere."
+    answers: ["disappeared"]
+    explain: "*can't find them* → исчезли: **dis-** + *appear* + *-ed* (после *have*)."
+  - q: "It's ___ (USUAL) for her to be late — she's normally very punctual."
+    answers: ["unusual"]
+    explain: "*normally very punctual* → опоздание для неё необычно: **unusual**."
+  - q: "Can you ___ (LOCK) the door for me? My hands are full."
+    answers: ["unlock"]
+    explain: "**un-** с глаголом — обратное действие: *unlock* (отпереть), как *unpack, undo*."
+  - q: "Lying to your colleagues is ___ (HONEST) and unprofessional."
+    answers: ["dishonest"]
+    explain: "*honest* → **dishonest**. Не ~~unhonest~~ и не ~~inhonest~~."

@@ -1,0 +1,47 @@
+title: "Какой глагол точнее передаёт смысл?"
+type: choice
+intro: "Все варианты грамматичны. Выбери тот, который точно передаёт смысл и тон сказанного."
+hints:
+  - "concede — неохотно согласиться; claim — утверждать (а мы сомневаемся); boast — хвастаться."
+  - "Подумай, кто говорит и что он чувствует."
+items:
+  - q: "'Pay up by Friday, or I'll make sure you lose your job,' he told me. → He ___ me."
+    options: ["reminded", "threatened", "advised"]
+    answer: 1
+    explain: "Угроза последствиями, которые он сам устроит → **threatened**."
+  - q: "'I scored the winner, and honestly nobody else on the team could have done it,' said Max. → Max ___ about scoring the winner."
+    options: ["complained", "joked", "boasted"]
+    answer: 2
+    explain: "Самовосхваление → **boasted about**."
+  - q: "'Fine — it was me who forgot to lock the door,' said Lena. → Lena ___ that she had forgotten to lock the door."
+    options: ["admitted", "boasted", "insisted"]
+    answer: 0
+    explain: "Неохотное признание своей вины → **admitted**."
+  - q: "'This is outrageous — we were promised a pay rise!' the workers said. → The workers ___ that they had been promised a pay rise."
+    options: ["conceded", "confirmed", "protested"]
+    answer: 2
+    explain: "Возмущённое возражение → **protested**."
+  - q: "'I suppose you have a point; the budget is rather tight,' said the director. → The director ___ that the budget was rather tight."
+    options: ["insisted", "conceded", "boasted"]
+    answer: 1
+    explain: "Неохотное согласие с доводом оппонента → **conceded**."
+  - q: "'No, really, I'm paying — I won't hear another word about it!' said Dad. → Dad ___ paying."
+    options: ["insisted on", "objected to", "apologised for"]
+    answer: 0
+    explain: "Настаивает вопреки возражениям → **insisted on paying**."
+  - q: "'You'll get every penny back, I give you my word,' the manager told us. → The manager ___ us that we would get our money back."
+    options: ["warned", "reminded", "assured"]
+    answer: 2
+    explain: "Обещание, чтобы успокоить → **assured**. *warned* — о чём-то неприятном."
+  - q: "'Please, please, give me one more chance,' he said to her. → He ___ her to give him one more chance."
+    options: ["ordered", "begged", "invited"]
+    answer: 1
+    explain: "Отчаянная просьба → **begged**."
+  - q: "'Our product cures insomnia in a week,' the company says (there is no evidence). → The company ___ that its product cures insomnia in a week."
+    options: ["confirms", "points out", "claims"]
+    answer: 2
+    explain: "**claim** показывает, что утверждение не доказано. *confirm* и *point out* подают его как факт."
+  - q: "'Actually, the meeting room is booked until three,' Sam said. → Sam ___ that the meeting room was booked until three."
+    options: ["confessed", "pointed out", "threatened"]
+    answer: 1
+    explain: "Обратить внимание на факт → **pointed out**."

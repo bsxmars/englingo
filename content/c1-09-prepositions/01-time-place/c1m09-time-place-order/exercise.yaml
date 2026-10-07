@@ -1,0 +1,41 @@
+title: "Предлог в начале, в конце и два предлога подряд"
+type: order
+intro: "Собери предложение из слов по русской подсказке. Следи за местом предлога: в формальном стиле он стоит перед *whom / which*, а *during, until after, since before* не разрываются."
+hints:
+  - "Формально: To whom…? With whom…? During which…?"
+  - "since before, until after — два предлога подряд, это норма."
+  - "Перед next / last предлога нет, а перенос — move something to."
+items:
+  - q: "Формальный вопрос: «Кому вы передали ключи?»"
+    answers: ["To whom did you give the keys"]
+    explain: "В формальном стиле предлог выносится вперёд, и тогда нужен **whom**: *To whom…?* Второй раз предлог в конце не ставится."
+  - q: "«Не открывай подарки, пока не закончится ужин»."
+    answers: ["Do not open the presents until after dinner"]
+    explain: "**until after** — «не раньше, чем после». Два предлога подряд — нормальная конструкция."
+  - q: "«Они живут здесь ещё с довоенных времён»."
+    answers: ["They have lived here since before the war"]
+    explain: "**since before** the war: точка отсчёта лежит где-то до войны. Present Perfect — потому что живут до сих пор."
+  - q: "«Среди главных преимуществ схемы — её низкая стоимость»."
+    answers: ["Among the main advantages of the scheme is its low cost", "Its low cost is among the main advantages of the scheme"]
+    explain: "**among** — «в числе». При фронтальном *Among…* подлежащее (*its low cost*) уходит после глагола, и глагол согласуется с ним: *is*."
+  - q: "Экскурсовод: «В какой период был построен замок?»"
+    answers: ["During which period was the castle built"]
+    explain: "**during** не уходит в конец вопроса: ~~Which period was the castle built during?~~ Предлог стоит перед *which*."
+  - q: "Формально: «Это коллега, с которым я работал над отчётом»."
+    answers: ["This is the colleague with whom I worked on the report", "This is the colleague whom I worked with on the report"]
+    explain: "Формальный вариант — **with whom** в начале придаточного. Если предлог остаётся у глагола, *whom* звучит смешанно по стилю, но грамматически допустимо."
+  - q: "«Совещание перенесли на следующий вторник»."
+    answers: ["The meeting has been moved to next Tuesday"]
+    explain: "Перенос на дату — **move something to**. Перед *next Tuesday* предлог времени *on* не ставится."
+  - q: "«Результаты опубликуют не раньше мая»."
+    answers: ["The results will not be published until May"]
+    explain: "**not … until** — «не раньше, чем». *by May* значило бы «не позже мая» — противоположный смысл."
+  - q: "«Она бросила школу в шестнадцать лет»."
+    answers: ["She left school at the age of sixteen", "At the age of sixteen she left school"]
+    explain: "Возраст — **at**: *at sixteen, at the age of sixteen*. ~~in sixteen~~ — калька."
+  - q: "«Инфляция по-прежнему значительно выше цели, установленной банком»."
+    answers: ["Inflation remains well above the target set by the bank"]
+    explain: "Цель — уровень на шкале → **above**. *well* усиливает предлог: *well above, well below*."
+  - q: "«Его арестовали в ночь на 12 марта»."
+    answers: ["He was arrested on the night of 12 March", "On the night of 12 March he was arrested"]
+    explain: "Конкретная дата, даже часть суток, — **on**: *on the night of…, on the morning of…*"

@@ -1,0 +1,44 @@
+title: "Найди и исправь ошибку: third и mixed"
+type: error
+intro: "В каждом предложении **одна** ошибка. Определи, о каком времени каждая половина, исправь ошибку и отправь предложение целиком."
+hints:
+  - "Условие о прошлом → had + V3; результат о прошлом → would have + V3."
+  - "Результат сейчас (now, today, still) → would + V, даже если условие о прошлом."
+  - "would не ставится в части с if."
+items:
+  - q: "If the tester would have noticed the bug, the release wouldn't have been delayed."
+    answers: ["If the tester had noticed the bug, the release wouldn't have been delayed.", "Had the tester noticed the bug, the release wouldn't have been delayed."]
+    explain: "В условии третьего типа — **Past Perfect**: *had noticed*. *would* в части с *if* не ставится."
+  - q: "If I had accepted that offer in Lisbon, I would have lived by the ocean now."
+    answers: ["If I had accepted that offer in Lisbon, I would be living by the ocean now.", "If I had accepted that offer in Lisbon, I would live by the ocean now."]
+    explain: "Маркер **now** → результат в настоящем: *would be living* / *would live*. Это смешанный тип «прошлое → сейчас»."
+  - q: "If she wasn't so shy, she would asked a question at the conference yesterday."
+    answers: ["If she wasn't so shy, she would have asked a question at the conference yesterday.", "If she weren't so shy, she would have asked a question at the conference yesterday."]
+    explain: "Результат о прошлом (*yesterday*) → **would have + V3**: *would have asked*. Условие — её постоянная черта, поэтому Past Simple там верен."
+  - q: "We would have won the match if our goalkeeper hadn't get injured."
+    answers: ["We would have won the match if our goalkeeper hadn't got injured.", "We would have won the match if our goalkeeper hadn't gotten injured.", "We would have won the match if our goalkeeper had not got injured."]
+    explain: "После *hadn't* — третья форма: **got** (или *gotten* в американском)."
+  - q: "If I had had more experience, I would have get the job."
+    answers: ["If I had had more experience, I would have got the job.", "If I had had more experience, I would have gotten the job."]
+    explain: "После *would have* — третья форма: **got**. А *had had* в условии — правильно: Past Perfect от *have*."
+  - q: "If you hadn't reminded me, I would forget about the deadline last Friday."
+    answers: ["If you hadn't reminded me, I would have forgotten about the deadline last Friday."]
+    explain: "Результат о конкретном прошлом (*last Friday*) → **would have forgotten**."
+  - q: "If we had left on time, we wouldn't be stuck in that traffic jam yesterday."
+    answers: ["If we had left on time, we wouldn't have been stuck in that traffic jam yesterday.", "If we had left on time, we wouldn't have got stuck in that traffic jam yesterday."]
+    explain: "*yesterday* → результат тоже в прошлом: **wouldn't have been** stuck. Без *yesterday* (и с *now*) был бы верен смешанный тип."
+  - q: "If he speaks better English, he would have passed the interview last month."
+    answers: ["If he spoke better English, he would have passed the interview last month.", "If he had spoken better English, he would have passed the interview last month."]
+    explain: "Нереальное условие требует сдвига времени: **spoke** (он вообще плохо говорит — смешанный тип) или *had spoken* (третий тип). Present Simple с *would have* невозможен."
+  - q: "If I hadn't been so tired, I could have went to the party."
+    answers: ["If I hadn't been so tired, I could have gone to the party."]
+    explain: "После *could have* — третья форма: **gone**, не *went*."
+  - q: "If they hadn't invested in AI early, the company wouldn't been so successful today."
+    answers: ["If they hadn't invested in AI early, the company wouldn't be so successful today."]
+    explain: "Маркер **today** → результат сейчас: **wouldn't be**. Прошлое решение влияет на настоящее — смешанный тип."
+  - q: "Had I knew about the strike, I would have taken the car."
+    answers: ["Had I known about the strike, I would have taken the car.", "If I had known about the strike, I would have taken the car."]
+    explain: "Инверсия *Had I…* = *If I had…*, после *had* — третья форма: **known**."
+  - q: "If I would be braver, I would have told him the truth years ago."
+    answers: ["If I were braver, I would have told him the truth years ago.", "If I was braver, I would have told him the truth years ago.", "If I had been braver, I would have told him the truth years ago."]
+    explain: "*would* в условии не ставится. Черта характера «вообще» → Past Simple **were** (смешанный тип), или *had been* (третий тип)."

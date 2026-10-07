@@ -1,0 +1,35 @@
+title: "Review: an exhibition worth the journey?"
+type: writing
+intro: "Напиши рецензию в формате C1 Advanced, Part 2. Полуформальный регистр, аргументированная оценка, адресная рекомендация и разнообразные относительные придаточные."
+prompt: |
+  An international culture website is inviting readers to send in reviews of **an exhibition or museum** they have visited recently. In your review you should:
+
+  - briefly **describe** the exhibition or museum and what makes it distinctive;
+  - **evaluate** how successful it is, mentioning at least one weakness;
+  - say **who** would most enjoy it and whether it is worth making a special journey to see it.
+
+  Write your **review** in 220–260 words.
+words: [220, 260]
+target_grammar:
+  - "Non-defining с which / whom / whose; квантор + of which / of whom"
+  - "Сокращённые придаточные: objects dating from…, photographs taken by…, the first museum to…"
+  - "what в роли подлежащего (What struck me was…); whatever / whoever / those who"
+  - "Предлог впереди в формальной фразе: the care with which…, the extent to which…"
+checklist:
+  - "Есть заголовок и четыре абзаца: вступление, описание и плюсы, минусы, рекомендация."
+  - "Описание сжатое: нет пересказа всех залов или экспонатов."
+  - "Названа хотя бы одна слабая сторона, и объяснено, почему она важна."
+  - "Рекомендация адресная: кому подойдёт и кому нет (those who…, anyone who…)."
+  - "Использовано не меньше пяти разных относительных конструкций, в том числе квантор + of which / whom и сокращённое придаточное."
+  - "Нет that в non-defining и нет comma splice вида …, most of them were…"
+  - "Объём 220–260 слов."
+model_answer: |
+  **Small museum, big ideas**
+
+  It is not often that a museum devoted to something as ordinary as household objects keeps you there for an entire afternoon, but the Museum of Everyday Design in Ghent managed exactly that.
+
+  The collection, most of which was donated by local families, consists of around two thousand items dating from the 1920s to the present day: kettles, radios, chairs and, rather unexpectedly, a whole room of toothbrushes. What sets the museum apart, however, is not the objects themselves but the stories attached to them. Each display includes a short recorded interview with the person whose home the object came from, so that a battered 1960s toaster suddenly becomes part of somebody's life. The care with which these voices have been edited is remarkable.
+
+  Where the museum falls short is in its layout. The rooms, none of which are clearly signposted, follow no obvious order, and I found myself walking past the same cabinets more than once. Visitors who prefer a clear chronological route may find this frustrating, which is a pity given the quality of the material.
+
+  Flawed as it is, I would wholeheartedly recommend the museum to anyone who is curious about design or social history. Those with young children should note that the interactive section, the only part of the building to be fully accessible to pushchairs, is rather small. Whatever your interests, though, it is well worth a detour if you happen to be in Belgium — just leave yourself more time than you expect.

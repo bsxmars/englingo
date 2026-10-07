@@ -1,0 +1,40 @@
+title: "Третий тип и смешанные"
+type: gap
+intro: "Поставь глагол в скобках в нужную форму. Смотри на каждую половину предложения: она о прошлом или о настоящем? Сокращения (*'d*, *hadn't*, *wouldn't*) засчитываются."
+hints:
+  - "Прошлое в условии: had + V3. Прошлое в результате: would have + V3."
+  - "now, today, still в результате → would + V (смешанный тип)."
+items:
+  - q: "If I ___ (know) about the party, I would have come."
+    answers: ["had known"]
+    explain: "Нереальное прошлое → third conditional: if + **had known**. Не ~~would have known~~ в части с *if*."
+  - q: "We would have caught the train if we ___ (leave) earlier."
+    answers: ["had left"]
+    explain: "Условие о прошлом → Past Perfect: **had left**."
+  - q: "If she hadn't helped me, I ___ (not / finish) the project on time."
+    answers: ["wouldn't have finished", "couldn't have finished", "might not have finished"]
+    explain: "Результат в прошлом → **wouldn't have finished** (или *couldn't have* — «не смог бы»)."
+  - q: "If I had gone to bed earlier last night, I ___ (not / be) so tired now."
+    answers: ["wouldn't be", "might not be"]
+    explain: "Условие — прошлое, результат — **now** → смешанный тип: **wouldn't be**."
+  - q: "If he ___ (be) more careful, he wouldn't have crashed the car yesterday."
+    answers: ["had been", "were", "was"]
+    explain: "**had been** — «был бы осторожнее в тот раз» (третий тип). *were* тоже возможно: «если бы он вообще был осторожным человеком» (смешанный тип)."
+  - q: "If I spoke German, I ___ (apply) for that job in Berlin last year."
+    answers: ["would have applied", "could have applied", "might have applied"]
+    explain: "Условие — постоянное (не знаю немецкий), результат — **last year** → **would have applied**."
+  - q: "If we had bought that flat in 2015, we ___ (live) in the city centre now."
+    answers: ["would be living", "would live", "could be living", "could live"]
+    explain: "Прошлое условие (in 2015) → результат сейчас (**now**): **would be living** / *would live*."
+  - q: "I ___ (not / meet) my wife if I hadn't missed that flight."
+    answers: ["wouldn't have met", "might not have met", "would never have met"]
+    explain: "Обе части о прошлом → **wouldn't have met**."
+  - q: "If you ___ (not / remind) me, I would have forgotten her birthday."
+    answers: ["hadn't reminded"]
+    explain: "Условие о прошлом → **hadn't reminded** (Past Perfect)."
+  - q: "She'd be a famous singer now if she ___ (not / give up) music at eighteen."
+    answers: ["hadn't given up", "hadn't given music up"]
+    explain: "Результат сейчас (*'d be … now*), а условие в прошлом (*at eighteen*) → **hadn't given up**. Здесь *'d* = *would*."
+  - q: "If it ___ (not / rain) so heavily, the match wouldn't have been cancelled."
+    answers: ["hadn't rained"]
+    explain: "Дождь был в прошлом, матч отменили → third conditional: **hadn't rained**."

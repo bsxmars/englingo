@@ -1,0 +1,48 @@
+title: "may, might, can, could: точный оттенок"
+type: choice
+intro: "Выбери вариант, который точно передаёт смысл. Остальные либо меняют значение, либо не подходят по правилу употребления."
+hints:
+  - "Конкретное предположение — may / might / could, не can."
+  - "may not = «возможно, нет»; can't = «точно нет»."
+  - "Давать разрешение — can / may, не could и не might."
+items:
+  - q: "— Where's Ivan? — I'm not sure. He ___ be in the server room."
+    options: ["can", "could", "can't"]
+    answer: 1
+    explain: "Конкретное предположение о настоящем → **could** (или *may / might*). *can* в таком значении не используется, *can't* — уверенное отрицание."
+  - q: "Side effects of the vaccine ___ include a mild fever and a sore arm."
+    options: ["may", "might have", "must"]
+    answer: 0
+    explain: "Типичная, известная возможность в инструкциях → **may**. *must* сделало бы побочные эффекты обязательными."
+  - q: "— Could I leave twenty minutes early today? — Yes, of course you ___."
+    options: ["could", "can", "might"]
+    answer: 1
+    explain: "Разрешение дают через **can** (или *may*), даже если просили через *could*. Ответ *you could* звучит как неуверенное предложение, а не разрешение."
+  - q: "That ___ be Sarah's car — she sold it last month."
+    options: ["may not", "can't", "mightn't"]
+    answer: 1
+    explain: "Говорящий уверен, что это не так → **can't**. *may not / mightn't* значат «возможно, нет»."
+  - q: "You ___ warned me that the motorway was closed! I sat in traffic for two hours."
+    options: ["might have", "may have", "can have"]
+    answer: 0
+    explain: "Упрёк за то, что не сделали → **might have** + V3 (или *could have*). *may have warned* — нейтральное предположение, а *can have* в утверждениях не используется."
+  - q: "In the nineteenth century, a crossing from Liverpool to New York ___ take up to six weeks."
+    options: ["may", "might", "can"]
+    answer: 1
+    explain: "Возможность в прошлом (описание того, как бывало тогда) → **might** (или *could*). *may / can* описывают настоящее."
+  - q: "The proposal ___ be ambitious, but it is by no means unrealistic."
+    options: ["can", "may", "must"]
+    answer: 1
+    explain: "Уступка перед *but*: «пусть он и амбициозен, но…» → **may**. *must* — вывод, *can* — общая возможность, без оттенка уступки."
+  - q: "Winters in the mountains ___ be extremely harsh, so pack accordingly."
+    options: ["can", "might", "could have"]
+    answer: 0
+    explain: "Общая теоретическая возможность, «так бывает» → **can**. *might* — о конкретном случае: «может, будет суровой»."
+  - q: "Notice at a museum: Visitors ___ not photograph the exhibits without written permission."
+    options: ["may", "might", "could"]
+    answer: 0
+    explain: "Формальный запрет в правилах → **may not**. *might not* и *could not* значили бы «возможно, не» и «были не в состоянии», а не запрет."
+  - q: "The landslide ___ swept the whole village away. Luckily, it stopped just short of the houses."
+    options: ["may have", "could have", "must have"]
+    answer: 1
+    explain: "Возможность, которая **не реализовалась** → **could have** + V3. *may have* значило бы, что мы не знаем, случилось ли это, а *must have* — что случилось."

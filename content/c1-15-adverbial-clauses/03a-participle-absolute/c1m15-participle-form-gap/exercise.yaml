@@ -1,0 +1,44 @@
+title: "Выбери форму причастия"
+type: gap
+intro: "Поставь глагол в скобках в нужную форму причастия: **-ing**, **having V3**, **V3**, **being V3** или **having been V3**. Если в скобках есть *not*, поставь его на правильное место."
+hints:
+  - "Действие оборота заметно раньше главного → having V3."
+  - "Пассив: V3 (состояние) или having been V3 (раньше)."
+  - "У абсолютного оборота своё подлежащее перед причастием."
+items:
+  - q: "___ (finish) her degree, she spent a year travelling around South America."
+    answers: ["Having finished"]
+    explain: "Учёба закончилась **до** путешествия, и между ними промежуток → **Having finished**. *Finishing* звучало бы как «во время выпуска»."
+  - q: "___ (not / know) anyone at the party, I spent the evening talking to the host's dog."
+    answers: ["Not knowing"]
+    explain: "Оборот причины, состояние одновременно с главным действием → **-ing**; **not** стоит перед причастием."
+  - q: "___ (write) in a hurry, the report contained several serious errors."
+    answers: ["Written", "Having been written"]
+    explain: "Отчёт **писали** — пассив. **Written** описывает его состояние; *Having been written* подчёркивает, что это было раньше. Оба верны."
+  - q: "___ (open) the drawer, she took out a small leather notebook."
+    answers: ["Opening", "Having opened"]
+    explain: "Действия идут вплотную одно за другим → можно **-ing**. *Having opened* тоже верно, просто тяжеловеснее."
+  - q: "The storm swept across the region, ___ (leave) thousands of homes without power."
+    answers: ["leaving"]
+    explain: "Оборот **результата** после главной части → **-ing**: *…, leaving thousands without power* (= and left)."
+  - q: "___ (be) a vegetarian, Tom always struggles at business dinners."
+    answers: ["Being"]
+    explain: "**Being** + существительное = «так как он…»: постоянное свойство как причина."
+  - q: "___ (interview) by the police twice already, he refused to answer any more questions."
+    answers: ["Having been interviewed"]
+    explain: "Его **допрашивали** (пассив), и это было **раньше** отказа → **having been V3**."
+  - q: "The meeting ___ (be) over, we headed straight to the station."
+    answers: ["being"]
+    explain: "Абсолютный оборот: у него своё подлежащее (*the meeting*). **being** можно и опустить: *The meeting over, …*."
+  - q: "Weather ___ (permit), the ceremony will be held in the castle gardens."
+    answers: ["permitting"]
+    explain: "**Weather permitting** = «если позволит погода» — застывший абсолютный оборот формальных объявлений."
+  - q: "There ___ (be) no further business, the chair declared the meeting closed."
+    answers: ["being"]
+    explain: "**There being** + существительное = «поскольку не было…». Формальный абсолютный оборот с *there*."
+  - q: "With house prices ___ (rise) so quickly, many young people have given up hope of buying."
+    answers: ["rising"]
+    explain: "**with + сущ. + -ing** — нейтральная замена абсолютного оборота: процесс, который идёт одновременно."
+  - q: "All things ___ (consider), the launch went rather well."
+    answers: ["considered"]
+    explain: "**All things considered** = «учитывая всё»: пассивное причастие, потому что «всё» *учтено* кем-то."

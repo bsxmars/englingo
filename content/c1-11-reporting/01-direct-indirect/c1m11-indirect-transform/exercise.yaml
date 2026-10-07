@@ -1,0 +1,69 @@
+title: "Перефразирование: прямая речь в косвенную (C1 Advanced, Part 4)"
+type: transform
+intro: |
+  Перескажи слова в кавычках. Используй **ключевое слово** без изменений и впиши от **трёх до шести слов** (включая ключевое). Следи за временем, местоимениями и указательными словами.
+hints:
+  - "yesterday → the previous day / the day before; this → that; here → there."
+  - "shall в вопросе-совете → should; must (обязанность) → had to; can → could."
+  - "Инверсия после цитаты возможна только с существительным: said the minister, но he said."
+items:
+  - q: "'I saw the report yesterday,' the manager said on Tuesday."
+    key: "PREVIOUS"
+    stem: "On Tuesday the manager said ___ day."
+    answers: ["he had seen the report the previous", "she had seen the report the previous", "he saw the report the previous", "she saw the report the previous"]
+    explain: "*yesterday* при пересказе в другой день → **the previous day**. Past Simple можно оставить или сдвинуть в Past Perfect."
+  - q: "'Shall I close the window?' Mia asked."
+    key: "SHOULD"
+    stem: "Mia asked ___ the window."
+    answers: ["if she should close", "whether she should close"]
+    explain: "*Shall I…?* — это просьба о совете, поэтому в косвенной речи **should**, а не *would*."
+  - q: "'We must be back at the hut before dark,' the guide said."
+    key: "HAD"
+    stem: "The guide said that ___ back at the hut before dark."
+    answers: ["we had to be", "they had to be", "everyone had to be"]
+    explain: "*must* в значении обязанности при пересказе часто становится **had to** (можно и оставить *must*, но ключевое слово требует *had*)."
+  - q: "'You can't park here,' the warden told me."
+    key: "ALLOWED"
+    stem: "The warden told me that I ___ there."
+    answers: ["wasn't allowed to park", "was not allowed to park"]
+    explain: "*can't* в значении запрета → **wasn't allowed to**; *here* при пересказе в другом месте → *there*."
+  - q: "'I'll have finished the draft by tomorrow,' Leo said three days ago."
+    key: "WOULD"
+    stem: "Three days ago Leo said that he ___ the draft by the next day."
+    answers: ["would have finished"]
+    explain: "*will have finished* → **would have finished**: сдвигается только *will*, перфектная часть остаётся."
+  - q: "One of the strikers declared, 'This fight is far from over.'"
+    key: "DECLARED"
+    stem: "'This fight is far from over,' ___ the strikers."
+    answers: ["declared one of"]
+    explain: "После цитаты с подлежащим-существительным возможна инверсия: **declared one of the strikers**. С местоимением так нельзя (~~declared he~~)."
+  - q: "'I didn't recognise him at first,' she admitted."
+    key: "HAD"
+    stem: "She admitted that she ___ at first."
+    answers: ["hadn't recognised him", "had not recognised him", "hadn't recognized him", "had not recognized him"]
+    explain: "Ключевое слово требует **Past Perfect**: он подчёркивает, что неузнавание было раньше момента признания."
+  - q: "'These are the photos I mentioned,' he said to me."
+    key: "THOSE"
+    stem: "He told me that ___ he had mentioned."
+    answers: ["those were the photos", "those were the photographs"]
+    explain: "*these* при пересказе → **those**; *are* → *were*. Слова «привязаны» к говорящему и пересчитываются."
+  - q: "'The Earth goes round the Sun,' our teacher explained."
+    key: "ROUND"
+    stem: "Our teacher explained that ___ the Sun."
+    answers: ["the Earth goes round", "the Earth went round"]
+    explain: "Общеизвестный факт — сдвиг **необязателен**: *goes* звучит естественнее, *went* тоже грамматично."
+  - q: "'I may be a little late,' Kate warned us. (She is still on her way.)"
+    key: "MIGHT"
+    stem: "Kate warned us that ___ a little late."
+    answers: ["she might be"]
+    explain: "*may* → **might**. Раз ситуация ещё актуальна, допустимо и *may*, но ключевое слово требует сдвига."
+  - q: "'Are you coming to the party tonight?' Sam asked me last week."
+    key: "WHETHER"
+    stem: "Last week Sam asked ___ to the party that night."
+    answers: ["me whether I was coming", "whether I was coming", "me whether I would be coming", "whether I would be coming"]
+    explain: "Общий вопрос → **whether** + прямой порядок (*I was coming*); *tonight* → *that night*."
+  - q: "'I've been waiting for over two hours,' the customer complained."
+    key: "BEEN"
+    stem: "The customer complained that ___ for over two hours."
+    answers: ["she had been waiting", "he had been waiting", "they had been waiting"]
+    explain: "Present Perfect Continuous → **Past Perfect Continuous**: *had been waiting*."

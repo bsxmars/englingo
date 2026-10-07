@@ -1,0 +1,44 @@
+title: "Инверсия: Little did I know, Not until, Only by…"
+type: gap
+intro: "Впиши недостающую часть с инверсией. В скобках даны подлежащее и глагол в начальной форме. Время выбери по контексту."
+hints:
+  - "Вспомогательный глагол + подлежащее + смысловой глагол: did she know, had we finished, can the firm survive."
+  - "После Not until / Only when / Only after + придаточное инверсия — во второй (главной) части."
+  - "После обстоятельства места — смысловой глагол прямо перед подлежащим, без do."
+items:
+  - q: "Little ___ (she / suspect) that her assistant had been leaking information for years."
+    answers: ["did she suspect"]
+    explain: "**Little** = «совсем не» → инверсия с *did*: *Little did she suspect…* Смысловой глагол — в начальной форме."
+  - q: "Not until the final whistle ___ (the crowd / realise) what had actually happened."
+    answers: ["did the crowd realise", "did the crowd realize"]
+    explain: "*Not until* + время → инверсия в главной части: **did the crowd realise**."
+  - q: "Only by working through the night ___ (we / manage) to meet the deadline."
+    answers: ["did we manage"]
+    explain: "*Only by + -ing* в начале → сразу инверсия: **did we manage**. Без вспомогательного глагола в прошедшем нужен *did*."
+  - q: "No sooner ___ (the minister / finish) her speech than protesters stormed the stage."
+    answers: ["had the minister finished"]
+    explain: "*No sooner … than* — Past Perfect с инверсией: **had the minister finished**. Одно действие сразу за другим."
+  - q: "Under no circumstances ___ (passengers / leave) their luggage unattended."
+    answers: ["should passengers leave", "must passengers leave", "are passengers to leave", "may passengers leave", "can passengers leave"]
+    explain: "Запрет с *Under no circumstances* — инверсия с модальным: **should / must passengers leave**."
+  - q: "So severe ___ (the damage) that the entire building had to be demolished."
+    answers: ["was the damage"]
+    explain: "*So + прилагательное + be + подлежащее + that*: **So severe was the damage that…**"
+  - q: "Such ___ (the demand) for tickets that the website crashed within minutes."
+    answers: ["was the demand"]
+    explain: "*Such + be + подлежащее + that*: **Such was the demand that…** — «спрос был таким, что…»."
+  - q: "At the very top of the hill ___ (stand) a ruined chapel, visible for miles around."
+    answers: ["stood", "stands"]
+    explain: "После обстоятельства места — инверсия **без** *do*: смысловой глагол сразу перед подлежащим. *There stood / stands a chapel…*"
+  - q: "Not only ___ (the company / lose) its biggest client, but it also faced a lawsuit."
+    answers: ["did the company lose"]
+    explain: "*Not only* в начале → инверсия в первой части: **did the company lose**. Вторая часть (*but it also faced*) — с прямым порядком."
+  - q: "Seldom in recent years ___ (a debut novel / receive) such universal praise."
+    answers: ["has a debut novel received"]
+    explain: "*in recent years* → Present Perfect, поэтому вспомогательный **has** перед подлежащим: *Seldom has a debut novel received…*"
+  - q: "Hardly ___ (I / close) my eyes when the baby started crying again."
+    answers: ["had I closed"]
+    explain: "*Hardly … when* — Past Perfect с инверсией: **had I closed**. Пара: *Hardly … when*, *No sooner … than*."
+  - q: "Only when the results were published ___ (the scale of the problem / become) clear."
+    answers: ["did the scale of the problem become"]
+    explain: "*Only when + придаточное* → инверсия в главной части: **did the scale of the problem become**. В придаточном (*the results were published*) порядок прямой."

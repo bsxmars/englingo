@@ -1,0 +1,59 @@
+title: "Найди ошибку: служебное слово"
+type: error
+intro: "В каждом предложении **одно** служебное слово выбрано неверно или пропущено — именно такие слова проверяет Part 2: предлог, союз, артикль, местоимение, вспомогательный глагол. Исправь его и отправь предложение целиком."
+hints:
+  - "Проверь рамки: such… that, so… that, as… as, no sooner… than, hardly… when."
+  - "Проверь, что стоит после слова: предложение (союз) или существительное / -ing (предлог)."
+items:
+  - q: "It was so a beautiful evening that we decided to eat outside."
+    answers:
+      - "It was such a beautiful evening that we decided to eat outside."
+      - "It was so beautiful an evening that we decided to eat outside."
+    explain: "Перед *a + прилагательное + существительное* — **such**: *such a beautiful evening*. Формальная альтернатива — *so beautiful an evening*."
+  - q: "No sooner had we sat down when the waiter brought the bill."
+    answers: ["No sooner had we sat down than the waiter brought the bill."]
+    explain: "**No sooner… than**, а **Hardly / Scarcely… when**. Смешивать рамки нельзя."
+  - q: "Despite she had little experience, she was offered the job."
+    answers:
+      - "Although she had little experience, she was offered the job."
+      - "Though she had little experience, she was offered the job."
+      - "Even though she had little experience, she was offered the job."
+      - "While she had little experience, she was offered the job."
+      - "Despite having little experience, she was offered the job."
+    explain: "*Despite* — предлог, после него нельзя подлежащее + глагол. Перед полным предложением — **Although / Even though**; или *Despite having…*"
+  - q: "The amount of people applying for the course has doubled."
+    answers:
+      - "The number of people applying for the course has doubled."
+    explain: "С исчисляемыми во множественном числе — **the number of**; *the amount of* — с неисчисляемыми (*the amount of money*)."
+  - q: "She is one of the few people which really understand the problem."
+    answers:
+      - "She is one of the few people who really understand the problem."
+      - "She is one of the few people that really understand the problem."
+    explain: "О людях — **who** (или *that*), не *which*."
+  - q: "Hardly had the concert started than the power went off."
+    answers:
+      - "Hardly had the concert started when the power went off."
+      - "Hardly had the concert started before the power went off."
+    explain: "**Hardly… when** (реже *before*). *than* — только после *No sooner*."
+  - q: "The film was so boring as half the audience left before the end."
+    answers: ["The film was so boring that half the audience left before the end."]
+    explain: "Рамка результата — **so… that**. *so… as to* возможно только с инфинитивом: *so boring as to be unwatchable*."
+  - q: "This is the third time she is late for work this week."
+    answers:
+      - "This is the third time she has been late for work this week."
+      - "This is the third time she's been late for work this week."
+    explain: "После **It / This is the first / second / third time** — Present Perfect: *she has been late*. Вспомогательный глагол — частый пропуск Part 2."
+  - q: "Little I knew that the email would change my life."
+    answers: ["Little did I know that the email would change my life."]
+    explain: "*Little* в начале в значении «совсем не» → инверсия со вспомогательным: **Little did I know**. Пропущено служебное *did*."
+  - q: "The more I read about the case, less I understood it."
+    answers: ["The more I read about the case, the less I understood it."]
+    explain: "В рамке **the + сравнительная…, the + сравнительная** артикль нужен в обеих частях: *the more…, **the** less…*"
+  - q: "Whatever hard she tries, she can never please her boss."
+    answers:
+      - "However hard she tries, she can never please her boss."
+      - "No matter how hard she tries, she can never please her boss."
+    explain: "Перед прилагательным или наречием — **However** («как бы ни»). *Whatever* стоит перед существительным: *whatever she does*."
+  - q: "He apologised for not having replied sooner, what was a nice gesture."
+    answers: ["He apologised for not having replied sooner, which was a nice gesture."]
+    explain: "Комментарий ко всему предыдущему предложению после запятой — только **which**. *what* = «то, что» и не присоединяется к предложению."

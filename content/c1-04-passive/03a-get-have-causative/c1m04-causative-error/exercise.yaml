@@ -1,0 +1,43 @@
+title: "Каузатив и get-passive: найди ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: порядок слов в каузативе, to там, где он не нужен (или наоборот), лишний пассив после need / worth, пропущенное V3. Исправь и отправь предложение целиком."
+hints:
+  - "have + объект + V3; have someone do; get someone to do."
+  - "need / worth + простое -ing."
+items:
+  - q: "I was stolen my wallet on the metro last night."
+    answers: ["I had my wallet stolen on the metro last night.", "My wallet was stolen on the metro last night.", "I got my wallet stolen on the metro last night."]
+    explain: "Человек не может быть «украден» вместе с кошельком. Опыт — **I had my wallet stolen** или нейтральный пассив *My wallet was stolen*."
+  - q: "We had painted the house last summer by a local firm."
+    answers: ["We had the house painted last summer by a local firm."]
+    explain: "Каузатив — *have* + **объект** + V3: **had the house painted**. *had painted the house* — Past Perfect («мы сами покрасили»)."
+  - q: "I'll get the caretaker unlock the meeting room for you."
+    answers: ["I'll get the caretaker to unlock the meeting room for you.", "I'll have the caretaker unlock the meeting room for you."]
+    explain: "*get* + человек + **to** + инфинитив: **get the caretaker to unlock**. Без *to* — с *have*."
+  - q: "The manager had us to redo the whole analysis."
+    answers: ["The manager had us redo the whole analysis.", "The manager made us redo the whole analysis.", "The manager got us to redo the whole analysis."]
+    explain: "*have* + человек + инфинитив **без to**: **had us redo**."
+  - q: "This old armchair really needs being reupholstered."
+    answers: ["This old armchair really needs reupholstering.", "This old armchair really needs to be reupholstered."]
+    explain: "*need* + *-ing* уже пассивно, двойной пассив лишний: **needs reupholstering** или *needs to be reupholstered*."
+  - q: "The castle is definitely worth to visit if you have a free afternoon."
+    answers: ["The castle is definitely worth visiting if you have a free afternoon.", "The castle is definitely worth a visit if you have a free afternoon."]
+    explain: "После *worth* — простой *-ing* или существительное: **worth visiting / worth a visit**."
+  - q: "They're getting marry in a small church near Bath."
+    answers: ["They're getting married in a small church near Bath."]
+    explain: "После *get* в значении изменения состояния — V3: **getting married**."
+  - q: "Was anyone got injured when the roof collapsed?"
+    answers: ["Did anyone get injured when the roof collapsed?", "Was anyone injured when the roof collapsed?"]
+    explain: "*get* — смысловой глагол, вопрос через *do*: **Did anyone get injured?** Либо обычный пассив *Was anyone injured?*"
+  - q: "Have you had checked your eyes recently?"
+    answers: ["Have you had your eyes checked recently?", "Have you had your eyes tested recently?"]
+    explain: "Порядок каузатива: *have* + **объект** + V3 → **had your eyes checked**."
+  - q: "You need cleaning your desk before the inspection tomorrow."
+    answers: ["You need to clean your desk before the inspection tomorrow.", "Your desk needs cleaning before the inspection tomorrow."]
+    explain: "*need* + *-ing* — пассивный смысл: *You need cleaning* = «тебя надо почистить». Исполнителю нужен инфинитив: **You need to clean your desk**."
+  - q: "He got himself arrest for climbing the fence at the airport."
+    answers: ["He got himself arrested for climbing the fence at the airport."]
+    explain: "*get oneself* + **V3**: **got himself arrested**."
+  - q: "I'll have the documents translate by Friday, I promise."
+    answers: ["I'll have the documents translated by Friday, I promise.", "I'll get the documents translated by Friday, I promise."]
+    explain: "После объекта в каузативе — **V3**: *have the documents **translated***."

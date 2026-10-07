@@ -1,0 +1,52 @@
+title: "will do, will be doing или will have done"
+type: choice
+intro: "Выбери единственный верный вариант. Тренируем Future Continuous «по ходу событий», сравнение трёх Continuous, вежливые вопросы и Future Perfect с *until* и *next …*."
+hints:
+  - "will do — действие начнётся после другого; will be doing — уже будет идти в этот момент."
+  - "won't have done … until — «не раньше, чем»."
+  - "this time last week → Past Continuous, this time next week → Future Continuous."
+items:
+  - q: "Don't worry about being late. When you come in, the band ___, so nobody will notice you."
+    options: ["will play", "will be playing", "plays"]
+    answer: 1
+    explain: "Музыка начнётся раньше и будет идти в момент, когда ты войдёшь → **will be playing**. *will play* значило бы: войдёшь — и тогда они заиграют."
+  - q: "As soon as the winner's name is announced, the audience ___ to their feet."
+    options: ["will get", "will have got", "got"]
+    answer: 0
+    explain: "Сначала объявят имя, **потом** зал встанет — простая последовательность в будущем → **will get**. *will have got* значило бы «к тому моменту уже встанет», а *got* — прошедшее."
+  - q: "This time last week I ___ on a beach in Crete. Now I'm back at my desk."
+    options: ["was lying", "will be lying", "am lying"]
+    answer: 0
+    explain: "*this time **last** week* — процесс в момент прошлого → Past Continuous **was lying**."
+  - q: "This time next week I ___ on a beach in Crete. I can't wait!"
+    options: ["was lying", "will be lying", "will have lain"]
+    answer: 1
+    explain: "*this time **next** week* — процесс в момент будущего → **will be lying**."
+  - q: "I can return your drill tomorrow — I ___ past your house on my way to work anyway."
+    options: ["'ll be going", "'ll have gone", "was going"]
+    answer: 0
+    explain: "Это и так случится по обычному ходу событий (мой маршрут на работу) → Future Continuous **'ll be going**."
+  - q: "How long ___ the meeting room this afternoon? We need it at three."
+    options: ["will you be using", "will you have used", "are you used"]
+    answer: 0
+    explain: "Вежливый вопрос о чужих планах, когда нам самим что-то нужно → **Will you be using…?**"
+  - q: "This puzzle has 5,000 pieces. They ___ it until next weekend at least."
+    options: ["won't have finished", "will have finished", "didn't finish"]
+    answer: 0
+    explain: "Отрицательный Future Perfect + **until** = «закончат не раньше, чем…». В утверждении *will have finished until* невозможно."
+  - q: "We moved into this flat in March 2020, so next March we ___ here for seven years."
+    options: ["'ll have lived", "'ll live", "have lived"]
+    answer: 0
+    explain: "Сколько времени пройдёт к моменту в будущем (*next March*) → Future Perfect **'ll have lived**."
+  - q: "___ the book by the time I need it back on Friday?"
+    options: ["Will you have read", "Will you be reading", "Have you read"]
+    answer: 0
+    explain: "Вопрос о результате к сроку (*by the time*) → **Will you have read…?**"
+  - q: "(Announcement) Ladies and gentlemen, the museum ___ in fifteen minutes. Please make your way to the exit."
+    options: ["will be closing", "will have closed", "was closing"]
+    answer: 0
+    explain: "Часть распорядка, которая наступит сама собой → **will be closing**. Так часто звучат объявления."
+  - q: "Please don't phone between six and seven — the kids ___ their homework then."
+    options: ["will be doing", "will do", "will have done"]
+    answer: 0
+    explain: "В этот промежуток дети будут в процессе → **will be doing**."

@@ -1,0 +1,37 @@
+title: "Инверсия и акцент: впиши одно слово"
+type: gap
+intro: "Впиши **одно** слово: вспомогательный глагол, связку или слово для cleft-конструкции."
+hints:
+  - "Never / Rarely / Not only / Only then в начале → вспомогательный глагол перед подлежащим."
+  - "Hardly … when; No sooner … than."
+items:
+  - q: "Never ___ I seen such a mess in my life!"
+    answers: ["have"]
+    explain: "*Never* в начале → инверсия. Время — Present Perfect (*seen*), поэтому **have** + I."
+  - q: "Not only ___ he late, but he also forgot the tickets."
+    answers: ["was"]
+    explain: "В обычном порядке *he was late* → после *Not only* вспомогательный *was* встаёт перед подлежащим: **was he** late."
+  - q: "Hardly had we sat down ___ the film started."
+    answers: ["when", "before"]
+    explain: "Пара **Hardly … when** (реже *before*) — «едва …, как …». *than* ставится только после *No sooner*."
+  - q: "No sooner had she arrived ___ she had to leave again."
+    answers: ["than"]
+    explain: "**No sooner … than** — «не успела …, как». *sooner* — сравнительная степень, отсюда *than*."
+  - q: "___ was Anna who organised the whole party."
+    answers: ["It"]
+    explain: "Cleft sentence: **It** was + выделяемое + *who* …"
+  - q: "What I love most about this city ___ the food."
+    answers: ["is"]
+    explain: "*What*-часть — это одна вещь, поэтому **is**."
+  - q: "Only then ___ I understand what she meant."
+    answers: ["did"]
+    explain: "После *Only then* — инверсия. Вспомогательного нет (*I understood*), поэтому добавляем **did** и глагол в начальной форме."
+  - q: "Rarely ___ we eat out these days — it's too expensive."
+    answers: ["do"]
+    explain: "*Rarely* в начале → инверсия. Настоящее время, *we* → **do**."
+  - q: "I ___ like your new haircut — it really suits you. (усилительный вспомогательный глагол)"
+    answers: ["do"]
+    explain: "Усилительное **do** перед глаголом: *I do like it* — «мне правда нравится»."
+  - q: "She ___ come to the meeting, but she left early. (усилительный вспомогательный глагол)"
+    answers: ["did"]
+    explain: "Усилительное **did** в прошедшем: *She did come* — «она всё-таки пришла». Глагол — в начальной форме."

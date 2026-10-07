@@ -1,0 +1,44 @@
+title: "-ing или to?"
+type: gap
+intro: "Поставь глагол в скобках в нужную форму: **-ing** или **to + глагол**."
+hints:
+  - "enjoy, mind, avoid, finish, suggest, can't stand + -ing."
+  - "decide, hope, manage, refuse, afford + to."
+  - "После любого предлога (at, without, about, for) — -ing."
+items:
+  - q: "I really enjoy ___ (cook) for friends at the weekend."
+    answers: ["cooking"]
+    explain: "**enjoy** + -ing. ~~enjoy to cook~~ — частая ошибка."
+  - q: "We can't afford ___ (go) on holiday this year."
+    answers: ["to go"]
+    explain: "**afford** + to: *can't afford to go* — «не можем себе позволить»."
+  - q: "Would you mind ___ (turn) the music down a bit?"
+    answers: ["turning"]
+    explain: "**mind** + -ing: *Would you mind turning…?* — вежливая просьба."
+  - q: "He refused ___ (answer) any questions from journalists."
+    answers: ["to answer"]
+    explain: "**refuse** + to — глагол решения."
+  - q: "Have you finished ___ (pack)? The taxi is here."
+    answers: ["packing"]
+    explain: "**finish** + -ing: закончить делать что-то."
+  - q: "I've decided ___ (quit) my job and travel for a year."
+    answers: ["to quit"]
+    explain: "**decide** + to — решения и планы направлены в будущее."
+  - q: "She's really good at ___ (explain) complicated things."
+    answers: ["explaining"]
+    explain: "После предлога (*good **at***) — всегда **-ing**."
+  - q: "Did you manage ___ (find) a parking space?"
+    answers: ["to find"]
+    explain: "**manage** + to — «суметь, справиться»."
+  - q: "My doctor suggested ___ (cut) down on sugar."
+    answers: ["cutting"]
+    explain: "**suggest** + -ing (или *suggest that I cut down*). ~~suggest to cut~~ невозможно."
+  - q: "I can't stand ___ (listen) to people chewing loudly."
+    answers: ["listening"]
+    explain: "**can't stand** («терпеть не могу») + -ing."
+  - q: "We're hoping ___ (move) into our new flat in March."
+    answers: ["to move"]
+    explain: "**hope** + to — надежды и планы."
+  - q: "He left the party without ___ (say) goodbye."
+    answers: ["saying"]
+    explain: "После предлога **without** — -ing: «не попрощавшись»."

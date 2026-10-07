@@ -1,0 +1,41 @@
+title: "Найди тонкую ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: не тот союз, пропущенный предлог или «переходник» *the fact that*, согласование. Исправь её и отправь предложение целиком."
+hints:
+  - "После предлога и после discuss / overlook / conceal — the fact that."
+  - "question / issue / matter + of + wh-слово; sorry about what, pleased with how."
+  - "Если после that стоит законченное предложение, which туда не подходит."
+items:
+  - q: "Despite that the trains were cancelled, most staff made it to work."
+    answers: ["Despite the fact that the trains were cancelled, most staff made it to work.", "In spite of the fact that the trains were cancelled, most staff made it to work.", "Although the trains were cancelled, most staff made it to work.", "Even though the trains were cancelled, most staff made it to work.", "Though the trains were cancelled, most staff made it to work."]
+    explain: "*despite* — предлог, после него нельзя голое *that*-придаточное. Нужно **despite the fact that** или союз *although*."
+  - q: "The committee overlooked that two of its members had a conflict of interest."
+    answers: ["The committee overlooked the fact that two of its members had a conflict of interest."]
+    explain: "*overlook* не берёт *that*-придаточное напрямую — нужен **the fact that** (так же *discuss, conceal, ignore*)."
+  - q: "We raised the issue how the scheme would be monitored."
+    answers: ["We raised the issue of how the scheme would be monitored."]
+    explain: "После *issue, question, matter* wh-придаточное присоединяется через **of**: *the issue of how…*"
+  - q: "I'm really pleased how the presentation went."
+    answers: ["I'm really pleased with how the presentation went.", "I'm really pleased about how the presentation went."]
+    explain: "Перед wh-придаточным после прилагательного чувства нужен предлог: **pleased with / about how**. Перед *that* предлог не ставят."
+  - q: "The consensus seems that the reform came far too late."
+    answers: ["The consensus seems to be that the reform came far too late."]
+    explain: "Существительное + *seem* + *that*-придаточное: **seems to be that**. Без *to be* — только с пустым *it*: *It seems that…*"
+  - q: "There is a growing realisation which the old business model no longer works."
+    answers: ["There is a growing realisation that the old business model no longer works.", "There is a growing realization that the old business model no longer works."]
+    explain: "После *which* стоит **законченное** предложение — значит это noun clause (содержание *realisation*), и союз только **that**."
+  - q: "Her claim that she had never seen the documents were contradicted by the emails."
+    answers: ["Her claim that she had never seen the documents was contradicted by the emails."]
+    explain: "Подлежащее — *her claim* (ед. ч.), придаточное лишь раскрывает его содержание. Не поддавайся ближайшему *documents*: **was contradicted**."
+  - q: "She was worried about that she might lose her job."
+    answers: ["She was worried that she might lose her job.", "She was worried about the fact that she might lose her job."]
+    explain: "Перед *that* предлог не ставится: **worried that**. Предлог нужен только перед wh-словом: *worried about whether…*"
+  - q: "It's no wonder what she left, given how little they paid her."
+    answers: ["It's no wonder that she left, given how little they paid her.", "It's no wonder she left, given how little they paid her.", "It is no wonder that she left, given how little they paid her.", "It is no wonder she left, given how little they paid her."]
+    explain: "*no wonder* + **that**-придаточное (факт). *what* означало бы «то, что», но придаточное *she left* полное."
+  - q: "I'm not confident if the vote will pass."
+    answers: ["I'm not confident that the vote will pass.", "I'm not confident the vote will pass."]
+    explain: "*confident* берёт **that**: «уверен, что». *if / whether* сочетаются с *sure, certain*: *I'm not sure if…*"
+  - q: "The possibility which interest rates might rise again is worrying investors."
+    answers: ["The possibility that interest rates might rise again is worrying investors."]
+    explain: "*interest rates might rise again* — законченное предложение, раскрывающее *possibility* → noun clause → **that**, не *which*."

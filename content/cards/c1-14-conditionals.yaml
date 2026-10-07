@@ -1,0 +1,140 @@
+- id: c1m14-factual-past
+  lesson: c1-14-conditionals/01-real-unreal
+  q: "*If it rained, we went by bus.* — это второй тип?"
+  a: "Нет. Это **factual** о прошлом: реальная закономерность, *if* ≈ *whenever*. Past + Past."
+- id: c1m14-will-insist
+  lesson: c1-14-conditionals/01-real-unreal
+  q: "Когда **will** в if-части не ошибка? Назови два случая."
+  a: "Ударное *will* — упрёк (*If you **will** keep shouting…*); вежливая просьба (*If you**'ll** just follow me…*). Ещё: результат позже условия (*If it will help…*)."
+- id: c1m14-would-if
+  lesson: c1-14-conditionals/01-real-unreal
+  q: "Переведи: «Если бы он только соизволил выслушать, мы бы всё решили»."
+  a: "*If he **would** only listen, we could sort it out.* — *would* в if-части = желаемое поведение другого."
+- id: c1m14-were-to
+  lesson: c1-14-conditionals/01-real-unreal
+  q: "Чем *If the company were to relocate* отличается от *If the company relocated*?"
+  a: "**were to** — более отстранённая, формальная гипотеза. Смысл тот же, регистр выше."
+- id: c1m14-d-ambiguity
+  lesson: c1-14-conditionals/01-real-unreal
+  q: "Раскрой *'d*: *If you'd seen him, you'd have laughed.*"
+  a: "В if-части *'d* = **had**, в главной = **would**: *If you had seen him, you would have laughed.*"
+- id: c1m14-grateful
+  lesson: c1-14-conditionals/01-real-unreal
+  q: "Формальная просьба в письме: «Буду признателен, если вы пришлёте…»"
+  a: "*I **would be grateful if** you **could** send…*"
+- id: c1m14-mixed-past-present
+  lesson: c1-14-conditionals/02-mixed-order
+  q: "Переведи: «Если бы я не съел так много за обедом, мне бы сейчас не было так тяжело»."
+  a: "*If I **hadn't eaten** so much at lunch, I **wouldn't feel** so full now.*"
+- id: c1m14-mixed-present-past
+  lesson: c1-14-conditionals/02-mixed-order
+  q: "Переведи: «Если бы он не был таким упрямым, он бы уже извинился»."
+  a: "*If he **weren't** so stubborn, he **would have apologised** by now.*"
+- id: c1m14-will-have
+  lesson: c1-14-conditionals/02-mixed-order
+  q: "*If they left at six, they ___ home by now.* — какая форма?"
+  a: "***will have got*** (или *will be*) home — уверенный вывод о прошлом в реальном условии."
+- id: c1m14-then-so
+  lesson: c1-14-conditionals/02-mixed-order
+  q: "Найди ошибку: *If the light is on, so someone is at home.*"
+  a: "Не *so*, а **then** (или ничего): *If the light is on, **then** someone is at home.*"
+- id: c1m14-comma
+  lesson: c1-14-conditionals/02-mixed-order
+  q: "Когда в условном предложении нужна запятая?"
+  a: "Когда if-часть **первая**. Если она вторая — обычно без запятой, кроме добавочного комментария."
+- id: c1m14-rather
+  lesson: c1-14-conditionals/02-mixed-order
+  q: "Найди ошибку: *If you don't mind, I'd rather to stay here.*"
+  a: "После **would rather** — инфинитив без *to*: *I'd rather **stay** here.*"
+- id: c1m14-had-i-known
+  lesson: c1-14-conditionals/03-inversion-alternatives
+  q: "Три формы инверсии вместо *if*."
+  a: "***Should** you need… · **Were** I / **Were** it to… · **Had** I known…*"
+- id: c1m14-inversion-not
+  lesson: c1-14-conditionals/03-inversion-alternatives
+  q: "Найди ошибку: *Hadn't it been for the rain, we would have won.*"
+  a: "В инверсии без сокращения: ***Had it not been** for the rain…*"
+- id: c1m14-but-for
+  lesson: c1-14-conditionals/03-inversion-alternatives
+  q: "Перефразируй с **BUT**: *If it hadn't been for your help, we would have failed.*"
+  a: "***But for** your help, we would have failed.*"
+- id: c1m14-only-if
+  lesson: c1-14-conditionals/03-inversion-alternatives
+  q: "*Only if everyone agrees ___ proceed.* — что после *Only if* в начале?"
+  a: "Инверсия в главной части: *Only if everyone agrees **will we** proceed.*"
+- id: c1m14-if-only
+  lesson: c1-14-conditionals/03-inversion-alternatives
+  q: "**only if** или **if only**: *___ I had listened to you!*"
+  a: "**If only** — сожаление (= *I wish*). *only if* — единственное условие."
+- id: c1m14-even-if-though
+  lesson: c1-14-conditionals/03-inversion-alternatives
+  q: "*We'll go ___ it rains* / *We went ___ it rained* — even if или even though?"
+  a: "Возможное условие → **even if**; реальный факт → **even though**."
+- id: c1m14-unless-limits
+  lesson: c1-14-conditionals/03-inversion-alternatives
+  q: "Где **unless** нельзя заменить на *if … not*?"
+  a: "В counterfactual (*If we hadn't worked…*), когда отрицание — причина (*If he didn't have such an ego…*), и с *then* в главной части."
+- id: c1m14-whether-or-not
+  lesson: c1-14-conditionals/03-inversion-alternatives
+  q: "Переведи: «Фестиваль пройдёт независимо от того, будет дождь или нет»."
+  a: "*The festival will go ahead **whether or not** it rains* / *whether it rains **or not***."
+- id: c1m14-if-so
+  lesson: c1-14-conditionals/03-inversion-alternatives
+  q: "Закончи: *Some items may be faulty. ___, they will be replaced.*"
+  a: "**If so** — «если это так»."
+- id: c1m14-dwell
+  lesson: c1-14-conditionals/04-reading
+  q: "Переведи: *to dwell on, a near miss, hindsight, futile*."
+  a: "зацикливаться на; «чуть-чуть не»; взгляд задним числом; тщетный."
+- id: c1m14-essay-choice
+  lesson: c1-14-conditionals/05-writing
+  q: "Что обязательно должно быть в выводе эссе C1 Part 1?"
+  a: "Явный выбор: **какой** из двух подходов эффективнее / важнее и **почему**."
+- id: c1m14-if-it-will-help
+  lesson: c1-14-conditionals/01-real-unreal
+  q: "Почему верно *I'll come in early **if it will help**.*?"
+  a: "Польза наступит **позже** условия, поэтому *will* в if-части допустимо. Ср. обычное *if it rains* (без will)."
+- id: c1m14-would-state
+  lesson: c1-14-conditionals/01-real-unreal
+  q: "Найди ошибку: *If he would have more experience, they would promote him.*"
+  a: "Состояние → Past: *If he **had** more experience…* *would* в if-части — только о желаемом поведении (*if he would listen*)."
+- id: c1m14-trait-mixed
+  lesson: c1-14-conditionals/02-mixed-order
+  q: "*Maya is shy by nature. If she ___ so shy, she would have asked a question yesterday.* — weren't или hadn't been?"
+  a: "**weren't**: постоянная черта → Past. *hadn't been* — если бы стеснялась только в тот вечер."
+- id: c1m14-real-past-present
+  lesson: c1-14-conditionals/02-mixed-order
+  q: "Переведи: «Если ты смотрел первый сезон, ты знаешь, почему его все ненавидят»."
+  a: "*If you **saw** the first season, you **know** why everyone hates him.* — реальное условие: Past + Present, без would."
+- id: c1m14-provided-will
+  lesson: c1-14-conditionals/03a-without-if
+  q: "Найди ошибку: *You can borrow it provided you will return it by Friday.*"
+  a: "После **provided** — Present: *provided you **return** it*."
+- id: c1m14-provided-unwanted
+  lesson: c1-14-conditionals/03a-without-if
+  q: "Почему нельзя *Provided it rains, the match will be cancelled*?"
+  a: "**provided** — желаемое условие сделки. Для нежелательного события — **If** или *In the event that*."
+- id: c1m14-in-case-if
+  lesson: c1-14-conditionals/03a-without-if
+  q: "*Take a coat in case it gets cold* vs *Take a coat if it gets cold* — в чём разница?"
+  a: "**in case** — берёшь заранее, на всякий случай; **if** — берёшь только когда похолодает."
+- id: c1m14-in-the-event
+  lesson: c1-14-conditionals/03a-without-if
+  q: "Формально: «В случае отмены рейса пассажирам вернут деньги»."
+  a: "***In the event of** a cancellation, passengers will receive a refund.* (+ существительное; с предложением — *in the event that*)."
+- id: c1m14-given-assuming
+  lesson: c1-14-conditionals/03a-without-if
+  q: "**given** или **assuming**: *___ the budget is approved next week, we start in March.*"
+  a: "**Assuming** — бюджет ещё не утверждён. *Given (that)* вводит уже известный факт."
+- id: c1m14-imperative-and-or
+  lesson: c1-14-conditionals/03a-without-if
+  q: "Переведи: «Поторопись, а то опоздаем»."
+  a: "*Hurry up, **or (else)** we'll be late.* Императив + *and* = «если сделаешь»: *Hurry up and we'll make it.*"
+- id: c1m14-otherwise-past
+  lesson: c1-14-conditionals/03a-without-if
+  q: "Закончи: *I was ill that week; otherwise I ___ (come) to your wedding.*"
+  a: "**would have come** — после *otherwise* о прошлом нужен counterfactual."
+- id: c1m14-suppose-tense
+  lesson: c1-14-conditionals/03a-without-if
+  q: "*Suppose the train is late* vs *Supposing you won the lottery* — почему разные времена?"
+  a: "Present — ситуация вполне возможна (*what will we do?*); Past — маловероятная (*what would you do?*)."

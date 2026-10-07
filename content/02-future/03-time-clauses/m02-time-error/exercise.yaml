@@ -1,0 +1,34 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка. Исправь её и отправь предложение целиком."
+hints:
+  - "После when, as soon as, until, before, by the time — настоящее время, а не will."
+  - "about to, due to, likely to, going to — после to идёт инфинитив без -ing."
+items:
+  - q: "I'll call you when I will get home."
+    answers: ["I'll call you when I get home."]
+    explain: "После **when** будущее выражается Present Simple: *when I get home*."
+  - q: "As soon as she will arrive, we'll start the meeting."
+    answers: ["As soon as she arrives, we'll start the meeting.", "As soon as she has arrived, we'll start the meeting.", "As soon as she's arrived, we'll start the meeting."]
+    explain: "**As soon as** + Present Simple (или Present Perfect, если важна завершённость)."
+  - q: "We won't leave until the rain will stop."
+    answers: ["We won't leave until the rain stops.", "We won't leave until the rain has stopped."]
+    explain: "После **until** — настоящее время: *until the rain stops*."
+  - q: "I was going to calling you, but I forgot."
+    answers: ["I was going to call you, but I forgot."]
+    explain: "**be going to + инфинитив** без -ing: *was going to call*."
+  - q: "Hurry up — the train is about leaving!"
+    answers: ["Hurry up — the train is about to leave!", "Hurry up, the train is about to leave!", "Hurry up - the train is about to leave!"]
+    explain: "«Вот-вот» → **be about to + инфинитив**: *is about to leave*."
+  - q: "The new law is due to coming into force in January."
+    answers: ["The new law is due to come into force in January."]
+    explain: "**be due to + инфинитив**: *is due to come*. *to* здесь — частица инфинитива, а не предлог."
+  - q: "Prices are likely rise this year."
+    answers: ["Prices are likely to rise this year."]
+    explain: "**be likely to + инфинитив**: без *to* конструкция не работает."
+  - q: "By the time you will read this, I'll be in Paris."
+    answers: ["By the time you read this, I'll be in Paris."]
+    explain: "После **by the time** — Present Simple: *by the time you read this*."
+  - q: "Before you will leave, please turn off the lights."
+    answers: ["Before you leave, please turn off the lights."]
+    explain: "После **before** — настоящее время: *Before you leave…*"

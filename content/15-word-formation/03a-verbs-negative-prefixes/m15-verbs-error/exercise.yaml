@@ -1,0 +1,40 @@
+title: "Ошибки в глаголах и отрицательных формах"
+type: error
+intro: "В каждом предложении **одна** ошибка: прилагательное вместо глагола, неверная приставка или суффикс, ошибка в написании. Исправь её и впиши предложение целиком."
+hints:
+  - "Прилагательное само по себе редко становится глаголом: wide → widen, large → enlarge."
+  - "После приставки корень не меняется: mis + spell = misspell."
+items:
+  - q: "They are planning to wide the bridge next summer."
+    answers: ["They are planning to widen the bridge next summer."]
+    explain: "После *to* нужен глагол: *wide → **widen***. Прилагательное *wide* глаголом не бывает."
+  - q: "Could you large this photo so I can print it as a poster?"
+    answers: ["Could you enlarge this photo so I can print it as a poster?"]
+    explain: "Увеличить — **enlarge** (приставка *en-*). ~~large~~ — только прилагательное."
+  - q: "The new instructions have simplyfied the whole process."
+    answers: ["The new instructions have simplified the whole process."]
+    explain: "*simple → simplify → **simplified***: *-e* выпадает, *y → i* перед *-ed*. Формы ~~simplyfied~~ нет."
+  - q: "I always mispell the word 'necessary'."
+    answers: ["I always misspell the word 'necessary'."]
+    explain: "*mis + spell* — корень не меняется, поэтому две *s*: **misspell**."
+  - q: "We were completely disatisfied with the service at the hotel."
+    answers: ["We were completely dissatisfied with the service at the hotel.", "We were completely unsatisfied with the service at the hotel."]
+    explain: "*dis + satisfied* → **dissatisfied** с двумя *s*: приставка просто присоединяется к корню."
+  - q: "Constant criticism can weak a child's confidence."
+    answers: ["Constant criticism can weaken a child's confidence."]
+    explain: "После *can* нужен глагол: *weak* — прилагательное, глагол — **weaken** (*-en* = сделать таким)."
+  - q: "The prices were unbelievablely low, so we bought two of everything."
+    answers: ["The prices were unbelievably low, so we bought two of everything."]
+    explain: "У слов на *-able* наречие образуется заменой *-le* на *-ly*: **unbelievably**."
+  - q: "Many species are endangerred by the destruction of forests."
+    answers: ["Many species are endangered by the destruction of forests."]
+    explain: "*endanger* — ударение на второй слог, *r* не удваивается: **endangered**."
+  - q: "His explanation was so ilogical that nobody believed him."
+    answers: ["His explanation was so illogical that nobody believed him."]
+    explain: "*il + logical* → **illogical**: две *l*, корень не меняется."
+  - q: "Many people unestimate how long a renovation will take."
+    answers: ["Many people underestimate how long a renovation will take."]
+    explain: "Недооценивать — **underestimate** (*under-* = слишком мало). ~~unestimate~~ не существует."
+  - q: "The information on this website is completely outdate."
+    answers: ["The information on this website is completely outdated."]
+    explain: "После *is completely* — прилагательное: **outdated** (устаревший). *outdate* как самостоятельное слово не используется."

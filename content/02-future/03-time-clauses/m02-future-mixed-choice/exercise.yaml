@@ -1,0 +1,47 @@
+title: "Смешанная практика: будущее"
+type: choice
+intro: "Выбери правильный вариант. Здесь всё, что ты прошёл за неделю: формы будущего, time clauses и конструкции с *to*."
+hints:
+  - "Есть when / until / as soon as / by the time? В этой части — настоящее время."
+  - "about to — вот-вот; due to — по плану; likely to — вероятно; was going to — собирался."
+items:
+  - q: "I'll wait here until you ___ ."
+    options: ["will come back", "come back", "came back"]
+    answer: 1
+    explain: "После **until** — Present Simple: *until you come back*."
+  - q: "I ___ phone you yesterday, but I didn't have time."
+    options: ["was going to", "am going to", "will"]
+    answer: 0
+    explain: "Собирался, но не сделал → **was going to**."
+  - q: "Quick, get on! The train ___ leave."
+    options: ["is about to", "is due", "is likely"]
+    answer: 0
+    explain: "Вот-вот, прямо сейчас → **is about to**. *is due* и *is likely* без *to* не присоединяют инфинитив."
+  - q: "The new bridge is ___ open next spring."
+    options: ["due to", "about to", "going"]
+    answer: 0
+    explain: "По плану, с указанием срока (**next spring**) → **due to**. *about to* — только «вот-вот», без *next spring*."
+  - q: "It's ___ to snow tonight, so drive carefully."
+    options: ["likely", "probable", "possibly"]
+    answer: 0
+    explain: "Вероятность → **be likely to + инфинитив**. *probable* и *possibly* так не употребляются."
+  - q: "Call me as soon as you ___ the results."
+    options: ["will get", "get", "are getting"]
+    answer: 1
+    explain: "После **as soon as** — Present Simple: *as soon as you get*."
+  - q: "By the time we ___ there, the shop will be closed."
+    options: ["get", "will get", "are going to get"]
+    answer: 0
+    explain: "После **by the time** — Present Simple, даже если речь о будущем."
+  - q: "We ___ go to Italy in July, but then our flights were cancelled."
+    options: ["are going to", "were going to", "will"]
+    answer: 1
+    explain: "План в прошлом, который не сбылся → **were going to**."
+  - q: "I won't sign anything before I ___ the contract carefully."
+    options: ["will read", "have read", "had read"]
+    answer: 1
+    explain: "После **before** — настоящее время; Present Perfect подчёркивает, что чтение будет закончено: *before I've read*."
+  - q: "This time next month I ___ in my new flat."
+    options: ["will be living", "will live", "live"]
+    answer: 0
+    explain: "Процесс в момент будущего (**this time next month**) → Future Continuous: *will be living*."

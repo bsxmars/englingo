@@ -1,0 +1,37 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка. Исправь её и отправь предложение целиком."
+hints:
+  - "Два модальных глагола подряд не ставятся: will can → will be able to."
+  - "После can, could, may — инфинитив без to; после be able, managed, be allowed — с to."
+items:
+  - q: "I will can come to your party on Saturday."
+    answers: ["I will be able to come to your party on Saturday.", "I can come to your party on Saturday."]
+    explain: "Два модальных подряд нельзя: ~~will can~~ → **will be able to** (или просто *can* для договорённости)."
+  - q: "She could to speak three languages when she was ten."
+    answers: ["She could speak three languages when she was ten.", "She was able to speak three languages when she was ten."]
+    explain: "После **could** — инфинитив без *to*."
+  - q: "The exam was really hard, but I could pass it."
+    answers: ["The exam was really hard, but I managed to pass it.", "The exam was really hard, but I was able to pass it.", "The exam was really hard, but I passed it."]
+    explain: "Разовый успех («смог сдать») → **managed to** / **was able to**, а не *could*."
+  - q: "Do you can help me with this box?"
+    answers: ["Can you help me with this box?", "Could you help me with this box?"]
+    explain: "*can* — модальный глагол, вопрос без *do*: **Can you…?**"
+  - q: "We weren't allow to use calculators in the test."
+    answers: ["We weren't allowed to use calculators in the test."]
+    explain: "В конструкции нужно причастие: **be allowed to**."
+  - q: "I haven't could sleep well lately."
+    answers: ["I haven't been able to sleep well lately."]
+    explain: "У *can* нет Present Perfect → **haven't been able to**."
+  - q: "He managed to repairing the car himself."
+    answers: ["He managed to repair the car himself."]
+    explain: "**managed to** + инфинитив: *managed to repair*. Герундий нужен после *succeeded in* (*succeeded in repairing*)."
+  - q: "May I to ask you a question?"
+    answers: ["May I ask you a question?"]
+    explain: "После **may** — инфинитив без *to*."
+  - q: "— Could I borrow your pen? — Yes, you could."
+    answers: ["— Could I borrow your pen? — Yes, you can.", "Could I borrow your pen? Yes, you can."]
+    explain: "*Could I…?* — вежливая просьба, а не прошедшее время. Разрешаем через **can**: *Yes, you can*."
+  - q: "Are you able come to the meeting tomorrow?"
+    answers: ["Are you able to come to the meeting tomorrow?", "Will you be able to come to the meeting tomorrow?"]
+    explain: "**be able to** + инфинитив — частица *to* обязательна."

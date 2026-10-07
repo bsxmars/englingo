@@ -1,0 +1,47 @@
+title: "Essay: protecting wildlife"
+type: writing
+intro: "Напиши эссе в формате C1 Advanced, Part 1. Выбери два пункта из трёх, обсуди их и реши, какой эффективнее. Формальный регистр, generic reference и абстрактные существительные — под контролем."
+prompt: |
+  Your class has attended a panel discussion on what governments can do to protect wildlife. You have made the notes below.
+
+  **Ways in which governments can protect wildlife:**
+
+  - legal protection for endangered species
+  - funding for national parks and nature reserves
+  - public education campaigns
+
+  **Some opinions expressed in the discussion:**
+
+  - "Laws mean nothing unless they are enforced."
+  - "Parks protect whole ecosystems, not just individual animals."
+  - "People only protect what they understand."
+
+  Write an **essay** discussing **two** of the methods in your notes. You should **explain which method is more effective**, giving reasons in support of your answer.
+
+  You may, if you wish, make use of the opinions expressed in the discussion, but you should use your own words as far as possible.
+
+  Write your **essay** in 220–260 words.
+words: [220, 260]
+target_grammar:
+  - "Generic reference: the tiger / tigers; abstract nouns without an article (nature, education, wildlife)"
+  - "Номинализация: the creation of…, the funding of…, the enforcement of…"
+  - "Существительные-ярлыки для связи: this approach, the drawback, the measure"
+  - "the + прилагательное и group nouns с последовательным согласованием"
+checklist:
+  - "Обсуждены ровно два пункта из трёх, каждый — с сильной стороной и ограничением."
+  - "В выводе сделан явный выбор и он обоснован."
+  - "Мнения из задания использованы своими словами, а не переписаны."
+  - "Generic reference без ошибок: нет a/an со свойствами вида и the с абстрактными понятиями «вообще»."
+  - "Есть не меньше трёх номинализаций (the creation of…, the funding of…) и двух существительных-ярлыков (this approach, the drawback)."
+  - "Формальный регистр: нет сокращений, разговорных слов и обращений на you."
+  - "Объём 220–260 слов."
+model_answer: |
+  **Protecting wildlife: where should the money go?**
+
+  It is widely acknowledged that the natural world is under greater pressure than at any point in human history. Governments, however, have limited resources, and the question is which measures offer the best return. Of the approaches discussed, legal protection and the funding of national parks deserve particular attention.
+
+  Legal protection has an obvious appeal. A ban on hunting the tiger or trading in ivory sends a clear message, and the threat of prosecution can deter poachers. The weakness of this approach, as one speaker pointed out, is that laws mean little unless they are enforced. In many regions, the police lack the resources to patrol vast areas, and fines are too small to outweigh the profits of the illegal wildlife trade.
+
+  National parks, by contrast, protect not individual species but entire ecosystems. When a forest is preserved, the animals that depend on it, from insects to large predators, benefit at the same time. Parks also generate income from tourism, which gives local communities a financial interest in conservation. The drawback is cost: the creation of a park requires land, staff and long-term investment.
+
+  On balance, I would argue that funding national parks is the more effective measure. Laws are essential, but they protect an animal only on paper; a park protects the habitat without which no species can survive. Governments should therefore treat the funding of protected areas not as an optional expense but as an investment in the country's future.

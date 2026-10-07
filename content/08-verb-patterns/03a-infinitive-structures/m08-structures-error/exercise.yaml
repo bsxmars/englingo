@@ -1,0 +1,44 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка в конструкции с инфинитивом или *-ing*. Исправь её и отправь всё предложение целиком."
+hints:
+  - "what / how / where + to do; перед инфинитивом — whether, не if."
+  - "for sb to do — для кого; of sb — про поведение (kind of you)."
+  - "После предлога — -ing; despite без of."
+items:
+  - q: "Can you show me how use this coffee machine?"
+    answers: ["Can you show me how to use this coffee machine?"]
+    explain: "Вопросительное слово + **to-инфинитив**: *how **to** use*."
+  - q: "It's important for you understand the risks before you sign."
+    answers: ["It's important for you to understand the risks before you sign."]
+    explain: "Модель **for + кто-то + to do**: *for you **to** understand*. Без *to* конструкция ломается."
+  - q: "It was very kind for you to help us with the move."
+    answers: ["It was very kind of you to help us with the move."]
+    explain: "*kind* оценивает поведение человека → **of you**. *for you* = «для тебя»."
+  - q: "She's afraid of fly, so she always takes the train."
+    answers: ["She's afraid of flying, so she always takes the train."]
+    explain: "После предлога *of* — **-ing**: *afraid of flying*."
+  - q: "Instead of to complain, why don't you do something about it?"
+    answers: ["Instead of complaining, why don't you do something about it?"]
+    explain: "*instead of* — предлог → **complaining**. «Вместо того чтобы» не превращается в *to*."
+  - q: "You can save a lot of time by use keyboard shortcuts."
+    answers: ["You can save a lot of time by using keyboard shortcuts."]
+    explain: "*by* («каким способом») — предлог → **by using**."
+  - q: "Despite of feeling tired, he went to the gym."
+    answers: ["Despite feeling tired, he went to the gym.", "In spite of feeling tired, he went to the gym."]
+    explain: "**despite** — без *of*; с *of* — только **in spite of**."
+  - q: "I saw him to cross the road without looking."
+    answers: ["I saw him cross the road without looking.", "I saw him crossing the road without looking."]
+    explain: "В активе после *see* + объект — **голый инфинитив** (всё действие) или **-ing** (процесс). *to* появляется только в пассиве."
+  - q: "The driver was seen run a red light."
+    answers: ["The driver was seen to run a red light.", "The driver was seen running a red light."]
+    explain: "В пассиве после *see* возвращается **to**: *was seen to run* (или *-ing*: *was seen running*)."
+  - q: "We're still waiting the landlord to fix the boiler."
+    answers: ["We're still waiting for the landlord to fix the boiler."]
+    explain: "«Ждём, когда кто-то сделает» → **wait for sb to do**. Без *for* модель не работает."
+  - q: "On hear the news, she burst into tears."
+    answers: ["On hearing the news, she burst into tears."]
+    explain: "*on* («как только») — предлог → **On hearing**."
+  - q: "I can't decide if to accept the offer or not."
+    answers: ["I can't decide whether to accept the offer or not."]
+    explain: "Перед инфинитивом — только **whether**: *whether to accept*. *if to* невозможно."

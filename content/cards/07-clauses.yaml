@@ -1,0 +1,160 @@
+- id: m07-who-which-that
+  lesson: 07-clauses/01-defining-relative
+  q: "Когда **who**, когда **which**, а когда подходит **that**?"
+  a: "**who** — люди, **which** — вещи; в defining (без запятых) **that** подходит и для тех, и для других."
+- id: m07-what-error
+  lesson: 07-clauses/01-defining-relative
+  q: "Найди ошибку: *This is the book what I told you about.*"
+  a: "*the book **that / which** I told you about* или *the book I told you about*. *What* после существительного не ставится."
+- id: m07-omit-pronoun
+  lesson: 07-clauses/01-defining-relative
+  q: "Когда относительное местоимение можно опустить?"
+  a: "Когда оно объект: сразу после него идёт новое подлежащее. *the film (that) **we** watched*, но не ~~the man called me~~."
+- id: m07-preposition-end
+  lesson: 07-clauses/01-defining-relative
+  q: "Переведи разговорно: «человек, с которым я говорил»."
+  a: "*the person I spoke **to*** (формально: *the person to whom I spoke*)."
+- id: m07-whose
+  lesson: 07-clauses/01-defining-relative
+  q: "Переведи: «Это компания, чей основатель бросил университет»."
+  a: "*It's a company **whose** founder dropped out of university.* — *whose* и для неодушевлённых."
+- id: m07-where-visit
+  lesson: 07-clauses/01-defining-relative
+  q: "Найди ошибку: *Prague is the city where I visited last year.*"
+  a: "*the city **(that/which)** I visited* — *visit* без предлога, поэтому не *where*."
+- id: m07-extra-pronoun
+  lesson: 07-clauses/01-defining-relative
+  q: "Найди ошибку: *The woman who she lives next door is a vet.*"
+  a: "*The woman **who lives** next door…* — *who* уже подлежащее, *she* лишнее."
+- id: m07-what-the-thing-that
+  lesson: 07-clauses/01-defining-relative
+  q: "*what* или *that*: «Магазин не продаёт то, что мне нужно» / «Всё, что он сказал, — правда»."
+  a: "*The shop doesn't sell **what** I need.* / *Everything **(that)** he said is true.* — *what* только без существительного перед ним."
+- id: m07-what-i-need-is
+  lesson: 07-clauses/01-defining-relative
+  q: "Выдели: *I need a long holiday.* → «Что мне нужно, так это…»"
+  a: "***What I need is** a long holiday.*"
+- id: m07-it-was-who
+  lesson: 07-clauses/01-defining-relative
+  q: "Переведи с выделением: «Именно Том сломал принтер»."
+  a: "***It was Tom who** broke the printer.* — для людей *who / that*, для остального *that*."
+- id: m07-reason-why
+  lesson: 07-clauses/01-defining-relative
+  q: "Найди ошибку: *The reason because I left is simple.*"
+  a: "*The reason **(why / that)** I left is simple.* — после *the reason* не ставят *because*."
+- id: m07-commas-meaning
+  lesson: 07-clauses/02-non-defining
+  q: "Разница: *My brother who lives in Oslo…* / *My brother, who lives in Oslo, …*"
+  a: "Без запятых — братьев несколько, речь о том, что в Осло. С запятыми — брат один, Осло — доп. информация."
+- id: m07-no-that-commas
+  lesson: 07-clauses/02-non-defining
+  q: "Можно ли **that** после запятой: *Kazan, that is on the Volga, …*?"
+  a: "Нет. В non-defining только **which** (вещи) и **who** (люди): *Kazan, **which** is on the Volga, …*"
+- id: m07-which-sentence
+  lesson: 07-clauses/02-non-defining
+  q: "Переведи: «Он опоздал, что всех разозлило»."
+  a: "*He was late, **which** annoyed everyone.* — не ~~what~~ и не ~~it~~."
+- id: m07-some-of-whom
+  lesson: 07-clauses/02-non-defining
+  q: "Переведи: «У меня 30 коллег, большинство из которых я никогда не видел»."
+  a: "*I have 30 colleagues, **most of whom** I've never met.*"
+- id: m07-none-of-which
+  lesson: 07-clauses/02-non-defining
+  q: "Найди ошибку: *He sent me five links, none of them worked.*"
+  a: "*…, **none of which** worked.* (или *…, but none of them worked.*)"
+- id: m07-to-whom
+  lesson: 07-clauses/02-non-defining
+  q: "Какое местоимение после предлога: *the manager to ___ I reported*?"
+  a: "**whom** (люди) / **which** (вещи). После предлога нельзя *who* и *that*."
+- id: m07-adding-brackets
+  lesson: 07-clauses/02-non-defining
+  q: "Чем ещё, кроме запятых, можно выделить non-defining-придаточное?"
+  a: "**Тире** или **скобками**: *The Volga (which is the longest river in Europe) flows…*"
+- id: m07-adding-no-omit
+  lesson: 07-clauses/02-non-defining
+  q: "Найди ошибку: *My laptop, I bought last year, has broken.*"
+  a: "*My laptop, **which** I bought last year, has broken.* — в non-defining местоимение нельзя опустить даже как объект."
+- id: m07-adding-when
+  lesson: 07-clauses/02-non-defining
+  q: "Переведи: «Я позвоню в пятницу, когда буду знать больше»."
+  a: "*I'll call you on Friday, **when** I'll know more.*"
+- id: m07-ing-vs-v3
+  lesson: 07-clauses/03-participle-clauses
+  q: "*the girl ___ a red coat* / *the coat ___ by the girl* (wear)"
+  a: "*the girl **wearing** a red coat* (сама носит) / *the coat **worn** by the girl* (его носят)."
+- id: m07-having-done
+  lesson: 07-clauses/03-participle-clauses
+  q: "Переведи: «Закончив отчёт, она ушла домой»."
+  a: "***Having finished** the report, she went home.*"
+- id: m07-not-knowing
+  lesson: 07-clauses/03-participle-clauses
+  q: "Найди ошибку: *Knowing not what to say, I smiled.*"
+  a: "***Not knowing** what to say, I smiled.* — *not* перед причастием."
+- id: m07-dangling
+  lesson: 07-clauses/03-participle-clauses
+  q: "Что не так: *Walking into the room, the smell of coffee hit me.*"
+  a: "Висячее причастие: в комнату «вошёл запах». → *Walking into the room, **I** noticed the smell of coffee.*"
+- id: m07-stole-not-stealing
+  lesson: 07-clauses/03-participle-clauses
+  q: "Можно ли сказать *the man stealing my bike yesterday*?"
+  a: "Нет: одно законченное действие в прошлом → *the man **who stole** my bike yesterday*."
+- id: m07-first-to
+  lesson: 07-clauses/03-participle-clauses
+  q: "Переведи: «Она была первой женщиной, которая возглавила компанию»."
+  a: "*She was **the first woman to run** the company.* — *the first / last / only + to do*."
+- id: m07-only-one-to
+  lesson: 07-clauses/03-participle-clauses
+  q: "Найди ошибку: *He was the only to reply.*"
+  a: "*He was the only **one / person** to reply.* — после *only* существительное обязательно."
+- id: m07-first-to-be
+  lesson: 07-clauses/03-participle-clauses
+  q: "«Её выбрали первой» — через *the first*."
+  a: "*She was **the first to be chosen**.* — пассивный смысл → *to be* + V3."
+- id: m07-youngest-ever
+  lesson: 07-clauses/03-participle-clauses
+  q: "Переведи: «Он самый молодой игрок, который когда-либо выигрывал этот титул»."
+  a: "*He's **the youngest player ever to win** the title.* (= *who has ever won*)"
+- id: m07-expire
+  lesson: 07-clauses/04-reading
+  q: "Переведи: «Срок действия патента истёк в 1920 году»."
+  a: "*The patent **expired** in 1920.*"
+- id: m07-commercial-value
+  lesson: 07-clauses/04-reading
+  q: "Что значит *They could see no commercial value in the idea*?"
+  a: "«Они не видели в идее коммерческой ценности» — не верили, что на ней можно заработать."
+- id: m07-essay-which-means
+  lesson: 07-clauses/05-writing
+  q: "Как в эссе связать аргумент и следствие одним предложением?"
+  a: "*…, **which means that** …* / *…, **which can lead to** …*: *Start-ups move fast, which means employees learn quickly.*"
+- id: m07-three-registers
+  lesson: 07-clauses/01a-prepositions-relative
+  q: "Три способа сказать «коллега, с которым я работаю»."
+  a: "*the colleague **with whom** I work* (формально) / *who I work **with*** / *the colleague I work **with*** (чаще всего)."
+- id: m07-double-preposition
+  lesson: 07-clauses/01a-prepositions-relative
+  q: "Найди ошибку: *the topic about which we talked about*"
+  a: "Предлог один раз: *the topic **about which** we talked* или *the topic we talked **about***."
+- id: m07-phrasal-stays
+  lesson: 07-clauses/01a-prepositions-relative
+  q: "Можно ли сказать *the kids after whom she looks*?"
+  a: "Нет: *look after* — фразовый глагол, частица не отрывается: *the kids she **looks after***."
+- id: m07-whom-subject
+  lesson: 07-clauses/01a-prepositions-relative
+  q: "**who** или **whom**: the candidate ___ impressed us."
+  a: "**who** — кандидат подлежащее. *whom* обязателен только сразу после предлога: *to whom*."
+- id: m07-where-check
+  lesson: 07-clauses/01a-prepositions-relative
+  q: "Как проверить, можно ли поставить **where**?"
+  a: "Верни предлог: *I train **at** the gym* → *where* можно. *I joined the gym* (без предлога) → только *that / which*."
+- id: m07-the-way
+  lesson: 07-clauses/01a-prepositions-relative
+  q: "Переведи: «Мне нравится, как ты это сделал»."
+  a: "*I like **the way** (that) you did it.* или *I like **how** you did it.* Не ~~the way how~~."
+- id: m07-whose-things
+  lesson: 07-clauses/01a-prepositions-relative
+  q: "Переведи: «компания, акции которой выросли»."
+  a: "*a company **whose** shares went up* — *whose* работает и для вещей."
+- id: m07-moment-when
+  lesson: 07-clauses/01a-prepositions-relative
+  q: "Найди ошибку: *That was the moment where I understood everything.*"
+  a: "Время → **when**: *the moment **when** I understood*. *where* — для места и ситуаций."

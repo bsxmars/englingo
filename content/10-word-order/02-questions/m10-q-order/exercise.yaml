@@ -1,0 +1,40 @@
+title: "Собери вопрос"
+type: order
+intro: "Собери вопрос из слов. Здесь всё вперемешку: прямые вопросы, вопросы к подлежащему, косвенные вопросы, предлог в конце и разделительные вопросы. Перевод подскажет смысл."
+hints:
+  - "Косвенный вопрос (Could you tell me…, I wonder…) — порядок как в утверждении, без do / did."
+  - "Вопрос к подлежащему (Who / What + глагол) — без do / did."
+items:
+  - q: "«Не подскажете, во сколько отходит последний поезд?»"
+    answers: ["Could you tell me when the last train leaves"]
+    explain: "Косвенный вопрос: после *Could you tell me* — **прямой порядок** (*the last train leaves*), без *does*."
+  - q: "«Кто сломал кофемашину на кухне?»"
+    answers: ["Who broke the coffee machine in the kitchen"]
+    explain: "Вопрос к **подлежащему**: *Who* + глагол в прошедшем времени, без *did*."
+  - q: "«О чём вы говорили, когда я вошёл?»"
+    answers: ["What were you talking about when I came in", "When I came in what were you talking about"]
+    explain: "Предлог **about** уходит в конец вопроса: *What were you talking about…?*"
+  - q: "«Интересно, почему она не ответила на моё письмо»."
+    answers: ["I wonder why she hasn't replied to my email"]
+    explain: "После *I wonder* — косвенный вопрос с **прямым порядком**: *why she hasn't replied*."
+  - q: "«Ты ведь не забыл ключи, правда?»"
+    answers: ["You haven't forgotten the keys have you"]
+    explain: "Отрицательное утверждение → **положительный** хвостик: *You haven't forgotten…, have you?*"
+  - q: "«Ты знаешь, сколько стоит этот ноутбук?»"
+    answers: ["Do you know how much this laptop costs"]
+    explain: "После *Do you know* — косвенный вопрос: *how much this laptop costs* (не *does this laptop cost*)."
+  - q: "«На какую компанию работает твой брат?»"
+    answers: ["Which company does your brother work for"]
+    explain: "Вопрос к дополнению → вспомогательный **does**; предлог **for** — в конце."
+  - q: "«Сколько человек пришло на собеседование?»"
+    answers: ["How many people came to the interview"]
+    explain: "*How many people* — подлежащее, поэтому без *did*: *How many people came…?*"
+  - q: "«Как выглядит твоя новая квартира?»"
+    answers: ["What is your new flat like"]
+    explain: "«Какой он / как выглядит» → **What … like?** — *like* в конце."
+  - q: "«Давай закажем пиццу, ладно?»"
+    answers: ["Let's order a pizza shall we"]
+    explain: "После *Let's* хвостик всегда **shall we?**"
+  - q: "«Ты не знаешь, был ли он на встрече?»"
+    answers: ["Do you know if he was at the meeting"]
+    explain: "Вопрос «да / нет» в косвенной форме → **if** (или *whether*) + прямой порядок: *if he was*."

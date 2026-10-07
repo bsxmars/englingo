@@ -1,0 +1,80 @@
+title: "The cup that changed"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. Первые шесть — в формате B2 First Part 5, последние — на лексику из текста."
+hints:
+  - "Вопросы идут в порядке текста. Ищи ответ в соответствующем абзаце."
+  - "Неверные варианты часто повторяют слова из текста, но искажают смысл."
+text: |
+  ## The cup that changed
+
+  Twenty years ago, ordering a coffee in most cities was a simple affair. You asked for a coffee, someone poured it from a jug that had been sitting on a hot plate since breakfast, and you drank it without thinking. Coffee was fuel, not a hobby. Today, in the same cities, you might be asked whether you would like a Colombian single origin or the house blend, and whether you prefer your milk from oats, almonds or cows.
+
+  The change did not happen overnight. It started with a few small roasteries in places like Melbourne, Oslo and Portland, run by people who treated coffee the way winemakers treat grapes. They talked about the origin of the beans, the altitude at which they grew and the farmers who picked them. At first, few customers cared. Most people simply wanted something hot and strong before work. But the roasteries had patience, and slowly a new kind of customer appeared: someone who was willing to pay a little more for a cup that tasted of fruit or chocolate rather than of burnt toast.
+
+  Then came the equipment. A good espresso machine used to be something only cafés could afford. Now many home kitchens have one, along with an electric grinder, a set of scales and a kettle with a thin, curved spout. Online, there is no shortage of advice on how to use all of it. Some of the advice is excellent; much of it contradicts itself. One video tells you to grind your beans finer, the next tells you the opposite.
+
+  Not everyone is happy about this. Critics say that the new coffee culture has made a simple pleasure complicated and, for some people, intimidating. "I just want a coffee," a friend of mine complained recently, "not a lecture on the soil of Ethiopia." She has a point. When a barista spends five minutes describing the "notes" of a drink, the customer can easily feel that they have failed some kind of test.
+
+  There is also the question of money. Speciality coffee is not cheap, and a flat white in a fashionable area of London can now cost more than a whole bag of supermarket coffee. Yet the people who grow the beans often see very little of that money. Some roasteries have responded by buying directly from farmers and publishing the prices they pay. This kind of transparency was almost unheard of a decade ago.
+
+  So has anything been lost? Perhaps the old, uncomplicated café, where nobody asked you any questions and the coffee tasted the same every day. But a lot has been gained, too. Knowledge that used to belong to a small group of experts is now available to anyone with a phone and a little curiosity. And the best cafés have learned that a craft does not need to be intimidating: the barista can know everything about the beans and still simply ask, "Milk or no milk?"
+
+  The cup has changed. Whether we have changed with it is a question each of us has to answer — preferably over a good coffee.
+items:
+  - q: "In the first paragraph, the writer suggests that twenty years ago coffee was"
+    options:
+      - "something people drank mainly for energy."
+      - "more expensive than it is today."
+      - "prepared with great care in most cafés."
+      - "usually served only at breakfast."
+    answer: 0
+    explain: "*Coffee was fuel, not a hobby* — кофе был «топливом», его пили, чтобы взбодриться. Про цену и время суток в абзаце ничего нет, а кофе из кувшина на плитке явно готовили без особой заботы."
+  - q: "What does the writer say about the first speciality roasteries?"
+    options:
+      - "They became popular with customers very quickly."
+      - "They were patient and gradually found a new type of customer."
+      - "They copied the business methods of wine producers."
+      - "They sold their coffee only to experts."
+    answer: 1
+    explain: "*At first, few customers cared… But the roasteries had patience, and slowly a new kind of customer appeared.* Обрати внимание: **few customers** — «почти никто», значит, популярность пришла не сразу. С виноделами сравнивается отношение к продукту, а не бизнес-методы."
+  - q: "What is the writer's opinion of the advice available online?"
+    options:
+      - "Most of it is useless."
+      - "It is better than the advice baristas give."
+      - "Its quality varies, and it often contradicts itself."
+      - "It is too technical for beginners."
+    answer: 2
+    explain: "*Some of the advice is excellent; much of it contradicts itself.* — часть отличная, многое противоречит само себе. Вариант «most of it is useless» слишком категоричен."
+  - q: "Why does the writer quote her friend in paragraph 4?"
+    options:
+      - "To show that the new coffee culture can make customers feel uncomfortable."
+      - "To argue that coffee from Ethiopia is overrated."
+      - "To suggest that baristas are often rude to customers."
+      - "To explain why her friend has stopped drinking coffee."
+    answer: 0
+    explain: "Цитата иллюстрирует мысль абзаца: новая культура может *intimidate* — отпугивать, и клиент чувствует, что «провалил тест». Грубость барист и Эфиопия как таковая здесь ни при чём."
+  - q: "What is the main point of paragraph 5?"
+    options:
+      - "Farmers now earn more than the roasteries that buy from them."
+      - "Supermarket coffee has become more expensive than speciality coffee."
+      - "Little of the high price reaches farmers, although some roasteries are trying to change this."
+      - "Roasteries have always been open about the prices they pay."
+    answer: 2
+    explain: "*The people who grow the beans often see very little of that money. Some roasteries have responded by buying directly…* **very little** — «очень мало». А прозрачность цен *was almost unheard of a decade ago* — то есть раньше её почти не было."
+  - q: "Which statement best sums up the writer's overall view of the new coffee culture?"
+    options:
+      - "It has done more harm than good."
+      - "It is mostly a good thing, although something has been lost."
+      - "It makes no real difference to ordinary customers."
+      - "The old cafés were better, and they should come back."
+    answer: 1
+    explain: "В последних абзацах: *Perhaps the old, uncomplicated café* (что-то потеряно), *But a lot has been gained, too* (но приобретено многое). Тон в целом позитивный."
+  - q: "Paragraph 3: «советов на этот счёт предостаточно». Впиши два слова из текста: there is ___ of advice."
+    answers: ["no shortage"]
+    explain: "**there is no shortage of** + неисчисляемое — «чего-то полно, хватает». Обрати внимание: *advice* без артикля и без *-s*."
+  - q: "Paragraph 4: найди прилагательное, которое значит «пугающий, вызывающий неуверенность»."
+    answers: ["intimidating"]
+    explain: "**intimidating** — пугающий, отпугивающий: *The new coffee culture can be intimidating.*"
+  - q: "Paragraph 6: впиши неисчисляемое существительное из текста — ___ that used to belong to a small group of experts."
+    answers: ["Knowledge"]
+    explain: "**knowledge** — знания. В английском это неисчисляемое слово: ~~knowledges~~, ~~a knowledge~~ (кроме *a good knowledge of*)."

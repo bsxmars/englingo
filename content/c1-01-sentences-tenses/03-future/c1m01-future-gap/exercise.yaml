@@ -1,0 +1,44 @@
+title: "be to, be due to, on the verge of"
+type: gap
+intro: "Заполни пропуск, используя слово в скобках. Добавь нужные служебные слова (*be* в правильной форме, *to*, *of*, *on the* и т.п.) и ставь глагол в нужную форму."
+hints:
+  - "be due to / be set to / be bound to / be about to + инфинитив."
+  - "be on the point of / on the verge of + -ing или существительное."
+  - "was to have + V3 — план, который не осуществился."
+items:
+  - q: "Talks between the two sides ___ (due) resume on Monday."
+    answers: ["are due to", "were due to"]
+    explain: "По графику → **are due to** + инфинитив. Похоже на расписание, но звучит официальнее."
+  - q: "The museum was ___ (verge) closing for good when a private donor stepped in."
+    answers: ["on the verge of"]
+    explain: "«На грани» → **on the verge of** + *-ing*. Синоним — *on the point of*."
+  - q: "If the company ___ (be) survive, it needs a radical change of strategy."
+    answers: ["is to"]
+    explain: "*be to* в условии = «если мы хотим, чтобы…»: **If the company is to survive**…"
+  - q: "I ___ (point) giving up when the email finally arrived."
+    answers: ["was on the point of", "was just on the point of"]
+    explain: "Вот-вот собирался, но не успел → **was on the point of** + *-ing*."
+  - q: "All visitors ___ (be) leave their bags in the cloakroom."
+    answers: ["are to"]
+    explain: "Официальное распоряжение → **are to** + инфинитив. Мягче, чем *must*, но звучит как правило."
+  - q: "Petrol prices ___ (set) rise again next month, analysts say."
+    answers: ["are set to"]
+    explain: "Ожидаемое событие в стиле новостей → **are set to** rise."
+  - q: "Don't leave your laptop on the train seat — someone ___ (bound) take it."
+    answers: ["is bound to"]
+    explain: "«Наверняка, неизбежно» → **is bound to** + инфинитив."
+  - q: "The concert ___ (be / take) place in the park, but it was moved indoors because of the rain."
+    answers: ["was to have taken", "was to take"]
+    explain: "Несостоявшийся план → **was to have taken** place. *was to take* тоже возможно: продолжение *but…* уже показывает, что план сорвался."
+  - q: "I ___ (about) leave the office when the phone rang."
+    answers: ["was about to", "was just about to"]
+    explain: "Будущее в прошедшем: «вот-вот собирался» → **was about to** + инфинитив. Обычно за ним следует *when* + прерывающее событие."
+  - q: "Within a decade, many of these jobs ___ (disappear) altogether."
+    answers: ["will have disappeared", "will disappear", "may have disappeared", "might have disappeared"]
+    explain: "*within a decade* = к концу периода → Future Perfect **will have disappeared**. Простое *will disappear* тоже верно."
+  - q: "In June she ___ (work) here for twenty years."
+    answers: ["will have been working", "will have worked"]
+    explain: "Длительность к моменту в будущем → Future Perfect Continuous **will have been working** (или *will have worked*)."
+  - q: "___ (you / use) the car this evening? If not, I'd like to borrow it."
+    answers: ["Will you be using", "Are you using"]
+    explain: "Вежливый вопрос о планах → **Will you be using**…? Подходит и *Are you using*. *Will you use* звучало бы как просьба."

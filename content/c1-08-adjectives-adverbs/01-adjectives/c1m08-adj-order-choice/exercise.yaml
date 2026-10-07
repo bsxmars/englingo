@@ -1,0 +1,52 @@
+title: "Порядок и позиция прилагательных"
+type: choice
+intro: "Выбери единственный естественный вариант. Помни цепочку **emphasizing → describing → classifying** и прилагательные, которые не встают перед существительным."
+hints:
+  - "Describing: opinion → size → quality → age → shape → colour. Classifying: location → origin → material → type → purpose."
+  - "asleep, alive, afraid, alone, alike — только после связки."
+  - "utter, sheer, mere — только перед существительным."
+items:
+  - q: "In the hallway hung ___ ."
+    options: ["an old beautiful Venetian glass mirror", "a beautiful old Venetian glass mirror", "a Venetian beautiful old glass mirror"]
+    answer: 1
+    explain: "Opinion (*beautiful*) → age (*old*) → origin (*Venetian*) → material (*glass*)."
+  - q: "That is the ___ reason I agreed to stay on."
+    options: ["only real", "real only", "only, real"]
+    answer: 0
+    explain: "Restrictive (*only*) идёт перед intensifying (*real*), и между прилагательными разных групп запятая не ставится."
+  - q: "The ministry has just published ___ survey."
+    options: ["a national recent economic", "a recent national economic", "an economic recent national"]
+    answer: 1
+    explain: "Describing (*recent*, возраст) перед classifying; внутри classifying location (*national*) перед type (*economic*)."
+  - q: "Fans of the club traditionally wear ___ scarves."
+    options: ["green, white", "green white", "green and white"]
+    answer: 2
+    explain: "Между двумя цветами ставится **and**: *green and white scarves*."
+  - q: "After the renovation, the kitchen looked ___ ."
+    options: ["bright and spacious", "bright spacious", "spacious, bright"]
+    answer: 0
+    explain: "После связки два прилагательных соединяются **and**: *looked bright and spacious*."
+  - q: "Firefighters carried a ___ child out of the burning building."
+    options: ["frightened", "afraid", "alone"]
+    answer: 0
+    explain: "*afraid* и *alone* перед существительным не ставятся. Перед существительным — **frightened** (или *scared*)."
+  - q: "She is believed to be the oldest ___ survivor of the shipwreck."
+    options: ["alive", "living", "live"]
+    answer: 1
+    explain: "Перед существительным о человеке — **living**. *alive* только после связки или после существительного (*the oldest survivor alive*), а *live* — о животных, трансляциях, проводах."
+  - q: "Compensation will be paid to the families ___ ."
+    options: ["concerned", "concerning", "worried"]
+    answer: 0
+    explain: "*the families **concerned*** — «пострадавшие, те, кого это касается». *worried* сместило бы смысл на «встревоженные», а *concerning* значит «вызывающий тревогу»."
+  - q: "The foundations of the tower are ___ ."
+    options: ["six metres deep", "deep six metres", "six-metres deep"]
+    answer: 0
+    explain: "Меры: число + существительное + прилагательное после него: *six metres **deep***. Дефис был бы только перед существительным: *six-metre-deep foundations*."
+  - q: "The defeat was ___ ; not a single player performed well."
+    options: ["complete", "utter", "sheer"]
+    answer: 0
+    explain: "После связки из intensifying-прилагательных возможно **complete** (и *total*). *utter* и *sheer* стоят только перед существительным: *an utter defeat*."
+  - q: "The chair of the meeting thanked all the members ___ for their patience."
+    options: ["present", "presently", "presented"]
+    answer: 0
+    explain: "*the members **present*** — «присутствующие». Перед существительным *the present members* значило бы «нынешние члены»."

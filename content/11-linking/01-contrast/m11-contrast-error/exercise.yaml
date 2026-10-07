@@ -1,0 +1,32 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка в связке. Исправь её и перепиши предложение целиком. Запятые при проверке не учитываются."
+hints:
+  - "despite — без of; in spite of — с of."
+  - "После despite / in spite of не бывает подлежащего с глаголом (кроме the fact that)."
+  - "although и but в одном предложении не ставят."
+items:
+  - q: "Despite of the traffic, we arrived on time."
+    answers: ["Despite the traffic, we arrived on time.", "In spite of the traffic, we arrived on time."]
+    explain: "**despite** — без *of*. С *of* — только **in spite of**."
+  - q: "Although he was ill, but he went to work."
+    answers: ["Although he was ill, he went to work.", "He was ill, but he went to work."]
+    explain: "*Although* и *but* не ставят в одном предложении, хотя по-русски «хотя…, но…» — норма. Оставь одну связку."
+  - q: "In spite of it was late, they kept talking."
+    answers: ["In spite of the fact that it was late, they kept talking.", "Although it was late, they kept talking.", "Even though it was late, they kept talking.", "Though it was late, they kept talking.", "In spite of the late hour, they kept talking."]
+    explain: "После **in spite of** нельзя ставить подлежащее с глаголом. Нужно *the fact that* — или союз *although*."
+  - q: "The test was really hard, however I passed it."
+    answers: ["The test was really hard. However, I passed it.", "The test was really hard; however, I passed it.", "The test was really hard, but I passed it."]
+    explain: "**However** не соединяет предложения через запятую: нужна точка или точка с запятой. Через запятую — **but**."
+  - q: "Even though the bad weather, the flight left on time."
+    answers: ["Despite the bad weather, the flight left on time.", "In spite of the bad weather, the flight left on time.", "Even though the weather was bad, the flight left on time."]
+    explain: "*Even though* — союз, после него нужен глагол (*the weather was bad*). С существительным — **despite / in spite of**."
+  - q: "Despite she is young, she's very experienced."
+    answers: ["Although she is young, she's very experienced.", "Even though she is young, she's very experienced.", "Though she is young, she's very experienced.", "Despite being young, she's very experienced.", "In spite of being young, she's very experienced.", "Despite the fact that she is young, she's very experienced.", "Despite her age, she's very experienced.", "Although she's young, she's very experienced.", "Even though she's young, she's very experienced.", "Though she's young, she's very experienced.", "Despite the fact that she's young, she's very experienced."]
+    explain: "После **despite** — *-ing* или существительное: *Despite being young*. С подлежащим и глаголом — **although**."
+  - q: "Despite to have a map, we got lost."
+    answers: ["Despite having a map, we got lost.", "In spite of having a map, we got lost.", "Although we had a map, we got lost.", "Even though we had a map, we got lost.", "Though we had a map, we got lost.", "Despite the fact that we had a map, we got lost."]
+    explain: "**despite** — предлог, после предлогов глагол стоит в форме *-ing*: *despite having a map*."
+  - q: "Although the fact that it rained, we enjoyed the trip."
+    answers: ["Despite the fact that it rained, we enjoyed the trip.", "In spite of the fact that it rained, we enjoyed the trip.", "Although it rained, we enjoyed the trip.", "Even though it rained, we enjoyed the trip.", "Though it rained, we enjoyed the trip."]
+    explain: "**the fact that** нужен только после предлогов *despite / in spite of*. После *although* сразу идёт предложение."

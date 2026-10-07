@@ -1,0 +1,44 @@
+title: "Найди и исправь ошибку: обязанность, запрет, совет"
+type: error
+intro: "В каждом предложении **одна** ошибка. Исправь её и отправь предложение целиком."
+hints:
+  - "mustn't — запрет; don't have to / needn't — «не обязательно»."
+  - "У must нет прошедшего и будущего: had to, will have to."
+  - "После must, should, had better — инфинитив без to; после have to, ought to, be supposed to — с to."
+items:
+  - q: "You don't have to smoke anywhere on the hospital grounds."
+    answers: ["You mustn't smoke anywhere on the hospital grounds.", "You can't smoke anywhere on the hospital grounds.", "You aren't allowed to smoke anywhere on the hospital grounds."]
+    explain: "Это запрет, а не «не обязательно». Запрет → **mustn't** (или *can't*, *aren't allowed to*). *don't have to* значило бы, что курить можно, но не нужно."
+  - q: "Last year we must wear suits to the office every day."
+    answers: ["Last year we had to wear suits to the office every day."]
+    explain: "У **must** нет прошедшего времени. Обязанность в прошлом → **had to**."
+  - q: "You'd better to take a jacket — it's getting cold."
+    answers: ["You'd better take a jacket — it's getting cold.", "You'd better take a jacket - it's getting cold.", "You'd better take a jacket, it's getting cold."]
+    explain: "После **had better** — инфинитив без *to*: *You'd better take*."
+  - q: "Do I must sign both copies of the contract?"
+    answers: ["Do I have to sign both copies of the contract?", "Must I sign both copies of the contract?"]
+    explain: "*must* — модальный глагол, вопрос без *do*: **Must I…?** Но естественнее *Do I have to…?*"
+  - q: "Our flat has a dishwasher, so we needn't to wash the dishes by hand."
+    answers: ["Our flat has a dishwasher, so we needn't wash the dishes by hand.", "Our flat has a dishwasher, so we don't need to wash the dishes by hand.", "Our flat has a dishwasher, so we don't have to wash the dishes by hand."]
+    explain: "**needn't** — модальный глагол, после него инфинитив без *to*. С *to* — полная форма: *don't need to*."
+  - q: "I'll must renew my passport before the trip."
+    answers: ["I'll have to renew my passport before the trip.", "I must renew my passport before the trip."]
+    explain: "Два модальных подряд нельзя: ~~will must~~ → **will have to**."
+  - q: "She has must work every weekend since she got promoted."
+    answers: ["She has had to work every weekend since she got promoted."]
+    explain: "У *must* нет Present Perfect. Нужна форма *have to*: **has had to work**."
+  - q: "You ought take your car in for a service soon."
+    answers: ["You ought to take your car in for a service soon.", "You should take your car in for a service soon."]
+    explain: "**ought to** всегда с *to*: *You ought to take*. Это совет — то же, что *should*."
+  - q: "Visitors are suppose to show their badges at reception."
+    answers: ["Visitors are supposed to show their badges at reception."]
+    explain: "Конструкция **be supposed to** — с причастием на *-d*: *are supposed to*."
+  - q: "We had better not to tell Mum about the broken vase yet."
+    answers: ["We had better not tell Mum about the broken vase yet.", "We'd better not tell Mum about the broken vase yet."]
+    explain: "Отрицание: **had better not + инфинитив без to**. *not* стоит после *better*."
+  - q: "You mustn't bring any food — lunch is included in the price, but you can if you want."
+    answers: ["You don't have to bring any food — lunch is included in the price, but you can if you want.", "You don't need to bring any food — lunch is included in the price, but you can if you want.", "You needn't bring any food — lunch is included in the price, but you can if you want."]
+    explain: "«Можно, если хочешь» — значит, это не запрет, а отсутствие необходимости → **don't have to / don't need to / needn't**."
+  - q: "He didn't must stay late, but he wanted to finish the report."
+    answers: ["He didn't have to stay late, but he wanted to finish the report.", "He didn't need to stay late, but he wanted to finish the report."]
+    explain: "Отсутствие необходимости в прошлом → **didn't have to / didn't need to**. Форм ~~didn't must~~ не существует."

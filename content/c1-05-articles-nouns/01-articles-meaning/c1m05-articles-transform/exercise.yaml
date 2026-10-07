@@ -1,0 +1,64 @@
+title: "Перефразирование: артикль внутри именной группы"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "Абстрактное существительное с прилагательным и of часто берёт a/an: a deep understanding of."
+  - "Свойство вида — the + единственное число или множественное без артикля."
+  - "the + прилагательное = группа людей, глагол во множественном числе."
+items:
+  - q: "She speaks Japanese extremely well."
+    key: "COMMAND"
+    stem: "She has ___ Japanese."
+    answers: ["an excellent command of", "a very good command of", "an extremely good command of", "a superb command of", "an outstanding command of", "a remarkable command of", "a fluent command of"]
+    explain: "*command* («владение языком») с прилагательным и *of* описывает один вид владения → **an excellent command of**. Без *a* (~~excellent command of~~) звучит неестественно."
+  - q: "I understand the way the market works very deeply."
+    key: "UNDERSTANDING"
+    stem: "I have ___ the way the market works."
+    answers: ["a very deep understanding of", "a deep understanding of", "a profound understanding of", "a thorough understanding of"]
+    explain: "Абстрактное существительное с прилагательным классифицируется: **a deep understanding of**. Ср. без описания: *Understanding takes time.*"
+  - q: "Nobody knows who first invented telescopes."
+    key: "INVENTOR"
+    stem: "The ___ is unknown."
+    answers: ["inventor of the telescope"]
+    explain: "Изобретение как явление — generic *the*: **the telescope**. ~~inventor of telescopes~~ звучит как «изобретатель нескольких телескопов»."
+  - q: "Tigers no longer exist anywhere in Bali."
+    key: "EXTINCT"
+    stem: "___ in Bali."
+    answers: ["The tiger is extinct", "The tiger is now extinct", "Tigers are extinct", "Tigers are now extinct", "The tiger has become extinct", "Tigers have become extinct", "The tiger is completely extinct"]
+    explain: "*extinct* — свойство вида: **The tiger is extinct** или *Tigers are extinct*. ~~A tiger is extinct~~ невозможно: одна особь не вымирает."
+  - q: "The car only has space for a single additional passenger."
+    key: "ONE"
+    stem: "There's only room ___ passenger in the car."
+    answers: ["for one more", "for one extra", "for one additional", "for one other"]
+    explain: "Подчёркнутое число («только один, не два») — **one**, а не *a*: *room for one more passenger*."
+  - q: "He has always been irrationally afraid of flying."
+    key: "FEAR"
+    stem: "He has always had ___ flying."
+    answers: ["an irrational fear of"]
+    explain: "*fear* с прилагательным и *of* — один вид страха: **an irrational fear of**. Перед гласным звуком — *an*."
+  - q: "The renovation took eighteen months to complete."
+    key: "HALF"
+    stem: "It took ___ to complete the renovation."
+    answers: ["a year and a half", "one and a half years"]
+    explain: "Дроби и меры — через *a*: **a year and a half**. ~~a year and the half~~, ~~one year and half~~ — ошибки."
+  - q: "The weather was so awful during our holiday that we hardly left the hotel."
+    key: "SUCH"
+    stem: "We had ___ during our holiday that we hardly left the hotel."
+    answers: ["such awful weather"]
+    explain: "*weather* неисчисляемое, поэтому **such awful weather** без *a*. Ср. *such an awful day*."
+  - q: "The members voted for her to lead the committee as its chair."
+    key: "ELECTED"
+    stem: "She ___ of the committee."
+    answers: ["was elected chair", "was elected the chair", "was elected chairperson", "was elected chairwoman"]
+    explain: "Уникальная должность после *elect, appoint, become* обычно без артикля: **was elected chair of**. Вариант с *the* грамматичен, но звучит менее естественно."
+  - q: "People with a lot of money should pay more tax, she argued."
+    key: "RICH"
+    stem: "She argued that ___ more tax."
+    answers: ["the rich should pay", "the rich ought to pay", "the rich must pay"]
+    explain: "*the* + прилагательное — группа людей: **the rich**, без *-s* и с глаголом во множественном числе."
+  - q: "Society often ignores the needs of people who are old."
+    key: "ELDERLY"
+    stem: "The needs ___ often ignored by society."
+    answers: ["of the elderly are"]
+    explain: "**the elderly** — группа людей; подлежащее *The needs* — множественное, поэтому **are**."

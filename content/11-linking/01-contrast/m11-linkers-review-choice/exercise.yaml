@@ -1,0 +1,47 @@
+title: "Обзор связок: время, условие, контраст, причина, цель"
+type: choice
+intro: "Выбери связку, которая подходит по смыслу и по грамматике."
+hints:
+  - "unless = if not; in case = на всякий случай, если вдруг."
+  - "После when, until, as soon as, unless о будущем — Present Simple."
+items:
+  - q: "I'll send you the file ___ I get back to the office."
+    options: ["as soon as", "unless", "although"]
+    answer: 0
+    explain: "Действие сразу после другого → **as soon as** («как только»)."
+  - q: "You won't pass the exam ___ you start revising now."
+    options: ["if", "unless", "in case"]
+    answer: 1
+    explain: "**unless** = *if not*: «не сдашь, если не начнёшь повторять»."
+  - q: "Take some cash ___ the card machine isn't working."
+    options: ["if", "unless", "in case"]
+    answer: 2
+    explain: "**in case** — «на всякий случай»: берём наличные заранее, вдруг терминал не работает."
+  - q: "Please wait here ___ the doctor calls your name."
+    options: ["until", "while", "since"]
+    answer: 0
+    explain: "«Пока не» (до момента) — **until**: *wait until the doctor calls you*."
+  - q: "She hasn't been able to drive ___ she broke her arm."
+    options: ["until", "since", "while"]
+    answer: 1
+    explain: "Точка отсчёта в прошлом с Present Perfect → **since** («с тех пор как»)."
+  - q: "I listen to podcasts ___ I'm cooking."
+    options: ["while", "until", "as soon as"]
+    answer: 0
+    explain: "Два действия одновременно → **while** («пока, в то время как»)."
+  - q: "The jacket looked great, ___ it was far too expensive."
+    options: ["so", "but", "because"]
+    answer: 1
+    explain: "Противопоставление двух фактов → **but**."
+  - q: "The battery was almost dead, ___ I switched off my phone."
+    options: ["so", "because", "although"]
+    answer: 0
+    explain: "Вторая часть — следствие первой → **so**."
+  - q: "I wrote everything down ___ I wouldn't forget anything."
+    options: ["so that", "in order to", "because of"]
+    answer: 0
+    explain: "Цель с подлежащим и *would* → **so that**. *in order to* требует глагола без подлежащего."
+  - q: "I'll tell you everything when I ___ you tomorrow."
+    options: ["see", "will see", "am going to see"]
+    answer: 0
+    explain: "После **when** о будущем — Present Simple: *when I see you*."

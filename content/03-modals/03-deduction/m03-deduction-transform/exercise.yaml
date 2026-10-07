@@ -1,0 +1,58 @@
+title: "Перефразирование: выводы и сожаления (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "I'm sure… → must have done; It's impossible that… → can't / couldn't have done; Perhaps… → may / might (not) have done."
+  - "It was a mistake → shouldn't have done; сделал зря → needn't have done; не было нужды → didn't need to do."
+items:
+  - q: "I'm sure Daniel forgot about the meeting."
+    key: "MUST"
+    stem: "Daniel ___ about the meeting."
+    answers: ["must have forgotten"]
+    explain: "Уверенный вывод о прошлом → **must have + V3**. Третья форма *forget* — **forgotten**."
+  - q: "It's impossible that Sarah wrote this letter — she doesn't speak German."
+    key: "CAN'T"
+    stem: "Sarah ___ this letter — she doesn't speak German."
+    answers: ["can't have written"]
+    explain: "«Не может быть, чтобы…» о прошлом → **can't have + V3**. Не ~~mustn't have~~: *mustn't* — только запрет."
+  - q: "Perhaps Tom didn't get my message."
+    key: "MIGHT"
+    stem: "Tom ___ my message."
+    answers: ["might not have got", "mightn't have got", "might not have gotten", "might not have received", "mightn't have received"]
+    explain: "«Возможно, не…» о прошлом → **might not have + V3**. *not* стоит сразу после модального."
+  - q: "It was a mistake for me to leave the window open."
+    key: "SHOULDN'T"
+    stem: "I ___ the window open."
+    answers: ["shouldn't have left"]
+    explain: "Сожаление о сделанном → **shouldn't have + V3**: «зря я оставил окно открытым»."
+  - q: "We booked a table, but it wasn't necessary — the restaurant was empty."
+    key: "NEEDN'T"
+    stem: "We ___ a table — the restaurant was empty."
+    answers: ["needn't have booked"]
+    explain: "Сделали, но зря → **needn't have + V3**. *didn't need to book* скорее значило бы, что столик не бронировали."
+  - q: "It wasn't necessary for us to buy tickets because entry was free."
+    key: "NEED"
+    stem: "We ___ tickets because entry was free."
+    answers: ["didn't need to buy", "did not need to buy"]
+    explain: "Необходимости не было (и мы не покупали) → **didn't need to + инфинитив**. Ключ *NEED* без *-n't*, поэтому не *needn't have*."
+  - q: "You were lucky not to break your leg when you fell off the ladder."
+    key: "COULD"
+    stem: "When you fell off the ladder, you ___ your leg."
+    answers: ["could have broken"]
+    explain: "Опасность была, но ничего не случилось → **could have + V3**: «мог сломать ногу»."
+  - q: "Perhaps Anna is still working at this time."
+    key: "MAY"
+    stem: "Anna ___ at this time."
+    answers: ["may still be working", "may be still working"]
+    explain: "Возможный процесс прямо сейчас → **may + be + -ing**. *still* обычно ставят после модального: *may still be working*."
+  - q: "I'm sure the burglars didn't get in through the window — it's locked from the inside."
+    key: "COULDN'T"
+    stem: "The burglars ___ in through the window — it's locked from the inside."
+    answers: ["couldn't have got", "couldn't have gotten", "couldn't have come"]
+    explain: "«Точно не» о прошлом → **couldn't have + V3** (= *can't have*). *mightn't* значило бы только «возможно, не»."
+  - q: "Why didn't you tell me you were in town? That was wrong of you."
+    key: "SHOULD"
+    stem: "You ___ me you were in town."
+    answers: ["should have told"]
+    explain: "Упрёк: человек не сделал то, что было бы правильно → **should have + V3**."

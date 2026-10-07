@@ -1,0 +1,48 @@
+title: "Письмо-заявка на волонтёрскую программу"
+type: writing
+intro: "Напиши официальное письмо в формате B2 First Writing Part 2. Ответь на все три вопроса из объявления."
+prompt: |
+  You have seen this advertisement on a website.
+
+  > **VOLUNTEERS WANTED — Green City Summer Project**
+  >
+  > We are looking for volunteers to help us run outdoor nature workshops for children aged 8–12 in July and August.
+  >
+  > Write to us and tell us:
+  > - why you would like to take part
+  > - what experience or skills you could bring
+  > - how you would help children enjoy learning about nature
+  >
+  > Please write to Ms Harper, the project coordinator.
+
+  Write your **letter** in **140–190 words**.
+words: [140, 190]
+target_grammar:
+  - "Глагол + -ing / to: enjoy doing, decide to do, avoid doing, would like to do"
+  - "Глагол + объект + to: encourage / help / allow sb to do"
+  - "make / let + голый инфинитив"
+  - "-ing после предлогов: interested in, look forward to, be used to"
+checklist:
+  - "Правильные обращение и подпись: Dear Ms Harper — Yours sincerely."
+  - "Первый абзац объясняет, зачем ты пишешь."
+  - "Отдельные абзацы на каждый из трёх пунктов объявления."
+  - "Минимум пять разных глагольных моделей (enjoy doing, decide to, encourage sb to, let sb do, look forward to doing…)."
+  - "Официальный регистр: без сокращений, без разговорных слов и восклицательных знаков."
+  - "Завершающая фраза: I look forward to hearing from you."
+  - "Объём 140–190 слов."
+model_answer: |
+  Dear Ms Harper,
+
+  I am writing to apply for a place as a volunteer on the Green City Summer Project, which I saw advertised on your website.
+
+  I have always enjoyed spending time outdoors, and I recently decided to get more involved in protecting the environment in my city. I would very much like to take part in your project because I believe that teaching children to care about nature is one of the best ways to make a lasting difference.
+
+  As for experience, I spent two summers working as an assistant at a children's camp, where I was responsible for organising games and outdoor activities. This taught me how to keep young people interested and how to avoid making lessons feel like school.
+
+  If I am chosen, I would encourage the children to explore the park themselves rather than just listen to me. For example, I would let them collect leaves and help them identify trees with a simple app, which most children find exciting.
+
+  I am available for the whole of July and August. I look forward to hearing from you.
+
+  Yours sincerely,
+
+  Ivan Petrov

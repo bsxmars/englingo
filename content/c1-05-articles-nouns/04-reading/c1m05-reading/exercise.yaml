@@ -1,0 +1,96 @@
+title: "Eight arms, one puzzle"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. Вопросы с вариантами — в формате C1 Advanced, Part 5; в остальных впиши слово или фразу из текста."
+hints:
+  - "Вопросы идут в порядке текста."
+  - "Отличай рассказ об одном животном (an octopus, the animal) от обобщений о виде (the octopus, octopuses)."
+  - "Отличай мнение автора от мнений, которые он передаёт (critics argue, the company insists)."
+text: |
+  ## Eight arms, one puzzle: what the octopus tells us about minds
+
+  Anyone who has worked in an aquarium has a story about an octopus. Mine involves a common octopus at a small marine research station in Portugal which, over the course of a single summer, learned to unscrew the lid of a jar, squirt water at a technician it apparently disliked and, on one memorable night, escape from its tank altogether. The animal was found the next morning in a drainage channel, unharmed and entirely unrepentant. The technician, I should add, was not amused.
+
+  Stories like this are easy to dismiss as anecdote, and for most of the twentieth century they were. The octopus was regarded as a curiosity: a mollusc, a distant cousin of the garden snail, and therefore, it was assumed, a creature of reflex rather than thought. That assumption has not survived the last three decades of research. Octopuses have been shown to find their way through mazes, to tell individual human faces apart and to carry coconut shells around as portable shelters, behaviour that in a chimpanzee would be described without hesitation as tool use.
+
+  What makes the octopus so intriguing to biologists, however, is not simply that it is clever. It is that its intelligence evolved along an entirely separate path from ours. The last common ancestor of humans and octopuses lived well over 500 million years ago and was probably a small, worm-like creature with, at best, a rudimentary cluster of nerve cells. Everything that followed, from the eyes to the brain to the capacity to learn, was built independently, twice. As one philosopher of biology has put it, studying the octopus is probably the closest we will come to meeting an intelligent alien.
+
+  And alien it is. An octopus has around 500 million neurons, a figure comparable to that of a dog, but roughly two-thirds of them are located not in the head but in the arms. Each arm can taste, touch and, to a remarkable degree, make decisions of its own. A severed arm will continue to grasp food and pass it towards where the mouth would have been. The central brain appears to set broad goals, such as catching that crab, while leaving the details of execution to the arms. Whether the animal experiences this as a single self or as a loose federation of nine is a question that philosophers, rather than zoologists, have so far been most willing to take on.
+
+  The skin is no less extraordinary. It contains millions of pigment cells, each controlled by tiny muscles wired directly to the nervous system, which allow the animal to change colour and texture in a fraction of a second. The puzzle is that octopuses are, as far as we can tell, colour-blind. How a creature that cannot see colour manages to match its background so precisely remains unclear, though one intriguing hypothesis is that the skin itself may be sensitive to light.
+
+  There is, nevertheless, a melancholy footnote to all of this. The octopus lives fast and dies young. Most species survive for only a year or two; the females typically stop eating once their eggs are laid and die shortly after the young hatch. An animal with such a capacity for learning has almost no time in which to use it, and no opportunity whatsoever to pass on what it has learned. There is no octopus culture, no tradition handed down from parent to offspring. Each generation begins, in effect, from scratch.
+
+  The research has also had consequences outside the laboratory. In 2021, a review commissioned by the British government concluded that octopuses, along with crabs and lobsters, are sentient beings capable of experiencing pain, and its recommendation that they be covered by animal welfare legislation was subsequently accepted. The decision has complicated plans, already under way in Spain, to open the world's first commercial octopus farm. Critics argue that confining a solitary, curious and highly mobile animal in crowded tanks would be both cruel and, given what we now know, indefensible. The company behind the project insists that welfare standards will be high. The debate is unlikely to be settled soon.
+
+  Perhaps the deepest lesson of the octopus is a humbling one. For centuries, intelligence was measured against a single yardstick, and that yardstick looked suspiciously like ourselves. The octopus suggests that a mind can be built from quite different materials, distributed in quite different ways, and still arrive at curiosity, playfulness and, apparently, a grudge against a particular technician. If that is true, the question is no longer whether other animals think, but how many different ways of thinking we have so far failed to notice.
+items:
+  - q: "Why does the writer begin with the story of the octopus in Portugal?"
+    options:
+      - "To warn readers that octopuses can be aggressive towards humans."
+      - "To give a vivid example of the kind of behaviour once treated as mere anecdote."
+      - "To criticise the way the research station was run."
+      - "To prove that octopuses can recognise individual people."
+    answer: 1
+    explain: "Следующий абзац начинается с *Stories like this are easy to dismiss as anecdote, and for most of the twentieth century they were*. История — живой пример такого поведения. *prove* — слишком сильно: анекдот ничего не доказывает."
+  - q: "In the second paragraph, the phrase 'The octopus was regarded as a curiosity' refers to"
+    options:
+      - "the particular animal at the research station."
+      - "the species as a whole."
+      - "octopuses kept in aquariums."
+      - "a distant cousin of the garden snail."
+    answer: 1
+    explain: "Generic **the octopus** — вид целиком, как его воспринимали учёные в XX веке. Конкретное животное из истории выше названо *the animal*."
+  - q: "According to the second paragraph, why were octopuses long thought to be unintelligent?"
+    options:
+      - "Early experiments with mazes produced disappointing results."
+      - "Scientists drew conclusions from their biological classification."
+      - "They were rarely observed using tools in the wild."
+      - "Researchers were not allowed to study them in laboratories."
+    answer: 1
+    explain: "*a mollusc, a distant cousin of the garden snail, and therefore, it was assumed, a creature of reflex* — вывод делали из того, к какому классу животных они относятся. Лабиринты и инструменты — это уже новые данные, опровергающие это мнение."
+  - q: "What is the main point the writer makes in the third paragraph?"
+    options:
+      - "Octopus intelligence is far more advanced than scientists once believed."
+      - "Humans and octopuses share a surprisingly recent common ancestor."
+      - "Octopus intelligence arose separately from ours, which makes it uniquely interesting."
+      - "Philosophers have contributed more to octopus research than biologists."
+    answer: 2
+    explain: "*its intelligence evolved along an entirely separate path from ours… was built independently, twice*. Общий предок жил больше 500 млн лет назад — это не «недавно»."
+  - q: "What does the fourth paragraph suggest about an octopus's arms?"
+    options:
+      - "They contain more neurons than a dog's entire brain."
+      - "They have a considerable degree of independence from the central brain."
+      - "They are controlled in every detail by the brain."
+      - "They lose their ability to function once they are severed."
+    answer: 1
+    explain: "*Each arm can… make decisions of its own… leaving the details of execution to the arms*. В щупальцах две трети из 500 млн нейронов, а не больше, чем у всей собаки; отсечённое щупальце продолжает действовать."
+  - q: "What is 'the puzzle' mentioned in the fifth paragraph?"
+    options:
+      - "How octopuses change colour so quickly."
+      - "Why octopuses need so many pigment cells."
+      - "How an animal without colour vision can camouflage itself so accurately."
+      - "Whether the skin of an octopus is sensitive to light."
+    answer: 2
+    explain: "*The puzzle* — существительное-ярлык, которое раскрывается дальше: осьминоги не различают цвета, но точно подбирают окраску под фон. Чувствительность кожи к свету — гипотеза, объясняющая загадку, а не сама загадка."
+  - q: "What does the writer regard as 'a melancholy footnote'?"
+    options:
+      - "The fact that females stop eating after laying eggs."
+      - "The short lifespan that prevents octopuses from building on what they learn."
+      - "The lack of research into octopus reproduction."
+      - "The difficulty of keeping octopuses in captivity."
+    answer: 1
+    explain: "*An animal with such a capacity for learning has almost no time in which to use it… no opportunity… to pass on what it has learned*. Отказ самок от еды — деталь, а не суть грусти."
+  - q: "How does the writer present the debate about octopus farming?"
+    options:
+      - "As a matter that has already been resolved by legislation."
+      - "As an argument in which only the critics have a reasonable case."
+      - "By reporting both sides and suggesting the issue remains open."
+      - "By questioning whether octopuses are really sentient."
+    answer: 2
+    explain: "Автор передаёт мнение критиков (*Critics argue*) и компании (*The company… insists*) и заключает: *The debate is unlikely to be settled soon*. Слово *indefensible* — из позиции критиков, а не прямой вывод автора."
+  - q: "Find a word in the last paragraph meaning 'a standard used for judging or comparing'."
+    answers: ["yardstick", "a yardstick"]
+    explain: "*intelligence was measured against a single **yardstick*** — «мерило, эталон». Вокруг слова — та же логика *a → that*: *a single yardstick, and that yardstick looked…*"
+  - q: "Find a two-word phrase in paragraph 7 meaning 'already started and in progress'."
+    answers: ["under way", "underway"]
+    explain: "*plans, already **under way** in Spain* — «уже реализуемые». Пишется раздельно (британский стандарт) или слитно."

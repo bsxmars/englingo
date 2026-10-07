@@ -1,0 +1,56 @@
+title: "Условие без if: выбери по оттенку"
+type: choice
+intro: "Выбери слово, которое точнее всего передаёт смысл и подходит по регистру."
+hints:
+  - "in case — предосторожность; provided / as long as — разрешение с условием."
+  - "assuming — непроверенное допущение; given — известный факт."
+  - "императив + and = «если сделаешь»; императив + or = «если не сделаешь»."
+items:
+  - q: "I've packed some sandwiches ___ we get hungry on the way."
+    options: ["in case", "if", "provided"]
+    answer: 0
+    explain: "Бутерброды уже собраны заранее — это предосторожность → **in case**."
+  - q: "Notice on a hotel door: '___ fire, do not use the lifts.'"
+    options: ["In the event of", "Assuming", "Supposing"]
+    answer: 0
+    explain: "Официальная инструкция + существительное → **In the event of** (или *In case of*)."
+  - q: "You can use the company car ___ you log every journey in the system."
+    options: ["as long as", "in case", "unless"]
+    answer: 0
+    explain: "Разрешение при условии → **as long as**. *unless* перевернул бы смысл, *in case* — предосторожность."
+  - q: "Tenancy agreement: 'The tenant may keep a pet ___ the landlord gives written consent.'"
+    options: ["on condition that", "so long as", "supposing"]
+    answer: 0
+    explain: "По смыслу подходит и *so long as*, но в договоре нужен формальный **on condition that**."
+  - q: "___ the budget is approved next week, work could start in March."
+    options: ["Assuming", "Given", "In case"]
+    answer: 0
+    explain: "Бюджет ещё не утверждён — это допущение → **Assuming**. *Given* вводит уже известный факт."
+  - q: "___ that the budget has already been cut twice, further savings will be hard to find."
+    options: ["Given", "Assuming", "Provided"]
+    answer: 0
+    explain: "Сокращения уже произошли — это факт → **Given that** («учитывая, что»)."
+  - q: "___ you lost your job tomorrow — how long could you live on your savings?"
+    options: ["Say", "Provided", "Given"]
+    answer: 0
+    explain: "Разговорное **Say** = «допустим» вводит воображаемую ситуацию. *Provided* и *Given* не подходят по смыслу."
+  - q: "I was stuck in a meeting; ___ I would have picked you up from the station."
+    options: ["otherwise", "unless", "in case"]
+    answer: 0
+    explain: "**otherwise** = «а если бы не это»; после него — counterfactual *would have picked*."
+  - q: "Hurry up, ___ we'll miss the opening speech."
+    options: ["or", "and", "unless"]
+    answer: 0
+    explain: "Императив + **or** = «если не поторопишься». *and* значило бы, что спешка приведёт к опозданию."
+  - q: "Give me twenty minutes ___ I'll have the report ready."
+    options: ["and", "or", "otherwise"]
+    answer: 0
+    explain: "Императив + **and** = «если дашь двадцать минут, отчёт будет готов»."
+  - q: "___ the generous grant from the foundation, the museum would have closed years ago."
+    options: ["But for", "Provided", "Except"]
+    answer: 0
+    explain: "**But for** + существительное = *If it hadn't been for*. Формально и коротко."
+  - q: "Staff are asked to use public transport ___ possible."
+    options: ["where", "in case", "provided"]
+    answer: 0
+    explain: "Сокращённая формула **where possible** = «там, где это возможно»."

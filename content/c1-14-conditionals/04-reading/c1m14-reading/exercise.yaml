@@ -1,0 +1,88 @@
+title: "If only: the science of what might have been"
+type: reading
+intro: "Прочитай эссе и ответь на вопросы. Вопросы с вариантами — как в C1 Advanced Part 5; в остальных впиши слово или фразу из текста."
+hints:
+  - "Вопросы идут в порядке текста."
+  - "Отличай факты, которые сообщает автор, от гипотез в нереальных условиях."
+text: |
+  ## If only: the science of what might have been
+
+  Had I left the house five minutes earlier, I would have caught the train. If I hadn't mentioned the money, the evening would have ended differently. Most of us spend a surprising amount of time in an imaginary past, rewriting scenes in which things went wrong and replaying them with a better ending. Psychologists call this habit counterfactual thinking, and for a long time they regarded it as little more than a recipe for regret. More recent research suggests something rather different: that our tendency to dwell on what might have been is not a flaw in the mind's design but one of its most useful features.
+
+  Consider one of the best-known findings in the field. In a study of athletes at the Olympic Games in the 1990s, researchers showed volunteers short clips of medallists at the moment they learnt their results, and asked them to rate how happy each athlete looked. The bronze medallists, on average, appeared happier than those who had won silver. The explanation lies in the comparison each was making. For the silver medallist, the most obvious alternative was gold: if only I had been a fraction of a second faster. For the bronze medallist, it was finishing fourth and going home with nothing at all. One was thinking upward, towards a better outcome that had narrowly escaped them; the other downward, towards a worse one they had narrowly avoided.
+
+  Downward comparisons console us; upward ones sting. Yet it is the painful, upward kind that turns out to be the more valuable. When we think "if only I had checked the tyres", we are not merely punishing ourselves; we are drawing a rough blueprint for next time. A number of experiments, from simple word puzzles to exam preparation, have found that people who generate specific upward counterfactuals after a failure tend to perform better on their next attempt than those who do not. The thought hurts precisely because it points to something we could have controlled, and that is exactly the information we need if we want to avoid repeating the mistake.
+
+  The usefulness of a counterfactual, however, depends heavily on what we choose to change. "If I had prepared the second half of my presentation more carefully, it would have gone better" offers a lesson that can be applied. "If I were a more confident person, none of this would have happened" offers nothing but self-reproach. The first tweaks an action; the second rewrites a personality. Researchers have noted that people who are prone to depression tend to produce counterfactuals of the second kind, focusing on fixed traits or on events far beyond their control, which may help to explain why their thinking so easily turns into rumination rather than resolution.
+
+  There is also the question of what we mutate in our minds when we replay the past. Asked to imagine how an accident could have been avoided, most people change the unusual element rather than the routine one. If a driver who normally takes the motorway is hit on a side road he chose on a whim, we feel that the tragedy would not have occurred had he followed his usual route, even though the side road was no more dangerous. Exceptional events seem to invite "if only" in a way that ordinary ones do not, a bias that influences everything from jury verdicts to the size of compensation payments.
+
+  None of this means that we should indulge every "what if" that occurs to us at three in the morning. Unless a counterfactual leads somewhere — a decision, a change of habit, a plan — it is likely to be futile, and possibly harmful. The trick, according to most researchers, is to ask two questions of any regret. First, is the alternative I am imagining something I could actually have done? Second, if so, what would I need to do differently in future? If the answer to the first question is no, the kindest thing may be to let the thought go.
+
+  Hindsight, as the saying goes, is a wonderful thing. It is also, it seems, one of the main ways in which we learn. Were we unable to imagine how things might have turned out otherwise, we would have no way of recognising our mistakes, still less of correcting them. The pain of "if only", in other words, may be the price we pay for being able to improve.
+items:
+  - q: "In the first paragraph, the writer suggests that the view of counterfactual thinking"
+    options:
+      - "has been confirmed by recent research."
+      - "has changed from a negative to a more positive one."
+      - "has always been a matter of fierce debate."
+      - "is shared by most people who are not psychologists."
+    answer: 1
+    explain: "Раньше считали *little more than a recipe for regret*, а теперь — *one of its most useful features*. Оценка сменилась с негативной на позитивную."
+  - q: "According to the second paragraph, bronze medallists appeared happier because"
+    options:
+      - "they had not expected to win a medal at all."
+      - "they compared their result with a worse possible outcome."
+      - "they were less competitive than silver medallists."
+      - "they had performed better than in previous competitions."
+    answer: 1
+    explain: "*For the bronze medallist, [the alternative] was finishing fourth… thinking downward* — сравнение с худшим исходом. Остальные варианты в тексте не упоминаются."
+  - q: "What point does the writer make about upward counterfactuals in the third paragraph?"
+    options:
+      - "They are unpleasant but can help people improve."
+      - "They are a form of self-punishment that should be avoided."
+      - "They are more common among professionals than students."
+      - "They make people more cautious than is necessary."
+    answer: 0
+    explain: "*it is the painful, upward kind that turns out to be the more valuable… we are drawing a rough blueprint for next time.* Боль + польза."
+  - q: "The two example sentences in the fourth paragraph are used to show"
+    options:
+      - "how presentations can be made more effective."
+      - "the difference between a useful and a useless counterfactual."
+      - "that confident people produce fewer counterfactuals."
+      - "why depression is difficult to treat."
+    answer: 1
+    explain: "*The first tweaks an action; the second rewrites a personality* — один пример даёт урок, другой только самобичевание."
+  - q: "The example of the driver in the fifth paragraph illustrates the tendency to"
+    options:
+      - "blame drivers who take unnecessary risks."
+      - "assume that side roads are more dangerous than motorways."
+      - "focus on an unusual choice when imagining how a disaster could have been avoided."
+      - "overestimate how much compensation victims should receive."
+    answer: 2
+    explain: "*most people change the unusual element rather than the routine one… even though the side road was no more dangerous.* Вариант B прямо противоречит тексту."
+  - q: "What is the writer's advice in the sixth paragraph?"
+    options:
+      - "Avoid thinking about past mistakes at night."
+      - "Consider whether a regret can lead to a realistic change."
+      - "Ignore any counterfactual that causes pain."
+      - "Discuss regrets with a professional."
+    answer: 1
+    explain: "Два вопроса: могли ли мы на самом деле поступить иначе и что изменить в будущем. *Unless a counterfactual leads somewhere… it is likely to be futile.*"
+  - q: "In the final paragraph, the sentence beginning 'Were we unable…' is an example of"
+    options:
+      - "a real condition about the future."
+      - "a hypothetical condition expressed by inversion."
+      - "a counterfactual about a specific past event."
+      - "a request expressed politely."
+    answer: 1
+    explain: "***Were we unable** to imagine…, we **would have** no way…* = *If we were unable…* — гипотеза о настоящем через инверсию."
+  - q: "Find a phrase in paragraph 1 that means 'think about something for too long'."
+    answers: ["dwell on", "to dwell on", "dwell on what might have been"]
+    explain: "*our tendency to **dwell on** what might have been* — зацикливаться на чём-то."
+  - q: "Find a word in paragraph 6 that means 'having no useful result'."
+    answers: ["futile"]
+    explain: "*it is likely to be **futile*** — бесполезный, тщетный."
+  - q: "Which conjunction in paragraph 6 means 'except if' and introduces a condition?"
+    answers: ["unless"]
+    explain: "***Unless** a counterfactual leads somewhere…* = *if it does not lead anywhere*."

@@ -1,0 +1,41 @@
+title: "Впиши слово на -ever"
+type: gap
+intro: "Впиши **одно** слово: whatever, whoever, whichever, however, wherever, whenever или whatsoever. Если подходят два — засчитаются оба."
+hints:
+  - "Ограниченный выбор (два-три варианта) → whichever."
+  - "however + прилагательное / наречие = «как бы ни»."
+  - "После отрицания для усиления → whatever / whatsoever после существительного."
+items:
+  - q: "___ the outcome of the vote, the board will publish the full results."
+    answers: ["Whatever"]
+    explain: "**Whatever** + существительное без глагола (*the outcome*): «каким бы ни был результат». Глагол *is* опущен — это формальный стиль."
+  - q: "You can sit in the front or the back row, ___ you prefer."
+    answers: ["whichever"]
+    explain: "Выбор из двух рядов → **whichever**. *whatever* предполагает открытое множество вариантов."
+  - q: "___ carefully you check the code, a few bugs always slip through."
+    answers: ["However"]
+    explain: "«Как бы тщательно ни» → **However** + наречие: *However carefully you check*."
+  - q: "The prize will go to ___ submits the most original design."
+    answers: ["whoever"]
+    explain: "После *to* стоит **whoever**, потому что слово — подлежащее для *submits*. *whomever* здесь ошибочно."
+  - q: "There is no evidence ___ that the two incidents are connected."
+    answers: ["whatsoever", "whatever"]
+    explain: "После отрицания *no evidence* → усилитель **whatsoever** (или *whatever*), «никаких вообще»."
+  - q: "___ possible, staff should travel by train rather than by air."
+    answers: ["Wherever", "Whenever"]
+    explain: "**Wherever possible** = «везде, где возможно» — формула инструкций; *Whenever possible* — «всякий раз, когда возможно», тоже уместно."
+  - q: "___ I visit my grandmother, she insists on cooking a three-course meal."
+    answers: ["Whenever"]
+    explain: "**Whenever** = «каждый раз, когда»."
+  - q: "Feel free to bring ___ friends you like — the more the merrier."
+    answers: ["whatever", "whichever"]
+    explain: "**whatever** как определитель перед существительным: «каких угодно друзей». *whichever* тоже возможно, если речь о знакомом круге."
+  - q: "___ much the repairs cost, we have no choice but to carry them out."
+    answers: ["However"]
+    explain: "«Сколько бы ни стоил» → **However much**. Не ~~However the repairs cost much~~."
+  - q: "___ told you that the office was closing was badly misinformed."
+    answers: ["Whoever"]
+    explain: "Именная роль: **Whoever told you that** — подлежащее всего предложения («тот, кто сказал»)."
+  - q: "___ his motives may have been, the consequences were disastrous."
+    answers: ["Whatever"]
+    explain: "Книжная уступка: **Whatever** + *may have been* — «какими бы ни были его мотивы»."

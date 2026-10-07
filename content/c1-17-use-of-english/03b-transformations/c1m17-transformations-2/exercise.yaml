@@ -1,0 +1,68 @@
+title: "Трансформации C1 Advanced: второй набор"
+type: transform
+intro: |
+  Ещё двенадцать трансформаций в формате Part 4. Используй **ключевое слово** без изменений и впиши от **трёх до шести слов**, включая ключевое. В каждом пункте меняются и грамматика, и лексика.
+hints:
+  - "Темы набора: инверсия, cleft, условные без if, пассив с инфинитивом, сожаление, фразовые глаголы, устойчивые выражения."
+  - "Посчитай слова: сокращение (didn't) считается как два слова."
+items:
+  - q: "I had only just arrived home when the phone rang."
+    key: "SOONER"
+    stem: "No ___ home than the phone rang."
+    answers: ["sooner had I arrived", "sooner had I got", "sooner had I gotten", "sooner had I reached"]
+    explain: "*only just… when* → **No sooner had I + V3… than** — инверсия после *No sooner*."
+  - q: "If it hadn't been for the map, we would have got lost."
+    key: "BUT"
+    stem: "___ map, we would have got lost."
+    answers: ["But for the", "But for that"]
+    explain: "**But for** + существительное = *If it hadn't been for*. Формально и коротко."
+  - q: "It's a pity I didn't take more photos on the trip."
+    key: "ONLY"
+    stem: "If ___ more photos on the trip."
+    answers: ["only I had taken", "only I'd taken"]
+    explain: "Сожаление о прошлом → **If only + Past Perfect**."
+  - q: "Experts think that the fire started in the kitchen."
+    key: "THOUGHT"
+    stem: "The fire ___ in the kitchen."
+    answers: ["is thought to have started", "is thought to have begun", "is thought to have broken out"]
+    explain: "Пожар начался раньше, чем «думают», → перфектный инфинитив: **is thought to have started**."
+  - q: "What impressed me most was her patience."
+    key: "IT"
+    stem: "___ impressed me most."
+    answers: ["It was her patience that", "It was her patience which"]
+    explain: "Pseudo-cleft *What… was X* → cleft **It was X that…**."
+  - q: "I didn't expect the exam to be so difficult."
+    key: "MORE"
+    stem: "The exam was ___ expected."
+    answers: ["more difficult than I had", "more difficult than I'd", "much more difficult than I had", "much more difficult than I'd", "far more difficult than I had", "far more difficult than I'd", "more difficult than I"]
+    explain: "*didn't expect it to be so difficult* → **more difficult than I (had) expected**."
+  - q: "The concert was cancelled because the lead singer was ill."
+    key: "ACCOUNT"
+    stem: "The concert was cancelled ___ the lead singer's illness."
+    answers: ["on account of"]
+    explain: "**on account of** — формальное «из-за». Глагол *was ill* превращается в существительное *illness*."
+  - q: "You really should apologise to her immediately."
+    key: "HIGH"
+    stem: "It's ___ to her."
+    answers: ["high time you apologised", "high time you apologized", "high time that you apologised", "high time that you apologized", "high time for you to apologise", "high time for you to apologize"]
+    explain: "**It's high time + Past Simple** (или *for you to + инфинитив*) — «давно пора». *immediately* передаётся самой конструкцией."
+  - q: "I'm sure he noticed the mistake."
+    key: "BOUND"
+    stem: "He ___ the mistake."
+    answers: ["was bound to notice", "was bound to have noticed", "is bound to have noticed"]
+    explain: "**be bound to** — «наверняка, непременно». О прошлом — *was bound to notice* или *is bound to have noticed*."
+  - q: "She found it very hard to concentrate because of the noise."
+    key: "DIFFICULTY"
+    stem: "She ___ because of the noise."
+    answers: ["had great difficulty concentrating", "had real difficulty concentrating", "had difficulty concentrating", "had great difficulty in concentrating", "had a lot of difficulty concentrating", "had difficulty in concentrating"]
+    explain: "**have difficulty (in) + -ing** — «с трудом делать». *very hard* лучше сохранить через *great*."
+  - q: "They postponed the match because of the heavy snow."
+    key: "PUT"
+    stem: "The match ___ because of the heavy snow."
+    answers: ["was put off", "had to be put off", "has been put off", "was put back"]
+    explain: "*postpone* = **put off**; подлежащее — матч → пассив: *was put off*."
+  - q: "Nobody told me that the meeting had been moved."
+    key: "DARK"
+    stem: "I ___ about the meeting being moved."
+    answers: ["was kept in the dark", "had been kept in the dark", "was left in the dark", "had been left in the dark"]
+    explain: "**keep somebody in the dark** — «держать в неведении». Пассив: *I was kept in the dark*."

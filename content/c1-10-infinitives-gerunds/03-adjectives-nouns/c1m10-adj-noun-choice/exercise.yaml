@@ -1,0 +1,47 @@
+title: "Инфинитив или предлог + -ing?"
+type: choice
+intro: "Выбери вариант, который верен и по грамматике, и по смыслу."
+hints:
+  - "anxious to / about, sorry to / for, chance to / of — разный смысл."
+  - "Если подлежащее — объект действия (This poem is hard…), нужен инфинитив с хвостовым предлогом, если он есть."
+items:
+  - q: "I was anxious ___ the children with a babysitter they had never met."
+    options: ["to leave", "about leaving", "for leaving"]
+    answer: 1
+    explain: "Тревога из-за действия → **anxious about leaving**. *anxious to leave* — «очень хотел оставить», что противоречит смыслу."
+  - q: "It was careless ___ to leave the keys in the car."
+    options: ["for me", "to me", "of me"]
+    answer: 2
+    explain: "*careless* оценивает поступок → **of me**."
+  - q: "It would be useful ___ to see the figures before the meeting."
+    options: ["of the managers", "for the managers", "to the managers"]
+    answer: 1
+    explain: "Полезно **для менеджеров** (они — подлежащее инфинитива) → *for*. *of the managers* оценивало бы их поступок."
+  - q: "Our new manager is very easy ___ — she listens to everyone."
+    options: ["to get on with", "to get on", "getting on with"]
+    answer: 0
+    explain: "Подлежащее — объект действия (*get on with the manager*) → инфинитив, и предлог **with** остаётся в конце."
+  - q: "He was the last person ___ the building before the fire broke out."
+    options: ["leaving", "to be left", "to leave"]
+    answer: 2
+    explain: "После *the first / the last / the only* + существительное → инфинитив: **the last person to leave**."
+  - q: "She can't bear the thought ___ her parents on their own over Christmas."
+    options: ["of leaving", "to leave", "for leaving"]
+    answer: 0
+    explain: "*the thought* + **of** + *-ing*: *the thought of leaving*. Инфинитив после *thought* не употребляется."
+  - q: "If we don't hire extra staff, there's a real risk ___ the deadline."
+    options: ["to miss", "of missing", "for missing"]
+    answer: 1
+    explain: "*risk* (как и *chance* в значении «вероятность») → **of** + *-ing*: *a risk of missing*."
+  - q: "I finally got the chance ___ the Northern Lights last winter."
+    options: ["to see", "seeing", "for seeing"]
+    answer: 0
+    explain: "*chance* = возможность, удачный случай → **to see**."
+  - q: "The prospect ___ another five years of cuts worries many voters."
+    options: ["to face", "for facing", "of facing"]
+    answer: 2
+    explain: "*the prospect* + **of** + *-ing* — модель *the* + noun + *of* + *-ing*."
+  - q: "If you need advice on visas, Ms Kaur is the person ___ ."
+    options: ["asking", "to ask", "for asking"]
+    answer: 1
+    explain: "Общее существительное + инфинитив — «тот, кого можно / нужно спросить»: **the person to ask**."

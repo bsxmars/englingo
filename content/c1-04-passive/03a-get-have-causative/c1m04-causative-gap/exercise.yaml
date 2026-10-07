@@ -1,0 +1,44 @@
+title: "have, get и need doing: впиши форму"
+type: gap
+intro: "Впиши в пропуск форму по подсказке в скобках. Сохраняй время предложения и порядок слов: have / get + объект + V3, get + человек + to do, need + -ing."
+hints:
+  - "have / get + объект + V3: had my bag stolen."
+  - "have someone do (без to), get someone to do (с to)."
+  - "need / deserve + -ing уже имеет пассивный смысл."
+items:
+  - q: "I ___ (have / my laptop / steal) at the airport, so I lost a week's work."
+    answers: ["had my laptop stolen", "got my laptop stolen"]
+    explain: "Опыт «со мной случилось» — **had my laptop stolen**: *have* + объект + V3. *got* в этом значении звучит разговорно, но тоже встречается."
+  - q: "We're ___ (have / the kitchen / redesign) next spring, so we'll be eating out a lot."
+    answers: ["having the kitchen redesigned", "getting the kitchen redesigned"]
+    explain: "Услуга в запланированном будущем — Present Continuous: **having the kitchen redesigned**."
+  - q: "It took three phone calls, but I finally ___ (get / the landlord / replace) the boiler."
+    answers: ["got the landlord to replace"]
+    explain: "«Добился, уговорил» — *get* + человек + **to** + инфинитив: **got the landlord to replace**."
+  - q: "I'll ___ (have / my secretary / email) you the agenda this afternoon."
+    answers: ["have my secretary email", "get my secretary to email"]
+    explain: "Распоряжение «по должности» — *have* + человек + инфинитив **без to**: **have my secretary email** you."
+  - q: "This report is full of typos — it really ___ (need / check) before it goes out."
+    answers: ["needs checking", "needs to be checked", "needs proofreading", "needs to be proofread"]
+    explain: "*need* + **-ing** с пассивным смыслом: **needs checking** (= *needs to be checked*)."
+  - q: "That mole on your arm has changed shape. You should ___ (get / it / look at) by a doctor."
+    answers: ["get it looked at", "have it looked at"]
+    explain: "Фразовый глагол в каузативе сохраняет предлог: **get it looked at**."
+  - q: "The rookie reporter ___ (get / himself / ban) from the stadium after sneaking into the dressing room."
+    answers: ["got himself banned"]
+    explain: "*get oneself* + V3 — сам «нарвался»: **got himself banned**."
+  - q: "Within five minutes the speaker ___ (have / the whole room / laugh)."
+    answers: ["had the whole room laughing"]
+    explain: "*have* + объект + **-ing** — «довёл до того, что все смеялись»: **had the whole room laughing**."
+  - q: "___ (you / have / the brakes / check) before the long drive?"
+    answers: ["Did you have the brakes checked", "Have you had the brakes checked", "Did you get the brakes checked", "Have you got the brakes checked"]
+    explain: "*have* в каузативе — смысловой глагол, вопрос через *do*: **Did you have the brakes checked?** (или Present Perfect: *Have you had…*)."
+  - q: "I need to ___ (get / this proposal / finish) before the board meeting tomorrow."
+    answers: ["get this proposal finished", "have this proposal finished"]
+    explain: "*get* + объект + V3 о своей работе — «доделать, закончить»: **get this proposal finished**."
+  - q: "I won't ___ (have / you / speak) to my staff in that tone."
+    answers: ["have you speaking"]
+    explain: "*won't have* + объект + **-ing** — «не потерплю, чтобы…»: **won't have you speaking**."
+  - q: "Nobody ___ (get / hurt) when the scaffolding collapsed, fortunately."
+    answers: ["got hurt", "was hurt", "got injured", "was injured"]
+    explain: "Неприятное событие — get-passive **got hurt** (разговорно) или *was hurt*. *Nobody* уже отрицание, поэтому глагол утвердительный."

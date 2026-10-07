@@ -1,0 +1,60 @@
+title: "Перефразирование (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+
+  Пассив, *have something done* и *is said to* — одни из самых частых тем Part 4.
+hints:
+  - "Someone did something for me → I had something done."
+  - "People say he lives… → He is said to live…; people say he lived… → He is said to have lived…"
+items:
+  - q: "A mechanic is repairing my car at the moment."
+    key: "HAVING"
+    stem: "I ___ at the moment."
+    answers: ["am having my car repaired", "'m having my car repaired"]
+    explain: "Механик чинит для меня → *I'm **having** my car repaired*: have (в Continuous) + объект + V3."
+  - q: "People say that the old hotel is haunted."
+    key: "SAID"
+    stem: "The old hotel ___ haunted."
+    answers: ["is said to be"]
+    explain: "*People say that X is…* → *X **is said to be**…* Действие одновременно с «говорят» → простой инфинитив."
+  - q: "Police believe that the robbers escaped in a stolen van."
+    key: "BELIEVED"
+    stem: "The robbers ___ in a stolen van."
+    answers: ["are believed to have escaped"]
+    explain: "Сбежали **раньше**, чем «полагают» → перфектный инфинитив: *are believed **to have escaped***."
+  - q: "They haven't told us the results yet."
+    key: "BEEN"
+    stem: "We ___ the results yet."
+    answers: ["have not been told", "haven't been told"]
+    explain: "*tell* — глагол с двумя дополнениями: получатель становится подлежащим → *We **haven't been told** the results*."
+  - q: "Someone stole Mark's bike from outside the gym."
+    key: "HAD"
+    stem: "Mark ___ from outside the gym."
+    answers: ["had his bike stolen"]
+    explain: "Неприятность, случившаяся с Марком → *Mark **had** his bike **stolen***."
+  - q: "It is expected that the new law will come into force in May."
+    key: "EXPECTED"
+    stem: "The new law ___ into force in May."
+    answers: ["is expected to come"]
+    explain: "*It is expected that X will…* → *X **is expected to** + глагол*. Будущее передаётся самим *expect*."
+  - q: "I'll ask my brother to pick you up from the airport."
+    key: "GET"
+    stem: "I'll ___ you up from the airport."
+    answers: ["get my brother to pick"]
+    explain: "**get + человек + to + глагол**: *I'll get my brother to pick you up*."
+  - q: "Someone needs to fix the roof before winter."
+    key: "FIXED"
+    stem: "We need to ___ before winter."
+    answers: ["have the roof fixed", "get the roof fixed"]
+    explain: "Мы не будем чинить сами → *have / get the roof **fixed***."
+  - q: "People think that the author is writing a sequel."
+    key: "THOUGHT"
+    stem: "The author ___ a sequel."
+    answers: ["is thought to be writing"]
+    explain: "Процесс идёт сейчас → континуальный инфинитив: *is thought **to be writing***."
+  - q: "Nobody has cleaned this room for weeks."
+    key: "BEEN"
+    stem: "This room ___ for weeks."
+    answers: ["has not been cleaned", "hasn't been cleaned"]
+    explain: "Present Perfect пассив в отрицании: *hasn't **been** cleaned for weeks*. *Nobody* превращается в отрицание."

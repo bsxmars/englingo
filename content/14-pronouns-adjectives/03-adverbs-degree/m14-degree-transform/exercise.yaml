@@ -1,0 +1,57 @@
+title: "too, enough, so, such и наречия: перефразируй"
+type: transform
+intro: "Закончи второе предложение так, чтобы смысл совпал с первым. Используй слово в скобках **без изменений**, всего 2–5 слов."
+hints:
+  - "too + прилагательное + (for someone) + to do; прилагательное + enough + to do."
+  - "so + прилагательное; such (a) + прилагательное + существительное."
+items:
+  - q: "The box was so heavy that I couldn't lift it."
+    key: "TOO"
+    stem: "The box was ___ lift."
+    answers: ["too heavy for me to", "too heavy to"]
+    explain: "*so … that I couldn't* → **too heavy (for me) to** lift. Дополнение *it* в конце не повторяем."
+  - q: "He isn't old enough to drive."
+    key: "YOUNG"
+    stem: "He is ___ drive."
+    answers: ["too young to"]
+    explain: "*not old enough* = **too young to**. Антоним + *too* — классический ход в B2 First Part 4."
+  - q: "The water was too cold for us to swim in."
+    key: "ENOUGH"
+    stem: "The water wasn't ___ swim in."
+    answers: ["warm enough for us to", "warm enough to"]
+    explain: "*too cold* = *not warm enough*. *enough* стоит **после** прилагательного: **warm enough (for us) to**."
+  - q: "It was such a boring film that I fell asleep."
+    key: "SO"
+    stem: "The film ___ that I fell asleep."
+    answers: ["was so boring"]
+    explain: "Без существительного → **so** + прилагательное: *was so boring*."
+  - q: "The hotel was so expensive that we couldn't stay there."
+    key: "SUCH"
+    stem: "It was ___ hotel that we couldn't stay there."
+    answers: ["such an expensive"]
+    explain: "**such a / an** + прилагательное + существительное. Перед гласным звуком — *an*: *such an expensive hotel*."
+  - q: "There weren't enough chairs for all the guests."
+    key: "TOO"
+    stem: "There were ___ chairs for all the guests."
+    answers: ["too few"]
+    explain: "*not enough* + исчисляемое = **too few**. Для неисчисляемых — *too little*."
+  - q: "She speaks very good English."
+    key: "WELL"
+    stem: "She ___."
+    answers: ["speaks English very well", "speaks English really well", "speaks English extremely well"]
+    explain: "*good English* (прилагательное) → *speaks English **well*** (наречие после дополнения)."
+  - q: "There was almost no milk left in the fridge."
+    key: "HARDLY"
+    stem: "There was ___ left in the fridge."
+    answers: ["hardly any milk"]
+    explain: "*almost no* = **hardly any**. *hardly* уже отрицательное, поэтому дальше *any*, а не *no*."
+  - q: "Kate is a careful driver."
+    key: "CAREFULLY"
+    stem: "Kate ___."
+    answers: ["drives carefully"]
+    explain: "*a careful driver* (прилагательное + существительное) = **drives carefully** (глагол + наречие)."
+  - q: "I've been really busy in the last few weeks."
+    key: "LATELY"
+    stem: "I've ___."
+    answers: ["been really busy lately", "been very busy lately"]
+    explain: "*in the last few weeks* = **lately** («в последнее время»), обычно в конце, с Present Perfect."

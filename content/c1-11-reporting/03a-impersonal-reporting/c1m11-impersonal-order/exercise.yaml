@@ -1,0 +1,37 @@
+title: "Собери безличный пересказ"
+type: order
+intro: "Собери английское предложение, которое передаёт русскую фразу в нейтральном письменном стиле."
+hints:
+  - "Подлежащее + is said / believed / thought + to-инфинитив."
+  - "Наречие reportedly стоит после первого вспомогательного глагола."
+items:
+  - q: "«Считается, что картина была украдена в 1990 году»."
+    answers: ["The painting is believed to have been stolen in 1990"]
+    explain: "Пассив мнения + **to have been stolen**: кража была раньше и в пассиве."
+  - q: "«Сообщается, что переговоры идут успешно»."
+    answers: ["Negotiations are reported to be making good progress"]
+    explain: "Процесс в момент сообщения → **to be making**."
+  - q: "«Предполагается, что внутри находится около сотни человек»."
+    answers: ["There are thought to be around a hundred people inside"]
+    explain: "**There are thought to be** — безличная конструкция с формальным *there*."
+  - q: "«Генеральный директор, по сообщениям, ушёл в отставку»."
+    answers: ["The chief executive has reportedly resigned", "Reportedly the chief executive has resigned"]
+    explain: "*reportedly* обычно стоит после вспомогательного глагола: **has reportedly resigned**."
+  - q: "«Известно, что у него очень вспыльчивый характер»."
+    answers: ["He is known to have a very short temper"]
+    explain: "Состояние одновременно с моментом знания → простой инфинитив **to have**."
+  - q: "«Опасались, что альпинисты погибли»."
+    answers: ["The climbers were feared to have died"]
+    explain: "Мнение в прошлом → **were feared**; гибель раньше → *to have died*."
+  - q: "«По мнению большинства экспертов, риск невелик»."
+    answers: ["According to most experts the risk is low", "The risk is low according to most experts"]
+    explain: "**according to** + источник, без *opinion*."
+  - q: "«Похоже, реформа почти не дала эффекта»."
+    answers: ["The reform appears to have had little effect"]
+    explain: "*appear* + **to have had** — осторожный вывод о результате."
+  - q: "«Авторы признают, что их выборка была небольшой»."
+    answers: ["The authors acknowledge that their sample was small"]
+    explain: "**acknowledge** — автор признаёт ограничение; Present Simple — настоящее академической дискуссии."
+  - q: "«Ожидается, что министр уйдёт в отставку на этой неделе»."
+    answers: ["The minister is expected to resign this week", "This week the minister is expected to resign"]
+    explain: "Будущее относительно ожидания → простой инфинитив **to resign**."

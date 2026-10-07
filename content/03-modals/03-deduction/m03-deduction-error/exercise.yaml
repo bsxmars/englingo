@@ -1,0 +1,44 @@
+title: "Найди и исправь ошибку: выводы о настоящем и прошлом"
+type: error
+intro: "В каждом предложении **одна** ошибка. Исправь её и отправь предложение целиком."
+hints:
+  - "Уверенное «нет» — can't / couldn't, а не mustn't."
+  - "Вывод о прошлом: модальный + have + V3 (must have gone, can't have seen)."
+  - "can не используется в положительном выводе о конкретной ситуации — нужно might, may или could."
+items:
+  - q: "Lisa mustn't be at work — I saw her at the beach an hour ago."
+    answers: ["Lisa can't be at work — I saw her at the beach an hour ago.", "Lisa couldn't be at work — I saw her at the beach an hour ago."]
+    explain: "Уверенный вывод «нет» → **can't / couldn't**. *mustn't* означает только запрет."
+  - q: "The streets are wet. It must rain during the night."
+    answers: ["The streets are wet. It must have rained during the night."]
+    explain: "Вывод о прошлом событии (ночью) → **must have + V3**: *must have rained*."
+  - q: "He must have went home early — his coat isn't here."
+    answers: ["He must have gone home early — his coat isn't here."]
+    explain: "После *have* — третья форма: *go – went – **gone***."
+  - q: "Where's Sam? — I'm not sure. He can be in the library."
+    answers: ["Where's Sam? — I'm not sure. He might be in the library.", "Where's Sam? — I'm not sure. He may be in the library.", "Where's Sam? — I'm not sure. He could be in the library."]
+    explain: "Неуверенное предположение о конкретной ситуации → **might / may / could**. *can* так не используется."
+  - q: "You can't have saw Tom yesterday — he was in Berlin."
+    answers: ["You can't have seen Tom yesterday — he was in Berlin."]
+    explain: "*can't have* + **V3**: *seen*, а не форма Past Simple *saw*."
+  - q: "Don't ring the bell — the baby might sleep."
+    answers: ["Don't ring the bell — the baby might be sleeping.", "Don't ring the bell — the baby may be sleeping."]
+    explain: "Действие, которое, возможно, идёт прямо сейчас → **might be + -ing**: *might be sleeping*."
+  - q: "She must has forgotten her keys again."
+    answers: ["She must have forgotten her keys again."]
+    explain: "После модального *have* не меняется: **must have**, не ~~must has~~."
+  - q: "I didn't hear you knock. I must be in the shower at that moment."
+    answers: ["I didn't hear you knock. I must have been in the shower at that moment."]
+    explain: "Вывод о прошлом моменте (*at that moment*, *didn't hear*) → **must have been**. *must be* — вывод о настоящем."
+  - q: "The parcel may have not arrived yet — let's wait until Monday."
+    answers: ["The parcel may not have arrived yet — let's wait until Monday.", "The parcel might not have arrived yet — let's wait until Monday."]
+    explain: "*not* ставится сразу после модального: **may not have arrived**."
+  - q: "Kate looks exhausted this morning. She must work all night."
+    answers: ["Kate looks exhausted this morning. She must have worked all night.", "Kate looks exhausted this morning. She must have been working all night."]
+    explain: "Вывод о прошлом (ночью) по признакам в настоящем → **must have worked** или, подчёркивая длительность, **must have been working**."
+  - q: "They can't have been knowing about the change of plan — nobody told them."
+    answers: ["They can't have known about the change of plan — nobody told them.", "They couldn't have known about the change of plan — nobody told them."]
+    explain: "*know* — глагол состояния, в Continuous не ставится: **can't have known**, а не ~~can't have been knowing~~."
+  - q: "Jake's car isn't outside. He must to be stuck in traffic."
+    answers: ["Jake's car isn't outside. He must be stuck in traffic."]
+    explain: "После **must** — инфинитив без *to*: *must be stuck*."

@@ -1,0 +1,64 @@
+title: "there и it: перефразирование (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "pointless → there's no point (in) -ing; it's no use -ing."
+  - "Время на действие → It took me … to …"
+  - "apparently / probably → there seems to be / there is likely to be."
+items:
+  - q: "Arguing with the referee is pointless."
+    key: "POINT"
+    stem: "There ___ with the referee."
+    answers: ["is no point arguing", "is no point in arguing"]
+    explain: "*pointless* → **there is no point (in) + -ing**. *in* можно опустить, но форма *-ing* обязательна."
+  - q: "I needed twenty minutes to find a parking space."
+    key: "TOOK"
+    stem: "It ___ to find a parking space."
+    answers: ["took me twenty minutes", "took me 20 minutes"]
+    explain: "**It took** + кто + сколько + *to*: подлежащее — пустое *it*, человек — в роли дополнения *me*."
+  - q: "Repairing this old phone would be a waste of money."
+    key: "WORTH"
+    stem: "This old phone ___ ."
+    answers: ["is not worth repairing", "isn't worth repairing", "is not worth fixing", "isn't worth fixing", "is not worth repairing at all", "isn't worth repairing at all"]
+    explain: "**be (not) worth + -ing**. Подлежащее — сам телефон, а действие с ним стоит в форме *-ing* без *it* в конце."
+  - q: "You don't need to bring any food."
+    key: "NEED"
+    stem: "There ___ any food."
+    answers: ["is no need to bring", "is no need for you to bring"]
+    explain: "*don't need to* → **there is no need to** + глагол. После *need* здесь инфинитив, а не *-ing*."
+  - q: "Apparently, there is a problem with your booking."
+    key: "SEEMS"
+    stem: "There ___ a problem with your booking."
+    answers: ["seems to be"]
+    explain: "*apparently* → **there seems to be**. *there* остаётся подлежащим, *seems* согласуется с *a problem*."
+  - q: "It's pointless to complain now."
+    key: "USE"
+    stem: "It ___ now."
+    answers: ["is no use complaining"]
+    explain: "**It's no use + -ing** = «бесполезно». Сравни: *there's no point (in) -ing* — тот же смысл, но с *there*."
+  - q: "There will probably be a lot of traffic tomorrow morning."
+    key: "LIKELY"
+    stem: "There ___ a lot of traffic tomorrow morning."
+    answers: ["is likely to be", "will likely be"]
+    explain: "*probably will be* → **there is likely to be**. Конструкция *be likely to* работает с *there* так же, как *seem to*."
+  - q: "Concentrating in a noisy office is difficult for me."
+    key: "FIND"
+    stem: "I ___ in a noisy office."
+    answers: ["find it difficult to concentrate", "find it hard to concentrate"]
+    explain: "**find it + прилагательное + to**. Без пустого *it* (~~I find difficult to~~) предложение неграмматично."
+  - q: "Not one of the passengers was hurt in the accident."
+    key: "NONE"
+    stem: "___ hurt in the accident."
+    answers: ["None of the passengers was", "None of the passengers were"]
+    explain: "**None of the** + мн. ч.: глагол может быть *was* (формальнее) или *were* (разговорнее). Оба верны."
+  - q: "This street had a cinema in the past, but it closed."
+    key: "USED"
+    stem: "There ___ on this street, but it closed."
+    answers: ["used to be a cinema"]
+    explain: "«Раньше был» → **there used to be**. Сообщаем о существовании в прошлом, поэтому *there*, а не *it*."
+  - q: "We should go home now — it's getting late."
+    key: "TIME"
+    stem: "It's ___ home — it's getting late."
+    answers: ["time we went", "time to go", "time for us to go", "high time we went"]
+    explain: "**It's time to** + глагол или **it's time we** + Past Simple: *It's time we went home*. Прошедшая форма здесь значит «давно пора»."

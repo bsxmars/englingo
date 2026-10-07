@@ -1,0 +1,52 @@
+title: "Выбери союз по смыслу и регистру"
+type: choice
+intro: "Выбери вариант, который точнее всего подходит по смыслу **и** по регистру. Обрати внимание на пометки о ситуации."
+hints:
+  - "for = «ибо» — только после главной части и только в книжном стиле."
+  - "in that уточняет, seeing as — разговорное «раз уж»."
+  - "so that может выражать и цель, и результат — смотри на модальный глагол."
+items:
+  - q: "(academic paper) The study is limited ___ it relies entirely on self-reported data."
+    options: ["in that", "seeing that", "now that"]
+    answer: 0
+    explain: "**in that** уточняет, *в чём* ограниченность исследования, и подходит научному стилю. *seeing that* разговорное, *now that* говорит о новой ситуации."
+  - q: "(text to a flatmate) ___ you're going to the shop anyway, could you grab some milk?"
+    options: ["Seeing as", "Inasmuch as", "In view of the fact that"]
+    answer: 0
+    explain: "В бытовом сообщении — **Seeing as** («раз уж»). Два других варианта грамматичны, но для записки соседу слишком канцелярские."
+  - q: "A tree had fallen across the road, ___ we had to take a long detour."
+    options: ["so", "in order that", "for fear that"]
+    answer: 0
+    explain: "Это **результат**, а не цель → **so**. *in order that* и *for fear that* выражают намерение, а объезжать дерево никто не планировал."
+  - q: "___ he's retired, he spends most of his time in the garden."
+    options: ["Now that", "In that", "For"]
+    answer: 0
+    explain: "Новая ситуация в настоящем → **Now that**. *For* не начинает предложение, *in that* = «в том смысле, что»."
+  - q: "(novel) She dared not move ___ the guards notice her."
+    options: ["lest", "so that", "unless"]
+    answer: 0
+    explain: "**lest** = «чтобы не»; книжный стиль романа ему подходит. *so that the guards notice her* значило бы, что она хочет быть замеченной."
+  - q: "The project failed not because of a lack of money, but ___ nobody took responsibility for it."
+    options: ["because", "as", "since"]
+    answer: 0
+    explain: "Причина — главная новая информация и противопоставлена другой (*not because… but because*) → только **because**. *as / since* подают причину как известную."
+  - q: "(formal notice) The delay was ___ a signal failure near Leeds."
+    options: ["due to", "because", "owing"]
+    answer: 0
+    explain: "После **be** — **due to** + существительное. *because* требует придаточного или *of*, а *owing* без *to* неполно."
+  - q: "They had ___ few staff on duty that the shop closed early."
+    options: ["so", "such", "such a"]
+    answer: 0
+    explain: "Перед **few / little / many / much** — **so**: *so few staff*."
+  - q: "(report) Funding was increased ___ waiting lists could be reduced."
+    options: ["in order that", "so", "seeing that"]
+    answer: 0
+    explain: "Цель в официальном отчёте → **in order that** + *could*. *so* без *that* разговорное, *seeing that* — причина."
+  - q: "(literary) He agreed to the deal, ___ he had little choice in the matter."
+    options: ["for", "in that", "so that"]
+    answer: 0
+    explain: "**for** = «ибо»: книжное добавление причины после главной части. *in that* уточняет, а *so that* выражает цель."
+  - q: "The side effects were ___ that the trial had to be stopped early."
+    options: ["such", "so", "so much"]
+    answer: 0
+    explain: "**be such that** = «были такими, что…»: *such* заменяет прилагательное. *so* требует после себя прилагательное (*so severe that*)."

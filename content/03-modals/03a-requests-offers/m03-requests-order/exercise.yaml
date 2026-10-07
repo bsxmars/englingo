@@ -1,0 +1,44 @@
+title: "Собери вежливую фразу"
+type: order
+intro: "Собери английское предложение из слов. Ситуация и смысл подсказаны по-русски."
+hints:
+  - "Would you mind + -ing / Would you mind if I + Past Simple."
+  - "Косвенная просьба: Could you tell me where the station is? — после вопроса-вступления прямой порядок слов."
+  - "Shall I…? — предложить помощь; Why don't we…? — предложить вместе."
+items:
+  - q: "Коллеге: «Не мог бы ты переслать мне это письмо?»"
+    answers: ["Could you forward me that email"]
+    explain: "Вежливая просьба → **Could you + инфинитив**. Порядок двух дополнений: сначала кому (*me*), потом что (*that email*)."
+  - q: "Незнакомцу в поезде: «Вы не против, если я открою окно?»"
+    answers: ["Would you mind if I opened the window"]
+    explain: "**Would you mind if I + Past Simple** — очень вежливый вопрос о разрешении. Past Simple тут не про прошлое, а про вежливую дистанцию."
+  - q: "Соседу: «Вы не могли бы сделать музыку потише?»"
+    answers: ["Would you mind turning the music down", "Would you mind turning down the music"]
+    explain: "**Would you mind + -ing**. Фразовый глагол *turn down* разделяется существительным или стоит слитно: оба порядка верны."
+  - q: "Другу с тяжёлыми сумками: «Давай я помогу тебе с сумками?»"
+    answers: ["Shall I help you with your bags"]
+    explain: "Предложение помощи → **Shall I + инфинитив**? Это вопрос «хочешь, я сделаю?»."
+  - q: "Друзьям: «Почему бы нам не заказать пиццу сегодня вечером?»"
+    answers: ["Why don't we order pizza tonight"]
+    explain: "Предложение сделать что-то вместе → **Why don't we + инфинитив**. Это не настоящий вопрос «почему», а мягкое предложение."
+  - q: "Прохожему: «Не подскажете, где ближайшая аптека?»"
+    answers: ["Could you tell me where the nearest pharmacy is"]
+    explain: "Косвенный вопрос после *Could you tell me* — прямой порядок слов: **where the nearest pharmacy is**, а не ~~where is~~."
+  - q: "Начальнику: «Можно мне завтра уйти пораньше?» (формально)"
+    answers: ["May I leave a little earlier tomorrow"]
+    explain: "Формальная просьба разрешения → **May I + инфинитив**. Обстоятельство времени — в конце."
+  - q: "Гостю: «Не хотите ли ещё кофе?»"
+    answers: ["Would you like some more coffee"]
+    explain: "Предложение → **Would you like + существительное**. В предложениях используем *some*, а не *any*, потому что ждём «да»."
+  - q: "Клиенту в письме: «Буду признателен, если вы ответите до пятницы»."
+    answers: ["I would be grateful if you could reply by Friday"]
+    explain: "Формальная письменная просьба → **I would be grateful if you could…**. *by Friday* — «не позже пятницы»."
+  - q: "Коллеге: «Ты не мог бы взглянуть на мой код?»"
+    answers: ["Could you have a look at my code"]
+    explain: "**Could you have a look at…** (или *take a look*) — естественная просьба «посмотреть, проверить»."
+  - q: "Другу, который зовёт в гости: «Я бы с удовольствием, но сегодня вечером я занят»."
+    answers: ["I'd love to but I'm busy tonight"]
+    explain: "Вежливый отказ → **I'd love to, but…**. После *love to* глагол не повторяют: *to* заменяет весь глагол."
+  - q: "Попутчику: «Хотите, я подержу вашу сумку?»"
+    answers: ["Would you like me to hold your bag"]
+    explain: "**Would you like me to + инфинитив** (проще — *Do you want me to…?*) — предложение помощи, как *Shall I…?*"

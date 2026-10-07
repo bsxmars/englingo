@@ -1,0 +1,56 @@
+title: "Надо было, мог бы или зря?"
+type: choice
+intro: "Выбери вариант, который точнее всего передаёт смысл ситуации."
+hints:
+  - "should have — надо было (не сделал); shouldn't have — зря сделал."
+  - "could have — была возможность; would have — сделал бы при другом условии."
+  - "needn't have — сделал, но зря; didn't need to — не было нужды (обычно и не делал)."
+items:
+  - q: "The hotel had free towels, so we ___ ours. Our suitcases were so heavy for nothing!"
+    options: ["didn't need to pack", "needn't have packed", "couldn't have packed"]
+    answer: 1
+    explain: "Полотенца взяли (чемоданы тяжёлые «зря») → **needn't have packed**: действие было, но оказалось ненужным."
+  - q: "The hotel had free towels, so we ___ any. We travelled light."
+    options: ["didn't need to pack", "needn't have packed", "shouldn't have packed"]
+    answer: 0
+    explain: "Не брали полотенца, потому что не было нужды → **didn't need to pack**."
+  - q: "I ___ you with the move if you'd asked me. Why didn't you call?"
+    options: ["would help", "would have helped", "should have helped"]
+    answer: 1
+    explain: "Воображаемое прошлое с условием (*if you'd asked*) → **would have helped**."
+  - q: "You ___ me you were vegetarian! I spent three hours cooking this steak."
+    options: ["might have told", "must have told", "would have told"]
+    answer: 0
+    explain: "Упрёк «мог бы и сказать» → **might have told** (или *could have told*). *must have told* — вывод «наверняка сказал»."
+  - q: "That was a terrible decision. The board ___ the offer."
+    options: ["shouldn't accept", "shouldn't have accepted", "needn't have accepted"]
+    answer: 1
+    explain: "Оценка сделанного как ошибки → **shouldn't have accepted**. *needn't have* значило бы «не было необходимости», без осуждения."
+  - q: "The parcel ___ on Monday, but it still hasn't come."
+    options: ["was supposed to arrive", "must have arrived", "needn't have arrived"]
+    answer: 0
+    explain: "По плану должна была прийти, но не пришла → **was supposed to arrive**."
+  - q: "You ___ on your phone while the teacher was explaining the task — now you don't know what to do."
+    options: ["shouldn't be playing", "shouldn't have been playing", "couldn't have played"]
+    answer: 1
+    explain: "Упрёк о процессе в прошлом → **shouldn't have been playing** (модальный + have been + -ing)."
+  - q: "It's lucky the fire alarm worked. The whole building ___ down."
+    options: ["could have burnt", "should have burnt", "must have burnt"]
+    answer: 0
+    explain: "Опасность была, но не реализовалась → **could have burnt**. *should* означал бы, что сгореть «было правильно»."
+  - q: "We ___ so early — the concert started an hour late."
+    options: ["didn't have to arrive", "needn't have arrived", "mustn't have arrived"]
+    answer: 1
+    explain: "Приехали рано, а оказалось зря → **needn't have arrived**."
+  - q: "These documents ___ by a lawyer before we signed them."
+    options: ["should have checked", "should have been checked", "should be checked"]
+    answer: 1
+    explain: "Документы не проверяют сами себя — нужен пассив: **should have been checked**."
+  - q: "Thanks for reminding me about the deadline — I ___ it otherwise."
+    options: ["would forget", "would have forgotten", "could forget"]
+    answer: 1
+    explain: "*otherwise* = «если бы не ты» — скрытое условие в прошлом → **would have forgotten**."
+  - q: "Why did you take a taxi? You ___ with us — there was room in the car."
+    options: ["could have come", "must have come", "would come"]
+    answer: 0
+    explain: "Возможность была, но ей не воспользовались → **could have come**."

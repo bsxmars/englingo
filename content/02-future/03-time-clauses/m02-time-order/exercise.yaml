@@ -1,0 +1,31 @@
+title: "Собери предложение"
+type: order
+intro: "Расставь слова в правильном порядке. Запятые и точку в конце ставить не нужно."
+hints:
+  - "Придаточное с when / as soon as / by the time может стоять и в начале, и в конце."
+  - "В придаточном времени — настоящее время, в главной части — будущее."
+items:
+  - q: "Пообещай написать, когда доберёшься до вокзала."
+    answers: ["I'll text you when I get to the station.", "When I get to the station I'll text you."]
+    explain: "Главная часть — **will**, придаточное после **when** — Present Simple."
+  - q: "Скажи, что в прошлом году вы собирались купить квартиру."
+    answers: ["We were going to buy a flat last year.", "Last year we were going to buy a flat."]
+    explain: "**were going to** — план, который не сбылся."
+  - q: "Скажи, что самолёт вот-вот взлетит."
+    answers: ["The plane is about to take off."]
+    explain: "**be about to + инфинитив** — действие произойдёт через мгновение."
+  - q: "Попроси не уходить, пока ты не вернёшься."
+    answers: ["Don't leave until I come back."]
+    explain: "После **until** — Present Simple: *until I come back*, а не ~~will come~~."
+  - q: "Скажи, что она, скорее всего, снова опоздает."
+    answers: ["She is likely to be late again."]
+    explain: "**be likely to + инфинитив** — «вероятно»."
+  - q: "Скажи, что отчёт должны опубликовать на следующей неделе."
+    answers: ["The report is due to be published next week."]
+    explain: "**be due to** — по плану, графику; здесь с пассивным инфинитивом *be published*."
+  - q: "Скажи, что к тому времени, как вы приедете, вечеринка уже закончится."
+    answers: ["By the time we arrive the party will have finished.", "The party will have finished by the time we arrive."]
+    explain: "**By the time** + Present Simple, в главной части — Future Perfect."
+  - q: "Пообещай сообщить, как только что-нибудь узнаешь."
+    answers: ["As soon as I hear anything I'll let you know.", "I'll let you know as soon as I hear anything."]
+    explain: "После **as soon as** — Present Simple: *as soon as I hear*."

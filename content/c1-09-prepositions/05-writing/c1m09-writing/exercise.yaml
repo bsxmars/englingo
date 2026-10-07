@@ -1,0 +1,49 @@
+title: "Proposal: a better public space"
+type: writing
+intro: "Напиши предложение (proposal) в формате C1 Advanced, Writing Part 2. Заголовок и подзаголовки, формальный регистр, точные предлоги места и движения, сдержанные фразовые глаголы."
+prompt: |
+  Your local council has announced a fund to improve **one neglected public space** in your town — for example, a riverbank, a disused railway line, a car park or an empty square. Residents have been invited to submit proposals.
+
+  Write a **proposal** in which you:
+
+  - describe the place and explain **what is wrong with it at present**;
+  - suggest **two or three specific improvements** and say how people would move through and use the space;
+  - explain **why the council should fund your scheme** rather than others.
+
+  Write your **proposal** in 220–260 words.
+words: [220, 260]
+target_grammar:
+  - "Предлоги места и движения: along, across, over, through, past, above, below, between"
+  - "Составные предлоги формального стиля: in view of, in addition to, as a result of, with regard to, apart from"
+  - "Зависимые предлоги: access to, impact on, demand for, concern about, account for"
+  - "Фразовые глаголы нейтрального регистра (cut off, carry out, pay for itself) вместо разговорных"
+checklist:
+  - "Есть заголовок и 4–5 подзаголовков (Introduction, Current situation, Proposed improvements, Benefits, Conclusion)."
+  - "Во введении названа цель и источник информации (опрос, наблюдения)."
+  - "Не меньше пяти предлогов места и движения употреблены точно: across / over / through, along / past, above / below."
+  - "Использованы минимум два составных предлога: in view of, in addition to, as a result of, apart from."
+  - "Предложения сформулированы осторожно и вежливо: would, could, should, I would urge / recommend."
+  - "Формальный регистр: без сокращений и разговорных фразовых глаголов (sort out, get rid of, put up with)."
+  - "Объём 220–260 слов."
+model_answer: |
+  **Proposal: reconnecting the town with its river**
+
+  **Introduction**
+
+  The purpose of this proposal is to suggest how the neglected stretch of land along the River Wey could be transformed into an attractive public space. It is based on a survey of 120 residents carried out in March.
+
+  **Current situation**
+
+  At present, the riverbank is cut off from the town centre by a busy ring road, which can only be crossed at a single set of traffic lights. Apart from a handful of anglers, hardly anyone uses the path, and several sections remain under water for weeks at a time during the winter.
+
+  **Proposed improvements**
+
+  Firstly, a footbridge over the ring road would allow pedestrians and cyclists to reach the river directly from the market square. Secondly, the existing path should be widened and raised above the flood level, with benches placed at regular intervals along it. Finally, the derelict boathouse just past the old mill could be converted into a café and bike-hire point, which would generate income for the upkeep of the area.
+
+  **Costs and benefits**
+
+  Although the footbridge would account for the bulk of the budget, the scheme is likely to pay for itself within a decade through increased footfall in local businesses. In addition, a safe riverside route would encourage residents to walk or cycle rather than drive.
+
+  **Conclusion**
+
+  In view of the strong support expressed in the survey, I would urge the council to approve the scheme by the end of the year, so that work can begin in the spring.

@@ -1,0 +1,48 @@
+title: "Proposal: a new life for the old station"
+type: writing
+intro: "Напиши предложение (proposal) в формате C1 Advanced, Part 2. Используй сослагательное наклонение или should после propose / recommend / it is essential that и 2–3 придаточных-существительных в роли подлежащего."
+prompt: |
+  Your town council has announced that the **disused railway station** in the town centre will be given a new purpose. It has invited residents to submit **proposals**.
+
+  Write a **proposal** for the council in which you:
+
+  - briefly describe the **current situation** of the building;
+  - suggest **what the building should be used for** and explain how this would benefit local people;
+  - outline **how the project could be funded and managed**.
+
+  Write your **proposal** in 220–260 words.
+words: [220, 260]
+target_grammar:
+  - "Сослагательное и should: I propose that the building be converted…; It is essential that… not depend…"
+  - "Придаточные-подлежащие: What residents need is…; Whether the scheme succeeds…; The fact that… makes it…"
+  - "Существительное + that-clause: there is every indication that…, the idea that…"
+checklist:
+  - "Есть заголовок и 4–5 подзаголовков."
+  - "Во введении названа цель предложения и источник идеи."
+  - "Предложение конкретно: что именно, для кого и какая польза."
+  - "Есть практическая часть: финансирование и управление."
+  - "Минимум три формы сослагательного или should после propose / recommend / essential / vital."
+  - "Минимум две конструкции с придаточным-подлежащим (What…, The fact that…, Whether…)."
+  - "Формальный убеждающий тон, без сокращений; объём 220–260 слов."
+model_answer: |
+  **Proposal: a new use for the old railway station**
+
+  **Introduction**
+
+  The purpose of this proposal is to suggest how the disused railway station on Mill Road could become a valuable community asset. It is based on conversations with local residents and a recent visit to the site.
+
+  **Current situation**
+
+  The station has stood empty for over a decade, and what was once an attractive Victorian building is now badly neglected. The fact that it stands next to the town's main bus stop and cycle path, however, makes it an ideal location for a public facility.
+
+  **Proposed use**
+
+  I propose that the building be converted into a community hub combining a small café, a repair workshop and a bookable room for local groups. What residents repeatedly said they lacked was somewhere affordable to meet that is not a pub. A repair workshop staffed by volunteers would also encourage people to mend household items rather than throw them away.
+
+  **Funding and management**
+
+  It is essential that the project not depend entirely on council money. I would therefore recommend that the café be run as a social enterprise, with its profits used to cover maintenance costs. It is equally important that residents be involved from the outset, so a steering committee of local volunteers should be set up to oversee the work.
+
+  **Conclusion**
+
+  Whether the scheme succeeds will depend largely on local support, but there is every indication that it would be warmly welcomed. I strongly recommend that the council approve a feasibility study without delay.

@@ -1,0 +1,31 @@
+title: "Собери предложение"
+type: order
+intro: "Собери английское предложение из слов. Смысл подсказан по-русски."
+hints:
+  - "Модальный + have + V3: must have gone, should have left."
+  - "Наречие already может стоять внутри глагольной группы или в конце."
+items:
+  - q: "«Макс, должно быть, уже ушёл домой»."
+    answers: ["Max must have gone home already", "Max must have already gone home", "Max must already have gone home"]
+    explain: "Вывод о прошлом: **must have gone**. *already* можно поставить в конец или внутрь глагольной группы."
+  - q: "«Не может быть, что ты всерьёз собрался уволиться!»"
+    answers: ["You can't be serious about quitting your job"]
+    explain: "*You can't be serious!* — «не может быть, ты серьёзно?»: **can't** в выводе о настоящем."
+  - q: "«Надо было выйти из дома гораздо раньше»."
+    answers: ["We should have left home much earlier"]
+    explain: "Сожаление → **should have + V3**. *much* усиливает сравнительную степень: *much earlier*."
+  - q: "«Возможно, она забыла о встрече»."
+    answers: ["She might have forgotten about the meeting"]
+    explain: "Неуверенное предположение о прошлом → **might have forgotten**."
+  - q: "«Он, должно быть, сегодня работает из дома»."
+    answers: ["He must be working from home today", "Today he must be working from home"]
+    explain: "Вывод о текущем действии → **must be + -ing**."
+  - q: "«Не нужно было готовить так много еды» (а ты приготовил)."
+    answers: ["You needn't have cooked so much food"]
+    explain: "Сделал, но зря → **needn't have cooked**."
+  - q: "«Мог бы и сказать мне о проблеме!»"
+    answers: ["You could have told me about the problem"]
+    explain: "Упрёк → **could have told**."
+  - q: "«Не может быть, чтобы они услышали нас из кухни»."
+    answers: ["They can't have heard us from the kitchen", "From the kitchen they can't have heard us"]
+    explain: "Уверенное «нет» о прошлом → **can't have heard**."

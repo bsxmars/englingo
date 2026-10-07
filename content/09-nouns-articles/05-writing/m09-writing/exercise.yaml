@@ -1,0 +1,35 @@
+title: "Отзыв о кафе для удалённой работы"
+type: writing
+intro: "Напиши отзыв по заданию ниже. Сначала составь план по абзацам, потом пиши."
+prompt: |
+  You see this announcement on a website for people who work remotely:
+
+  > **Reviews wanted: the best places to work outside the office**
+  >
+  > Do you know a café, co-working space or library where you like to work? Write a review telling us about the place: the atmosphere, the food and drink, the equipment and the service. Is there anything that could be better? Would you recommend it to other remote workers?
+
+  Write your **review** (140–190 words).
+words: [140, 190]
+target_grammar:
+  - "Артикли: a/an при первом упоминании, the при повторном, без артикля — в общих утверждениях"
+  - "Неисчисляемые существительные: furniture, equipment, information, advice, service, food"
+  - "much / many / a few / a little / a lot of"
+  - "Quantifiers: every, each, both, none, no"
+checklist:
+  - "Есть заголовок и четыре абзаца: вступление, плюсы, минусы, рекомендация."
+  - "Понятно, что это за место, где оно и для кого."
+  - "У каждой оценки есть конкретная деталь, а не просто «good» или «nice»."
+  - "Неисчисляемые (furniture, equipment, information, advice, service) — без a/an и без -s."
+  - "Хотя бы по разу использованы a few / a little / much / many и every / each / both."
+  - "В конце есть ясная рекомендация: кому подойдёт и кому нет."
+  - "Объём 140–190 слов, регистр нейтральный, без сленга."
+model_answer: |
+  **The Reading Room: a quiet corner for busy minds**
+
+  If you need a place to work that isn't your kitchen table, The Reading Room on Market Street is worth a visit. It's a café inside an old bookshop, and I've spent a few days a week there since the spring.
+
+  The first thing you notice is the silence. Music is kept low, and most people come to work, so it's easy to concentrate. The furniture is a mix of old armchairs and large wooden tables, and every table has its own socket — a small but important detail. The coffee is excellent, and the staff are happy to give advice if you can't decide what to order.
+
+  The only downside is the Wi-Fi. It's fine for emails, but it struggles with video calls, so I've had to leave a few meetings early. There's also very little choice for lunch: just soup and a couple of sandwiches.
+
+  All in all, I'd recommend The Reading Room to anyone who needs a calm place to write or think. If your day is full of calls, however, you might want to try somewhere else.

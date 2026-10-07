@@ -1,0 +1,51 @@
+title: "Каузатив или пассив: выбери по смыслу"
+type: choice
+intro: "Выбери вариант, который лучше всего передаёт смысл. Часто грамматичны несколько — но значат они разное."
+hints:
+  - "had + объект + V3 — услуга или «со мной случилось»; had + V3 + объект — Past Perfect."
+  - "get someone to do — уговорить; have someone do — распорядиться; make someone do — заставить."
+items:
+  - q: "«Я сделал стрижку в новом салоне» (стриг мастер)."
+    options: ["I cut my hair at the new salon.", "I had cut my hair at the new salon.", "I had my hair cut at the new salon.", "I was cut my hair at the new salon."]
+    answer: 2
+    explain: "Услугу оказал другой человек → **had my hair cut**. *I cut my hair* — сам; *had cut* — Past Perfect."
+  - q: "By the time the police arrived, the thief ___ ."
+    options: ["had stolen the jewellery", "had had the jewellery stolen", "had the jewellery stolen", "got the jewellery stolen"]
+    answer: 0
+    explain: "Вор сам совершил действие до другого момента → обычный Past Perfect **had stolen the jewellery**. Каузатив (*had the jewellery stolen*) значил бы, что украли у него или по его заказу."
+  - q: "«Мне пришлось долго уговаривать брата, но он помог с переездом»."
+    options: ["I had my brother help me move.", "I got my brother to help me move.", "I made my brother help me move.", "I had my brother helped me move."]
+    answer: 1
+    explain: "«Уговорил, добился» — **got my brother to help**. *had… help* — распоряжение «по должности», *made* — заставил против воли."
+  - q: "Manager to client: \"I'll ___ the revised invoice to you today.\""
+    options: ["have my assistant send", "get my assistant send", "make my assistant send", "have my assistant to send"]
+    answer: 0
+    explain: "Распоряжение подчинённому — **have my assistant send** (без *to*). *get* требует *to*, *make* звучит грубо."
+  - q: "A news report: \"Two journalists ___ during the demonstration.\""
+    options: ["got themselves arrested", "were arrested", "got arrested", "had arrested"]
+    answer: 1
+    explain: "Нейтральные новости — **were arrested**. *got arrested* — разговорно, *got themselves arrested* обвиняет самих журналистов, *had arrested* — Past Perfect в активе (они кого-то арестовали)."
+  - q: "\"He ___ from the game for arguing with the referee — typical!\" (сам виноват)"
+    options: ["got himself sent off", "was sent off", "had sent off", "had himself sent off"]
+    answer: 0
+    explain: "*get oneself* + V3 подчёркивает вину подлежащего: **got himself sent off**. *was sent off* нейтрально, без оценки."
+  - q: "The garden is a jungle. It badly ___."
+    options: ["needs being weeded", "needs weeding", "needs to weed", "needs weed"]
+    answer: 1
+    explain: "*need* + -ing уже пассивно: **needs weeding**. *needs to weed* — «саду надо полоть», бессмыслица."
+  - q: "The exhibition is ___ if you're in town before May."
+    options: ["worth to visit", "worth visiting", "worth being visited", "worthy visiting"]
+    answer: 1
+    explain: "После *be worth* — простой -ing: **worth visiting**. Ни *to*, ни пассивного герундия."
+  - q: "«Нам на прошлой неделе разбили окно» — неприятный опыт, а не заказ."
+    options: ["We broke our window last week.", "We had broken our window last week.", "We had our window broken last week.", "We got broken our window last week."]
+    answer: 2
+    explain: "Опыт «со мной случилось» — **had our window broken**. Отличает его от услуги только контекст."
+  - q: "\"I ___ any of you using your phones during the exam.\""
+    options: ["won't have", "won't get", "won't make", "won't let"]
+    answer: 0
+    explain: "*won't have* + объект + *-ing* — «не потерплю»: **won't have any of you using**. *let* требовал бы инфинитива без *to* (*let you use*)."
+  - q: "Formal email: \"Please ___ the attached form signed by your line manager.\""
+    options: ["have", "get", "make", "let"]
+    answer: 0
+    explain: "В формальном письме каузатив — **have**: *Please have the form signed…* *get* звучит разговорно, *make / let* не употребляются с V3 так."

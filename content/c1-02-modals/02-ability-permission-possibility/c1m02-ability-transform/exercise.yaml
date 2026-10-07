@@ -1,0 +1,59 @@
+title: "Перефразирование: ability, permission, possibility (C1 Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое). Это формат C1 Advanced, Part 4.
+hints:
+  - "managed to / succeeded in = was able to; failed to = couldn't / wasn't able to."
+  - "It's possible that … happened = may / might / could have + V3."
+  - "be permitted to / be forbidden to = be (not) allowed to, may (not)."
+items:
+  - q: "Despite the fog, the pilot succeeded in landing the plane safely."
+    key: "ABLE"
+    stem: "Despite the fog, the pilot ___ the plane safely."
+    answers: ["was able to land"]
+    explain: "*succeeded in* + V-ing = *was able to* + инфинитив — одно успешное действие в прошлом."
+  - q: "It's possible that the email went into your spam folder."
+    key: "MIGHT"
+    stem: "The email ___ into your spam folder."
+    answers: ["might have gone"]
+    explain: "Предположение о прошлом → *might have* + V3 (*go – went – gone*)."
+  - q: "Employees are not permitted to use company vehicles for private purposes."
+    key: "ALLOWED"
+    stem: "Employees ___ company vehicles for private purposes."
+    answers: ["are not allowed to use", "aren't allowed to use"]
+    explain: "*be permitted to* = *be allowed to*; отрицание — *are not allowed to*."
+  - q: "Unfortunately, the negotiators failed to reach a compromise."
+    key: "MANAGE"
+    stem: "Unfortunately, the negotiators ___ a compromise."
+    answers: ["did not manage to reach", "didn't manage to reach"]
+    explain: "*failed to* = *didn't manage to*. Ключевое слово в форме *manage* требует *did not* перед ним."
+  - q: "She had the talent to become a professional dancer, but she chose law."
+    key: "COULD"
+    stem: "She ___ a professional dancer, but she chose law."
+    answers: ["could have become", "could have been"]
+    explain: "Неиспользованная возможность в прошлом → *could have* + V3."
+  - q: "I'm sure that rumour isn't true."
+    key: "CAN'T"
+    stem: "That rumour ___."
+    answers: ["can't be true", "can't possibly be true"]
+    explain: "Уверенность в обратном → *can't be*. Слово *true* нужно повторить — иначе предложение не закончено."
+  - q: "Since the injury, he has been unable to run more than a few kilometres."
+    key: "BEEN"
+    stem: "Since the injury, he ___ more than a few kilometres."
+    answers: ["has not been able to run", "hasn't been able to run"]
+    explain: "У *can* нет перфекта → *hasn't been able to*. *unable* = *not able*."
+  - q: "Perhaps the manager doesn't know about the complaint yet."
+    key: "MAY"
+    stem: "The manager ___ about the complaint yet."
+    answers: ["may not know", "may not have heard"]
+    explain: "*Perhaps … doesn't* = *may not* — «возможно, нет». Не *can't*: говорящий не уверен."
+  - q: "Why didn't you tell me you were going to be late? I was worried!"
+    key: "TOLD"
+    stem: "You ___ you were going to be late! I was worried!"
+    answers: ["might have told me", "could have told me", "should have told me", "ought to have told me"]
+    explain: "Упрёк за несделанное → *might / could have* + V3 (с раздражением) или *should have* + V3 («надо было»)."
+  - q: "There's a chance they will let us bring our own food to the venue."
+    key: "BE"
+    stem: "We ___ bring our own food to the venue."
+    answers: ["may be allowed to", "might be allowed to", "could be allowed to"]
+    explain: "«Возможно, разрешат» → *may / might be allowed to*: модальный + phrasal modal."

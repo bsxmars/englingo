@@ -1,0 +1,52 @@
+title: "Инверсия или прямой порядок?"
+type: choice
+intro: "Выбери вариант, который грамматически верен и точно передаёт смысл. Будь внимателен: не каждое выражение в начале предложения требует инверсии."
+hints:
+  - "Инверсия нужна после отрицательных и ограничительных слов (never, little, only, not until, under no circumstances)."
+  - "in no time, not long ago, with no… в значении «без» — не отрицают действие, порядок прямой."
+  - "Here / There + местоимение — без инверсии."
+items:
+  - q: "Hardly ___ when the phone rang again."
+    options: ["had I sat down", "did I sit down", "I had sat down"]
+    answer: 0
+    explain: "**Hardly … when** требует Past Perfect с инверсией: *Hardly had I sat down when…* Действие в первой части закончилось чуть раньше."
+  - q: "Most of the novel is instantly forgettable. ___, however, I will never forget."
+    options: ["The final chapter", "Never the final chapter", "What the final chapter is"]
+    answer: 0
+    explain: "**Fronting** дополнения ради контраста: *The final chapter I will never forget.* Порядок остальных слов не меняется."
+  - q: "Little ___ that the deal would collapse within a week."
+    options: ["did they suspect", "they did suspect", "suspected they"]
+    answer: 0
+    explain: "После *Little* в значении «совсем не» — инверсия с *did*: **did they suspect**. Смысловой глагол перед подлежащим без *do* так не ставят."
+  - q: "___ was the demand for tickets that the concert was moved to a larger venue."
+    options: ["Such", "So", "So great"]
+    answer: 0
+    explain: "**Such + be + подлежащее + that**: *Such was the demand…* *So* требует прилагательного после себя: *So great was the demand…* — а здесь его уже нет."
+  - q: "We waited at the stop for nearly an hour, and then, at last, ___!"
+    options: ["here it came", "here came it", "came it here"]
+    answer: 0
+    explain: "После *here / there* инверсия только с существительным (*here came the bus*). С местоимением порядок прямой: **here it came**."
+  - q: "___ did the committee approve the plan, but it also allocated extra funding."
+    options: ["Not only", "Only", "Not until"]
+    answer: 0
+    explain: "Вторая часть с *but … also* требует пары **Not only … but also**. *Only* и *Not until* сюда не подходят по смыслу."
+  - q: "She was already at the airport. ___ did she realise that her passport was still at home."
+    options: ["Only at the check-in desk", "At the check-in desk", "Not at the check-in desk"]
+    answer: 0
+    explain: "Инверсию вызывает **only**: «только у стойки регистрации она поняла». Без *only* обстоятельство места инверсии с *did* не даёт."
+  - q: "This is a fire drill. Under no circumstances ___ the building by the lifts."
+    options: ["should staff leave", "staff should leave", "staff leave"]
+    answer: 0
+    explain: "**Under no circumstances** — отрицательное выражение в начале → инверсия: *should staff leave*."
+  - q: "The kids were starving, but in no time ___ on the table."
+    options: ["dinner was", "was dinner", "did dinner be"]
+    answer: 0
+    explain: "**in no time** = «мигом, очень быстро». Это не отрицание, поэтому инверсии **нет**. Сравни: *At no time was dinner served late* — там отрицание."
+  - q: "Not long ago ___ a similar case in a hospital in Leeds."
+    options: ["there was", "was there", "did there be"]
+    answer: 0
+    explain: "**Not long ago** = «недавно». *Not* относится к *long*, а не к действию, поэтому порядок прямой."
+  - q: "She would accept only the director's post. With no other job ___ happy."
+    options: ["would she be", "she would be", "she will be"]
+    answer: 0
+    explain: "С инверсией *With no other job would she be happy* = «ни на какой другой работе она не будет счастлива». Без инверсии *With no other job, she would be happy* значило бы «без другой работы она была бы счастлива»."

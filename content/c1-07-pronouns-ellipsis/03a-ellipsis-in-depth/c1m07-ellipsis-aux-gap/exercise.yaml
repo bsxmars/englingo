@@ -1,0 +1,44 @@
+title: "Что остаётся после эллипсиса"
+type: gap
+intro: "Впиши то, что должно остаться после эллипсиса: вспомогательный или модальный глагол (иногда с *be* или *have*), *so / neither / nor*. Ориентируйся на время и смысл **второй** части."
+hints:
+  - "Остаётся вспомогательный, нужный по времени второй части, а не первой."
+  - "be после модального не опускается: she will be."
+  - "Согласие с отрицанием — neither / nor + вспомогательный + подлежащее."
+items:
+  - q: "I haven't read the report yet, but I ___ by Monday."
+    answers: ["will", "will have", "will do", "shall"]
+    explain: "Вторая часть — о будущем, поэтому остаётся **will** (или *will have* — «к понедельнику прочту»). *haven't* из первой части здесь не повторяется."
+  - q: "She isn't ready now, but she ___ in ten minutes."
+    answers: ["will be", "should be", "might be", "may be", "could be", "ought to be", "must be"]
+    explain: "После модального *be* не опускается: **will be**. ~~but she will in ten minutes~~ — ошибка."
+  - q: "The windows should have been cleaned yesterday, but they ___ ."
+    answers: ["weren't", "were not", "haven't been", "have not been", "haven't", "have not"]
+    explain: "Модальность ушла, остался факт: **weren't** (вчера не помыли). Остальная часть *cleaned* опускается."
+  - q: "— I've never been to Iceland. — Neither ___ I."
+    answers: ["have"]
+    explain: "Вспомогательный повторяет время реплики: *I've never been* → **Neither have I**."
+  - q: "— I really enjoyed the talk. — So ___ I. It was brilliant."
+    answers: ["did"]
+    explain: "*enjoyed* — Past Simple без вспомогательного, поэтому в ответе появляется **did**: *So did I*."
+  - q: "Mark works much longer hours than his manager ___ ."
+    answers: ["does"]
+    explain: "В первой части вспомогательного нет (Present Simple) → после *than* ставим **does**. Разговорный вариант — просто *than his manager*."
+  - q: "The project cost far more than ___ originally expected. (одно слово, без подлежащего)"
+    answers: ["was"]
+    explain: "Безличное сравнение в формальном стиле: **than was expected** — пассив без подлежащего. ~~than it was expected~~ — лишнее *it*."
+  - q: "— It's freezing in here! — So it ___ . I'll close the window."
+    answers: ["is"]
+    explain: "*So it is* — без инверсии: «и правда». Это подтверждение сказанного, а не «у меня тоже»."
+  - q: "He promised he'd finish the code review by lunch, and he ___ ."
+    answers: ["did", "has"]
+    explain: "Обещание выполнено → **did** (или *has*, если результат важен сейчас). Вся группа *finish the code review* опущена."
+  - q: "I'd help you with the move if I ___ , but I'm flying to Berlin that day."
+    answers: ["could"]
+    explain: "Нереальное условие о возможности → **could**: *if I could [help]*. Глагол после модального опущен."
+  - q: "— Have you sent the invoice? — No, but I ___ have. Sorry!"
+    answers: ["should", "ought to"]
+    explain: "Упрёк себе за прошлое — **should have** (+ опущенное *sent it*). *ought to have* — тот же смысл, чуть формальнее."
+  - q: "He doesn't speak French, and ___ does his sister."
+    answers: ["neither", "nor"]
+    explain: "Согласие с отрицанием внутри предложения: **and neither / nor does** his sister. ~~and so doesn't~~ невозможно."

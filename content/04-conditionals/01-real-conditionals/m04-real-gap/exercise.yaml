@@ -1,0 +1,43 @@
+title: "Zero, first или second?"
+type: gap
+intro: "Поставь глагол в скобках в нужную форму. Подумай, реальное это условие или нереальное. Сокращения (*'ll*, *'d*, *doesn't*) засчитываются."
+hints:
+  - "После if, unless, as long as, in case — никогда не will."
+  - "Нереальное настоящее: if + Past Simple, would + глагол."
+items:
+  - q: "If you heat ice, it ___ (melt)."
+    answers: ["melts"]
+    explain: "Факт, который верен всегда → zero conditional: Present Simple в обеих частях."
+  - q: "If it ___ (rain) tomorrow, we'll stay at home."
+    answers: ["rains"]
+    explain: "Реальное будущее → first conditional. После **if** — Present Simple, не ~~will rain~~."
+  - q: "I ___ (call) you if I hear any news."
+    answers: ["will call"]
+    explain: "Результат реального условия в будущем → **will call** (*I'll call*)."
+  - q: "If I ___ (have) more free time, I would learn to play the piano."
+    answers: ["had"]
+    explain: "Нереальное настоящее (времени нет) → second conditional: if + **Past Simple**."
+  - q: "If I ___ (be) you, I'd accept the offer."
+    answers: ["were", "was"]
+    explain: "Совет через *If I were you* — second conditional. **were** — стандарт для всех лиц, *was* — разговорный вариант."
+  - q: "What ___ (you / do) if you lost your job tomorrow?"
+    answers: ["would you do"]
+    explain: "Воображаемая ситуация → **would** + глагол в результате. Вопрос: *What would you do…?*"
+  - q: "Unless you ___ (leave) now, you'll miss the bus."
+    answers: ["leave"]
+    explain: "*unless* = *if not*. После него — Present Simple, причём **без** второго отрицания."
+  - q: "I'll lend you my car as long as you ___ (drive) carefully."
+    answers: ["drive"]
+    explain: "После **as long as** — Present Simple, как после *if*."
+  - q: "Take some cash in case the card machine ___ (not / work)."
+    answers: ["doesn't work", "isn't working"]
+    explain: "После **in case** — Present Simple (не *won't work*): берём наличные заранее, на всякий случай."
+  - q: "If people ___ (not / use) their cars so much, cities would be much cleaner."
+    answers: ["didn't use", "weren't using"]
+    explain: "Нереальное настоящее → if + **Past Simple**: *didn't use*. В результате — *would be*."
+  - q: "She ___ (not / come) unless you invite her personally."
+    answers: ["won't come", "will not come"]
+    explain: "Главная часть — реальное будущее → **won't come**. Present Simple нужен только в части с *unless* (*unless you invite*)."
+  - q: "If I ___ (live) closer to the office, I could walk to work."
+    answers: ["lived"]
+    explain: "Живу далеко, это нереальная ситуация → if + **Past Simple**. *could* в результате = «мог бы»."

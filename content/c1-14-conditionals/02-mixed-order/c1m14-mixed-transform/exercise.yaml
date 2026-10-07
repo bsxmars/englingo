@@ -1,0 +1,58 @@
+title: "Перефразирование: смешанные условия (C1 Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы смысл совпал с первым. Используй **ключевое слово** без изменений и впиши от **трёх до шести слов** (включая ключевое). Сокращения засчитываются.
+hints:
+  - "Каждая часть — в своём времени: прошлое → Past Perfect, сейчас → would + инфинитив."
+  - "Постоянное качество (stubborn, organised) — Past Simple / were в if-части."
+items:
+  - q: "I'm still living in this tiny flat because I turned down the job in Dubai."
+    key: "TAKEN"
+    stem: "If I ___ in Dubai, I wouldn't still be living in this tiny flat."
+    answers: ["had taken the job", "had taken that job", "had taken the post", "had taken the position"]
+    explain: "Отказ был в прошлом → **had taken**; следствие сейчас → *wouldn't still be living*. Смешанный тип «прошлое → настоящее»."
+  - q: "She isn't very organised, which is why she missed the deadline."
+    key: "MORE"
+    stem: "If she ___, she wouldn't have missed the deadline."
+    answers: ["were more organised", "was more organised", "were more organized", "was more organized", "were better organised", "were better organized"]
+    explain: "Постоянное качество сейчас → **were more organised**; результат в прошлом → *wouldn't have missed*. Смешанный тип «настоящее → прошлое»."
+  - q: "We got lost because we didn't ask anyone for directions."
+    key: "HAD"
+    stem: "If ___ for directions, we wouldn't have got lost."
+    answers: ["we had asked someone", "we had asked anyone", "we had asked somebody", "we had asked anybody", "we'd asked someone", "we'd asked anyone"]
+    explain: "Обычный counterfactual: **had asked** + *wouldn't have got lost*."
+  - q: "He's so stubborn — that's why he still hasn't apologised."
+    key: "SO"
+    stem: "If he ___, he would have apologised by now."
+    answers: ["were not so stubborn", "was not so stubborn", "weren't so stubborn", "wasn't so stubborn"]
+    explain: "Черта характера сейчас → **weren't so stubborn**; *by now* — результат к настоящему моменту → *would have apologised*."
+  - q: "I expect they're home by now if they left at six."
+    key: "WILL"
+    stem: "If they left at six, they ___ by now."
+    answers: ["will have got home", "will have arrived home", "will have gotten home", "will have reached home", "will be home", "will already be home", "will have got back", "will have arrived"]
+    explain: "Уверенное предположение о прошлом → **will have got home** (или *will be home*). Смешанное реальное: Past в if-части, *will have* в главной."
+  - q: "You didn't warn us about the storm, so we're soaked now."
+    key: "WARNED"
+    stem: "If you ___ the storm, we wouldn't be soaked now."
+    answers: ["had warned us about", "'d warned us about"]
+    explain: "Причина в прошлом → **had warned us about**; следствие сейчас → *wouldn't be soaked*."
+  - q: "I'd prefer to stay here, if that's all right with you."
+    key: "RATHER"
+    stem: "If it's all right with you, ___ here."
+    answers: ["I would rather stay", "I'd rather stay"]
+    explain: "Предпочтение в реальном условии → **I'd rather** + инфинитив без *to*."
+  - q: "My grandparents met at a dance in 1962; otherwise I wouldn't be here."
+    key: "MET"
+    stem: "If my grandparents ___ dance in 1962, I wouldn't be here."
+    answers: ["had not met at a", "hadn't met at a"]
+    explain: "Событие в прошлом → **hadn't met**; следствие сейчас → *wouldn't be here*."
+  - q: "Because I'm not a doctor, I couldn't help the man who collapsed."
+    key: "BEEN"
+    stem: "If I were a doctor, I ___ the man who collapsed."
+    answers: ["would have been able to help", "might have been able to help", "could have been able to help"]
+    explain: "Постоянное состояние (*were a doctor*) → прошлый результат: **would have been able to help**. Ключ *BEEN* требует *be able to*, а не *could have helped*."
+  - q: "Kate didn't get the promotion because her German isn't fluent."
+    key: "SPOKE"
+    stem: "If Kate ___, she would have got the promotion."
+    answers: ["spoke fluent German", "spoke German fluently", "spoke better German", "spoke German better", "spoke German more fluently"]
+    explain: "Постоянное умение сейчас → Past Simple **spoke fluent German**; результат в прошлом → *would have got*."

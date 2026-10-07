@@ -1,0 +1,63 @@
+title: "Трансформации: whether, wh- + инфинитив, what (C1 Advanced, Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово** без изменений и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "what I should do → what to do; should I … or not → whether to …"
+  - "about whether → as to whether; The little money we had → What little money we had."
+items:
+  - q: "I don't know what I should say to her."
+    key: "IDEA"
+    stem: "I have ___ say to her."
+    answers: ["no idea what to"]
+    explain: "*no idea* + **what to** + глагол: «понятия не имею, что ей сказать». Инфинитив заменяет *what I should say*."
+  - q: "Should we accept the offer or not? We can't decide."
+    key: "WHETHER"
+    stem: "We can't decide ___ the offer."
+    answers: ["whether to accept", "whether or not to accept", "whether we should accept", "whether to take", "whether or not to take", "whether we should take"]
+    explain: "Перед инфинитивом — только **whether**: *whether (or not) to accept*. ~~if to accept~~ невозможно."
+  - q: "The success of the launch depends on the weather."
+    key: "WHETHER"
+    stem: "___ a success depends on the weather."
+    answers: ["Whether the launch is", "Whether or not the launch is", "Whether the launch will be", "Whether or not the launch will be"]
+    explain: "Придаточное-подлежащее в начале — только с **Whether**: *Whether the launch is a success depends on…*"
+  - q: "Nobody has explained to us what we are supposed to do next."
+    key: "TOLD"
+    stem: "We haven't been ___ next."
+    answers: ["told what to do", "told what we should do"]
+    explain: "Пассив *be told* + **what to do**: исполнитель инфинитива — тот, кому сказали (мы)."
+  - q: "The little money we had was spent on rent."
+    key: "WHAT"
+    stem: "___ was spent on rent."
+    answers: ["What little money we had"]
+    explain: "**What little + существительное** — книжное «те немногие деньги, что». Слово *the* при этом уходит."
+  - q: "He had very few friends, but all of them stood by him."
+    key: "WHAT"
+    stem: "___ he had stood by him."
+    answers: ["What few friends"]
+    explain: "**What few friends he had** — «те немногие друзья, что у него были»; глагол во мн. ч. — *stood*."
+  - q: "The report doesn't say anything about whether staff should be paid overtime."
+    key: "AS"
+    stem: "The report says nothing ___ staff should be paid overtime."
+    answers: ["as to whether"]
+    explain: "**as to whether** — формальная замена *about whether*, типична для отчётов."
+  - q: "Should I phone her or write to her? I'm not sure."
+    key: "WHETHER"
+    stem: "I'm not sure ___ or write to her."
+    answers: ["whether to phone her", "whether I should phone her", "whether to call her", "whether I should call her"]
+    explain: "Неуверенность в выборе → **whether to** + глагол; *or write* продолжает ту же инфинитивную конструкцию."
+  - q: "Nobody knows yet whether the scheme will be extended."
+    key: "REMAINS"
+    stem: "___ seen whether the scheme will be extended."
+    answers: ["It remains to be"]
+    explain: "**It remains to be seen whether…** — «пока неизвестно, …». Формальная заготовка для эссе."
+  - q: "I wonder what the real problem is."
+    key: "KNOW"
+    stem: "I'd like ___ real problem is."
+    answers: ["to know what the"]
+    explain: "Косвенный вопрос сохраняет **прямой порядок**: *what the real problem is*, не ~~what is the real problem~~."
+  - q: "She asked me which train she should catch."
+    key: "TO"
+    stem: "She asked me ___ catch."
+    answers: ["which train to"]
+    explain: "**which + существительное + to**: *which train to catch*. После *ask* исполнитель инфинитива — тот, кто спрашивает (она)."

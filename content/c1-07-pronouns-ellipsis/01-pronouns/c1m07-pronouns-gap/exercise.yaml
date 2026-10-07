@@ -1,0 +1,44 @@
+title: "Местоимения в связном тексте"
+type: gap
+intro: "Впиши местоимение или неопределённое слово (иногда сочетание вроде *each other*, *of hers*, *by himself*), которое подходит по смыслу и регистру."
+hints:
+  - "Если в предложении уже есть a / this / that перед существительным, принадлежность — через of mine / of hers."
+  - "Действие направлено друг на друга — each other / one another; на себя — themselves."
+  - "Лицо неизвестного пола — they / them / their."
+items:
+  - q: "Every applicant will be informed of the outcome as soon as ___ interview has been assessed."
+    answers: ["their", "his or her", "her or his"]
+    explain: "*Every applicant* — пол неизвестен, поэтому singular **their**. *his or her* тоже возможно, но это два слова и тяжеловесно."
+  - q: "That neighbour ___ has complained about our dog again — she really needs a hobby."
+    answers: ["of mine", "of yours", "of ours", "of theirs", "of his", "of hers"]
+    explain: "*that* + существительное + **of yours / of ours…** часто выражает раздражение. Подходит любая форма, которая подходит по контексту, — главное, что после *that neighbour* нужен *of* + possessive pronoun."
+  - q: "The negotiators had spent so long arguing that by the end they could hardly bear to look at ___."
+    answers: ["each other", "one another"]
+    explain: "Смотреть друг на друга — **each other** или **one another**, разницы в значении нет."
+  - q: "Nobody likes to admit that ___ have been wrong for years."
+    answers: ["they"]
+    explain: "После *nobody* глагол в единственном числе (*likes*), а местоимение — **they**: *Nobody likes to admit that they have been wrong.*"
+  - q: "If you're going hiking in the hills, take a map and a whistle with ___."
+    answers: ["you"]
+    explain: "После *take / bring … with* — обычное местоимение: *take it **with you***. ~~with yourself~~ — ошибка."
+  - q: "The CEO ___ phoned to apologise, which shows how seriously they took the complaint."
+    answers: ["herself", "himself", "themselves"]
+    explain: "Эмфатическое reflexive сразу после существительного = «лично, сам»: *The CEO **herself / himself** phoned.* Пол не указан, поэтому подходят оба; *themselves* для одного человека тоже встречается."
+  - q: "The two sisters often wore ___ clothes, so nobody could ever tell whose jumper was whose."
+    answers: ["each other's", "one another's"]
+    explain: "Reciprocal местоимение имеет притяжательную форму: **each other's** / **one another's** clothes."
+  - q: "Our main concern is ___: the funding runs out in March, and nobody has a plan B."
+    answers: ["this"]
+    explain: "Местоимение вводит мысль, которая идёт следом (после двоеточия), — **this**. *it* или *that* так не работают."
+  - q: "I'm not sure who sent the anonymous note, but whoever it was clearly knew what ___ were doing."
+    answers: ["they"]
+    explain: "*whoever* — человек неизвестного пола → **they** (с глаголом во множественном числе: *they were doing*)."
+  - q: "She's lived ___ since her husband died, but she insists she's never lonely."
+    answers: ["by herself", "on her own", "alone", "all by herself", "all alone", "all on her own"]
+    explain: "«Одна, без других» — **by herself** (или *on her own*, *alone*). Просто *herself* без *by* здесь невозможно."
+  - q: "I've searched every drawer in the house, but I can't find my passport ___."
+    answers: ["anywhere"]
+    explain: "Отрицание → **anywhere** («нигде»). *somewhere* в отрицании не используют, а *nowhere* дало бы двойное отрицание с *can't*."
+  - q: "After the scandal, many voters felt they could no longer trust politicians — and who could blame ___?"
+    answers: ["them"]
+    explain: "После глагола (*blame*) — объектная форма **them** = «избирателей». *themselves* означало бы, что избиратели винят себя."

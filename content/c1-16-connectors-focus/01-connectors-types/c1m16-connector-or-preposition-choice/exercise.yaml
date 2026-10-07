@@ -1,0 +1,56 @@
+title: "Связка, предлог или союз?"
+type: choice
+intro: "Выбери единственный вариант, который грамматически подходит к пропуску. Смотри, что стоит после пропуска: полное предложение, существительное или ничего."
+hints:
+  - "Существительное или -ing после пропуска → предлог (despite, as a result of, in addition to, instead of)."
+  - "Подлежащее + сказуемое внутри одного предложения → союз (although, whereas, even though)."
+  - "Новое предложение после точки или точки с запятой → connector (however, nevertheless, as a result)."
+items:
+  - q: "___ its modest budget, the film became the most profitable release of the year."
+    options: ["Although", "Nevertheless", "In spite of", "Even so"]
+    answer: 2
+    explain: "После пропуска — словосочетание *its modest budget*, поэтому нужен предлог **In spite of**. *Although* требует придаточного с глаголом, *nevertheless* и *even so* связывают целые предложения."
+  - q: "The museum is free to enter. ___, visitors are encouraged to make a donation."
+    options: ["Although", "However", "Despite", "Whereas"]
+    answer: 1
+    explain: "Новое предложение после точки, за пропуском — запятая и полное предложение → connector **However**. *Although* и *whereas* — союзы, *despite* — предлог."
+  - q: "___ the region's economy has grown, unemployment remains stubbornly high."
+    options: ["Despite", "However", "Even though", "In spite of"]
+    answer: 2
+    explain: "После пропуска — подлежащее и сказуемое (*the region's economy has grown*), и всё это одно предложение → союз **Even though**."
+  - q: "Several key witnesses refused to testify. ___ this, the case collapsed within a week."
+    options: ["As a result", "As a result of", "Consequently", "Therefore"]
+    answer: 1
+    explain: "После пропуска — местоимение *this*, то есть дополнение. Нужен предлог **As a result of**. *As a result this* или *Consequently this* грамматически невозможны."
+  - q: "The company plans to open three new branches. ___, it intends to double its online sales."
+    options: ["In addition to", "Too", "In addition", "As well"]
+    answer: 2
+    explain: "Перед пропуском точка, после — запятая и полное предложение → connector **In addition**. *In addition to* требует существительного или *-ing*, а *too* и *as well* в начало предложения не ставят."
+  - q: "She was offered a partnership at the firm but turned it down. She set up her own consultancy ___."
+    options: ["instead", "instead of", "in place of", "rather"]
+    answer: 0
+    explain: "Пропуск в конце, дополнения после него нет → connector **instead**. *instead of* и *in place of* требуют существительного."
+  - q: "Northern regions saw record rainfall, ___ the south endured its driest summer on record."
+    options: ["however", "whereas", "in contrast to", "on the other hand"]
+    answer: 1
+    explain: "Две части соединены запятой в одно предложение → нужен союз **whereas**. *however* и *on the other hand* после запятой дали бы comma splice, *in contrast to* требует существительного."
+  - q: "We had been warned about the traffic. We ___ arrived an hour late."
+    options: ["although", "nevertheless", "despite", "even though"]
+    answer: 1
+    explain: "Связка в **середине** предложения, перед смысловым глаголом: *We **nevertheless** arrived…* Союзы и предлоги в этой позиции невозможны."
+  - q: "The rescue team were stranded on the ridge for two days, but ___ managed to reach the summit."
+    options: ["nevertheless they", "although they", "despite they", "however that they"]
+    answer: 0
+    explain: "Союз *but* можно усилить связкой: **but nevertheless**. Порядок фиксирован: сначала союз, потом связка. *but although they* и *but despite they* грамматически невозможны."
+  - q: "The first-quarter figures were disappointing. They did not, ___, affect the share price."
+    options: ["although", "despite", "however", "whereas"]
+    answer: 2
+    explain: "Связка в середине предложения, выделенная запятыми: *They did not, **however**, affect…* Это типичный письменный приём. Союзы и предлоги так не ставятся."
+  - q: "___ dealing with customer complaints, the new manager is responsible for staff training."
+    options: ["In addition", "Moreover", "As well", "In addition to"]
+    answer: 3
+    explain: "После пропуска — *-ing* (*dealing*), значит нужен предлог **In addition to**. После *in addition to* герундий, а не инфинитив."
+  - q: "I'd love to join you for dinner. I've got an early start tomorrow, ___."
+    options: ["though", "although", "despite", "even though"]
+    answer: 0
+    explain: "**though** в конце предложения — разговорная связка со значением «однако». *Although* и *even though* в конце стоять не могут, *despite* требует дополнения."

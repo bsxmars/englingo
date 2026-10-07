@@ -1,0 +1,44 @@
+title: "Найди тонкую ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: лишнее или пропущенное *to*, неверное «подлежащее» герундия или инфинитива, не та форма после *why not, rather than, only*. Исправь и отправь предложение целиком."
+hints:
+  - "Пассив make / see / hear → was made to, was seen to."
+  - "let в пассиве не бывает → be allowed to."
+  - "would like / want + объект + to do, без for."
+items:
+  - q: "The staff were made sign a confidentiality agreement."
+    answers: ["The staff were made to sign a confidentiality agreement."]
+    explain: "В пассиве *make* требует *to*: **were made to sign**."
+  - q: "The prisoners were let to make one phone call each."
+    answers: ["The prisoners were allowed to make one phone call each.", "The prisoners were permitted to make one phone call each."]
+    explain: "*let* не употребляется в пассиве с инфинитивом → **were allowed to make**."
+  - q: "The manager let us to leave early on Friday."
+    answers: ["The manager let us leave early on Friday."]
+    explain: "Актив **let** + объект + голый инфинитив: *let us leave*."
+  - q: "Why not to ask the landlord to fix it himself?"
+    answers: ["Why not ask the landlord to fix it himself?"]
+    explain: "**Why not** + голый инфинитив, без *to*."
+  - q: "I didn't really want to give a talk at the conference, but my boss told me."
+    answers: ["I didn't really want to give a talk at the conference, but my boss told me to."]
+    explain: "*tell sb* в значении «велеть» требует инфинитива; чтобы не повторять глагол, оставляем одно **to**: *my boss told me to*."
+  - q: "He's not very fit these days, but he used to."
+    answers: ["He's not very fit these days, but he used to be.", "He is not very fit these days, but he used to be."]
+    explain: "Глагол **be** при сокращении не опускается: *he used to be*."
+  - q: "It is essential every applicant to provide two references."
+    answers: ["It is essential for every applicant to provide two references.", "It is essential that every applicant provide two references.", "It is essential that every applicant provides two references.", "It is essential that every applicant should provide two references."]
+    explain: "Исполнитель инфинитива после *it is + adj* вводится через **for**: *for every applicant to provide*. Альтернатива — *that*-придаточное."
+  - q: "I want for you to tell me exactly what happened."
+    answers: ["I want you to tell me exactly what happened."]
+    explain: "*want* берёт объект напрямую: **want you to tell**. *want for you to* — разговорный американизм, в нормативном тексте ошибка."
+  - q: "She left the party without anyone's noticing."
+    answers: ["She left the party without anyone noticing."]
+    explain: "С *anyone, someone, this, that* притяжательная форма перед герундием не употребляется: **without anyone noticing**."
+  - q: "Him being promoted so quickly surprised everyone in the department."
+    answers: ["His being promoted so quickly surprised everyone in the department.", "The fact that he was promoted so quickly surprised everyone in the department."]
+    explain: "Когда герундий — подлежащее в начале предложения, в письменной речи нужна притяжательная форма: **His being promoted**."
+  - q: "We set off at dawn so as to not get stuck in traffic."
+    answers: ["We set off at dawn so as not to get stuck in traffic.", "We set off at dawn in order not to get stuck in traffic."]
+    explain: "В *so as to / in order to* отрицание стоит перед *to*: **so as not to**."
+  - q: "I'm waiting the final figures to come in before I make a decision."
+    answers: ["I'm waiting for the final figures to come in before I make a decision.", "I am waiting for the final figures to come in before I make a decision."]
+    explain: "*wait* соединяется с исполнителем через **for**: *wait for the figures to come in*. Предлог глагола сохраняется перед конструкцией sb + to do."

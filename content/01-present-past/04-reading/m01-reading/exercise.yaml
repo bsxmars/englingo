@@ -1,0 +1,74 @@
+title: "From spreadsheets to sawdust"
+type: reading
+intro: "Прочитай интервью и ответь на вопросы. В вопросах с выбором выбери один вариант; в вопросах с полем впиши слово из текста."
+hints:
+  - "Вопросы идут по порядку текста."
+  - "Неверные варианты часто повторяют слова из текста, но меняют смысл."
+text: |
+  ## From spreadsheets to sawdust
+
+  *Martin Hale spent eighteen years as an accountant. At forty, he quit his job to become a furniture maker. We talked to him in his workshop in Leeds.*
+
+  **You've been making furniture for six years now. Do you ever miss accounting?**
+
+  Honestly? Not for a second. I used to sit in front of spreadsheets for ten hours a day. I was good at it, and it was a steady job, but I'd stopped enjoying it long before I left. Every Sunday evening I'd get this heavy feeling in my stomach, thinking about Monday.
+
+  **So what made you finally take the plunge?**
+
+  It wasn't one big decision, really. A friend had asked me to help him build some shelves, and I was surprised by how much I loved it. I had never held a chisel before that weekend. For the next few months I spent every free evening in his garage, and by the summer I had made my first table. It was a bit uneven, but my daughter still uses it as a desk.
+
+  Then, one morning, I was sitting in yet another budget meeting when I realised I hadn't been listening for twenty minutes. I'd been thinking about wood joints. That evening I told my wife I wanted to quit.
+
+  **How did she react?**
+
+  Better than I expected! She'd known for a while that I was unhappy. Of course, we were both worried about money. I took a big pay cut — in the first year I earned about a third of my old salary — and we've had to change the way we live. We don't go on expensive holidays any more, but we've never been happier.
+
+  **How did you learn the trade?**
+
+  I became an apprentice to an older carpenter called George, who had been running his workshop for over thirty years. Being a forty-year-old apprentice was strange. I was used to being the expert in the room, and suddenly I was the one asking silly questions. It took me a long time to get used to that. George would watch me silently for ten minutes and then say, "Again." He was right every time.
+
+  **Did you ever have second thoughts?**
+
+  Lots of times, especially in the first year. I cut my hand badly once and couldn't work for three weeks. I remember sitting at home and thinking, "What have I done?" But I've never seriously considered going back.
+
+  **And now?**
+
+  I've had my own workshop for three years. I've made over two hundred pieces, mostly tables and chairs, and I've just finished my biggest commission so far — a set of bookcases for a local library. I've been working on it since February, so I'm relieved it's done. I'm not getting rich, but I make a living, and I go home every evening covered in sawdust and smiling.
+
+  **What advice would you give to someone who's thinking of changing careers?**
+
+  Try it before you jump. I didn't quit the day I fell in love with woodwork — I'd been practising for almost two years by then. And don't listen to people who say forty is too late. I've met carpenters who started at sixty.
+items:
+  - q: "What does Martin say about his time as an accountant?"
+    options: ["He was never very good at his job.", "He had lost interest in the work long before he left.", "He hated the job from his very first day."]
+    answer: 1
+    explain: "*I was good at it… but **I'd stopped enjoying it long before I left*** — Past Perfect показывает, что интерес пропал раньше ухода."
+  - q: "How did Martin first discover woodwork?"
+    options: ["He took an evening course at a local college.", "He helped a friend with a small building job.", "His daughter asked him to make her a desk."]
+    answer: 1
+    explain: "*A friend **had asked** me to help him build some shelves.* Стол для дочери появился позже, а курсов в тексте нет."
+  - q: "What happened during the budget meeting?"
+    options: ["Martin noticed that his mind had been on something else.", "Martin argued with his manager about money.", "Martin was told that he was losing his job."]
+    answer: 0
+    explain: "*I realised I **hadn't been listening** for twenty minutes. I'd been thinking about wood joints.* — он думал о другом."
+  - q: "How did Martin's wife react to his decision?"
+    options: ["She was shocked because she had no idea he was unhappy.", "She was not surprised, as she had been aware of his feelings.", "She refused to accept a lower family income."]
+    answer: 1
+    explain: "*She'd known for a while that I was unhappy.* — она уже знала. Беспокоились о деньгах оба, но решение она приняла."
+  - q: "What does Martin say about being an apprentice at forty?"
+    options: ["It was hard to stop being the person who knows best.", "George treated him as an equal from the start.", "He learnt quickly thanks to his experience in business."]
+    answer: 0
+    explain: "*I was used to being the expert in the room… It took me a long time to get used to that.* — **be used to** и **get used to** в действии."
+  - q: "What is Martin's main advice to people who want to change careers?"
+    options: ["Leave your job as soon as you find something you love.", "Get some experience in the new field before you quit.", "Only change careers if you are under forty."]
+    answer: 1
+    explain: "*Try it before you jump… I'd been practising for almost two years by then.* Про возраст он говорит обратное: сорок — не поздно."
+  - q: "Find a word in the text for a person who learns a trade by working for an experienced worker."
+    answers: ["apprentice", "an apprentice"]
+    explain: "**apprentice** — ученик мастера, подмастерье: *I became an apprentice to an older carpenter.*"
+  - q: "Complete the phrase from the text: I took a big ___ — in the first year I earned about a third of my old salary."
+    answers: ["pay cut"]
+    explain: "**a pay cut** — снижение зарплаты; *take a pay cut* — согласиться на меньшую зарплату."
+  - q: "Complete the question from the interview, which means «решиться на рискованный шаг»: So what made you finally take the ___ ?"
+    answers: ["plunge"]
+    explain: "**take the plunge** — решиться на что-то рискованное, «прыгнуть в воду»."

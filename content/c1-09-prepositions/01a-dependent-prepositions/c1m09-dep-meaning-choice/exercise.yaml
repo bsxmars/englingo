@@ -1,0 +1,56 @@
+title: "Предлог меняет смысл"
+type: choice
+intro: "Все варианты существуют в английском, но по смыслу подходит **один**. Выбери его."
+hints:
+  - "concerned about — обеспокоен; concerned with — занимается, посвящён."
+  - "result in — к следствию; result from — от причины."
+  - "agree with sb / agree to a proposal / agree on a point."
+items:
+  - q: "Parents are increasingly ___ the amount of time their children spend online."
+    options: ["concerned about", "concerned with", "concerned in"]
+    answer: 0
+    explain: "Родители **обеспокоены** → *concerned about*. *concerned with* — «имеет отношение, занимается»: *a book concerned with history*."
+  - q: "This chapter is ___ the economic causes of the war rather than its military history."
+    options: ["concerned about", "concerned with", "concerned for"]
+    answer: 1
+    explain: "Глава **посвящена** причинам → *concerned with*. Глава не может волноваться, поэтому *about / for* не подходят."
+  - q: "Years of underinvestment have ___ a serious shortage of nurses."
+    options: ["resulted from", "resulted in", "resulted to"]
+    answer: 1
+    explain: "Причина → следствие: недоинвестирование **привело к** нехватке → *result in*. *result from* разворачивает связь: *The shortage resulted from underinvestment.*"
+  - q: "After hours of negotiation, the two sides finally ___ a timetable for the withdrawal."
+    options: ["agreed with", "agreed on", "agreed to"]
+    answer: 1
+    explain: "Договориться **о** конкретном пункте, который обе стороны вырабатывают вместе → *agree on*. *agree to* — принять чужое предложение, *agree with* — разделять мнение."
+  - q: "The landlord eventually ___ our request to keep a cat in the flat."
+    options: ["agreed with", "agreed on", "agreed to"]
+    answer: 2
+    explain: "Дать согласие на чужую просьбу → **agree to** a request / proposal / terms."
+  - q: "The chief executive is ultimately ___ the shareholders, not to the staff."
+    options: ["responsible for", "responsible to", "responsible with"]
+    answer: 1
+    explain: "Подотчётен **кому-то** → *responsible to*. *responsible for* — отвечать **за что-то**: *responsible for the budget*. Подсказка — параллельное *not to the staff*."
+  - q: "She has always been very good ___ young children — they adore her."
+    options: ["at", "with", "for"]
+    answer: 1
+    explain: "**good with** people — умеет обращаться, ладит. *good at* — про навык (*good at chess*), *good for* — полезный (*Exercise is good for you*)."
+  - q: "Since his stroke, his daughter has ___ him at home."
+    options: ["cared about", "cared for", "cared of"]
+    answer: 1
+    explain: "**care for** sb — ухаживать. *care about* — быть небезразличным: *He cares about his reputation.*"
+  - q: "Formal: 'The originality of the design ___ its use of entirely recycled materials.'"
+    options: ["consists of", "consists in", "consists from"]
+    answer: 1
+    explain: "**consist in** (формально) — «заключаться в». *consist of* — «состоять из» частей: *The kit consists of three parts.*"
+  - q: "Many villagers felt that the plans were ___ the character of the area."
+    options: ["at odds with", "in line with", "in favour of"]
+    answer: 0
+    explain: "Планы **противоречили** характеру местности → *at odds with*. *in line with* — наоборот, «в соответствии», *in favour of* — «за»; оба противоречат смыслу *felt* (недовольство)."
+  - q: "I'm writing ___ the residents' association to object to the proposed car park."
+    options: ["in behalf of", "on behalf of", "on the behalf of"]
+    answer: 1
+    explain: "Устойчивое **on behalf of** — от имени. Внутри составного предлога ничего не меняется: ни ~~in~~, ни лишнего артикля."
+  - q: "When the parents went abroad, the twins were left ___ their grandmother."
+    options: ["in charge of", "in the charge of", "in charge with"]
+    answer: 1
+    explain: "**in the charge of** sb — под присмотром кого-то. Без артикля смысл обратный: *She was in charge of the twins* — она за них отвечала."

@@ -1,0 +1,40 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка в пассиве. Исправь её и отправь предложение целиком."
+hints:
+  - "Проверь три вещи: есть ли be (или get), стоит ли третья форма, не потерян ли предлог."
+  - "Помни глаголы без пассива: happen, arrive, die, disappear, consist of."
+items:
+  - q: "The museum built in the nineteenth century."
+    answers: ["The museum was built in the nineteenth century."]
+    explain: "Без *be* нет пассива: музей не строил сам, его **was built**."
+  - q: "To me was given the wrong key."
+    answers: ["I was given the wrong key.", "The wrong key was given to me.", "They gave me the wrong key."]
+    explain: "В английском получатель становится подлежащим: *I was given…* Либо подлежащее — вещь, а человек с *to*: *The wrong key was given to me*."
+  - q: "I was explained what to do on my first day."
+    answers: ["It was explained to me what to do on my first day.", "I was told what to do on my first day.", "I was shown what to do on my first day.", "It was explained to me on my first day what to do.", "What to do was explained to me on my first day."]
+    explain: "*explain* не ставит человека в подлежащее. Либо *It was explained to me…*, либо глагол с двумя дополнениями: *I was told / shown what to do*."
+  - q: "The accident was happened late at night."
+    answers: ["The accident happened late at night."]
+    explain: "*happen* не бывает в пассиве: **happened**."
+  - q: "Our dog is looked by the neighbours when we travel."
+    answers: ["Our dog is looked after by the neighbours when we travel."]
+    explain: "Глагол — *look after*, и предлог остаётся в пассиве: *is looked **after** by the neighbours*."
+  - q: "She doesn't like being tell what to do."
+    answers: ["She doesn't like being told what to do.", "She doesn't like to be told what to do."]
+    explain: "В пассиве после *being* — третья форма: *being **told*** (*tell – told – told*)."
+  - q: "The new stadium will built by 2028."
+    answers: ["The new stadium will be built by 2028.", "The new stadium will have been built by 2028."]
+    explain: "После *will* в пассиве нужно **be**: *will be built*. Здесь *by 2028* — не исполнитель, а срок («к 2028 году»)."
+  - q: "My wallet got stole on the train yesterday."
+    answers: ["My wallet got stolen on the train yesterday.", "My wallet was stolen on the train yesterday."]
+    explain: "После *get* (как и после *be*) — третья форма: *got **stolen*** (*steal – stole – stolen*)."
+  - q: "Has the parcel sent yet?"
+    answers: ["Has the parcel been sent yet?"]
+    explain: "Посылку отправляют → Present Perfect пассив: *has* + **been** + V3. Без *been* выходит «посылка сама отправила»."
+  - q: "The house is painting this week, so we're staying with friends."
+    answers: ["The house is being painted this week, so we're staying with friends."]
+    explain: "Дом красят → Present Continuous пассив: *is **being painted***. *is painting* значит «дом сам красит»."
+  - q: "I hope to be invite to the final interview."
+    answers: ["I hope to be invited to the final interview."]
+    explain: "Пассивный инфинитив = *to be* + **V3**: *to be invited*."

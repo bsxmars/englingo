@@ -1,0 +1,37 @@
+title: "Собери предложение"
+type: order
+intro: "Собери английское предложение из слов. Русский вариант дан для смысла — не переводи его порядок дословно."
+hints:
+  - "Наречие частоты: после be, перед смысловым глаголом, после первого вспомогательного."
+  - "Как? → Где? → Когда?, а время можно вынести в начало."
+items:
+  - q: "«Она всегда пьёт кофе по утрам»."
+    answers: ["She always drinks coffee in the morning.", "In the morning she always drinks coffee."]
+    explain: "**always** — перед смысловым глаголом *drinks*. Время — в конце или в начале."
+  - q: "«Я никогда не был в Австралии»."
+    answers: ["I have never been to Australia."]
+    explain: "**never** — между вспомогательным *have* и причастием *been*."
+  - q: "«Он очень хорошо говорит по-английски»."
+    answers: ["He speaks English very well."]
+    explain: "Глагол и дополнение не разделяем: *speaks English*, а наречие **very well** — после дополнения."
+  - q: "«По воскресеньям они обычно дома»."
+    answers: ["They are usually at home on Sundays.", "On Sundays they are usually at home.", "Usually they are at home on Sundays."]
+    explain: "С глаголом **be** наречие частоты стоит после него: *are usually*. *usually* можно вынести и в начало."
+  - q: "«Мы до сих пор не нашли квартиру»."
+    answers: ["We still haven't found a flat."]
+    explain: "В отрицании **still** стоит **перед** вспомогательным глаголом: *still haven't*."
+  - q: "«Твой сын уже достаточно взрослый, чтобы водить?»"
+    answers: ["Is your son old enough to drive?"]
+    explain: "**enough** — после прилагательного: *old enough*. В вопросе *is* — перед подлежащим."
+  - q: "«Она купила красивый старый деревянный стол»."
+    answers: ["She bought a beautiful old wooden table."]
+    explain: "Мнение → возраст → материал: *beautiful old wooden*."
+  - q: "«Вчера я много работал в офисе»."
+    answers: ["I worked hard at the office yesterday.", "Yesterday I worked hard at the office."]
+    explain: "Как (*hard*) → где (*at the office*) → когда (*yesterday*). Время можно вынести в начало."
+  - q: "«Ты уже закончил свой отчёт?»"
+    answers: ["Have you finished your report yet?"]
+    explain: "**yet** в вопросе — в самом конце: *…your report yet?*"
+  - q: "«Он даже не попрощался с нами»."
+    answers: ["He didn't even say goodbye to us."]
+    explain: "**even** — после вспомогательного *didn't*, перед смысловым глаголом."

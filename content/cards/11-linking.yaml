@@ -1,0 +1,164 @@
+- id: m11-despite-although
+  lesson: 11-linking/01-contrast
+  q: "Что идёт после **although**, а что после **despite**?"
+  a: "**although** + подлежащее и глагол (*although it rained*); **despite** + существительное / *-ing* / *the fact that* (*despite the rain*)."
+- id: m11-despite-of
+  lesson: 11-linking/01-contrast
+  q: "Найди ошибку: *Despite of the traffic, we were on time.*"
+  a: "*Despite the traffic…* — **despite** без *of*; с *of* — только **in spite of**."
+- id: m11-although-but
+  lesson: 11-linking/01-contrast
+  q: "Найди ошибку: *Although he was tired, but he kept working.*"
+  a: "Одна связка: *Although he was tired, he kept working.* или *He was tired, but he kept working.*"
+- id: m11-however-punct
+  lesson: 11-linking/01-contrast
+  q: "Как правильно поставить **however** между двумя мыслями?"
+  a: "После точки или точки с запятой, с запятой после: *It was late. However, we stayed.* Через запятую — только **but**."
+- id: m11-though-end
+  lesson: 11-linking/01-contrast
+  q: "Какая связка может стоять в конце предложения: *The food was great, ___.*"
+  a: "**though** — «впрочем, зато». *although* в конце не ставится."
+- id: m11-whereas
+  lesson: 11-linking/01-contrast
+  q: "Переведи: «Я люблю чай, а моя жена — кофе»."
+  a: "*I love tea, **whereas** my wife prefers coffee.* — **whereas / while** для сравнения двух фактов."
+- id: m11-despite-ing
+  lesson: 11-linking/01-contrast
+  q: "Перефразируй с **despite**: *Although she was ill, she went to work.*"
+  a: "*Despite **being** ill, she went to work.* (или *Despite her illness…*)"
+- id: m11-because-of
+  lesson: 11-linking/02-reason-result-purpose
+  q: "**because** или **because of**: *The game was cancelled ___ the rain.*"
+  a: "**because of** + существительное. *because* + предложение: *because it rained*."
+- id: m11-due-to
+  lesson: 11-linking/02-reason-result-purpose
+  q: "Переведи формально: «Музей закрыт из-за ремонта»."
+  a: "*The museum is closed **due to / owing to** repairs.*"
+- id: m11-so-that
+  lesson: 11-linking/02-reason-result-purpose
+  q: "Чем отличаются **in order to** и **so that**?"
+  a: "**in order to** + глагол (*in order to save money*); **so that** + подлежащее + can/could/would (*so that I can save money*)."
+- id: m11-for-to
+  lesson: 11-linking/02-reason-result-purpose
+  q: "Найди ошибку: *I came here for learn English.*"
+  a: "*I came here **to learn** English.* — цель действия = инфинитив. *for + -ing* — назначение предмета."
+- id: m11-so-as-not
+  lesson: 11-linking/02-reason-result-purpose
+  q: "Переведи: «Я поставил два будильника, чтобы не проспать»."
+  a: "*I set two alarms **so as not to** oversleep.* (или *so that I wouldn't oversleep*)"
+- id: m11-so-such
+  lesson: 11-linking/02-reason-result-purpose
+  q: "**so** или **such**: *It was ___ a long day that I went to bed at nine.*"
+  a: "**such a** + прилагательное + существительное; **so** + прилагательное без существительного (*so long*)."
+- id: m11-as-a-result-of
+  lesson: 11-linking/02-reason-result-purpose
+  q: "**as a result** или **as a result of**?"
+  a: "**as a result, …** — следствие, начинает предложение; **as a result of** + существительное — причина."
+- id: m11-what-i-need
+  lesson: 11-linking/03-emphasis
+  q: "Выдели главное: *I need a holiday.*"
+  a: "*What I need **is** a holiday.* — cleft sentence, глагол *is*."
+- id: m11-it-was-who
+  lesson: 11-linking/03-emphasis
+  q: "Переведи с акцентом: «Это **Анна** нашла ошибку»."
+  a: "*It was Anna who found the mistake.*"
+- id: m11-never-have-i
+  lesson: 11-linking/03-emphasis
+  q: "Найди ошибку: *Never I have seen such a mess.*"
+  a: "*Never **have I** seen such a mess.* — после *Never* в начале инверсия."
+- id: m11-hardly-no-sooner
+  lesson: 11-linking/03-emphasis
+  q: "Какие пары: *Hardly … ?* *No sooner … ?*"
+  a: "**Hardly** had I… **when**…; **No sooner** had I… **than**…"
+- id: m11-not-only
+  lesson: 11-linking/03-emphasis
+  q: "Начни с *Not only*: *She sings and she also dances.*"
+  a: "*Not only **does she sing**, but she also dances.*"
+- id: m11-emphatic-do
+  lesson: 11-linking/03-emphasis
+  q: "Найди ошибку: *I did enjoyed the party!*"
+  a: "*I did **enjoy** the party!* — после усилительного *did* глагол в начальной форме."
+- id: m11-novelty
+  lesson: 11-linking/04-reading
+  q: "Переведи: «Когда новизна пройдёт…»"
+  a: "*Once the novelty **wears off**…*"
+- id: m11-pointless
+  lesson: 11-linking/04-reading
+  q: "Как сказать «бессмысленные совещания»?"
+  a: "*pointless meetings*"
+- id: m11-essay-linkers
+  lesson: 11-linking/05-writing
+  q: "Найди две ошибки: *On the other side, … In the conclusion, …*"
+  a: "**On the other hand**, … **In conclusion**, …"
+- id: m11-unless-in-case
+  lesson: 11-linking/01-contrast
+  q: "В чём разница: *Take a map in case you get lost* / *Call me if you get lost*?"
+  a: "**in case** — на всякий случай, заранее; **if** — только если это случится."
+- id: m11-unless
+  lesson: 11-linking/01-contrast
+  q: "Перефразируй с **unless**: *If you don't hurry, you'll miss the bus.*"
+  a: "***Unless** you hurry, you'll miss the bus.* — после *unless* без *not*."
+- id: m11-when-present
+  lesson: 11-linking/01-contrast
+  q: "Найди ошибку: *I'll call you when I will get home.*"
+  a: "*…when I **get** home.* — после *when, until, as soon as* о будущем — Present Simple."
+- id: m11-other-hand-contrary
+  lesson: 11-linking/02-reason-result-purpose
+  q: "**on the other hand** или **on the contrary**?"
+  a: "*on the other hand* — вторая сторона, обе мысли верны; *on the contrary* — «наоборот», первое неверно."
+- id: m11-besides-except
+  lesson: 11-linking/02-reason-result-purpose
+  q: "Переведи: «Я не хочу идти. Кроме того, идёт дождь»."
+  a: "*I don't want to go. **Besides**, it's raining.* — не ~~Except~~."
+- id: m11-instead
+  lesson: 11-linking/02-reason-result-purpose
+  q: "**instead** или **instead of**: *We didn't fly. ___, we took the train.* / *___ flying, we took the train.*"
+  a: "***Instead**, we took the train.* / ***Instead of** flying…* — *of* только перед существительным или *-ing*."
+- id: m11-after-all
+  lesson: 11-linking/02-reason-result-purpose
+  q: "Что значит *after all* в *Don't be so hard on him. After all, he's only eighteen.*?"
+  a: "«Ведь, всё-таки» — довод. «Наконец, в итоге» — *finally / in the end*."
+- id: m11-for-noun-purpose
+  lesson: 11-linking/02-reason-result-purpose
+  q: "**to** или **for**: *We stopped ___ coffee.* / *We stopped ___ have coffee.*"
+  a: "***for** coffee* (существительное); ***to** have coffee* (глагол)."
+- id: m11-all-i-need
+  lesson: 11-linking/03-emphasis
+  q: "Переведи: «Всё, что мне нужно, — это тишина»."
+  a: "***All I need is** some peace and quiet.*"
+- id: m11-emphatic-be
+  lesson: 11-linking/03-emphasis
+  q: "Как выделить *It's late* и *You've worked hard*, если в них нет *do*?"
+  a: "Полная форма с ударением: *It **is** late. You **have** worked hard.*"
+- id: m11-not-until-inversion
+  lesson: 11-linking/03a-inversion
+  q: "Где инверсия: *Not until I got home ___ I'd lost my keys*?"
+  a: "В главной части: Not until I got home **did I realise**… Придаточное после *Not until* — обычный порядок."
+- id: m11-only-when
+  lesson: 11-linking/03a-inversion
+  q: "Найди ошибку: *Only when the bell rang we could leave.*"
+  a: "Only when the bell rang **could we** leave. После *Only when* + придаточное — инверсия в главной части."
+- id: m11-under-no-circumstances
+  lesson: 11-linking/03a-inversion
+  q: "Переведи формально: «Ни при каких обстоятельствах не открывайте эту дверь»."
+  a: "**Under no circumstances should you** open this door. (или *On no account*)"
+- id: m11-had-i-known
+  lesson: 11-linking/03a-inversion
+  q: "Убери *if*: *If I had known, I would have come.*"
+  a: "**Had I known**, I would have come."
+- id: m11-should-you-need
+  lesson: 11-linking/03a-inversion
+  q: "Формальная фраза для письма: «Если у вас возникнут вопросы…»"
+  a: "**Should you have** any questions, please do not hesitate to contact me."
+- id: m11-had-it-not-been
+  lesson: 11-linking/03a-inversion
+  q: "*Hadn't it been for you…* или *Had it not been for you…*?"
+  a: "**Had it not been for** you… В условной инверсии отрицание полное и после подлежащего."
+- id: m11-hardly-anyone
+  lesson: 11-linking/03a-inversion
+  q: "Нужна ли инверсия: *Hardly anyone ___ (come) to the talk*?"
+  a: "Нет: Hardly anyone **came**. *Hardly* относится к подлежащему, а не ко всему действию."
+- id: m11-so-strong-was
+  lesson: 11-linking/03a-inversion
+  q: "Перепиши книжно: *The wind was so strong that we turned back.*"
+  a: "**So strong was the wind that** we turned back."

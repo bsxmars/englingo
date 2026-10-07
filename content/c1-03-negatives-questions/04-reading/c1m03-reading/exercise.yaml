@@ -1,0 +1,91 @@
+title: "Why did we stop asking why?"
+type: reading
+intro: "Прочитай эссе и ответь на вопросы. Вопросы с вариантами — в стиле C1 Advanced Part 5; в остальных впиши слово или фразу из текста."
+hints:
+  - "Вопросы идут в порядке текста."
+  - "Риторический вопрос автора — это скрытое утверждение."
+  - "Отличай уступку (admittedly, of course) от позиции автора."
+text: |
+  ## Why did we stop asking why?
+
+  Anyone who has spent an afternoon with a four-year-old will know the drill. Why is the sky blue? Why don't birds fall down? Why can't I have another biscuit? Researchers who have recorded children at home estimate that a child of that age may ask well over a hundred questions a day. Exhausting it may be, but it is also the most efficient learning strategy any of us will ever use. And yet, somewhere between the nursery and the office, the questions dry up. Rarely do adults ask more than a handful of genuine questions in a working day, and many of those are not really questions at all.
+
+  What happens in between? The usual suspect is school. Children quickly discover that the person who asks a question in class is not always rewarded for it; the person who supplies the right answer is. Admittedly, few teachers set out to stifle curiosity. Most would say that they love a curious pupil. But a curriculum with thirty learners, a fixed syllabus and an exam at the end leaves little room for the question that leads nowhere in particular. Is it any wonder that by the age of twelve most pupils have learned to keep their hands down?
+
+  The workplace does little to reverse the trend. In many organisations, not knowing something is quietly treated as a liability. Junior staff feign understanding in meetings rather than admit to ignorance, and senior staff, who have more to lose, are often worse. I once watched a room of twelve experienced engineers nod through a presentation that, as it later turned out, not one of them had fully understood. Not until the project had run six months over schedule did anyone admit that the original plan had never made sense. Who could blame them? Nobody had ever been promoted for saying "I don't follow".
+
+  It would be easy to conclude that adults simply become less curious, but the evidence does not quite support that. Curiosity does not wane so much as go underground. We still wonder why our colleague resigned, whether the new policy will work and how on earth the printer decides when to jam. What we lose is not the impulse to ask but the confidence to ask out loud — and, perhaps more importantly, the skill of asking well.
+
+  Asking well is harder than it sounds. Consider the difference between "Didn't you check the figures?" and "How did you check the figures?" The first is barely a question; it is an accusation wearing a question mark, and it invites a defensive yes or no. The second opens a door. Good doctors, journalists and negotiators know this instinctively. They ask open questions, they probe gently, and they resist the temptation to fill a silence with their own opinion. Little do most of us realise how often our "questions" are really statements we would like the other person to agree with — isn't that so?
+
+  None of this is new. Socrates, who famously claimed to know nothing, spent his life asking awkward questions of people who claimed to know a great deal, and was eventually sentenced to death for his trouble. Two and a half thousand years later, the risks of asking are lower, but the reflex to protect ourselves remains. Under no circumstances, it seems, do we want to look foolish in front of others.
+
+  So what could be done? Some companies have experimented with "question-first" meetings, in which no one is allowed to state an opinion until a set number of questions have been asked. Others reward the employee who spots the flaw in a plan rather than the one who defends it most eloquently. Such ideas may sound gimmicky, and not all of them survive contact with a busy Monday morning. But they rest on a sound principle: if we want people to ask questions, we have to stop punishing them for it.
+
+  Perhaps the simplest change is a personal one. The next time you are tempted to nod along, try a tentative "Sorry, can I just check what you mean by that?" You may find that half the room was wondering the same thing. Hardly had I started doing this myself when I discovered how rarely anyone minds — and how often the question that felt stupid turned out to be the one that got to the bottom of the problem. A four-year-old could have told me that years ago, of course. I just never thought to ask.
+items:
+  - q: "In the first paragraph, the writer presents children's constant questioning as"
+    options:
+      - "a phase that parents should try to discourage."
+      - "tiring for adults but highly effective for learning."
+      - "less common than researchers once believed."
+      - "a habit that most adults successfully keep."
+    answer: 1
+    explain: "*Exhausting it may be, but it is also the most efficient learning strategy* — уступка (утомительно) плюс главная мысль (эффективно). Взрослые как раз теряют эту привычку."
+  - q: "What point does the writer make about teachers in the second paragraph?"
+    options:
+      - "They deliberately discourage pupils from asking questions."
+      - "They are generally unaware that pupils ask too many questions."
+      - "They value curiosity, but classroom conditions work against it."
+      - "They prefer questions that are not connected to the syllabus."
+    answer: 2
+    explain: "*Admittedly, few teachers set out to stifle curiosity… But a curriculum with thirty learners… leaves little room* — учителя не виноваты намеренно, мешают условия. Вариант A противоречит *few teachers set out to*."
+  - q: "What does the rhetorical question 'Is it any wonder that by the age of twelve most pupils have learned to keep their hands down?' suggest?"
+    options:
+      - "The writer is genuinely unsure why pupils stop asking questions."
+      - "It is entirely predictable that pupils stop asking questions."
+      - "Pupils at twelve are less curious than younger children."
+      - "Teachers should encourage pupils to raise their hands more."
+    answer: 1
+    explain: "Риторический вопрос *Is it any wonder…?* = «Неудивительно, что…». Автор утверждает, что это закономерный результат, а не спрашивает."
+  - q: "The story about the twelve engineers is used to illustrate"
+    options:
+      - "how pressure to appear competent can prevent people from asking questions."
+      - "why engineers are particularly bad at giving presentations."
+      - "the importance of keeping projects on schedule."
+      - "how senior staff usually help junior staff in meetings."
+    answer: 0
+    explain: "Абзац о том, что незнание считают *a liability*, и пример с инженерами это иллюстрирует: никто не признался, что не понял, пока проект не провалился. *Who could blame them?* подтверждает, что виновата культура, а не люди."
+  - q: "According to the fourth paragraph, what actually changes in adulthood?"
+    options:
+      - "People become far less curious about the world around them."
+      - "People stop wondering about everyday problems at work."
+      - "People remain curious but are less willing and able to ask questions openly."
+      - "People become better at finding answers without asking."
+    answer: 2
+    explain: "*Curiosity does not wane so much as go underground… What we lose is not the impulse to ask but the confidence to ask out loud — and… the skill of asking well.* Вариант A — именно то, что автор опровергает."
+  - q: "Why does the writer contrast 'Didn't you check the figures?' with 'How did you check the figures?'"
+    options:
+      - "To show that negative questions are grammatically more complex."
+      - "To show that the form of a question affects how the other person responds."
+      - "To argue that open questions are always more polite."
+      - "To suggest that accusations should be avoided at work."
+    answer: 1
+    explain: "Первый вопрос *invites a defensive yes or no*, второй *opens a door* — форма вопроса определяет реакцию. Вариант C слишком категоричен (*always*), D — частный вывод, которого автор не делает."
+  - q: "What is the writer's attitude towards the 'question-first' meetings and similar ideas?"
+    options:
+      - "Enthusiastic: they should be introduced in every company."
+      - "Dismissive: they are gimmicks that rarely work in practice."
+      - "Cautiously positive: they may seem artificial but are based on a valid idea."
+      - "Neutral: the writer simply describes them without comment."
+    answer: 2
+    explain: "*Such ideas may sound gimmicky, and not all of them survive… But they rest on a sound principle* — уступка, а затем одобрение. Это осторожно положительная позиция."
+  - q: "Find a word in paragraph 3 that means 'pretend to have or feel'."
+    answers: ["feign"]
+    explain: "*Junior staff **feign** understanding* — изображают понимание. Синонимы: *pretend, fake*."
+  - q: "Find a phrase in paragraph 4 meaning 'become hidden rather than disappear'."
+    answers: ["go underground"]
+    explain: "*Curiosity does not wane so much as **go underground*** — любопытство не исчезает, а «уходит в подполье». *not so much X as Y* = «не столько X, сколько Y»."
+  - q: "Find a word in paragraph 7 meaning 'designed to attract attention rather than to be genuinely useful'."
+    answers: ["gimmicky"]
+    explain: "*Such ideas may sound **gimmicky*** — «как рекламный трюк». От *gimmick* — уловка, трюк для привлечения внимания."

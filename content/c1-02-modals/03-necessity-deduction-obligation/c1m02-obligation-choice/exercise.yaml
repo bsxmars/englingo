@@ -1,0 +1,56 @@
+title: "Necessity, deduction, obligation: точный оттенок"
+type: choice
+intro: "Все варианты грамматичны, но по смыслу или регистру подходит только один. Выбери его."
+hints:
+  - "mustn't — запрет; don't have to / needn't — нет необходимости."
+  - "had better — совет с угрозой последствий; be supposed to — правило, договорённость или репутация."
+  - "Отрицательный вывод о прошлом — can't have, не mustn't have."
+items:
+  - q: "Members ___ book in advance — just turn up at the desk."
+    options: ["mustn't", "don't need to", "shouldn't"]
+    answer: 1
+    explain: "Нет необходимости → **don't need to**. *mustn't* запрещал бы бронировать, *shouldn't* советовал бы не делать этого."
+  - q: "I ___ a table — the restaurant was half empty when we got there."
+    options: ["needn't have booked", "didn't need to book", "shouldn't book"]
+    answer: 0
+    explain: "Столик забронировали, а это оказалось лишним → **needn't have booked**. *didn't need to book* обычно значит, что и не бронировали."
+  - q: "The lights are off and the car's gone. They ___ out."
+    options: ["must be", "should be", "can't be"]
+    answer: 0
+    explain: "Логический вывод из фактов → **must be**. *should be* — ожидание по плану («по идее должны»), а не вывод."
+  - q: "You ___ be joking! Forty pounds for a sandwich?"
+    options: ["'ve got to", "ought to", "'d better"]
+    answer: 0
+    explain: "Эмоциональная разговорная уверенность → **You've got to be joking!** *ought to* и *'d better* — совет, а не вывод."
+  - q: "That new Thai place ___ be excellent — everyone at work raves about it."
+    options: ["should", "is supposed to", "had better"]
+    answer: 1
+    explain: "«Говорят, что…» — репутация → **is supposed to be**. *should be* передаёт лишь ожидание, а не чужое мнение."
+  - q: "You ___ back up those files before the update, or you'll lose everything."
+    options: ["ought to", "'d better", "are supposed to"]
+    answer: 1
+    explain: "Срочный совет о конкретной ситуации с угрозой последствий (*or you'll lose…*) → **'d better**. *ought to* звучит как общий моральный совет."
+  - q: "Notice in a hotel lobby: \"All visitors ___ sign in at reception.\""
+    options: ["must", "had better", "ought to"]
+    answer: 0
+    explain: "Письменное правило, официальный тон → **must**. *had better* звучит как угроза, *ought to* — как мягкий совет."
+  - q: "I ___ submit the report yesterday, but the data still wasn't ready."
+    options: ["was supposed to", "had to", "must have"]
+    answer: 0
+    explain: "Обязанность, которая **не выполнена**, → **was supposed to**. *had to submit* значит «пришлось сдать» (и сдал), *must have* — вывод."
+  - q: "He ___ read the contract carefully — he signed away all his rights."
+    options: ["can't have", "mustn't have", "shouldn't have"]
+    answer: 0
+    explain: "Уверенный отрицательный вывод о прошлом → **can't have read**. *mustn't have* в выводах в британском не используется, *shouldn't have read* — бессмысленный упрёк."
+  - q: "— Do I need to bring my passport? — No, you ___. A driving licence is enough."
+    options: ["don't have to", "mustn't", "shouldn't"]
+    answer: 0
+    explain: "«Не обязательно» → **don't have to**. *mustn't* — запрет: паспорт брать нельзя."
+  - q: "Companies ___ disclose their emissions — it's a matter of basic transparency."
+    options: ["should", "had better", "are supposed to"]
+    answer: 0
+    explain: "Мнение о том, что правильно, → **should**. *had better* звучит как угроза, *are supposed to* — ссылка на правило, а здесь аргумент."
+  - q: "Relaxed chat with a colleague: \"___ fill in all of these forms?\""
+    options: ["Must I", "Do I have to", "Ought I to"]
+    answer: 1
+    explain: "В обычной речи спрашивают **Do I have to…?** *Must I…?* звучит формально или раздражённо, *Ought I to…?* — книжно."

@@ -1,0 +1,41 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка в определителе, местоимении или *of*-фразе. Исправь её и отправь предложение целиком."
+hints:
+  - "Квантификатор + of требует определителя или местоимения после of; без определителя of не нужен."
+  - "every и no не стоят перед of: every one of, none of."
+  - "Подлежащее с отрицанием — no / none, а не not any / any … not."
+items:
+  - q: "Most of students in the survey said they preferred remote work."
+    answers: ["Most students in the survey said they preferred remote work.", "Most of the students in the survey said they preferred remote work."]
+    explain: "*of* требует определителя после себя: **Most of the students** (конкретная группа) или просто **Most students**."
+  - q: "Some us felt that the decision had been rushed."
+    answers: ["Some of us felt that the decision had been rushed."]
+    explain: "Перед местоимением *of* обязателен: **Some of us**."
+  - q: "Not any explanation was given for the delay."
+    answers: ["No explanation was given for the delay."]
+    explain: "Предложение не начинают с *not any*. В подлежащем — только **no**: *No explanation was given*."
+  - q: "I checked every of the boxes, but the contract wasn't there."
+    answers: ["I checked every one of the boxes, but the contract wasn't there.", "I checked each of the boxes, but the contract wasn't there.", "I checked all of the boxes, but the contract wasn't there.", "I checked all the boxes, but the contract wasn't there."]
+    explain: "*every* — только определитель, перед *of* он невозможен: **every one of the boxes** (или *each of / all of*)."
+  - q: "Much of the Europe was covered in forest at that time."
+    answers: ["Much of Europe was covered in forest at that time."]
+    explain: "Перед названием места — *of* без артикля: **much of Europe**."
+  - q: "He was hit on his head by a falling branch."
+    answers: ["He was hit on the head by a falling branch."]
+    explain: "Когда человек уже назван, а часть тела — место удара, английский берёт **the**: *hit on the head, took her by the arm*."
+  - q: "There were none seats left by the time we got there."
+    answers: ["There were no seats left by the time we got there.", "There weren't any seats left by the time we got there."]
+    explain: "*none* — местоимение, оно не стоит перед существительным. Перед *seats* — определитель **no** (или *not any*)."
+  - q: "Any of the candidates wasn't suitable, so we readvertised the post."
+    answers: ["None of the candidates was suitable, so we readvertised the post.", "None of the candidates were suitable, so we readvertised the post."]
+    explain: "*any* не может быть подлежащим перед отрицательным глаголом. Нужно **None of the candidates was / were**."
+  - q: "The ruins lie any forty kilometres north of the border."
+    answers: ["The ruins lie some forty kilometres north of the border."]
+    explain: "«Примерно» перед числом — **some**: *some forty kilometres*. *any* такого значения не имеет."
+  - q: "Every three month the contracts are reviewed by an external auditor."
+    answers: ["Every three months the contracts are reviewed by an external auditor."]
+    explain: "*every* + число + существительное **во множественном числе**: *every three months*, *every few days*."
+  - q: "Hardly no one turned up to the shareholders' meeting."
+    answers: ["Hardly anyone turned up to the shareholders' meeting.", "Hardly anybody turned up to the shareholders' meeting."]
+    explain: "*hardly* уже отрицает, поэтому дальше — **anyone**: *Hardly anyone turned up*. ~~hardly no one~~ — двойное отрицание."

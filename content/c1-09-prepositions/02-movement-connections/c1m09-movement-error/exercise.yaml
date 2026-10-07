@@ -1,0 +1,44 @@
+title: "Тонкие ошибки: движение, of / with / by, исключения"
+type: error
+intro: "В каждом предложении **одна** ошибка в предлоге. Исправь её и отправь предложение целиком."
+hints:
+  - "across — по плоскости, through — сквозь объём; off — с поверхности, out of — изнутри."
+  - "with + a / the / my + инструмент; by + способ без артикля или -ing."
+  - "except (for) исключает, besides / apart from добавляют."
+items:
+  - q: "We walked across the forest for hours before we reached a clearing."
+    answers: ["We walked through the forest for hours before we reached a clearing."]
+    explain: "Лес — объём, в который входят и из которого выходят → **through**. *across* — по плоскости: *across the field*."
+  - q: "She stormed out the meeting room without saying a word."
+    answers: ["She stormed out of the meeting room without saying a word."]
+    explain: "Как предлог нужен **out of**. *out* без *of* допустим только в разговорном американском *out the door / window*."
+  - q: "Except French, she speaks fluent Arabic and Farsi."
+    answers: ["Besides French, she speaks fluent Arabic and Farsi.", "Apart from French, she speaks fluent Arabic and Farsi.", "In addition to French, she speaks fluent Arabic and Farsi.", "As well as French, she speaks fluent Arabic and Farsi.", "Aside from French, she speaks fluent Arabic and Farsi."]
+    explain: "Французский **добавляется** к другим языкам → *besides / apart from / in addition to*. *except* исключало бы его."
+  - q: "I paid the deposit by my debit card."
+    answers: ["I paid the deposit with my debit card.", "I paid the deposit by debit card."]
+    explain: "С притяжательным местоимением — конкретный предмет → **with my card**. *by* — способ без артикля: *by debit card*."
+  - q: "The translation is very good except a couple of awkward phrases."
+    answers: ["The translation is very good except for a couple of awkward phrases.", "The translation is very good apart from a couple of awkward phrases.", "The translation is very good, except for a couple of awkward phrases."]
+    explain: "Оговорка ко всему утверждению («хорош, если не считать…») → только **except for** (или *apart from*). Голое *except* — после *all, every, no*."
+  - q: "I'd like a double room of a view of the sea, please."
+    answers: ["I'd like a double room with a view of the sea, please.", "I would like a double room with a view of the sea, please."]
+    explain: "Характерная черта предмета → **with**: *a room with a view*. *of* — часть целого или принадлежность."
+  - q: "Keep going and you'll see the post office just along the church on the left."
+    answers: ["Keep going and you'll see the post office just past the church on the left.", "Keep going and you will see the post office just past the church on the left."]
+    explain: "«Сразу за церковью» → **past** (мимо и дальше). *along* — вдоль линии: *along the street*."
+  - q: "Pour the mixture onto a greased tin and bake for forty minutes."
+    answers: ["Pour the mixture into a greased tin and bake for forty minutes."]
+    explain: "Внутрь ёмкости → **into**. *onto* — на поверхность: *pour the sauce onto the pasta*."
+  - q: "The ship sank a few miles out of the coast of Cornwall."
+    answers: ["The ship sank a few miles off the coast of Cornwall."]
+    explain: "«У берега, в стороне от него» → **off the coast**. *out of* — изнутри наружу."
+  - q: "We're off coffee, so could you pick some up on your way home?"
+    answers: ["We're out of coffee, so could you pick some up on your way home?", "We are out of coffee, so could you pick some up on your way home?"]
+    explain: "«Кончился» → **out of** coffee. *be off coffee* значит «не пить кофе, отказаться от него» — тогда незачем его покупать."
+  - q: "The burglars got in with smashing a window at the back."
+    answers: ["The burglars got in by smashing a window at the back."]
+    explain: "Способ, выраженный действием, → **by + -ing**. *with* — только с предметом: *with a brick*."
+  - q: "A persistent cough can be indicative for a more serious condition."
+    answers: ["A persistent cough can be indicative of a more serious condition."]
+    explain: "**indicative of** — как *aware of, capable of, typical of*. Русское «показатель **для**» сбивает на *for*."

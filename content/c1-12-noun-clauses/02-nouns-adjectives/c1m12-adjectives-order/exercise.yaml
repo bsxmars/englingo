@@ -1,0 +1,34 @@
+title: "Собери предложение"
+type: order
+intro: "Собери предложение из слов по русскому смыслу. Следи за пустым *it*, предлогами перед wh-словами и *the fact that*."
+hints:
+  - "It + be + прилагательное + that…"
+  - "happy with how, sorry about what; despite the fact that."
+items:
+  - q: "«Удивительно, что пришло так мало людей»."
+    answers: ["It is surprising that so few people came"]
+    explain: "Пустое *it* + *is surprising* + *that*-придаточное в конце."
+  - q: "«Мы довольны тем, как всё прошло»."
+    answers: ["We are happy with how everything went"]
+    explain: "*happy* + **with** + *how*-придаточное."
+  - q: "«Я не уверен, правильно ли я понял задание»."
+    answers: ["I am not sure whether I understood the task correctly", "I am not sure whether I correctly understood the task"]
+    explain: "Неуверенность → *not sure whether*; прямой порядок в придаточном."
+  - q: "Формально, придаточное первым: «То, что столько мостов в аварийном состоянии, — скандал»."
+    answers: ["That so many bridges are unsafe is scandalous"]
+    explain: "Придаточное-подлежащее в начале: *That…* + *is scandalous*. Это книжный порядок."
+  - q: "«Проблема в том, что никто не читает инструкции»."
+    answers: ["The problem is that nobody reads the instructions"]
+    explain: "Существительное + *is* + *that*-придаточное."
+  - q: "«Несмотря на то, что шёл дождь, матч не отменили»."
+    answers: ["Despite the fact that it was raining the match was not cancelled", "The match was not cancelled despite the fact that it was raining"]
+    explain: "После *despite* — **the fact that** + предложение."
+  - q: "«Мы обсудили вопрос о том, кто будет платить»."
+    answers: ["We discussed the question of who would pay"]
+    explain: "*the question* + **of** + *who*-придаточное."
+  - q: "«Похоже, что встречу перенесли»."
+    answers: ["It seems that the meeting has been postponed"]
+    explain: "Пустое *it* + *seems* + *that*-придаточное."
+  - q: "«Мне жаль, что так вышло на вечеринке» — через wh-придаточное: «Я сожалею о том, что произошло на вечеринке»."
+    answers: ["I am sorry about what happened at the party"]
+    explain: "*sorry* + **about** + *what*-придаточное."

@@ -1,0 +1,51 @@
+title: "Какая форма точнее?"
+type: choice
+intro: "Все варианты похожи, но верен только один — по смыслу (кто действует, раньше или одновременно) или по грамматике глагола-«хозяина»."
+hints:
+  - "Подлежащее само действует → актив; с ним что-то делают → пассив."
+  - "Событие уже произошло к моменту главного глагола → перфектная форма."
+items:
+  - q: "Several pages are missing: the documents appear ___ with."
+    options: ["to tamper", "to have tampered", "to have been tampered"]
+    answer: 2
+    explain: "С документами что-то сделали (пассив), и это произошло раньше, чем мы это видим (перфект): **to have been tampered with**. Предлог *with* остаётся в конце."
+  - q: "However tactfully it is done, few people enjoy ___ in front of their colleagues."
+    options: ["correcting", "being corrected", "having corrected"]
+    answer: 1
+    explain: "*enjoy* + герундий; поправляют их → пассивный герундий **being corrected**. *correcting* значило бы, что поправляют они сами."
+  - q: "The bridge ___ years ago: the cracks were noted in every inspection report."
+    options: ["should have been closed", "should be closed", "should have closed"]
+    answer: 0
+    explain: "Упрёк о прошлом (*years ago*) + мост закрывают власти → **should have been closed**. *should be closed* — про сейчас, *should have closed* — актив."
+  - q: "___ twice already, he knew that a third offence would cost him his licence."
+    options: ["Having warned", "Having been warned", "Being warned"]
+    answer: 1
+    explain: "Его предупреждали (пассив), и это было раньше (*already*) → **Having been warned**. *Having warned* значило бы, что предупреждал он сам."
+  - q: "The final results are expected ___ early next month."
+    options: ["to publish", "to be published", "to have been published"]
+    answer: 1
+    explain: "Результаты публикуют (пассив), публикация в будущем → простой пассивный инфинитив **to be published**. Перфект *to have been published* описывал бы уже состоявшееся."
+  - q: "Honestly, I'd rather ___ the truth now than find out later from someone else."
+    options: ["be told", "have told", "being told"]
+    answer: 0
+    explain: "*would rather* + инфинитив без *to*; мне скажут → **be told**. *have told* — «рассказать самому» в прошлом, *being told* после *would rather* невозможно."
+  - q: "The condition is serious, but it ___ with the right medication."
+    options: ["can control", "can be controlled", "can have been controlled"]
+    answer: 1
+    explain: "Общая возможность сейчас, болезнь контролируют → **can be controlled**. Перфектная форма относилась бы к прошлому."
+  - q: "Students who submit someone else's work risk ___ from the course."
+    options: ["expelling", "being expelled", "to be expelled"]
+    answer: 1
+    explain: "*risk* требует герундия, а исключают студентов → **being expelled**. *risk to be* — ошибка: после *risk* инфинитива не бывает."
+  - q: "If the funding falls through, the project is going to have ___ ."
+    options: ["to be postponed", "to postpone", "being postponed"]
+    answer: 0
+    explain: "Цепочка phrasal modals *going to have* + пассивный инфинитив **to be postponed**: проект откладывают."
+  - q: "He denied ___ by anyone and insisted that he had acted entirely alone."
+    options: ["having advised", "having been advised", "to have been advised"]
+    answer: 1
+    explain: "*deny* + герундий; советовали ему (пассив), раньше (перфект) → **having been advised**. *deny to* — ошибка."
+  - q: "There's no point in arguing any more — the decision ___ by now."
+    options: ["will have been made", "will be made", "will have made"]
+    answer: 0
+    explain: "*will have been* + V3 здесь выражает уверенный вывод о настоящем («наверняка уже принято»). *will be made by now* нелогично, *will have made* — актив."

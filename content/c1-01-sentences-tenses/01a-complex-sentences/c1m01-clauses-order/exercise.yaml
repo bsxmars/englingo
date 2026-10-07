@@ -1,0 +1,37 @@
+title: "Парные союзы и связки: собери предложение"
+type: order
+intro: "Собери английское предложение, которое передаёт смысл русской фразы. Следи за параллелизмом и местом связок."
+hints:
+  - "Части пары (not only… but also, neither… nor) стоят прямо перед однотипными словами."
+  - "После Not only в начале — инверсия."
+items:
+  - q: "«Отчёт и неточный, и неполный»."
+    answers: ["The report is neither accurate nor complete"]
+    explain: "*neither… nor* стоит прямо перед двумя прилагательными: **neither accurate nor complete**. Второго отрицания не нужно."
+  - q: "«Она не только написала код, но и протестировала его»."
+    answers: ["She not only wrote the code but also tested it"]
+    explain: "Параллелизм: после *not only* и *but also* — глаголы: **wrote… tested**."
+  - q: "«Не только она уложилась в срок, но и сэкономила бюджет» (с инверсией)."
+    answers: ["Not only did she meet the deadline but she also saved money"]
+    explain: "*Not only* в начале → инверсия **did she meet**; во второй части обычный порядок: *but she also saved…*"
+  - q: "«Вы можете либо заплатить сейчас, либо оформить рассрочку»."
+    answers: ["You can either pay now or pay in instalments"]
+    explain: "*either* ставим перед первым глаголом, *or* — перед вторым: **either pay now or pay in instalments**."
+  - q: "«Нравится вам это или нет, решение окончательное»."
+    answers: ["Whether you like it or not the decision is final", "Whether or not you like it the decision is final"]
+    explain: "**Whether… or not** вводит придаточное уступки; *or not* может стоять в конце или сразу после *whether*."
+  - q: "«Данные были неполными, поэтому мы отложили анализ» (союз)."
+    answers: ["The data was incomplete so we postponed the analysis"]
+    explain: "Две независимые части соединяет союз **so** (с запятой перед ним). "
+  - q: "«Хотя план был рискованным, совет его одобрил»."
+    answers: ["Although the plan was risky the board approved it"]
+    explain: "Один союз — **Although**, без *but* во второй части."
+  - q: "«Он не звонил и не писал» (с nor)."
+    answers: ["He didn't call nor did he write"]
+    explain: "После отрицания **nor** + инверсия: **nor did he write**."
+  - q: "«Я хотел тебе позвонить, но не успел» (эллипсис: «не было времени»)."
+    answers: ["I meant to call you but I didn't have time to"]
+    explain: "Глагол после *to* опускается, частица остаётся: **didn't have time to** (= to call you)."
+  - q: "«Он платит налоги и в Германии, и в Испании»."
+    answers: ["He pays taxes both in Germany and in Spain"]
+    explain: "*both… and* перед однотипными частями: **both in Germany and in Spain**."

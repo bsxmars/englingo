@@ -1,0 +1,38 @@
+title: "Собери фразу с заменой или эллипсисом"
+type: order
+intro: "Собери предложение из слов. В каждом что-то заменено (*so, not, one, do so*) или опущено — порядок слов при этом строгий."
+hints:
+  - "Частица to остаётся в конце: I'd like to, but I can't."
+  - "so и not стоят сразу после глагола мнения: I don't think so, I hope not."
+  - "there + seem + to be: There seems to be…"
+items:
+  - q: "Ответ на приглашение: «Я бы с удовольствием, но я не могу»."
+    answers: ["I'd love to but I'm afraid I can't", "I would love to but I am afraid I cannot", "I'm afraid I can't but I'd love to"]
+    explain: "После *love* остаётся *to* (глагол *come* опущен), после *can't* глагол тоже опущен."
+  - q: "«Она сказала, что сделает, — и сделала»."
+    answers: ["She said she would and she did"]
+    explain: "Два эллипсиса подряд: после *would* и после *did* опущена одна и та же глагольная группа."
+  - q: "Формальное объявление о сдаче багажа: «Пассажиры, желающие сделать это, могут сделать это у выхода 4»."
+    answers: ["Passengers who wish to do so may do so at gate 4", "Passengers wishing to do so may do so at gate 4"]
+    explain: "*do so* — формальная замена уже упомянутого действия; в одном предложении она может повторяться."
+  - q: "— Мы успеем к пятнице? — «Надеюсь, что да, но я бы на это не рассчитывал»."
+    answers: ["I hope so but I wouldn't count on it", "I hope so but I would not count on it", "I wouldn't count on it but I hope so"]
+    explain: "*I hope so* — *so* заменяет придаточное *that we'll finish by Friday*. *count on it* — «рассчитывать на это»."
+  - q: "«Я не думаю, что он согласится, а ты как думаешь?»"
+    answers: ["I don't think he'll agree do you", "I do not think he will agree do you"]
+    explain: "Короткий вопрос *do you?* — эллипсис от *do you think he'll agree?*"
+  - q: "«Мне не нужна новая машина — старая вполне подходит»."
+    answers: ["I don't need a new car the old one is fine", "I do not need a new car the old one is fine"]
+    explain: "*the old one* заменяет *the old car*: с прилагательным *the* + *one* — норма."
+  - q: "«Если да, пожалуйста, сообщите нам до пятницы»."
+    answers: ["If so please let us know by Friday", "Please let us know by Friday if so"]
+    explain: "*If so* заменяет целое условие; *let us know by Friday* — «сообщите не позднее пятницы»."
+  - q: "«Уходи, если хочешь, но я не хочу»."
+    answers: ["Leave if you want but I don't want to", "Leave if you want to but I don't want to", "Leave if you want but I do not want to", "Leave if you want to but I do not want to"]
+    explain: "После *want* в утверждении *to* можно опустить, а после отрицания — нельзя: *I don't want **to***."
+  - q: "«Я раньше курил, но давно уже нет»."
+    answers: ["I used to smoke but I haven't for years", "I used to smoke but I have not for years"]
+    explain: "После *haven't* опущено *smoked*: *I haven't (smoked) for years*."
+  - q: "«Кто-то звонил, но не сказал, кто»."
+    answers: ["Someone called but they didn't say who", "Someone called but they did not say who"]
+    explain: "После вопросительного слова опущено *(who) they were*. Неизвестный звонящий → *they*."

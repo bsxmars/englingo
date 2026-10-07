@@ -1,0 +1,41 @@
+title: "Вопросительные слова и предлоги"
+type: gap
+intro: "Впиши **одно** слово (в пункте с эхо-вопросом можно два). Подумай о стиле: формальный или разговорный."
+hints:
+  - "Выбор из ограниченного набора и перед of / one — which."
+  - "После предлога в начале вопроса — whom."
+  - "-ever в вопросе передаёт удивление или раздражение."
+items:
+  - q: "___ of these two candidates would you trust with the budget?"
+    answers: ["Which"]
+    explain: "Выбор из двух, да ещё и перед *of these* → только **Which**. ~~What of~~ не используется."
+  - q: "To ___ should the application be addressed?"
+    answers: ["whom"]
+    explain: "Предлог в начале вопроса — формальный стиль, и после него нужно **whom**. ~~To who~~ — ошибка."
+  - q: "___ did you manage to get tickets? They sold out in four minutes!"
+    answers: ["How", "However"]
+    explain: "Вопрос о способе → **How**. **However** (= *How on earth*) добавляет удивление: «как тебе вообще удалось?» Оба верны."
+  - q: "___ told you that nonsense? Of course the office isn't closing!"
+    answers: ["Who", "Whoever"]
+    explain: "Вопрос о человеке-подлежащем → **Who** (без *did*). **Whoever** усиливает недоверие и раздражение."
+  - q: "What do you think ___ the main reason for last month's delay?"
+    answers: ["was", "is"]
+    explain: "После вставки *do you think* — порядок утверждения, поэтому глагол просто следует за *What*: *What do you think **was / is** the main reason?* Без второго *do* и без инверсии."
+  - q: "___ which period was the castle used as a prison?"
+    answers: ["During", "In", "For"]
+    explain: "С *during* (и *in*) предлог стоит в начале вопроса: ***During which** period…?* Перенести *during* в конец нельзя."
+  - q: "— What's the new manager ___? — Very approachable, actually."
+    answers: ["like"]
+    explain: "*What is he / she **like**?* — вопрос о характере. Предлог *like* в этом вопросе всегда в конце."
+  - q: "— I've just bought a boat. — You've bought ___?"
+    answers: ["what", "a what"]
+    explain: "Эхо-вопрос: вопросительное слово встаёт на место непонятной или удивительной части и произносится с ударением: *You've bought **a what**?*"
+  - q: "Could you tell me ___ the refund has been processed yet?"
+    answers: ["whether", "if"]
+    explain: "Косвенный да/нет-вопрос вводится через **whether** или **if**; дальше — порядок утверждения: *…the refund has been processed*."
+  - q: "___ about a short break before we vote on the last item?"
+    answers: ["How", "What"]
+    explain: "***How / What about** + существительное* — предложение. Оба варианта верны; *What about* ещё и напоминает о чём-то забытом."
+  - q: "— You need to give the presentation tomorrow. — Why ___? Can't Tom do it?"
+    answers: ["me"]
+    explain: "Сокращённый вопрос: ***Why me?*** — «А почему я?». Объектная форма *me*, как в других кратких ответах."

@@ -1,0 +1,44 @@
+title: "The fact that, of how, is that"
+type: gap
+intro: "Впиши в пропуск от одного до четырёх слов, чтобы предложение было грамматичным. Если подходит несколько вариантов, засчитается любой."
+hints:
+  - "После предлога, фразового глагола и discuss / overlook — the fact that."
+  - "question / issue / matter + of + wh-слово."
+  - "sorry / happy / worried + предлог + wh-слово, но без предлога перед that."
+items:
+  - q: "Despite ___ she had no formal training, she became one of the country's leading architects."
+    answers: ["the fact that"]
+    explain: "После предлога *despite* голое *that* невозможно → **the fact that**."
+  - q: "At the meeting we discussed ___ attendance had fallen by a third."
+    answers: ["the fact that"]
+    explain: "*discuss* не берёт *that*-придаточное напрямую → *discussed **the fact that***."
+  - q: "We were left with the question ___ the project would actually be funded."
+    answers: ["of how", "of whether"]
+    explain: "*the question* + **of** + wh-слово: *the question of how…*"
+  - q: "There are growing signs ___ consumers are losing confidence."
+    answers: ["that"]
+    explain: "Существительное + *that*-придаточное, раскрывающее его содержание."
+  - q: "The problem ___ nobody actually reads the terms and conditions."
+    answers: ["is that"]
+    explain: "Существительное + *be* + *that*-clause: *The problem **is that**…*"
+  - q: "The general feeling seems ___ the reform came too late."
+    answers: ["to be that"]
+    explain: "Существительное + *seem* + **to be** + *that*. С пустым *it* было бы просто *It seems that…*"
+  - q: "The company tried to cover ___ the product had been tested on animals."
+    answers: ["up the fact that"]
+    explain: "После фразового глагола *cover up* нужен **the fact that**."
+  - q: "I'm truly sorry ___ happened at the meeting."
+    answers: ["about what", "for what"]
+    explain: "Перед *wh*-придаточным после *sorry* нужен предлог: **about what** happened."
+  - q: "We're really pleased ___ the new kitchen has turned out."
+    answers: ["with how"]
+    explain: "*pleased with* + *how*-придаточное: «довольны тем, как…»."
+  - q: "Her explanation — ___ the email had gone to her spam folder — convinced nobody."
+    answers: ["that"]
+    explain: "Вставное придаточное раскрывает содержание *explanation* → **that**."
+  - q: "Critics were quick to dismiss ___ the reform would save money."
+    answers: ["the claim that", "the idea that", "the suggestion that", "the argument that", "the notion that", "claims that", "suggestions that", "the view that", "the assertion that"]
+    explain: "Вместо *the fact that* — более точное существительное: *the claim / idea that*. Голое *that* после *dismiss* невозможно."
+  - q: "It seems ___ the email was never sent."
+    answers: ["that", "as if", "as though", "likely that", "clear that"]
+    explain: "Пустое *it* + *seems* + *that*-придаточное (*seem* без *to be*). *as if / as though* тоже возможны."

@@ -1,0 +1,88 @@
+title: "Трансформации C1 Advanced (Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово** без изменений и впиши от **трёх до шести слов**, включая ключевое. Сокращения считаются как полные формы.
+hints:
+  - "Сначала определи тему: модальный в прошлом, пассив, wish, инверсия, предложная фраза, фразовый глагол."
+  - "Сохрани все нюансы исходного предложения: only, really, very, ever."
+items:
+  - q: "It was wrong of you to shout at the waiter like that."
+    key: "SHOULD"
+    stem: "You ___ at the waiter like that."
+    answers: ["should not have shouted", "shouldn't have shouted"]
+    explain: "Упрёк о прошлом → **shouldn't have + V3**."
+  - q: "I'm sure she didn't intend to offend anyone."
+    key: "CAN'T"
+    stem: "She ___ to offend anyone."
+    answers: ["can't have intended", "can't have meant", "can't have wanted"]
+    explain: "Уверенность, что чего-то не было в прошлом → **can't have + V3**."
+  - q: "People believe that the painting was stolen by a former employee."
+    key: "BELIEVED"
+    stem: "The painting ___ by a former employee."
+    answers: ["is believed to have been stolen"]
+    explain: "Кража — раньше, чем «полагают», и в пассиве → **is believed to have been stolen** (ровно шесть слов)."
+  - q: "If you need any further information, please do not hesitate to contact our office."
+    key: "SHOULD"
+    stem: "___ any further information, please do not hesitate to contact our office."
+    answers: ["should you need", "should you require"]
+    explain: "Условие без *if* с инверсией: **Should you need** — формальный стиль деловых писем."
+  - q: "I regret not accepting the job offer in Berlin."
+    key: "WISH"
+    stem: "I ___ the job offer in Berlin."
+    answers: ["wish I had accepted", "wish I'd accepted", "wish I had taken", "wish I'd taken"]
+    explain: "Сожаление о прошлом → **wish + Past Perfect**: *I wish I had accepted*."
+  - q: "She didn't mention the problem until the very end of the meeting."
+    key: "ONLY"
+    stem: "She ___ the very end of the meeting."
+    answers: ["only mentioned the problem at", "mentioned the problem only at", "only mentioned it at", "mentioned it only at"]
+    explain: "*not… until* = **only at**: *She only mentioned the problem at the very end.*"
+  - q: "It's possible that he missed the last train."
+    key: "MAY"
+    stem: "He ___ the last train."
+    answers: ["may have missed"]
+    explain: "Предположение о прошлом → **may have + V3**."
+  - q: "The manager made the staff work late every evening during the audit."
+    key: "MADE"
+    stem: "The staff ___ late every evening during the audit."
+    answers: ["were made to work"]
+    explain: "В пассиве *make* требует **to**: *were made **to** work*. В активе — без *to*: *made them work*."
+  - q: "There's no point in complaining about the decision now."
+    key: "WORTH"
+    stem: "It ___ about the decision now."
+    answers: ["is not worth complaining", "isn't worth complaining", "'s not worth complaining", "is no longer worth complaining"]
+    explain: "*There's no point in + -ing* = **It isn't worth + -ing**."
+  - q: "Tom was the only person who didn't know about the surprise party."
+    key: "EXCEPTION"
+    stem: "___ Tom, everyone knew about the surprise party."
+    answers: ["with the exception of"]
+    explain: "**With the exception of** — «за исключением». Отрицание переходит в *everyone knew*."
+  - q: "They will probably announce the results next week."
+    key: "CHANCES"
+    stem: "The ___ the results next week."
+    answers: ["chances are they will announce", "chances are that they will announce", "chances are they'll announce", "chances are that they'll announce"]
+    explain: "**The chances are (that)** + предложение — «скорее всего». *probably* передаётся самой фразой."
+  - q: "Her success had nothing to do with luck."
+    key: "DOWN"
+    stem: "Her success ___ luck."
+    answers: ["was not down to", "wasn't down to", "was in no way down to", "was not at all down to"]
+    explain: "**be down to** — «быть заслугой, объясняться чем-то». *Nothing to do with* → отрицание: *wasn't down to luck*."
+  - q: "I didn't realise how serious the situation was until I read the report."
+    key: "UNTIL"
+    stem: "It ___ the report that I realised how serious the situation was."
+    answers: ["was not until I read", "wasn't until I read", "was not until I had read", "wasn't until I'd read", "was not until I'd read", "wasn't until I had read"]
+    explain: "Модель **It was not until… that…** — «только после того, как…». С сокращениями — всё равно шесть слов максимум."
+  - q: "Although he is extremely wealthy, he lives in a tiny flat in the suburbs."
+    key: "DESPITE"
+    stem: "___ wealthy, he lives in a tiny flat in the suburbs."
+    answers: ["despite being extremely", "despite his being extremely"]
+    explain: "*Although + предложение* → **despite + -ing**: *Despite being extremely wealthy*. Усиление *extremely* нужно сохранить."
+  - q: "She was just about to resign when they offered her a promotion."
+    key: "VERGE"
+    stem: "She ___ resigning when they offered her a promotion."
+    answers: ["was on the verge of"]
+    explain: "*be about to* → **be on the verge of + -ing** — «быть на грани»."
+  - q: "The majority of members supported the proposal to extend opening hours."
+    key: "FAVOUR"
+    stem: "The majority of members ___ the proposal to extend opening hours."
+    answers: ["were in favour of", "was in favour of"]
+    explain: "*support* → **be in favour of**. После *the majority of members* возможны и *were*, и *was*."

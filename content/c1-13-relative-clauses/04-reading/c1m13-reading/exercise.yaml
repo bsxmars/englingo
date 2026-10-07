@@ -1,0 +1,88 @@
+title: "The library at the end of the world"
+type: reading
+intro: "Прочитай эссе и ответь на вопросы. Вопросы с вариантами — как в C1 Advanced Part 5; в остальных впиши слово или короткую фразу из текста."
+hints:
+  - "Вопросы идут в порядке текста; последний — о тексте в целом."
+  - "Найди в длинной фразе главное подлежащее и сказуемое, придаточные мысленно убери в скобки."
+text: |
+  ## The library at the end of the world
+
+  Some thirteen hundred kilometres from the North Pole, a concrete wedge juts out of a snowy hillside on the Norwegian island of Spitsbergen. Behind its steel doors, a tunnel runs more than a hundred metres into the mountain, ending in three chambers where the temperature is kept at minus eighteen degrees. What is stored inside is not gold, nor state secrets, but seeds: well over a million samples, each of which represents a distinct variety of a food crop. The Svalbard Global Seed Vault, which opened in 2008, has been called many things — a doomsday vault, a Noah's Ark for plants — but the description its founders prefer is rather more modest. It is, they say, a back-up copy.
+
+  The comparison is apt. The vault does not run a breeding programme, nor does it hand out seeds to farmers. It holds duplicates of collections whose originals are kept in some 1,700 national and regional gene banks around the world, many of which operate on tiny budgets in countries where power cuts, floods and political upheaval are part of everyday life. Each depositor retains ownership of its seeds; the boxes are never opened by the staff, who act merely as custodians. Only the institution that deposited a sample may withdraw it, and only if its own copy has been lost.
+
+  That this is not a purely theoretical safeguard became clear in 2015. A research centre based in Aleppo, whose collection of wheat, barley and lentil varieties from the Fertile Crescent was among the most valuable in the world, had been forced to abandon its headquarters as the Syrian civil war intensified. The researchers, most of whom relocated to Lebanon and Morocco, requested the return of the samples they had sent north several years earlier. The withdrawal, the first in the vault's history, allowed them to rebuild their collection from scratch — and, in due course, to send fresh duplicates back to Svalbard.
+
+  Why should any of this matter to people who have never given a thought to barley? The answer lies in the extent to which modern agriculture depends on a dangerously narrow range of plants. Over the past century, farmers have abandoned thousands of local varieties in favour of a handful of high-yielding ones, a shift which fed billions but left our food supply strikingly uniform. A field in which every plant is genetically identical is a field in which a single disease can spread unchecked. The traditional varieties that have been discarded, by contrast, often carry traits — drought resistance, tolerance of salty soil, resistance to particular pests — that plant breeders may desperately need as the climate changes.
+
+  It is tempting, then, to see the vault as a triumph of foresight, and in many ways it is. Yet the image of an icy fortress guarding the world's harvests is in some respects misleading. Seeds are living things; stored for too long, even at low temperatures, they gradually lose the ability to germinate, which means that collections have to be regrown and replenished periodically. That work is carried out not in the Arctic but in the underfunded gene banks whose role is rarely mentioned in the glossy documentaries about Svalbard. A back-up is only as good as the original from which it was made.
+
+  There is a further, subtler problem. A seed in a freezer is, in a sense, frozen in time. The wheat variety a farmer grew in 1970 was not a fixed object but part of a continuing process, adapting year by year to the soil, the weather and the choices of whoever planted it. Many scientists now argue that genetic diversity is best preserved not only in vaults but in fields, by communities whose knowledge of local crops is itself dwindling. A variety kept alive by growers continues to evolve; one kept at minus eighteen degrees does not.
+
+  None of this diminishes the achievement of the people who conceived the vault, built it and persuaded governments with very different interests to entrust their seeds to it. A safety net is still worth having, however rarely it is used. But it would be a mistake to treat the vault as a solution rather than an insurance policy. The real library of the world's crops is not a tunnel in the Arctic; it is the scattered, unglamorous network of gene banks, research stations and farms on which the tunnel ultimately depends.
+items:
+  - q: "In the first paragraph, the writer suggests that the founders of the vault"
+    options:
+      - "dislike the more dramatic names that it has been given."
+      - "prefer to describe its purpose in less sensational terms."
+      - "regard it as the most important seed collection in the world."
+      - "were surprised by the amount of media attention it received."
+    answer: 1
+    explain: "*the description its founders prefer is rather more modest. It is, they say, a back-up copy* — они выбирают скромное описание вместо *doomsday vault*. О неприязни к другим названиям или удивлении ничего не сказано."
+  - q: "What does the writer say about the staff at Svalbard?"
+    options:
+      - "They decide which samples should be returned to depositors."
+      - "They check the condition of the seeds at regular intervals."
+      - "They look after the boxes without having access to their contents."
+      - "They work closely with breeders in the countries that deposit seeds."
+    answer: 2
+    explain: "*the boxes are never opened by the staff, who act merely as custodians* — хранители, которые не открывают ящики. Решение о возврате принимает только сам депозитор."
+  - q: "The example of the Aleppo research centre is used to show that"
+    options:
+      - "the vault can serve the purpose for which it was intended."
+      - "political conflict is the main threat to seed collections."
+      - "researchers sometimes deposit seeds in more than one country."
+      - "the vault needs to make withdrawals easier for depositors."
+    answer: 0
+    explain: "*That this is not a purely theoretical safeguard became clear in 2015* — пример доказывает, что «резервная копия» реально сработала. Варианты B и D — обобщения, которых в тексте нет."
+  - q: "According to the fourth paragraph, the shift to high-yielding varieties"
+    options:
+      - "was a mistake that has reduced the world's food supply."
+      - "has made crops more vulnerable to a single threat."
+      - "was forced on farmers by plant breeders."
+      - "has made traditional varieties impossible to find."
+    answer: 1
+    explain: "*A field in which every plant is genetically identical is a field in which a single disease can spread unchecked.* Автор признаёт, что новые сорта *fed billions*, поэтому A слишком категоричен."
+  - q: "Why does the writer describe the image of an icy fortress as 'misleading'?"
+    options:
+      - "Because the vault is not as cold as most people imagine."
+      - "Because documentaries exaggerate how many seeds are stored there."
+      - "Because the vault depends on work that is done elsewhere."
+      - "Because the seeds stored there cannot be used by farmers."
+    answer: 2
+    explain: "Семена со временем теряют всхожесть, и их пересевают *not in the Arctic but in the underfunded gene banks*. Отсюда вывод: *A back-up is only as good as the original from which it was made.*"
+  - q: "In the sixth paragraph, the writer's main point is that"
+    options:
+      - "farmers in 1970 knew more about wheat than modern scientists."
+      - "seeds kept in storage stop adapting to changing conditions."
+      - "vaults should be replaced by community farming projects."
+      - "the knowledge of local communities is now fully preserved."
+    answer: 1
+    explain: "*A seed in a freezer is, in a sense, frozen in time… A variety kept alive by growers continues to evolve; one kept at minus eighteen degrees does not.* Автор предлагает хранить *not only in vaults but in fields* — дополнять, а не заменять (C)."
+  - q: "What is the writer's overall attitude towards the vault?"
+    options:
+      - "Enthusiastic: it has solved the problem of crop diversity."
+      - "Dismissive: it is little more than an expensive symbol."
+      - "Appreciative but cautious about overestimating its role."
+      - "Indifferent: it matters only to specialists."
+    answer: 2
+    explain: "*None of this diminishes the achievement… But it would be a mistake to treat the vault as a solution rather than an insurance policy.* — признание заслуг плюс предостережение."
+  - q: "Find a word in paragraph 2 that describes people who look after something without owning it."
+    answers: ["custodians", "custodian"]
+    explain: "*the staff, who act merely as **custodians*** — хранители, а не владельцы."
+  - q: "Find a phrase in paragraph 4 that means 'how much' or 'to what degree'."
+    answers: ["the extent to which", "extent to which"]
+    explain: "*The answer lies in **the extent to which** modern agriculture depends…* — формальная связка с предлогом впереди."
+  - q: "Find a verb in paragraph 6 that means 'becoming gradually smaller in amount'."
+    answers: ["dwindling"]
+    explain: "*communities whose knowledge of local crops is itself **dwindling*** — постепенно иссякает."

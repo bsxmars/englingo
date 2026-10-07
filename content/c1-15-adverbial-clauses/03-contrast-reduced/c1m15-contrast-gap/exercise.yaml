@@ -1,0 +1,41 @@
+title: "Уступка и контраст"
+type: gap
+intro: "Впиши одно–три слова. Если в скобках дано слово — используй его. Если подходят несколько вариантов — засчитываются все верные."
+hints:
+  - "Прилагательное + as / though: Tired as she was…"
+  - "even if — возможное; even though — факт."
+  - "После despite — существительное, -ing или the fact that."
+items:
+  - q: "Exhausted ___ she was, she insisted on finishing the marathon."
+    answers: ["as", "though"]
+    explain: "Фронтированное прилагательное + **as / though** = *Although she was exhausted*. *although* в этой схеме невозможно."
+  - q: "___ (much) I admire his talent, I find his manner unbearable."
+    answers: ["Much as"]
+    explain: "**Much as** + *admire / like / love* — формальная уступка «как бы я ни…»."
+  - q: "Try ___ he might, he couldn't get the lid off the jar."
+    answers: ["as"]
+    explain: "Устойчивая формула **Try as he might** — «как он ни старался»."
+  - q: "He still felt lonely, ___ the fact that he had dozens of friends."
+    answers: ["despite", "in spite of", "notwithstanding"]
+    explain: "Перед *the fact that* — предлог **despite / in spite of**. *although the fact that* невозможно."
+  - q: "We'll go ahead with the picnic ___ it rains — there's a shelter by the lake."
+    answers: ["even if"]
+    explain: "Возможное условие, которое ничего не изменит → **even if**."
+  - q: "Some people thrive under pressure, ___ others simply freeze."
+    answers: ["whereas", "while", "whilst", "but", "yet"]
+    explain: "Сопоставление двух фактов → формальные **whereas / while**; нейтрально — *but* или *yet*."
+  - q: "The plan sounded perfectly reasonable. I wasn't entirely convinced, ___."
+    answers: ["though", "however"]
+    explain: "В конце предложения — **though** (разговорное «впрочем») или *however*. *although* в конце не ставится."
+  - q: "___ hard I try, I can't get the hang of this software."
+    answers: ["However", "No matter how"]
+    explain: "«как бы ни» + наречие → **However hard** / **No matter how hard**."
+  - q: "___ having studied for weeks, he failed the exam."
+    answers: ["Despite", "In spite of"]
+    explain: "Перед *-ing* — предлог **Despite / In spite of**. *Although having studied* — не по норме."
+  - q: "She went to work ___ she had a high temperature."
+    answers: ["even though", "although", "though", "despite the fact that", "in spite of the fact that"]
+    explain: "Реальный факт → **even though / although**. *even if* значило бы, что температура лишь возможна."
+  - q: "Small ___ it is, the flat gets wonderful light all day."
+    answers: ["as", "though"]
+    explain: "**Small as / though it is** = *Although it is small*."

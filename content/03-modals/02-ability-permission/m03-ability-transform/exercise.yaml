@@ -1,0 +1,69 @@
+title: "Перефразирование: умение, успех, разрешение (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "Разовый успех в прошлом → managed to / was able to / succeeded in + -ing."
+  - "Разрешение: be allowed to, let somebody do, be permitted to."
+  - "Там, где can не имеет формы (будущее, Present Perfect, после другого модального), нужен be able to."
+items:
+  - q: "Despite the fog, the pilot landed the plane safely."
+    key: "MANAGED"
+    stem: "Despite the fog, the pilot ___ the plane safely."
+    answers: ["managed to land"]
+    explain: "Разовый успех в трудной ситуации → **managed to + инфинитив**. *could* здесь не подходит."
+  - q: "I couldn't fix the printer, although I tried for an hour."
+    key: "SUCCEED"
+    stem: "I didn't ___ the printer, although I tried for an hour."
+    answers: ["succeed in fixing"]
+    explain: "**succeed in + -ing** — «суметь, преуспеть». Ключ в начальной форме, потому что стоит после *didn't*."
+  - q: "My parents didn't let me stay out after ten."
+    key: "ALLOWED"
+    stem: "I ___ stay out after ten."
+    answers: ["wasn't allowed to", "was not allowed to"]
+    explain: "*let somebody do* в пассиве не используется — нужно **be allowed to**: *I wasn't allowed to stay out*."
+  - q: "Phones may not be used during the exam."
+    key: "LET"
+    stem: "They won't ___ phones during the exam."
+    answers: ["let you use", "let us use", "let students use", "let anyone use", "let candidates use", "let people use"]
+    explain: "**let + объект + инфинитив без to**: *let you use*. После *let* не бывает *to*."
+  - q: "It's years since I last managed to sleep through the night."
+    key: "ABLE"
+    stem: "I haven't ___ through the night for years."
+    answers: ["been able to sleep"]
+    explain: "У *can* нет Present Perfect, поэтому **haven't been able to + инфинитив**."
+  - q: "Learning to code will give you the ability to build your own apps."
+    key: "BE"
+    stem: "Once you learn to code, you ___ your own apps."
+    answers: ["will be able to build", "'ll be able to build"]
+    explain: "У *can* нет будущего времени → **will be able to**. Ключ *BE* подсказывает эту форму."
+  - q: "Nobody could understand his handwriting."
+    key: "IMPOSSIBLE"
+    stem: "It was ___ to understand his handwriting."
+    answers: ["impossible for anyone", "impossible for anybody"]
+    explain: "*It was impossible for somebody to do* = никто не мог. *Nobody could* → **impossible for anyone**."
+  - q: "When I was a teenager, I knew how to play the guitar quite well."
+    key: "COULD"
+    stem: "When I was a teenager, I ___ the guitar quite well."
+    answers: ["could play"]
+    explain: "Общее умение в прошлом → **could + инфинитив**. Это не разовый успех, поэтому *could* уместен."
+  - q: "Are we permitted to park in front of the building?"
+    key: "MAY"
+    stem: "___ in front of the building?"
+    answers: ["May we park", "May I park"]
+    explain: "Формальная просьба о разрешении → **May I / May we + инфинитив**. Вопрос без *do*."
+  - q: "I'd love to have the chance to travel more, but I can't afford it."
+    key: "ABLE"
+    stem: "I'd love ___ travel more, but I can't afford it."
+    answers: ["to be able to"]
+    explain: "После *would love* нужен инфинитив, а у *can* его нет → **to be able to**."
+  - q: "Although the shop was closed, we got in through the back door."
+    key: "MANAGED"
+    stem: "The shop was closed, but we ___ through the back door."
+    answers: ["managed to get in", "managed to get"]
+    explain: "Преодолели препятствие → **managed to get in**. Не ~~could get in~~: это разовый успех."
+  - q: "Visitors can't take photos inside the cathedral."
+    key: "ALLOWED"
+    stem: "Visitors ___ photos inside the cathedral."
+    answers: ["aren't allowed to take", "are not allowed to take"]
+    explain: "Запрет по правилам → **aren't allowed to + инфинитив**."

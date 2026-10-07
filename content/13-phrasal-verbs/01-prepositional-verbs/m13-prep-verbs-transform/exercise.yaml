@@ -1,0 +1,69 @@
+title: "Перефразирование: глагол + предлог (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "Ищи глагол, который требует своего предлога: accuse of, blame for, prevent from, rely on, insist on."
+  - "После предлога глагол идёт в форме -ing."
+  - "В пассиве предлог остаётся сразу после V3: was accused of."
+items:
+  - q: "\"You stole my phone!\" Mark said to his flatmate."
+    key: "ACCUSED"
+    stem: "Mark ___ his phone."
+    answers: ["accused his flatmate of stealing", "accused him of stealing", "accused his flatmate of taking", "accused him of taking"]
+    explain: "**accuse sb of doing** — обвинить кого-то в чём-то. После *of* — форма *-ing*: *of stealing*."
+  - q: "The heavy fog meant that the ferry couldn't leave the port."
+    key: "PREVENTED"
+    stem: "The heavy fog ___ the port."
+    answers: ["prevented the ferry from leaving", "prevented it from leaving"]
+    explain: "**prevent sb / sth from doing** — помешать. *from* обязателен, после него *-ing*: *from leaving*."
+  - q: "You can always trust Olga to help you."
+    key: "RELY"
+    stem: "You can always ___ help you."
+    answers: ["rely on Olga to", "rely upon Olga to", "rely on her to", "rely upon her to"]
+    explain: "**rely on sb to do sth** — рассчитывать, что кто-то сделает. Предлог *on* (не ~~rely from~~)."
+  - q: "\"It was your fault that we missed the train,\" she told me."
+    key: "BLAMED"
+    stem: "She ___ the train."
+    answers: ["blamed me for missing", "blamed me for us missing"]
+    explain: "**blame sb for sth / doing** — винить кого-то за что-то. Сравни: *accuse **of***, но *blame **for***."
+  - q: "My boss said I absolutely had to take a day off."
+    key: "INSISTED"
+    stem: "My boss ___ a day off."
+    answers: ["insisted on my taking", "insisted on me taking", "insisted that I take", "insisted that I should take"]
+    explain: "**insist on** + *-ing* (с подлежащим *my / me*) или *insist that* + придаточное. Без *on* перед дополнением нельзя."
+  - q: "Your support has been very important to us, so thank you."
+    key: "FOR"
+    stem: "Thank ___ us."
+    answers: ["you for supporting", "you for your support", "you so much for supporting", "you very much for supporting"]
+    explain: "**thank sb for sth / doing**: *Thank you **for** supporting us*. Не путай с *congratulate **on***."
+  - q: "Lena is very similar to her grandmother in character."
+    key: "TAKES"
+    stem: "Lena ___ grandmother in character."
+    answers: ["takes after her"]
+    explain: "**take after sb** — быть похожим на старшего родственника. Это предложный глагол: местоимение и дополнение — после *after*."
+  - q: "The team consists of four developers and a designer."
+    key: "MADE"
+    stem: "The team ___ four developers and a designer."
+    answers: ["is made up of"]
+    explain: "*consist of* = **be made up of**. *made up of* — пассивная форма, а *consist* в пассиве не бывает: не ~~is consisted of~~."
+  - q: "I've decided to buy the cheaper laptop."
+    key: "DECIDED"
+    stem: "I've ___ laptop."
+    answers: ["decided on the cheaper", "decided upon the cheaper"]
+    explain: "**decide on sth** — сделать выбор в пользу чего-то. *decide to do* требует глагола, а здесь после пропуска стоит существительное."
+  - q: "The museum gave every visitor a free audio guide."
+    key: "PROVIDED"
+    stem: "Every visitor ___ a free audio guide."
+    answers: ["was provided with"]
+    explain: "**provide sb with sth**, в пассиве: *was provided **with***. Предлог *with* остаётся."
+  - q: "She said sorry to the client because the delivery was late."
+    key: "APOLOGISED"
+    stem: "She ___ the late delivery."
+    answers: ["apologised to the client for", "apologised to him for", "apologised to her for", "apologised for"]
+    explain: "**apologise to** + человек **for** + причина. Порядок: сначала *to sb*, потом *for sth*."
+  - q: "What's your opinion of the new office?"
+    key: "THINK"
+    stem: "What ___ the new office?"
+    answers: ["do you think of", "do you think about"]
+    explain: "Мнение спрашиваем через **think of** (или *think about*): *What do you think **of** …?* Не ~~How do you think~~."

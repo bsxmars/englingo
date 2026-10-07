@@ -1,0 +1,172 @@
+- id: m04-if-will
+  lesson: 04-conditionals/01-real-conditionals
+  q: "Найди ошибку: *If it will rain tomorrow, we'll stay at home.*"
+  a: "*If it **rains** tomorrow…* — после *if* Present Simple, даже о будущем."
+- id: m04-first-second
+  lesson: 04-conditionals/01-real-conditionals
+  q: "Разница: *If I get the job, I'll move* / *If I got the job, I'd move*?"
+  a: "Первое — реальный шанс (first conditional); второе — маловероятно, фантазия (second)."
+- id: m04-if-i-were-you
+  lesson: 04-conditionals/01-real-conditionals
+  q: "Переведи: «На твоём месте я бы согласился»."
+  a: "*If I **were** you, I**'d** accept.* — *were* для всех лиц."
+- id: m04-unless
+  lesson: 04-conditionals/01-real-conditionals
+  q: "Найди ошибку: *Unless you don't hurry, you'll be late.*"
+  a: "*Unless you **hurry**…* — *unless* = *if not*, второе отрицание не нужно."
+- id: m04-in-case
+  lesson: 04-conditionals/01-real-conditionals
+  q: "*Take an umbrella in case it rains* / *…if it rains* — в чём разница?"
+  a: "**in case** — возьми заранее, на всякий случай; **if** — возьми, только если (когда) пойдёт дождь."
+- id: m04-as-long-as
+  lesson: 04-conditionals/01-real-conditionals
+  q: "Переведи: «Можешь взять машину, если только будешь ехать аккуратно»."
+  a: "*You can borrow the car **as long as** / **provided** you drive carefully.*"
+- id: m04-if-or-when
+  lesson: 04-conditionals/01-real-conditionals
+  q: "Разница: *If I see Mark, I'll tell him* / *When I see Mark, I'll tell him*?"
+  a: "**if** — может, и не увижу; **when** — точно увижу, вопрос только когда. Для воображаемого — только *if*."
+- id: m04-if-will-request
+  lesson: 04-conditionals/01-real-conditionals
+  q: "Почему верно: *If you'll wait here, I'll find the manager*?"
+  a: "Вежливая просьба: *will / would* после *if* = *please*. В остальных случаях *will* после *if* не ставится."
+- id: m04-if-present-perfect
+  lesson: 04-conditionals/01-real-conditionals
+  q: "Переведи: «Если ты уже закончил с ноутбуком, я его уберу»."
+  a: "*If you**'ve finished** with the laptop, I'll put it away.* — в условии может быть Present Perfect."
+- id: m04-type2-offer
+  lesson: 04-conditionals/01-real-conditionals
+  q: "Чем *If you wanted, I could show you round* отличается от *If you want, I can show you round*?"
+  a: "Второй тип мягче и скромнее: говорящий не уверен, что тебе это нужно."
+- id: m04-third-form
+  lesson: 04-conditionals/02-third-mixed
+  q: "Формула третьего типа?"
+  a: "if + **had + V3**, **would have + V3**: *If I had known, I would have come.*"
+- id: m04-if-would-have
+  lesson: 04-conditionals/02-third-mixed
+  q: "Найди ошибку: *If I would have known, I would have helped.*"
+  a: "*If I **had known**…* — в части с *if* нет *would*."
+- id: m04-mixed-past-present
+  lesson: 04-conditionals/02-third-mixed
+  q: "Переведи: «Если бы я тогда не опоздал на рейс, я был бы сейчас в Риме»."
+  a: "*If I **hadn't missed** the flight, I **would be** in Rome now.* — прошлое → настоящее."
+- id: m04-mixed-present-past
+  lesson: 04-conditionals/02-third-mixed
+  q: "Дополни: *If I ___ (speak) German, I would have got that job last year.*"
+  a: "***spoke*** — постоянное положение дел (не знаю немецкий) → результат в прошлом."
+- id: m04-two-d
+  lesson: 04-conditionals/02-third-mixed
+  q: "Что значит каждое *'d*: *If I'd known, I'd have come*?"
+  a: "Первое **'d = had** (после *if*), второе **'d = would** (перед *have*)."
+- id: m04-had-had
+  lesson: 04-conditionals/02-third-mixed
+  q: "Найди ошибку: *If I had more time yesterday, I would have finished the report.*"
+  a: "*If I **had had** more time yesterday…* — прошлое → Past Perfect от *have*."
+- id: m04-third-criticism
+  lesson: 04-conditionals/02-third-mixed
+  q: "Скажи с упрёком: «Если бы ты проверил адрес, мы бы не заблудились»."
+  a: "*If you**'d checked** the address, we **wouldn't have got** lost.*"
+- id: m04-if-should-have
+  lesson: 04-conditionals/02-third-mixed
+  q: "Переведи: «Если тебе нужна была помощь, надо было меня попросить»."
+  a: "*If you **needed** help, you **should have asked** me.* — условие — реальный факт прошлого, результат — упрёк."
+- id: m04-wish-present
+  lesson: 04-conditionals/03-wishes
+  q: "Переведи: «Жаль, что я не знаю ответа»."
+  a: "*I wish I **knew** the answer.* — настоящее → Past Simple."
+- id: m04-wish-past
+  lesson: 04-conditionals/03-wishes
+  q: "Переведи: «Жаль, что я это сказал»."
+  a: "*I wish I **hadn't said** that.* — прошлое → Past Perfect, «сказал» становится отрицанием."
+- id: m04-wish-would
+  lesson: 04-conditionals/03-wishes
+  q: "Когда *wish + would*?"
+  a: "Когда раздражает чужое поведение и хочется перемен: *I wish you **would stop** shouting!* С *I* не используется."
+- id: m04-wish-could
+  lesson: 04-conditionals/03-wishes
+  q: "Найди ошибку: *I wish I can swim.*"
+  a: "*I wish I **could** swim.*"
+- id: m04-its-time
+  lesson: 04-conditionals/03-wishes
+  q: "Дополни: *It's time we ___ (go).*"
+  a: "***went*** — *It's time* + подлежащее + Past Simple. Без подлежащего: *It's time to go*."
+- id: m04-would-rather
+  lesson: 04-conditionals/03-wishes
+  q: "Переведи вежливо: «Я бы предпочёл, чтобы ты никому не говорил»."
+  a: "*I'd rather you **didn't tell** anyone.* — *would rather* + другой человек + Past Simple."
+- id: m04-would-rather-to
+  lesson: 04-conditionals/03-wishes
+  q: "Найди ошибку: *I'd rather to stay at home.*"
+  a: "*I'd rather **stay** at home.* — без *to*."
+- id: m04-wish-could-have
+  lesson: 04-conditionals/03-wishes
+  q: "Переведи: «Жаль, что я не смог прийти на твою свадьбу»."
+  a: "*I wish I **could have come** to your wedding.* — не ~~would have~~."
+- id: m04-wish-would-vs-past
+  lesson: 04-conditionals/03-wishes
+  q: "Разница: *I wish something would happen* / *I wish my life was different*?"
+  a: "*wish + would* — хочу, чтобы **произошло действие**; *wish + Past Simple* — хочу другого **состояния**."
+- id: m04-wish-would-have-error
+  lesson: 04-conditionals/03-wishes
+  q: "Найди ошибку: *I wish I would have known about it.*"
+  a: "*I wish I **had known** about it.* — о прошлом после *wish* Past Perfect."
+- id: m04-if-only-result
+  lesson: 04-conditionals/03-wishes
+  q: "Переведи: «Если бы только у меня была машина, я мог бы навещать тебя чаще»."
+  a: "*If only I **had** a car, I **could visit** you more often.*"
+- id: m04-turn-out
+  lesson: 04-conditionals/04-reading
+  q: "Переведи: «Всё могло сложиться иначе»."
+  a: "*Things could have **turned out** differently.*"
+- id: m04-make-peace
+  lesson: 04-conditionals/04-reading
+  q: "Что значит *make peace with something*?"
+  a: "Смириться с чем-то, принять: *She made peace with her decision.*"
+- id: m04-lie-awake
+  lesson: 04-conditionals/04-reading
+  q: "Переведи: «Я полночи лежал без сна»."
+  a: "*I **lay awake** half the night.* — *lie – lay – lain*."
+- id: m04-article-if
+  lesson: 04-conditionals/05-writing
+  q: "Найди ошибку: *If I could change one thing, I will build more parks.*"
+  a: "*…I **would** build more parks.* — второй тип: *would* в результате."
+- id: m04-article-vs-essay
+  lesson: 04-conditionals/05-writing
+  q: "Три признака статьи, которых нет в эссе?"
+  a: "Заголовок, обращение к читателю (вопросы, *you*), живой личный тон."
+- id: m04-unless-emotion
+  lesson: 04-conditionals/01a-unless-in-case
+  q: "Найди ошибку: *I'll be upset unless you come to my party.*"
+  a: "*I'll be upset **if you don't** come…* — для эмоций-реакций на «не» *unless* не используют."
+- id: m04-even-if-though
+  lesson: 04-conditionals/01a-unless-in-case
+  q: "**even if** или **even though**: *She kept running ___ her knee hurt.*"
+  a: "**even though** — колено точно болело (факт). *even if* — когда неизвестно, случится ли."
+- id: m04-in-case-past
+  lesson: 04-conditionals/01a-unless-in-case
+  q: "Переведи: «Я взял зонт на случай, если пойдёт дождь» (о вчера)."
+  a: "*I took an umbrella **in case it rained**.* — *in case* + Past Simple о прошлом."
+- id: m04-in-case-of
+  lesson: 04-conditionals/01a-unless-in-case
+  q: "**in case** или **in case of**: *___ emergency, break the glass.*"
+  a: "**In case of** + существительное. Перед придаточным с глаголом — просто *in case*."
+- id: m04-provided-register
+  lesson: 04-conditionals/01a-unless-in-case
+  q: "Расставь по формальности: *as long as, on condition that, provided*."
+  a: "*as long as* (разговорное) → *provided (that)* (нейтральное) → *on condition that* (официальное)."
+- id: m04-only-if-inversion
+  lesson: 04-conditionals/01a-unless-in-case
+  q: "Закончи: *Only if you register online ___ (you / can) enter.*"
+  a: "***can you** enter* — после *Only if* в начале главная часть с инверсией."
+- id: m04-otherwise-past
+  lesson: 04-conditionals/01a-unless-in-case
+  q: "Переведи: «Хорошо, что у меня была карта, иначе я бы заблудился»."
+  a: "*Luckily I had a map; **otherwise I would have got lost**.*"
+- id: m04-but-for
+  lesson: 04-conditionals/01a-unless-in-case
+  q: "Перефразируй через **but for**: *If it hadn't been for the rain, we'd have won.*"
+  a: "***But for the rain**, we'd have won.* — после *but for* существительное."
+- id: m04-supposing
+  lesson: 04-conditionals/01a-unless-in-case
+  q: "Переведи: «А если бы тебе предложили работу в Токио, ты бы поехал?»"
+  a: "***Supposing / What if** you **were offered** a job in Tokyo, would you go?*"

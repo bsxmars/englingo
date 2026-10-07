@@ -1,0 +1,41 @@
+title: "Найди тонкую ошибку: вопросы, требования, советы"
+type: error
+intro: "В каждом предложении **одна** ошибка: порядок слов в косвенном вопросе, *if* вместо *whether*, модель глагола или смысл. Исправь её и отправь предложение целиком."
+hints:
+  - "После предлога, перед инфинитивом и после discuss / question — только whether."
+  - "demand, recommend, suggest не берут объект + to do."
+  - "asked to do — действие самого просящего; asked sb to do — действие другого."
+items:
+  - q: "The committee discussed if the deadline should be extended."
+    answers: ["The committee discussed whether the deadline should be extended."]
+    explain: "После **discuss** нужен *whether*: обсуждают альтернативу «да или нет», и *if* здесь звучит неграмотно."
+  - q: "I couldn't see why to apologise when I had done nothing wrong."
+    answers: ["I couldn't see why I should apologise when I had done nothing wrong.", "I couldn't see why I should apologize when I had done nothing wrong."]
+    explain: "wh-слово + инфинитив работает с *what, how, where, when, whether*, но **не с why**: только *why I should apologise*."
+  - q: "She asked me where did I keep the receipts."
+    answers: ["She asked me where I kept the receipts."]
+    explain: "В косвенном вопросе прямой порядок и без *did*: **where I kept**."
+  - q: "The union demanded the management to reverse the decision."
+    answers: ["The union demanded that the management reverse the decision.", "The union demanded that the management should reverse the decision.", "The union demanded that management reverse the decision.", "The union demanded that management should reverse the decision."]
+    explain: "*demand* не берёт объект + инфинитив. Формальная модель — **demand that sb (should) do** с сослагательным *reverse*."
+  - q: "The consultant recommended us to upgrade the servers."
+    answers: ["The consultant recommended that we upgrade the servers.", "The consultant recommended that we should upgrade the servers.", "The consultant recommended we upgrade the servers.", "The consultant recommended we should upgrade the servers.", "The consultant recommended upgrading the servers."]
+    explain: "*recommend* — **that** sb (should) do или **-ing**. Модель *recommend sb to do* в современном стандартном английском считается ошибкой."
+  - q: "She asked to me to forward the invoice."
+    answers: ["She asked me to forward the invoice."]
+    explain: "*ask* берёт человека **без предлога**: *asked me to do*. Предлог появляется только в *ask for something*."
+  - q: "He asked whether or not was the offer still open."
+    answers: ["He asked whether or not the offer was still open.", "He asked whether the offer was still open or not."]
+    explain: "*whether or not* не отменяет прямой порядок: **the offer was**."
+  - q: "Has anyone asked why is the server down again?"
+    answers: ["Has anyone asked why the server is down again?"]
+    explain: "Вопрос здесь — главное предложение (*Has anyone asked…?*), а вложенный — косвенный, с прямым порядком: **why the server is**."
+  - q: "He muttered the whole thing was a farce."
+    answers: ["He muttered that the whole thing was a farce."]
+    explain: "После глаголов **манеры речи** (*mutter, whisper, shout*) *that* не опускают."
+  - q: "The officer ordered that everyone to leave the building."
+    answers: ["The officer ordered everyone to leave the building.", "The officer ordered that everyone leave the building.", "The officer ordered that everyone should leave the building."]
+    explain: "Либо **order sb to do**, либо формальное **order that sb (should) do** — смешивать модели нельзя."
+  - q: "Anna felt unwell and wanted to go home, so she asked me to leave early."
+    answers: ["Anna felt unwell and wanted to go home, so she asked to leave early.", "Anna felt unwell and wanted to go home, so she asked if she could leave early.", "Anna felt unwell and wanted to go home, so she asked whether she could leave early."]
+    explain: "Ошибка смысловая: уйти хотела Анна, значит **asked to leave** (без объекта). *asked me to leave* — просьба, чтобы ушёл я."

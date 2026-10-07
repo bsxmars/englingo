@@ -1,0 +1,44 @@
+title: "Глагол без предлога, существительное с предлогом"
+type: gap
+intro: "Впиши **один** предлог. Помни: у глагола предлога может не быть, а у существительного от того же корня он есть."
+hints:
+  - "discuss, emphasise, affect, approach, enter, answer — без предлога; у существительных от них предлог есть."
+  - "key / solution / access / alternative → to; increase / rise / fall → in (что меняется), of (на сколько)."
+  - "rise by 2% — величина изменения у глагола."
+items:
+  - q: "The board's decision to freeze salaries had a devastating impact ___ staff morale."
+    answers: ["on", "upon"]
+    explain: "**an impact on** — как *an effect on, an influence on*. Глагол *impact* в значении «влиять» тоже берёт *on*, а вот *affect* — без предлога."
+  - q: "The new manager discussed the plan with each team, but there was still a heated discussion ___ whether the office should close on Fridays."
+    answers: ["about", "of", "on"]
+    explain: "Глагол *discuss* — без предлога (*discussed the plan*), но у существительного предлог появляется: **a discussion about / of / on** something. Перед *whether* естественнее всего *about*."
+  - q: "The report places too little emphasis ___ the long-term costs of the scheme."
+    answers: ["on"]
+    explain: "**emphasis on**, хотя глагол *emphasise* предлога не требует: *emphasise the costs*."
+  - q: "Researchers still have no reliable access ___ the raw data."
+    answers: ["to"]
+    explain: "**access to** — доступ к чему-то. Глагол *access* — без предлога: *access the data*."
+  - q: "Nobody has yet found a satisfactory solution ___ the problem of overcrowding."
+    answers: ["to"]
+    explain: "**the solution to** a problem. Русское «решение проблемы» подталкивает к ~~of~~, но английский требует *to* — как *the key to, the answer to*."
+  - q: "Last year saw a sharp rise ___ the number of people working from home."
+    answers: ["in"]
+    explain: "Что именно выросло → **a rise in** the number. *of* показывало бы величину: *a rise of 20%*."
+  - q: "The company's profits fell ___ 12% in the third quarter, to their lowest level in a decade."
+    answers: ["by"]
+    explain: "Величина изменения после глагола → **by** 12%. Итоговая точка — *to* (*to their lowest level*). ~~fell on 12%~~ — калька с «упали на»."
+  - q: "The strike had a serious effect ___ the supply of medicines."
+    answers: ["on", "upon"]
+    explain: "**an effect on** — у существительного предлог есть. У глагола *affect* — нет: *The strike affected the supply.*"
+  - q: "The government's approach ___ the housing crisis has been widely criticised."
+    answers: ["to"]
+    explain: "**an approach to** a problem. Глагол *approach* — без предлога: *approach the problem*, ~~approach to the problem~~."
+  - q: "Their entry ___ the European market was delayed by new regulations."
+    answers: ["into", "to"]
+    explain: "**entry into** a market (реже *entry to*). Глагол *enter* — без предлога: *enter the market*."
+  - q: "Union leaders have renewed their demand ___ a shorter working week."
+    answers: ["for"]
+    explain: "**a demand for** something, хотя глагол *demand* — без предлога: *They demanded a shorter week*. Так же *a request for, a need for*."
+  - q: "I'm still waiting for a reply ___ my email of 3 March."
+    answers: ["to"]
+    explain: "**a reply to** (и глагол *reply to*). А вот *answer* как глагол — без предлога: *answer my email*; как существительное — *an answer to*."

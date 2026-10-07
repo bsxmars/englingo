@@ -1,0 +1,59 @@
+title: "Перефразирование: инверсия и but for (C1 Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы смысл совпал с первым. Используй **ключевое слово** без изменений и впиши от **двух до шести слов** (включая ключевое).
+hints:
+  - "Had + подлежащее + V3; Were + подлежащее + to; Should + подлежащее + инфинитив."
+  - "Отрицание в инверсии: Had it not been for, Were it not for — без сокращений."
+  - "But for + существительное = если бы не."
+items:
+  - q: "If I had known how demanding the course was, I would never have enrolled."
+    key: "HAD"
+    stem: "___ how demanding the course was, I would never have enrolled."
+    answers: ["Had I known", "Had I realised", "Had I realized"]
+    explain: "Counterfactual с инверсией: **Had I known** = *If I had known*."
+  - q: "If it weren't for her support, the whole project would collapse."
+    key: "WERE"
+    stem: "___ her support, the whole project would collapse."
+    answers: ["Were it not for"]
+    explain: "Устойчивая формула для настоящего: **Were it not for** = *If it weren't for*. *not* — после *it*, без сокращения."
+  - q: "If you need any further information, please contact our office."
+    key: "SHOULD"
+    stem: "___ any further information, please contact our office."
+    answers: ["Should you need", "Should you require", "Should you want"]
+    explain: "Формальное деловое письмо: **Should you need** = *If you (should) need*."
+  - q: "Without the doctor's quick thinking, the patient would have died."
+    key: "BEEN"
+    stem: "Had ___ quick thinking, the patient would have died."
+    answers: ["it not been for the doctor's"]
+    explain: "**Had it not been for** + существительное = «если бы не» в прошлом."
+  - q: "If the government were to raise taxes, there would be widespread protests."
+    key: "WERE"
+    stem: "___ taxes, there would be widespread protests."
+    answers: ["Were the government to raise", "Were the government to increase", "Were the government to put up"]
+    explain: "*If … were to* → **Were the government to raise**: подлежащее между *were* и *to*."
+  - q: "We will refund your money only if you produce a receipt."
+    key: "ONLY"
+    stem: "___ a receipt will we refund your money."
+    answers: ["Only if you produce", "Only if you show", "Only if you provide", "Only if you present", "Only if you have"]
+    explain: "**Only if** в начале → инверсия в главной части: *will we refund*."
+  - q: "I'll lend you the money, but you must pay me back by Friday."
+    key: "CONDITION"
+    stem: "I'll lend you the money ___ me back by Friday."
+    answers: ["on condition that you pay", "on the condition that you pay", "on condition you pay"]
+    explain: "Условие-требование → **on condition that** + Present."
+  - q: "If it hadn't been for the rain, we would have finished the match."
+    key: "BUT"
+    stem: "___ we would have finished the match."
+    answers: ["But for the rain"]
+    explain: "**But for** + существительное = *If it hadn't been for*."
+  - q: "If the weather isn't good, the ceremony will be held indoors."
+    key: "UNLESS"
+    stem: "The ceremony will be held indoors ___ good."
+    answers: ["unless the weather is"]
+    explain: "*if … not* → **unless** + утвердительный глагол: *unless the weather is good*."
+  - q: "If anything goes wrong while I'm away, call this number."
+    key: "SHOULD"
+    stem: "___ wrong while I'm away, call this number."
+    answers: ["Should anything go", "Should something go"]
+    explain: "Инверсия с **Should**: глагол после подлежащего — в начальной форме (*go*, не *goes*)."

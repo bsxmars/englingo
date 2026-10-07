@@ -1,0 +1,58 @@
+title: "Трансформации с reporting verbs (C1 Advanced, Part 4)"
+type: transform
+intro: |
+  Перескажи прямую речь с помощью **ключевого слова**, не меняя его формы. Впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "accuse sb of, congratulate sb on, apologise for, warn sb against + -ing."
+  - "urge / warn / remind + объект + (not) to do; threaten / refuse / offer + to do."
+items:
+  - q: "'I didn't break the vase, honestly,' said Tom."
+    key: "DENIED"
+    stem: "Tom ___ the vase."
+    answers: ["denied breaking", "denied having broken", "denied that he had broken", "denied that he broke", "denied he had broken", "denied he broke"]
+    explain: "*deny* + *-ing* (или перфектный герундий), либо *deny that…*"
+  - q: "'You really should see a specialist,' my GP told me."
+    key: "URGED"
+    stem: "My GP ___ a specialist."
+    answers: ["urged me to see", "urged me to consult", "urged me to go to"]
+    explain: "*urge* + объект + инфинитив: **urged me to see**."
+  - q: "'It was you who leaked the report!' the director said to Anna."
+    key: "ACCUSED"
+    stem: "The director ___ the report."
+    answers: ["accused Anna of leaking", "accused Anna of having leaked", "accused her of leaking", "accused her of having leaked"]
+    explain: "*accuse* + объект + **of** + *-ing*."
+  - q: "'Well done on passing your exams!' said my aunt."
+    key: "CONGRATULATED"
+    stem: "My aunt ___ my exams."
+    answers: ["congratulated me on passing", "congratulated me on having passed"]
+    explain: "*congratulate sb* **on** + *-ing* (не *for*)."
+  - q: "'I'll resign if the board ignores my proposal,' said the CEO."
+    key: "THREATENED"
+    stem: "The CEO ___ the board ignored his proposal."
+    answers: ["threatened to resign if", "threatened that he would resign if"]
+    explain: "*threaten* + инфинитив **без объекта**: *threatened to resign*."
+  - q: "'Don't sign anything until you've spoken to a lawyer,' she said to me."
+    key: "WARNED"
+    stem: "She ___ anything until I had spoken to a lawyer."
+    answers: ["warned me not to sign", "warned me against signing"]
+    explain: "*warn sb **not to** do* или *warn sb **against** doing*."
+  - q: "'I'm sorry I was so rude to you yesterday,' he said to me."
+    key: "APOLOGISED"
+    stem: "He ___ so rude to me the day before."
+    answers: ["apologised for being", "apologised for having been", "apologised to me for being", "apologised to me for having been"]
+    explain: "*apologise* (*to sb*) **for** + *-ing*."
+  - q: "'All right, I made a mistake with the figures,' the accountant said."
+    key: "ADMITTED"
+    stem: "The accountant ___ a mistake with the figures."
+    answers: ["admitted making", "admitted having made", "admitted to making", "admitted to having made", "admitted that she had made", "admitted that he had made", "admitted she had made", "admitted he had made", "admitted that she made", "admitted that he made"]
+    explain: "*admit* + *-ing* / *to* + *-ing* / *that*-clause — все три модели верны."
+  - q: "'You're quite right — there is a flaw in the design,' the engineer said to me."
+    key: "AGREED"
+    stem: "The engineer ___ there was a flaw in the design."
+    answers: ["agreed with me that"]
+    explain: "*agree* **with** sb **that**… — не ~~agreed me~~."
+  - q: "'Remember to back up your files before the update,' the IT team told us."
+    key: "REMINDED"
+    stem: "The IT team ___ our files before the update."
+    answers: ["reminded us to back up"]
+    explain: "*remind* + объект + инфинитив: **reminded us to back up**."

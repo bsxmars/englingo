@@ -1,0 +1,56 @@
+title: "of / with / by; кроме и помимо"
+type: choice
+intro: "Выбери единственный верный вариант."
+hints:
+  - "except for — оговорка к целому утверждению; except — перед предлогом и придаточным."
+  - "besides в утверждении = «помимо»; в отрицании = «кроме»."
+  - "with + конкретный предмет; by + способ без артикля."
+items:
+  - q: "The museum is open every day ___ Monday."
+    options: ["except", "besides", "without"]
+    answer: 0
+    explain: "После *every* исключаем один элемент → **except** (или *except for*). *besides* в утверждении значит «в дополнение»."
+  - q: "The report was excellent, ___ a few minor inconsistencies in the figures."
+    options: ["except", "except for", "besides"]
+    answer: 1
+    explain: "Оговорка ко всему утверждению → только **except for**. Голое *except* так не используется."
+  - q: "___ French and Spanish, she also speaks fluent Arabic."
+    options: ["Except", "Besides", "Without"]
+    answer: 1
+    explain: "Добавление («помимо») → **Besides**. На это указывает и *also*."
+  - q: "The shop is never busy ___ in the run-up to Christmas."
+    options: ["except", "except for", "besides"]
+    answer: 0
+    explain: "Перед **предложной фразой** (*in the run-up…*) — только *except*, без *for*."
+  - q: "She managed to prise the lid off ___ a screwdriver."
+    options: ["with", "by", "by means"]
+    answer: 0
+    explain: "Конкретный инструмент с артиклем → **with** a screwdriver. ~~by means a screwdriver~~ — нет *of*."
+  - q: "Tickets can be booked ___ phone or online."
+    options: ["with", "by", "with the"]
+    answer: 1
+    explain: "Способ в общем виде, без артикля → **by phone** (*by post, by email*)."
+  - q: "I'm looking for a winter jacket ___ a detachable hood."
+    options: ["of", "with", "by"]
+    answer: 1
+    explain: "Характерная черта предмета → **with**: *a jacket with a hood*."
+  - q: "Were you aware ___ the risks involved?"
+    options: ["of", "with", "about"]
+    answer: 0
+    explain: "**aware of**. ~~aware about~~ — калька с «знать о»."
+  - q: "The negotiations were fraught ___ difficulties from the very start."
+    options: ["of", "by", "with"]
+    answer: 2
+    explain: "**fraught with** — «полный (проблем, рисков)». Формальное сочетание."
+  - q: "They finally released the report, ___ the two chapters that criticised the minister."
+    options: ["minus", "besides", "apart"]
+    answer: 0
+    explain: "Подчёркнуто «за вычетом» → **minus**. *apart* без *from* не работает как предлог, *besides* добавляет, а не вычитает."
+  - q: "___ the weather, the holiday was a complete success."
+    options: ["Besides", "Apart from", "Without"]
+    answer: 1
+    explain: "«Если не считать погоды» → **Apart from**. *Besides the weather* — «помимо погоды», логика ломается."
+  - q: "He walked out of the meeting ___ saying a word."
+    options: ["except", "minus", "without"]
+    answer: 2
+    explain: "«Не делая чего-то» → **without** + -ing."

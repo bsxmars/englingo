@@ -1,0 +1,41 @@
+title: "whose, what, why и It was … that"
+type: gap
+intro: "Впиши **одно** слово. Если подходят два варианта (например, *who* и *that*), засчитывается любой."
+hints:
+  - "what = the thing that — только когда перед ним нет существительного."
+  - "После everything / all / something — that или ничего, но не what."
+  - "It was + выделенная часть + who (люди) / that."
+items:
+  - q: "Sorry, I didn't catch ___ you said. Could you repeat it?"
+    answers: ["what"]
+    explain: "Перед пропуском нет существительного, нужно «то, что» → **what** (= *the thing that*)."
+  - q: "Everything ___ he told us turned out to be true."
+    answers: ["that", "which"]
+    explain: "После *everything* — **that** (или ничего; *which* встречается редко). ~~everything what~~ — калька с русского «всё, что»."
+  - q: "___ I really need right now is a cup of strong coffee."
+    answers: ["What"]
+    explain: "Выделение: **What I need is…** — «Что мне сейчас нужно, так это…»."
+  - q: "The reason ___ I'm calling is to ask about your invoice."
+    answers: ["why", "that"]
+    explain: "*the reason* + **why** (или *that*, или ничего). *because* после *the reason* не ставят."
+  - q: "We stayed with a family ___ house overlooked the lake."
+    answers: ["whose"]
+    explain: "«Чей дом» → **whose house**. *whose* — для людей, а также для стран, компаний, зданий."
+  - q: "It was my sister ___ found the lost ring, not me."
+    answers: ["who", "that"]
+    explain: "Выделяем человека: *It was my sister **who / that** found…* Местоимение — подлежащее, опустить нельзя."
+  - q: "It was in 2015 ___ they finally got married."
+    answers: ["that", "when"]
+    explain: "Выделяем время: *It was in 2015 **that**…* Стандартный вариант — *that*; *when* тоже встречается в разговоре."
+  - q: "They don't sell ___ I'm looking for, so let's try another shop."
+    answers: ["what"]
+    explain: "Существительного перед пропуском нет → **what** (= *the thing that*). С существительным было бы *the thing (that) I'm looking for*."
+  - q: "It's a small town ___ population has doubled in just ten years."
+    answers: ["whose"]
+    explain: "«Чьё население» → **whose population**: *whose* работает и для неодушевлённых (город)."
+  - q: "What she did next ___ quit her job and move to Bali."
+    answers: ["was"]
+    explain: "*What she did…* выделяет действие, дальше **was** + голый инфинитив: *was quit her job and move…*"
+  - q: "It's the noise from the street ___ keeps me awake, not the heat."
+    answers: ["that", "which"]
+    explain: "Выделяем вещь → **that** (реже *which*). Местоимение — подлежащее (*keeps*), поэтому без него нельзя."

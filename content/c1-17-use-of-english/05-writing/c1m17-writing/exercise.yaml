@@ -1,0 +1,49 @@
+title: "Proposal: improving staff English"
+type: writing
+intro: "Напиши proposal в формате C1 Advanced, Part 2. Заголовок и подзаголовки, формальный регистр, коллокации и предложные фразы из модуля."
+prompt: |
+  The international software company you work for wants to improve the English of its developers, many of whom need to communicate with clients and colleagues abroad. The HR director has invited staff to submit **proposals** on how the company's training budget could best be spent.
+
+  In your proposal you should:
+
+  - briefly **describe the current situation** and the main difficulties staff face;
+  - **suggest two or three measures** the company could take;
+  - **explain how** these measures would benefit both employees and the company.
+
+  Write your **proposal** in **220–260 words**.
+words: [220, 260]
+target_grammar:
+  - "Коллокации: take steps, raise awareness, meet a need, make progress, draw on, pose a challenge"
+  - "Предложные фразы: with regard to, in terms of, on behalf of, in favour of, regardless of"
+  - "Формальные рекомендации: It is recommended that…, I would propose that…, Should the company…"
+checklist:
+  - "Есть заголовок и 3–4 подзаголовка (например, Introduction, Current situation, Proposed measures, Benefits)."
+  - "Во введении названа цель proposal и для кого он написан."
+  - "Каждое предложение конкретно: что, для кого, как часто, сколько стоит или сколько времени займёт."
+  - "Объяснено, какую пользу получат и сотрудники, и компания."
+  - "Использовано не меньше пяти коллокаций и трёх предложных фраз из модуля."
+  - "Рекомендации оформлены формально: It is recommended that…, I would propose…, Should the company…, the company would benefit from…"
+  - "Формальный регистр: без сокращений и разговорной лексики."
+  - "Объём 220–260 слов."
+model_answer: |
+  **Proposal for improving developers' English**
+
+  **Introduction**
+
+  The aim of this proposal is to suggest how the training budget could be used to improve the English of our development teams, many of whom now work directly with overseas clients.
+
+  **Current situation**
+
+  Although most developers read technical documentation in English with ease, many find spoken communication considerably more demanding. In meetings with clients, they tend to remain silent rather than raise concerns, and several projects have been delayed as a result of misunderstandings over requirements. Written communication also poses a challenge: emails are often either too abrupt or excessively apologetic.
+
+  **Proposed measures**
+
+  Firstly, I would propose weekly small-group sessions with a qualified tutor, focusing specifically on meetings, presentations and negotiating with clients. Secondly, it is recommended that the company subscribe to an online platform for business writing, so that staff can work at their own pace regardless of their schedules. Finally, experienced colleagues who are confident in English could act as mentors, reviewing important emails before they are sent.
+
+  **Benefits**
+
+  In terms of individual development, these measures would help employees make rapid progress in exactly the areas they find most difficult, and would increase their confidence when dealing with clients. With regard to the company, clearer communication would reduce costly delays and strengthen relationships with international partners.
+
+  **Conclusion**
+
+  Should the company decide to take these steps, I am confident that the investment would be repaid many times over within a year.

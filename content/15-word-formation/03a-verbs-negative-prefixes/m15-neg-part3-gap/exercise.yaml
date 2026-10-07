@@ -1,0 +1,44 @@
+title: "Отрицание в контексте: цепочки Part 3"
+type: gap
+intro: "Формат B2 First Use of English, Part 3. Образуй от слова КАПСОМ подходящее слово. Почти везде нужно **две-три** операции: приставка + суффикс + окончание. Ищи в контексте сигналы отрицания."
+hints:
+  - "Есть ли but, however, complained, refused, nobody — сигналы, что нужно «не-»?"
+  - "После приставки корень не меняется: dis + satisfied = dissatisfied."
+  - "Проверь число (-s) и время (-ed)."
+items:
+  - q: "The view from the top was ___ (BELIEVE) beautiful — we just stood there in silence."
+    answers: ["unbelievably"]
+    explain: "Перед прилагательным *beautiful* — наречие: *un + believ(e) + able → unbelievab**ly***. *-le* меняется на *-ly*."
+  - q: "Nobody could read his notes — his handwriting was completely ___ (LEGIBLE)."
+    answers: ["illegible"]
+    explain: "*Nobody could read* → «нечитаемый»; перед *l* — **il-** с удвоением: **illegible**."
+  - q: "There were a few ___ (AGREE) between the two teams, but they finished the project on time."
+    answers: ["disagreements"]
+    explain: "*a few* + мн. ч.; *but… finished on time* указывает на трудности → **dis** + *agree* + **ment** + **s**."
+  - q: "Many customers were ___ (SATISFY) with the new design and wrote angry reviews."
+    answers: ["dissatisfied", "unsatisfied"]
+    explain: "*angry reviews* → недовольные: ***dis**satisfied* (две *s*). *unsatisfied* встречается реже, но тоже возможно."
+  - q: "I'm sorry for any ___ (CONVENIENT) caused by the roadworks."
+    answers: ["inconvenience"]
+    explain: "*any ___ caused* → существительное; извинение → отрицательное: **in** + *conveni* + **ence**."
+  - q: "The weather in the mountains is highly ___ (PREDICT), so always take warm clothes."
+    answers: ["unpredictable"]
+    explain: "*so always take warm clothes* → погода непредсказуема: **un** + *predict* + **able**."
+  - q: "Our train was ___ (AVOID) delayed because of a fallen tree on the line."
+    answers: ["unavoidably"]
+    explain: "Перед причастием *delayed* — наречие: *un + avoid + able → **unavoidably*** (неизбежно)."
+  - q: "Two ___ (EXPERIENCE) climbers had to be rescued from the mountain yesterday."
+    answers: ["inexperienced"]
+    explain: "Перед существительным *climbers* — прилагательное, а *had to be rescued* → «неопытные»: **in** + *experience* + **d**. Без *-s*: прилагательное не изменяется по числу."
+  - q: "The accident was caused by a ___ (FUNCTION) in the engine."
+    answers: ["malfunction"]
+    explain: "*a ___ in the engine* → существительное «неисправность»: **mal-** = плохо, неправильно."
+  - q: "Leaving young children alone at home is extremely ___ (RESPONSIBLE)."
+    answers: ["irresponsible"]
+    explain: "Оценка поступка — отрицательная: **ir-** перед *r*, *r* удваивается: **irresponsible**."
+  - q: "The whole argument started with a simple ___ (UNDERSTAND) about the date."
+    answers: ["misunderstanding"]
+    explain: "*a simple ___ about* → существительное: **mis** (неправильно) + *understand* + **ing**."
+  - q: "Experts say the risk of a serious accident is almost ___ (EXIST)."
+    answers: ["non-existent", "nonexistent"]
+    explain: "*almost ___* после *is* → прилагательное «несуществующий»: **non** + *exist* + **ent**. Пишется через дефис или слитно."

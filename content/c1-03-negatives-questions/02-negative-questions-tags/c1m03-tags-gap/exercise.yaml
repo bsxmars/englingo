@@ -1,0 +1,44 @@
+title: "Question tags в трудных случаях"
+type: gap
+intro: "Впиши question tag — **вспомогательный глагол и местоимение** (например, *isn't it*). Сокращения засчитываются."
+hints:
+  - "I am → aren't I; let's → shall we; nobody / everyone → they; nothing → it."
+  - "never, hardly, little, neither делают предложение отрицательным — тег утвердительный."
+  - "После повелительного — will / would / could / can you."
+items:
+  - q: "I'm on the shortlist for the interview, ___?"
+    answers: ["aren't I", "am I not"]
+    explain: "Для *I am* тег — **aren't I** (формы ~~amn't I~~ нет). Очень формальный вариант — *am I not*."
+  - q: "Let's postpone the vote until Friday, ___?"
+    answers: ["shall we"]
+    explain: "После *Let's* тег всегда **shall we** — это предложение сделать что-то вместе."
+  - q: "Nobody has complained about the new policy, ___?"
+    answers: ["have they"]
+    explain: "*Nobody* — отрицание, поэтому тег утвердительный; местоимение — **they**: *have they?*"
+  - q: "Nothing could have been done to save the project, ___?"
+    answers: ["could it"]
+    explain: "*Nothing* → тег утвердительный и с местоимением **it**: *could it?* Вспомогательный — первый модальный: *could*."
+  - q: "Don't mention the budget during the presentation, ___?"
+    answers: ["will you"]
+    explain: "После отрицательного повелительного стандартный тег — **will you**: просьба или предупреждение."
+  - q: "She hardly ever takes a day off, ___?"
+    answers: ["does she"]
+    explain: "*hardly ever* делает предложение отрицательным → утвердительный тег: **does she**."
+  - q: "There's little point in arguing about it now, ___?"
+    answers: ["is there"]
+    explain: "*little* (без *a*) = «почти нет» — отрицательное значение → **is there**. Подлежащее *there* повторяется в теге."
+  - q: "You'd rather we met in person, ___?"
+    answers: ["wouldn't you"]
+    explain: "*'d rather* = *would rather* → тег **wouldn't you**."
+  - q: "He'd already left by the time you called, ___?"
+    answers: ["hadn't he"]
+    explain: "*'d* + V3 (*left*) = *had* → Past Perfect → **hadn't he**."
+  - q: "You used to live in Riga, ___?"
+    answers: ["didn't you"]
+    explain: "*used to* — прошедшее время обычного глагола, вспомогательный — *did*: **didn't you**."
+  - q: "Neither of the candidates turned up for the second interview, ___?"
+    answers: ["did they"]
+    explain: "*Neither* — отрицание → утвердительный тег; про двух людей — **they**: *did they?*"
+  - q: "Oh, so you think the delay was my fault, ___? Well, think again."
+    answers: ["do you"]
+    explain: "Утверждение + **утвердительный** тег — реакция на услышанное, здесь с раздражением: *do you?* Обычный тег *don't you* звучал бы как нейтральная проверка и не передал бы возмущения."

@@ -1,0 +1,40 @@
+title: "Впиши форму после reporting verb"
+type: gap
+intro: "Перескажи прямую речь: впиши глагол в скобках в нужной форме вместе с предлогом или *not*, если они нужны."
+hints:
+  - "После предлога (of, for, on) — всегда -ing."
+  - "having + V3 подчёркивает, что действие было раньше, но простое -ing тоже верно."
+items:
+  - q: "\"I didn't copy the homework!\" → Paul denied ___ (copy) the homework."
+    answers: ["copying", "having copied"]
+    explain: "**deny + -ing**. *having copied* подчёркивает, что действие было раньше."
+  - q: "\"Why don't you apply for the job?\" → My friend suggested that I ___ (apply) for the job."
+    answers: ["should apply", "apply", "applied"]
+    explain: "**suggest that sb should do** (британский), *that sb do* (американский) или Past Simple. Инфинитив с *to* невозможен."
+  - q: "\"Stop shouting or I'll call security!\" → The manager threatened ___ (call) security."
+    answers: ["to call"]
+    explain: "**threaten to do**."
+  - q: "\"OK, I'll lend you the car.\" → Dad agreed ___ (lend) me the car."
+    answers: ["to lend"]
+    explain: "**agree to do** — согласиться что-то сделать."
+  - q: "\"You cheated in the exam!\" → The teacher accused Mark ___ (cheat) in the exam."
+    answers: ["of cheating", "of having cheated"]
+    explain: "**accuse sb of + -ing**."
+  - q: "\"I'm sorry I forgot your birthday.\" → She apologised ___ (forget) my birthday."
+    answers: ["for forgetting", "for having forgotten"]
+    explain: "**apologise for + -ing**; *having forgotten* — действие раньше извинения."
+  - q: "\"Remember to lock the door.\" → My flatmate reminded me ___ (lock) the door."
+    answers: ["to lock"]
+    explain: "**remind sb to do**."
+  - q: "\"If I were you, I wouldn't buy that car.\" → My mechanic advised me ___ (not / buy) that car."
+    answers: ["not to buy", "against buying"]
+    explain: "Совет «не делать» → **advise sb not to do**. Можно и *advised me against buying*."
+  - q: "\"I'll pay for the taxi, I insist!\" → Kate insisted ___ (pay) for the taxi."
+    answers: ["on paying"]
+    explain: "**insist on + -ing**. ~~insisted to pay~~ — частая ошибка."
+  - q: "\"It was me who left the door open.\" → Jim admitted ___ (leave) the door open."
+    answers: ["leaving", "having left", "to leaving", "to having left"]
+    explain: "**admit (to) + -ing / having done**."
+  - q: "\"Try the cheesecake, it's amazing.\" → Our waiter recommended ___ (try) the cheesecake."
+    answers: ["trying", "that we try", "that we should try", "we try", "we should try"]
+    explain: "**recommend + -ing** или *recommend that we (should) try* — как у *suggest*."

@@ -1,0 +1,41 @@
+title: "Найди и исправь ошибку: эллипсис"
+type: error
+intro: "В каждом предложении **одна** ошибка в эллипсисе: опущено то, что опускать нельзя, оставлено лишнее или выбран не тот вспомогательный. Исправь её и отправь предложение целиком."
+hints:
+  - "be после модального и to после want / able / used остаются."
+  - "Neither / nor уже содержат отрицание."
+  - "В сравнении вещей нужен possessive."
+items:
+  - q: "She isn't at her desk right now, but she will in an hour."
+    answers: ["She isn't at her desk right now, but she will be in an hour.", "She isn't at her desk right now, but she'll be in an hour."]
+    explain: "После модального *be* не опускается: **she will be in an hour**."
+  - q: "Ben doesn't drink coffee, and so do I."
+    answers: ["Ben doesn't drink coffee, and neither do I.", "Ben doesn't drink coffee, and nor do I.", "Ben doesn't drink coffee, and I don't either."]
+    explain: "Согласие с отрицанием — **neither / nor do I** или *I don't either*. *so do I* согласуется только с утверждением."
+  - q: "Anna has finished her part of the project, and so I have."
+    answers: ["Anna has finished her part of the project, and so have I."]
+    explain: "«Я тоже» — с инверсией: **so have I**. Без инверсии *so I have* значит «и правда», что здесь не по смыслу."
+  - q: "The flat was much smaller than had described in the advert."
+    answers: ["The flat was much smaller than had been described in the advert.", "The flat was much smaller than was described in the advert.", "The flat was much smaller than described in the advert."]
+    explain: "Безличное сравнение строится пассивом: **than had been described**. *had described* без подлежащего — актив без деятеля, так нельзя."
+  - q: "If is possible, please reply by Friday."
+    answers: ["If possible, please reply by Friday.", "If it is possible, please reply by Friday.", "If it's possible, please reply by Friday."]
+    explain: "Опускаются **и** подлежащее, **и** *be*: *If possible*. Либо оставь оба: *If it is possible*."
+  - q: "My laptop is much faster than my brother."
+    answers: ["My laptop is much faster than my brother's.", "My laptop is much faster than my brother's laptop.", "My laptop is much faster than my brother's one."]
+    explain: "Сравниваем ноутбуки, поэтому **my brother's** (существительное после possessive опущено). Без 's ноутбук сравнивается с братом."
+  - q: "He earns considerably more than I am."
+    answers: ["He earns considerably more than I do.", "He earns considerably more than me.", "He earns considerably more than I."]
+    explain: "Во второй части повторяется *earn* (Present Simple) → вспомогательный **do**: *than I do*. *am* подходит только к *be*."
+  - q: "I'm not sure he'll come to the party, but I hope."
+    answers: ["I'm not sure he'll come to the party, but I hope so.", "I'm not sure he'll come to the party, but I hope he will."]
+    explain: "*hope* не стоит без дополнения: **I hope so** заменяет придаточное «что он придёт»."
+  - q: "Though tired, but she finished the report before midnight."
+    answers: ["Though tired, she finished the report before midnight."]
+    explain: "*though* и *but* в одном предложении не сочетаются (русское «хотя…, но»). Оставь **Though tired, she…**"
+  - q: "We were hoping the price would fall, and it was."
+    answers: ["We were hoping the price would fall, and it did."]
+    explain: "Опущенный глагол — *fell* (Past Simple), поэтому остаётся **did**. *was* подходит только к *be*."
+  - q: "As expecting, the results of the trial were inconclusive."
+    answers: ["As expected, the results of the trial were inconclusive.", "As was expected, the results of the trial were inconclusive.", "As had been expected, the results of the trial were inconclusive."]
+    explain: "Результатов «ожидали» → пассивное значение, нужен V3: **As expected**. *expecting* — активное причастие."

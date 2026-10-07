@@ -1,0 +1,47 @@
+title: "Выбери форму"
+type: choice
+intro: "Выбери вариант, который звучит естественно. Обрати внимание на количество, длительность и глаголы состояния."
+hints:
+  - "How long…? с действием, которое продолжается, — обычно Continuous."
+  - "Число, «сколько раз», готовый результат — Simple."
+items:
+  - q: "How long ___ for this company?"
+    options: ["do you work", "have you been working", "are you working"]
+    answer: 1
+    explain: "«Как давно ты работаешь…» — длится до сих пор → **have you been working**. Русское настоящее время — ловушка."
+  - q: "I ___ this film three times."
+    options: ["have been watching", "have watched", "am watching"]
+    answer: 1
+    explain: "**Three times** — сколько раз → Present Perfect Simple."
+  - q: "She ___ her keys all morning, but she still can't find them."
+    options: ["is looking for", "has been looking for", "looks for"]
+    answer: 1
+    explain: "Процесс, который длился всё утро (**all morning**) и не дал результата → **has been looking for**."
+  - q: "We ___ each other for years."
+    options: ["have been knowing", "have known", "are knowing"]
+    answer: 1
+    explain: "*know* — глагол состояния → только Simple: **have known**."
+  - q: "— Why are your clothes so dirty? — I ___ the car."
+    options: ["have been repairing", "had repaired", "repair"]
+    answer: 0
+    explain: "Грязная одежда — след недавнего занятия → **have been repairing**."
+  - q: "I've been reading this book for a week, but I ___ only half of it."
+    options: ["have been reading", "have read", "read"]
+    answer: 1
+    explain: "Сколько прочитано (**half of it**) → Simple. Первая часть предложения — про процесс, вторая — про результат."
+  - q: "They ___ a new house. They moved in last month."
+    options: ["have bought", "have been buying", "are buying"]
+    answer: 0
+    explain: "Покупка — завершённое действие с результатом (дом их) → **have bought**."
+  - q: "How many cups of coffee ___ today?"
+    options: ["have you been drinking", "have you drunk", "are you drinking"]
+    answer: 1
+    explain: "**How many** — количество → Simple: *have you drunk*."
+  - q: "This bag ___ to my grandmother for fifty years."
+    options: ["has been belonging", "has belonged", "belongs"]
+    answer: 1
+    explain: "*belong* — глагол владения, Continuous невозможен; длится до сих пор + **for** → **has belonged**."
+  - q: "Prices ___ steadily since January."
+    options: ["have been rising", "rose", "are rising"]
+    answer: 0
+    explain: "Процесс начался в прошлом (**since January**) и продолжается → **have been rising**. *rose* не сочетается с *since*."

@@ -1,0 +1,44 @@
+title: "Найди и исправь ошибку: зависимые предлоги"
+type: error
+intro: "В каждом предложении **одна** ошибка: лишний, пропущенный или не тот предлог. Исправь её и отправь предложение целиком."
+hints:
+  - "discuss, affect, influence, enter, approach — без предлога; их существительные — с предлогом."
+  - "Перед that-предложением предлог выпадает."
+  - "После предлога — существительное или -ing."
+items:
+  - q: "We discussed about the new pricing model for almost two hours."
+    answers: ["We discussed the new pricing model for almost two hours.", "We talked about the new pricing model for almost two hours."]
+    explain: "Глагол **discuss** присоединяет дополнение напрямую. Предлог есть у *talk about* и у существительного *discussion about*."
+  - q: "The pandemic had a strong influence to the way we work."
+    answers: ["The pandemic had a strong influence on the way we work."]
+    explain: "Существительное **influence** — с **on**: *an influence on something*."
+  - q: "I'm aware of that the project is behind schedule."
+    answers: ["I'm aware that the project is behind schedule.", "I'm aware of the fact that the project is behind schedule."]
+    explain: "Перед *that*-предложением предлог выпадает: **aware that**. Либо добавь *the fact*: *aware of the fact that*."
+  - q: "Don't be angry on him — it wasn't his fault."
+    answers: ["Don't be angry with him — it wasn't his fault.", "Don't be angry at him — it wasn't his fault."]
+    explain: "Злиться **на человека** — *angry **with*** (или *at*), не ~~on~~ (калька с «злиться на»)."
+  - q: "She's very capable to manage a team of twenty people."
+    answers: ["She's very capable of managing a team of twenty people.", "She is very capable of managing a team of twenty people.", "She's very able to manage a team of twenty people.", "She is very able to manage a team of twenty people."]
+    explain: "**capable of** + *-ing*. Инфинитив ставится после *able*: *able to manage*."
+  - q: "This rule doesn't affect on people who work part-time."
+    answers: ["This rule doesn't affect people who work part-time.", "This rule doesn't have an effect on people who work part-time."]
+    explain: "Глагол **affect** — без предлога. Предлог *on* нужен существительному: *have an effect **on***."
+  - q: "Users complain that there is no easy access for the settings menu."
+    answers: ["Users complain that there is no easy access to the settings menu."]
+    explain: "Доступ **к** чему-то → **access to**."
+  - q: "My new laptop is very different with my old one."
+    answers: ["My new laptop is very different from my old one.", "My new laptop is very different to my old one.", "My new laptop is very different than my old one."]
+    explain: "**different from** (брит. также *to*, амер. *than*). С *with* — нет."
+  - q: "I'm not used to work in an open-plan office."
+    answers: ["I'm not used to working in an open-plan office.", "I am not used to working in an open-plan office."]
+    explain: "В *be used to* слово *to* — предлог, поэтому дальше **-ing**: *used to working*."
+  - q: "The company is famous of its excellent customer service."
+    answers: ["The company is famous for its excellent customer service."]
+    explain: "**famous for** — знаменит чем-то. Сравни: *proud of*, но *famous for*."
+  - q: "There's been a big increase of the number of remote jobs."
+    answers: ["There's been a big increase in the number of remote jobs.", "There has been a big increase in the number of remote jobs."]
+    explain: "То, что выросло, вводится через **in**: *an increase **in** the number*. *of* — размер роста: *an increase of 30%*."
+  - q: "He apologised to the client for the delay and promised to solve the problem to Friday."
+    answers: ["He apologised to the client for the delay and promised to solve the problem by Friday.", "He apologized to the client for the delay and promised to solve the problem by Friday."]
+    explain: "*apologise **to** sb **for** sth* — верно. Ошибка в сроке: «не позже пятницы» → **by** Friday."

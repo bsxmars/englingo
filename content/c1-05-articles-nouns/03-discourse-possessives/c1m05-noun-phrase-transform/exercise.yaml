@@ -1,0 +1,61 @@
+title: "Перефразирование: свернуть в именную группу"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+
+  В C1 Advanced Part 4 часто проверяют, умеешь ли ты свернуть глагольную конструкцию в именную: *the walk takes ten minutes → a ten-minute walk*.
+hints:
+  - "Первая часть compound стоит в единственном числе: a five-year plan, a ten-minute walk."
+  - "Время и мера — через 's: a month's notice, yesterday's meeting."
+  - "«Один из друзей X» — a friend of X's."
+items:
+  - q: "It takes ten minutes to walk from the station to the hotel."
+    key: "MINUTE"
+    stem: "The hotel is ___ the station."
+    answers: ["a ten-minute walk from", "a ten minute walk from"]
+    explain: "Мера в составе compound — в единственном числе через дефис: **a ten-minute walk from**."
+  - q: "Margaret has many friends, and Lucy is one of them."
+    key: "FRIEND"
+    stem: "Lucy is ___ ."
+    answers: ["a friend of Margaret's", "a friend of Margaret"]
+    explain: "«Одна из подруг» — double possessive: **a friend of Margaret's**. Вариант без 's (*a friend of Margaret*) тоже встречается."
+  - q: "The development plan for the city will run for five years."
+    key: "YEAR"
+    stem: "The city has adopted ___ for its development."
+    answers: ["a five-year plan", "a five year plan"]
+    explain: "Срок в составе compound — в единственном числе: **a five-year plan**. ~~a five-years plan~~ — ошибка."
+  - q: "The company told us we had to leave, but gave us a month to do it."
+    key: "NOTICE"
+    stem: "The company gave us ___ to leave."
+    answers: ["a month's notice", "one month's notice", "a month's notice in which"]
+    explain: "Мера времени — possessive: **a month's notice** (уведомление за месяц)."
+  - q: "Prices rose sharply last month, which alarmed the central bank."
+    key: "INCREASE"
+    stem: "The central bank was alarmed by ___ last month."
+    answers: ["the sharp increase in prices", "the sharp price increase", "a sharp increase in prices", "a sharp price increase", "the sharp increase in price"]
+    explain: "Глагол *rise sharply* сворачивается в существительное: **the sharp increase in prices** или compound **the sharp price increase**."
+  - q: "The meeting that we had yesterday was a complete waste of time."
+    key: "YESTERDAY'S"
+    stem: "___ a complete waste of time."
+    answers: ["Yesterday's meeting was"]
+    explain: "Время — через possessive: **Yesterday's meeting was**. Так же *last week's figures, today's paper*."
+  - q: "If you want to apply for a visa, you will need to complete a form."
+    key: "APPLICATION"
+    stem: "You will need to complete ___ ."
+    answers: ["a visa application form", "the visa application form", "an application form for a visa", "the application form for a visa", "a visa application"]
+    explain: "Описание сворачивается в сжатый compound: **a visa application form**. Возможна и *of*-подобная структура *an application form for a visa*."
+  - q: "This hospital only treats patients under the age of sixteen."
+    key: "CHILDREN'S"
+    stem: "This is ___ ."
+    answers: ["a children's hospital"]
+    explain: "Classifying possessive «для кого»: **a children's hospital**. Не ~~a children hospital~~."
+  - q: "The government decided to raise taxes, and this was deeply unpopular."
+    key: "DECISION"
+    stem: "___ to raise taxes was deeply unpopular."
+    answers: ["The government's decision", "The decision by the government", "The decision of the government"]
+    explain: "Глагол *decided* → существительное **decision**; обладатель — организация, поэтому естественно **The government's decision**."
+  - q: "I'm going to spend the weekend at my grandmother's house."
+    key: "GRANDMOTHER'S"
+    stem: "I'm going to ___ for the weekend."
+    answers: ["stay at my grandmother's", "be at my grandmother's", "go to my grandmother's", "stay at my grandmother's house", "go to my grandmother's house"]
+    explain: "Possessive без существительного, когда «дом» понятен: **at / to my grandmother's**."

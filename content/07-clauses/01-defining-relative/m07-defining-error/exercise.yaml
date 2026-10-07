@@ -1,0 +1,44 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка в relative clause. Исправь её и отправь всё предложение целиком. Запятые при проверке не учитываются — ошибка всегда в словах."
+hints:
+  - "who — люди, which — вещи, that — и то и другое (но не после предлога)."
+  - "Внутри придаточного не повторяй объект: the book I read, а не the book I read it."
+  - "where — только если внутри «есть» место с предлогом: live in → where; visit → which / that."
+items:
+  - q: "The woman which lives next door is a vet."
+    answers: ["The woman who lives next door is a vet.", "The woman that lives next door is a vet."]
+    explain: "Про людей — **who** или *that*. *which* — только для вещей и животных."
+  - q: "This is the book which I told you about it."
+    answers: ["This is the book which I told you about.", "This is the book that I told you about.", "This is the book I told you about."]
+    explain: "*which* уже заменяет *the book*, поэтому **it** лишнее. В русском «о которой» тоже одно слово, без «о ней»."
+  - q: "I'd like to see the museum where you visited last summer."
+    answers: ["I'd like to see the museum which you visited last summer.", "I'd like to see the museum that you visited last summer.", "I'd like to see the museum you visited last summer."]
+    explain: "*visit* — переходный глагол (*visit a museum*), предлога нет → **which / that** или ничего. *where* = *in which*."
+  - q: "I've got a friend who's father is a pilot."
+    answers: ["I've got a friend whose father is a pilot."]
+    explain: "«Чей отец» → **whose**. *who's* = *who is / who has*."
+  - q: "The reason because I left was the salary."
+    answers: ["The reason why I left was the salary.", "The reason that I left was the salary.", "The reason I left was the salary."]
+    explain: "После *the reason* — **why**, *that* или ничего. *because* здесь невозможно."
+  - q: "That I need now is a long holiday."
+    answers: ["What I need now is a long holiday."]
+    explain: "«То, что мне нужно» → **What** I need. *that* требует существительного перед собой."
+  - q: "Everything what she said was true."
+    answers: ["Everything that she said was true.", "Everything she said was true."]
+    explain: "После *everything, anything, all, nothing* — **that** или ничего. *what* уже содержит «то», с *everything* получается двойное."
+  - q: "The man stole my bag was about twenty."
+    answers: ["The man who stole my bag was about twenty.", "The man that stole my bag was about twenty."]
+    explain: "Местоимение — **подлежащее** придаточного (*the man stole*), опускать его нельзя: **who** stole."
+  - q: "She's the only person who she understands me."
+    answers: ["She's the only person who understands me.", "She's the only person that understands me."]
+    explain: "*who* уже подлежащее придаточного, повторять *she* нельзя: **who understands** me."
+  - q: "The company for that I work is based in Kazan."
+    answers: ["The company for which I work is based in Kazan.", "The company which I work for is based in Kazan.", "The company that I work for is based in Kazan.", "The company I work for is based in Kazan."]
+    explain: "После предлога *that* невозможен: **for which**. Разговорный вариант — предлог в конец: *the company (that) I work for*."
+  - q: "Do you remember the hotel which we stayed?"
+    answers: ["Do you remember the hotel where we stayed?", "Do you remember the hotel which we stayed at?", "Do you remember the hotel that we stayed at?", "Do you remember the hotel we stayed at?", "Do you remember the hotel in which we stayed?", "Do you remember the hotel at which we stayed?"]
+    explain: "*stay **at** a hotel* — нужен предлог. Либо **where** (= *at which*), либо *which … at*."
+  - q: "People which work night shifts often sleep badly."
+    answers: ["People who work night shifts often sleep badly.", "People that work night shifts often sleep badly."]
+    explain: "*people* — люди → **who** (или *that*)."

@@ -1,0 +1,43 @@
+title: "much, many, a few, few, a little, little"
+type: gap
+intro: "Вставь одно из: **much, many, a few, few, a little, little**. Подходит ровно один вариант."
+hints:
+  - "Сначала реши: можно ли посчитать? Да → many / a few / few. Нет → much / a little / little."
+  - "С артиклем (a few, a little) — «немного, но достаточно». Без артикля — «мало, почти нет»."
+items:
+  - q: "How ___ money do you need for the trip?"
+    answers: ["much"]
+    explain: "*money* неисчисляемое → **How much**."
+  - q: "How ___ people came to the meeting?"
+    answers: ["many"]
+    explain: "*people* — исчисляемое во множественном числе → **How many**."
+  - q: "There's very ___ milk left — can you buy some?"
+    answers: ["little"]
+    explain: "Молока почти нет (поэтому надо купить), *milk* неисчисляемое → **very little**. *very a little* не бывает."
+  - q: "I've only got ___ friends in Spain, but at least I won't be completely alone there."
+    answers: ["a few"]
+    explain: "Друзей немного, но они есть — позитивный оттенок → **a few**. *only a few* — устойчивое сочетание."
+  - q: "The talk was so boring that ___ people stayed until the end."
+    answers: ["few"]
+    explain: "Почти никто не остался — негатив → **few** без артикля."
+  - q: "Could I have ___ sugar in my tea, please?"
+    answers: ["a little"]
+    explain: "Немного сахара (и мне этого хватит), *sugar* неисчисляемое → **a little**."
+  - q: "I'm busy, but I've got ___ minutes now if you want to talk."
+    answers: ["a few"]
+    explain: "Несколько минут есть — позитив, *minutes* исчисляемое → **a few**."
+  - q: "He has ___ patience, so don't keep him waiting."
+    answers: ["little"]
+    explain: "Терпения почти нет (поэтому не заставляй ждать) → **little** без артикля."
+  - q: "We didn't spend ___ time in the museum — the kids got bored."
+    answers: ["much"]
+    explain: "Отрицание + неисчисляемое *time* → **much**. В отрицаниях *much* звучит естественно."
+  - q: "There aren't ___ good cafés around here."
+    answers: ["many"]
+    explain: "Отрицание + исчисляемое во множественном числе → **many**."
+  - q: "She speaks ___ Spanish — enough to order food and ask for directions."
+    answers: ["a little"]
+    explain: "Немного, но достаточно (*enough to order food*) → **a little**. *little Spanish* значило бы «почти не говорит»."
+  - q: "It's a really difficult exam, so very ___ students pass it the first time."
+    answers: ["few"]
+    explain: "Почти никто не сдаёт с первого раза, *students* исчисляемое → **very few**."

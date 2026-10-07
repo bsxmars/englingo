@@ -1,0 +1,47 @@
+title: "Выбери самый естественный вариант"
+type: choice
+intro: "Выбери вариант, который звучит естественно для носителя в этой ситуации."
+hints:
+  - "Спроси себя: решение только что или заранее? Есть договорённость? Это расписание?"
+  - "Предлагаешь помощь вопросом — Shall I…?"
+items:
+  - q: "— I'm cold. — ___ close the window?"
+    options: ["Shall I", "Will I", "Am I going to"]
+    answer: 0
+    explain: "Предложение помощи в форме вопроса → **Shall I…?**"
+  - q: "— Why are you buying so much food? — I ___ have a party on Saturday."
+    options: ["will", "am going to", "have"]
+    answer: 1
+    explain: "Решение принято заранее (поэтому и покупает еду) → **going to**. *will* звучало бы как решение, принятое прямо сейчас."
+  - q: "I'm sure you ___ the exam. You've worked so hard."
+    options: ["are passing", "will pass", "pass"]
+    answer: 1
+    explain: "Мнение, уверенность (**I'm sure**) → **will**."
+  - q: "My flight ___ at 9:30, so I need to be at the airport by 7."
+    options: ["leaves", "is going to leave", "leave"]
+    answer: 0
+    explain: "Расписание рейса → **Present Simple**: *leaves*."
+  - q: "We ___ dinner with Mark's parents on Saturday — it's all arranged."
+    options: ["have", "are having", "will have"]
+    answer: 1
+    explain: "Договорённость (*it's all arranged*) → **Present Continuous**."
+  - q: "— There's no milk. — Really? I ___ some on my way home."
+    options: ["am going to buy", "will buy", "buy"]
+    answer: 1
+    explain: "Узнал о проблеме только что и решил сразу → **will**: *I'll buy some.*"
+  - q: "She's driving much too fast. She ___ crash!"
+    options: ["will", "is going to", "is"]
+    answer: 1
+    explain: "Прогноз по тому, что видно сейчас → **going to**."
+  - q: "Prices ___ probably rise again next year."
+    options: ["will", "are", "are going"]
+    answer: 0
+    explain: "Прогноз-мнение с **probably** → **will**. *are going* без *to* — ошибка."
+  - q: "— Can you help me with this report? — Sorry, I ___ my sister at the airport in half an hour."
+    options: ["meet", "am meeting", "will meet"]
+    answer: 1
+    explain: "Уже договорился встретить сестру → **Present Continuous**."
+  - q: "— Any plans for the weekend? — Not yet. Maybe I ___ the new museum."
+    options: ["visit", "will visit", "am visiting"]
+    answer: 1
+    explain: "Планов ещё нет, решение рождается сейчас (**maybe**) → **will**."

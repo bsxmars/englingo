@@ -1,0 +1,44 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка в модели глагола. Исправь её и отправь предложение целиком."
+hints:
+  - "offer, refuse, decide — без объекта; urge, persuade, invite — с объектом."
+  - "suggest и recommend не берут объект + инфинитив."
+  - "После would love / would like — только инфинитив."
+items:
+  - q: "The manager suggested us to postpone the launch."
+    answers: ["The manager suggested that we postpone the launch.", "The manager suggested that we should postpone the launch.", "The manager suggested we postpone the launch.", "The manager suggested we should postpone the launch.", "The manager suggested postponing the launch.", "The manager suggested that we postponed the launch.", "The manager suggested we postponed the launch."]
+    explain: "*suggest* не берёт объект + инфинитив. Верно: *suggested **that we (should) postpone*** или *suggested **postponing***."
+  - q: "She avoided to answer the journalist's question directly."
+    answers: ["She avoided answering the journalist's question directly."]
+    explain: "*avoid* — только с герундием: **avoided answering**."
+  - q: "I'd hate missing the opening night, so I've already booked tickets."
+    answers: ["I'd hate to miss the opening night, so I've already booked tickets."]
+    explain: "После *would hate* — только инфинитив: **I'd hate to miss**."
+  - q: "It was beginning snowing when we left the house."
+    answers: ["It was beginning to snow when we left the house."]
+    explain: "После формы на *-ing* берут инфинитив, чтобы не было двух *-ing* подряд: *was beginning **to snow***."
+  - q: "He offered me to drive to the station."
+    answers: ["He offered to drive me to the station."]
+    explain: "После *offer* объекта нет; «меня» — дополнение к *drive*: *offered **to drive me***."
+  - q: "The new rules don't permit to use phones during exams."
+    answers: ["The new rules don't permit using phones during exams.", "The new rules don't permit the use of phones during exams.", "The new rules don't permit students to use phones during exams.", "The new rules don't permit candidates to use phones during exams."]
+    explain: "*permit* без объекта → герундий (*permit using*); с объектом → инфинитив (*permit students to use*)."
+  - q: "I can't imagine him to apologise to anyone."
+    answers: ["I can't imagine him apologising to anyone.", "I can't imagine him apologizing to anyone.", "I can't imagine his apologising to anyone.", "I can't imagine his apologizing to anyone."]
+    explain: "*imagine* + объект + **-ing**: *imagine him apologising*. Инфинитив после *imagine* не употребляется."
+  - q: "Would you mind to keep your voice down?"
+    answers: ["Would you mind keeping your voice down?"]
+    explain: "*mind* — только с герундием: **mind keeping**."
+  - q: "We heard somebody to shout for help."
+    answers: ["We heard somebody shout for help.", "We heard somebody shouting for help."]
+    explain: "Глагол восприятия + объект + **голый инфинитив** (целое действие) или **-ing** (процесс). *to* здесь невозможно в активе."
+  - q: "The board decided postponing the vote until March."
+    answers: ["The board decided to postpone the vote until March."]
+    explain: "*decide* — только с инфинитивом: **decided to postpone**."
+  - q: "She persuaded to stay for another year."
+    answers: ["She persuaded him to stay for another year.", "She persuaded her to stay for another year.", "She persuaded them to stay for another year.", "She persuaded me to stay for another year.", "She persuaded us to stay for another year.", "She was persuaded to stay for another year."]
+    explain: "*persuade* требует объекта — кого убедили: *persuaded **him** to stay*. Либо пассив: *She **was persuaded** to stay*."
+  - q: "We are committed to reduce our carbon emissions by 2030."
+    answers: ["We are committed to reducing our carbon emissions by 2030."]
+    explain: "В *be committed to* частица *to* — предлог, после него герундий: **committed to reducing**."

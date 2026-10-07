@@ -1,0 +1,37 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "Все пересказы сделаны **через несколько недель**, в другом месте, и описанные ситуации уже неактуальны. В каждом предложении **одна** ошибка. Исправь её и отправь предложение целиком."
+hints:
+  - "Проверь указательные слова: yesterday, tomorrow, here, this, ago."
+  - "Проверь порядок слов в косвенном вопросе и объект после tell / say."
+items:
+  - q: "Last March she told me she will move to Canada the following year."
+    answers: ["Last March she told me she would move to Canada the following year.", "Last March she told me she was moving to Canada the following year.", "Last March she told me she was going to move to Canada the following year.", "Last March she told me she would be moving to Canada the following year."]
+    explain: "Слова сказаны в прошлом и уже неактуальны → *will* → **would** (или *was moving / was going to move*)."
+  - q: "He said that he had seen her yesterday."
+    answers: ["He said that he had seen her the day before.", "He said that he had seen her the previous day."]
+    explain: "Пересказ через несколько недель → *yesterday* → **the day before / the previous day**."
+  - q: "She asked me where was the nearest pharmacy."
+    answers: ["She asked me where the nearest pharmacy was."]
+    explain: "В косвенном вопросе прямой порядок слов: подлежащее перед глаголом — *where the nearest pharmacy **was***."
+  - q: "The guide explained that the castle has been built in 1340."
+    answers: ["The guide explained that the castle had been built in 1340.", "The guide explained that the castle was built in 1340."]
+    explain: "С конкретной датой Present Perfect невозможен даже в прямой речи; в пересказе — **had been built** или *was built*."
+  - q: "He told that he was leaving the company."
+    answers: ["He told us that he was leaving the company.", "He told me that he was leaving the company.", "He told them that he was leaving the company.", "He told everyone that he was leaving the company.", "He said that he was leaving the company."]
+    explain: "*tell* требует объекта — кому: *told **us** that…* Без объекта — *said that…*"
+  - q: "She said me that the report was ready."
+    answers: ["She told me that the report was ready.", "She said to me that the report was ready."]
+    explain: "*say* не берёт объект без *to*: **told me** или *said to me*."
+  - q: "The doctor said I must not to lift anything heavy."
+    answers: ["The doctor said I must not lift anything heavy.", "The doctor said I mustn't lift anything heavy."]
+    explain: "После модального *must* — голый инфинитив: *must not **lift***."
+  - q: "They promised that they will deliver the sofa the next day."
+    answers: ["They promised that they would deliver the sofa the next day."]
+    explain: "*the next day* показывает, что пересказ позже → *will* → **would**."
+  - q: "My grandfather said he had joined the navy when he is nineteen."
+    answers: ["My grandfather said he had joined the navy when he was nineteen."]
+    explain: "Возраст в прошлом не может остаться в настоящем: **was nineteen**."
+  - q: "She said that she had posted the parcel two days ago."
+    answers: ["She said that she had posted the parcel two days earlier.", "She said that she had posted the parcel two days before."]
+    explain: "*ago* отсчитывает от момента речи; в пересказе через несколько недель → **two days earlier / before**."

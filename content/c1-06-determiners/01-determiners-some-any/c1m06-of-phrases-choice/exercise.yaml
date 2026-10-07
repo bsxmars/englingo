@@ -1,0 +1,52 @@
+title: "Определитель, местоимение или of-фраза"
+type: choice
+intro: "Выбери единственный верный вариант. Обращай внимание на то, есть ли после квантификатора определитель, местоимение или название места."
+hints:
+  - "Quantifier + of + the / my / these / them. Без определителя — без of."
+  - "Названия мест: most of Europe, much of Scotland — без артикля."
+  - "every и no не стоят перед of и без существительного: every one, none."
+items:
+  - q: "___ the respondents said they would be willing to pay more for ethically sourced coffee."
+    options: ["Most", "Most of", "The most of"]
+    answer: 1
+    explain: "Перед определителем *the* нужен **of**: *Most of the respondents*. *Most respondents* (без *the*) тоже было бы верно, но с *the* без *of* — ошибка."
+  - q: "Heavy rain is expected across ___ northern England over the weekend."
+    options: ["most", "most of the", "much of"]
+    answer: 2
+    explain: "С названием места — квантификатор + **of** без артикля: *much of northern England*. ~~most northern England~~ и ~~most of the northern England~~ невозможны."
+  - q: "I sent invitations to all my former colleagues, and ___ replied within a day."
+    options: ["every", "every one", "every of them"]
+    answer: 1
+    explain: "Без существительного *every* превращается в **every one**: *every one replied* = *every one of them replied*. ~~every of~~ не бывает."
+  - q: "We were promised a full refund, but we've received ___ so far."
+    options: ["no", "none", "not any of"]
+    answer: 1
+    explain: "Без существительного — местоимение **none**. *no* требует существительного: *no refund*."
+  - q: "Inspections are carried out every ___ to ensure compliance."
+    options: ["six month", "six months", "sixth months"]
+    answer: 1
+    explain: "*every* + число + **множественное**: *every six months* (= раз в полгода). Несмотря на *every*, существительное во множественном числе."
+  - q: "___ these early prototypes survived the transfer to the new lab."
+    options: ["None", "None of", "No"]
+    answer: 1
+    explain: "Перед определителем *these* — **none of**. *No* стоит прямо перед существительным без определителя: *No early prototypes*."
+  - q: "The guard grabbed the intruder ___ and led him out of the building."
+    options: ["by his arm", "by the arm", "by arm"]
+    answer: 1
+    explain: "Человек уже назван, часть тела — «место» действия после предлога: **by the arm**. Так же *hit on the head, shot in the leg*."
+  - q: "At the end of the meeting, she raised ___ and asked a question nobody wanted to answer."
+    options: ["the hand", "her hand", "a hand"]
+    answer: 1
+    explain: "Когда часть тела — прямое дополнение, нужен притяжательный: *she raised **her** hand*. *the* — только в предложных оборотах типа *took her by the hand*."
+  - q: "Do you remember ___ awful hotel we stayed in on our first trip to Lisbon?"
+    options: ["this", "that", "these"]
+    answer: 1
+    explain: "**that** отодвигает предмет в прошлое и добавляет эмоциональную дистанцию: *that awful hotel*. *this* звучало бы как «вот этот, здесь и сейчас»."
+  - q: "No ___ are exactly alike, which is why each case must be assessed individually."
+    options: ["two patients", "two of patients", "two the patients"]
+    answer: 0
+    explain: "*no* сочетается с числом напрямую: **no two patients** («нет двух одинаковых пациентов»). *of* без определителя невозможен."
+  - q: "The committee rejected the first two drafts, and ___ will need to be rewritten from scratch."
+    options: ["both", "both them", "both of"]
+    answer: 0
+    explain: "**both** может стоять без существительного как местоимение: *both will need to be rewritten*. ~~both them~~ — нужен *of*: *both of them*. *both of* без продолжения не бывает."

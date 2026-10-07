@@ -1,0 +1,40 @@
+title: "Умею, смог, разрешено"
+type: gap
+intro: "Впиши подходящую форму: *can / could / be able to / managed to / be allowed to / may*. В скобках — смысл по-русски или слова для правильной формы."
+hints:
+  - "Будущее и Present Perfect — только be able to."
+  - "«Смог» в одной конкретной ситуации → managed to / was able to, а не could."
+items:
+  - q: "I've never ___ (умел) cook well."
+    answers: ["been able to"]
+    explain: "У *can* нет формы Present Perfect → **have been able to**."
+  - q: "Don't worry, I ___ (смогу) help you with the move tomorrow."
+    answers: ["will be able to", "can"]
+    explain: "Будущее умение → **will be able to**. Про договорённость на завтра можно сказать и *I can help you tomorrow*."
+  - q: "The fire spread fast, but everyone ___ (смогли) get out of the building."
+    answers: ["managed to", "was able to"]
+    explain: "Разовый успех в трудной ситуации → **managed to** / **was able to**, не *could*. *everyone* — единственное число."
+  - q: "When I was five, I ___ (умел) already read."
+    answers: ["could"]
+    explain: "Общее умение в прошлом → **could**. Порядок *I could already read* естественный; с *was able to* было бы *was already able to*."
+  - q: "I'd love ___ (уметь) play the guitar."
+    answers: ["to be able to"]
+    explain: "После *would love* нужен инфинитив, а у *can* его нет → **to be able to**."
+  - q: "I looked everywhere, but I ___ (не смог) find my keys."
+    answers: ["couldn't", "wasn't able to", "didn't manage to"]
+    explain: "В **отрицании** *couldn't* подходит и для разового случая. Возможны также *wasn't able to*, *didn't manage to*."
+  - q: "___ (можно мне — вежливо) open the window? It's very hot in here."
+    answers: ["Could I", "May I", "Can I"]
+    explain: "Вежливая просьба → **Could I…?** или формальное **May I…?** *Can I* проще, но тоже верно."
+  - q: "When I was a teenager, I ___ (не разрешали) stay out after ten."
+    answers: ["wasn't allowed to", "couldn't"]
+    explain: "Разрешение (запрет) от других в прошлом → **wasn't allowed to**. Общее правило в прошлом можно выразить и через *couldn't*."
+  - q: "After an hour of driving around, we finally ___ (manage / find) a parking space."
+    answers: ["managed to find"]
+    explain: "**managed to** + инфинитив: получилось, хотя было трудно."
+  - q: "Passengers ___ (не разрешается) take liquids over 100 ml on board."
+    answers: ["aren't allowed to", "are not allowed to", "can't", "may not", "mustn't"]
+    explain: "Правило «сверху» → **aren't allowed to**. Возможны *can't*, официальное *may not*, а также *mustn't*."
+  - q: "My grandmother is ninety, but she ___ (still / умеет) use a smartphone better than me."
+    answers: ["can still", "is still able to"]
+    explain: "Умение сейчас → **can**. Наречие *still* ставим после модального глагола: *she can still use…*"

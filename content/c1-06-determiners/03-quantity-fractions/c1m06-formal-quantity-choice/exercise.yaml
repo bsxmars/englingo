@@ -1,0 +1,52 @@
+title: "Количество: смысл и регистр"
+type: choice
+intro: "Выбери вариант, который подходит **по смыслу и по стилю**. Часть вариантов грамматически возможна, но не подходит к контексту."
+hints:
+  - "Формальный текст: much, many, a great deal of, a large number of, numerous. Разговорный: a lot of, lots of, loads of."
+  - "few / little — «мало, недостаточно»; a few / a little — «немного, и этого хватает»."
+  - "the little money they had — «те немногие деньги, что были»."
+items:
+  - q: "Академическая статья: ___ has been written about the origins of the conflict."
+    options: ["A lot", "Much", "Lots"]
+    answer: 1
+    explain: "В формальном письме *much* свободно стоит в утверждениях и в начале предложения: **Much has been written**. *A lot* и особенно *Lots* — разговорные."
+  - q: "The refugees arrived with ___ possessions and even less hope."
+    options: ["few", "a few", "quite a few"]
+    answer: 0
+    explain: "*even less hope* подсказывает, что и вещей было мало: **few** = «почти ничего». *a few* звучит позитивно, *quite a few* = «довольно много»."
+  - q: "Don't panic — we still have ___ time before the train leaves, so let's grab a coffee."
+    options: ["little", "a little", "less"]
+    answer: 1
+    explain: "Говорящий успокаивает: времени немного, но **хватает** → *a little*. *little time* значило бы «почти нет времени» — и кофе было бы некстати."
+  - q: "Отчёт: The proposal attracted ___ criticism from environmental groups."
+    options: ["a great many", "a great deal of", "loads of"]
+    answer: 1
+    explain: "*criticism* неисчисляемое → **a great deal of**. *a great many* — только с исчисляемыми, *loads of* — разговорное."
+  - q: "The new terminal is designed to handle ___ passengers as the old one."
+    options: ["twice as many", "two times more", "double the"]
+    answer: 0
+    explain: "Структура *… as … as* требует **twice as many**. *two times more* не сочетается с *as*, а *double the* требует существительного без *as*: *double the number of passengers*."
+  - q: "Отчёт об опросе: ___ respondents expressed dissatisfaction with the service."
+    options: ["Loads of", "A large number of", "Plenty of"]
+    answer: 1
+    explain: "Все три грамматичны, но в отчёте уместно нейтрально-формальное **A large number of**. *Loads of* — разговорное, *plenty of* = «более чем достаточно» и звучит оценочно."
+  - q: "The family spent ___ money they had on a lawyer, and the case was still lost."
+    options: ["the little", "a little", "little"]
+    answer: 0
+    explain: "**the little money they had** = «те немногие деньги, что у них были», то есть всё, что было. Без *the* смысл «всё, что есть» теряется."
+  - q: "I've met ___ people who claim they never procrastinate, and I don't believe any of them."
+    options: ["quite a few", "few", "little"]
+    answer: 0
+    explain: "*any of them* показывает, что таких людей было немало: **quite a few** = «довольно много». *few* означало бы «почти никого», *little* с *people* невозможно."
+  - q: "Unemployment rose from 4% to 6%, an increase of two ___."
+    options: ["per cent", "percentage points", "percents"]
+    answer: 1
+    explain: "Разница между двумя процентными значениями — **percentage points**. Рост с 4% до 6% — это +2 пункта, но +50 per cent от исходного уровня."
+  - q: "Книжный стиль: ___ applicant has been turned away on the grounds of age alone."
+    options: ["Many an", "Many", "Much an"]
+    answer: 0
+    explain: "*many a(n)* + единственное число + глагол в единственном: **Many an applicant has**. *Many applicant* без артикля невозможно."
+  - q: "The audit uncovered ___ errors than in any previous year, which reassured the board."
+    options: ["fewer", "less", "the fewest"]
+    answer: 0
+    explain: "*errors* исчисляемое, а за ним стоит *than* → сравнительная степень **fewer**. *the fewest* — превосходная, она не сочетается с *than*."

@@ -1,0 +1,70 @@
+title: "Перефразирование (C1 Advanced, Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+
+  Reporting passives, модальный пассив и get-passive — постоянные гости Part 4.
+hints:
+  - "People say / believe that X happened → X is said / believed to have + V3."
+  - "Сообщение о настоящем → to be / to be -ing; о прошлом → to have + V3 / to have been + V3."
+items:
+  - q: "People believe that the painting was stolen to order for a private collector."
+    key: "BELIEVED"
+    stem: "The painting ___ to order for a private collector."
+    answers: ["is believed to have been stolen"]
+    explain: "Кража была раньше, чем «полагают», и картину украли (пассив) → перфектный пассивный инфинитив: *is believed **to have been stolen***."
+  - q: "According to witnesses, there were at least two gunmen."
+    key: "SAID"
+    stem: "There ___ at least two gunmen."
+    answers: ["are said to have been", "were said to have been", "were said to be"]
+    explain: "*There + be said + to be*. Свидетели говорят сейчас о прошлом → *are said **to have been***. Если и сообщение в прошлом — *were said to be / to have been*."
+  - q: "It is alleged that the director misled investors for several years."
+    key: "ALLEGED"
+    stem: "The director ___ investors for several years."
+    answers: ["is alleged to have misled"]
+    explain: "*It is alleged that X did…* → *X **is alleged to have** + V3*. Обман был в прошлом → перфектный инфинитив."
+  - q: "Somebody mentioned to me that the office would be relocating."
+    key: "MENTIONED"
+    stem: "It ___ the office would be relocating."
+    answers: ["was mentioned to me that"]
+    explain: "С *mention* подлежащим может быть только *it*: ***It was mentioned to me that…*** (не ~~I was mentioned that~~)."
+  - q: "Reports say the two companies are negotiating a merger."
+    key: "REPORTED"
+    stem: "The two companies ___ a merger."
+    answers: ["are reported to be negotiating"]
+    explain: "Процесс идёт сейчас → длительный инфинитив: *are reported **to be negotiating***."
+  - q: "Unless more delegates register, we will have to cancel the conference."
+    key: "CANCELLED"
+    stem: "Unless more delegates register, the conference ___ ."
+    answers: ["will have to be cancelled", "is going to have to be cancelled"]
+    explain: "Пассив после phrasal modal: *will have to* + **be cancelled**. Вариант с *is going to have to* тоже верен, хотя длиннее."
+  - q: "It annoyed him that nobody had consulted him about the changes."
+    key: "HAVING"
+    stem: "He was annoyed at ___ about the changes."
+    answers: ["not having been consulted", "having not been consulted"]
+    explain: "После предлога *at* — герундий; его не спросили (пассив), раньше (перфект), отрицание впереди: **not having been consulted** (порядок *having not been* тоже встречается, но стандартный — *not having been*)."
+  - q: "Someone must have left the gate open overnight."
+    key: "LEFT"
+    stem: "The gate ___ open overnight."
+    answers: ["must have been left"]
+    explain: "Вывод о прошлом + пассив: *must have been* + V3."
+  - q: "Nobody has informed the staff about the new procedure yet."
+    key: "BEEN"
+    stem: "The staff ___ about the new procedure yet."
+    answers: ["have not been informed", "haven't been informed", "has not been informed", "hasn't been informed", "have not been told", "haven't been told"]
+    explain: "Present Perfect пассив в отрицании: *haven't **been** informed*. *staff* в британском варианте чаще с *have*, но *has* тоже допустимо."
+  - q: "Historians think that the ship sank in a storm off the coast of Cornwall."
+    key: "THOUGHT"
+    stem: "The ship ___ in a storm off the coast of Cornwall."
+    answers: ["is thought to have sunk", "is thought to have gone down"]
+    explain: "Затонул раньше, чем «думают» → *is thought **to have sunk***. *sink – sank – sunk*."
+  - q: "The volunteers weren't paid for the extra hours they worked."
+    key: "GET"
+    stem: "The volunteers ___ for the extra hours they worked."
+    answers: ["did not get paid", "didn't get paid"]
+    explain: "get-passive в отрицании строится через *do*: **didn't get paid**."
+  - q: "Nobody expected him to win the election."
+    key: "EXPECTED"
+    stem: "He ___ the election."
+    answers: ["was not expected to win", "wasn't expected to win"]
+    explain: "*Nobody expected him to…* → *He **wasn't expected to** win*: подлежащим становится объект, отрицание переходит в глагол."

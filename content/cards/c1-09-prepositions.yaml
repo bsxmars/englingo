@@ -1,0 +1,136 @@
+- id: c1m09-by-until
+  lesson: c1-09-prepositions/01-time-place
+  q: "**by** или **until**: Please confirm your attendance ___ Friday."
+  a: "**by** — крайний срок для разового действия. *until* — только с тем, что длится: *The offer is valid until Friday.*"
+- id: c1m09-since-before
+  lesson: c1-09-prepositions/01-time-place
+  q: "Переведи: «Они живут здесь ещё с довоенных времён»."
+  a: "*They've lived here **since before** the war.* Два предлога подряд — норма (так же *until after*)."
+- id: c1m09-during-whole
+  lesson: c1-09-prepositions/01-time-place
+  q: "**during** или **in**: There were no classes ___ the whole of May."
+  a: "**during** — весь период целиком. Момент внутри периода — *during* или *in*: *I woke up in / during the night.*"
+- id: c1m09-above-over
+  lesson: c1-09-prepositions/01-time-place
+  q: "**above** или **over**: ___ average / ___ 21 / a blanket ___ the bed?"
+  a: "**above** average (шкала), **over** 21 (возраст, сумма), **over** the bed (накрывает)."
+- id: c1m09-below-under
+  lesson: c1-09-prepositions/01-time-place
+  q: "**below** или **under**: ___ zero / ___ 18 / ___ expectations?"
+  a: "**below** zero, **below** expectations (шкала); **under** 18 (возраст, сумма)."
+- id: c1m09-between-among
+  lesson: c1-09-prepositions/01-time-place
+  q: "Найди ошибку: *Between the advantages of the scheme is its low cost.*"
+  a: "***Among** the advantages* — «в числе». *between* — связи между отдельными участниками: *the link between diet, sleep and mood*."
+- id: c1m09-on-nouns
+  lesson: c1-09-prepositions/01-time-place
+  q: "Какой предлог после **ban, restriction, constraint, emphasis, impact**?"
+  a: "**on**: *a ban on plastics, restrictions on travel, emphasis on transparency, an impact on prices*."
+- id: c1m09-in-verbs
+  lesson: c1-09-prepositions/01-time-place
+  q: "Какой предлог после **specialise, indulge, invest, result, engage**?"
+  a: "**in**: *specialise in law, indulge in chocolate, result in delays*. (Но *result **from*** — о причине.)"
+- id: c1m09-shout-at-to
+  lesson: c1-09-prepositions/01-time-place
+  q: "Чем отличается *shout **at** him* от *shout **to** him*?"
+  a: "**at** — кричать на него (злость, цель); **to** — кричать ему, чтобы услышал."
+- id: c1m09-with-whom
+  lesson: c1-09-prepositions/01-time-place
+  q: "Найди ошибку: *With whom did you leave the keys with?*"
+  a: "Предлог один раз: ***With whom** did you leave the keys?* (формально) или *Who did you leave the keys **with**?*"
+- id: c1m09-across-over-through
+  lesson: c1-09-prepositions/02-movement-connections
+  q: "**across / over / through**: swim ___ the lake, climb ___ the fence, walk ___ the forest."
+  a: "**across** — по плоскости, **over** — через высокое, **through** — сквозь объём."
+- id: c1m09-off-out-of
+  lesson: c1-09-prepositions/02-movement-connections
+  q: "Переведи: «Это не по теме» и «У нас кончилось молоко»."
+  a: "*That's **off** the point / off topic.* · *We're **out of** milk.* (*off* — в стороне; *out of* — «больше нет».)"
+- id: c1m09-with-by
+  lesson: c1-09-prepositions/02-movement-connections
+  q: "**with** или **by**: paid ___ card / opened it ___ a knife?"
+  a: "**by card** — способ, без артикля; **with a knife** — конкретный инструмент с артиклем."
+- id: c1m09-except-for
+  lesson: c1-09-prepositions/02-movement-connections
+  q: "**except** или **except for**: The essay is good, ___ a few typos."
+  a: "**except for** — оговорка ко всему утверждению. Голое *except* — после *every / all / no* и перед предлогом или придаточным: *except in August*."
+- id: c1m09-besides
+  lesson: c1-09-prepositions/02-movement-connections
+  q: "Что значит **besides** в утверждении и в отрицании?"
+  a: "Утверждение — «помимо»: *Besides French, she speaks Arabic.* Отрицание — «кроме»: *I didn't know anyone besides the host.*"
+- id: c1m09-fraught-with
+  lesson: c1-09-prepositions/02-movement-connections
+  q: "Предлог: aware ___, fraught ___, indicative ___, familiar ___?"
+  a: "aware **of**, fraught **with**, indicative **of**, familiar **with**."
+- id: c1m09-with-exception
+  lesson: c1-09-prepositions/02-movement-connections
+  q: "Перефразируй с ключом EXCEPTION: *Everyone signed apart from Tom.*"
+  a: "*Everyone signed **with the exception of** Tom.*"
+- id: c1m09-three-part-pronoun
+  lesson: c1-09-prepositions/03-phrasal-verbs
+  q: "Найди ошибку: *This painting is valuable — hold it on to.*"
+  a: "*hold **on to it***. У трёхчастных глаголов местоимение — после предлога."
+- id: c1m09-live-up-to
+  lesson: c1-09-prepositions/03-phrasal-verbs
+  q: "Переведи: «Продолжение не оправдало ожиданий»."
+  a: "*The sequel didn't **live up to** expectations.*"
+- id: c1m09-come-in-for
+  lesson: c1-09-prepositions/03-phrasal-verbs
+  q: "Что значит *The minister **came in for** criticism*?"
+  a: "Подвергся критике. Так же *come in for praise*."
+- id: c1m09-break-family
+  lesson: c1-09-prepositions/03-phrasal-verbs
+  q: "Talks broke ___ (провалились), war broke ___ (разразилась), she broke ___ the engagement (разорвала)."
+  a: "talks broke **down**, war broke **out**, broke **off** the engagement."
+- id: c1m09-register
+  lesson: c1-09-prepositions/03-phrasal-verbs
+  q: "Формальные синонимы: put off, call off, leave out, put up with, do away with?"
+  a: "**postpone**, **cancel**, **omit**, **tolerate**, **abolish**."
+- id: c1m09-out-of-depth
+  lesson: c1-09-prepositions/04-reading
+  q: "Что значит *to be out of one's depth*?"
+  a: "Оказаться в ситуации, которая не по силам («не достаёшь до дна»)."
+- id: c1m09-in-addition-to
+  lesson: c1-09-prepositions/05-writing
+  q: "Найди ошибку: *In addition to reduce traffic, the bridge would attract visitors.*"
+  a: "*In addition to **reducing** traffic…* — после предлога *to* в составе *in addition to* нужен герундий."
+- id: c1m09-discuss-discussion
+  lesson: c1-09-prepositions/01a-dependent-prepositions
+  q: "Найди ошибку: We need to discuss about the emphasis to security."
+  a: "*discuss the emphasis **on** security*. У глагола **discuss** предлога нет, у существительного **emphasis** — *on*."
+- id: c1m09-solution-to
+  lesson: c1-09-prepositions/01a-dependent-prepositions
+  q: "Какой предлог: the solution ___ the problem, the key ___ success, access ___ the data?"
+  a: "Везде **to**. Русское «решение проблемы» не подсказывает, но *of* здесь ошибка."
+- id: c1m09-rise-in-of-by
+  lesson: c1-09-prepositions/01a-dependent-prepositions
+  q: "**in**, **of** или **by**: a rise ___ prices / a rise ___ 5% / prices rose ___ 5%."
+  a: "*a rise **in** prices* (что выросло), *a rise **of** 5%* (на сколько — у существительного), *rose **by** 5%* (на сколько — у глагола)."
+- id: c1m09-accuse-blame
+  lesson: c1-09-prepositions/01a-dependent-prepositions
+  q: "Какие предлоги: accuse sb ___ sth, blame sb ___ sth, blame sth ___ sb?"
+  a: "*accuse sb **of**, blame sb **for**, blame sth **on** sb*. После предлога — -ing: *accused him of lying*."
+- id: c1m09-concerned-about-with
+  lesson: c1-09-prepositions/01a-dependent-prepositions
+  q: "**concerned about** или **concerned with**: The book is ___ the history of science."
+  a: "**concerned with** — посвящена, занимается. *concerned about* — обеспокоен."
+- id: c1m09-agree-with-to-on
+  lesson: c1-09-prepositions/01a-dependent-prepositions
+  q: "agree **with** / **to** / **on**: в чём разница?"
+  a: "*agree **with** you* — разделять мнение; *agree **to** the terms* — дать согласие; *agree **on** a date* — договориться о пункте."
+- id: c1m09-committed-to-ing
+  lesson: c1-09-prepositions/01a-dependent-prepositions
+  q: "Найди ошибку: We are committed to reduce emissions."
+  a: "*committed to **reducing***. *to* здесь предлог (*committed to the plan*), после него -ing. Так же *object to, with a view to, adjust to*."
+- id: c1m09-in-accordance-with
+  lesson: c1-09-prepositions/01a-dependent-prepositions
+  q: "Найди ошибку: The work was done in accordance to the rules."
+  a: "***in accordance with*** (но *according to*). Составные предлоги не меняются: *on behalf of, with regard to, in line with*."
+- id: c1m09-off-out-of-coffee
+  lesson: c1-09-prepositions/02-movement-connections
+  q: "Разница: We're **out of** coffee / I'm **off** coffee."
+  a: "*out of coffee* — кофе кончился; *off coffee* — я перестал пить кофе (отказался)."
+- id: c1m09-rule-out
+  lesson: c1-09-prepositions/03-phrasal-verbs
+  q: "Переведи: «Полиция исключила версию убийства»."
+  a: "*The police have **ruled out** (the possibility of) murder.* **rule out** — исключить вариант."

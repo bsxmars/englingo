@@ -1,0 +1,56 @@
+title: "The office of 2036"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. В вопросах с выбором выбери один вариант; в вопросах с полем впиши слово или фразу из текста."
+hints:
+  - "Различай мнение автора и мнения людей, которых он цитирует."
+  - "will — уверенность, likely to — вероятность, might — возможность."
+text: |
+  ## The office of 2036: fewer desks, more coffee
+
+  Ten years from now, will we still be going to the office at all? If you had asked me in 2020, I would have said no. Today I'm not so sure. The office isn't going to disappear, but it is going to look very different.
+
+  Start with the commute. Most experts agree that hybrid working is here to stay. By 2036, the majority of office workers will have spent more than a decade splitting their week between home and the office, and few will want to give that up. "People have discovered that they can write a report perfectly well at their kitchen table," says Lena Fischer, who advises companies on workplace design. "When they come in, they'll want something they can't get at home."
+
+  That something, Fischer argues, is other people. The office of the future will be less a place for quiet work and more a place for meetings, training and the kind of face-to-face conversations that are hard to have on a video call. This is why many companies are already phasing out rows of identical desks. Instead, they are building lounges, kitchens and project rooms. Hot-desking — where nobody has their own desk and you book a space before you come in — is likely to become the norm rather than the exception.
+
+  Technology will change the picture too. In ten years' time, your building will probably recognise you as you walk in, unlock the right doors and book you a room before you have even asked for one. Sensors will be measuring footfall in every corner, so managers will know exactly which spaces people actually use. Your headset, rather than your desk, might become your most important piece of office equipment.
+
+  Not everyone is convinced. Critics point out that we heard similar predictions about the "paperless office" in the 1990s, and printers are still with us. Some bosses, especially in finance, are going to keep insisting that staff are on site five days a week. And junior employees, who often learn by watching more experienced colleagues, may lose out if the office becomes a place people only visit twice a week.
+
+  Cities will have to adapt as well. Many companies are due to renew their leases over the next few years, and a lot of them are planning to rent less space. Some empty office blocks are likely to be turned into flats; others will become schools, gyms or co-working spaces. Cafés and shops in business districts, which depended on the daily commute, will need to find new customers.
+
+  So what will your working day look like in 2036? My guess is this: you'll be working from home on Monday, and on Wednesday you'll go into town to meet your team, brainstorm over coffee and leave before the evening rush. As soon as the meeting is over, you'll open your laptop again — wherever you happen to be. The office won't be where we work. It will be where we work together.
+items:
+  - q: "How has the writer's opinion changed since 2020?"
+    options: ["The writer now believes offices will disappear completely.", "The writer is less certain than before that offices have no future.", "The writer has always thought that offices would stay the same."]
+    answer: 1
+    explain: "*If you had asked me in 2020, I would have said no. Today I'm not so sure.* — раньше думала, что офисов не будет, теперь сомневается."
+  - q: "According to Lena Fischer, why will people come to the office?"
+    options: ["To do work that needs complete silence.", "To be with colleagues in person.", "To use equipment they don't have at home."]
+    answer: 1
+    explain: "*That something, Fischer argues, is other people.* Тихая работа, наоборот, остаётся дома."
+  - q: "What does the writer say about hot-desking?"
+    options: ["It will probably become standard practice.", "It has already been phased out in most companies.", "Most workers will refuse to accept it."]
+    answer: 0
+    explain: "*Hot-desking… is likely to become the norm* — **be likely to** = вероятно. Постепенно отказываются как раз от рядов одинаковых столов."
+  - q: "Why does the writer mention the «paperless office»?"
+    options: ["To show that technology always changes offices quickly.", "To support the critics' view that predictions are often wrong.", "To explain why printers will soon disappear."]
+    answer: 1
+    explain: "Критики напоминают, что «безбумажный офис» обещали в 1990-х, а принтеры никуда не делись: прогнозы часто не сбываются."
+  - q: "Which group, according to the writer, may suffer from hybrid working?"
+    options: ["Bosses in finance.", "Experienced colleagues.", "Young, less experienced employees."]
+    answer: 2
+    explain: "*Junior employees, who often learn by watching more experienced colleagues, may lose out.*"
+  - q: "What is the writer's main point in the last paragraph?"
+    options: ["Offices will become places for collaboration rather than individual work.", "People will stop using laptops outside the office.", "Most people will work from home every day."]
+    answer: 0
+    explain: "*The office won't be where we work. It will be where we work together.* — главный вывод статьи."
+  - q: "Find a word in paragraph 2 that means «the journey to work and back»."
+    answers: ["commute", "the commute"]
+    explain: "**commute** — дорога на работу и обратно; *a long commute*, *to commute to work*."
+  - q: "Find a phrasal verb in paragraph 3 that means «to gradually stop using something»."
+    answers: ["phasing out", "phase out"]
+    explain: "**phase out** — постепенно отказаться: *companies are phasing out rows of identical desks*."
+  - q: "Find an expression in paragraph 5 that means «in the office, at the workplace»."
+    answers: ["on site"]
+    explain: "**on site** — на месте, в офисе: *staff are on site five days a week*."

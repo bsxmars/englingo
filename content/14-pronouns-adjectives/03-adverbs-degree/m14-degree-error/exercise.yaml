@@ -1,0 +1,44 @@
+title: "Найди и исправь ошибку: наречия и степень"
+type: error
+intro: "В каждом предложении одна ошибка: наречие вместо прилагательного (или наоборот), неверное наречие степени, too / enough или so / such. Исправь предложение и впиши его целиком."
+hints:
+  - "После be, look, sound, taste — прилагательное; при обычном глаголе — наречие."
+  - "Предельные прилагательные (fantastic, freezing) — с absolutely / really, но не с very."
+  - "too = слишком (плохо); enough — после прилагательного, но перед существительным."
+items:
+  - q: "The concert was very fantastic — you should have come."
+    answers: ["The concert was absolutely fantastic — you should have come.", "The concert was really fantastic — you should have come.", "The concert was fantastic — you should have come."]
+    explain: "*fantastic* — предельное прилагательное, его не усиливают через *very*. Нужно **absolutely** или **really** (или без наречия)."
+  - q: "She speaks English very good."
+    answers: ["She speaks English very well."]
+    explain: "Слово описывает действие *speaks* → нужно наречие **well**. *good* — прилагательное: *Her English is very good*."
+  - q: "I hardly worked all weekend to finish the report."
+    answers: ["I worked hard all weekend to finish the report."]
+    explain: "«Много, усердно» — **hard** (после глагола). *hardly* значит «почти не» и полностью меняет смысл."
+  - q: "It was so a beautiful evening that we ate outside."
+    answers: ["It was such a beautiful evening that we ate outside.", "The evening was so beautiful that we ate outside."]
+    explain: "Перед *a* + прилагательное + существительное — **such a**. *so* — только с прилагательным без существительного."
+  - q: "The coffee here is too strong, I love it!"
+    answers: ["The coffee here is so strong, I love it!", "The coffee here is very strong, I love it!", "The coffee here is really strong, I love it!"]
+    explain: "*too* = «слишком», то есть **плохо**. Если нравится — *so / very / really strong*."
+  - q: "We arrived lately because of the traffic."
+    answers: ["We arrived late because of the traffic."]
+    explain: "«Поздно» — **late** (одна форма для прилагательного и наречия). *lately* значит «в последнее время»."
+  - q: "He isn't enough experienced to lead the team."
+    answers: ["He isn't experienced enough to lead the team.", "He is not experienced enough to lead the team."]
+    explain: "С прилагательным **enough** ставится **после** него: *experienced enough*. Перед существительным — наоборот: *enough experience*."
+  - q: "The suitcase was too heavy for me to carry it."
+    answers: ["The suitcase was too heavy for me to carry."]
+    explain: "После *too … to* дополнение не повторяют: подлежащее *the suitcase* уже и есть объект *carry*."
+  - q: "The trip took quite longer than we expected."
+    answers: ["The trip took rather longer than we expected.", "The trip took much longer than we expected.", "The trip took a bit longer than we expected.", "The trip took a little longer than we expected.", "The trip took a lot longer than we expected.", "The trip took slightly longer than we expected.", "The trip took far longer than we expected."]
+    explain: "*quite* не сочетается со сравнительной степенью. Нужно **rather / much / a bit / slightly longer**."
+  - q: "Your idea sounds greatly — let's try it."
+    answers: ["Your idea sounds great — let's try it."]
+    explain: "*sound* здесь — глагол-связка («звучит как»), после него **прилагательное**: *sounds great*."
+  - q: "There were too much people in the queue, so we went home."
+    answers: ["There were too many people in the queue, so we went home."]
+    explain: "*people* — исчисляемое мн. ч. → **too many**. *too much* — с неисчисляемыми: *too much noise*."
+  - q: "She was upset by the results, but she reacted very calm."
+    answers: ["She was upset by the results, but she reacted very calmly."]
+    explain: "*reacted* — обычный глагол действия, его описывает наречие **calmly**. Сравни: *she stayed calm* (связка)."

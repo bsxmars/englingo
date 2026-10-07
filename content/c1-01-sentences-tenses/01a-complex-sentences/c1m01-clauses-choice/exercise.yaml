@@ -1,0 +1,56 @@
+title: "Союзы, связки и эллипсис: выбери лучший вариант"
+type: choice
+intro: "Выбери вариант, который верен грамматически **и** лучше всего подходит по смыслу и стилю. Иногда грамматичны несколько вариантов — смотри на пунктуацию, связь частей и регистр."
+hints:
+  - "Союз (but, so, although) соединяет предложения; наречие (however, therefore) — нет."
+  - "Предлог (despite, because of) — перед существительным или -ing."
+  - "При эллипсисе остаётся вспомогательный глагол или частица to."
+items:
+  - q: "Formal report: \"Demand for the service grew steadily ___ the marketing budget was cut by half.\""
+    options: ["despite", "even though", "however", "in spite of"]
+    answer: 1
+    explain: "Дальше целое предложение (*the budget was cut*), поэтому нужен союз — **even though**. *despite / in spite of* — предлоги (нужно *despite the budget being cut*), *however* не соединяет предложения."
+  - q: "\"The software is free to download; ___, a licence is required for commercial use.\""
+    options: ["but", "although", "however", "yet"]
+    answer: 2
+    explain: "После точки с запятой и перед запятой нужна наречная связка — **however**. Союзы *but / yet / although* не ставятся между «;» и «,»."
+  - q: "\"The plan was bold, ___ it was carefully costed.\" (подчеркнуть неожиданный контраст, чуть книжно)"
+    options: ["for", "yet", "so", "nor"]
+    answer: 1
+    explain: "**yet** — союз «и всё же», книжнее *but*. *for* — «ибо» (причина), *so* — результат, *nor* требует отрицания в первой части."
+  - q: "Formal news report: \"The minister did not resign, ___ apologise for the error.\""
+    options: ["nor did she", "and she didn't", "nor she did", "neither she did"]
+    answer: 0
+    explain: "После отрицательной части **nor** + инверсия: **nor did she** apologise. *and she didn't* грамматично, но слабее и разговорнее; *nor she did / neither she did* без инверсии — ошибка."
+  - q: "\"I haven't finished the report yet, but Sarah ___.\""
+    options: ["has", "has finished", "did", "finished it"]
+    answer: 0
+    explain: "Эллипсис: повторяем только вспомогательный глагол — **has** (= has finished it). *has finished* без дополнения звучит неполно, *did* не совпадает по времени."
+  - q: "\"___ the evidence was overwhelming, the jury took three days to reach a verdict.\""
+    options: ["Because", "Although", "Since", "Despite"]
+    answer: 1
+    explain: "Смысл — уступка (улики очевидны, а решали долго) → **Although**. *Because / Since* дают причину, что противоречит смыслу; *Despite* не вводит предложение."
+  - q: "\"You can submit the form ___.\""
+    options: ["either online or by post", "either online or you can post it", "either by online or post", "online either or by post"]
+    answer: 0
+    explain: "Параллелизм: после *either* и *or* — однотипные обстоятельства: **either online or by post**."
+  - q: "Which sentence uses ellipsis correctly?"
+    options: ["Anna specialises in tax law, and her partner in employment law.", "Anna specialises in tax law, and her partner does in employment law.", "Anna specialises in tax law, and her partner is in employment law.", "Anna specialises in tax law, and her partner specialises it in employment law."]
+    answer: 0
+    explain: "Gapping: во второй части сказуемое опущено целиком — **and her partner in employment law**. *does* нельзя оставить перед обстоятельством, *is* — неверный глагол, *specialises it* — лишнее дополнение."
+  - q: "\"The flight was cancelled ___ a strike by air traffic controllers.\""
+    options: ["because", "due to", "as", "since"]
+    answer: 1
+    explain: "Дальше существительное (*a strike*), поэтому нужен предлог — **due to** (или *because of*). *because, as, since* — союзы, требуют предложения."
+  - q: "\"The house was ___ that we couldn't hear the traffic at all.\""
+    options: ["such quiet", "so quiet", "such a quiet", "so quiet a place"]
+    answer: 1
+    explain: "Прилагательное без существительного → **so quiet**. *such* нужен перед существительным (*such a quiet house*); *so quiet a place* — книжная модель «so + прил. + a + сущ.», но *The house was so quiet a place that…* звучит тяжеловесно и избыточно."
+  - q: "\"___ he wins or loses, this will be his last tournament.\""
+    options: ["If", "Whether", "Either", "Even if"]
+    answer: 1
+    explain: "«Будь то… или…» — **whether… or**. *Either… or* не вводит придаточное уступки, *If… or* неграмматично, *Even if* не сочетается с *or loses*."
+  - q: "\"Not only ___ the deadline, but she also cut costs by a fifth.\""
+    options: ["she met", "did she meet", "she did meet", "met she"]
+    answer: 1
+    explain: "*Not only* в начале предложения требует инверсии с вспомогательным: **Not only did she meet** the deadline…"

@@ -1,0 +1,43 @@
+title: "Пассив в нужном времени"
+type: gap
+intro: "Поставь глагол в скобках в **пассив с be** в подходящем времени. Время подскажут маркеры и контекст. Сокращения (*isn't*, *hasn't*) засчитываются."
+hints:
+  - "Пассив = be в нужном времени + V3. Continuous → being, Perfect → been, после модального → be."
+  - "Маркеры: every day → Present Simple, right now → Continuous, ago / in 2010 → Past Simple, already / just / since → Present Perfect."
+items:
+  - q: "Thousands of new apps ___ (release) every month."
+    answers: ["are released"]
+    explain: "**every month** — регулярное действие → Present Simple пассив: *are* + V3. Подлежащее во множественном числе → *are*."
+  - q: "Sorry about the noise — the flat next door ___ (renovate) at the moment."
+    answers: ["is being renovated"]
+    explain: "**at the moment** — процесс прямо сейчас → Present Continuous пассив: *is **being** renovated*."
+  - q: "The Eiffel Tower ___ (build) for the 1889 World's Fair."
+    answers: ["was built"]
+    explain: "Законченное событие в прошлом с известной датой → Past Simple пассив: *was built*."
+  - q: "Good news! Your order ___ (already / ship). It should arrive tomorrow."
+    answers: ["has already been shipped"]
+    explain: "**already** + результат важен сейчас → Present Perfect пассив: *has **been** shipped*. *already* стоит после *has*."
+  - q: "By the time we got to the cinema, all the tickets ___ (sell)."
+    answers: ["had been sold", "had already been sold", "were sold", "were already sold"]
+    explain: "Билеты распродали **раньше**, чем мы пришли (**by the time**) → Past Perfect пассив: *had been sold*. *were sold* тоже возможно, но описывает состояние («были распроданы»), а не действие."
+  - q: "The winners ___ (announce) next Friday."
+    answers: ["will be announced", "are going to be announced", "are being announced", "are to be announced", "are announced"]
+    explain: "Будущее → *will be announced*. Подходят и *are going to be announced*, и запланированное *are being announced*, и расписание *are announced*."
+  - q: "I couldn't use the lift because it ___ (repair)."
+    answers: ["was being repaired"]
+    explain: "Процесс шёл в тот момент в прошлом → Past Continuous пассив: *was **being** repaired*."
+  - q: "This form must ___ (sign) by both parents."
+    answers: ["be signed"]
+    explain: "После модального глагола — голое **be** + V3: *must be signed*. Здесь *by both parents* важно, поэтому исполнитель назван."
+  - q: "The meeting ___ (not / cancel) yet — it's still on the calendar."
+    answers: ["has not been cancelled", "hasn't been cancelled", "has not been canceled", "hasn't been canceled"]
+    explain: "**yet** в отрицании → Present Perfect пассив: *hasn't been cancelled*. В британском *cancelled* с двумя *l*, в американском — *canceled*."
+  - q: "___ (the windows / clean) since last spring? They look filthy."
+    answers: ["Have the windows been cleaned"]
+    explain: "**since** → Present Perfect пассив. В вопросе *have* выходит вперёд: *Have the windows been cleaned…?*"
+  - q: "This mistake should ___ (notice) much earlier, before the report went out."
+    answers: ["have been noticed"]
+    explain: "Упрёк о прошлом: «надо было заметить» → *should have been* + V3."
+  - q: "My grandmother ___ (bear) in a small village near Tver."
+    answers: ["was born"]
+    explain: "**be born** — всегда пассив. О человеке, который уже родился, — *was born*. Третья форма *bear* — *born*."

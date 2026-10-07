@@ -1,0 +1,43 @@
+title: "Essay: cutting food waste"
+type: writing
+intro: "Напиши эссе в формате C1 Advanced, Part 1. Формальный регистр, два подхода из трёх, явный выбор в выводе и разнообразные условные структуры."
+prompt: |
+  Your class has attended a panel discussion on **how to reduce the amount of food that households and businesses throw away**. You have made the notes below.
+
+  **Methods of reducing food waste:**
+
+  - legislation (laws and fines)
+  - education
+  - technology
+
+  **Some opinions expressed in the discussion:**
+
+  - "Nobody changes their habits unless there is a financial penalty."
+  - "If children learnt to cook at school, they would waste far less as adults."
+  - "Apps that sell leftover food cheaply are already making a difference."
+
+  Write an **essay** discussing **two** of the methods in your notes. You should **explain which method you think would be more effective**, giving reasons to support your opinion. You may, if you wish, make use of the opinions expressed in the discussion, but you should use your own words as far as possible.
+
+  Write your **essay** in 220–260 words.
+words: [220, 260]
+target_grammar:
+  - "Гипотеза: If … were to…, would…; Were … (to)…"
+  - "Инверсия: Should…, Had … been…, Were it not for…"
+  - "unless, provided that, as long as, otherwise, only if + инверсия"
+  - "Смешанный тип: If … had…, … would now…"
+checklist:
+  - "Четыре абзаца: вступление, первый подход, второй подход, вывод."
+  - "Обсуждены ровно два подхода из трёх."
+  - "В выводе ясно сказано, какой подход эффективнее, и приведена причина."
+  - "Мнения из задания, если использованы, пересказаны своими словами."
+  - "Не меньше четырёх разных условных структур, в том числе инверсия и unless / provided that."
+  - "Формальный регистр: нет сокращений и разговорных слов."
+  - "Объём 220–260 слов."
+model_answer: |
+  It is estimated that roughly a third of all food produced worldwide is never eaten. Reducing this waste would ease pressure on both household budgets and the environment, and two approaches are frequently proposed: legislation and education.
+
+  Legislation has the obvious advantage of producing rapid results. Were supermarkets required by law to donate unsold food rather than discard it, millions of meals could be redistributed almost overnight, as has already happened in several European countries. Fines for businesses that exceed waste targets would have a similar effect. However, laws are far harder to apply to private homes, where most waste actually occurs. Unless inspectors were to check people's bins, which few citizens would tolerate, legislation would barely touch domestic habits.
+
+  Education, by contrast, works slowly but reaches precisely those homes. If children were taught at school how to plan meals, store food properly and cook with leftovers, they would be far less likely to waste food as adults. Campaigns explaining the difference between "best before" and "use by" dates could also prevent perfectly edible food from being thrown away. The weakness of this approach is that its benefits may take a generation to appear.
+
+  On balance, I believe education would prove more effective in the long run. Laws can change what businesses do, but only if people understand why waste matters will they change their own behaviour. Had schools started teaching these skills twenty years ago, we would probably be facing a much smaller problem today. Ideally, of course, the two approaches should be combined.

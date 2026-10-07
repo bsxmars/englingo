@@ -1,0 +1,64 @@
+title: "Перефразирование: отрицательные вопросы и теги (C1 Advanced, Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "Why don't you / Why not — предложение; Why didn't you — упрёк о прошлом."
+  - "Isn't it time…? — риторическое «не пора ли»."
+  - "В теге — вспомогательный из основной части."
+items:
+  - q: "I suggest you take the earlier train."
+    key: "WHY"
+    stem: "___ the earlier train?"
+    answers: ["Why don't you take", "Why not take", "Why do you not take", "Why don't you catch", "Why not catch"]
+    explain: "Предложение — **Why don't you take…?** или **Why not take…?** (без подлежащего)."
+  - q: "I'm annoyed that you didn't tell me about the change of plan."
+    key: "WHY"
+    stem: "___ me about the change of plan?"
+    answers: ["Why didn't you tell", "Why did you not tell"]
+    explain: "Упрёк о прошлом — **Why didn't you tell me…?** В отличие от *Why don't you…*, это не предложение."
+  - q: "I'm surprised that you have never been to the theatre."
+    key: "NEVER"
+    stem: "___ to the theatre?"
+    answers: ["Have you never been", "Have you really never been"]
+    explain: "Удивление — отрицательный вопрос: **Have you never been…?** *never* стоит после подлежащего."
+  - q: "In my opinion, we should reconsider our strategy now."
+    key: "TIME"
+    stem: "___ reconsidered our strategy?"
+    answers: ["Isn't it time we", "Is it not time we", "Isn't it about time we", "Isn't it high time we"]
+    explain: "Риторическое «не пора ли» — **Isn't it time we** + Past Simple (*reconsidered*)."
+  - q: "I'm fairly sure the deadline is Friday — am I right?"
+    key: "ISN'T"
+    stem: "The deadline ___?"
+    answers: ["is Friday, isn't it", "is on Friday, isn't it", "'s Friday, isn't it", "'s on Friday, isn't it"]
+    explain: "Ожидаем согласия — утверждение + отрицательный тег: **is Friday, isn't it?**"
+  - q: "Please don't forget to back up the files."
+    key: "WILL"
+    stem: "Don't forget to ___?"
+    answers: ["back up the files, will you"]
+    explain: "К отрицательному повелительному ставится тег **will you?**"
+  - q: "I assume you posted the contract yesterday?"
+    key: "DIDN'T"
+    stem: "You ___?"
+    answers: ["posted the contract yesterday, didn't you", "sent the contract yesterday, didn't you"]
+    explain: "Ожидание «да» — утверждение в Past Simple + тег **didn't you?**"
+  - q: "Please be formal: 'Didn't you read the instructions?'"
+    key: "NOT"
+    stem: "___ the instructions?"
+    answers: ["Did you not read"]
+    explain: "Формальный отрицательный вопрос: полное **not** после подлежащего — *Did you not read…?*"
+  - q: "Surely Canberra is the capital of Australia?"
+    key: "ISN'T"
+    stem: "___ of Australia?"
+    answers: ["Isn't Canberra the capital", "Isn't the capital Canberra"]
+    explain: "«Разве не…?» с ожиданием «да» — **Isn't Canberra the capital…?**"
+  - q: "Could you pass me that file, please?"
+    key: "WOULD"
+    stem: "Pass ___?"
+    answers: ["me that file, would you", "that file to me, would you", "me the file, would you"]
+    explain: "Просьба в повелительном наклонении смягчается тегом **would you?** (также *could / will you?*, но ключевое слово — WOULD)."
+  - q: "Shall we have a short break before the vote?"
+    key: "ABOUT"
+    stem: "___ a short break before the vote?"
+    answers: ["How about having", "What about having", "How about taking", "What about taking", "How about we have", "How about we take"]
+    explain: "Предложение — **How / What about** + *-ing*: *How about having a short break?*"

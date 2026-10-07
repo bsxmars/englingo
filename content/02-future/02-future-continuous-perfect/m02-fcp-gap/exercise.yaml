@@ -1,0 +1,37 @@
+title: "Процесс или результат к сроку"
+type: gap
+intro: "Поставь глагол в **Future Continuous** (*will be doing*) или **Future Perfect** (*will have done*). Сокращения (*I'll*, *won't*) засчитываются."
+hints:
+  - "this time tomorrow, at 8 tonight — процесс → will be + -ing."
+  - "by Friday, by the time, by then — результат к сроку → will have + V3."
+items:
+  - q: "This time tomorrow I ___ (lie) on a beach in Turkey."
+    answers: ["will be lying"]
+    explain: "**This time tomorrow** — процесс в момент будущего → Future Continuous. *lie → lying*."
+  - q: "Don't worry — by Friday we ___ (already / finish) the project."
+    answers: ["will already have finished", "will have already finished"]
+    explain: "**by Friday** + *already* — результат к сроку → Future Perfect. *already* ставится после *will* или после *have*."
+  - q: "Don't call me at 8 — I ___ (have) dinner with clients."
+    answers: ["will be having", "am having", "'m having"]
+    explain: "В 8 я буду в процессе ужина → **Future Continuous**. Present Continuous тоже верен: это договорённость."
+  - q: "By the time you get home, I ___ (cook) dinner, so we can eat straight away."
+    answers: ["will have cooked"]
+    explain: "**By the time** + действие будет завершено → Future Perfect."
+  - q: "In 2030 I ___ (work) here for ten years."
+    answers: ["will have worked", "will have been working"]
+    explain: "Сколько времени пройдёт к моменту в будущем → **Future Perfect** или **Future Perfect Continuous**."
+  - q: "___ (you / use) the car tonight? I'd like to borrow it."
+    answers: ["Will you be using", "Are you using", "Are you going to use"]
+    explain: "Вежливый вопрос о чужих планах → **Will you be using…?** Present Continuous и *going to* тоже верны."
+  - q: "By the end of the month, she ___ (save) enough money for a new laptop."
+    answers: ["will have saved", "will save"]
+    explain: "**By the end of the month** — к сроку → лучше всего Future Perfect: *will have saved*. Простое *will save* тоже возможно, но звучит менее точно."
+  - q: "At midnight we ___ (still / drive) — it's a long way."
+    answers: ["will still be driving"]
+    explain: "В конкретный момент (**at midnight**) — ещё в процессе → Future Continuous; *still* — после *will*."
+  - q: "Ask me again next week — by then I ___ (decide)."
+    answers: ["will have decided"]
+    explain: "**by then** — к тому моменту решение будет принято → Future Perfect."
+  - q: "By next June, they ___ (be) married for 25 years."
+    answers: ["will have been"]
+    explain: "*be* — глагол состояния, поэтому Future Perfect Simple: **will have been married**."

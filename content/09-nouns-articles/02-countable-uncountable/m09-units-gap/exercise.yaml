@@ -1,0 +1,43 @@
+title: "Буханка, тюбик, плитка: как посчитать неисчисляемое"
+type: gap
+intro: "Впиши **одно** слово. Русская подсказка в скобках говорит, что нужно."
+hints:
+  - "a loaf / slice of bread, a tube of toothpaste, a bar of chocolate, a jar of jam, a carton of milk."
+  - "fun, luck, behaviour, rubbish — неисчисляемые: без a/an и без -s."
+items:
+  - q: "Could you pick up a ___ of bread on your way home? (буханка)"
+    answers: ["loaf"]
+    explain: "Целая буханка — **a loaf of bread**. Кусок — *a slice / a piece of bread*."
+  - q: "I need to buy a new ___ of toothpaste. (тюбик)"
+    answers: ["tube"]
+    explain: "Тюбик — **a tube**: *a tube of toothpaste, a tube of cream*."
+  - q: "She ate a whole ___ of chocolate during the film. (плитка)"
+    answers: ["bar"]
+    explain: "Плитка шоколада — **a bar of chocolate**; так же *a bar of soap*."
+  - q: "We always keep a ___ of honey in the cupboard. (банка)"
+    answers: ["jar", "pot"]
+    explain: "Стеклянная банка — **a jar** (в британском также *a pot*): *a jar of honey / jam*. Жестяная — *a tin / can*."
+  - q: "I bought two ___ of milk and some eggs. (пакета)"
+    answers: ["cartons", "packs"]
+    explain: "Картонный пакет — **a carton of milk** (в американском варианте также *pack*). Множественное — *cartons*."
+  - q: "Can you pass me a ___ of paper? I need to write something down. (лист)"
+    answers: ["sheet", "piece"]
+    explain: "*paper* в значении «бумага» неисчисляемое → **a sheet / a piece of paper**."
+  - q: "Can I give you a ___ of advice? Don't sign anything today. (один совет)"
+    answers: ["piece", "bit", "word"]
+    explain: "*advice* неисчисляемое → **a piece / a bit of advice** (или устойчивое *a word of advice*)."
+  - q: "We had a lot of ___ at the party — everyone was dancing. (было весело)"
+    answers: ["fun"]
+    explain: "**fun** неисчисляемое: *have fun, have a lot of fun*. ~~a fun~~, ~~funs~~ — ошибка."
+  - q: "The children's ___ was terrible — they shouted all evening. (поведение)"
+    answers: ["behaviour", "behavior"]
+    explain: "**behaviour** неисчисляемое, поэтому глагол *was* и нет *-s*."
+  - q: "Good ___ in your exam tomorrow! (удачи)"
+    answers: ["luck"]
+    explain: "**luck** неисчисляемое: *Good luck!* — не ~~a good luck~~."
+  - q: "There was so much ___ on the beach that we went somewhere else. (мусор)"
+    answers: ["rubbish", "litter", "trash", "garbage"]
+    explain: "Мусор — **rubbish / litter** (брит.), *trash / garbage* (амер.). Все неисчисляемые → *so much*."
+  - q: "— Do you eat much fruit? — Yes, I eat a ___. (одно слово)"
+    answers: ["lot"]
+    explain: "Без существительного — **a lot** без *of*: *I eat a lot*."

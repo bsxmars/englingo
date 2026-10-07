@@ -1,0 +1,37 @@
+title: "Собери modal perfect"
+type: order
+intro: "Собери предложение из слов по русской подсказке. Следи за порядком: modal → not → have → been → V-ing / V3."
+hints:
+  - "not и наречия never, at least, easily стоят после модального: might at least have, could easily have."
+  - "Пассив: have been + V3; процесс: have been + V-ing."
+items:
+  - q: "«Тебе, по крайней мере, могли бы позвонить»."
+    answers: ["They might at least have phoned you", "They might have at least phoned you"]
+    explain: "Упрёк → *might have* + V3; *at least* — сразу после модального."
+  - q: "«Эту ошибку легко можно было избежать»."
+    answers: ["This mistake could easily have been avoided", "This mistake could have easily been avoided"]
+    explain: "Нереализованная возможность + пассив: *could easily have been avoided*."
+  - q: "«Он, должно быть, весь день работал в саду»."
+    answers: ["He must have been working in the garden all day", "All day he must have been working in the garden"]
+    explain: "Вывод о процессе → *must have been* + V-ing."
+  - q: "«Нас должны были предупредить заранее»."
+    answers: ["We should have been warned in advance"]
+    explain: "Упрёк в пассиве: *should have been* + V3."
+  - q: "«Она не могла этого знать — её там не было»."
+    answers: ["She can't have known about it because she wasn't there"]
+    explain: "Уверенное отрицание о прошлом → *can't have known*."
+  - q: "«Возможно, они не получили наше приглашение»."
+    answers: ["They may not have received our invitation"]
+    explain: "Возможное «нет» → *may not have* + V3; *not* сразу после модального."
+  - q: "«Тебе не нужно было ждать меня так долго»."
+    answers: ["You needn't have waited for me so long", "You needn't have waited so long for me"]
+    explain: "Ждал, а это было лишним → *needn't have waited*."
+  - q: "Рецензия: «Финал можно было бы сделать тоньше»."
+    answers: ["The ending could have been handled with more subtlety"]
+    explain: "Мягкая критика в рецензии → *could have been* + V3."
+  - q: "«Говорят, картину украли ещё в 1970-х»."
+    answers: ["The painting is supposed to have been stolen in the 1970s"]
+    explain: "Слух о прошлом + пассив → *is supposed to have been stolen*."
+  - q: "«Я бы никогда не справился без твоей помощи»."
+    answers: ["I would never have managed without your help", "Without your help I would never have managed"]
+    explain: "Воображаемое прошлое → *would never have* + V3; *never* после модального."

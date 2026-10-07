@@ -1,0 +1,41 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: выбрана не та форма после *remember, forget, stop, try, regret, mean, go on, need* или *would like*. Исправь её и отправь всё предложение целиком."
+hints:
+  - "-ing — действие уже было (remember doing, regret doing) или само действие (stop doing, try doing как эксперимент)."
+  - "to — действие впереди или цель (remember to do, stop to do, try to do как усилие)."
+  - "would like / would love / would prefer — только с to."
+items:
+  - q: "I remember to lock the door, so someone else must have opened it."
+    answers: ["I remember locking the door, so someone else must have opened it."]
+    explain: "Воспоминание о том, что **уже было** → **remember locking**. *remember to lock* = «не забыть запереть» (впереди)."
+  - q: "Remember locking the door when you go out."
+    answers: ["Remember to lock the door when you go out."]
+    explain: "Действие **впереди**, его надо не забыть сделать → **remember to lock**."
+  - q: "We stopped to talk as soon as the teacher came in."
+    answers: ["We stopped talking as soon as the teacher came in."]
+    explain: "Замолчали = прекратили разговор → **stopped talking**. *stopped to talk* = «остановились, чтобы поговорить»."
+  - q: "I'm trying losing weight, but it's really hard."
+    answers: ["I'm trying to lose weight, but it's really hard."]
+    explain: "Усилие, которое даётся тяжело → **try to do**. *try doing* — попробовать способ как эксперимент."
+  - q: "We regret telling you that your application has been unsuccessful."
+    answers: ["We regret to tell you that your application has been unsuccessful."]
+    explain: "Официальное «с сожалением сообщаем» → **regret to tell / to inform**. *regret telling* = «жалеем, что сказали»."
+  - q: "I didn't mean being rude to your friend."
+    answers: ["I didn't mean to be rude to your friend."]
+    explain: "«Не хотел / не собирался» → **mean to do**. *mean doing* = «означать, влечь за собой»."
+  - q: "After the break, the speaker went on talk about AI safety."
+    answers: ["After the break, the speaker went on to talk about AI safety.", "After the break, the speaker went on talking about AI safety."]
+    explain: "После *go on* нужна форма: **to talk** (перешёл к новой теме) или **talking** (продолжил то же). Голый инфинитив невозможен."
+  - q: "My bike needs to repair before the trip."
+    answers: ["My bike needs repairing before the trip.", "My bike needs to be repaired before the trip."]
+    explain: "Велосипед сам себя не чинит → пассивный смысл: **needs repairing** или **needs to be repaired**."
+  - q: "I'd like going to the concert with you on Saturday."
+    answers: ["I'd like to go to the concert with you on Saturday."]
+    explain: "*would like* — только с **to**: *I'd like to go*. *like going* — без *would*, про привычное удовольствие."
+  - q: "I'll never forget to see the Pyramids for the first time."
+    answers: ["I'll never forget seeing the Pyramids for the first time."]
+    explain: "Яркое воспоминание о прошлом → **never forget seeing**. *forget to see* = «забыть посмотреть»."
+  - q: "Moving to London will mean to change schools for the kids."
+    answers: ["Moving to London will mean changing schools for the kids."]
+    explain: "«Будет означать» → **mean + -ing**: *will mean changing*. *mean to do* = «собираться»."

@@ -1,0 +1,37 @@
+title: "Собери предложение: будущее и будущее в прошедшем"
+type: order
+intro: "Собери предложение из слов. Следи за цепочками *was to have + V3*, *be on the point of + -ing*, *will have + V3*."
+hints:
+  - "be about to / be set to / be to + инфинитив; on the point of + -ing."
+  - "Обстоятельство времени может стоять в начале или в конце — оба варианта засчитываются."
+items:
+  - q: "«Она уже собиралась повесить трубку, когда он наконец ответил»."
+    answers: ["She was about to hang up when he finally answered", "When he finally answered she was about to hang up"]
+    explain: "Будущее в прошедшем: **was about to** + инфинитив, прерванное событием в Past Simple после *when*."
+  - q: "«Совещание должно было состояться в прошлую пятницу» (но не состоялось)."
+    answers: ["The meeting was to have taken place last Friday", "Last Friday the meeting was to have taken place"]
+    explain: "Несостоявшийся план → **was to have** + V3: *was to have taken place*."
+  - q: "«Я никогда не думал, что в итоге буду жить за границей»."
+    answers: ["I never thought I would end up living abroad"]
+    explain: "*will* из прошлого становится **would**: *I never thought I **would** end up…* После *end up* — *-ing*."
+  - q: "«Мы уже вот-вот собирались уходить, когда пошёл снег»."
+    answers: ["We were on the point of leaving when it started to snow", "When it started to snow we were on the point of leaving"]
+    explain: "**on the point of** + *-ing*: *were on the point of leaving*. Сильнее, чем *were about to leave*."
+  - q: "Вежливый вопрос официанта: «Вам ещё что-нибудь понадобится сегодня вечером?»"
+    answers: ["Will you be needing anything else this evening"]
+    explain: "Future Continuous делает вопрос мягким, ненавязчивым: **Will you be needing**…? Здесь *need* употреблён в Continuous именно ради вежливости."
+  - q: "«К следующей весне они закончат пристройку»."
+    answers: ["By next spring they will have finished the extension", "They will have finished the extension by next spring"]
+    explain: "Завершится к моменту → Future Perfect: **will have finished**."
+  - q: "«Если мы хотим победить, нам нужно тренироваться усерднее»."
+    answers: ["If we are to win we must train harder", "We must train harder if we are to win"]
+    explain: "*be to* в условии = «если хотим, чтобы…»: **If we are to win**…"
+  - q: "«Он и не подозревал, что должно было случиться дальше»."
+    answers: ["Little did he know what was to happen next"]
+    explain: "Инверсия после *Little* (*Little **did he know***) + будущее в прошедшем **was to happen** — классика литературного повествования."
+  - q: "Новость: «Новый закон, как ожидается, вступит в силу в январе»."
+    answers: ["The new law is set to come into force in January", "In January the new law is set to come into force"]
+    explain: "Стиль новостей → **is set to** + инфинитив. *come into force* — «вступить в силу»."
+  - q: "«Завтра в это время я буду сдавать выпускной экзамен»."
+    answers: ["This time tomorrow I'll be sitting my final exam", "I'll be sitting my final exam this time tomorrow"]
+    explain: "Процесс в момент будущего → Future Continuous: **I'll be sitting**. *sit an exam* — «сдавать экзамен» (BrE)."

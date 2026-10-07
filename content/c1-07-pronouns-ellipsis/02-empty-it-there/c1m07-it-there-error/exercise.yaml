@@ -1,0 +1,44 @@
+title: "Найди и исправь ошибку: it и there"
+type: error
+intro: "В каждом предложении **одна** ошибка с пустым *it* или *there* (пропущенное или лишнее слово, не та форма, не то время). Исправь её и отправь предложение целиком."
+hints:
+  - "find / make / consider / appreciate + it + …: пустое it-дополнение обязательно."
+  - "Существование и количество — there; оценка, время, расстояние — it."
+  - "there seems / appears + to be (сейчас) или to have been (раньше)."
+items:
+  - q: "I would appreciate if you could send the figures by Friday."
+    answers: ["I would appreciate it if you could send the figures by Friday."]
+    explain: "*appreciate* требует дополнения, поэтому пустое **it**: *I'd appreciate it if…* Без него фраза неполная — частая ошибка даже в деловых письмах."
+  - q: "There seems a problem with the payment system."
+    answers: ["There seems to be a problem with the payment system.", "There appears to be a problem with the payment system."]
+    explain: "После *there seems / appears* нужен инфинитив: **There seems to be** a problem."
+  - q: "It is a lot of noise coming from the flat upstairs."
+    answers: ["There is a lot of noise coming from the flat upstairs.", "There's a lot of noise coming from the flat upstairs."]
+    explain: "Речь о наличии чего-то → **There is**. Русское «Шумно» подталкивает к *it*, но *it* так не работает."
+  - q: "The heat made impossible to concentrate on anything."
+    answers: ["The heat made it impossible to concentrate on anything."]
+    explain: "*make + **it** + adj + to-infinitive*: пустое *it* занимает место дополнения, а настоящий объект (*to concentrate…*) идёт после прилагательного."
+  - q: "There were found no traces of the virus in the samples."
+    answers: ["No traces of the virus were found in the samples.", "There were no traces of the virus in the samples."]
+    explain: "После *there + be* обычный пассив не ставят. Либо пассив с нормальным подлежащим (**No traces… were found**), либо просто *There were no traces*."
+  - q: "It's no use to argue with him once he's made up his mind."
+    answers: ["It's no use arguing with him once he's made up his mind.", "There's no use arguing with him once he's made up his mind.", "It's no good arguing with him once he's made up his mind."]
+    explain: "**It's no use / no good + -ing**. Инфинитив после *no use* звучит неестественно."
+  - q: "There is believed to be over two hundred species of orchid in the park."
+    answers: ["There are believed to be over two hundred species of orchid in the park."]
+    explain: "Глагол после *there* согласуется с существительным после него: *two hundred species* → **There are believed to be**."
+  - q: "Seems that the meeting has been moved to Thursday."
+    answers: ["It seems that the meeting has been moved to Thursday.", "It seems the meeting has been moved to Thursday."]
+    explain: "В английском предложении нужно подлежащее: **It seems that…** Пропуск *it* допустим только в беглой речи и чатах."
+  - q: "It took to us three months to get the visa."
+    answers: ["It took us three months to get the visa."]
+    explain: "Модель *it + take + **person** + time + to*: человек — прямое дополнение, без предлога: **It took us three months**."
+  - q: "There seems to be a power cut last night — all the clocks are flashing."
+    answers: ["There seems to have been a power cut last night — all the clocks are flashing.", "There appears to have been a power cut last night — all the clocks are flashing."]
+    explain: "Отключение было вчера, а вывод делаем сейчас → перфектный инфинитив: **There seems to have been**."
+  - q: "It's not worth to repair such an old printer."
+    answers: ["It's not worth repairing such an old printer."]
+    explain: "После *worth* — только герундий: **It's not worth repairing**."
+  - q: "We consider essential that all staff complete the training."
+    answers: ["We consider it essential that all staff complete the training."]
+    explain: "*consider / find / think + **it** + adj + that*: без пустого *it* фраза грамматически неполная."

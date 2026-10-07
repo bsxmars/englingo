@@ -1,0 +1,40 @@
+title: "They, people, someone → пассив"
+type: gap
+intro: "Перепиши фразу с «пустым» подлежащим (*they, people, you, someone*) в пассив: впиши только сказуемое. Время не меняй. Исполнителя (*by…*) не добавляй — он пустой."
+hints:
+  - "Время остаётся тем же, меняется только залог: have cancelled → has been cancelled."
+  - "После модальных и have to / ought to — голое be + V3."
+items:
+  - q: "They have cancelled the concert. → The concert ___ ."
+    answers: ["has been cancelled", "has been canceled"]
+    explain: "Present Perfect → *has been* + V3. *they* — организаторы, их называть не нужно, поэтому без *by*."
+  - q: "People speak Portuguese in Brazil. → Portuguese ___ in Brazil."
+    answers: ["is spoken"]
+    explain: "Present Simple, общий факт → *is spoken*. «Люди» — пустое подлежащее, *by people* было бы лишним."
+  - q: "You should keep medicines away from children. → Medicines ___ away from children."
+    answers: ["should be kept"]
+    explain: "Инструкция с *you* = «любой человек» → в пассиве *should be kept* (*keep – kept – kept*)."
+  - q: "Someone has taken my charger. → My charger ___ ."
+    answers: ["has been taken", "has been stolen"]
+    explain: "Неизвестный человек, результат сейчас → *has been taken*. Пассив позволяет вообще не упоминать «кого-то»."
+  - q: "They are building a new terminal at the airport. → A new terminal ___ at the airport."
+    answers: ["is being built"]
+    explain: "Present Continuous → *is **being** built*. *they* здесь — власти или строители, это и так понятно."
+  - q: "You have to wear a helmet on this site. → A helmet ___ on this site."
+    answers: ["has to be worn", "must be worn"]
+    explain: "*have to* в пассиве → *has to be* + V3: *has to be worn* (*wear – wore – worn*). Подлежащее в единственном числе → *has*."
+  - q: "They ought to repair this road. → This road ___ ."
+    answers: ["ought to be repaired", "should be repaired"]
+    explain: "*ought to* ведёт себя как модальный: *ought to **be** repaired*. Смысл как у *should be repaired*."
+  - q: "People were using the old bridge until last year. → The old bridge ___ until last year."
+    answers: ["was being used", "was used"]
+    explain: "Past Continuous → *was being used*. Простое *was used* тоже верно: «им пользовались до прошлого года»."
+  - q: "They might announce the results tomorrow. → The results ___ tomorrow."
+    answers: ["might be announced", "may be announced"]
+    explain: "*might* + **be** + V3. Модальный глагол не меняется, меняется только смысловой."
+  - q: "Someone had already booked the room when we called. → The room ___ when we called."
+    answers: ["had already been booked", "had been booked already", "had been booked"]
+    explain: "Действие раньше другого момента в прошлом → Past Perfect пассив: *had already been booked*."
+  - q: "They don't allow dogs in this park. → Dogs ___ in this park."
+    answers: ["are not allowed", "aren't allowed"]
+    explain: "Правило → Present Simple пассив в отрицании: *aren't allowed*. Так пишут на табличках: *Dogs are not allowed*."

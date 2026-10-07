@@ -1,0 +1,37 @@
+title: "Времена рассказа"
+type: gap
+intro: "Поставь глагол в **Past Simple**, **Past Continuous**, **Past Perfect** или **Past Perfect Continuous**. Сокращения (*I'd*, *wasn't*) засчитываются."
+hints:
+  - "Фон, который прервали, — Past Continuous. Цепочка событий — Past Simple."
+  - "Случилось раньше другого момента в прошлом — Past Perfect. Длилось до него — Past Perfect Continuous."
+items:
+  - q: "When I got to the station, the train ___ (already / leave)."
+    answers: ["had already left"]
+    explain: "Поезд ушёл **раньше**, чем я пришёл → Past Perfect: *had already left*."
+  - q: "I ___ (walk) home when it started to rain."
+    answers: ["was walking"]
+    explain: "Длинное действие-фон, которое прервал дождь → Past Continuous."
+  - q: "Her eyes were red because she ___ (cry)."
+    answers: ["had been crying"]
+    explain: "Следы действия, которое длилось до момента в прошлом → **Past Perfect Continuous**."
+  - q: "By the time we arrived, the film ___ (start)."
+    answers: ["had started", "had already started"]
+    explain: "**By the time** + Past Simple → то, что случилось раньше, ставим в Past Perfect."
+  - q: "While I ___ (cook), the phone rang."
+    answers: ["was cooking"]
+    explain: "**While** + длительное действие в прошлом → Past Continuous."
+  - q: "It was my first trip abroad: I ___ (never / be) on a plane before."
+    answers: ["had never been"]
+    explain: "Опыт до момента в прошлом (**before** = до той поездки) → Past Perfect: *had never been*."
+  - q: "He opened the door, ___ (turn) on the light and sat down."
+    answers: ["turned"]
+    explain: "Действия идут одно за другим → все в Past Simple."
+  - q: "We ___ (wait) for over an hour when the bus finally came."
+    answers: ["had been waiting", "had waited"]
+    explain: "Длительность до момента в прошлом (**for over an hour**, до прихода автобуса) → естественнее всего Past Perfect Continuous; *had waited* тоже возможно."
+  - q: "When I saw Max, I didn't recognise him: he ___ (grow) a beard."
+    answers: ["had grown"]
+    explain: "Борода выросла **до** нашей встречи → Past Perfect: *had grown*."
+  - q: "At ten o'clock last night I ___ (watch) a documentary."
+    answers: ["was watching"]
+    explain: "Действие было в процессе в конкретный момент прошлого (**at ten o'clock**) → Past Continuous."

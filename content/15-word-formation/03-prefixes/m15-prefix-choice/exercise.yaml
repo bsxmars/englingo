@@ -1,0 +1,56 @@
+title: "Какая приставка по смыслу?"
+type: choice
+intro: "Все варианты похожи на настоящие слова, но верен только один — и по форме, и по смыслу контекста. Читай предложение целиком: соседние слова подсказывают, нужно ли отрицание и какое."
+hints:
+  - "mis- = неправильно, dis- = противоположное действие, un- с глаголом = отменить действие."
+  - "over- = слишком много, under- = слишком мало."
+  - "im- перед m / p, il- перед l, ir- перед r — но не со всеми словами."
+items:
+  - q: "I think you've ___ me — I said Tuesday, not Thursday."
+    options: ["disunderstood", "misunderstood", "ununderstood"]
+    answer: 1
+    explain: "Понять **неправильно** → **mis-**: *misunderstand*. Другие формы не существуют."
+  - q: "The figures in the report were deliberately ___ to hide the losses."
+    options: ["misleading", "unleading", "disleading"]
+    answer: 0
+    explain: "*mislead* — вводить в заблуждение; *misleading figures* — вводящие в заблуждение цифры."
+  - q: "As soon as we got to the hotel, we ___ our suitcases and went to the beach."
+    options: ["dispacked", "mispacked", "unpacked"]
+    answer: 2
+    explain: "**un-** с глаголом — обратное действие: *pack → unpack* (как *lock → unlock*, *do → undo*)."
+  - q: "The steak was ___, so I sent it back to the kitchen — it was still red inside."
+    options: ["overcooked", "undercooked", "miscooked"]
+    answer: 1
+    explain: "*still red inside* → приготовлено **недостаточно**: **under-**. *overcooked* — пережаренное."
+  - q: "Don't ___ him — he looks quiet, but he's the best player in the team."
+    options: ["overestimate", "misestimate", "underestimate"]
+    answer: 2
+    explain: "*he's the best player* → его легко **недооценить**: *underestimate*."
+  - q: "Using your phone while driving is not only dangerous but also ___."
+    options: ["illegal", "unlegal", "inlegal"]
+    answer: 0
+    explain: "Перед *l* — **il-**, буква удваивается: *illegal*."
+  - q: "The museum is closed for repairs and will ___ in March."
+    options: ["unopen", "reopen", "disopen"]
+    answer: 1
+    explain: "Открыться **снова** → **re-**: *reopen*."
+  - q: "Children who ___ their parents are not always being naughty — sometimes they're just tired."
+    options: ["misobey", "unobey", "disobey"]
+    answer: 2
+    explain: "*obey* (слушаться) → противоположное **dis-**: *disobey*."
+  - q: "The rules seemed completely ___ — nobody could explain why they existed."
+    options: ["unlogical", "illogical", "inlogical"]
+    answer: 1
+    explain: "*logical* начинается с *l* → **il-**: *illogical*."
+  - q: "This bag is ___ — it can't be more than ten years old, and they're asking €900!"
+    options: ["underpriced", "overpriced", "mispriced"]
+    answer: 1
+    explain: "Слишком дорого → **over-**: *overpriced*."
+  - q: "Her ___ answers made the interviewers doubt her experience."
+    options: ["unprecise", "imprecise", "disprecise"]
+    answer: 1
+    explain: "*precise* начинается с *p* → **im-**: *imprecise*."
+  - q: "The film is set in a ___ world where people live underground."
+    options: ["post-apocalyptic", "pre-apocalyptic", "anti-apocalyptic"]
+    answer: 0
+    explain: "Люди живут под землёй **после** катастрофы → **post-**: *post-apocalyptic*."

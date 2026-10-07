@@ -1,0 +1,66 @@
+title: "Перефразирование: сложные случаи пассива"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+
+  Здесь встречаются все пять конструкций урока: два дополнения, пассивный инфинитив и герундий, get-passive, предлог в конце, *need doing* и *be to*.
+hints:
+  - "give, promise, show → подлежащее — человек: I was given…; explain, describe → only: It was explained to me."
+  - "Предлог фразового глагола остаётся сразу после V3: was looked after, been paid for."
+  - "need + -ing уже пассивно: needs cleaning = needs to be cleaned."
+items:
+  - q: "They promised us a refund, but we never got it."
+    key: "PROMISED"
+    stem: "We ___ , but we never got it."
+    answers: ["were promised a refund"]
+    explain: "У *promise* два дополнения → подлежащим становится человек: **We were promised a refund**. Так звучит естественнее, чем *A refund was promised to us*."
+  - q: "I hate it when people interrupt me."
+    key: "BEING"
+    stem: "I hate ___ ."
+    answers: ["being interrupted"]
+    explain: "*hate* + -ing, а пассивный герундий — **being + V3**: *being interrupted* = «когда меня перебивают»."
+  - q: "Somebody should look into this problem."
+    key: "LOOKED"
+    stem: "This problem ___ ."
+    answers: ["should be looked into"]
+    explain: "Модальный + **be + V3**, а предлог *into* остаётся после V3: *should be looked **into***. Без него получится «на проблему надо посмотреть»."
+  - q: "The windows need to be cleaned."
+    key: "CLEANING"
+    stem: "The windows ___ ."
+    answers: ["need cleaning"]
+    explain: "**need + -ing** уже имеет пассивный смысл: *need cleaning* = *need to be cleaned*. ~~need being cleaned~~ — ошибка."
+  - q: "Staff must wear name badges at all times."
+    key: "ARE"
+    stem: "Name badges ___ at all times."
+    answers: ["are to be worn", "are required to be worn"]
+    explain: "**be to + be + V3** — официальное распоряжение: *are to be worn*. Вариант *are required to be worn* тоже передаёт обязанность."
+  - q: "Someone stole my phone at the festival."
+    key: "GOT"
+    stem: "My phone ___ at the festival."
+    answers: ["got stolen"]
+    explain: "Неожиданное неприятное событие в разговорной речи → **get + V3**: *got stolen*. Форма *get* — Past Simple, как у *stole*."
+  - q: "Nobody has paid for these drinks yet."
+    key: "FOR"
+    stem: "These drinks ___ yet."
+    answers: ["have not been paid for", "haven't been paid for"]
+    explain: "*pay for* — глагол с предлогом. В пассиве **for** остаётся в конце: *haven't been paid for*. Время — Present Perfect, как в оригинале."
+  - q: "My manager showed me the new booking system on my first day."
+    key: "SHOWN"
+    stem: "I ___ the new booking system on my first day."
+    answers: ["was shown"]
+    explain: "*show* — глагол с двумя дополнениями: получатель (*I*) становится подлежащим → **I was shown** the system."
+  - q: "They explained the new procedure to us twice."
+    key: "EXPLAINED"
+    stem: "The new procedure ___ twice."
+    answers: ["was explained to us"]
+    explain: "У *explain* человек не может быть подлежащим пассива (~~We were explained~~). Только **The procedure was explained to us**."
+  - q: "I expect that they will invite me to the final round."
+    key: "EXPECT"
+    stem: "I ___ to the final round."
+    answers: ["expect to be invited"]
+    explain: "*expect* + инфинитив; пригласят меня → пассивный инфинитив **to be invited**."
+  - q: "The children's grandmother took care of them all summer."
+    key: "LOOKED"
+    stem: "The children ___ by their grandmother all summer."
+    answers: ["were looked after"]
+    explain: "*take care of* = *look after*. В пассиве предлог остаётся: **were looked after** by their grandmother."

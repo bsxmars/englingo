@@ -1,0 +1,41 @@
+title: "Собери предложение: место и время"
+type: order
+intro: "Собери предложение из слов по русскому смыслу. Следи за предлогами места и времени и за тем, где предлог не нужен вовсе."
+hints:
+  - "Обычный порядок в конце предложения: сначала место, потом время (in the office at nine)."
+  - "Перед next, last, this, every, tomorrow предлога нет; после go / get / come перед home — тоже."
+  - "Точка — at, поверхность или день — on, пространство или период — in."
+items:
+  - q: "«Обычно я прихожу в офис около девяти утра»."
+    answers: ["I usually get to the office at about nine in the morning", "I usually arrive at the office at about nine in the morning"]
+    explain: "Место раньше времени: *to the office* → *at about nine* → *in the morning*. Час — **at**, часть дня — **in the morning**."
+  - q: "«Мы познакомились на свадьбе у друзей прошлым летом»."
+    answers: ["We met at a friends' wedding last summer", "We met at our friends' wedding last summer"]
+    explain: "Событие (свадьба, вечеринка, концерт) — **at**: *at a wedding*. Перед **last summer** предлог не ставим."
+  - q: "«Ночью я проснулся от странного шума»."
+    answers: ["I woke up in the night because of a strange noise", "In the night I woke up because of a strange noise"]
+    explain: "**in the night** — посреди одной конкретной ночи. *at night* значило бы «ночью вообще, по ночам»."
+  - q: "«Её кабинет на третьем этаже в конце коридора»."
+    answers: ["Her office is on the third floor at the end of the corridor"]
+    explain: "Этаж — **on the third floor**, точка в конце коридора — **at the end of** the corridor."
+  - q: "«Поезд пришёл точно по расписанию, но мы опоздали»."
+    answers: ["The train arrived on time but we were late", "The train arrived exactly on time but we were late"]
+    explain: "**on time** — точно по расписанию. *in time* — «успеть заранее», здесь смысл другой."
+  - q: "«Я буду в Лондоне через две недели»."
+    answers: ["I will be in London in two weeks", "I will be in London in two weeks' time", "In two weeks I will be in London"]
+    explain: "«через» от сейчас — **in** two weeks (или *in two weeks' time*). ~~after two weeks~~ здесь неверно."
+  - q: "«Мы сидели в последнем ряду кинотеатра»."
+    answers: ["We sat in the back row of the cinema", "We were sitting in the back row of the cinema", "We sat in the last row of the cinema"]
+    explain: "Ряд — линия, в которой находишься: **in** the back row. Так же *in a queue, in a line*."
+  - q: "«В выходные мы обычно сидим дома»."
+    answers: ["We usually stay at home at the weekend", "At the weekend we usually stay at home", "We usually stay at home on the weekend", "On the weekend we usually stay at home"]
+    explain: "«дома» — **at home** (без движения). Выходные — **at the weekend** (брит.) или **on the weekend** (амер.)."
+  - q: "«Туристы стояли в длинной очереди у входа в музей»."
+    answers: ["The tourists were standing in a long queue at the entrance to the museum", "The tourists stood in a long queue at the entrance to the museum"]
+    explain: "Очередь — линия, внутри которой стоишь: **in a queue**. Вход — точка: **at the entrance** (to the museum)."
+  - q: "«Самолёт приземлился в Риме в полночь»."
+    answers: ["The plane landed in Rome at midnight"]
+    explain: "Город — **in Rome**, точное время — **at midnight** (как *at noon, at 5 pm*). Сначала место, потом время."
+  - q: "«Он родился в маленькой деревне в 1990-х»."
+    answers: ["He was born in a small village in the 1990s"]
+    explain: "И деревня, и десятилетие — «пространство» и «период» → оба раза **in**. *born* — пассив: *was born*."

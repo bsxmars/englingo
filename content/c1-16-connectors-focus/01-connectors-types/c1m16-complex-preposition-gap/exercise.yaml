@@ -1,0 +1,43 @@
+title: "as a result или as a result of?"
+type: gap
+intro: "Впиши связку или сложный предлог, построенный на слове в скобках. Посмотри, что идёт после пропуска: существительное (тогда нужен предлог с *of / to*) или запятая и новое предложение (тогда connector)."
+hints:
+  - "as a result, in addition, instead, in contrast — connectors: после них запятая и полное предложение."
+  - "as a result of, in addition to, instead of, in contrast to — предлоги: после них существительное, местоимение или -ing."
+items:
+  - q: "___ (result) the merger, around four hundred jobs were lost."
+    answers: ["as a result of"]
+    explain: "После пропуска — существительное *the merger* → предлог **as a result of**."
+  - q: "The two banks merged last spring. ___ (result), around four hundred jobs were lost."
+    answers: ["as a result"]
+    explain: "Здесь связка между двумя предложениями: после неё запятая и полное предложение → **as a result** без *of*."
+  - q: "___ (addition) her teaching duties, she sits on two university committees."
+    answers: ["in addition to"]
+    explain: "После пропуска — существительное *her teaching duties* → предлог **in addition to**."
+  - q: "She teaches full-time. ___ (addition), she sits on two university committees."
+    answers: ["in addition"]
+    explain: "Connector в начале нового предложения: **In addition**, затем запятая."
+  - q: "We could take the sleeper train ___ (instead) flying — it's hardly any slower."
+    answers: ["instead of"]
+    explain: "После пропуска — герундий *flying* → предлог **instead of**. После предлога всегда *-ing*, а не инфинитив."
+  - q: "The board turned down the pay rise and offered staff a one-off bonus ___ (instead)."
+    answers: ["instead"]
+    explain: "Пропуск в конце предложения, дополнения нет → connector **instead**. Его естественное место — конец фразы."
+  - q: "___ (contrast) its main rivals, the firm has managed to avoid layoffs."
+    answers: ["in contrast to", "in contrast with", "by contrast with"]
+    explain: "Перед существительным *its main rivals* нужен предлог: **in contrast to** (чаще всего) или *in / by contrast with*."
+  - q: "Its main rivals have cut thousands of jobs. ___ (contrast), the firm has avoided layoffs."
+    answers: ["in contrast", "by contrast"]
+    explain: "Connector между предложениями: **In contrast** или **By contrast** — оба формальные и равноправные."
+  - q: "___ (spite) repeated warnings from engineers, the council took no action."
+    answers: ["in spite of"]
+    explain: "Предлог **in spite of** + существительное. Без *of* (~~in spite repeated warnings~~) нельзя."
+  - q: "___ (consequence) the prolonged drought, crop yields fell by a third."
+    answers: ["as a consequence of", "in consequence of"]
+    explain: "Предлог **as a consequence of** + существительное. *In consequence of* тоже возможен, но звучит очень книжно."
+  - q: "The next ferry doesn't leave until six. ___ (meantime), passengers may wait in the terminal lounge."
+    answers: ["in the meantime", "meantime"]
+    explain: "**In the meantime** — «а пока», о промежутке до какого-то момента. Близкая по смыслу связка — *meanwhile*."
+  - q: "___ (comparison) last year, online sales are up by twelve per cent."
+    answers: ["in comparison with", "in comparison to", "by comparison with", "compared with", "compared to"]
+    explain: "Перед существительным *last year* — предлог **in comparison with / to** (или *by comparison with*). Без дополнения было бы просто *In comparison, …*"

@@ -1,0 +1,69 @@
+title: "Перефразирование: сочетания с предлогами (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое). Почти везде нужно устойчивое сочетание с предлогом.
+hints:
+  - "Глагол часто превращается в существительное или прилагательное с предлогом: depend → dependent on, cause → the cause of."
+  - "Нарочно — on purpose, случайно — by accident / by chance / by mistake, заранее — in advance."
+  - "После предлога глагол ставится в -ing."
+items:
+  - q: "He didn't mean to delete the file."
+    key: "MISTAKE"
+    stem: "He deleted ___ ."
+    answers: ["the file by mistake", "it by mistake"]
+    explain: "«не хотел» = сделал по ошибке → **by mistake**. Так же *by accident*."
+  - q: "She broke the vase deliberately."
+    key: "PURPOSE"
+    stem: "She broke ___ ."
+    answers: ["the vase on purpose", "it on purpose"]
+    explain: "*deliberately* = **on purpose**. Предлог только **on**."
+  - q: "Why did the train arrive so late?"
+    key: "REASON"
+    stem: "What was ___ the train's late arrival?"
+    answers: ["the reason for"]
+    explain: "*Why…?* → *What was **the reason for***…? Не ~~reason of~~."
+  - q: "Prices have gone up by 15% this year."
+    key: "RISE"
+    stem: "There has been ___ prices this year."
+    answers: ["a 15% rise in", "a rise of 15% in", "a fifteen per cent rise in", "a 15 per cent rise in", "a fifteen percent rise in", "a 15 percent rise in"]
+    explain: "Размер роста — **of** 15%, то, что выросло — **in** prices: *a rise **of** 15% **in** prices* или *a 15% rise **in** prices*."
+  - q: "My brother can fix almost any computer problem."
+    key: "GOOD"
+    stem: "My brother is ___ computer problems."
+    answers: ["good at fixing", "very good at fixing", "really good at fixing", "good at solving"]
+    explain: "Умение → **good at** + *-ing*: *good at fixing*."
+  - q: "I really want to see the new exhibition."
+    key: "FORWARD"
+    stem: "I'm really ___ the new exhibition."
+    answers: ["looking forward to seeing", "looking forward to visiting"]
+    explain: "**look forward to** + *-ing*: *to* здесь предлог, поэтому *seeing*, а не ~~to see~~."
+  - q: "The two phones look almost the same."
+    key: "SIMILAR"
+    stem: "The first phone is ___ the second one."
+    answers: ["very similar to", "really similar to", "extremely similar to", "quite similar to"]
+    explain: "**similar to** — похож на. Не ~~similar with~~. *almost* с *similar* не сочетается, поэтому *very / really similar to*."
+  - q: "We booked the tickets two months before the concert."
+    key: "ADVANCE"
+    stem: "We booked the tickets two months ___ ."
+    answers: ["in advance", "in advance of the concert"]
+    explain: "заранее — **in advance**; *in advance of* + существительное — «заранее, до»."
+  - q: "Mark always takes care of the budget."
+    key: "RESPONSIBLE"
+    stem: "Mark is always ___ the budget."
+    answers: ["responsible for", "the one responsible for"]
+    explain: "отвечать за что-то → **responsible for**."
+  - q: "Most people liked the conference, though there were a few problems."
+    key: "WHOLE"
+    stem: "There were a few problems, but ___ liked the conference."
+    answers: ["on the whole people", "on the whole most people", "people on the whole"]
+    explain: "**on the whole** — в целом. Только с **on**: не ~~in the whole~~."
+  - q: "Nobody knows what caused the accident."
+    key: "CAUSE"
+    stem: "Nobody knows ___ the accident."
+    answers: ["the cause of", "the real cause of", "the exact cause of"]
+    explain: "Существительное **cause** берёт **of**: *the cause **of** the accident* (а *reason* — **for**)."
+  - q: "I got bored of waiting, so I went home."
+    key: "TIRED"
+    stem: "I was ___ , so I went home."
+    answers: ["tired of waiting", "sick and tired of waiting"]
+    explain: "надоело → **tired of** + *-ing*. Так же *fed up with*, *bored with / of*."

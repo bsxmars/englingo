@@ -1,0 +1,51 @@
+title: "Какая модель?"
+type: choice
+intro: "Выбери единственный верный вариант. Главный вопрос — может ли этот глагол взять **объект + to**."
+hints:
+  - "suggest, insist, hope, explain — без объекта + to."
+  - "would like / remind / persuade — объект + to; like / mind — объект + -ing."
+items:
+  - q: "Our team lead suggested ___ the release until Monday."
+    options: ["us to postpone", "postponing", "us postpone"]
+    answer: 1
+    explain: "*suggest* не берёт объект + *to*: **suggested postponing** или *suggested (that) we postpone*."
+  - q: "I hope ___ again soon."
+    options: ["you to see", "to see you", "seeing you"]
+    answer: 1
+    explain: "Подлежащее одно (я надеюсь увидеть) → **hope to see you**. ~~hope you to…~~ невозможно."
+  - q: "My parents tried to talk me ___ to Australia."
+    options: ["out of moving", "out to move", "from moving"]
+    answer: 0
+    explain: "«Отговорить» → **talk sb out of doing**. После *of* — *-ing*."
+  - q: "The storm caused the flight ___ ."
+    options: ["to be delayed", "being delayed", "be delayed"]
+    answer: 0
+    explain: "*cause sb / sth to do*; рейс задержали → пассивный инфинитив **to be delayed**."
+  - q: "She insisted ___ for dinner."
+    options: ["me to pay", "on paying", "to paying"]
+    answer: 1
+    explain: "*insist* работает с **on + -ing** (*insisted on paying*) или с *that*-придаточным. Объект + *to* невозможен."
+  - q: "Would you like ___ you with the slides?"
+    options: ["me helping", "that I help", "me to help"]
+    answer: 2
+    explain: "*would like* + объект + **to**: *Would you like me to help you?* — «хочешь, чтобы я помог?»"
+  - q: "Can you remind ___ the invoice tomorrow?"
+    options: ["me to send", "me sending", "to me send"]
+    answer: 0
+    explain: "*remind sb to do* — «напомнить сделать»: **me to send**."
+  - q: "I don't like people ___ my desk without asking."
+    options: ["touch", "touching", "that touch"]
+    answer: 1
+    explain: "*not like sb doing* — «не люблю, когда кто-то делает»: **people touching**."
+  - q: "The museum doesn't permit ___ inside."
+    options: ["visitors taking photos", "visitors to take photos", "to take photos"]
+    answer: 1
+    explain: "С объектом *permit* требует **to**: *permit visitors to take*. Без объекта было бы *permit taking photos*."
+  - q: "Who persuaded you ___ for this job?"
+    options: ["apply", "to apply", "applying"]
+    answer: 1
+    explain: "*persuade sb to do* → **to apply**."
+  - q: "The manager explained ___ the new system."
+    options: ["us how to use", "to us how to use", "us to use"]
+    answer: 1
+    explain: "*explain* не ставит человека сразу после себя: **explained to us how to use**. ~~explained us~~ — частая калька."

@@ -1,0 +1,56 @@
+title: "Как отрицать: no, not, none, negative words"
+type: choice
+intro: "Выбери вариант, который грамматически верен и уместен в контексте. Помни: одно отрицание на клаузу, а после вынесенного вперёд отрицательного слова — инверсия."
+hints:
+  - "hardly, barely, seldom уже отрицательные — глагол рядом утвердительный."
+  - "Перед a / an, all, every — not; перед существительным и сравнительной степенью — no."
+  - "No sooner… than, hardly… when."
+items:
+  - q: "Frankly, the updated software is ___ than the old version — it crashes just as often."
+    options: ["no better", "any better", "none the better"]
+    answer: 0
+    explain: "**no** + сравнительная степень = «ничуть не лучше». *any better* требует отрицательного глагола (*isn't any better*), а *none the better* значит «ничуть не выиграл от чего-то» и с *than* не сочетается."
+  - q: "___ of the proposals put forward at the meeting was accepted."
+    options: ["None", "No", "Not any"]
+    answer: 0
+    explain: "Перед *of the…* — только **none**. *No* ставится прямо перед существительным (*no proposal*), а *not any* в роли подлежащего в начале предложения не используют."
+  - q: "We had been asked to keep the matter confidential, so we decided ___ anyone."
+    options: ["not to tell", "to tell not", "no telling"]
+    answer: 0
+    explain: "Отрицательный инфинитив: *not* стоит **перед** *to*: *decided **not to tell***."
+  - q: "___ applicants have the experience the role requires — in fact, very few do."
+    options: ["Not all", "No all", "All not"]
+    answer: 0
+    explain: "«Не все» = **Not all**. Перед квантификаторами (*all, every, much*) ставится *not*, не *no*. *All not* в таком порядке не используется."
+  - q: "— Did the hotel offer you any compensation? — ___, despite three formal complaints."
+    options: ["Not a penny", "No a penny", "None penny"]
+    answer: 0
+    explain: "Перед артиклем *a / an* — только **not**: *not a penny, not a word, not a single…* Это эмфатическое «ни гроша»."
+  - q: "Seldom ___ such a well-argued thesis from a first-year student."
+    options: ["have I read", "I have read", "I read"]
+    answer: 0
+    explain: "*Seldom* в начале → инверсия: вспомогательный глагол + подлежащее: ***Seldom have I read…***"
+  - q: "No sooner ___ the contract than the supplier raised its prices."
+    options: ["had we signed", "we had signed", "have we signed"]
+    answer: 0
+    explain: "*No sooner* в начале → инверсия, и действие раньше другого в прошлом → Past Perfect: ***had we signed***. *have we signed* не согласуется с *raised*."
+  - q: "Hardly had the speaker begun ___ the fire alarm went off."
+    options: ["when", "than", "that"]
+    answer: 0
+    explain: "Пара **hardly… when** (или *before*). *Than* — только после *no sooner*, потому что там сравнительная степень."
+  - q: "— I can't make sense of these new regulations. — ___."
+    options: ["Neither can I", "Nor I can", "So can't I"]
+    answer: 0
+    explain: "Согласие с отрицанием: **Neither / Nor** + вспомогательный + подлежащее. *So* — только для согласия с утверждением (*So can I*)."
+  - q: "Формальная табличка на двери лаборатории: «___ beyond this point.»"
+    options: ["No unauthorised entry", "Don't enter without authorisation", "Not entering without authorisation"]
+    answer: 0
+    explain: "В официальных запретах используют **No** + существительное или герундий: *No unauthorised entry, No smoking*. *Don't…* — разговорная просьба, а *Not entering* вообще не запрет."
+  - q: "Only after the results had been checked twice ___ to publish them."
+    options: ["did the committee agree", "the committee agreed", "agreed the committee"]
+    answer: 0
+    explain: "*Only after + клауза* в начале → инверсия в **главной** части: ***did the committee agree***. Смысловой глагол без *-ed*: *-ed* «забрал» *did*."
+  - q: "The audience ___ any attention to the warnings about phones."
+    options: ["hardly paid", "didn't hardly pay", "hardly didn't pay"]
+    answer: 0
+    explain: "*hardly* стоит перед смысловым глаголом и уже несёт отрицание: ***hardly paid any attention***. *didn't hardly* и *hardly didn't* — двойное отрицание."

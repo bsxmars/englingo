@@ -1,0 +1,55 @@
+title: "Глагол + дополнение + предлог"
+type: choice
+intro: "Выбери предлог, который ставится после дополнения."
+hints:
+  - "thank / blame / arrest sb for; accuse / suspect sb of; congratulate sb on; prevent sb from."
+  - "После предлога глагол — в форме -ing."
+items:
+  - q: "The manager accused him ___ stealing money from the till."
+    options: ["of", "in", "for"]
+    answer: 0
+    explain: "**accuse** someone **of** doing something — обвинять в чём-то."
+  - q: "Everyone blamed the driver ___ the accident."
+    options: ["of", "for", "in"]
+    answer: 1
+    explain: "**blame** someone **for** something. Возможен и обратный порядок: *blame the accident **on** the driver*."
+  - q: "Thank you ___ inviting me — I had a wonderful time."
+    options: ["of", "to", "for"]
+    answer: 2
+    explain: "**thank** someone **for** something / doing something."
+  - q: "The trees protect the house ___ the wind."
+    options: ["from", "of", "before"]
+    answer: 0
+    explain: "**protect** something **from** (или *against*) danger."
+  - q: "Could you translate this email ___ English for me?"
+    options: ["on", "into", "in"]
+    answer: 1
+    explain: "**translate** something **into** a language — изменение формы, поэтому *into*."
+  - q: "We spent almost all our money ___ souvenirs."
+    options: ["on", "for", "to"]
+    answer: 0
+    explain: "**spend** money / time **on** something."
+  - q: "This song always reminds me ___ our holiday in Greece."
+    options: ["about", "of", "on"]
+    answer: 1
+    explain: "**remind** someone **of** — напоминать, вызывать ассоциацию. *remind about* — «не дать забыть»: *Remind me about the meeting.*"
+  - q: "The hotel provided us ___ towels and a map of the city."
+    options: ["by", "with", "for"]
+    answer: 1
+    explain: "**provide** someone **with** something. Или без человека: *provide towels **for** guests*."
+  - q: "I had to borrow the money ___ my parents."
+    options: ["of", "by", "from"]
+    answer: 2
+    explain: "**borrow** something **from** someone — занять у кого-то. *lend* — дать в долг: *They lent me the money.*"
+  - q: "I much prefer tea ___ coffee."
+    options: ["than", "to", "from"]
+    answer: 1
+    explain: "**prefer** X **to** Y. Не ~~than~~: *than* — только после сравнительной степени (*I like tea more than coffee*)."
+  - q: "They congratulated her ___ passing the exam."
+    options: ["with", "for", "on"]
+    answer: 2
+    explain: "**congratulate** someone **on** something. Русское «поздравить с» — ловушка."
+  - q: "Heavy snow prevented the plane ___ taking off."
+    options: ["from", "to", "of"]
+    answer: 0
+    explain: "**prevent** someone / something **from** doing. Не ~~prevent to do~~."

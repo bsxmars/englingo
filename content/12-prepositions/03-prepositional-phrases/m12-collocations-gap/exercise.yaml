@@ -1,0 +1,43 @@
+title: "Существительное и прилагательное + предлог"
+type: gap
+intro: "Впиши предлог, который нужен после выделенного слова."
+hints:
+  - "Учи сочетания целиком: proud of, good at, interested in, reason for, solution to."
+  - "rise / fall in — чего стало больше или меньше; rise / fall of — на сколько."
+items:
+  - q: "My parents are very **proud** ___ my sister — she's just become a doctor."
+    answers: ["of"]
+    explain: "**proud of** — гордиться кем-то или чем-то."
+  - q: "I've never been **good** ___ maths, but I love history."
+    answers: ["at"]
+    explain: "Способности — **good at**. *good for* — «полезный для», *good to* — «добрый к»."
+  - q: "Are you **interested** ___ modern art?"
+    answers: ["in"]
+    explain: "**interested in**. Не ~~interested about~~ и не ~~interested by~~ в этом значении."
+  - q: "I'm **fed up** ___ this rainy weather."
+    answers: ["with", "of"]
+    explain: "**fed up with** — нормативный вариант; в британской разговорной речи часто говорят и *fed up of*."
+  - q: "What was the **reason** ___ the delay?"
+    answers: ["for"]
+    explain: "**reason for**. Ловушка — синоним *cause*, у которого другой предлог: *the cause of*."
+  - q: "Investigators still don't know the **cause** ___ the fire."
+    answers: ["of"]
+    explain: "**the cause of** — причина чего-то."
+  - q: "There has been a sharp **rise** ___ house prices this year."
+    answers: ["in"]
+    explain: "Чего стало больше — **rise in**. На сколько — *a rise of 10%*."
+  - q: "Have you found a **solution** ___ the problem yet?"
+    answers: ["to"]
+    explain: "**solution to**, *answer to*, *key to*. Не ~~solution of~~ — калька с «решение проблемы»."
+  - q: "What's the **difference** ___ a crocodile and an alligator?"
+    answers: ["between"]
+    explain: "Разница между двумя вещами — **difference between … and …**."
+  - q: "This little town is **famous** ___ its cheese."
+    answers: ["for"]
+    explain: "**famous for** — знаменит чем-то."
+  - q: "Who is **responsible** ___ this mess in the kitchen?"
+    answers: ["for"]
+    explain: "**responsible for** — отвечать за что-то."
+  - q: "There's a huge **demand** ___ electric cars at the moment."
+    answers: ["for"]
+    explain: "Существительные со значением «нужда, спрос, просьба» берут **for**: *demand for, need for, request for*."

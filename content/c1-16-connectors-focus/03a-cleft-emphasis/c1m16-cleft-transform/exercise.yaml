@@ -1,0 +1,69 @@
+title: "Перефразирование: cleft и эмфатическое do (C1 Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы смысл совпал с первым. Используй **ключевое слово** без изменений и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "What + придаточное + was / is + фокус; действие — What X did was (to) + инфинитив."
+  - "All X did was… = X только и делал, что…"
+  - "The reason … was that…; The last thing … was…"
+items:
+  - q: "Her calmness under pressure impressed me most."
+    key: "WHAT"
+    stem: "___ her calmness under pressure."
+    answers: ["What impressed me most was", "What most impressed me was", "What impressed me the most was"]
+    explain: "Wh-cleft: подлежащее превращается в фокус после *was*: **What impressed me most was** + фокус."
+  - q: "He didn't help at all; he just complained the whole time."
+    key: "ALL"
+    stem: "He didn't help at all. ___ complain the whole time."
+    answers: ["All he did was", "All that he did was", "All he did was to", "All that he did was to"]
+    explain: "**All he did was** + инфинитив = «он только и делал, что…». *All* передаёт оттенок «всего лишь», которого нет у *What*."
+  - q: "The company didn't go public until 2015."
+    key: "WAS"
+    stem: "It ___ 2015 that the company went public."
+    answers: ["was not until", "wasn't until", "was not till", "wasn't till", "was only in"]
+    explain: "**It was not until 2015 that…** — «только в 2015 году…». Отрицание переходит из главного глагола в *was not*, а *went* становится утвердительным."
+  - q: "She left the firm because the pay was so low."
+    key: "REASON"
+    stem: "The ___ the pay was so low."
+    answers: ["reason she left was that", "reason why she left was that", "reason that she left was that", "reason she left the firm was that", "reason why she left the firm was that"]
+    explain: "**The reason (why) … was that** — не *because*: *reason* уже означает причину."
+  - q: "You should apologise to her in person."
+    key: "DO"
+    stem: "What ___ apologise to her in person."
+    answers: ["you should do is", "you should do is to", "you ought to do is", "you ought to do is to", "you need to do is", "you need to do is to", "you must do is", "you must do is to", "you have to do is", "you have to do is to"]
+    explain: "Фокус на действии: **What you should do is (to)** + инфинитив. Модальный глагол остаётся в *what*-части."
+  - q: "I don't dislike him; we just have nothing in common."
+    key: "NOT"
+    stem: "It's ___ dislike him — it's just that we have nothing in common."
+    answers: ["not that I don't", "not that I do not"]
+    explain: "**It's not that…, it's just that…** — отводим одну причину и называем настоящую."
+  - q: "I really didn't expect him to apologise."
+    key: "LAST"
+    stem: "An apology was ___ expected."
+    answers: ["the last thing I", "the last thing that I", "the last thing I had", "the last thing that I had"]
+    explain: "**the last thing I expected** = «меньше всего я ожидал». Обратный cleft: фокус *An apology* стоит в начале."
+  - q: "The manager, not the staff, is responsible for safety."
+    key: "WHO"
+    stem: "It is ___ responsible for safety, not the staff."
+    answers: ["the manager who is"]
+    explain: "It-cleft с фокусом на подлежащем: *It is **the manager who is***. Глагол после *who* согласуется с *the manager*."
+  - q: "I'm sure I locked the door — I remember doing it."
+    key: "DID"
+    stem: "I'm sure I ___ — I remember doing it."
+    answers: ["did lock the door", "did lock it"]
+    explain: "Эмфатическое **did** + инфинитив подчёркивает, что действие действительно было: *I did lock the door*. Не ~~did locked~~."
+  - q: "The cost of the scheme worries me more than anything else."
+    key: "THING"
+    stem: "The ___ the cost of the scheme."
+    answers: ["thing that worries me most is", "thing which worries me most is", "thing that most worries me is", "thing worrying me most is", "thing that worries me the most is", "main thing that worries me is"]
+    explain: "**The thing that worries me most is** + фокус. *more than anything else* превращается в *most*."
+  - q: "We first met in a tiny café near the station."
+    key: "WHERE"
+    stem: "The place ___ a tiny café near the station."
+    answers: ["where we first met was", "where we met was", "where we met first was"]
+    explain: "**The place where … was** + фокус. Время *was* совпадает с *met*."
+  - q: "The server crashed overnight, and that caused all the problems."
+    key: "HAPPENED"
+    stem: "What ___ the server crashed overnight, which caused all the problems."
+    answers: ["happened was that"]
+    explain: "**What happened was (that)** + предложение — способ выдвинуть целое событие в фокус. Это частое начало объяснения в речи и в отчётах."

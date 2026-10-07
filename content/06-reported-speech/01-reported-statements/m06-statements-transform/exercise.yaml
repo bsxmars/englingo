@@ -1,0 +1,66 @@
+title: "Перефразирование: прямая речь → косвенная"
+type: transform
+intro: |
+  Перескажи прямую речь так, чтобы смысл не изменился. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+
+  Пересказываешь **позже и в другом месте**, поэтому времена, местоимения и указатели времени сдвигаются.
+hints:
+  - "tomorrow → the next / following day, yesterday → the day before, ago → before / earlier, today → that day, this → that."
+  - "must (обязанность) → had to; can → could; will → would."
+  - "tell + человек; say — без человека (или say to sb)."
+items:
+  - q: "\"I'm leaving tomorrow,\" Kate told me last month."
+    key: "FOLLOWING"
+    stem: "Kate told me she was leaving ___ ."
+    answers: ["the following day"]
+    explain: "Через месяц «завтра» уже не завтра → **the following day** (или *the next day*). Present Continuous сдвинулся в *was leaving*."
+  - q: "\"I've lost my keys,\" Tom said to us."
+    key: "TOLD"
+    stem: "Tom ___ his keys."
+    answers: ["told us he had lost", "told us he'd lost", "told us that he'd lost"]
+    explain: "*said to us* = **told us**. Present Perfect → Past Perfect: *he **had lost***. *that* тут не помещается в лимит, и он необязателен."
+  - q: "\"We can't hear you,\" the students said to the teacher."
+    key: "COULD"
+    stem: "The students told the teacher that ___ her."
+    answers: ["they could not hear", "they couldn't hear"]
+    explain: "*can't* → **couldn't**, *we* → **they**, *you* → *her* (уже в основе)."
+  - q: "\"I'll finish the report today,\" Lena said last week."
+    key: "DAY"
+    stem: "Lena said she would finish the report ___ ."
+    answers: ["that day"]
+    explain: "Прошла неделя → *today* превращается в **that day**. *will* → *would* уже в основе."
+  - q: "\"This is my flat,\" he said, pointing at the building."
+    key: "HIS"
+    stem: "He said that ___ flat."
+    answers: ["that was his", "it was his", "this was his"]
+    explain: "*my* → **his**, *is* → **was**. *this* обычно меняется на *that* или *it*, но если ты пересказываешь, стоя у того же дома, *this* тоже возможно."
+  - q: "\"I'm working from home this week,\" Anya said a month ago."
+    key: "WEEK"
+    stem: "Anya said she was working from home ___ ."
+    answers: ["that week"]
+    explain: "Неделя уже прошла → *this week* превращается в **that week**."
+  - q: "\"We were living in Minsk at the time,\" they told me."
+    key: "BEEN"
+    stem: "They told me they ___ in Minsk at the time."
+    answers: ["had been living"]
+    explain: "Past Continuous может сдвинуться в Past Perfect Continuous: **had been living**. Ключевое слово *BEEN* требует именно этой формы."
+  - q: "\"You must wear goggles in the lab,\" the instructor told us."
+    key: "HAD"
+    stem: "The instructor told us that we ___ goggles in the lab."
+    answers: ["had to wear"]
+    explain: "*must* в значении обязанности в пересказе часто становится **had to**: *we had to wear*."
+  - q: "\"I saw the film two days ago,\" said Mark."
+    key: "BEFORE"
+    stem: "Mark said he had seen the film ___ ."
+    answers: ["two days before"]
+    explain: "*ago* считается от момента речи. В пересказе отсчёт идёт от того момента → **two days before** (или *earlier*)."
+  - q: "Ivan said to me, \"Your English is improving.\""
+    key: "TOLD"
+    stem: "Ivan ___ English was improving."
+    answers: ["told me my", "told me that my"]
+    explain: "*said to me* = **told me**; *your* с точки зрения пересказчика → **my**. *that* можно опустить."
+  - q: "\"I don't understand the question,\" said the candidate."
+    key: "NOT"
+    stem: "The candidate said ___ the question."
+    answers: ["he did not understand", "she did not understand", "that he did not understand", "that she did not understand", "he does not understand", "she does not understand", "that he does not understand", "that she does not understand"]
+    explain: "Обычно сдвиг: *don't* → **didn't**. Если пересказываешь сразу, пока кандидат всё ещё не понимает, можно оставить *doesn't*."

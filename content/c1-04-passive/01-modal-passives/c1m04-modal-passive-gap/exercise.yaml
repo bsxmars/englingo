@@ -1,0 +1,44 @@
+title: "Модальный пассив и пассивные инфинитивы"
+type: gap
+intro: "Впиши глагол в скобках в **пассивной** форме. Слова перед глаголом подсказывают, что нужно: модальный, phrasal modal, инфинитив или герундий. Подумай, нужна ли перфектная форма."
+hints:
+  - "modal + be + V3; про прошлое: modal + have been + V3."
+  - "Перфектный инфинитив / герундий (to have been V3, having been V3) — если действие произошло раньше."
+  - "Отрицание: not стоит перед to / having / being."
+items:
+  - q: "Under the new legislation, suspects ___ (can / hold) for up to 48 hours without charge."
+    answers: ["can be held"]
+    explain: "Общее правило, настоящее время → простой модальный пассив **can be held**."
+  - q: "The building was completely empty when the fire crews arrived, so it ___ (must / evacuate) very quickly."
+    answers: ["must have been evacuated"]
+    explain: "Вывод о прошлом (*must* = «наверняка») + пассив → **must have been evacuated**."
+  - q: "If the warnings had been taken seriously, much of the damage ___ (could / prevent)."
+    answers: ["could have been prevented"]
+    explain: "Нереализованная возможность в прошлом (третий тип условного) → **could have been prevented**."
+  - q: "I can't find the old contracts anywhere. They ___ (might / move) to the archive while I was on leave."
+    answers: ["might have been moved"]
+    explain: "Предположение о прошлом событии → **might have been moved**. Без *been* получилось бы, что контракты «переехали» сами."
+  - q: "Can you hear that drilling next door? Their kitchen ___ (must / renovate) right now."
+    answers: ["must be being renovated"]
+    explain: "Вывод о процессе прямо сейчас → длительный модальный пассив **must be being renovated**. Форма редкая; в речи проще сказать *they must be renovating*."
+  - q: "Before the merger can go ahead, it ___ (will / have to / approve) by the competition authorities."
+    answers: ["will have to be approved"]
+    explain: "Два модальных подряд: *will* + *have to*, а пассивным становится последний инфинитив: **will have to be approved**."
+  - q: "The date on the tickets is wrong, so they ___ (be going to / have to / reprint)."
+    answers: ["are going to have to be reprinted"]
+    explain: "Цепочка *be going to* + *have to* + **be reprinted**. Разговорно, но верно; в формальном тексте — *will have to be reprinted*."
+  - q: "Several delegates complained afterwards that the speakers ___ (could not / hear) at the back of the hall."
+    answers: ["could not be heard", "couldn't be heard"]
+    explain: "Косвенная речь в прошлом → *could* + **be heard**. Спикеров не было слышно — с ними «не происходило» действие, поэтому пассив."
+  - q: "She was extremely proud ___ (choose) to lead the expedition."
+    answers: ["to have been chosen", "to be chosen"]
+    explain: "Выбор уже состоялся до того, как она гордилась → перфектный пассивный инфинитив **to have been chosen**. Простой *to be chosen* тоже допустим: после *proud / glad* время часто ясно из контекста."
+  - q: "In the interview he never once mentioned ___ (dismiss) from his previous post."
+    answers: ["having been dismissed", "being dismissed"]
+    explain: "После *mention* — герундий. Увольнение было раньше → **having been dismissed**; *being dismissed* тоже верно, потому что *mention* уже отсылает к прошлому."
+  - q: "It was frankly humiliating ___ (not / consult) on a decision that affected my own department."
+    answers: ["not to be consulted", "not to have been consulted", "not being consulted", "to not be consulted", "to not have been consulted"]
+    explain: "*not* стоит **перед** инфинитивом: **not to be consulted** (или перфектное *not to have been consulted*). После *It was humiliating* возможен и герундий: *not being consulted*. Вариант *to not be consulted* встречается в разговорной речи, но в формальном письме лучше *not to*."
+  - q: "Many staff resented ___ (not / tell) about the restructuring until the very last minute."
+    answers: ["not having been told", "not being told", "having not been told"]
+    explain: "*resent* + герундий; отрицание впереди: **not having been told**. Перфект подчёркивает, что «не сказали» раньше, чем возникла обида; *not being told* тоже верно, *having not been told* встречается, но звучит менее естественно."

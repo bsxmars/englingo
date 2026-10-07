@@ -1,0 +1,44 @@
+title: "some, any, no или none"
+type: gap
+intro: "Впиши **одно** слово: *some*, *any*, *no* или *none*. Подумай, какое значение нужно: «примерно», «какой-то», «любой», «ни одного»."
+hints:
+  - "some + число = «около»; some + существительное в ед. ч. = «какой-то, неизвестный»."
+  - "Ударное any в утверждении = «любой». any — и после deny, without, hardly, refuse."
+  - "В подлежащем — no, а не not any. Без существительного — none."
+items:
+  - q: "The manuscript was rediscovered ___ two hundred years after the author's death."
+    answers: ["some", "about", "around", "roughly", "approximately"]
+    explain: "*some* + число = «около, примерно»: *some two hundred years* — книжный, формальный вариант *about*."
+  - q: "The minister flatly denied ___ knowledge of the payments."
+    answers: ["any"]
+    explain: "*deny* несёт отрицательный смысл, поэтому после него — **any**: *denied any knowledge*."
+  - q: "___ attempt was made to contact the families, which is why they learned the news from the papers."
+    answers: ["no"]
+    explain: "Подлежащее с отрицанием → **no**: *No attempt was made*. Английское предложение не начинается с *not any*."
+  - q: "I'm afraid I can't tell you who called — it was ___ woman from the bank, I think."
+    answers: ["some", "a"]
+    explain: "*some* + существительное в единственном числе = «какая-то (неизвестная мне)»: *some woman from the bank*. Нейтральное *a woman* тоже верно, но *some* подчёркивает, что личность неизвестна."
+  - q: "Applicants may choose ___ of the three topics; none is considered easier than the others."
+    answers: ["any", "one"]
+    explain: "**any** в утверждении = «любой, не важно какой»: *may choose any of the three topics*. *one* тоже грамматически верно, но *any* подчёркивает свободу выбора."
+  - q: "We asked several specialists, but ___ of them could explain the fault."
+    answers: ["none"]
+    explain: "Перед *of them* — местоимение **none**. *no* требует существительного без *of*."
+  - q: "There was hardly ___ reaction from the audience when the results were announced."
+    answers: ["any"]
+    explain: "*hardly* — «почти не», отрицательное по смыслу слово, поэтому **hardly any**."
+  - q: "Rebuilding trust after a scandal like this will take ___ time."
+    answers: ["some"]
+    explain: "*some time* = «немало времени, порядочно» (с ударением на *some*). *any time* значило бы «в любое время»."
+  - q: "She walked out of the meeting without ___ word of explanation."
+    answers: ["a", "any", "one"]
+    explain: "После *without* — **any** (отрицательный смысл). *without a word* и *without one word* тоже естественны, поэтому приняты все три."
+  - q: "___ reasonable person would have agreed to such humiliating terms, so it is hardly surprising that the talks collapsed."
+    answers: ["no"]
+    explain: "«Ни один разумный человек не согласился бы» → **No** reasonable person would have agreed… Подлежащее с отрицанием. *Any* дало бы противоположный смысл, который не вяжется с провалом переговоров."
+  - q: "If you notice ___ irregularities in the accounts, report them immediately."
+    answers: ["any", "some"]
+    explain: "В *if*-придаточном, где неизвестно, есть ли что-то, обычно **any**: *if you notice any irregularities*. *some* тоже возможно, если говорящий допускает, что нарушения есть."
+  - q: "Admitting the mistake in front of the whole board must have taken ___ courage."
+    answers: ["some"]
+    explain: "*some* с ударением = «немалый, значительный»: *must have taken some courage* — «на это нужна была немалая смелость»."

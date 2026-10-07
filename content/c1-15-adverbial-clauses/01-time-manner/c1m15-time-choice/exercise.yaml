@@ -1,0 +1,52 @@
+title: "Выбери союз времени или образа действия"
+type: choice
+intro: "Выбери вариант, который точно передаёт смысл. Иногда несколько вариантов грамматичны, но верен только один."
+hints:
+  - "Параллельное изменение — as; точный момент — just as."
+  - "no sooner… than, hardly / scarcely… when + инверсия."
+  - "as if + were — нереальное сравнение."
+items:
+  - q: "___ I get older, I find I care less about other people's opinions."
+    options: ["As", "While", "Until"]
+    answer: 0
+    explain: "Параллельное изменение (старею — меньше волнуюсь) → **As**. *While* описывает фон, а не процесс изменения."
+  - q: "I'll call you as soon as I ___ the results."
+    options: ["get", "will get", "would get"]
+    answer: 0
+    explain: "В придаточном времени о будущем — **Present Simple**: *as soon as I get*."
+  - q: "The alarm went off just ___ I was stepping into the shower."
+    options: ["as", "while", "since"]
+    answer: 0
+    explain: "Точный момент → **just as**. *just while* не употребляется."
+  - q: "Keep stirring the sauce ___ it thickens."
+    options: ["until", "before", "by the time"]
+    answer: 0
+    explain: "Действие длится до определённого результата → **until**."
+  - q: "It's been nearly three years ___ we last spoke."
+    options: ["since", "after", "when"]
+    answer: 0
+    explain: "Точка отсчёта → **since** + Past Simple."
+  - q: "No sooner ___ the house than it started to pour with rain."
+    options: ["had we left", "we had left", "did we leave"]
+    answer: 0
+    explain: "**No sooner** в начале → инверсия **had we left** (Past Perfect) + *than*."
+  - q: "___ you've signed the contract, there's no going back."
+    options: ["Once", "While", "Until"]
+    answer: 0
+    explain: "**Once** = «как только / после того как» + Present Perfect для законченного действия."
+  - q: "He looked at me ___ I had said something outrageous."
+    options: ["as if", "as", "so that"]
+    answer: 0
+    explain: "«как будто» → **as if** + Past Perfect: мнимое прошлое действие."
+  - q: "Please complete the form exactly ___ shown in the example."
+    options: ["as", "like", "as if"]
+    answer: 0
+    explain: "«так, как показано» → **as** (shown). *like shown* — ошибка; *as if shown* меняет смысл."
+  - q: "Hardly had she sat down ___ the phone rang."
+    options: ["when", "than", "that"]
+    answer: 0
+    explain: "Пара **hardly… when** (или *before*). *than* — только с *no sooner*."
+  - q: "She gives orders ___ she were the one in charge, which she isn't."
+    options: ["as though", "as", "since"]
+    answer: 0
+    explain: "Нереальное сравнение → **as though** + *were*. Подсказка — *which she isn't*."

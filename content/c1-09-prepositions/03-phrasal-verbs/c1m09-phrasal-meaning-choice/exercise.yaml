@@ -1,0 +1,56 @@
+title: "Частица меняет смысл"
+type: choice
+intro: "Выбери вариант, который подходит **по смыслу** (в двух последних пунктах — и по регистру). Все глаголы существуют, но верный только один."
+hints:
+  - "break down — провалиться; break out — разразиться; break off — разорвать."
+  - "make out — разобрать; make up — выдумать; make off — удрать."
+  - "В официальном тексте предпочтителен однословный глагол."
+items:
+  - q: "The peace talks ___ after the rebels rejected the final offer."
+    options: ["broke out", "broke down", "broke in"]
+    answer: 1
+    explain: "**break down** — переговоры провалились. *break out* — о войне, пожаре, эпидемии."
+  - q: "Fighting ___ in the capital shortly after the election results were announced."
+    options: ["broke out", "broke down", "broke off"]
+    answer: 0
+    explain: "**break out** — вспыхнуть, разразиться (о боях, пожаре, болезни)."
+  - q: "She ___ the engagement only weeks before the wedding."
+    options: ["broke out", "broke down", "broke off"]
+    answer: 2
+    explain: "**break off** an engagement / relations / talks — разорвать, прервать."
+  - q: "The handwriting is so faint that I can barely ___ what it says."
+    options: ["make up", "make out", "make off"]
+    answer: 1
+    explain: "**make out** — разобрать, различить (с трудом увидеть или понять)."
+  - q: "The burglars ___ with jewellery worth thousands of pounds."
+    options: ["made off", "made out", "made up"]
+    answer: 0
+    explain: "**make off with** — удрать с добычей."
+  - q: "Don't believe a word of it — he ___ the whole story."
+    options: ["made off", "made up", "made out"]
+    answer: 1
+    explain: "**make up** a story / an excuse — выдумать."
+  - q: "The proposal has ___ fierce opposition from local residents."
+    options: ["run into", "run over", "run out of"]
+    answer: 0
+    explain: "**run into** opposition / problems / difficulties — столкнуться с. *run over* — переехать (машиной), *run out of* — израсходовать."
+  - q: "My grandmother ___ five children on her own after the war."
+    options: ["brought about", "brought up", "brought out"]
+    answer: 1
+    explain: "**bring up** children — вырастить. *bring about* — вызвать (перемены), *bring out* — выпустить (книгу, продукт)."
+  - q: "Police have ___ foul play and believe the death was accidental."
+    options: ["ruled out", "ruled off", "ruled over"]
+    answer: 0
+    explain: "**rule out** — исключить (версию, возможность)."
+  - q: "The deal ___ at the last minute when the investors pulled out."
+    options: ["fell through", "fell out", "fell for"]
+    answer: 0
+    explain: "**fall through** — сорваться (о сделке, плане). *fall out* — поссориться, *fall for* — поддаться (на обман) или влюбиться."
+  - q: "Formal report: 'The committee recommends that the current fee structure be ___.'"
+    options: ["done away with", "abolished", "got rid of"]
+    answer: 1
+    explain: "В официальном отчёте — однословный **abolished**. *be done away with* и *be got rid of* по смыслу подходят, но звучат разговорно и громоздко."
+  - q: "Formal email: 'Unfortunately, the seminar has had to be ___ until further notice.'"
+    options: ["put off", "postponed", "pushed back"]
+    answer: 1
+    explain: "В официальном письме — **postponed**. *put off* и *pushed back* по смыслу подходят, но звучат разговорно."

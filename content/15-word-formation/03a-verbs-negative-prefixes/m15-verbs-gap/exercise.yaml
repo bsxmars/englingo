@@ -1,0 +1,44 @@
+title: "Глагол от слова в скобках (Part 3)"
+type: gap
+intro: "Формат B2 First Use of English, Part 3. Образуй от слова КАПСОМ **глагол** и поставь его в нужную форму: инфинитив, -s, -ed, -ing или третью форму. Варианты на -ise и -ize засчитываются оба."
+hints:
+  - "Какой суффикс: -en (widen), en- (enlarge), -ise (modernise), -ify (simplify)?"
+  - "Что стоит рядом: to, has, is being, he / she, предлог, last year?"
+  - "-ify: y → i перед -es / -ed, но simplifying."
+items:
+  - q: "The government has promised to ___ (SIMPLE) the tax system."
+    answers: ["simplify"]
+    explain: "После *to* — инфинитив. *simple → **simplify***: *-e* выпадает, добавляется *-ify*."
+  - q: "Regular exercise ___ (STRONG) the heart and lungs."
+    answers: ["strengthens"]
+    explain: "Глагол от *strong* образуется через существительное *strength* + **-en**; подлежащее *exercise* — 3-е лицо → **strengthens**."
+  - q: "The old factory was ___ (MODERN) last year and now employs twice as many people."
+    answers: ["modernised", "modernized"]
+    explain: "*was* + третья форма = пассив: фабрику модернизировали. *modern → **modernise / modernize***, оба написания верны."
+  - q: "The new law will ___ (ABLE) small businesses to borrow money more cheaply."
+    answers: ["enable"]
+    explain: "*able → **enable*** (сделать способным, дать возможность). После *will* — инфинитив. *enable sb to do sth*."
+  - q: "The police have ___ (IDENTITY) the man who stole the paintings."
+    answers: ["identified"]
+    explain: "*identity → **identify*** (установить личность); после *have* — третья форма: *y → i* + *-ed* → **identified**."
+  - q: "Could you ___ (SHORT) your speech a little? We only have ten minutes."
+    answers: ["shorten"]
+    explain: "*short → **shorten*** (сократить). После *could you* — инфинитив."
+  - q: "She ___ (APOLOGY) for the delay as soon as she arrived."
+    answers: ["apologised", "apologized"]
+    explain: "*apology → **apologise / apologize***: *-y* выпадает. Рассказ о прошлом → *-d*."
+  - q: "Rising sea levels ___ (THREAT) thousands of homes along the coast."
+    answers: ["threaten", "are threatening"]
+    explain: "*threat → **threaten*** (угрожать). Подлежащее во множественном числе → без *-s*; *are threatening* тоже верно."
+  - q: "The manager ___ (SURE) that everyone knew about the changes before Monday."
+    answers: ["ensured", "made sure"]
+    explain: "*sure → **ensure*** (обеспечить, удостовериться) через приставку **en-**. Рассказ в прошлом → *ensured*."
+  - q: "By ___ (SUMMARY) the main points at the end, you help the audience remember them."
+    answers: ["summarising", "summarizing"]
+    explain: "После предлога *by* — *-ing*. *summary → **summarise*** (*-y* выпадает) → **summarising / summarizing**."
+  - q: "How can you ___ (JUST) spending so much money on a car?"
+    answers: ["justify"]
+    explain: "*just* (справедливый) → **justify** (оправдать). После *can you* — инфинитив."
+  - q: "The heavy rain has ___ (DEEP) the river by almost a metre."
+    answers: ["deepened"]
+    explain: "*deep → **deepen*** (сделать глубже); после *has* — третья форма **deepened**."

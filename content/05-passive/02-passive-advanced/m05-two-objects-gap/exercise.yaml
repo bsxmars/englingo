@@ -1,0 +1,44 @@
+title: "Мне дали, меня перебили, за мной присмотрели"
+type: gap
+intro: "Впиши глагол в скобках в **пассивной форме с be**: личной, инфинитивной (*to be done*) или герундиальной (*being done*). Не забывай предлоги, если они нужны."
+hints:
+  - "give / send / offer / show / tell → подлежащим ставим человека: I was given…"
+  - "want / hope / expect / would like → to be + V3; hate / enjoy / avoid / предлог → being + V3."
+  - "look after, laugh at, deal with: предлог остаётся после V3."
+items:
+  - q: "When I joined the company, I ___ (give) a laptop and a phone."
+    answers: ["was given"]
+    explain: "*give* — глагол с двумя дополнениями. Подлежащее — человек: *I **was given** a laptop*."
+  - q: "She ___ (offer) a job in Berlin last month, but she turned it down."
+    answers: ["was offered"]
+    explain: "«Ей предложили» → *She **was offered** a job*. **last month** → Past Simple."
+  - q: "We ___ (not / tell) about the changes until the very last day."
+    answers: ["were not told", "weren't told"]
+    explain: "«Нам не сказали» → *We **weren't told***. *tell* легко делает подлежащим получателя."
+  - q: "I'd really like ___ (invite) to their wedding."
+    answers: ["to be invited"]
+    explain: "*would like* + инфинитив → в пассиве **to be invited** («чтобы меня пригласили»)."
+  - q: "My brother hates ___ (wake up) early at the weekend."
+    answers: ["being woken up", "being woken", "to be woken up", "to be woken"]
+    explain: "*hate* + **being** + V3: *being woken up* («когда его будят»). После *hate* возможен и инфинитив: *to be woken up*. *wake – woke – woken*."
+  - q: "Don't worry about your cat — she ___ (look after) while you're away."
+    answers: ["will be looked after", "'ll be looked after", "is going to be looked after", "will be well looked after"]
+    explain: "Будущее + пассив + предлог: *will be looked **after***. Предлог *after* — часть глагола и стоит после V3."
+  - q: "Your complaint ___ (deal with) by our manager tomorrow morning."
+    answers: ["will be dealt with", "is going to be dealt with", "is being dealt with"]
+    explain: "*deal with* в пассиве — *be dealt **with***: предлог остаётся. *deal – dealt – dealt*."
+  - q: "Nobody enjoys ___ (criticise) in front of their colleagues."
+    answers: ["being criticised", "being criticized"]
+    explain: "После *enjoy* — только *-ing*, поэтому пассив — **being criticised**. Британское написание *-ise*, американское *-ize*."
+  - q: "The new rules ___ (explain) to us at the first meeting."
+    answers: ["were explained"]
+    explain: "*explain* не делает человека подлежащим (~~we were explained~~), поэтому подлежащее — *the rules*, а человек — с **to**: *were explained to us*."
+  - q: "Freelancers expect ___ (pay) on time, just like everyone else."
+    answers: ["to be paid", "to get paid"]
+    explain: "*expect* + инфинитив → **to be paid** («что им заплатят»). Разговорный вариант — *to get paid*."
+  - q: "This topic ___ (talk about) a lot in the news lately."
+    answers: ["has been talked about"]
+    explain: "**lately** → Present Perfect пассив, а предлог *about* остаётся в конце: *has been talked about*."
+  - q: "That old printer needs ___ (replace) — it jams every day."
+    answers: ["replacing", "to be replaced"]
+    explain: "**need + -ing** уже имеет пассивное значение: *needs replacing* = *needs to be replaced*. Оба варианта верны."

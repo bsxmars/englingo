@@ -1,0 +1,132 @@
+- id: c1m08-adj-types-order
+  lesson: c1-08-adjectives-adverbs/01-adjectives
+  q: "В каком порядке идут три типа прилагательных?"
+  a: "**emphasizing → describing → classifying**: *the **only** (emph.) **elegant old** (descr.) **Japanese wooden** (classif.) house*."
+- id: c1m08-describing-order
+  lesson: c1-08-adjectives-adverbs/01-adjectives
+  q: "Порядок describing-прилагательных?"
+  a: "opinion → size → quality → age → shape → colour: *a **lovely big old round grey** stone*."
+- id: c1m08-classifying-order
+  lesson: c1-08-adjectives-adverbs/01-adjectives
+  q: "Порядок classifying-прилагательных?"
+  a: "location → origin → material → type → purpose: *coastal Italian*, *leather riding boots*."
+- id: c1m08-utter-sheer
+  lesson: c1-08-adjectives-adverbs/01-adjectives
+  q: "Найди ошибку: *The chaos was utter.*"
+  a: "*utter, sheer, mere* — только перед существительным: *It was **utter chaos**.* После связки можно *complete / total*."
+- id: c1m08-asleep-sleeping
+  lesson: c1-08-adjectives-adverbs/01-adjectives
+  q: "Чем заменить перед существительным: *asleep, alive, afraid, alike*?"
+  a: "*sleeping, living / live, frightened / scared, similar*: *a **sleeping** child*, не ~~an asleep child~~."
+- id: c1m08-people-concerned
+  lesson: c1-08-adjectives-adverbs/01-adjectives
+  q: "*a concerned parent* или *the parents concerned* — в чём разница?"
+  a: "Перед существительным — «обеспокоенный»; после — «те, кого это касается». Так же *present, responsible, involved*."
+- id: c1m08-colour-and
+  lesson: c1-08-adjectives-adverbs/01-adjectives
+  q: "Запятая или *and*: *a blue ___ white flag*, *legal ___ financial issues*?"
+  a: "**and**: между двумя цветами и двумя classifying одного типа. Запятая — между оценочными: *a warm, witty host*."
+- id: c1m08-ten-minute
+  lesson: c1-08-adjectives-adverbs/01-adjectives
+  q: "Найди ошибку: *a two-years contract*."
+  a: "Число + существительное в compound — единственное число: *a **two-year** contract*."
+- id: c1m08-compound-ing-ed
+  lesson: c1-08-adjectives-adverbs/01-adjectives
+  q: "*slow-moving* или *slow-moved*? *well-planned* или *well-planning*?"
+  a: "Активная основа → *-ing* (traffic moves slowly → **slow-moving**); пассивная → V3 (planned well → **well-planned**)."
+- id: c1m08-the-poor
+  lesson: c1-08-adjectives-adverbs/01-adjectives
+  q: "*The rich ___ (be) getting richer. The unknown ___ (be) frightening.*"
+  a: "*The rich **are*** — группа людей, множественное число; *The unknown **is*** — абстрактное понятие, единственное."
+- id: c1m08-probably-wont
+  lesson: c1-08-adjectives-adverbs/02-adverb-position
+  q: "*won't probably* или *probably won't*?"
+  a: "**probably won't**: наречия уверенности и *still* стоят **перед** отрицательным вспомогательным."
+- id: c1m08-verb-object
+  lesson: c1-08-adjectives-adverbs/02-adverb-position
+  q: "Найди ошибку: *She speaks fluently three languages.*"
+  a: "Наречие не встаёт между глаголом и дополнением: *She speaks three languages **fluently***."
+- id: c1m08-no-longer-inversion
+  lesson: c1-08-adjectives-adverbs/02-adverb-position
+  q: "Переведи книжно, с *No longer*: «Компании больше не могут игнорировать климат»."
+  a: "***No longer can companies** ignore the climate.* — после *No longer* в начале нужна инверсия."
+- id: c1m08-only-position
+  lesson: c1-08-adjectives-adverbs/02-adverb-position
+  q: "Где *only* в письменном тексте «Предложение действует только до пятницы»?"
+  a: "Прямо перед ограничиваемым: *The offer is valid **only until Friday***."
+- id: c1m08-admittedly-arguably
+  lesson: c1-08-adjectives-adverbs/02-adverb-position
+  q: "*admittedly* или *arguably*?"
+  a: "*admittedly* — уступка («надо признать»), обычно перед *but*; *arguably* — смелое утверждение («пожалуй, можно сказать»)."
+- id: c1m08-supposedly
+  lesson: c1-08-adjectives-adverbs/02-adverb-position
+  q: "Что значит *The cream supposedly removes wrinkles*?"
+  a: "«**Якобы** убирает морщины» — говорящий сомневается. Нейтральная догадка — *presumably*."
+- id: c1m08-honestly-two-roles
+  lesson: c1-08-adjectives-adverbs/02-adverb-position
+  q: "*She answered honestly* и *Honestly, I don't mind* — в чём разница?"
+  a: "В конце — образ действия («честно ответила»); в начале с запятой — comment adverb («честно говоря»)."
+- id: c1m08-viewpoint
+  lesson: c1-08-adjectives-adverbs/02-adverb-position
+  q: "Переведи: «С финансовой точки зрения план разумен, но политически он нереалистичен»."
+  a: "***Financially**, the plan makes sense, but it is **politically** unrealistic.*"
+- id: c1m08-good-a-teacher
+  lesson: c1-08-adjectives-adverbs/03-comparison
+  q: "Найди ошибку: *She isn't as a good teacher as her mother.*"
+  a: "*as + adj + **a** + noun + as*: *She isn't **as good a teacher as** her mother.*"
+- id: c1m08-nowhere-near
+  lesson: c1-08-adjectives-adverbs/03-comparison
+  q: "Как сказать «далеко не такой дорогой, как»?"
+  a: "*nowhere near / not nearly / nothing like **as expensive as***."
+- id: c1m08-the-more
+  lesson: c1-08-adjectives-adverbs/03-comparison
+  q: "Переведи: «Чем больше ты читаешь, тем богаче твой словарь»."
+  a: "***The more** you read, **the richer** your vocabulary becomes.*"
+- id: c1m08-more-brave
+  lesson: c1-08-adjectives-adverbs/03-comparison
+  q: "*braver than clever* или *more brave than clever*?"
+  a: "**more brave than clever**: при сравнении двух качеств одного предмета — всегда *more*."
+- id: c1m08-best-in
+  lesson: c1-08-adjectives-adverbs/03-comparison
+  q: "Найди ошибку: *the best restaurant of the city*."
+  a: "С местом и группой — *in*: *the best restaurant **in** the city*. *of* — с периодом и набором: *the best film of the year*."
+- id: c1m08-the-stronger
+  lesson: c1-08-adjectives-adverbs/03-comparison
+  q: "*Of the two options, the second is ___ (cheap).*"
+  a: "**the cheaper** — при выборе из двух в аккуратном письменном стиле нужна сравнительная степень с *the*."
+- id: c1m08-worn-smooth
+  lesson: c1-08-adjectives-adverbs/04-reading
+  q: "Что значит *disgruntled* и *mediocre*?"
+  a: "*disgruntled* — недовольный, раздражённый; *mediocre* — посредственный."
+- id: c1m08-very-extreme
+  lesson: c1-08-adjectives-adverbs/02a-degree-adverbs
+  q: "Найди ошибку: *The food was very delicious and we were very exhausted.*"
+  a: "Крайние прилагательные не берут *very*: ***absolutely** delicious, **completely** exhausted* (или *very tasty, very tired*)."
+- id: c1m08-quite-two-meanings
+  lesson: c1-08-adjectives-adverbs/02a-degree-adverbs
+  q: "Что значит *quite* в *quite good* и в *quite impossible*?"
+  a: "С градуируемым — «довольно» (*quite good* = неплохо); с крайним или абсолютным — «совершенно» (*quite impossible*)."
+- id: c1m08-quite-order
+  lesson: c1-08-adjectives-adverbs/02a-degree-adverbs
+  q: "Расставь артикль: *quite / long / a / trip*; *fairly / long / a / trip*."
+  a: "***quite a** long trip* — *quite* перед артиклем; ***a fairly** long trip* — *fairly* после. *rather* — оба варианта."
+- id: c1m08-bitterly-disappointed
+  lesson: c1-08-adjectives-adverbs/02a-degree-adverbs
+  q: "Какое наречие: ___ *disappointed*, ___ *unlikely*, ___ *aware*, ___ *opposed*?"
+  a: "***bitterly** disappointed, **highly** unlikely, **fully** aware, **strongly** opposed*."
+- id: c1m08-much-too
+  lesson: c1-08-adjectives-adverbs/02a-degree-adverbs
+  q: "Найди ошибку: *The flat is too much expensive.*"
+  a: "***much too / far too** expensive*. *too much* — перед неисчисляемым существительным: *too much noise*."
+- id: c1m08-greatly-appreciated
+  lesson: c1-08-adjectives-adverbs/02a-degree-adverbs
+  q: "*very appreciated* или *greatly appreciated*?"
+  a: "***greatly** (much) appreciated* — с причастием в пассиве. *very* — с причастиями-прилагательными чувств: *very worried*."
+- id: c1m08-rather-comparative
+  lesson: c1-08-adjectives-adverbs/02a-degree-adverbs
+  q: "Какие из *quite, rather, fairly, very* могут стоять перед *better*?"
+  a: "Только **rather**: *rather better than expected*. Также *much, far, a bit, slightly better*."
+- id: c1m08-somewhat-hedge
+  lesson: c1-08-adjectives-adverbs/02a-degree-adverbs
+  q: "Смягчи для отчёта: *The conclusions are a bit premature.*"
+  a: "*The conclusions seem **somewhat** premature.* — *somewhat, slightly, marginally* звучат книжно; *a bit, pretty* — разговорно."

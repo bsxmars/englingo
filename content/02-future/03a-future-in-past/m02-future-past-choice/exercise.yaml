@@ -1,0 +1,55 @@
+title: "Будущее в прошлом: выбери форму"
+type: choice
+intro: "Выбери вариант, который лучше всего подходит по смыслу. Иногда грамматичны несколько, но верен один — по контексту."
+hints:
+  - "Рамка в прошлом (knew, said, thought, promised) → would вместо will."
+  - "Несбывшийся план → was going to; «вот-вот, и тут…» → was about to … when; по договорённости → was supposed to; по расписанию → was due to."
+items:
+  - q: "When I joined the company, I had no idea that one day I ___ run it."
+    options: ["will", "would", "am going to"]
+    answer: 1
+    explain: "Взгляд из прошлого вперёд, рамка *I had no idea* → **would**. *will* нарушает согласование времён."
+  - q: "I ___ reply to your message last night, but my laptop died."
+    options: ["was going to", "would", "was due to"]
+    answer: 0
+    explain: "Намерение, которое не осуществилось → **was going to**. *would* без рамки здесь значило бы «бывало, отвечал»."
+  - q: "We ___ leave the office when the fire alarm went off."
+    options: ["were bound to", "were about to", "were supposed to"]
+    answer: 1
+    explain: "«Вот-вот собирались, и тут…» → **were about to** + *when* + Past Simple."
+  - q: "You ___ send me the report on Monday. It's Thursday now!"
+    options: ["had to", "were supposed to", "must have"]
+    answer: 1
+    explain: "Договорённость, которую нарушили → **were supposed to**. *had to* значило бы «пришлось и сделал»."
+  - q: "The flight ___ land at 22.10, but it was diverted because of fog."
+    options: ["was due to", "was bound to", "would"]
+    answer: 0
+    explain: "Время по расписанию → **was due to**. *was bound to* — уверенный прогноз, а не график."
+  - q: "I tried again and again, but the old printer ___ work."
+    options: ["won't", "didn't use to", "wouldn't"]
+    answer: 2
+    explain: "Упорный «отказ» вещи в прошлом → **wouldn't**: «никак не хотел работать»."
+  - q: "Don't lend him your car. He's a terrible driver — he's ___ crash it."
+    options: ["bound to", "about to", "due to"]
+    answer: 0
+    explain: "Почти полная уверенность в будущем → **bound to**. *about to* — «через секунду», *due to* — «по графику»."
+  - q: "Look at the score — 3–0 at half-time. I knew they ___ lose."
+    options: ["are going to", "were going to", "will"]
+    answer: 1
+    explain: "Прогноз по очевидным признакам из точки в прошлом → **were going to**. Рамка *I knew* требует сдвига назад."
+  - q: "She said she ___ me at the station, so I didn't take a taxi."
+    options: ["meets", "will meet", "would meet"]
+    answer: 2
+    explain: "Обещание в косвенной речи после *said* → **would meet**."
+  - q: "The summit ___ have taken place in Oslo, but it was cancelled at the last minute."
+    options: ["was to", "was about to", "was likely"]
+    answer: 0
+    explain: "**was to have + V3** — официально запланированное, которое не состоялось. Книжный стиль новостей."
+  - q: "Our new product is ___ be popular — everyone in the test group loved it."
+    options: ["sure to", "sure that", "supposed"]
+    answer: 0
+    explain: "**be sure to + инфинитив** — говорящий уверен в будущем результате. *sure that* требует придаточного с подлежащим."
+  - q: "It ___ happen sooner or later. That bridge was in terrible condition."
+    options: ["was bound to", "was supposed to", "was due to"]
+    answer: 0
+    explain: "«Это должно было случиться рано или поздно» — неизбежность → **was bound to**."

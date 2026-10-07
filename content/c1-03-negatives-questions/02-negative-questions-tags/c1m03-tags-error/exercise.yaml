@@ -1,0 +1,44 @@
+title: "Отрицательные вопросы и теги: найди ошибку"
+type: error
+intro: "В каждом предложении или мини-диалоге **одна** ошибка: в форме отрицательного вопроса, в теге или в ответе yes / no. Исправь её и отправь всё целиком."
+hints:
+  - "Если who — подлежащее, do не нужен: Who hasn't…?"
+  - "nobody, never, hardly, little делают предложение отрицательным → тег утвердительный."
+  - "Yes — всегда с утверждением, no — с отрицанием."
+items:
+  - q: "Who doesn't have received the updated contract yet?"
+    answers: ["Who hasn't received the updated contract yet?", "Who has not received the updated contract yet?"]
+    explain: "Когда *who* — подлежащее, вспомогательный берётся из самого времени: Present Perfect → **Who hasn't received…?** Смешивать *doesn't* и *have received* нельзя."
+  - q: "Nobody has signed the petition yet, haven't they?"
+    answers: ["Nobody has signed the petition yet, have they?"]
+    explain: "*Nobody* делает предложение отрицательным → тег утвердительный: **have they?** (*nobody → they*)."
+  - q: "I'm the one who's supposed to present first, amn't I?"
+    answers: ["I'm the one who's supposed to present first, aren't I?", "I'm the one who's supposed to present first, am I not?"]
+    explain: "Тег к *I am* — **aren't I** (формально *am I not*). Формы *amn't* в стандартном английском нет."
+  - q: "— Aren't you going to the conference? — Yes, I'm not. I've got too much on."
+    answers: ["— Aren't you going to the conference? — No, I'm not. I've got too much on."]
+    explain: "Ответ отражает факт: не иду → **No, I'm not**. *Yes* не сочетается с отрицанием."
+  - q: "Let's ask the client what they think, will we?"
+    answers: ["Let's ask the client what they think, shall we?"]
+    explain: "С *Let's* тег всегда **shall we?**"
+  - q: "He hardly ever takes notes in meetings, doesn't he?"
+    answers: ["He hardly ever takes notes in meetings, does he?"]
+    explain: "*hardly ever* — отрицательное наречие, поэтому тег утвердительный: **does he?**"
+  - q: "Why not you apply for the senior position?"
+    answers: ["Why not apply for the senior position?", "Why don't you apply for the senior position?"]
+    explain: "После *Why not* нет подлежащего: **Why not apply…?** С подлежащим — *Why don't you apply…?*"
+  - q: "Everything went according to plan, didn't they?"
+    answers: ["Everything went according to plan, didn't it?"]
+    explain: "*everything / nothing* в теге заменяются на **it**: *didn't it?* (а *everyone / nobody* — на *they*)."
+  - q: "You'd better double-check the figures, wouldn't you?"
+    answers: ["You'd better double-check the figures, hadn't you?", "You had better double-check the figures, hadn't you?"]
+    explain: "*'d better* = *had better*, поэтому тег **hadn't you?**"
+  - q: "— Didn't you lock the back door? — No, I did. I checked it twice."
+    answers: ["— Didn't you lock the back door? — Yes, I did. I checked it twice."]
+    explain: "Запер — значит утверждение: **Yes, I did**. По-русски «Нет, запер» — но в английском *no* + утверждение не сочетаются."
+  - q: "There's little chance of a refund, isn't there?"
+    answers: ["There's little chance of a refund, is there?"]
+    explain: "*little* (без *a*) — отрицательное слово «почти нет», поэтому тег утвердительный: **is there?**"
+  - q: "Why you didn't mention the delay in your report?"
+    answers: ["Why didn't you mention the delay in your report?", "Why did you not mention the delay in your report?"]
+    explain: "В wh-вопросе вспомогательный идёт перед подлежащим: **Why didn't you mention…?**"

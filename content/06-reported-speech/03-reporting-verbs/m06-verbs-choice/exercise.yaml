@@ -1,0 +1,51 @@
+title: "Какая конструкция?"
+type: choice
+intro: "Выбери единственный верный вариант. Обращай внимание, какую схему требует глагол: *to do*, *sb to do*, *-ing* или предлог + *-ing*."
+hints:
+  - "suggest, deny, admit + -ing; refuse, offer, promise, agree + to do."
+  - "advise, warn, remind + sb + to do; accuse of, apologise for, insist on + -ing."
+items:
+  - q: "\"Let's go for a walk,\" said Emma. → Emma suggested ___ for a walk."
+    options: ["to go", "going", "us to go"]
+    answer: 1
+    explain: "**suggest + -ing**. Инфинитив и *suggest sb to do* — типичные ошибки."
+  - q: "The doctor advised me ___ more water."
+    options: ["drink", "drinking", "to drink"]
+    answer: 2
+    explain: "**advise sb to do**: *advised me to drink*."
+  - q: "He denied ___ the window."
+    options: ["to break", "breaking", "that broke"]
+    answer: 1
+    explain: "**deny + -ing** (или *deny that he had broken*). Инфинитив после *deny* невозможен."
+  - q: "She accused her brother ___ her diary."
+    options: ["in reading", "of reading", "for reading"]
+    answer: 1
+    explain: "**accuse sb of + -ing**. Русское «обвинить **в**» сбивает на *in*."
+  - q: "My son refused ___ his vegetables."
+    options: ["eating", "to eat", "of eating"]
+    answer: 1
+    explain: "**refuse to do**: *refused to eat*."
+  - q: "\"I'm sorry I'm late.\" → He apologised ___ late."
+    options: ["for being", "to be", "of being"]
+    answer: 0
+    explain: "**apologise for + -ing**."
+  - q: "\"Shall I help you with the dishes?\" → Tom ___ to help me with the dishes."
+    options: ["offered", "suggested", "insisted"]
+    answer: 0
+    explain: "Вызвался сделать сам → **offer to do**. *suggested to help* и *insisted to help* невозможны."
+  - q: "\"You must stay for dinner, I won't take no for an answer!\" → My aunt insisted ___ for dinner."
+    options: ["on us staying", "us to stay", "to us stay"]
+    answer: 0
+    explain: "**insist on + -ing** (с подлежащим действия: *on us staying*) или *insist that we stay*."
+  - q: "\"Don't walk alone in the park at night.\" → The police ___ people not to walk alone in the park at night."
+    options: ["suggested", "warned", "denied"]
+    answer: 1
+    explain: "**warn sb not to do** — предупредить об опасности. *suggest sb not to do* невозможно."
+  - q: "\"Yes, I made a mistake,\" the minister said. → The minister admitted ___ a mistake."
+    options: ["to make", "having made", "to have made"]
+    answer: 1
+    explain: "**admit + -ing / having done**. Инфинитив после *admit* не ставится (но можно *admitted to having made*)."
+  - q: "\"I'll definitely pay you back,\" said Sam. → Sam ___ to pay me back."
+    options: ["promised", "suggested", "admitted"]
+    answer: 0
+    explain: "Обещание → **promise to do**."

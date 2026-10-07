@@ -1,0 +1,40 @@
+title: "Найди и исправь ошибку: модальные о прошлом"
+type: error
+intro: "В каждом предложении **одна** ошибка. Исправь её и отправь предложение целиком."
+hints:
+  - "Прошлое → модальный + have + V3, а не модальный + инфинитив."
+  - "needn't have — сделал зря; didn't need to — не было нужды."
+items:
+  - q: "I should call my grandmother yesterday — it was her birthday."
+    answers: ["I should have called my grandmother yesterday — it was her birthday."]
+    explain: "«Надо было позвонить вчера» — прошлое → **should have called**."
+  - q: "You could have tell me the party was cancelled!"
+    answers: ["You could have told me the party was cancelled!"]
+    explain: "После *have* — третья форма: **told**."
+  - q: "We should of left earlier — now we're stuck in traffic."
+    answers: ["We should have left earlier — now we're stuck in traffic."]
+    explain: "*should've* на слух похоже на *should of*, но писать нужно **should have**."
+  - q: "I would have came to your talk if I'd known about it."
+    answers: ["I would have come to your talk if I'd known about it."]
+    explain: "Третья форма *come* — **come**: *would have come*."
+  - q: "She needn't have to buy a new laptop — the old one only needed a new battery."
+    answers: ["She needn't have bought a new laptop — the old one only needed a new battery.", "She didn't need to buy a new laptop — the old one only needed a new battery.", "She didn't have to buy a new laptop — the old one only needed a new battery."]
+    explain: "После *needn't have* — V3: **needn't have bought**. Конструкции ~~needn't have to~~ нет."
+  - q: "The invoice should have sent last Friday."
+    answers: ["The invoice should have been sent last Friday."]
+    explain: "Счёт сам себя не отправляет — нужен пассив: **should have been sent**."
+  - q: "I was supposed meet Tom at six, but my flight was delayed."
+    answers: ["I was supposed to meet Tom at six, but my flight was delayed."]
+    explain: "**be supposed to + инфинитив** — *to* обязательно."
+  - q: "Yesterday I could finish the project, but I decided to go to bed."
+    answers: ["Yesterday I could have finished the project, but I decided to go to bed."]
+    explain: "«Мог бы закончить, но не закончил» → **could have finished**. *could finish* о прошлом значит только общее умение."
+  - q: "You shouldn't have been leave your bike unlocked."
+    answers: ["You shouldn't have left your bike unlocked."]
+    explain: "Схема: *shouldn't have* + **V3** (*left*). *been* здесь лишнее — это не пассив и не Continuous."
+  - q: "Thanks for the warning — otherwise I would make a terrible mistake."
+    answers: ["Thanks for the warning — otherwise I would have made a terrible mistake.", "Thanks for the warning — otherwise I'd have made a terrible mistake."]
+    explain: "*otherwise* = «если бы не предупреждение» в прошлом → **would have made**."
+  - q: "They ought have checked the contract more carefully."
+    answers: ["They ought to have checked the contract more carefully.", "They should have checked the contract more carefully."]
+    explain: "**ought to have + V3** — *to* после *ought* обязательно."

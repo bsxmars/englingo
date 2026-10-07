@@ -1,0 +1,44 @@
+title: "Существительные из фразовых глаголов"
+type: gap
+intro: "Впиши **существительное**, образованное от фразового глагола в скобках. Помни: в одних словах частица стоит после глагола (*breakdown*), в других — переезжает вперёд (*outcome*). Следи за числом и написанием (слитно или через дефис)."
+hints:
+  - "Тип 1: breakdown, setback, takeover, workout, turnout, backup, check-in, follow-up."
+  - "Тип 2: outcome, outbreak, outlook, input, output, upbringing."
+  - "Глагол пишется раздельно, существительное — слитно или через дефис."
+items:
+  - q: "We missed the ferry because of a ___ on the motorway. (BREAK DOWN)"
+    answers: ["breakdown"]
+    explain: "*a breakdown* — поломка; пишется слитно. После артикля *a* нужно существительное, а не глагол."
+  - q: "Losing our biggest client was a serious ___, but we recovered. (SET BACK)"
+    answers: ["setback"]
+    explain: "*a setback* — неудача, препятствие на пути. Ударение на первый слог: SETback."
+  - q: "Nobody could predict the ___ of the election. (COME OUT)"
+    answers: ["outcome"]
+    explain: "*the outcome* — итог. Частица *out* переезжает вперёд, слово пишется слитно."
+  - q: "Online ___ for the flight opens 24 hours before departure. (CHECK IN)"
+    answers: ["check-in", "checkin"]
+    explain: "*check-in* — регистрация, обычно через дефис. Глагол: *check in at the desk*."
+  - q: "Health officials are worried about an ___ of flu in the region. (BREAK OUT)"
+    answers: ["outbreak"]
+    explain: "*an outbreak* — вспышка болезни или конфликта. Артикль *an*, потому что слово начинается с гласной."
+  - q: "The ___ at the meeting was disappointing — only twelve people came. (TURN OUT)"
+    answers: ["turnout"]
+    explain: "*turnout* — явка, число пришедших. От глагола *turn out* (прийти на мероприятие)."
+  - q: "Always keep a ___ of your files on an external drive. (BACK UP)"
+    answers: ["backup", "back-up"]
+    explain: "*a backup* (или *back-up*) — резервная копия. Глагол — раздельно: *back up your files*."
+  - q: "The ___ of the bank by a foreign investor shocked the market. (TAKE OVER)"
+    answers: ["takeover"]
+    explain: "*a takeover* — поглощение компании. От *take over* — взять под контроль."
+  - q: "She credits her strict ___ for her discipline. (BRING UP)"
+    answers: ["upbringing"]
+    explain: "*upbringing* — воспитание. Частица *up* впереди, плюс суффикс *-ing*."
+  - q: "The economic ___ for next year is fairly positive. (LOOK OUT)"
+    answers: ["outlook"]
+    explain: "*outlook* — прогноз, перспектива. Не путай с глаголом *look out* — «берегись»."
+  - q: "I did a forty-minute ___ at the gym before work. (WORK OUT)"
+    answers: ["workout"]
+    explain: "*a workout* — тренировка. Глагол: *I work out three times a week*."
+  - q: "Thanks for the meeting — I'll send a ___ email with the details. (FOLLOW UP)"
+    answers: ["follow-up", "followup"]
+    explain: "*a follow-up email* — письмо-продолжение после встречи. Перед существительным часто работает как определение."

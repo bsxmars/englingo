@@ -1,0 +1,41 @@
+title: "Впиши относительное слово"
+type: gap
+intro: "Впиши одно–два слова: относительное местоимение, иногда с предлогом (*of which, in which*). Если подходят несколько вариантов — засчитываются все верные."
+hints:
+  - "Квантор + of whom (люди) / of which (вещи)."
+  - "in which case, by which time, at which point — связки внутри одного предложения."
+  - "whose — «чей», и для людей, и для организаций, и для вещей."
+items:
+  - q: "The new chief executive, ___ appointment was announced on Monday, takes over in May."
+    answers: ["whose"]
+    explain: "«чьё назначение» → **whose** + существительное. ~~who's appointment~~ — это *who is*."
+  - q: "The house has fifteen rooms, only two ___ have been restored so far."
+    answers: ["of which"]
+    explain: "Квантор (*only two*) + **of which** — часть уже названной группы вещей."
+  - q: "We interviewed forty volunteers, most ___ were in their twenties."
+    answers: ["of whom"]
+    explain: "Люди + квантор → **of whom**. ~~most of them were~~ дало бы два предложения через запятую."
+  - q: "She resigned without a word of explanation, ___ left her colleagues baffled."
+    answers: ["which"]
+    explain: "Комментарий ко всей ситуации (то, что она ушла молча) → **which**."
+  - q: "The negotiations may break down, in ___ case the strike will go ahead."
+    answers: ["which"]
+    explain: "**in which case** — «и в этом случае», связка внутри одного предложения."
+  - q: "The meeting dragged on until nine, by ___ time most people had left."
+    answers: ["which"]
+    explain: "**by which time** — «а к тому времени». После неё часто Past Perfect: действие завершилось к названному моменту."
+  - q: "The novelist, ___ I had admired for years, turned out to be rather dull in person."
+    answers: ["whom", "who"]
+    explain: "Non-defining, человек-дополнение (*I admired **him***) → **whom** формально или **who** нейтрально. *that* и пропуск здесь невозможны."
+  - q: "The village ___ my grandparents were born no longer exists."
+    answers: ["where", "in which"]
+    explain: "Место → **where** = **in which**. *which* без предлога потребовало бы *in* в конце: *which they were born in*."
+  - q: "He made several suggestions, none ___ were taken seriously."
+    answers: ["of which"]
+    explain: "*none* + **of which**: ни одно из предложений. После *none of* глагол бывает и в единственном, и во множественном числе."
+  - q: "The period ___ the castle was built was one of constant warfare."
+    answers: ["during which", "in which", "when"]
+    explain: "Время → **when** или формальное **during which / in which**. *during* ставится только впереди: ~~which it was built during~~ невозможно."
+  - q: "Anyone ___ wishes to attend should register by Friday."
+    answers: ["who", "that"]
+    explain: "После *anyone* — **who** (или разговорное *that*). Местоимение — подлежащее, опустить его нельзя."

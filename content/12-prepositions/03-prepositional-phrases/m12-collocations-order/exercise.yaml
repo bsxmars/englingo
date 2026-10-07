@@ -1,0 +1,37 @@
+title: "Собери предложение"
+type: order
+intro: "Собери предложение из слов по русскому смыслу. Следи, чтобы предлог стоял сразу после своего слова."
+hints:
+  - "Предлог держится за своё слово: proud of, good at, reason for, by chance."
+  - "Обстоятельства места и времени обычно идут в конце."
+items:
+  - q: "«Она очень хорошо играет в шахматы»."
+    answers: ["She is very good at chess"]
+    explain: "Способности — **good at**: *good at chess, good at languages*."
+  - q: "«Я всегда боялся летать»."
+    answers: ["I have always been afraid of flying"]
+    explain: "**afraid of** + *-ing*: после предлога глагол всегда с *-ing*."
+  - q: "«Мы ездим на работу на автобусе»."
+    answers: ["We go to work by bus", "We go by bus to work"]
+    explain: "Способ передвижения — **by** + транспорт без артикля: *by bus, by car*."
+  - q: "«Причина задержки до сих пор неизвестна»."
+    answers: ["The reason for the delay is still unknown"]
+    explain: "**reason for**, не ~~reason of~~."
+  - q: "«Этот город славится своим сыром»."
+    answers: ["This town is famous for its cheese"]
+    explain: "**famous for** — знаменит чем-то."
+  - q: "«Я устал его ждать»."
+    answers: ["I am tired of waiting for him"]
+    explain: "**tired of** + *-ing*, а *wait* требует **for**: *waiting for him*."
+  - q: "«Мы случайно встретились на вокзале»."
+    answers: ["We met by chance at the station", "We met at the station by chance"]
+    explain: "**by chance** — случайно. Обе позиции в конце естественны."
+  - q: "«Будь вежлив с официантами»."
+    answers: ["Be polite to the waiters"]
+    explain: "Поведение по отношению к людям — **polite / kind / rude to** someone."
+  - q: "«В этом году резко выросли цены на жильё»."
+    answers: ["There has been a sharp rise in house prices this year", "This year there has been a sharp rise in house prices"]
+    explain: "Чего стало больше — **rise in**: *a rise in house prices*."
+  - q: "«Мне очень жаль Анну» (у неё был тяжёлый год)."
+    answers: ["I feel really sorry for Anna", "I really feel sorry for Anna"]
+    explain: "Жалеть кого-то — **sorry for** someone. *sorry about* — о ситуации: *sorry about the noise*."

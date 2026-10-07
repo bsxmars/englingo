@@ -1,0 +1,55 @@
+title: "Исчисляемое или нет?"
+type: choice
+intro: "Выбери правильный вариант. Обрати внимание на слова, которые по-русски легко посчитать."
+hints:
+  - "advice, information, news, furniture, equipment, research, luggage, work, progress, traffic, weather — неисчисляемые: без a/an и без -s."
+  - "Неисчисляемое + глагол в единственном числе: The news **is**…"
+items:
+  - q: "I don't know what to do. Can you give me ___?"
+    options: ["an advice", "some advice", "some advices"]
+    answer: 1
+    explain: "**advice** неисчисляемое: ни *an*, ни *-s*. Один совет — *a piece of advice*."
+  - q: "I've got ___ for you — you got the job!"
+    options: ["a good news", "good news", "a good new"]
+    answer: 1
+    explain: "**news** неисчисляемое, хоть и оканчивается на -s. Без *a*: *good news*, *a piece of news*."
+  - q: "The lab needs ___ before the project starts."
+    options: ["some new equipment", "some new equipments", "a new equipment"]
+    answer: 0
+    explain: "**equipment** неисчисляемое. Один прибор — *a piece of equipment* или *a device*."
+  - q: "How much ___ are you taking on the flight?"
+    options: ["luggages", "luggage", "baggages"]
+    answer: 1
+    explain: "**luggage** (и *baggage*) неисчисляемые, поэтому и *How much*. Чемоданы считаем так: *How many bags?*"
+  - q: "Recent research ___ that sleep affects memory."
+    options: ["show", "shows", "are showing"]
+    answer: 1
+    explain: "**research** неисчисляемое → глагол в единственном числе: *research shows*. Исследования во множественном — *studies show*."
+  - q: "I can't come out tonight — I've got ___ to do."
+    options: ["a lot of work", "a lot of works", "many work"]
+    answer: 0
+    explain: "**work** (труд, дела) неисчисляемое → *a lot of work*, *much work*. Исчисляемое — *a job*, *a task*."
+  - q: "Two ___ and a tea, please."
+    options: ["coffee", "coffees", "coffee's"]
+    answer: 1
+    explain: "В кафе *coffee* — это чашка кофе, исчисляемое: **two coffees**. Кофе как напиток вообще — неисчисляемое: *I don't drink coffee*."
+  - q: "She has long dark ___."
+    options: ["hairs", "hair", "a hair"]
+    answer: 1
+    explain: "Волосы на голове — **hair**, неисчисляемое. *a hair* — один волосок."
+  - q: "Let me give you ___ advice: never reply to emails when you're angry."
+    options: ["a piece of", "an", "one"]
+    answer: 0
+    explain: "Один совет — **a piece of advice**. *an advice* и *one advice* невозможны."
+  - q: "We had ___ weather on holiday, so we stayed indoors most of the time."
+    options: ["a terrible", "terrible", "terribles"]
+    answer: 1
+    explain: "**weather** неисчисляемое → без *a* даже с прилагательным: *terrible weather*, *What lovely weather!*"
+  - q: "How was your ___ to Portugal?"
+    options: ["travel", "trip", "travels"]
+    answer: 1
+    explain: "**travel** — путешествия вообще (неисчисляемое). Одна поездка — **a trip** или *a journey*."
+  - q: "I've made ___ progress with my English this year."
+    options: ["a big", "a lot of", "many"]
+    answer: 1
+    explain: "**progress** неисчисляемое: ~~a big progress~~, ~~many progress~~. Правильно — *a lot of progress*, *great progress*."

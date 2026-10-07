@@ -1,0 +1,53 @@
+title: "Косвенные вопросы (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "В косвенном вопросе нет do / does / did, а подлежащее стоит перед глаголом."
+  - "Вопрос «да/нет» → if или whether."
+items:
+  - q: "Where is the nearest pharmacy?"
+    key: "TELL"
+    stem: "Could you ___ the nearest pharmacy is?"
+    answers: ["tell me where"]
+    explain: "*Could you **tell me where** the nearest pharmacy is?* — после вступления *is* уходит в конец."
+  - q: "What time does the museum open?"
+    key: "KNOW"
+    stem: "Do you ___ the museum opens?"
+    answers: ["know what time", "know when"]
+    explain: "*Do you **know what time** the museum opens?* — *does* исчезает, глагол получает *-s*: *opens*."
+  - q: "Is there a cash machine near here?"
+    key: "IF"
+    stem: "Do you know ___ a cash machine near here?"
+    answers: ["if there is", "if there's"]
+    explain: "Вопрос «да/нет» → **if**, затем порядок утверждения: *if there is*."
+  - q: "How much did you pay for that jacket?"
+    key: "MIND"
+    stem: "Do you ___ how much you paid for that jacket?"
+    answers: ["mind telling me", "mind me asking", "mind my asking", "mind if I ask"]
+    explain: "*Do you **mind telling me** / **mind me asking** how much you paid…?* — вежливое вступление; внутри *did* исчезает: *you paid*."
+  - q: "Why did she leave the company?"
+    key: "WONDER"
+    stem: "I ___ the company."
+    answers: ["wonder why she left", "am wondering why she left", "'m wondering why she left"]
+    explain: "*I **wonder why she left** the company.* — без *did*, глагол в Past Simple. В конце точка, а не вопросительный знак."
+  - q: "Has the train left yet?"
+    key: "WHETHER"
+    stem: "Can you tell me ___ yet?"
+    answers: ["whether the train has left", "whether the train's left"]
+    explain: "Вопрос «да/нет» → **whether**, потом порядок утверждения: *the train has left*."
+  - q: "Somebody broke the window, and I want to find out who it was."
+    key: "WHO"
+    stem: "I want to find out ___ the window."
+    answers: ["who broke"]
+    explain: "*who* — подлежащее (кто разбил) → **who broke**, без *did* и в прямом, и в косвенном вопросе."
+  - q: "I'm surprised that you don't like jazz."
+    key: "DON'T"
+    stem: "___ jazz? I thought you did."
+    answers: ["Don't you like"]
+    explain: "Удивление → отрицательный вопрос: **Don't you like** jazz?"
+  - q: "Where does Anna live?"
+    key: "IDEA"
+    stem: "Have you got any ___ lives?"
+    answers: ["idea where Anna", "idea where she"]
+    explain: "*Have you got any **idea where Anna** lives?* — *does* исчезает, *live* получает *-s*."

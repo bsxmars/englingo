@@ -1,0 +1,64 @@
+title: "Перефразирование: глаголы, дополнения, linking verbs (C1 Advanced, Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "explain, suggest, mention, describe — «кому» через to; tell, remind, assure — без предлога."
+  - "seem / appear + to be, come to + инфинитив — постепенная перемена отношения."
+  - "cost, charge, deny — «кому + что» без предлога."
+items:
+  - q: "It seems that there has been a misunderstanding."
+    key: "APPEARS"
+    stem: "There ___ a misunderstanding."
+    answers: ["appears to have been"]
+    explain: "*It seems that there has been* → **There appears to have been**: после *appear* нужен *to*, а перфектный инфинитив сохраняет «уже произошло»."
+  - q: "Gradually, I began to appreciate her honesty."
+    key: "CAME"
+    stem: "Over time, I ___ her honesty."
+    answers: ["came to appreciate"]
+    explain: "*come to* + инфинитив — постепенная перемена отношения: **came to appreciate**. Ровно три слова — минимум для Part 4."
+  - q: "Because of that one mistake, the firm lost the contract."
+    key: "COST"
+    stem: "That one mistake ___ the contract."
+    answers: ["cost the firm", "cost the company"]
+    explain: "*cost* — «кому + что» без предлога: **cost the firm** the contract (не ~~cost to the firm~~)."
+  - q: "\"I'll keep your data confidential, I promise,\" she told us."
+    key: "ASSURED"
+    stem: "She ___ data confidential."
+    answers: ["assured us she would keep our", "assured us that she would keep our", "assured us she'd keep our", "assured us that she'd keep our"]
+    explain: "*assure* требует адресата без предлога: **assured us (that) she would keep our** data confidential. Будущее сдвигается в *would*."
+  - q: "Could you tell me how this procedure works?"
+    key: "EXPLAIN"
+    stem: "Could you ___ works?"
+    answers: ["explain to me how this procedure", "explain how this procedure", "explain to me how the procedure", "explain how the procedure"]
+    explain: "*explain* не берёт «кому» без предлога: **explain to me how this procedure** works (или просто *explain how…*)."
+  - q: "The audience slowly became impatient as the speech went on."
+    key: "GREW"
+    stem: "As the speech went on, the audience ___."
+    answers: ["grew impatient", "slowly grew impatient", "grew more and more impatient", "grew increasingly impatient", "gradually grew impatient"]
+    explain: "*grow* + прилагательное — постепенная перемена: **grew impatient**. Наречие *slowly / gradually* можно сохранить."
+  - q: "The consultant recommended that we should delay the launch."
+    key: "SUGGESTED"
+    stem: "The consultant ___ the launch."
+    answers: ["suggested that we delay", "suggested that we should delay", "suggested we delay", "suggested we should delay", "suggested delaying", "suggested to us that we delay", "suggested to us that we should delay"]
+    explain: "*suggest* + *that we (should) delay* или *suggest* + **-ing** (*suggested delaying*). Без ~~suggested us~~: «кому» только через *to us*."
+  - q: "The film made me feel quite depressed."
+    key: "FOUND"
+    stem: "I ___ depressing."
+    answers: ["found the film quite", "found the film rather", "found the film pretty", "found it quite", "found the film"]
+    explain: "*find* + дополнение + прилагательное — «счесть каким-то»: **found the film quite** depressing. Чувство (*depressed*) превращается в характеристику фильма (*depressing*)."
+  - q: "The flat looks very similar to the one we rented last year."
+    key: "RESEMBLES"
+    stem: "The flat ___ we rented last year."
+    answers: ["closely resembles the one", "strongly resembles the one", "resembles the one", "very closely resembles the one"]
+    explain: "*resemble* — переходный глагол без предлога: **closely resembles the one** (не ~~resembles to~~)."
+  - q: "Only the manager and his deputy knew about the decision."
+    key: "NOBODY"
+    stem: "___ his deputy knew about the decision."
+    answers: ["Nobody except the manager and", "Nobody but the manager and", "Nobody apart from the manager and", "Nobody other than the manager and", "Nobody besides the manager and"]
+    explain: "**Nobody except the manager and** his deputy knew… — сказуемое согласуется с *nobody*, ед. ч. (здесь Past Simple, поэтому формы совпадают)."
+  - q: "She didn't tell anyone that she had resigned until Friday."
+    key: "ANNOUNCE"
+    stem: "She didn't ___ until Friday."
+    answers: ["announce her resignation", "announce that she had resigned", "announce she had resigned", "announce her resignation to anyone"]
+    explain: "*announce* — «что» без «кому» или с *to*: **announce her resignation** (не ~~announce anyone~~)."

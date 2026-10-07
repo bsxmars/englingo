@@ -1,0 +1,44 @@
+title: "Какая частица?"
+type: gap
+intro: "Впиши частицу: **up, down, out, off, on, in, away** или **back**."
+hints:
+  - "up — увеличение или до конца; down — уменьшение, остановка, на бумагу."
+  - "off — отключение или отъезд; on — включение, одежда, продолжение."
+  - "out — наружу, вслух, раздать; away — прочь; back — назад, в ответ."
+items:
+  - q: "Could you turn the music ___ a bit? I'm trying to work."
+    answers: ["down"]
+    explain: "Уменьшить громкость → **turn down**. *up* — наоборот, сделать громче."
+  - q: "It's freezing outside — put your coat ___."
+    answers: ["on"]
+    explain: "Надеть одежду → **put on**. Снять — *take off*."
+  - q: "Don't throw those boxes ___ — we can use them when we move."
+    answers: ["away", "out"]
+    explain: "Выбросить → **throw away** (или *throw out*): *away* — прочь."
+  - q: "Our flight was delayed, so we didn't take ___ until midnight."
+    answers: ["off"]
+    explain: "Взлететь → **take off**: *off* — отрыв, отъезд."
+  - q: "Prices keep going ___ — everything is so expensive now."
+    answers: ["up"]
+    explain: "Рост → **go up**. Снижение — *go down*."
+  - q: "Sorry for interrupting. Please carry ___."
+    answers: ["on"]
+    explain: "Продолжать → **carry on**: *on* — продолжение действия."
+  - q: "I lent him fifty euros, and he still hasn't paid me ___."
+    answers: ["back"]
+    explain: "Вернуть долг → **pay back**: *back* — назад, обратно."
+  - q: "Please fill ___ this form and give it to the receptionist."
+    answers: ["in", "out"]
+    explain: "Заполнить анкету → **fill in** (брит.) или **fill out** (амер. и брит.)."
+  - q: "Our car broke ___ on the motorway, and we had to call for help."
+    answers: ["down"]
+    explain: "Сломаться (о машине, приборе) → **break down**: *down* — полная остановка."
+  - q: "Please switch ___ the lights when you leave the office."
+    answers: ["off"]
+    explain: "Выключить → **switch off** / *turn off*: *off* — отключение."
+  - q: "Let me write ___ your number before I forget it."
+    answers: ["down"]
+    explain: "Записать → **write down**: *down* — на бумагу."
+  - q: "The teacher read the names ___ one by one."
+    answers: ["out"]
+    explain: "Прочитать вслух → **read out**: *out* — вслух, для всех."

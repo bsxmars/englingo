@@ -1,0 +1,44 @@
+title: "Следствие, время, перечисление"
+type: gap
+intro: "Впиши английскую связку, которая передаёт значение в скобках. Засчитываются все подходящие синонимы, но обрати внимание на грамматику после пропуска: существительное, причастие или полное предложение."
+hints:
+  - "hence + существительное; thereby + -ing; consequently / therefore / as a result + полное предложение."
+  - "in the meantime — «а пока, до того момента»; simultaneously — «в одно и то же время»."
+  - "for a start / for one thing — первый довод в поддержку сказанного."
+items:
+  - q: "Fuel prices doubled within a month; ___ (как следствие), most airlines raised their fares."
+    answers: ["consequently", "as a result", "as a consequence", "therefore", "thus", "hence", "accordingly"]
+    explain: "Прямое следствие событий → **consequently** или *as a result*. После точки с запятой связка, затем запятая и полное предложение."
+  - q: "The museum relies almost entirely on volunteers — ___ (отсюда и) its rather limited opening hours."
+    answers: ["hence"]
+    explain: "После пропуска только существительное без глагола → **hence**: «отсюда и…». *Therefore* так не работает."
+  - q: "She sold her shares in early March, ___ (тем самым) avoiding heavy losses when the market crashed."
+    answers: ["thereby", "thus"]
+    explain: "**thereby + -ing** — «тем самым»: результат того же действия. В этой роли возможен и *thus*."
+  - q: "The suspect was released without charge but was ___ (впоследствии) rearrested in Spain."
+    answers: ["subsequently", "later"]
+    explain: "**subsequently** — формальное «впоследствии, позже». Встаёт в середину, после вспомогательного *was*."
+  - q: "Two research teams worked on the problem ___ (одновременно), one in Leeds and one in Osaka."
+    answers: ["simultaneously", "at the same time", "in parallel", "concurrently"]
+    explain: "**simultaneously** — «в одно и то же время». Нейтральный вариант — *at the same time*."
+  - q: "The full report will be published in June. ___ (а пока), a summary is available on our website."
+    answers: ["in the meantime", "meanwhile", "until then", "for now", "for the time being", "in the interim"]
+    explain: "«А пока, до выхода отчёта» → **In the meantime** (или *Meanwhile*). Это значение — промежуток до будущего события."
+  - q: "The government cut income tax and, ___ (в то же время), increased spending on defence."
+    answers: ["at the same time", "simultaneously"]
+    explain: "Два действия одного периода → **at the same time** / *simultaneously*. Связка, выделенная запятыми, стоит в середине."
+  - q: "I'm not taking the job. ___ (для начала, во-первых), the salary is lower than what I earn now."
+    answers: ["for a start", "for one thing", "to begin with", "to start with", "first of all", "firstly", "first", "in the first place"]
+    explain: "Первый довод в поддержку сказанного → **For a start** / *For one thing* (разговорнее) или *To begin with*."
+  - q: "We lost our luggage, missed the connection and got food poisoning. ___ (короче говоря), the trip was a disaster."
+    answers: ["in short", "in brief", "in a word", "to sum up", "all in all", "in summary", "to cut a long story short", "to put it briefly"]
+    explain: "Итог перечисленного → **In short** / *To sum up* / *All in all*."
+  - q: "If these figures are accurate, ___ (тогда) the company has been operating at a loss for years."
+    answers: ["then"]
+    explain: "**then** после *if*-придаточного подчёркивает логический вывод: «если…, то…»."
+  - q: "The applicant had ___ (ранее) worked for two of our main competitors."
+    answers: ["previously", "earlier", "formerly"]
+    explain: "**previously** — «ранее», в середине предложения после вспомогательного *had*."
+  - q: "Interest rates have risen sharply this quarter; ___ (соответственно), we have revised our growth forecasts."
+    answers: ["accordingly", "consequently", "therefore", "as a result", "as a consequence", "thus", "hence"]
+    explain: "**accordingly** — «соответственно»: действие в ответ на ситуацию. Подходят и *consequently / therefore*."

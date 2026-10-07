@@ -1,0 +1,44 @@
+title: "Раскрой скобки"
+type: gap
+intro: "Поставь глагол в Present Simple, Present Continuous, Past Simple или Past Continuous."
+hints:
+  - "Прямо сейчас, в эти дни, временно, меняется → Continuous."
+  - "Привычка, факт, состояние → Simple."
+  - "Длинное действие в прошлом, которое прервали, → was/were + -ing."
+items:
+  - q: "Water ___ (freeze) at zero degrees Celsius."
+    answers: ["freezes"]
+    explain: "Научный факт → **Present Simple**, третье лицо: *freezes*."
+  - q: "— Where's Ilya? — He ___ (talk) to a client in the meeting room."
+    answers: ["is talking", "'s talking"]
+    explain: "Действие идёт сейчас → **Present Continuous**: *is talking*."
+  - q: "I ___ (not / understand) why the build is failing."
+    answers: ["don't understand", "do not understand"]
+    explain: "*understand* — глагол состояния, даже «прямо сейчас» → **don't understand**."
+  - q: "___ (you / remember) the name of that restaurant?"
+    answers: ["Do you remember"]
+    explain: "*remember* — состояние памяти, не процесс → **Do you remember**."
+  - q: "My parents ___ (stay) with us this week, so the flat is a bit crowded."
+    answers: ["are staying", "'re staying"]
+    explain: "Временная ситуация (*this week*) → **are staying**."
+  - q: "Kate usually ___ (cycle) to work."
+    answers: ["cycles"]
+    explain: "Привычка (*usually*) → **Present Simple**: *cycles*."
+  - q: "Don't worry about the date — it ___ (depend) on the weather."
+    answers: ["depends"]
+    explain: "*depend* — глагол состояния → **depends**, не ~~is depending~~."
+  - q: "Prices ___ (rise) fast at the moment."
+    answers: ["are rising", "'re rising"]
+    explain: "Ситуация, которая меняется сейчас (*at the moment*) → **are rising**."
+  - q: "I ___ (think) about buying a new laptop."
+    answers: ["am thinking", "'m thinking"]
+    explain: "*think about* = «обдумывать» — действие в процессе → **am thinking**."
+  - q: "I ___ (have) a shower when the doorbell rang."
+    answers: ["was having"]
+    explain: "Длинное действие (*have a shower* — действие, не владение) прервал звонок → **was having**."
+  - q: "While we ___ (wait) for the bus, we chatted about the weekend."
+    answers: ["were waiting"]
+    explain: "*while* + фоновое действие в процессе → **were waiting**."
+  - q: "When I opened the door, I ___ (see) a cat on the sofa."
+    answers: ["saw"]
+    explain: "Короткое законченное событие сразу после другого → **Past Simple**: *saw*."

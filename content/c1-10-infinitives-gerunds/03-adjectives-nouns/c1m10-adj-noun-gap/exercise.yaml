@@ -1,0 +1,44 @@
+title: "После прилагательного и существительного"
+type: gap
+intro: "Впиши в пропуск нужную форму глагола в скобках — с предлогом, если он нужен. Если в скобках глагола нет, впиши одно слово (предлог)."
+hints:
+  - "Существительное от «инфинитивного» глагола → to do: decision to, refusal to."
+  - "chance / possibility / cost / thought + of doing; talent for, interest in doing."
+  - "Оценка поступка → of you; для кого → for sb."
+items:
+  - q: "The old harbour is well worth ___ (visit), even if you only have an hour."
+    answers: ["visiting"]
+    explain: "*worth* + активный герундий: **worth visiting**."
+  - q: "It was remarkably generous ___ them to cover all our expenses."
+    answers: ["of"]
+    explain: "*generous* оценивает поступок людей → **of them**."
+  - q: "It is essential ___ every participant to sign the consent form."
+    answers: ["for"]
+    explain: "*for* вводит подлежащее инфинитива: важно, **чтобы участники** подписали."
+  - q: "She has a real gift ___ (calm) people down in a crisis."
+    answers: ["for calming"]
+    explain: "*a gift / talent* + **for** + *-ing*."
+  - q: "The chances ___ (find) more survivors are getting slimmer by the hour."
+    answers: ["of finding"]
+    explain: "*chance* в значении «вероятность» → **of** + *-ing*."
+  - q: "Her sudden decision ___ (resign) took the whole board by surprise."
+    answers: ["to resign"]
+    explain: "*decide to* → *decision **to resign***: существительное сохраняет модель глагола."
+  - q: "The government's latest attempt ___ (reduce) waiting times has had little effect."
+    answers: ["to reduce", "at reducing"]
+    explain: "После *attempt* — инфинитив или *at* + *-ing* без разницы в смысле."
+  - q: "Unions say further strikes are likely ___ (cause) disruption throughout the week."
+    answers: ["to cause"]
+    explain: "*be likely* + инфинитив: «вероятно, вызовут»."
+  - q: "Is your grandfather still capable ___ (live) on his own?"
+    answers: ["of living"]
+    explain: "*capable* — только с **of** + *-ing*; инфинитив невозможен."
+  - q: "The warehouse now has a robot ___ (sort) parcels by destination."
+    answers: ["to sort", "for sorting", "that sorts", "which sorts"]
+    explain: "Назначение предмета → инфинитив (*a robot **to sort***) или *for* + *-ing*. Относительное придаточное *that sorts* тоже уместно."
+  - q: "The new owners are anxious ___ (start) the renovation before the winter."
+    answers: ["to start"]
+    explain: "*anxious to do* = «очень хотят». *anxious about starting* значило бы «тревожатся из-за начала работ»."
+  - q: "There's little point ___ (argue) with him once he's made up his mind."
+    answers: ["in arguing", "arguing"]
+    explain: "*there's no / little point* (**in**) + *-ing*; предлог *in* часто опускают."

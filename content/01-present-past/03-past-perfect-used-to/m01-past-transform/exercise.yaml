@@ -1,0 +1,64 @@
+title: "Перефразирование: прошлое (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "«Раньше…, а теперь нет» → used to / didn't use to; «привык» → be used to + -ing; «привыкать» → get used to."
+  - "Одно действие раньше другого → Past Perfect: had done / hadn't done / had never done."
+  - "Сокращения (didn't, hadn't) считаются за два слова."
+items:
+  - q: "When I was a student, I often stayed up all night, but I don't any more."
+    key: "USED"
+    stem: "When I was a student, I ___ up all night."
+    answers: ["used to stay", "often used to stay", "used to often stay"]
+    explain: "Регулярное действие в прошлом, которого больше нет → **used to stay**. *would stay* тоже передаёт повторяющееся действие, но ключ — *USED*."
+  - q: "Working in an open-plan office is still strange for me."
+    key: "USED"
+    stem: "I'm still not ___ in an open-plan office."
+    answers: ["used to working"]
+    explain: "«Непривычно» = **not used to + -ing**. *to* здесь предлог, поэтому *working*, а не ~~work~~."
+  - q: "This village had a school in the past, but it closed."
+    key: "BE"
+    stem: "There used ___ in this village."
+    answers: ["to be a school"]
+    explain: "Состояние в прошлом → **There used to be…**. *would* для состояний не подходит."
+  - q: "Moving to a hot country was difficult for Lena at first, but now it's normal for her."
+    key: "GOT"
+    stem: "Lena has ___ in a hot country."
+    answers: ["got used to living"]
+    explain: "Процесс привыкания завершён → **has got used to + -ing**. После *to* — *living*."
+  - q: "Are you eating meat now? You never ate it when we were at university."
+    key: "USE"
+    stem: "When we were at university, you ___ meat."
+    answers: ["didn't use to eat", "did not use to eat"]
+    explain: "Отрицание с used to: после **didn't** — *use* без *d*: *didn't use to eat*. ~~didn't used to~~ — частая ошибка на письме."
+  - q: "I left the office. After that, the meeting started."
+    key: "HAD"
+    stem: "By the time the meeting started, I ___ the office."
+    answers: ["had left", "had already left"]
+    explain: "Ушёл **раньше**, чем началась встреча → **had left**. *By the time* + Past Simple в одной части и Past Perfect в другой."
+  - q: "It was my first time on a plane."
+    key: "NEVER"
+    stem: "I ___ on a plane before."
+    answers: ["had never been", "had never flown"]
+    explain: "«Первый раз» в прошлом = «никогда раньше не…» → **had never been**. Present Perfect тут нельзя: рассказ о прошлом."
+  - q: "Nina finished the report and then she went home."
+    key: "UNTIL"
+    stem: "Nina didn't go home ___ the report."
+    answers: ["until she had finished", "until she finished", "until she'd finished"]
+    explain: "**not… until** — «не раньше, чем». Past Perfect подчёркивает, что отчёт был **полностью** готов, но после *until* допустим и Past Simple."
+  - q: "We started waiting at six. The bus arrived at eight."
+    key: "BEEN"
+    stem: "We ___ for two hours when the bus arrived."
+    answers: ["had been waiting"]
+    explain: "Длительность до момента в прошлом → **Past Perfect Continuous**: *had been waiting*."
+  - q: "I didn't recognise Max because his appearance was very different from before."
+    key: "CHANGED"
+    stem: "I didn't recognise Max because he ___ ."
+    answers: ["had changed so much", "had changed a lot", "had changed a great deal", "had changed completely", "had really changed", "had changed"]
+    explain: "Изменение произошло **до** момента встречи → **had changed**. Наречие степени (*so much, a lot*) передаёт «очень отличался»."
+  - q: "My grandmother regularly made pancakes for us on Sundays."
+    key: "WOULD"
+    stem: "On Sundays my grandmother ___ pancakes for us."
+    answers: ["would make", "would always make", "would often make", "would usually make"]
+    explain: "Повторяющееся действие в прошлом с оттенком воспоминания → **would + V**. Для действий *would* работает, для состояний — нет."

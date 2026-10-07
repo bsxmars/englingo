@@ -1,0 +1,51 @@
+title: "Насколько ты уверен?"
+type: choice
+intro: "Выбери вариант, который подходит по смыслу и по форме."
+hints:
+  - "Уверен «да» → must; уверен «нет» → can't; не уверен → might / may / could."
+  - "О прошлом: модальный + have + V3. Упрёк «надо было» → should have."
+items:
+  - q: "She's been travelling all day. She ___ be exhausted."
+    options: ["must", "can't", "mustn't"]
+    answer: 0
+    explain: "Логичный вывод «наверняка да» → **must**. *mustn't* — запрет, в выводах не используется."
+  - q: "That ___ be Tom at the door — he's in Spain this week."
+    options: ["can't", "mustn't", "must"]
+    answer: 0
+    explain: "Уверены, что **нет** (Том в Испании) → **can't**. Уверенное «нет» — никогда не *mustn't*."
+  - q: "I'm not sure where Anna is. She ___ be at the gym."
+    options: ["might", "must", "can"]
+    answer: 0
+    explain: "«Не уверен» → **might** (или *may / could*). *can* в предположении о конкретной ситуации не используется."
+  - q: "The streets are wet. It ___ rained last night."
+    options: ["must have", "must", "should have"]
+    answer: 0
+    explain: "Вывод о прошлом → **must have** + V3. *should have rained* значило бы «дождь должен был пойти, но не пошёл»."
+  - q: "You ___ seen Kate at the party — she was in hospital that week."
+    options: ["can't have", "mustn't have", "shouldn't have"]
+    answer: 0
+    explain: "Уверены, что этого не было → **can't have seen**. *shouldn't have seen* — «зря видел», бессмыслица."
+  - q: "I failed the test. I ___ studied harder."
+    options: ["should have", "must have", "might"]
+    answer: 0
+    explain: "Сожаление «надо было» → **should have** + V3. *must have studied* — вывод «наверное, учился»."
+  - q: "We ___ taken a taxi — the station was only five minutes' walk away, but we didn't know that."
+    options: ["needn't have", "didn't need to", "mustn't have"]
+    answer: 0
+    explain: "Взяли такси, а оказалось — зря → **needn't have** + V3. *didn't need to* требует инфинитива (*didn't need to take*)."
+  - q: "He isn't answering his phone. He ___ ."
+    options: ["might be driving", "might drive", "might driving"]
+    answer: 0
+    explain: "Предположение о том, что происходит **прямо сейчас** → модальный + **be + -ing**."
+  - q: "Where's my wallet? I ___ it in the café — I'm not sure."
+    options: ["may have left", "may leave", "may left"]
+    answer: 0
+    explain: "Неуверенное предположение о прошлом → **may have** + V3 (*left*)."
+  - q: "You ___ told me the meeting was cancelled! I came here for nothing."
+    options: ["could have", "can have", "must have"]
+    answer: 0
+    explain: "Упрёк «мог бы и сказать» → **could have** + V3. *must have told* означало бы «ты, наверное, говорил»."
+  - q: "Jack had to leave early yesterday, so I ___ him the news myself. Nobody else was there to do it."
+    options: ["had to tell", "must have told", "needn't have told"]
+    answer: 0
+    explain: "Факт: пришлось сообщить самому → **had to tell**. *must have told* — вывод «наверное, сказал», а говорящий точно знает."

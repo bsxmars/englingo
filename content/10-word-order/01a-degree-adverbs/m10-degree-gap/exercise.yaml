@@ -1,0 +1,43 @@
+title: "too, enough, so, such: впиши одно слово"
+type: gap
+intro: "Впиши **одно** слово, которое подходит по смыслу и по грамматике: *too, enough, much, many, for, to, of, quite, rather, far*."
+hints:
+  - "too + прилагательное (+ for кто-то) (+ to глагол)."
+  - "enough после прилагательного, перед существительным; enough of + the / my / them."
+items:
+  - q: "The font on this website is too small ___ me to read without glasses."
+    answers: ["for"]
+    explain: "Модель **too + прилагательное + for + кто-то + to + глагол**: *too small for me to read*."
+  - q: "Is the lake warm ___ to swim in at this time of year?"
+    answers: ["enough"]
+    explain: "*enough* стоит **после** прилагательного: *warm enough to swim in*."
+  - q: "I've had enough ___ this rain — let's move somewhere sunny!"
+    answers: ["of"]
+    explain: "Перед *this / the / my* после *enough* нужен **of**: *enough of this rain*. *have had enough of* — «надоело»."
+  - q: "You spend ___ much time on your phone. Put it down for an hour."
+    answers: ["too", "so"]
+    explain: "**too much time** — «слишком много» (*so much* тоже грамматично; *far* перед *much* без *too* не ставится). С неисчисляемым *time* — *much*, а не *many*."
+  - q: "There were ___ many questions to answer in one hour."
+    answers: ["too", "so"]
+    explain: "«Слишком много, чтобы успеть» → **too many … to**. *so many* тоже грамматично («так много»). Можно и *far too many*, но в пропуск идёт одно слово."
+  - q: "The film was ___ too long — almost four hours."
+    answers: ["much", "far", "rather", "way"]
+    explain: "*too* усиливают **much / far** (разг. *way*); *rather too* — мягче. *very too* невозможно."
+  - q: "He's not old enough ___ vote in the election."
+    answers: ["to"]
+    explain: "**enough + to + глагол**: *old enough to vote*."
+  - q: "We haven't got ___ chairs for everyone — can you bring a few more?"
+    answers: ["enough"]
+    explain: "С существительным *enough* стоит **перед** ним: *enough chairs*."
+  - q: "It's ___ a nice day — let's have lunch outside."
+    answers: ["such", "quite", "rather"]
+    explain: "Перед *a* + прилагательное + существительное: **such a / quite a / rather a** nice day. *very* или *so* здесь не встанут перед *a*."
+  - q: "The box was too heavy for me to ___ — I had to call my neighbour."
+    answers: ["lift", "carry", "move"]
+    explain: "После *too … to* дополнение не повторяем: *too heavy to lift* (не ~~to lift it~~)."
+  - q: "This coffee is a ___ too sweet for me. Next time, no sugar."
+    answers: ["bit", "little"]
+    explain: "Смягчаем «слишком» → **a bit too / a little too**."
+  - q: "You don't sleep ___ — no wonder you're tired all the time."
+    answers: ["enough", "much", "well"]
+    explain: "С глаголом **enough** стоит в конце, после глагола: *You don't sleep enough*. *much* и *well* тоже подходят по смыслу."

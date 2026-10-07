@@ -1,0 +1,40 @@
+title: "Найди тонкую ошибку в модальных глаголах"
+type: error
+intro: "В каждом предложении **одна** ошибка: неверная форма или модальный глагол с неподходящим смыслом. Исправь её и отправь предложение целиком."
+hints:
+  - "Проверь смысл: вывод, запрет, отсутствие необходимости, умение, разрешение?"
+  - "Проверь форму: нет ли пропущенного have / been / to или лишнего do."
+items:
+  - q: "He mustn't be at home — all the lights are off."
+    answers: ["He can't be at home — all the lights are off.", "He can't be at home - all the lights are off.", "He cannot be at home — all the lights are off.", "He cannot be at home - all the lights are off."]
+    explain: "Отрицательный вывод — **can't**, а не *mustn't*: *mustn't* означает запрет."
+  - q: "The lock was badly rusted, but in the end I could open it with a screwdriver."
+    answers: ["The lock was badly rusted, but in the end I was able to open it with a screwdriver.", "The lock was badly rusted, but in the end I managed to open it with a screwdriver.", "The lock was badly rusted, but in the end I opened it with a screwdriver."]
+    explain: "Одно конкретное трудное достижение в прошлом → **was able to / managed to**, а не *could*. *could* — общая способность в прошлом (*I could swim at five*); в отрицании *couldn't* возможно и о единичном случае."
+  - q: "The figures look odd. Someone must make a mistake when entering them."
+    answers: ["The figures look odd. Someone must have made a mistake when entering them."]
+    explain: "Вывод о прошлом → **must have made**. *must make* — «обязан сделать»."
+  - q: "You mustn't bring food — lunch is provided for all participants."
+    answers: ["You don't have to bring food — lunch is provided for all participants.", "You needn't bring food — lunch is provided for all participants.", "You don't need to bring food — lunch is provided for all participants.", "You don't have to bring food - lunch is provided for all participants.", "You needn't bring food - lunch is provided for all participants.", "You don't need to bring food - lunch is provided for all participants."]
+    explain: "Смысл — «не обязательно», а не «запрещено» → **don't have to / needn't**."
+  - q: "I wish my neighbour would have a quieter dog."
+    answers: ["I wish my neighbour had a quieter dog.", "I wish my neighbor had a quieter dog."]
+    explain: "*have a dog* — состояние; после *wish* для состояний — Past Simple: **had**. *would* — только для действий."
+  - q: "Nobody told me the meeting had moved. You might tell me!"
+    answers: ["Nobody told me the meeting had moved. You might have told me!", "Nobody told me the meeting had moved. You could have told me!"]
+    explain: "Упрёк о прошлом → **might have told** (или *could have told*)."
+  - q: "We'd better to leave now if we want to catch the last train."
+    answers: ["We'd better leave now if we want to catch the last train.", "We had better leave now if we want to catch the last train."]
+    explain: "После *had better* — голый инфинитив, без *to*: **'d better leave**."
+  - q: "The parcel can be in the post room — have you checked there?"
+    answers: ["The parcel could be in the post room — have you checked there?", "The parcel might be in the post room — have you checked there?", "The parcel may be in the post room — have you checked there?", "The parcel could be in the post room - have you checked there?", "The parcel might be in the post room - have you checked there?", "The parcel may be in the post room - have you checked there?"]
+    explain: "Конкретное предположение → **could / might / may**, не *can*."
+  - q: "I didn't need to buy a new charger, as it turned out — the old one was fine, but I'd already paid for it."
+    answers: ["I needn't have bought a new charger, as it turned out — the old one was fine, but I'd already paid for it.", "I needn't have bought a new charger, as it turned out - the old one was fine, but I'd already paid for it."]
+    explain: "Зарядку купили, а она оказалась не нужна → **needn't have bought**. *didn't need to buy* обычно значит «и не покупал»."
+  - q: "It's the first time we could visit the restricted archive."
+    answers: ["It's the first time we have been allowed to visit the restricted archive.", "It's the first time we've been allowed to visit the restricted archive.", "It's the first time we have been able to visit the restricted archive.", "It's the first time we've been able to visit the restricted archive."]
+    explain: "После *It's the first time* — Present Perfect, а у *can* перфекта нет → **have been allowed / able to**."
+  - q: "Do we have got to submit the form in person?"
+    answers: ["Have we got to submit the form in person?", "Do we have to submit the form in person?"]
+    explain: "С *have got to* вопрос строится через *have*, без *do*: **Have we got to…?** Или без *got*: *Do we have to…?*"

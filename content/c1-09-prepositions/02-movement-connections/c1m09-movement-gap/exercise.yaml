@@ -1,0 +1,44 @@
+title: "Через, вдоль, мимо, прочь"
+type: gap
+intro: "Впиши предлог движения или места. Некоторые предложения — в переносном смысле."
+hints:
+  - "across — по плоскости; over — через высокое; through — сквозь объём."
+  - "along — вдоль; past — мимо и дальше."
+  - "off — в стороне от, не связано; out of — изнутри или «больше нет»."
+items:
+  - q: "The ferry takes about forty minutes to get ___ the bay."
+    answers: ["across", "over"]
+    explain: "Пересечь водную **поверхность** → **across** (или *over*). *through the bay* звучало бы как движение внутри залива."
+  - q: "We had to squeeze ___ a narrow gap in the hedge."
+    answers: ["through"]
+    explain: "Вошли в проём и вышли с другой стороны → **through**."
+  - q: "We strolled ___ the riverbank for an hour, watching the rowers."
+    answers: ["along", "on", "by", "beside", "alongside"]
+    explain: "Движение **вдоль** линии (берега) → *along*."
+  - q: "I must have driven ___ your house twice without recognising it."
+    answers: ["past", "by"]
+    explain: "Мимо точки и дальше → **past** (разговорно также *by*)."
+  - q: "Skye is an island just ___ the west coast of Scotland."
+    answers: ["off"]
+    explain: "**off the coast** — недалеко от берега, но отдельно от него."
+  - q: "Thousands of people will be ___ work if the plant closes."
+    answers: ["out of"]
+    explain: "**out of work** — без работы. «Больше нет» → *out of* (*out of stock, out of breath*)."
+  - q: "Your final paragraph drifts completely ___ the topic."
+    answers: ["off", "away from", "from"]
+    explain: "**off the topic** — в стороне от темы. *drift away from / from the topic* тоже верно."
+  - q: "The ceasefire is seen as an important step ___ lasting peace."
+    answers: ["towards", "toward"]
+    explain: "Направление развития, а не достигнутая цель → **towards** (AmE *toward*)."
+  - q: "The thieves got in by climbing ___ the back wall."
+    answers: ["over"]
+    explain: "Через что-то **высокое** → *over*. *across* — для плоскости, *through* — сквозь."
+  - q: "Morning light was streaming ___ the open window."
+    answers: ["through", "in through", "in at"]
+    explain: "Свет проходит **сквозь** проём → *through* (или *in through*)."
+  - q: "Her career went ___ strength to strength after the award."
+    answers: ["from"]
+    explain: "Устойчивое **go from strength to strength** — становиться всё успешнее. *from … to* — начало и конец изменения."
+  - q: "It's well ___ midnight — we really should be going."
+    answers: ["past", "after", "gone"]
+    explain: "**past midnight** — позже полуночи. *after midnight* тоже верно, британское разговорное *gone midnight* — тоже."

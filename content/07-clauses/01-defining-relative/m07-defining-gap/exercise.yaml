@@ -1,0 +1,43 @@
+title: "who, which, that, whose, where, when"
+type: gap
+intro: "Впиши относительное слово. Во всех этих предложениях без него не обойтись. Если подходят два варианта (например, *who* и *that*), засчитывается любой."
+hints:
+  - "Люди → who / that, вещи → which / that."
+  - "«Чей» → whose; место → where; время → when."
+items:
+  - q: "The engineer ___ designed this bridge was only twenty-six."
+    answers: ["who", "that"]
+    explain: "Речь о человеке, и местоимение — подлежащее придаточного (*who designed*) → **who** или **that**."
+  - q: "I need an app ___ can translate menus without the internet."
+    answers: ["that", "which"]
+    explain: "О вещи → **that** или **which**. Местоимение — подлежащее (*that can translate*), опустить нельзя."
+  - q: "That's the colleague ___ laptop was stolen at the airport."
+    answers: ["whose"]
+    explain: "«Чей ноутбук» → **whose** + существительное без артикля."
+  - q: "This is the café ___ we first met."
+    answers: ["where", "in which", "at which"]
+    explain: "Место, и в придаточном нет предлога (*we met **in** the café*) → **where** или формальное *in which*."
+  - q: "Do you remember the summer ___ it rained every single day?"
+    answers: ["when", "that", "in which"]
+    explain: "Время → **when**. После слов вроде *day, year, summer* разговорно возможно и *that*."
+  - q: "Anyone ___ wants to join the trip should email me by Friday."
+    answers: ["who", "that"]
+    explain: "*Anyone* — человек, местоимение — подлежащее → **who** (или *that*)."
+  - q: "It's a company ___ founder dropped out of university at nineteen."
+    answers: ["whose"]
+    explain: "«Компания, чей основатель…» → **whose** работает и для неодушевлённых."
+  - q: "The flat ___ is on the top floor gets really hot in summer."
+    answers: ["that", "which"]
+    explain: "Квартира — вещь, местоимение — подлежащее (*which is*) → **that / which**."
+  - q: "I'd love to live in a city ___ you don't need a car."
+    answers: ["where", "in which"]
+    explain: "Место, где «в нём» не нужна машина → **where** (= *in which*)."
+  - q: "Is there anyone here ___ speaks Portuguese?"
+    answers: ["who", "that"]
+    explain: "Человек + подлежащее придаточного → **who** / **that**. Не *what* и не *which*."
+  - q: "Scientists have found a gene ___ makes some people hate coriander."
+    answers: ["that", "which"]
+    explain: "Ген — вещь → **that / which**. *What* после существительного не используется."
+  - q: "She's the kind of manager ___ opinion everyone respects."
+    answers: ["whose"]
+    explain: "«Чьё мнение» → **whose opinion**. Не путай с *who's* (= *who is*)."

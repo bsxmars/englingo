@@ -1,0 +1,52 @@
+title: "Тонкие случаи: so far, this morning, the last time"
+type: choice
+intro: "Выбери вариант, который подходит по смыслу. Смотри не только на маркеры, но и на то, **закончился ли период** или ситуация."
+hints:
+  - "Ситуация длится сейчас → Present Perfect; закончилась → Past Simple, даже с for."
+  - "It's ages since… и the last time… тянут Past Simple."
+  - "this morning: утро ещё идёт → Present Perfect; уже прошло → Past Simple."
+items:
+  - q: "My grandparents ___ in that village for forty years, but in 2015 they moved to the city."
+    options: ["have lived", "lived", "have been living"]
+    answer: 1
+    explain: "Они там больше не живут — период закрыт. *for forty years* не мешает: с законченной ситуацией нужен **Past Simple**."
+  - q: "I ___ from Lena since she moved to Canada."
+    options: ["didn't hear", "haven't heard", "don't hear"]
+    answer: 1
+    explain: "«Не получал вестей с тех пор и до сих пор» → **haven't heard** + *since*. Отрицание с for/since тоже в Present Perfect."
+  - q: "It's ages since we last ___ a proper holiday."
+    options: ["had", "have had", "have"]
+    answer: 0
+    explain: "После *It's … since* называется конкретный момент в прошлом (когда отдыхали последний раз) → **Past Simple**: *had*."
+  - q: "This young director ___ three films so far, and she's already working on a fourth."
+    options: ["made", "has made", "makes"]
+    answer: 1
+    explain: "*so far* и карьера продолжается (будет четвёртый фильм) → **has made**."
+  - q: "Picasso ___ thousands of works during his long life."
+    options: ["has created", "created", "has been creating"]
+    answer: 1
+    explain: "Жизнь художника закончилась, период закрыт → **Past Simple**: *created*."
+  - q: "It's four in the afternoon. ___ the courier come this morning?"
+    options: ["Has", "Did", "Was"]
+    answer: 1
+    explain: "Утро уже прошло — *this morning* здесь законченный период → **Did** … come. Утром мы бы спросили *Has the courier come?*"
+  - q: "I ___ the window earlier, but someone has closed it again."
+    options: ["have opened", "opened", "open"]
+    answer: 1
+    explain: "Результата больше нет (окно снова закрыто) → **Past Simple**: *opened*. Present Perfect значил бы, что окно открыто сейчас."
+  - q: "— Is Mark still at lunch? — No, he's ___ come back."
+    options: ["just", "yet", "ever"]
+    answer: 0
+    explain: "**just** = «только что», стоит между *has* и третьей формой. *yet* — в конце вопросов и отрицаний, *ever* — в вопросах об опыте."
+  - q: "We ___ to the theatre for over a year — we really should go."
+    options: ["didn't go", "haven't been", "don't go"]
+    answer: 1
+    explain: "«Не были уже больше года» — период до сих пор не закрыт → **haven't been** + *for*."
+  - q: "Christmas was the last time I ___ my cousins."
+    options: ["have seen", "saw", "see"]
+    answer: 1
+    explain: "*the last time* + конкретный момент (Рождество) → **Past Simple**: *saw*."
+  - q: "I haven't packed my suitcase ___, and the taxi comes in an hour."
+    options: ["yet", "already", "just"]
+    answer: 0
+    explain: "В отрицании «ещё не» → **yet** в конце: *I haven't packed it yet*."

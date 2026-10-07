@@ -1,0 +1,41 @@
+title: "Собери предложение с коллокацией"
+type: order
+intro: "Собери английское предложение по переводу. В каждом — устойчивое сочетание из урока."
+hints:
+  - "take … into account: дополнение может стоять между take и into account или после."
+  - "Наречие-усилитель стоит прямо перед прилагательным: highly unlikely, bitterly disappointed."
+items:
+  - q: "«Крайне маловероятно, что они приедут вовремя»."
+    answers: ["It is highly unlikely that they will arrive on time."]
+    explain: "**highly unlikely** — «крайне маловероятно». Конструкция *It is … that* + придаточное."
+  - q: "«Мы должны принять во внимание мнение местных жителей»."
+    answers:
+      - "We must take the views of local residents into account."
+      - "We must take into account the views of local residents."
+    explain: "**take something into account**. Длинное дополнение часто ставят после *into account*, короткое — между: *take it into account*."
+  - q: "«Отчёт обращает внимание на острую нехватку жилья»."
+    answers: ["The report draws attention to an acute shortage of housing."]
+    explain: "**draw attention to** + **an acute shortage** — две коллокации в одном предложении."
+  - q: "«Болельщики были горько разочарованы результатом»."
+    answers: ["The fans were bitterly disappointed with the result."]
+    explain: "**bitterly disappointed with / by / at** — здесь дано *with*."
+  - q: "«Мы прилагаем все усилия, чтобы уложиться в срок»."
+    answers: ["We are making every effort to meet the deadline."]
+    explain: "**make every effort to** + **meet the deadline**."
+  - q: "«Компания должна взять на себя полную ответственность за ущерб»."
+    answers: ["The company must take full responsibility for the damage."]
+    explain: "**take (full) responsibility for** — прилагательное *full* встаёт перед *responsibility*."
+  - q: "«Его комментарии вызвали серьёзные опасения у инвесторов»."
+    answers: ["His comments raised serious concerns among investors."]
+    explain: "**raise concerns** — «вызывать опасения». *among investors* — «среди, у инвесторов»."
+  - q: "«Не стоит делать поспешных выводов из этих цифр»."
+    answers: ["We should not draw hasty conclusions from these figures."]
+    explain: "**draw conclusions from** — «делать выводы из». *hasty* — «поспешный»."
+  - q: "«Эта поездка серьёзно сказалась на его здоровье»."
+    answers: ["The trip took a heavy toll on his health."]
+    explain: "**take a (heavy) toll on** — «нанести (серьёзный) урон, сказаться на»."
+  - q: "«В своей речи она отдала должное коллегам»."
+    answers:
+      - "In her speech, she paid tribute to her colleagues."
+      - "She paid tribute to her colleagues in her speech."
+    explain: "**pay tribute to** — «отдать должное, воздать дань». Обстоятельство *in her speech* — в начале или в конце."

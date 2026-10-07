@@ -1,0 +1,159 @@
+# Oxford Practice Grammar — Intermediate, John Eastwood (2nd ed. 1999, 3rd ed. 2006: unit numbers and pages match).
+# Lessons point at units with `book: [n, ...]` in their frontmatter.
+title: "Oxford Practice Grammar — Intermediate"
+author: "John Eastwood"
+key_page: 386
+units:
+  - {n: 1, title: "Word classes: nouns, verbs, adjectives, etc", page: 2}
+  - {n: 2, title: "Sentence structure: subject, verb, object, etc", page: 4}
+  - {n: 3, title: "Direct and indirect objects", page: 6}
+  - {n: 4, title: "The present continuous", page: 8}
+  - {n: 5, title: "The present simple", page: 10}
+  - {n: 6, title: "Present continuous or simple?", page: 12}
+  - {n: 7, title: "State verbs and action verbs", page: 14}
+  - {n: 8, title: "The past simple", page: 18}
+  - {n: 9, title: "The past continuous", page: 20}
+  - {n: 10, title: "Past continuous or simple?", page: 22}
+  - {n: 11, title: "The present perfect (1)", page: 26}
+  - {n: 12, title: "The present perfect (2): just, already, yet; for and since", page: 28}
+  - {n: 13, title: "The present perfect (3): ever, this week, etc", page: 30}
+  - {n: 14, title: "Present perfect or past simple? (1)", page: 32}
+  - {n: 15, title: "Present perfect or past simple? (2)", page: 34}
+  - {n: 16, title: "The present perfect continuous", page: 38}
+  - {n: 17, title: "Present perfect continuous or simple?", page: 40}
+  - {n: 18, title: "The past perfect", page: 42}
+  - {n: 19, title: "Review of the past simple, continuous and perfect", page: 44}
+  - {n: 20, title: "The past perfect continuous", page: 46}
+  - {n: 21, title: "Review of present and past tenses", page: 50}
+  - {n: 22, title: "Introduction to the future", page: 56}
+  - {n: 23, title: "Will and shall", page: 58}
+  - {n: 24, title: "Be going to", page: 60}
+  - {n: 25, title: "Will and be going to", page: 62}
+  - {n: 26, title: "Present tenses for the future", page: 64}
+  - {n: 27, title: "When I get there, before you leave, etc", page: 66}
+  - {n: 28, title: "Will be doing", page: 70}
+  - {n: 29, title: "Will have done and was going to", page: 72}
+  - {n: 30, title: "Review of the future", page: 74}
+  - {n: 31, title: "The verb have", page: 78}
+  - {n: 32, title: "Short forms, e.g it's, don't", page: 80}
+  - {n: 33, title: "Emphatic do", page: 82}
+  - {n: 34, title: "Yes/no questions", page: 84}
+  - {n: 35, title: "Short answers, e.g. Yes, it is.", page: 86}
+  - {n: 36, title: "Wh-questions", page: 88}
+  - {n: 37, title: "Subject/object questions", page: 90}
+  - {n: 38, title: "Prepositions in wh-questions", page: 92}
+  - {n: 39, title: "Who, what or which?", page: 94}
+  - {n: 40, title: "Negative statements", page: 98}
+  - {n: 41, title: "Negative questions", page: 100}
+  - {n: 42, title: "Question tags, e.g. isn't it?", page: 102}
+  - {n: 43, title: "So/Neither do I and I think so", page: 104}
+  - {n: 44, title: "Ability: can, could and be able to", page: 108}
+  - {n: 45, title: "Permission: can, may, could and be allowed to", page: 110}
+  - {n: 46, title: "Possibility and certainty: may, might, could, must, etc", page: 112}
+  - {n: 47, title: "Necessity: must and have to", page: 114}
+  - {n: 48, title: "Necessity: mustn't, needn't, etc", page: 116}
+  - {n: 49, title: "Should, ought to, had better and be supposed to", page: 118}
+  - {n: 50, title: "Asking people to do things", page: 120}
+  - {n: 51, title: "Suggestions, offers and invitations", page: 122}
+  - {n: 52, title: "Will, would, shall and should", page: 124}
+  - {n: 53, title: "It may/could/must have been, etc", page: 126}
+  - {n: 54, title: "Passive verb forms", page: 130}
+  - {n: 55, title: "Active and passive (1)", page: 132}
+  - {n: 56, title: "Active and passive (2)", page: 134}
+  - {n: 57, title: "Special passive structures", page: 136}
+  - {n: 58, title: "Have something done", page: 138}
+  - {n: 59, title: "To be done and being done", page: 140}
+  - {n: 60, title: "Verb + to-infinitive", page: 144}
+  - {n: 61, title: "Verb + ing-form", page: 146}
+  - {n: 62, title: "Verb + to-infinitive or verb + ing-form?", page: 148}
+  - {n: 63, title: "Like, start, etc", page: 150}
+  - {n: 64, title: "Remember, regret, try, etc", page: 152}
+  - {n: 65, title: "Verb + object + to-infinitive or ing-form", page: 156}
+  - {n: 66, title: "Question word + to-infinitive", page: 158}
+  - {n: 67, title: "Adjective + to-infinitive", page: 160}
+  - {n: 68, title: "For with the to-infinitive", page: 162}
+  - {n: 69, title: "The infinitive with and without to", page: 164}
+  - {n: 70, title: "Verb/Adjective + preposition + ing-form", page: 166}
+  - {n: 71, title: "Afraid to do or afraid of doing?", page: 168}
+  - {n: 72, title: "Used to do and be used to doing", page: 170}
+  - {n: 73, title: "Preposition or linking word + ing-form", page: 172}
+  - {n: 74, title: "See it happen or see it happening?", page: 174}
+  - {n: 75, title: "Some structures with the ing-form", page: 176}
+  - {n: 76, title: "Ship and water: countable and uncountable nouns", page: 180}
+  - {n: 77, title: "A carton of milk, a piece of information, etc", page: 182}
+  - {n: 78, title: "Nouns that can be either countable or uncountable", page: 184}
+  - {n: 79, title: "Agreement", page: 186}
+  - {n: 80, title: "Singular or plural?", page: 188}
+  - {n: 81, title: "Pair nouns and group nouns", page: 190}
+  - {n: 82, title: "Two nouns together", page: 192}
+  - {n: 83, title: "A/an and the (1)", page: 196}
+  - {n: 84, title: "A/an and the (2)", page: 198}
+  - {n: 85, title: "A/an, one and some", page: 200}
+  - {n: 86, title: "Cars or the cars?", page: 202}
+  - {n: 87, title: "Prison, school, bed, etc", page: 204}
+  - {n: 88, title: "On Friday, for lunch, etc", page: 206}
+  - {n: 89, title: "Quite a, such a, what a, etc", page: 208}
+  - {n: 90, title: "Place names and the", page: 210}
+  - {n: 91, title: "This, that, these and those", page: 216}
+  - {n: 92, title: "My, your, etc and mine, yours, etc", page: 218}
+  - {n: 93, title: "The possessive form and of", page: 220}
+  - {n: 94, title: "Some and any", page: 222}
+  - {n: 95, title: "A lot of, many, much, (a) few and (a) little", page: 224}
+  - {n: 96, title: "All, half, most, some, no and none", page: 226}
+  - {n: 97, title: "Every, each, whole, both, either and neither", page: 228}
+  - {n: 98, title: "Personal pronouns, e.g. I, you", page: 232}
+  - {n: 99, title: "There and it", page: 234}
+  - {n: 100, title: "Reflexive pronouns", page: 236}
+  - {n: 101, title: "Emphatic pronouns and each other", page: 238}
+  - {n: 102, title: "The pronoun one/ones", page: 240}
+  - {n: 103, title: "Everyone, something, etc", page: 242}
+  - {n: 104, title: "Adjectives", page: 246}
+  - {n: 105, title: "The order of adjectives", page: 248}
+  - {n: 106, title: "The old, the rich, etc", page: 250}
+  - {n: 107, title: "Interesting and interested", page: 252}
+  - {n: 108, title: "Adjective or adverb? (1)", page: 254}
+  - {n: 109, title: "Adjective or adverb? (2)", page: 256}
+  - {n: 110, title: "Comparative and superlative forms", page: 260}
+  - {n: 111, title: "Comparative and superlative patterns (1)", page: 264}
+  - {n: 112, title: "Comparative and superlative patterns (2)", page: 266}
+  - {n: 113, title: "Adverbs and word order", page: 270}
+  - {n: 114, title: "Yet, still and already", page: 274}
+  - {n: 115, title: "Adverbs of degree, e.g. very, quite", page: 276}
+  - {n: 116, title: "Quite and rather", page: 278}
+  - {n: 117, title: "Too and enough", page: 280}
+  - {n: 118, title: "Prepositions of place", page: 284}
+  - {n: 119, title: "In, on and at (place)", page: 288}
+  - {n: 120, title: "In, on and at (time)", page: 290}
+  - {n: 121, title: "For, since, ago and before", page: 292}
+  - {n: 122, title: "During or while? By or until? As or like?", page: 294}
+  - {n: 123, title: "Preposition + noun, e.g. on holiday", page: 296}
+  - {n: 124, title: "Noun + preposition, e.g. trouble with", page: 298}
+  - {n: 125, title: "Adjective + preposition, e.g. proud of", page: 300}
+  - {n: 126, title: "Prepositional verbs, e.g. wait for", page: 304}
+  - {n: 127, title: "Verb + object + preposition", page: 306}
+  - {n: 128, title: "Phrasal verbs (1)", page: 308}
+  - {n: 129, title: "Phrasal verbs (2)", page: 310}
+  - {n: 130, title: "Phrasal verbs (3)", page: 312}
+  - {n: 131, title: "Verb + adverb + preposition", page: 314}
+  - {n: 132, title: "Direct speech and reported speech", page: 318}
+  - {n: 133, title: "Reported speech: person, place and time", page: 320}
+  - {n: 134, title: "Reported speech: the tense change", page: 322}
+  - {n: 135, title: "Reported questions", page: 324}
+  - {n: 136, title: "Reported requests, offers, etc", page: 326}
+  - {n: 137, title: "Relative clauses with who, which and that", page: 330}
+  - {n: 138, title: "The relative pronoun as object", page: 332}
+  - {n: 139, title: "Prepositions in relative clauses", page: 334}
+  - {n: 140, title: "Relative structures with whose, what and it", page: 336}
+  - {n: 141, title: "The use of relative clauses", page: 338}
+  - {n: 142, title: "Relative pronouns and relative adverbs", page: 340}
+  - {n: 143, title: "Relative clauses: participle and to-infinitive", page: 342}
+  - {n: 144, title: "Conditionals (1)", page: 346}
+  - {n: 145, title: "Conditionals (2)", page: 348}
+  - {n: 146, title: "Conditionals (3)", page: 350}
+  - {n: 147, title: "Review of conditionals", page: 352}
+  - {n: 148, title: "If, when, unless and in case", page: 354}
+  - {n: 149, title: "Wish and if only", page: 356}
+  - {n: 150, title: "But, although and in spite of", page: 360}
+  - {n: 151, title: "To, in order to, so that and for", page: 362}
+  - {n: 152, title: "Review of linking words", page: 364}
+  - {n: 153, title: "Links across sentences", page: 366}

@@ -1,0 +1,43 @@
+title: "Трёхчастные глаголы и переносные значения"
+type: gap
+intro: "Впиши **одно** недостающее слово — частицу или предлог."
+hints:
+  - "live up to, come up with, face up to, get round to, do away with, come in for, fall back on, come down to."
+  - "up — появление; out — обнаружение или «до конца»; down — провал."
+items:
+  - q: "Few people expected the new director to live ___ to her reputation, but she did."
+    answers: ["up"]
+    explain: "**live up to** — оправдать ожидания или репутацию."
+  - q: "The ombudsman has promised to look ___ the complaints and report back within a month."
+    answers: ["into", "at", "over"]
+    explain: "**look into** — расследовать, изучить (нейтрально; формально — *investigate*). *look at / look over* — «рассмотреть, просмотреть» — тоже возможны, но омбудсмен именно расследует."
+  - q: "I keep meaning to answer her letter, but I never seem to get ___ to it."
+    answers: ["round", "around"]
+    explain: "**get round / around to** (doing) something — наконец взяться за то, что откладывал."
+  - q: "Sooner or later, the board will have to face ___ to the fact that the merger has failed."
+    answers: ["up"]
+    explain: "**face up to** — признать неприятную правду."
+  - q: "The negotiations broke ___ when the two sides failed to agree on wages."
+    answers: ["down"]
+    explain: "**break down** о переговорах — провалиться, зайти в тупик."
+  - q: "If the grant is refused, we can always fall back ___ our own savings."
+    answers: ["on", "upon"]
+    explain: "**fall back on** — прибегнуть к запасному варианту."
+  - q: "The minister came in ___ fierce criticism for her handling of the crisis."
+    answers: ["for"]
+    explain: "**come in for** criticism / praise — подвергнуться критике, получить похвалу."
+  - q: "Nobody could understand how she had come ___ with such an original idea."
+    answers: ["up"]
+    explain: "**come up with** — придумать, предложить."
+  - q: "Paper tickets were finally done away ___ in 2019."
+    answers: ["with"]
+    explain: "**do away with** — упразднить. В пассиве предлог остаётся: *were done away with*."
+  - q: "Could you spell ___ exactly what you expect from the contractors?"
+    answers: ["out"]
+    explain: "**spell out** — разъяснить чётко, по пунктам."
+  - q: "However you look at it, the decision comes down ___ money."
+    answers: ["to"]
+    explain: "**come down to** — сводиться к чему-то главному."
+  - q: "He plagiarised half his thesis and somehow got away ___ it."
+    answers: ["with"]
+    explain: "**get away with** — избежать наказания, «сойти с рук»."

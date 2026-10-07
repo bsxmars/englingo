@@ -1,0 +1,42 @@
+title: "-ed или -ing?"
+type: gap
+intro: "Образуй от глагола в скобках прилагательное на **-ed** или **-ing**."
+hints:
+  - "Человек чувствует → -ed (I'm bored). Вещь или ситуация вызывает чувство → -ing (It's boring)."
+items:
+  - q: "I was so ___ (bore) during the lecture that I nearly fell asleep."
+    answers: ["bored"]
+    explain: "Человек **чувствует** скуку → **bored**. *I was boring* значило бы «я был занудой»."
+  - q: "Three hours of waiting at the airport was really ___ (tire)."
+    answers: ["tiring"]
+    explain: "Ожидание **утомляет** (вызывает чувство) → **tiring**. Сам человек при этом *tired*."
+  - q: "Are you ___ (interest) in joining our book club?"
+    answers: ["interested"]
+    explain: "Что чувствует человек → **interested**, с предлогом **in**. Русскоговорящие часто ошибаются: ~~interesting in~~."
+  - q: "The instructions were so ___ (confuse) that I gave up."
+    answers: ["confusing"]
+    explain: "Инструкции **сбивают с толку** → **confusing**. Я сам после них — *confused*."
+  - q: "We were ___ (amaze) by how cheap everything was."
+    answers: ["amazed"]
+    explain: "Мы **испытали** удивление → **amazed** (by / at)."
+  - q: "It's so ___ (embarrass) when you forget someone's name."
+    answers: ["embarrassing"]
+    explain: "Ситуация **вызывает** неловкость → **embarrassing**. Человек при этом *embarrassed*."
+  - q: "She was ___ (disappoint) with her exam results."
+    answers: ["disappointed"]
+    explain: "Её чувство → **disappointed** (with / by). Сами результаты — *disappointing*."
+  - q: "Living next to a busy road can be very ___ (annoy)."
+    answers: ["annoying"]
+    explain: "Жизнь у дороги **раздражает** → **annoying**."
+  - q: "After the ten-hour flight, everyone looked ___ (exhaust)."
+    answers: ["exhausted"]
+    explain: "После связки *look* — прилагательное, а чувство людей → **exhausted** (без сил)."
+  - q: "I find long walks in the forest really ___ (relax)."
+    answers: ["relaxing"]
+    explain: "*find something + прилагательное*: прогулки **расслабляют** → **relaxing**."
+  - q: "The kids are so ___ (excite) about the trip that they can't sleep."
+    answers: ["excited"]
+    explain: "Дети **чувствуют** волнение → **excited about**. Сама поездка — *exciting*."
+  - q: "The latest news about the floods is very ___ (worry)."
+    answers: ["worrying"]
+    explain: "Новости **вызывают** тревогу → **worrying**. Люди, которые их читают, — *worried*."

@@ -1,0 +1,36 @@
+title: "Собери предложение"
+type: order
+intro: "Собери английское предложение из слов. Где нет *whom* или *which* после предлога, предлог уходит в конец придаточного."
+hints:
+  - "Разговорно: the colleague I rely on. Формально: the person to whom I wrote."
+items:
+  - q: "«Это коллега, на которого я всегда могу положиться»."
+    answers: ["This is the colleague I can always rely on."]
+    explain: "Разговорный вариант: местоимение опущено, **on** в конце."
+  - q: "«Мне нравится, как она объясняет сложные вещи»."
+    answers: ["I like the way she explains complex things."]
+    explain: "**the way** + придаточное, без *how*."
+  - q: "«Это спортзал, где я тренируюсь по утрам»."
+    answers: ["This is the gym where I train in the mornings."]
+    explain: "*train **at** the gym* → **where**."
+  - q: "«Тема, о которой мы спорили, была слишком сложной»."
+    answers: ["The topic we argued about was too complicated."]
+    explain: "*argue **about*** — предлог в конце, местоимение опущено."
+  - q: "«Человек, которому я написал, так и не ответил» (формально)."
+    answers: ["The person to whom I wrote never replied."]
+    explain: "Формальный регистр: **to whom** в начале придаточного."
+  - q: "«Это шум, который я больше не могу терпеть»."
+    answers: ["This is the noise I cannot put up with any more."]
+    explain: "*put up with* не разрывается: обе частицы в конце придаточного."
+  - q: "«Помнишь год, когда мы переехали в Москву?»"
+    answers: ["Do you remember the year when we moved to Moscow?"]
+    explain: "Время → **when**."
+  - q: "«Это компания, чьи акции выросли вдвое»."
+    answers: ["This is the company whose shares have doubled."]
+    explain: "«Чьи акции» → **whose shares**: *whose* для компании нормален."
+  - q: "«Мы дошли до момента, когда нам нужен новый сервер»."
+    answers: ["We have reached a point where we need a new server."]
+    explain: "*reach a point **where*** — устойчивая модель с абстрактным «местом»."
+  - q: "«Причина, по которой я звоню, очень простая»."
+    answers: ["The reason why I'm calling is very simple."]
+    explain: "*the reason **why***: не *because* и не *for what*."

@@ -1,0 +1,31 @@
+title: "Собери предложение"
+type: order
+intro: "Собери английское предложение из слов. Перевод подскажет смысл."
+hints:
+  - "such a + прилагательное + существительное + that; so + прилагательное + that."
+  - "so as not to: not стоит перед to."
+items:
+  - q: "«Книга была настолько хорошей, что я прочитал её дважды»."
+    answers: ["It was such a good book that I read it twice"]
+    explain: "**such a** + прилагательное + существительное + **that** + следствие."
+  - q: "«Она копила деньги, чтобы иметь возможность путешествовать»."
+    answers: ["She saved money so that she could travel"]
+    explain: "**so that** + подлежащее + *could* (прошедшее время) — цель."
+  - q: "«Магазин был закрыт из-за болезни сотрудников»."
+    answers: ["The shop was closed due to staff illness"]
+    explain: "**due to** + существительное — формальное «из-за», типично для объявлений."
+  - q: "«Мы взяли карту, чтобы не заблудиться»."
+    answers: ["We took a map so as not to get lost"]
+    explain: "Отрицательная цель: **so as not to** + глагол."
+  - q: "«Фильм был таким длинным, что я заснул»."
+    answers: ["The film was so long that I fell asleep"]
+    explain: "**so** + прилагательное (без существительного) + **that**."
+  - q: "«Из-за забастовки поезда не ходили»."
+    answers: ["Because of the strike the trains weren't running", "The trains weren't running because of the strike"]
+    explain: "**because of** + существительное; часть с причиной может стоять в начале (тогда после неё запятая) или в конце."
+  - q: "«Он ушёл пораньше, чтобы успеть на последний автобус»."
+    answers: ["He left early in order to catch the last bus"]
+    explain: "**in order to** + глагол — цель действия, чуть формальнее, чем просто *to*."
+  - q: "«Так как шёл дождь, мы остались дома»."
+    answers: ["Since it was raining we stayed at home", "We stayed at home since it was raining"]
+    explain: "**since** = «так как» + предложение. Чаще ставится в начале, но возможна и вторая позиция."

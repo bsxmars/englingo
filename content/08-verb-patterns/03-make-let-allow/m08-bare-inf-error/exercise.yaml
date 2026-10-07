@@ -1,0 +1,38 @@
+title: "Найди ошибку: to или без to"
+type: error
+intro: "В каждом предложении **одна** ошибка. Исправь её и отправь предложение целиком."
+hints:
+  - "had better, would rather, модальные, make / let → без to."
+  - "be about to, be likely to, be sure to, ought to → с to."
+  - "This car is easy to drive — без it в конце."
+items:
+  - q: "You'd better to take an umbrella because it's going to rain."
+    answers: ["You'd better take an umbrella because it's going to rain.", "You had better take an umbrella because it's going to rain."]
+    explain: "После **had better** — голый инфинитив: *You'd better take*."
+  - q: "I'd rather to work from home tomorrow, if that's OK."
+    answers: ["I'd rather work from home tomorrow, if that's OK.", "I would rather work from home tomorrow, if that's OK."]
+    explain: "После **would rather** — без *to*: *I'd rather work*."
+  - q: "Hurry up, the train is about leaving!"
+    answers: ["Hurry up, the train is about to leave!"]
+    explain: "**be about to + инфинитив** = «вот-вот»: *is about to leave*."
+  - q: "Our boss is unlikely agreeing to a four-day week."
+    answers: ["Our boss is unlikely to agree to a four-day week.", "It is unlikely that our boss will agree to a four-day week.", "It's unlikely that our boss will agree to a four-day week."]
+    explain: "**be unlikely to + инфинитив** = «вряд ли»: *is unlikely to agree*. После *unlikely* -ing не ставится."
+  - q: "This old laptop is still easy to carry it around."
+    answers: ["This old laptop is still easy to carry around.", "It's still easy to carry this old laptop around.", "It is still easy to carry this old laptop around."]
+    explain: "Подлежащее *this laptop* уже и есть объект → *it* в конце лишнее: **easy to carry around**."
+  - q: "Don't worry, they're sure finding the hotel without us."
+    answers: ["Don't worry, they're sure to find the hotel without us.", "Don't worry, they are sure to find the hotel without us."]
+    explain: "**be sure to + инфинитив** = «точно, наверняка»: *they're sure to find*."
+  - q: "You ought take a break. You've been working for six hours."
+    answers: ["You ought to take a break. You've been working for six hours."]
+    explain: "**ought to** — всегда с *to*, в отличие от *should*: *You ought to take a break*."
+  - q: "We still have a lot of work doing before the launch."
+    answers: ["We still have a lot of work to do before the launch."]
+    explain: "Существительное + **to-инфинитив** = «которую нужно сделать»: *a lot of work to do*."
+  - q: "The guide let us to take photos inside the cathedral."
+    answers: ["The guide let us take photos inside the cathedral.", "The guide allowed us to take photos inside the cathedral."]
+    explain: "**let + объект + голый инфинитив**: *let us take*. С *to* — только *allowed us to take*."
+  - q: "It's impossible understand his handwriting."
+    answers: ["It's impossible to understand his handwriting.", "It is impossible to understand his handwriting.", "His handwriting is impossible to understand."]
+    explain: "**It's + прилагательное + to**: *It's impossible to understand*. Или короче: *His handwriting is impossible to understand*."

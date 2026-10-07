@@ -1,0 +1,64 @@
+title: "Перефразирование: уступка (C1 Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы смысл совпал с первым. Используй **ключевое слово** без изменений и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "Прилагательное / наречие + as / though + подлежащее + глагол."
+  - "Try as he might = «как он ни старался»."
+  - "despite + -ing или the fact that, но не придаточное."
+items:
+  - q: "Although he tried very hard, he couldn't get the lid off."
+    key: "MIGHT"
+    stem: "Try ___ get the lid off."
+    answers: ["as he might, he couldn't", "though he might, he couldn't", "as he might, he was unable to", "as he might, he failed to"]
+    explain: "**Try as he might** = «как он ни старался» — формальная уступка с фронтированием глагола."
+  - q: "I like him a lot, but I don't think he's right for the job."
+    key: "MUCH"
+    stem: "___ him, I don't think he's right for the job."
+    answers: ["Much as I like", "Much as I really like"]
+    explain: "**Much as + like / love / admire** = «как бы я ни…». Союз *but* при этом исчезает."
+  - q: "Although the hotel was expensive, it was worth every penny."
+    key: "THOUGH"
+    stem: "Expensive ___, it was worth every penny."
+    answers: ["though the hotel was", "though it was"]
+    explain: "**Прилагательное + though / as + подлежащее + be**: *Expensive though the hotel was*. *although* в этой конструкции невозможно."
+  - q: "However much effort she puts in, her boss never seems to notice."
+    key: "MATTER"
+    stem: "___ effort she puts in, her boss never seems to notice."
+    answers: ["No matter how much"]
+    explain: "**No matter how much** = *however much*; нейтральнее и частотнее в речи."
+  - q: "She went to the party in spite of feeling unwell."
+    key: "EVEN"
+    stem: "She went to the party ___ unwell."
+    answers: ["even though she felt", "even though she was feeling", "even though she was"]
+    explain: "Реальный факт → **even though** + придаточное. *even if* было бы гипотезой: «даже если бы почувствовала»."
+  - q: "He was very rich, but he wasn't happy."
+    key: "DESPITE"
+    stem: "___ rich, he wasn't happy."
+    answers: ["Despite being very", "Despite the fact he was very", "Despite the fact that he was very"]
+    explain: "После **despite** — герундий или *the fact that*: *Despite **being** very rich*. ~~Despite he was~~ — ошибка."
+  - q: "Some critics loved the film; others found it pretentious."
+    key: "WHEREAS"
+    stem: "Some critics loved the film, ___ pretentious."
+    answers: ["whereas others found it", "whereas others thought it", "whereas others considered it"]
+    explain: "**whereas** сопоставляет две противоположные позиции; формальнее, чем *while*."
+  - q: "It doesn't matter what you say; I'm not changing my mind."
+    key: "WHATEVER"
+    stem: "___ say, I'm not changing my mind."
+    answers: ["Whatever you may", "Whatever you might"]
+    explain: "**Whatever you (may) say** — уступка через *-ever*. Модальное *may* придаёт формальности и заполняет нужное число слов."
+  - q: "Although it is small, the device is extremely powerful."
+    key: "ALTHOUGH"
+    stem: "___ extremely powerful."
+    answers: ["Although small, the device is", "Although it is small, the device is", "Although it's small, the device is"]
+    explain: "Сокращённая уступка: **Although + прилагательное** без подлежащего и *be*, если подлежащее то же."
+  - q: "I know you're busy, but could you spare five minutes?"
+    key: "WHILE"
+    stem: "___, could you spare five minutes?"
+    answers: ["While I know you're busy", "While I know you are busy", "While I appreciate you're busy", "While I realise you're busy", "While I realize you're busy"]
+    explain: "**While** = «хотя, признаю, что…»: вежливо смягчает просьбу. *but* при этом уходит."
+  - q: "The weather was terrible, but the match went ahead."
+    key: "SPITE"
+    stem: "The match went ahead ___ weather."
+    answers: ["in spite of the terrible", "in spite of the awful", "in spite of the dreadful", "in spite of the appalling"]
+    explain: "**in spite of** + именная группа: прилагательное превращается в определение к *weather*."

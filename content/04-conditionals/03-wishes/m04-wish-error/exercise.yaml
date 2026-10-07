@@ -1,0 +1,37 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка. Исправь её и отправь предложение целиком."
+hints:
+  - "После wish время сдвигается на шаг назад."
+  - "После would rather — глагол без to."
+items:
+  - q: "I wish I would have more free time."
+    answers: ["I wish I had more free time.", "I wish I could have more free time."]
+    explain: "С *I* формула *wish + would* не работает. Сожаление о настоящем → **had**."
+  - q: "I wish I didn't eat so much last night."
+    answers: ["I wish I hadn't eaten so much last night."]
+    explain: "**last night** — прошлое → wish + **Past Perfect**: *hadn't eaten*."
+  - q: "If only I know the answer!"
+    answers: ["If only I knew the answer!"]
+    explain: "Нереальное настоящее → **Past Simple**: *knew*."
+  - q: "It's time we start working on the project."
+    answers: ["It's time we started working on the project.", "It's time to start working on the project."]
+    explain: "**It's time** + подлежащее + **Past Simple**: *we started*. Без подлежащего — *It's time to start*."
+  - q: "I'd rather you don't smoke in the car."
+    answers: ["I'd rather you didn't smoke in the car."]
+    explain: "**would rather** + другой человек + **Past Simple**: *you didn't smoke*."
+  - q: "I wish I can drive."
+    answers: ["I wish I could drive."]
+    explain: "*can* после *wish* превращается в **could**."
+  - q: "I'd rather to walk than take the bus."
+    answers: ["I'd rather walk than take the bus."]
+    explain: "После **would rather** — инфинитив без *to*."
+  - q: "I wish you will visit us more often."
+    answers: ["I wish you would visit us more often.", "I wish you visited us more often."]
+    explain: "Хотим, чтобы другой изменил поведение → wish + **would**. *will* после *wish* не ставится."
+  - q: "If only I had took the job in London."
+    answers: ["If only I had taken the job in London."]
+    explain: "Past Perfect = *had* + **третья форма**: *take – took – **taken***."
+  - q: "I wish I am on holiday right now."
+    answers: ["I wish I was on holiday right now.", "I wish I were on holiday right now."]
+    explain: "Нереальное настоящее → **were** или *was*."

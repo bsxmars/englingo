@@ -1,0 +1,50 @@
+title: "Перефразирование (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+
+  Пара *although ↔ despite / in spite of* — одна из самых частых в Part 4 экзамена B2 First.
+hints:
+  - "although + предложение → despite / in spite of + -ing или существительное."
+  - "despite + -ing → (even) though + подлежащее + глагол."
+items:
+  - q: "Although the weather was cold, we went for a swim."
+    key: "SPITE"
+    stem: "We went for a swim ___ weather."
+    answers: ["in spite of the cold"]
+    explain: "*Although + предложение* → **in spite of** + существительное: *in spite of the cold weather*."
+  - q: "She passed the exam although she hadn't studied much."
+    key: "DESPITE"
+    stem: "She passed the exam ___ much."
+    answers: ["despite not having studied", "despite not studying", "despite having not studied"]
+    explain: "Подлежащее в обеих частях одно → **despite + not + -ing**: *despite not having studied / not studying much*."
+  - q: "Despite being tired, Mark kept working."
+    key: "THOUGH"
+    stem: "Mark kept working ___ tired."
+    answers: ["even though he was", "though he was", "even though he felt", "though he felt"]
+    explain: "*Despite + -ing* → **(even) though** + подлежащее + глагол: *even though he was tired*."
+  - q: "The hotel was very expensive. However, the service was poor."
+    key: "ALTHOUGH"
+    stem: "___ expensive, the service was poor."
+    answers: ["although the hotel was very", "although it was very"]
+    explain: "Два предложения с *However* → одно с **although**: *Although the hotel was very expensive, the service was poor.*"
+  - q: "In spite of the fact that he's rich, he lives very modestly."
+    key: "DESPITE"
+    stem: "___ rich, he lives very modestly."
+    answers: ["despite being", "despite the fact he's", "despite the fact he is"]
+    explain: "Короче всего — **despite being** rich. *the fact that* тоже возможно, но с *that* получится шесть слов."
+  - q: "Tom is very sociable, but his sister is quite shy."
+    key: "WHEREAS"
+    stem: "Tom is very sociable ___ quite shy."
+    answers: ["whereas his sister is"]
+    explain: "Сравнение двух людей → **whereas**: *Tom is very sociable, whereas his sister is quite shy.*"
+  - q: "Although she earns a lot, she never saves any money."
+    key: "SPITE"
+    stem: "She never saves any money ___ a lot."
+    answers: ["in spite of earning"]
+    explain: "Подлежащее то же → **in spite of + -ing**: *in spite of earning a lot*."
+  - q: "The film got great reviews. Nevertheless, hardly anyone went to see it."
+    key: "EVEN"
+    stem: "Hardly anyone went to see the film ___ great reviews."
+    answers: ["even though it got", "even though it had", "even though it received"]
+    explain: "*Nevertheless* между двумя предложениями → **even though** внутри одного: *even though it got great reviews*."

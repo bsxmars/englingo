@@ -1,0 +1,64 @@
+title: "Найди ошибку: инверсия и cleft sentences"
+type: error
+intro: "В каждом предложении **одна** ошибка в фокусной конструкции. Исправь её и отправь предложение целиком."
+hints:
+  - "После отрицательного выражения в начале — вспомогательный глагол перед подлежащим."
+  - "Not until / Only when / Only after + придаточное: инверсия во второй части."
+  - "No sooner … than, Hardly … when. The reason … is that (не because). All I want (не all what)."
+items:
+  - q: "Not until the votes were counted we realised how close the election had been."
+    answers:
+      - "Not until the votes were counted did we realise how close the election had been."
+      - "Not until the votes were counted did we realize how close the election had been."
+    explain: "После *Not until + придаточное* нужна инверсия в главной части: **did we realise**."
+  - q: "Little I knew that the next twelve months would change everything."
+    answers: ["Little did I know that the next twelve months would change everything."]
+    explain: "*Little* в начале = «совсем не» → инверсия с *did*: **Little did I know**."
+  - q: "Only after she had left the room she realised her mistake."
+    answers:
+      - "Only after she had left the room did she realise her mistake."
+      - "Only after she had left the room did she realize her mistake."
+    explain: "*Only after + придаточное* → инверсия в главной части: **did she realise**. В самом придаточном порядок прямой."
+  - q: "No sooner had the plane landed when the passengers began to stand up."
+    answers:
+      - "No sooner had the plane landed than the passengers began to stand up."
+      - "Hardly had the plane landed when the passengers began to stand up."
+      - "Scarcely had the plane landed when the passengers began to stand up."
+    explain: "Пары фиксированные: **No sooner … than**, но *Hardly / Scarcely … when*. *No sooner* — сравнительная форма, поэтому *than*."
+  - q: "Here comes it at last — the moment we've all been waiting for."
+    answers: ["Here it comes at last — the moment we've all been waiting for."]
+    explain: "Инверсия после *Here / There* бывает только с существительным (*Here comes the bus*). С местоимением порядок прямой: **Here it comes**."
+  - q: "The reason why the project failed was because nobody took responsibility for it."
+    answers:
+      - "The reason why the project failed was that nobody took responsibility for it."
+      - "The reason the project failed was that nobody took responsibility for it."
+      - "The project failed because nobody took responsibility for it."
+    explain: "*reason* уже означает «причина», поэтому после *was* нужно **that**. *was because* — тавтология, в письменном тексте это ошибка."
+  - q: "It was her persistence what impressed the selection committee most."
+    answers:
+      - "It was her persistence that impressed the selection committee most."
+      - "It was her persistence which impressed the selection committee most."
+      - "What impressed the selection committee most was her persistence."
+    explain: "В it-cleft после фокуса — **that** (или *who* для людей). *What* начинает другой тип cleft: *What impressed them was…*"
+  - q: "So great the pressure was that several players broke down in tears."
+    answers: ["So great was the pressure that several players broke down in tears."]
+    explain: "*So + прилагательное* в начале → инверсия: **So great was the pressure that…** Глагол *be* перед подлежащим."
+  - q: "Not only she wrote the screenplay, but she also directed the film."
+    answers: ["Not only did she write the screenplay, but she also directed the film."]
+    explain: "*Not only* в начале → инверсия с *did* + начальная форма: **Not only did she write**."
+  - q: "Under no circumstances you should open this door without authorisation."
+    answers:
+      - "Under no circumstances should you open this door without authorisation."
+      - "Under no circumstances should you open this door without authorization."
+      - "Under no circumstances must you open this door without authorisation."
+      - "Under no circumstances must you open this door without authorization."
+    explain: "*Under no circumstances* → модальный глагол перед подлежащим: **should you open**."
+  - q: "Seldom we have seen such a dramatic shift in public opinion."
+    answers: ["Seldom have we seen such a dramatic shift in public opinion."]
+    explain: "*Seldom* в начале → вспомогательный перед подлежащим: **Seldom have we seen**."
+  - q: "All what I want from this holiday is a quiet weekend by the sea."
+    answers:
+      - "All I want from this holiday is a quiet weekend by the sea."
+      - "All that I want from this holiday is a quiet weekend by the sea."
+      - "What I want from this holiday is a quiet weekend by the sea."
+    explain: "После *All* относительное местоимение *what* не ставят: **All I want** или *All that I want*. Это частая калька с «всё, что»."

@@ -1,0 +1,43 @@
+title: "there, it и устойчивые конструкции"
+type: gap
+intro: "Впиши одно слово. Если в скобках дан глагол, поставь его в нужную форму."
+hints:
+  - "Сообщаем, что что-то есть или было, — there. Время, оценка, takes, worth, looks as if — it."
+  - "После worth, no point (in), no use — форма -ing."
+items:
+  - q: "___ seems to be something wrong with the Wi-Fi again."
+    answers: ["there"]
+    explain: "Сообщаем, что неполадка **существует** → *There seems to be*. Глагол *seem* согласуется с *something* после него."
+  - q: "___ took us almost three hours to get through passport control."
+    answers: ["it"]
+    explain: "Время на действие → **It took** + кто + время + *to*. Подлежащее *we* здесь невозможно: ~~We took three hours~~ звучит как «мы взяли»."
+  - q: "It's high time we ___ (go) home — it's after midnight."
+    answers: ["went"]
+    explain: "После **it's (high) time we** ставится Past Simple, хотя смысл — настоящее: «нам давно пора»."
+  - q: "Is this film any good? ~ Honestly, it's not worth ___ (watch)."
+    answers: ["watching"]
+    explain: "После **worth** — только *-ing*: *it's not worth watching*. ~~worth to watch~~ — ошибка."
+  - q: "___ used to be a bakery here, but now it's a phone shop."
+    answers: ["there"]
+    explain: "«Раньше здесь была пекарня» — сообщаем о существовании в прошлом → **There used to be**."
+  - q: "I find ___ really hard to sleep on night trains."
+    answers: ["it"]
+    explain: "*find* + **it** + прилагательное + *to*: пустое *it* стоит на месте дополнения, а настоящий смысл (*to sleep*) — в конце."
+  - q: "There's no point in ___ (apologise) now — the damage is done."
+    answers: ["apologising", "apologizing"]
+    explain: "**There's no point in** + *-ing*: после предлога *in* глагол всегда в форме *-ing*."
+  - q: "___ looks as if the meeting is going to run late."
+    answers: ["it"]
+    explain: "**It looks as if** — «похоже, что». Это оценка ситуации, а не сообщение о существовании, поэтому *it*."
+  - q: "There's bound to ___ a few bugs in the first release."
+    answers: ["be"]
+    explain: "**there is bound to be** = «наверняка будут». После *bound to* — инфинитив *be*, а *there* остаётся подлежащим."
+  - q: "Don't panic — there's no ___ to rewrite the whole report, just the summary."
+    answers: ["need"]
+    explain: "**there's no need to** + глагол = «нет необходимости». Сравни: *there's no point **in** + -ing*."
+  - q: "I think I've taken someone ___'s umbrella by mistake."
+    answers: ["else"]
+    explain: "«Чужой» = **someone else's**: апостроф ставится после *else*, а не после *someone*."
+  - q: "___ of my friends could come to the party, so I celebrated with my family."
+    answers: ["none"]
+    explain: "Перед **of** + *my / the / us* нужен **none**. ~~No one of my friends~~ — ошибка: *no one* и *nobody* без *of*."

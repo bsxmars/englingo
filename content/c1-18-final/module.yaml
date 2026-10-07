@@ -1,0 +1,12 @@
+title: "C1 · 18. Итоговый тест C1"
+level: c1
+book: book-advanced
+summary: "Проверяешь себя в формате C1 Advanced: тест по всем темам ступени, key word transformations, чтение с вопросами Part 5 и эссе — и сравниваешь результат с входным тестом C1."
+topics:
+  - "Тест по грамматике и лексике по всем 17 темам ступени"
+  - "Key word transformations (C1 Advanced Part 4)"
+  - "Чтение с вопросами в стиле C1 Advanced Part 5"
+  - "Эссе (C1 Advanced Writing Part 1)"
+sources:
+  - {title: "Cambridge C1 Advanced — формат экзамена", url: "https://www.cambridgeenglish.org/exams-and-tests/advanced/"}
+  - {title: "Oxford Practice Grammar Advanced — для повторения тем, которые проседают", url: "https://elt.oup.com/catalogue/items/global/grammar_vocabulary/oxford_practice_grammar/"}

@@ -1,0 +1,71 @@
+title: "Перефразирование: связка, предлог или союз (C1 Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы смысл совпал с первым. Используй **ключевое слово** без изменений и впиши от **трёх до шести слов** (включая ключевое).
+
+  Почти в каждом пункте союз нужно превратить в предлог (или наоборот): следи, что идёт после — существительное, -ing или целое предложение.
+hints:
+  - "despite / in spite of / owing to / on account of + существительное или -ing, но не подлежащее + глагол."
+  - "as a result, nevertheless, by contrast — связки: после них новое предложение."
+  - "instead of / in addition to + -ing."
+items:
+  - q: "Although the economy was slowing, the central bank raised interest rates."
+    key: "SPITE"
+    stem: "In ___ slowing, the central bank raised interest rates."
+    answers: ["spite of the economy being", "spite of the economy's being", "spite of the fact that the economy was", "spite of the fact the economy was"]
+    explain: "*although* — союз, после него полное предложение. **in spite of** — предлог: после него существительное + *-ing* (*the economy being*) или *the fact that* + предложение."
+  - q: "The match was called off because it had rained heavily all morning."
+    key: "RESULT"
+    stem: "It rained heavily all morning and, ___ match was called off."
+    answers: ["as a result the", "as a result of this the", "as a result of that the"]
+    explain: "**as a result** — связка, после неё самостоятельное предложение. *As a result of* без дополнения не бывает: ~~as a result of, the match…~~."
+  - q: "She didn't take a taxi; she walked all the way home."
+    key: "INSTEAD"
+    stem: "She walked all the way home ___ a taxi."
+    answers: ["instead of taking", "instead of getting", "instead of catching", "instead of hailing"]
+    explain: "Внутри предложения нужен предлог **instead of** + *-ing*. Одно *instead* без *of* ставится в конец или начало отдельного предложения."
+  - q: "Apart from teaching full-time, she also writes novels."
+    key: "ADDITION"
+    stem: "___ full-time, she also writes novels."
+    answers: ["In addition to teaching", "In addition to working"]
+    explain: "**in addition to** — сложный предлог, после него *-ing*. *To* здесь предлог, поэтому ~~in addition to teach~~ — ошибка."
+  - q: "Unlike her brother, she has never been interested in politics."
+    key: "CONTRAST"
+    stem: "___ brother, she has never been interested in politics."
+    answers: ["In contrast to her", "In contrast with her", "By contrast with her", "By contrast to her"]
+    explain: "Предлог **in contrast to / with** + существительное = *unlike*. Связка *In contrast,* без дополнения начинает новое предложение."
+  - q: "We had been warned about the traffic, but we still arrived late."
+    key: "DESPITE"
+    stem: "We arrived late ___ about the traffic."
+    answers: ["despite having been warned", "despite being warned", "despite the fact that we had been warned", "despite the fact we had been warned", "despite the warnings"]
+    explain: "**despite** + перфектный пассивный герундий *having been warned* точно передаёт «хотя нас предупредили заранее». ~~despite of~~ не бывает."
+  - q: "The flight was delayed because a technical fault was discovered."
+    key: "OWING"
+    stem: "The flight was delayed ___ technical fault."
+    answers: ["owing to the discovery of a", "owing to the detection of a", "owing to a"]
+    explain: "*because* + предложение → **owing to** + существительное. Глагол *was discovered* становится существительным *the discovery of* — типичный ход Part 4."
+  - q: "Even though he apologised, she refused to speak to him."
+    key: "NEVERTHELESS"
+    stem: "He apologised; ___ to speak to him."
+    answers: ["nevertheless she refused", "she nevertheless refused", "nevertheless she still refused", "she nevertheless still refused"]
+    explain: "Уступку внутри одного предложения меняем на два: после точки с запятой связка **nevertheless** — «тем не менее». Она может стоять и перед глаголом: *she nevertheless refused*."
+  - q: "Northern regions had record rainfall; the south, on the other hand, suffered a drought."
+    key: "WHEREAS"
+    stem: "Northern regions had record rainfall, ___ a drought."
+    answers: ["whereas the south suffered", "whereas the south had", "whereas the south experienced", "whereas the south endured", "whereas in the south there was"]
+    explain: "Связку двух предложений превращаем в союз **whereas** — он сопоставляет два разных объекта внутри одного предложения."
+  - q: "Owing to the drought, crop yields fell by a third."
+    key: "LED"
+    stem: "The drought ___ in crop yields."
+    answers: ["led to a fall of a third", "led to a drop of a third", "led to a one-third fall", "led to a one-third drop", "led to a decline of a third", "led to a third fall"]
+    explain: "Причину делаем подлежащим: **X led to** + существительное. Глагол *fell* превращается в существительное *a fall / a drop*."
+  - q: "Besides being expensive, the course is badly organised."
+    key: "ONLY"
+    stem: "The course is ___ also badly organised."
+    answers: ["not only expensive but", "not only expensive but it is"]
+    explain: "**not only … but also** соединяет два признака: *not only expensive but also badly organised*. Инверсия не нужна — *not only* стоит не в начале предложения."
+  - q: "All trains were cancelled because of the strike."
+    key: "ACCOUNT"
+    stem: "All trains were cancelled ___ strike."
+    answers: ["on account of the"]
+    explain: "**on account of** — формальный синоним *because of*, предлог + существительное. Не путай с *on no account* — «ни в коем случае»."

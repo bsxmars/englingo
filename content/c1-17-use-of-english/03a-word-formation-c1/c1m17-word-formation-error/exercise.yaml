@@ -1,0 +1,40 @@
+title: "Найди ошибку: производные слова"
+type: error
+intro: "В каждом предложении **одно** неверно образованное или неверно написанное производное слово. Исправь его и отправь предложение целиком. В Part 3 даже одна ошибка в букве стоит балла."
+hints:
+  - "Изменения корня: maintain → maintenance, pronounce → pronunciation, contradict → contradictory."
+  - "Приставка зависит от корня: impartial, irrelevant, insufficient."
+items:
+  - q: "The success of the scheme depends on the regular maintainance of the equipment."
+    answers: ["The success of the scheme depends on the regular maintenance of the equipment."]
+    explain: "*maintain* → **maintenance**: корень меняется (*-ain-* → *-en-*). Частая орфографическая ловушка."
+  - q: "Her pronounciation has improved enormously since she moved to Dublin."
+    answers: ["Her pronunciation has improved enormously since she moved to Dublin."]
+    explain: "*pronounce*, но **pronunciation** — без *o* во втором слоге."
+  - q: "The judge was praised for remaining completely unpartial throughout the trial."
+    answers: ["The judge was praised for remaining completely impartial throughout the trial."]
+    explain: "Перед *p* отрицательная приставка — **im-**: **impartial** — «беспристрастный»."
+  - q: "It is undeniably that the policy has had some positive effects."
+    answers: ["It is undeniable that the policy has had some positive effects."]
+    explain: "После *It is* — прилагательное: **undeniable**. Наречие *undeniably* стоит при глаголе или прилагательном: *undeniably true*."
+  - q: "Most of the evidence he presented was entirely irrelevent to the case."
+    answers: ["Most of the evidence he presented was entirely irrelevant to the case."]
+    explain: "**irrelevant** — с *a*: *relevant → relevance → irrelevant*."
+  - q: "The two reports are full of contradictary statements about the cause of the accident."
+    answers: ["The two reports are full of contradictory statements about the cause of the accident."]
+    explain: "*contradict* → **contradictory** (суффикс *-ory*, как в *introductory*)."
+  - q: "The dispute should be settled by an uninterested third party with no stake in the outcome."
+    answers: ["The dispute should be settled by a disinterested third party with no stake in the outcome."]
+    explain: "«Беспристрастный, не имеющий личной выгоды» — **disinterested**. *uninterested* — «равнодушный, незаинтересованный». Меняется и артикль: *a disinterested*."
+  - q: "The project was eventually abandoned because of insufficiant funding."
+    answers: ["The project was eventually abandoned because of insufficient funding."]
+    explain: "*suffice* → *sufficient* → **insufficient** — с *-ent*."
+  - q: "She is arguably the most influencial economist of her generation."
+    answers: ["She is arguably the most influential economist of her generation."]
+    explain: "*influence* → **influential**: *-ce* меняется на *-tial*, как *essence → essential*."
+  - q: "The scheme was introduced for purely strategical reasons, not out of any real concern for residents."
+    answers: ["The scheme was introduced for purely strategic reasons, not out of any real concern for residents."]
+    explain: "Стандартное прилагательное — **strategic**. Форма *strategical* почти не употребляется и на экзамене не засчитывается."
+  - q: "Her latest book offers a wholy original take on a very familiar subject."
+    answers: ["Her latest book offers a wholly original take on a very familiar subject."]
+    explain: "*whole* → **wholly**: *e* выпадает, *l* удваивается. Похожие исключения: *true → truly*, *due → duly*."

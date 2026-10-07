@@ -1,0 +1,132 @@
+- id: c1m05-classify-identify
+  lesson: c1-05-articles-nouns/01-articles-meaning
+  q: "Какая операция стоит за **a/an** и за **the**?"
+  a: "**a/an** — классифицирует («что это за тип»): *That's a Picasso.* **the** — идентифицирует («ты знаешь, какой»): *the film he made in Lisbon*."
+- id: c1m05-generic-three
+  lesson: c1-05-articles-nouns/01-articles-meaning
+  q: "Три способа сказать о тиграх вообще — чем они различаются?"
+  a: "*Tigers are…* — нейтрально, большинство; *The tiger is…* — вид целиком, формально; *A tiger can…* — любой один представитель."
+- id: c1m05-generic-extinct
+  lesson: c1-05-articles-nouns/01-articles-meaning
+  q: "Найди ошибку: *A dodo was hunted to extinction.*"
+  a: "Свойство вида не сочетается с *a*: ***The dodo** was* / ***Dodos** were hunted to extinction.*"
+- id: c1m05-the-adjective
+  lesson: c1-05-articles-nouns/01-articles-meaning
+  q: "Переведи: «Пожилые часто остаются без внимания»."
+  a: "***The elderly are** often overlooked.* — *the* + прилагательное, глагол во мн. ч."
+- id: c1m05-invention
+  lesson: c1-05-articles-nouns/01-articles-meaning
+  q: "**the**, **a** или ничего: *Who invented ___ telescope?*"
+  a: "**the** — изобретение как явление (generic *the*)."
+- id: c1m05-a-or-one
+  lesson: c1-05-articles-nouns/01-articles-meaning
+  q: "Когда **one**, а не **a/an**?"
+  a: "Подчёркнутое число (*only one more*), точные числа (*one thousand, two hundred*), момент в рассказе (*One evening…*), *one… the other*."
+- id: c1m05-abstract-a
+  lesson: c1-05-articles-nouns/01-articles-meaning
+  q: "Переведи: «Она отлично знает рынок» (формально)."
+  a: "*She has **a thorough knowledge of** the market.* — абстрактное с прилагательным и *of* → *a*."
+- id: c1m05-role-zero
+  lesson: c1-05-articles-nouns/01-articles-meaning
+  q: "Почему без артикля: *She was elected chair of the committee*?"
+  a: "После *elect, appoint, make, become* и *as* уникальная должность называется как функция — без артикля."
+- id: c1m05-experience
+  lesson: c1-05-articles-nouns/02-nouns-agreement
+  q: "**experience** или **an experience**: *Living in Lagos was ___ I'll never forget.*"
+  a: "**an experience** — отдельный случай. *experience* без артикля — накопленный опыт."
+- id: c1m05-partitives
+  lesson: c1-05-articles-nouns/02-nouns-agreement
+  q: "Как «посчитать»: luck, applause, flu, news?"
+  a: "*a stroke of luck, a round of applause, a bout of flu, an item of news.*"
+- id: c1m05-applause-error
+  lesson: c1-05-articles-nouns/02-nouns-agreement
+  q: "Найди ошибку: *She was greeted with a warm applause.*"
+  a: "*applause* неисчисляемо: *with **warm applause*** / *with **a warm round of applause***."
+- id: c1m05-pair-of
+  lesson: c1-05-articles-nouns/02-nouns-agreement
+  q: "**is** или **are**: *This pair of binoculars ___ expensive.*"
+  a: "**is** — подлежащее *pair*. Но *These binoculars **are**…*"
+- id: c1m05-group-consistent
+  lesson: c1-05-articles-nouns/02-nouns-agreement
+  q: "Найди ошибку: *The jury have reached its verdict.*"
+  a: "Не смешивай: *The jury **has** reached **its** verdict* или *The jury **have** reached **their** verdict*."
+- id: c1m05-number-of
+  lesson: c1-05-articles-nouns/02-nouns-agreement
+  q: "**a number of** и **the number of** — какой глагол?"
+  a: "*A number of complaints **have**…* (несколько → мн. ч.); *The number of complaints **has**…* (количество → ед. ч.)."
+- id: c1m05-ics
+  lesson: c1-05-articles-nouns/02-nouns-agreement
+  q: "*Statistics is* или *statistics are*?"
+  a: "Наука → **is**: *Statistics is a hard course.* Данные → **are**: *The statistics are alarming.* Так же *politics*."
+- id: c1m05-premises
+  lesson: c1-05-articles-nouns/02-nouns-agreement
+  q: "*premise* или *premises*: «Курение на территории запрещено»."
+  a: "*Smoking is not permitted on the **premises**.* *premise* — посылка рассуждения."
+- id: c1m05-ten-minute
+  lesson: c1-05-articles-nouns/03-discourse-possessives
+  q: "Найди ошибку: *It's a ten-minutes walk from here.*"
+  a: "Первая часть compound — в ед. ч.: *a **ten-minute** walk*. Так же *a five-year plan, a shoe shop*."
+- id: c1m05-possessive-of-compound
+  lesson: c1-05-articles-nouns/03-discourse-possessives
+  q: "Когда 's, когда of, когда compound?"
+  a: "**'s** — чей (люди, организации, время): *the board's decision*. **of** — части и процессы: *the end of the film*. **compound** — какой: *a coffee cup*."
+- id: c1m05-double-possessive
+  lesson: c1-05-articles-nouns/03-discourse-possessives
+  q: "Переведи: «Она одна из подруг моей жены»."
+  a: "*She's **a friend of my wife's**.*"
+- id: c1m05-label-nouns
+  lesson: c1-05-articles-nouns/03-discourse-possessives
+  q: "Продолжи новость, не повторяя слово: *The government raised fuel duty by 10%. ___ angered hauliers.*"
+  a: "***The move** angered hauliers.* — существительное-ярлык с *the* суммирует предыдущее предложение (*the decision, the increase*)."
+- id: c1m05-associative
+  lesson: c1-05-articles-nouns/03-discourse-possessives
+  q: "Почему *the*: *We rented a cottage, but **the** roof leaked*?"
+  a: "Ассоциативная связь: у коттеджа одна крыша, читатель её «опознаёт», хотя она не упоминалась."
+- id: c1m05-sentient
+  lesson: c1-05-articles-nouns/04-reading
+  q: "Что значит **sentient** и **under way**?"
+  a: "*sentient* — способный чувствовать; *under way* — уже идущий: *Plans are already under way.*"
+- id: c1m05-essay-choice
+  lesson: c1-05-articles-nouns/05-writing
+  q: "Что обязательно в выводе эссе C1 Advanced, Part 1?"
+  a: "Явный выбор одного из двух пунктов с обоснованием: *On balance, I would argue that… is the more effective measure, because…*"
+- id: c1m05-names-the
+  lesson: c1-05-articles-nouns/01a-the-or-zero-article
+  q: "Какие названия берут **the**: *Lake Baikal, Volga, Alps, Netherlands, Mount Elbrus*?"
+  a: "**the Volga, the Alps, the Netherlands** — реки, цепи, множественные названия. *Lake Baikal, Mount Elbrus* — одиночные имена, без артикля."
+- id: c1m05-of-name-the
+  lesson: c1-05-articles-nouns/01a-the-or-zero-article
+  q: "*Edinburgh University* или *University of Edinburgh* — где артикль?"
+  a: "***the** University of Edinburgh* — название с *of* берёт *the*; *Edinburgh University* — без артикля."
+- id: c1m05-prison-the-prison
+  lesson: c1-05-articles-nouns/01a-the-or-zero-article
+  q: "*go to prison* и *go to the prison* — разница?"
+  a: "*go to **prison*** — сесть в тюрьму (функция); *go to **the prison*** — прийти в здание, например на свидание."
+- id: c1m05-by-car
+  lesson: c1-05-articles-nouns/01a-the-or-zero-article
+  q: "Найди ошибку: *We went there by the car.*"
+  a: "*by* + транспорт — без артикля: ***by car***. С определителем — другой предлог: *in the car, in my car*."
+- id: c1m05-most-people
+  lesson: c1-05-articles-nouns/01a-the-or-zero-article
+  q: "Найди ошибку: *The most people agree with the plan.*"
+  a: "***Most people** agree* — без *the*. *the most* — только превосходная степень: *the most expensive*."
+- id: c1m05-pair-formulas
+  lesson: c1-05-articles-nouns/01a-the-or-zero-article
+  q: "Переведи: «Они шли рука об руку», «Мы встретились лицом к лицу»."
+  a: "*They walked **arm in arm**. We met **face to face**.* — парные формулы без артиклей."
+- id: c1m05-headlines
+  lesson: c1-05-articles-nouns/01a-the-or-zero-article
+  q: "Почему в заголовке *Minister resigns over report* нет артиклей?"
+  a: "Заголовки, инструкции и заметки систематически опускают артикли — это регистр. В тексте статьи: *The minister resigned over a report…*"
+- id: c1m05-command-of
+  lesson: c1-05-articles-nouns/01-articles-meaning
+  q: "Перефразируй с **COMMAND**: *She speaks Japanese extremely well.*"
+  a: "*She has **an excellent command of** Japanese.* — абстрактное существительное с прилагательным и *of* берёт *a/an*."
+- id: c1m05-stroke-of-luck
+  lesson: c1-05-articles-nouns/02-nouns-agreement
+  q: "Как сказать «одна удача», «одна вспышка гнева», «один раунд аплодисментов»?"
+  a: "*a **stroke** of luck, a **fit** of rage, a **round** of applause* — partitives для неисчисляемых."
+- id: c1m05-habit-of-his
+  lesson: c1-05-articles-nouns/03-discourse-possessives
+  q: "Найди ошибку: *That's a habit of him that annoys me.*"
+  a: "Double possessive — притяжательная форма: *a habit **of his***, как *a friend of mine*."

@@ -1,0 +1,40 @@
+title: "Найди и исправь ошибку: инверсия"
+type: error
+intro: "В каждом предложении **одна** ошибка: не хватает инверсии, она стоит не в той части или появилась там, где не нужна. Исправь предложение целиком."
+hints:
+  - "Not until / Only when: инверсия — в главной части, а не в придаточном."
+  - "Если отрицание относится к подлежащему (Hardly anyone, Only Tom) — инверсии нет."
+items:
+  - q: "Not until I checked the logs I found the bug."
+    answers: ["Not until I checked the logs did I find the bug."]
+    explain: "После придаточного с *Not until* главная часть идёт с инверсией: **did I find**."
+  - q: "Only when the manager arrived we could start."
+    answers: ["Only when the manager arrived could we start."]
+    explain: "Придаточное после *Only when* сохраняет обычный порядок, а главная часть требует инверсии: **could we start**."
+  - q: "At no time the passengers were in danger."
+    answers: ["At no time were the passengers in danger."]
+    explain: "*At no time* — отрицательное выражение в начале → инверсия: **were the passengers**."
+  - q: "In no time were we back on the road."
+    answers: ["In no time we were back on the road.", "In no time, we were back on the road."]
+    explain: "*In no time* = «очень быстро», это не отрицание, поэтому инверсия не нужна: **we were**."
+  - q: "Hadn't it been for her advice, I would have made a big mistake."
+    answers: ["Had it not been for her advice, I would have made a big mistake.", "Had it not been for her advice, I'd have made a big mistake."]
+    explain: "В условной инверсии отрицание не сокращается и стоит после подлежащего: **Had it not been for**."
+  - q: "Should you will need a taxi, the hotel can book one for you."
+    answers: ["Should you need a taxi, the hotel can book one for you."]
+    explain: "После *Should you* — глагол в начальной форме: **Should you need**. *will* здесь лишнее."
+  - q: "Little he knew that his phone was being tracked."
+    answers: ["Little did he know that his phone was being tracked."]
+    explain: "После *Little* в значении «и не подозревал» — инверсия с *did*: **Little did he know**."
+  - q: "Seldom she has been so happy."
+    answers: ["Seldom has she been so happy."]
+    explain: "После *Seldom* в начале — вспомогательный перед подлежащим: **has she been**."
+  - q: "So tired I was that I fell asleep on the train."
+    answers: ["So tired was I that I fell asleep on the train.", "I was so tired that I fell asleep on the train."]
+    explain: "*So + прилагательное* в начале → инверсия: **So tired was I that…** (или нейтрально *I was so tired that…*)."
+  - q: "Not only the app is free, but it also works offline."
+    answers: ["Not only is the app free, but it also works offline."]
+    explain: "После *Not only* в начале — инверсия: **is the app free**. Во второй части порядок обычный."
+  - q: "Only after I had signed the contract did I noticed the extra fee."
+    answers: ["Only after I had signed the contract did I notice the extra fee."]
+    explain: "После *did* — глагол в **начальной форме**: *did I notice*, а не *noticed*."

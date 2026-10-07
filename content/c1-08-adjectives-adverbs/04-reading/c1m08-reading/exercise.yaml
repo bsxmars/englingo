@@ -1,0 +1,92 @@
+title: "The five-star problem"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. Вопросы с вариантами — в стиле C1 Advanced, Part 5; в остальных впиши слово или выражение из текста."
+hints:
+  - "Вопросы идут в порядке текста."
+  - "Ищи оценочные наречия автора: admittedly, arguably, presumably, understandably — они показывают его позицию."
+text: |
+  ## The five-star problem: why online ratings have stopped meaning anything
+
+  Scroll through the reviews of almost any product online and you will find yourself in a strangely cheerful world. Kettles are "absolutely amazing", phone cases are "life-changing", and a moderately priced pair of socks is, according to one enthusiastic customer, "the best purchase I have ever made". Ratings cluster stubbornly around four and a half stars. On some platforms, anything below four is treated not as a fair verdict but as a quiet warning sign.
+
+  Economists have a name for this: rating inflation. Just as money loses value when too much of it is printed, praise loses value when it is handed out too freely. If nearly every restaurant in a city is rated 4.6 or higher, then the number tells you remarkably little. A genuinely outstanding bistro and a perfectly adequate one become, statistically speaking, indistinguishable.
+
+  The causes are surprisingly mundane. Most people who bother to leave a review have either had an unusually good experience or an unusually bad one; the vast, unremarkable middle rarely writes anything at all. Platforms, for their part, have little incentive to discourage generosity, since happier-looking listings sell more. And many drivers, hosts and freelancers now depend so heavily on their scores that customers feel guilty giving anything less than full marks. A three-star rating, which ought logically to mean "fine", is increasingly read as an insult. On one well-known ride-hailing app, drivers whose average fell below 4.6 were widely reported to risk losing access to the platform altogether, which, understandably, made passengers reluctant to be honest.
+
+  Language has followed the numbers. Words that once carried real weight have been worn smooth by overuse. "Awesome" used to describe the Grand Canyon; now it describes a sandwich. When everything is "incredible", the word is effectively meaningless, and reviewers searching for a way to signal genuine enthusiasm are forced into ever more extravagant territory: "utterly transformative", "a total game-changer". The result is a kind of linguistic arms race in which each new superlative is slightly less convincing than the last.
+
+  Admittedly, not everyone agrees that this is a problem. Some researchers argue that experienced shoppers have simply recalibrated. They no longer read 4.5 as "very good" but as "acceptable", and they treat anything under four with the suspicion it presumably deserves. On this view, the scale has not broken; it has merely shifted upwards, like a ruler with the first few centimetres sawn off. Shoppers, these optimists suggest, are far more sophisticated readers of reviews than critics give them credit for.
+
+  Yet a compressed scale is still a less useful one. When nearly all the scores fall between 4.3 and 4.9, tiny differences take on exaggerated importance, and a single disgruntled customer can drag an excellent small business below an invisible threshold. Meanwhile, the detailed, balanced review — the kind that explains exactly what worked, what did not and for whom the product is best suited — is buried beneath hundreds of one-line exclamations. Arguably, it is these thoughtful reviews, rather than the stars themselves, that contain the information shoppers actually need.
+
+  Some platforms have begun to experiment. A few now ask reviewers to compare a product with similar ones they have used, rather than rate it in isolation. Others show the distribution of scores instead of a single average, so that a polarising book with many fives and many ones no longer looks identical to a consistently mediocre one. A handful of travel sites have even tried asking guests to describe their stay in a sentence before they are allowed to award any stars at all, on the reasonable assumption that the act of writing slows people down.
+
+  None of these solutions is perfect, and none is likely to restore the five-point scale to its original meaning. But they point in a sensible direction. The most useful review, after all, is not the most enthusiastic one; it is the most specific. "The kettle boils noticeably faster than my old one, but the lid is fiddly and the handle gets uncomfortably hot" will never go viral. It is, however, far more helpful than another breathless declaration that this is the greatest kettle ever made.
+
+  Perhaps the best thing any of us can do is to write the kind of review we would want to read: calm, precise and honest. Five stars should be a rare and meaningful compliment, not a reflex. And if that feels harsh, it is worth remembering that a scale on which everyone wins is, in the end, a scale on which nobody can be told apart.
+items:
+  - q: "What is the writer's tone in the first paragraph?"
+    options:
+      - "Gently mocking the exaggerated enthusiasm of online reviewers."
+      - "Openly angry about dishonest companies that fake their reviews."
+      - "Nostalgic for a time when shopping was simpler."
+      - "Neutral, simply listing typical examples of online feedback."
+    answer: 0
+    explain: "*strangely cheerful world*, «жизнеизменяющие» чехлы для телефона и носки как «лучшая покупка в жизни» — лёгкая ирония над преувеличениями. О подделке отзывов и гневе речи нет."
+  - q: "What point does the comparison with money in paragraph 2 illustrate?"
+    options:
+      - "Highly rated products tend to be more expensive."
+      - "Praise becomes less informative the more generously it is given."
+      - "Restaurants inflate their prices to match their ratings."
+      - "Economists are the best people to judge online reviews."
+    answer: 1
+    explain: "*praise loses value when it is handed out too freely* — как деньги обесцениваются при избыточной печати. Отсюда вывод: высокий рейтинг почти ничего не сообщает."
+  - q: "According to paragraph 3, why are average experiences poorly represented in reviews?"
+    options:
+      - "Platforms delete reviews that are neither positive nor negative."
+      - "Customers are afraid of being identified by the businesses."
+      - "People whose experience was unremarkable seldom bother to write."
+      - "Average experiences are much rarer than extreme ones."
+    answer: 2
+    explain: "*the vast, unremarkable middle rarely writes anything at all*. Платформы, по словам автора, просто не заинтересованы мешать щедрости, но ничего не удаляют."
+  - q: "What does the writer suggest by saying that certain words 'have been worn smooth by overuse'?"
+    options:
+      - "They have become more polite over time."
+      - "They have lost their force because they are used constantly."
+      - "They are now used mainly by younger people."
+      - "They have acquired new, more precise meanings."
+    answer: 1
+    explain: "Метафора стёртой монеты: слово *awesome* когда-то описывало Гранд-Каньон, а теперь — бутерброд. От частого употребления слова потеряли силу."
+  - q: "How does the writer present the view of the researchers in paragraph 5?"
+    options:
+      - "As a convincing argument that settles the debate."
+      - "As a fair counter-argument that the writer goes on to qualify."
+      - "As a naive view that is not worth serious attention."
+      - "As the official position of the review platforms."
+    answer: 1
+    explain: "Абзац начинается с *Admittedly* — автор честно излагает противоположную точку зрения, а следующий абзац открывается *Yet a compressed scale is still a less useful one*, то есть он её уточняет и частично оспаривает."
+  - q: "According to the writer, one consequence of a compressed rating scale is that"
+    options:
+      - "businesses stop asking customers for feedback."
+      - "shoppers ignore the scores and read only the reviews."
+      - "a single unhappy customer can do disproportionate damage."
+      - "detailed reviews become more popular than short ones."
+    answer: 2
+    explain: "*a single disgruntled customer can drag an excellent small business below an invisible threshold*. Подробные отзывы, наоборот, тонут в коротких восклицаниях."
+  - q: "What is the writer's attitude to the platforms' experiments described in paragraph 7?"
+    options:
+      - "Dismissive: they are marketing tricks."
+      - "Cautiously approving: they are imperfect but promising."
+      - "Enthusiastic: they will fully restore the meaning of ratings."
+      - "Indifferent: the writer only reports them without comment."
+    answer: 1
+    explain: "*None of these solutions is perfect… But they point in a sensible direction* — осторожное одобрение."
+  - q: "Find a compound adjective in paragraph 3 that means 'familiar to many people'."
+    answers: ["well-known", "well known"]
+    explain: "*one **well-known** ride-hailing app* — compound adjective *adv + V3*, перед существительным пишется через дефис."
+  - q: "Find a word in paragraph 6 that means 'annoyed and dissatisfied'."
+    answers: ["disgruntled"]
+    explain: "*a single **disgruntled** customer* — недовольный, раздражённый клиент."
+  - q: "Find the comment adverb in paragraph 6 that the writer uses to make a strong claim while admitting that others might disagree."
+    answers: ["arguably"]
+    explain: "***Arguably**, it is these thoughtful reviews… that contain the information shoppers actually need* — смелое, но осторожно поданное утверждение."

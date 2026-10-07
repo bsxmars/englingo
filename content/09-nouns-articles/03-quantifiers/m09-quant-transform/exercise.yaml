@@ -1,0 +1,53 @@
+title: "Перефразирование (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "not … any = no; not one of = none of; not … much = little."
+  - "Два человека или предмета → neither … nor / either of."
+items:
+  - q: "There isn't any sugar left."
+    key: "NO"
+    stem: "There ___ left."
+    answers: ["is no sugar"]
+    explain: "*isn't any* = *is **no***: *There is no sugar left*. Отрицание остаётся одно — в слове *no*."
+  - q: "Not one of the guests arrived on time."
+    key: "NONE"
+    stem: "___ arrived on time."
+    answers: ["None of the guests"]
+    explain: "*Not one of* = **None of** + *the guests*. Гостей больше двух, поэтому *none*, а не *neither*."
+  - q: "Tom doesn't eat meat, and Anna doesn't either."
+    key: "NEITHER"
+    stem: "___ eats meat."
+    answers: ["Neither Tom nor Anna", "Neither Anna nor Tom"]
+    explain: "Ни один из двух → **Neither Tom nor Anna**. После *neither … nor* глагол уже утвердительный: *eats*, не *doesn't eat*."
+  - q: "I have very little free time."
+    key: "MUCH"
+    stem: "I ___ free time."
+    answers: ["don't have much", "haven't got much", "don't have very much", "haven't got very much"]
+    explain: "*very little* = *not much*: **I don't have much free time**. *much* естественно звучит именно в отрицании."
+  - q: "Only a small number of people knew the answer."
+    key: "FEW"
+    stem: "Very ___ the answer."
+    answers: ["few people knew"]
+    explain: "«Совсем немногие» → **Very few people** knew. *few* без артикля подчёркивает, что людей мало."
+  - q: "All the rooms in the hotel have a balcony."
+    key: "EVERY"
+    stem: "___ in the hotel has a balcony."
+    answers: ["Every room", "Every single room"]
+    explain: "*All the rooms have* = **Every room has**: после *every* — единственное число и *has*."
+  - q: "Both restaurants are fine with me — I don't mind which one we choose."
+    key: "EITHER"
+    stem: "I'm happy with ___ restaurants."
+    answers: ["either of the", "either of these", "either of those", "either of the two", "either of these two", "either of those two"]
+    explain: "«Любой из двух» → **either of the** restaurants. После *either of* нужен определитель (*the, these*)."
+  - q: "Each of the players received a medal."
+    key: "EVERY"
+    stem: "___ the players received a medal."
+    answers: ["Every one of", "Every single one of"]
+    explain: "~~Every of~~ невозможно. С *of* нужно **every one of**: *Every one of the players received a medal*."
+  - q: "We didn't go anywhere at the weekend."
+    key: "NOWHERE"
+    stem: "We ___ at the weekend."
+    answers: ["went nowhere"]
+    explain: "*didn't go anywhere* = **went nowhere**. Отрицание переходит в *nowhere*, глагол становится утвердительным."

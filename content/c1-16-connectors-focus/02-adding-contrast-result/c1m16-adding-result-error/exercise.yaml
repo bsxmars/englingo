@@ -1,0 +1,41 @@
+title: "Найди ошибку: связка не та по смыслу"
+type: error
+intro: "В каждом предложении **одна** ошибка: связка, которая не подходит по смыслу или по грамматике, либо неверная форма рядом с ней. Исправь и отправь предложение целиком."
+hints:
+  - "on the contrary опровергает сказанное; on the other hand — вторая сторона того же вопроса."
+  - "thereby + -ing; meanwhile — наречие, а не союз."
+  - "actually ≠ «актуально, в настоящее время»."
+items:
+  - q: "The talks were not a failure. On the other hand, they exceeded all expectations."
+    answers: ["The talks were not a failure. On the contrary, they exceeded all expectations.", "The talks were not a failure. Quite the contrary, they exceeded all expectations."]
+    explain: "Второе предложение **опровергает** первое («вовсе не провал — наоборот»): нужна **On the contrary**. *On the other hand* добавляет другую сторону, а не отрицает."
+  - q: "City life is exciting. On the contrary, it can be exhausting."
+    answers: ["City life is exciting. On the other hand, it can be exhausting.", "City life is exciting. At the same time, it can be exhausting.", "City life is exciting. However, it can be exhausting."]
+    explain: "Здесь ничего не опровергается — это вторая сторона того же вопроса: **On the other hand**. *On the contrary* обычно идёт после отрицания."
+  - q: "The firm moved its servers to the cloud, thereby it cut its costs by half."
+    answers: ["The firm moved its servers to the cloud, thereby cutting its costs by half.", "The firm moved its servers to the cloud and thereby cut its costs by half."]
+    explain: "**thereby** не начинает новое предложение после запятой: либо *thereby + -ing*, либо *and thereby + глагол*."
+  - q: "Sales rose sharply in spring. Conversely, they kept rising throughout the summer."
+    answers: ["Sales rose sharply in spring. Moreover, they kept rising throughout the summer.", "Sales rose sharply in spring. Furthermore, they kept rising throughout the summer.", "Sales rose sharply in spring. Indeed, they kept rising throughout the summer.", "Sales rose sharply in spring. What is more, they kept rising throughout the summer.", "Sales rose sharply in spring. What's more, they kept rising throughout the summer.", "Sales rose sharply in spring. In addition, they kept rising throughout the summer.", "Sales rose sharply in spring. And they kept rising throughout the summer."]
+    explain: "**conversely** = «и наоборот», а тенденция та же. Нужна связка добавления: *Moreover / Furthermore / Indeed*."
+  - q: "Firstly, the plan is too expensive. Secondly, it is unpopular. At last, it would take years to implement."
+    answers: ["Firstly, the plan is too expensive. Secondly, it is unpopular. Finally, it would take years to implement.", "Firstly, the plan is too expensive. Secondly, it is unpopular. Lastly, it would take years to implement.", "Firstly, the plan is too expensive. Secondly, it is unpopular. Thirdly, it would take years to implement.", "Firstly, the plan is too expensive. Secondly, it is unpopular. Last but not least, it would take years to implement."]
+    explain: "**at last** = «наконец-то» после долгого ожидания. Последний пункт перечня вводит **Finally** или **Lastly**."
+  - q: "We had dinner at the hotel and after we went for a walk along the river."
+    answers: ["We had dinner at the hotel and afterwards we went for a walk along the river.", "We had dinner at the hotel and after that we went for a walk along the river.", "We had dinner at the hotel and then we went for a walk along the river.", "We had dinner at the hotel and afterward we went for a walk along the river."]
+    explain: "*after* — предлог или союз, ему нужно продолжение (*after dinner*). Наречие «потом» — **afterwards** или **after that / then**."
+  - q: "In the end of the meeting, the chair thanked everyone for coming."
+    answers: ["At the end of the meeting, the chair thanked everyone for coming."]
+    explain: "**at the end of** + событие — «в конце (чего-то)». **in the end** без *of* — «в конце концов, в итоге»."
+  - q: "Meanwhile the jury was deliberating, reporters gathered outside the court."
+    answers: ["While the jury was deliberating, reporters gathered outside the court.", "As the jury was deliberating, reporters gathered outside the court.", "Whilst the jury was deliberating, reporters gathered outside the court."]
+    explain: "**meanwhile** — наречие-связка («тем временем»), оно не соединяет придаточное с главным. Нужен союз **while**."
+  - q: "Actually, the company employs 300 people, but it plans to double that by 2030."
+    answers: ["Currently, the company employs 300 people, but it plans to double that by 2030.", "At present, the company employs 300 people, but it plans to double that by 2030.", "At the moment, the company employs 300 people, but it plans to double that by 2030.", "Presently, the company employs 300 people, but it plans to double that by 2030."]
+    explain: "**actually** = «на самом деле», поправляет ожидание. «В настоящее время» — **currently / at present**. Ложный друг переводчика."
+  - q: "We can't afford a new car. Besides of that, we don't really need one."
+    answers: ["We can't afford a new car. Besides, we don't really need one.", "We can't afford a new car. Besides that, we don't really need one.", "We can't afford a new car. Apart from that, we don't really need one."]
+    explain: "**besides** как связка — без *of*: *Besides, …* или *Besides that, …*. Предлог *besides* тоже без *of*: *besides the cost*."
+  - q: "The results were disappointing; even though, the team decided to continue the trial."
+    answers: ["The results were disappointing; even so, the team decided to continue the trial.", "The results were disappointing; nevertheless, the team decided to continue the trial.", "The results were disappointing; nonetheless, the team decided to continue the trial.", "The results were disappointing; however, the team decided to continue the trial.", "The results were disappointing; all the same, the team decided to continue the trial."]
+    explain: "*even though* — союз, ему нужно придаточное. Связка «и всё же» — **even so** или *nevertheless*."

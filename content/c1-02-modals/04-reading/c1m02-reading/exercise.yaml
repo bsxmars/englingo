@@ -1,0 +1,82 @@
+title: "In praise of 'may'"
+type: reading
+intro: "Прочитай эссе и ответь на вопросы. Вопросы с вариантами — в стиле C1 Advanced Part 5; в остальных впиши одно слово или короткую фразу из текста."
+hints:
+  - "Вопросы идут в порядке текста."
+  - "Сравнивай степень уверенности в тексте и в варианте ответа: may ≠ proves, must have ≠ possibly."
+text: |
+  ## In praise of 'may'
+
+  Anyone who has read a scientific paper will have noticed that researchers rarely say anything outright. Coffee *may* lower the risk of liver disease; the decline in bee populations *might* be linked to certain pesticides; the results *could* suggest a role for gut bacteria in mood. To the casual reader, such language can seem evasive, even faintly cowardly. Surely, after years of work and millions in funding, someone ought to be able to tell us whether coffee is good for us or not?
+
+  The frustration is understandable, but it rests on a misunderstanding of what a single study can do. A well-designed experiment does not prove a claim; it makes the claim more or less likely to be true. The modal verbs that so irritate readers are not a sign of weakness but a precise instrument for measuring confidence. When a researcher writes that a drug *may* reduce symptoms, she is telling you, quite accurately, that the evidence points in that direction but has not yet been borne out by larger trials. Had she written that the drug *reduces* symptoms, she would have been claiming something she cannot know.
+
+  The trouble begins when this carefully calibrated language leaves the laboratory. Journalists, working to tight deadlines and competing for attention, are under constant pressure to turn tentative findings into headline-grabbing claims. 'Coffee may lower risk' becomes 'Coffee protects your liver', and the caveats that the original authors so painstakingly included are quietly dropped. Nor are journalists the only culprits. University press offices, keen to publicise their institutions, have been found to overstate results with surprising regularity. One analysis of press releases concluded that a substantial proportion contained exaggerations that could not have come from the papers themselves.
+
+  It would be easy to dismiss all this as harmless. A reader who drinks an extra cup of coffee on the strength of a headline is unlikely to come to much harm. But the cumulative effect is more corrosive than it might first appear. When this week's miracle food is next week's health hazard, the public draws a perfectly reasonable conclusion: scientists keep changing their minds, so why should anyone listen to them? In fact, the scientists may not have changed their minds at all. What has changed is the headline, which was at odds with the evidence from the very start.
+
+  Some commentators argue that the solution is for scientists to abandon hedging altogether and speak with the confidence the public seems to want. Admittedly, there is something to be said for plain speaking. Excessive caution can backfire: a report so hedged with qualifications that it says nothing will simply be ignored, and the vacuum it leaves will be filled by people who have no hesitation in making sweeping generalisations. By the same token, an expert who refuses to give any practical advice in an emergency is not being modest; she is being unhelpful.
+
+  Yet the argument for abandoning *may* does not survive closer scrutiny. Confidence that is not supported by evidence is not a virtue; it is simply a bet that happens not to have been lost yet. Every time a confidently stated claim turns out to be wrong, the damage to public trust is greater than if the claim had been hedged in the first place. Scientists who overstate their findings must eventually retract them, and each retraction erodes a little more of the credibility that the whole enterprise depends on.
+
+  What is needed, perhaps, is not less uncertainty but better ways of talking about it. Weather forecasters offer an instructive model. Nobody accuses them of cowardice when they announce a seventy per cent chance of rain; on the contrary, we have learned to treat the figure as useful information and to plan accordingly. There is no reason why the public could not learn to read 'may' in the same way, provided that it is used consistently and explained clearly. A spurious certainty that collapses at the first contrary result serves nobody.
+
+  None of this means that every hedge is justified. Some researchers do hide behind qualifications to avoid committing themselves, and readers are entitled to ask what, exactly, a study has shown. But the next time a scientist tells you that something *may* be true, it is worth resisting the urge to roll your eyes. She is not dodging the question. She is answering it as honestly as the evidence allows.
+items:
+  - q: "In the first paragraph, the writer describes the reaction of the casual reader in order to"
+    options:
+      - "show that scientists are deliberately hiding their results."
+      - "introduce a common view which the essay will go on to challenge."
+      - "argue that research funding is often wasted."
+      - "suggest that scientific papers should be written for a general audience."
+    answer: 1
+    explain: "Абзац заканчивается риторическим вопросом обычного читателя, а следующий начинается с *The frustration is understandable, but it rests on a misunderstanding* — автор вводит мнение, чтобы его оспорить."
+  - q: "According to the second paragraph, what does the word 'may' in a research paper indicate?"
+    options:
+      - "The researcher is unwilling to take responsibility for the results."
+      - "The findings have been confirmed by several larger studies."
+      - "The evidence supports a claim without establishing it conclusively."
+      - "The study was poorly designed and should not be trusted."
+    answer: 2
+    explain: "*the evidence points in that direction but has not yet been borne out by larger trials* — данные указывают на вывод, но не доказывают его. Вариант B прямо противоречит тексту."
+  - q: "What point does the writer make about university press offices?"
+    options:
+      - "They are less reliable than journalists."
+      - "They sometimes exaggerate findings for institutional reasons."
+      - "They are responsible for most errors in science reporting."
+      - "They rarely have access to the original research."
+    answer: 1
+    explain: "*keen to publicise their institutions, have been found to overstate results* — преувеличивают ради репутации университета. Сравнения «хуже журналистов» или «большинство ошибок» в тексте нет."
+  - q: "What does the writer suggest about the public's loss of trust in scientists?"
+    options:
+      - "It is caused by scientists frequently revising their conclusions."
+      - "It is an irrational reaction to complex information."
+      - "It is a logical response to misleading reporting rather than to real changes in science."
+      - "It has had little effect on how people behave."
+    answer: 2
+    explain: "Вывод публики автор называет *perfectly reasonable*, но поясняет: *the scientists may not have changed their minds at all. What has changed is the headline*. Значит, причина — в подаче, а не в науке."
+  - q: "In the fifth paragraph, the writer's attitude to the idea of abandoning hedging is best described as"
+    options:
+      - "wholehearted support."
+      - "partial acknowledgement of its merits."
+      - "complete dismissal."
+      - "indifference."
+    answer: 1
+    explain: "*Admittedly, there is something to be said for plain speaking* — автор признаёт часть аргументов (*excessive caution can backfire*), но в следующем абзаце возражает: *Yet the argument… does not survive closer scrutiny*."
+  - q: "Why does the writer mention weather forecasters?"
+    options:
+      - "To show that predictions are often wrong."
+      - "To illustrate that people can learn to use statements of probability."
+      - "To argue that scientists should express all findings as percentages."
+      - "To contrast an honest profession with a dishonest one."
+    answer: 1
+    explain: "*we have learned to treat the figure as useful information… There is no reason why the public could not learn to read 'may' in the same way* — прогноз погоды как пример того, что к вероятностям можно привыкнуть. Требования писать всё в процентах нет."
+  - q: "Which phrasal verb in paragraph 2, in the form used there, means 'confirmed' or 'shown to be true'?"
+    answers: ["borne out", "been borne out", "bear out"]
+    explain: "*has not yet been **borne out** by larger trials* — *bear out* = подтверждать. Частая C1-коллокация: *The theory was borne out by later research.*"
+  - q: "Which adjective in paragraph 3 means 'cautious and not yet certain'?"
+    answers: ["tentative"]
+    explain: "*turn **tentative** findings into headline-grabbing claims* — осторожные, предварительные выводы."
+  - q: "Complete with the modal phrase from paragraph 3 (= it is impossible that they came from the papers): 'exaggerations that ___ from the papers themselves'."
+    answers: ["could not have come", "couldn't have come"]
+    explain: "*exaggerations that **could not have come** from the papers themselves* — уверенное отрицание о прошлом: *couldn't have* + V3."

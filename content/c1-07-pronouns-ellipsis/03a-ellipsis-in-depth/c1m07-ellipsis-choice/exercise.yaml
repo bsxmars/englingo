@@ -1,0 +1,52 @@
+title: "Эллипсис: смысл и регистр"
+type: choice
+intro: "Выбери вариант, который подходит по грамматике, смыслу и регистру. Если указан стиль (формальный, разговорный), учитывай его."
+hints:
+  - "So do I — «я тоже»; So I do — «и правда»."
+  - "Сокращённые придаточные (if necessary, though tired) опускают только subject + be."
+  - "Сравнивая вещи, не забудь possessive: than Anna's."
+items:
+  - q: "— I love this kind of music. — ___"
+    options: ["So I do.", "So do I.", "I do so."]
+    answer: 1
+    explain: "«Я тоже» — инверсия **So do I**. *So I do* — подтверждение о себе («и правда люблю»), а *I do so* значит «я делаю это (так)»."
+  - q: "— You've left the lights on again. — ___ Sorry, I'll switch them off."
+    options: ["So have I!", "So I have!", "So did I!"]
+    answer: 1
+    explain: "Говорящий признаёт, что это правда, → без инверсии: **So I have!** *So have I* значило бы «я тоже оставил»."
+  - q: "Письмо клиенту: «We had hoped to deliver the update in May; unfortunately, ___.»"
+    options: ["couldn't", "we were unable to", "we weren't able"]
+    answer: 1
+    explain: "Формальный регистр + эллипсис после *to*: **we were unable to**. Без подлежащего (*couldn't*) фраза неполная, а после *able* нужна частица *to*."
+  - q: "— I don't eat meat. — ___ I gave it up years ago."
+    options: ["Me too.", "Neither do I.", "So don't I."]
+    answer: 1
+    explain: "Согласие с отрицанием — **Neither do I** (разговорно *Me neither*). *Me too* соглашается с утверждением, *So don't I* не существует."
+  - q: "Формальное сравнение: «She can solve these problems faster than ___.»"
+    options: ["me", "I can", "myself"]
+    answer: 1
+    explain: "В формальном стиле — подлежащее + вспомогательный: **than I can**. *than me* — нормальный разговорный вариант; *myself* здесь невозможно."
+  - q: "Инструкция к лекарству: «___, the dose may be increased to two tablets.»"
+    options: ["If necessary", "If it necessary", "If is necessary"]
+    answer: 0
+    explain: "Опускаются **оба** элемента — подлежащее и *be*: *If necessary* (= if it is necessary). Пропустить только одно из них нельзя."
+  - q: "___, the hotel was surprisingly comfortable."
+    options: ["Though small", "Though small, but", "Though was small"]
+    answer: 0
+    explain: "*Though small* = though it was small. *though* и *but* в одном предложении не сочетаются, а *be* без подлежащего не оставляют."
+  - q: "Of the two proposals, I prefer ___ ."
+    options: ["the second", "second", "the second ones"]
+    answer: 0
+    explain: "Существительное после порядкового числительного можно опустить, но артикль остаётся: **the second** (или *the second one*)."
+  - q: "My car is older than ___ ."
+    options: ["Anna", "Anna's", "Anna's one"]
+    answer: 1
+    explain: "Сравниваем машины, а не машину с человеком → **Anna's**. *than Anna* значило бы, что машина старше Анны. *Anna's one* — разговорно и не нужно."
+  - q: "— Will you be at the meeting tomorrow? — I may ___ ."
+    options: ["be", "do", "do be"]
+    answer: 0
+    explain: "Вопрос с *be* → в ответе остаётся **be**: *I may be*. Британское *do* заменяет основной глагол, но не *be*."
+  - q: "The economy grew by 3%, ___ was forecast."
+    options: ["as", "like", "what"]
+    answer: 0
+    explain: "Безличная формула **as was forecast** — пассив без подлежащего после *as*. *like* в этой конструкции разговорно и неверно в отчёте."

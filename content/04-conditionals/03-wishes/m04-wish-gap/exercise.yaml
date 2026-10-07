@@ -1,0 +1,43 @@
+title: "wish, if only, it's time, would rather"
+type: gap
+intro: "Поставь глагол в скобках в нужную форму. Сокращения (*hadn't*, *didn't*, *'d*) засчитываются."
+hints:
+  - "Сожаление о настоящем → Past Simple; о прошлом → Past Perfect; раздражение → would + V."
+  - "It's time + Past Simple; would rather + V (сам) или + кто-то + Past Simple."
+items:
+  - q: "I wish I ___ (have) a bigger flat."
+    answers: ["had"]
+    explain: "Сожаление о настоящем → wish + **Past Simple**: квартира маленькая сейчас."
+  - q: "I wish I ___ (not / say) that to her yesterday."
+    answers: ["hadn't said"]
+    explain: "Сожаление о прошлом (**yesterday**) → wish + **Past Perfect**."
+  - q: "I wish you ___ (stop) interrupting me!"
+    answers: ["would stop"]
+    explain: "Раздражение чужим поведением, хочется, чтобы человек изменился → wish + **would**."
+  - q: "If only I ___ (be) a bit taller!"
+    answers: ["were", "was"]
+    explain: "Нереальное настоящее → **were** (для всех лиц; *was* — разговорный вариант)."
+  - q: "I wish I ___ (can) speak Chinese — it would help at work."
+    answers: ["could"]
+    explain: "Вместо *can* после *wish* → **could**."
+  - q: "It's late. It's time we ___ (go) home."
+    answers: ["went", "were going"]
+    explain: "**It's time** + подлежащее + **Past Simple**: прошедшее время, но смысл — сейчас."
+  - q: "I'd rather you ___ (not / tell) anyone about this."
+    answers: ["didn't tell"]
+    explain: "**would rather** + другой человек + **Past Simple**: вежливая просьба не делать."
+  - q: "I'm tired. I'd rather ___ (stay) at home tonight."
+    answers: ["stay"]
+    explain: "Свои предпочтения: **would rather** + глагол без *to*."
+  - q: "She wishes she ___ (study) medicine when she was younger."
+    answers: ["had studied"]
+    explain: "Сожаление о прошлом (*when she was younger*) → **had studied**."
+  - q: "If only I ___ (listen) to my parents ten years ago!"
+    answers: ["had listened"]
+    explain: "**ten years ago** — прошлое → if only + **Past Perfect**."
+  - q: "I wish it ___ (stop) raining — we want to go to the beach."
+    answers: ["would stop"]
+    explain: "Хотим, чтобы ситуация изменилась (дождь всё идёт) → wish + **would**."
+  - q: "It's high time the council ___ (do) something about the traffic."
+    answers: ["did"]
+    explain: "**It's high time** + **Past Simple**: упрёк «давно пора»."

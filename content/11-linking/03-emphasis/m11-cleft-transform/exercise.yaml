@@ -1,0 +1,53 @@
+title: "Перефразирование с акцентом (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "What I need is…; It was Tom who…; The reason (why) … was that…"
+  - "После Never / Hardly / Not only / Only — вспомогательный глагол перед подлежащим."
+items:
+  - q: "I need a long holiday."
+    key: "WHAT"
+    stem: "___ a long holiday."
+    answers: ["what I need is"]
+    explain: "Cleft sentence: **What I need is** + главное. *is* — в единственном числе."
+  - q: "Tom broke the window, not Sam."
+    key: "WHO"
+    stem: "It ___ broke the window, not Sam."
+    answers: ["was Tom who"]
+    explain: "*It + was + выделяемое + **who*** — про людей: *It was Tom who broke the window.*"
+  - q: "I have never seen such a beautiful sunset."
+    key: "NEVER"
+    stem: "___ such a beautiful sunset."
+    answers: ["never have I seen", "never before have I seen", "never in my life have I seen"]
+    explain: "*Never* в начале → инверсия: **Never have I seen**…"
+  - q: "He didn't realise his mistake until later."
+    key: "ONLY"
+    stem: "___ realise his mistake."
+    answers: ["only later did he"]
+    explain: "*not … until later* = **Only later did he** realise. После *Only later* — *did* + подлежащее + глагол в начальной форме."
+  - q: "I had just arrived when it started to rain."
+    key: "HARDLY"
+    stem: "___ arrived when it started to rain."
+    answers: ["hardly had I"]
+    explain: "«Едва я пришёл, как…» → **Hardly had I** arrived **when**… — инверсия с Past Perfect."
+  - q: "As soon as she left, he called."
+    key: "SOONER"
+    stem: "___ than he called."
+    answers: ["no sooner had she left"]
+    explain: "*As soon as* → **No sooner had she left than** … — Past Perfect с инверсией и *than*."
+  - q: "She speaks French, and she also speaks Japanese."
+    key: "ONLY"
+    stem: "Not ___ French, but she also speaks Japanese."
+    answers: ["only does she speak"]
+    explain: "*Not only* в начале → инверсия с *does*: **Not only does she speak** French…"
+  - q: "We left because the hotel was dirty."
+    key: "REASON"
+    stem: "The ___ that the hotel was dirty."
+    answers: ["reason we left was", "reason why we left was", "reason that we left was"]
+    explain: "**The reason (why) we left was that** … — выделяем причину."
+  - q: "I really enjoyed the concert."
+    key: "DID"
+    stem: "I ___ the concert."
+    answers: ["did enjoy", "really did enjoy", "did really enjoy"]
+    explain: "Усилительное **did** + глагол в начальной форме: *I did enjoy the concert.*"

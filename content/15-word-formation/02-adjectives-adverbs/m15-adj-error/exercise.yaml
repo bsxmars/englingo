@@ -1,0 +1,44 @@
+title: "Найди неверную форму прилагательного или наречия"
+type: error
+intro: "В каждом предложении **одно** слово образовано неправильно: не та часть речи, не тот суффикс или ошибка в написании. Исправь его и впиши предложение целиком."
+hints:
+  - "Глагол описывается наречием, существительное — прилагательным, после be / seem / look — прилагательное."
+  - "Проверь пары-ловушки: economic / economical, sensible / sensitive, historic / historical."
+  - "Орфография: -ful с одной l, -ically у слов на -ic, выпадение e перед -able."
+items:
+  - q: "The instructions were so confused that nobody could assemble the shelf."
+    answers: ["The instructions were so confusing that nobody could assemble the shelf."]
+    explain: "Инструкции **вызывают** путаницу → *-ing*: **confusing**. *confused* — то, что чувствует человек."
+  - q: "She speaks three languages fluent and is learning a fourth."
+    answers: ["She speaks three languages fluently and is learning a fourth."]
+    explain: "Описывается глагол *speaks* → наречие: **fluently**."
+  - q: "It was a very stressfull week, so I'm staying at home this weekend."
+    answers: ["It was a very stressful week, so I'm staying at home this weekend."]
+    explain: "Суффикс **-ful** пишется с одной *l*: *stressful, careful, beautiful*."
+  - q: "The results were basicly the same as last year."
+    answers: ["The results were basically the same as last year."]
+    explain: "У прилагательных на *-ic* наречие образуется через **-ically**: *basic → basically*. Исключение — *publicly*."
+  - q: "Buying a bigger car would not be very economic for a family of two."
+    answers: ["Buying a bigger car would not be very economical for a family of two."]
+    explain: "**economical** — экономный, выгодный; *economic* — относящийся к экономике (*economic crisis*)."
+  - q: "Wear sensitive shoes — we'll be walking for hours."
+    answers: ["Wear sensible shoes — we'll be walking for hours."]
+    explain: "**sensible** — разумный, практичный. *sensitive* — чувствительный, ранимый."
+  - q: "The new software is fully compatable with older computers."
+    answers: ["The new software is fully compatible with older computers."]
+    explain: "Тут суффикс **-ible**, а не *-able*: *compatible*, как *possible, visible, flexible*."
+  - q: "After the operation, the pain in my knee was almost unbearible."
+    answers: ["After the operation, the pain in my knee was almost unbearable."]
+    explain: "*bear* — английский корень, к нему идёт **-able**: *unbearable*. *-ible* обычно у латинских корней (*visible, terrible*)."
+  - q: "He apologised to everyone, but his words didn't sound very sincerely."
+    answers: ["He apologised to everyone, but his words didn't sound very sincere.", "He apologized to everyone, but his words didn't sound very sincere."]
+    explain: "После глаголов восприятия *sound, look, seem* — **прилагательное**: *sound sincere*."
+  - q: "The film is based on a historic novel about the French Revolution."
+    answers: ["The film is based on a historical novel about the French Revolution."]
+    explain: "**historical** — связанный с историей (*historical novel, historical records*); **historic** — исторически важный (*a historic victory*)."
+  - q: "Our neighbours are friendly people, but they behave very noisy at night."
+    answers: ["Our neighbours are friendly people, but they behave very noisily at night."]
+    explain: "Глагол *behave* → наречие **noisily** (*y → i* + *-ly*). Сравни: *friendly* — прилагательное, у него наречия на *-ly* нет."
+  - q: "The hotel was surprising cheap for such a central location."
+    answers: ["The hotel was surprisingly cheap for such a central location."]
+    explain: "Перед прилагательным *cheap* слово усиливает его → наречие **surprisingly**."

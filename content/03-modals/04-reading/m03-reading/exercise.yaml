@@ -1,0 +1,90 @@
+title: "The Marrow Lake mystery"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. В вопросах 1–7 выбери вариант, в 8–10 впиши слово из текста. Экспедиция и люди в статье вымышлены."
+hints:
+  - "Различай уверенность (must have, can't have) и предположение (may have, might have)."
+  - "Правильный вариант пересказывает текст другими словами."
+text: |
+  ## The lake that kept its secret
+
+  In August 1987, three geologists, Helen Ward, Tomas Reyes and their young assistant Ben Ashby, set off by canoe to map the rocks around Marrow Lake, a remote corner of northern Canada. They were due back in five weeks. They never returned. Now, thirty-five years later, a hiker has found a rusty metal box on a small island in the lake, and experts are once again arguing about what might have happened.
+
+  The box contained Helen Ward's notebook. Its last entry, dated 14 September, is short: *"Wind too strong to cross. Ben unwell. We must wait."* For Dr Sarah Klein, a historian who has studied the case for ten years, these lines change everything. "Until now, people assumed the team must have drowned on their way back," she says. "But if Ward was writing on the island in mid-September, they can't have been on the water that day. They must have been stuck there, waiting for the weather to improve."
+
+  So why did nobody find them? The search began in October, but the planes concentrated on the river to the south, the route the team had planned to take home. "With hindsight, the rescuers should have checked the islands first," Klein admits. "But they couldn't have known. The team had no radio, so they weren't able to tell anyone where they were."
+
+  Others are less certain. Mark Doyle, a former park ranger, points out that the box was found on a beach, not in a shelter. "It may have been washed up there from somewhere else. The ice moves things around every spring, so that notebook could have travelled for miles." In his view, the team might have tried to cross later, when the wind dropped, and simply been unlucky.
+
+  Then there is Ben. "Unwell" could mean almost anything, from a cold to a serious infection. A doctor who has read the notebook suggests that he may have eaten contaminated fish, which would explain an earlier entry about stomach pain. "If he was that ill, the others wouldn't have wanted to move him. They would have had to choose between waiting for help and risking the crossing with a sick man."
+
+  One detail puzzles everyone. On the inside cover, in different handwriting, someone has written a single word: *North*. Klein is sure it must be important, but nobody can say what it means. It might have been a direction to a camp, or it could simply be a note about the wind. Some online theories go much further, claiming the three can't have died at all and must have started new lives somewhere else. Klein dismisses this. "People love a mystery, but you mustn't confuse a good story with evidence."
+
+  For Ward's daughter, Kate, the discovery brings mixed feelings. "We shouldn't have had to wait thirty-five years for this," she says. "But at least I know now that they didn't give up. They must have fought until the very end."
+
+  Divers will explore the water around the island next summer, where Klein believes the canoe may still lie. "The lake has kept its secret for a long time," she says. "It doesn't have to keep it forever."
+items:
+  - q: "What has caused experts to discuss the case again?"
+    options:
+      - "A hiker discovered a box with one of the team's notebooks in it."
+      - "Divers have found the team's canoe near an island."
+      - "Ben Ashby's family has published his letters."
+      - "Radio messages from the team have been found."
+    answer: 0
+    explain: "Абзац 1: *a hiker has found a rusty metal box* — а в нём (абзац 2) *Helen Ward's notebook*. Водолазы только планируют поиски."
+  - q: "According to Klein, the last entry shows that the team"
+    options:
+      - "drowned while crossing the lake on 14 September."
+      - "were still on the island on 14 September."
+      - "had reached the river to the south."
+      - "decided to stay on the island for the winter."
+    answer: 1
+    explain: "*they can't have been on the water that day. They must have been stuck there* — Клайн уверена, что 14 сентября они были на острове. Версия об утоплении по пути — это то, что «предполагали раньше»."
+  - q: "What is Klein's attitude to the rescuers?"
+    options:
+      - "She thinks they were careless and should be blamed."
+      - "She believes they searched the islands too late."
+      - "She feels their mistake is understandable."
+      - "She says they made no mistakes at all."
+    answer: 2
+    explain: "*should have checked the islands first… But they couldn't have known* — ошибку признаёт, но считает её понятной: связи с командой не было."
+  - q: "Mark Doyle's main point is that"
+    options:
+      - "the team definitely crossed the lake after 14 September."
+      - "the box may not have been where the team actually stayed."
+      - "the ice destroyed most of the evidence."
+      - "the team should have built a shelter."
+    answer: 1
+    explain: "*It may have been washed up there from somewhere else* — коробку могло принести льдом. *definitely* — ловушка: Дойл лишь предполагает (*might have tried*)."
+  - q: "What does the doctor suggest about Ben?"
+    options:
+      - "He certainly had a serious infection."
+      - "His illness may explain why the team did not leave."
+      - "He caught a cold because of the strong wind."
+      - "He was too ill to write in the notebook."
+    answer: 1
+    explain: "*If he was that ill, the others wouldn't have wanted to move him* — болезнь Бена могла удержать команду на острове. Врач говорит *may have eaten* — это предположение, не уверенность."
+  - q: "What do we learn about the word *North*?"
+    options:
+      - "Klein has proved that it refers to a camp."
+      - "It was written by Helen Ward on the last page."
+      - "Experts agree that it is significant but not what it means."
+      - "It shows that the team started new lives elsewhere."
+    answer: 2
+    explain: "*Klein is sure it must be important, but nobody can say what it means.* Почерк другой, и слово на обложке, а не на последней странице."
+  - q: "How does Kate Ward feel about the discovery?"
+    options:
+      - "Only relieved that the mystery has been solved."
+      - "Angry with the hiker who found the box."
+      - "Both frustrated by the long wait and comforted by what she has learnt."
+      - "Convinced that her mother is still alive."
+    answer: 2
+    explain: "*mixed feelings*: *We shouldn't have had to wait thirty-five years* (досада) и *at least I know now that they didn't give up* (утешение)."
+  - q: "Find a word in paragraph 3 that means 'understanding a situation only after it has happened': with ___"
+    answers: ["hindsight"]
+    explain: "**with hindsight** — «задним числом, оглядываясь назад». Часто стоит рядом с *should have*: *With hindsight, I should have…*"
+  - q: "Find a word in paragraph 5 that means 'made dirty or dangerous, for example by bacteria'."
+    answers: ["contaminated"]
+    explain: "**contaminated** — заражённый, загрязнённый: *contaminated fish / water / food*."
+  - q: "Klein warns: you mustn't confuse a good story with ___ ."
+    answers: ["evidence"]
+    explain: "**evidence** — доказательства, факты (неисчисляемое: *a piece of evidence*, не ~~an evidence~~)."

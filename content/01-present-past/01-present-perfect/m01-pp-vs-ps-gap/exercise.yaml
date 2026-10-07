@@ -1,0 +1,43 @@
+title: "Поставь глагол в нужное время"
+type: gap
+intro: "Поставь глагол в скобках в **Present Perfect** или **Past Simple**. Сокращения (*I've*, *didn't*) засчитываются."
+hints:
+  - "Ищи маркеры: ago, yesterday, in 2019, when → Past Simple; for, since, ever, never, yet, already, just, today → Present Perfect."
+  - "Если время не названо — спроси себя: важен результат сейчас или опыт? Тогда Present Perfect."
+items:
+  - q: "I ___ (live) in Kazan since 2019."
+    answers: ["have lived", "have been living"]
+    explain: "**since 2019** — действие началось в прошлом и продолжается → Present Perfect (или Present Perfect Continuous)."
+  - q: "We ___ (meet) at a conference two years ago."
+    answers: ["met"]
+    explain: "**ago** указывает на законченный момент в прошлом → Past Simple."
+  - q: "___ (you / ever / be) to Japan? — Yes, once."
+    answers: ["Have you ever been"]
+    explain: "**ever** — опыт за жизнь → Present Perfect. В вопросе *have* идёт перед подлежащим: *Have you ever been…?*"
+  - q: "Sorry, I can't come — I ___ (break) my leg."
+    answers: ["have broken", "'ve broken"]
+    explain: "Результат виден сейчас (не могу прийти) → Present Perfect."
+  - q: "When ___ (you / buy) this car?"
+    answers: ["did you buy"]
+    explain: "Вопрос **when** спрашивает о моменте в прошлом → Past Simple, даже если ответ неизвестен."
+  - q: "She ___ (not / finish) the report yet."
+    answers: ["has not finished", "hasn't finished"]
+    explain: "**yet** в отрицании → Present Perfect: *hasn't finished yet*."
+  - q: "My grandfather ___ (work) as an engineer for forty years. He retired in 2010."
+    answers: ["worked"]
+    explain: "Период работы закончился (дед на пенсии с 2010) → Past Simple, хотя есть **for**."
+  - q: "I ___ (drink) four cups of coffee today, so I'll skip the next one."
+    answers: ["have drunk", "'ve drunk", "have had", "'ve had"]
+    explain: "**today** ещё не закончился → Present Perfect. Третья форма *drink* — **drunk**."
+  - q: "Look! Somebody ___ (open) the window."
+    answers: ["has opened", "'s opened"]
+    explain: "Результат перед глазами (окно открыто) → Present Perfect."
+  - q: "Shakespeare ___ (write) about 39 plays."
+    answers: ["wrote"]
+    explain: "Шекспира нет в живых — его период закрыт → Past Simple."
+  - q: "I ___ (know) Max for ages — we went to school together."
+    answers: ["have known", "'ve known"]
+    explain: "**for ages** + знаю до сих пор → Present Perfect. *know* — глагол состояния, Continuous с ним не употребляется."
+  - q: "The film ___ (start) ten minutes ago. Hurry up!"
+    answers: ["started"]
+    explain: "**ten minutes ago** — законченный момент → Past Simple."

@@ -1,0 +1,53 @@
+title: "Перефразирование (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "let → be allowed to; make → be made to (в пассиве)."
+  - "so … that I couldn't → too … (for me) to; too young → not old enough."
+items:
+  - q: "My parents didn't let me go to the party."
+    key: "ALLOWED"
+    stem: "I ___ go to the party."
+    answers: ["was not allowed to", "wasn't allowed to"]
+    explain: "*let* в пассиве не используется → **wasn't allowed to**."
+  - q: "The manager made us work on Saturday."
+    key: "MADE"
+    stem: "We ___ on Saturday."
+    answers: ["were made to work"]
+    explain: "Пассив от *make sb do* → **were made to work** (появляется *to*)."
+  - q: "The coffee was so hot that I couldn't drink it."
+    key: "TOO"
+    stem: "The coffee was ___ drink."
+    answers: ["too hot for me to", "too hot to"]
+    explain: "*so … that I couldn't* = **too hot (for me) to drink**. *it* в конце не нужно."
+  - q: "I'm not tall enough to reach the top shelf."
+    key: "TOO"
+    stem: "The top shelf is ___ reach."
+    answers: ["too high for me to", "too high to"]
+    explain: "*not tall enough* → полка **too high for me to reach**."
+  - q: "Because of the rain, we had to stay inside."
+    key: "MADE"
+    stem: "The rain ___ inside."
+    answers: ["made us stay"]
+    explain: "**make + объект + голый инфинитив**: *made us stay*."
+  - q: "It's easy to use this app."
+    key: "EASY"
+    stem: "This app ___ use."
+    answers: ["is easy to", "is really easy to", "is very easy to"]
+    explain: "Объект выносим в начало: *This app **is easy to** use* — без *it* в конце."
+  - q: "Photography is not permitted in the museum."
+    key: "ALLOW"
+    stem: "They don't ___ in the museum."
+    answers: ["allow photography", "allow taking photos", "allow taking pictures", "allow you to take photos", "allow you to take pictures", "allow visitors to take photos", "allow visitors to take pictures", "allow people to take photos", "allow people to take pictures", "allow us to take photos", "allow us to take pictures"]
+    explain: "*not permitted* = **don't allow** + существительное/-ing или **allow + объект + to**: *allow visitors to take photos*."
+  - q: "We don't have enough money to buy a new car."
+    key: "AFFORD"
+    stem: "We ___ a new car."
+    answers: ["can't afford to buy", "cannot afford to buy", "can't afford", "cannot afford"]
+    explain: "*not enough money* = **can't afford (to buy)**."
+  - q: "She is too young to watch this film."
+    key: "ENOUGH"
+    stem: "She is ___ to watch this film."
+    answers: ["not old enough"]
+    explain: "*too young* = **not old enough**: *enough* после прилагательного."

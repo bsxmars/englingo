@@ -1,0 +1,41 @@
+title: "Инверсия после отрицательных фраз: собери предложение"
+type: order
+intro: "Собери предложение, которое передаёт смысл русской фразы. Отрицательная фраза стоит **в начале**, поэтому где-то нужна инверсия — найди, в какой части."
+hints:
+  - "Нет вспомогательного глагола — добавь do / does / did."
+  - "Not until / Only when / Only after: инверсия во второй, главной части."
+  - "No sooner… than; Hardly… when."
+items:
+  - q: "«Никогда ещё я не видел такой очереди»."
+    answers: ["Never have I seen such a long queue"]
+    explain: "*Never* в начале → **have I seen**: вспомогательный перед подлежащим."
+  - q: "«Ни при каких обстоятельствах нельзя разглашать пароль»."
+    answers: ["Under no circumstances should the password be disclosed"]
+    explain: "*Under no circumstances* + инверсия модального: **should the password be disclosed** (пассив сохраняется)."
+  - q: "«Лишь когда пришли результаты, мы осознали проблему»."
+    answers: ["Only when the results came in did we grasp the problem"]
+    explain: "*Only when* + обычная придаточная (*the results came in*) + инверсия в главной: **did we grasp**."
+  - q: "«Едва мы вошли, как погас свет»."
+    answers: ["Hardly had we walked in when the lights went out"]
+    explain: "*Hardly had we…* + **when** (возможно и *before*), не *than*. Past Perfect, затем Past Simple."
+  - q: "«Не успел он сесть, как зазвонил телефон»."
+    answers: ["No sooner had he sat down than the phone rang"]
+    explain: "*No sooner* — сравнительная конструкция: **No sooner had he sat down than** the phone rang."
+  - q: "«Мало кто из нас понимал, во что мы ввязываемся»."
+    answers: ["Little did we realise what we were getting into"]
+    explain: "*Little* в значении «совсем не» + инверсия с *did*: **Little did we realise**."
+  - q: "«Редко увидишь столь откровенное интервью»."
+    answers: ["Seldom does one see such a candid interview"]
+    explain: "*Seldom* + **does one see** — нет вспомогательного, поэтому подставляем *does*, глагол в начальной форме."
+  - q: "«Только после голосования решение было объявлено»."
+    answers: ["Only after the vote was the decision announced"]
+    explain: "*Only after* + существительное, затем инверсия с *be*: **was the decision announced**."
+  - q: "«Ни разу публике не сообщили о риске»."
+    answers: ["At no time was the public informed of the risk"]
+    explain: "*At no time* = «ни разу»; с пассивом инверсия **was the public informed**."
+  - q: "«Он не только опоздал, но и забыл слайды»."
+    answers: ["Not only did he arrive late but he also forgot the slides"]
+    explain: "*Not only* в начале → инверсия **did he arrive**; во второй части обычный порядок *he also forgot*."
+  - q: "«Только тогда я осознал свою ошибку»."
+    answers: ["Only then did I realise my mistake"]
+    explain: "*Only then* → **did I realise**. Без инверсии (~~Only then I realised~~) — ошибка."

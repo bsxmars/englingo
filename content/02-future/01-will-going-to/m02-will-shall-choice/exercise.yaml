@@ -1,0 +1,52 @@
+title: "will, shall и степень уверенности"
+type: choice
+intro: "Выбери единственный верный вариант. Здесь тренируются заказ, приглашения, **shall**, отказ с **not going to**, план и подробности, а также **probably**, **might** и порядок слов."
+hints:
+  - "shall — только с I и we: в предложениях (Shall we…?) и в официальном будущем."
+  - "Порядок слов: will probably, но probably won't."
+  - "Не уверен — might или could."
+items:
+  - q: "Waiter: Are you ready to order? — Customer: Yes, I ___ the chicken curry, please."
+    options: ["'ll have", "have", "would have"]
+    answer: 0
+    explain: "Заказ — решение в момент речи → **I'll have…**. Русское «я буду курицу» дословно не переводится."
+  - q: "What a lovely evening! ___ we eat outside on the balcony?"
+    options: ["Shall", "Will", "Do"]
+    answer: 0
+    explain: "Предложение сделать что-то вместе → **Shall we…?** *Will we…?* — это вопрос о факте («мы будем есть?»), а не предложение."
+  - q: "___ you come to my birthday party on Saturday? — I'd love to!"
+    options: ["Will", "Shall", "Are"]
+    answer: 0
+    explain: "Приглашение → **Will you…?** *Shall you* не говорят: *shall* — только с *I* и *we*."
+  - q: "Don't worry about the operation. Your sister ___ be fine."
+    options: ["'ll", "shall", "is going"]
+    answer: 0
+    explain: "Будущее с *she / he / they / your sister* — только **will**. *shall* возможен лишь после *I* и *we*, а у *going* не хватает *to*."
+  - q: "— Can you work on Sunday again? — Sorry, I ___ give up another weekend. That would be the third this month."
+    options: ["'m not going to", "won't to", "don't go to"]
+    answer: 0
+    explain: "**I'm not going to** + глагол часто звучит как твёрдый отказ: «не стану». После *won't* частица *to* не ставится."
+  - q: "I'm really tired, so I ___ come to the gym tonight."
+    options: ["probably won't", "won't probably", "will probably not to"]
+    answer: 0
+    explain: "Порядок слов: **probably** стоит **перед** *won't* (но после *will*: *I'll probably come*). После *will not* частица *to* не нужна."
+  - q: "Take an umbrella just in case. It ___ rain later — the forecast isn't sure."
+    options: ["might", "is going to", "will definitely"]
+    answer: 0
+    explain: "Прогноз неуверенный → **might**. *is going to* и *will definitely* означали бы, что дождь почти точно будет."
+  - q: "We're going to have a picnic by the river on Sunday. There ___ about twenty of us."
+    options: ["'ll be", "are going", "be"]
+    answer: 0
+    explain: "Намерение — через *going to*, а подробности о нём — через **will**: *There'll be about twenty of us.*"
+  - q: "— Have you heard? Mark and Lisa are getting married in June! — Really? That ___ a big party."
+    options: ["'ll be", "is being", "be"]
+    answer: 0
+    explain: "Комментарий-прогноз к чужому плану → **will**: *That'll be fun / a big party.*"
+  - q: "I don't think I ___ to the party tonight. I'm exhausted."
+    options: ["'ll go", "go", "will to go"]
+    answer: 0
+    explain: "*I don't think* + **will** — естественный способ сказать «вряд ли пойду». Present Simple без расписания здесь не подходит."
+  - q: "(Formal speech) Ladies and gentlemen, we ___ announce the winners at the end of the evening."
+    options: ["shall", "shall to", "are going"]
+    answer: 0
+    explain: "После **we** будущее можно выразить через **shall** — это звучит официально. После *shall*, как и после *will*, — глагол без *to*."

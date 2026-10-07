@@ -1,0 +1,38 @@
+title: "Одно слово: текст «The four-day week»"
+type: gap
+intro: |
+  Это связный текст в формате C1 Advanced, Part 2, разбитый на предложения. Читай пункты по порядку, как один текст, и впиши **одно** слово в каждый пропуск.
+hints:
+  - "Перед вписыванием прочитай предложение до конца: часто ключ стоит после пропуска."
+  - "Проверь рамки: as… as, not only… but also, instead of."
+items:
+  - q: "Few workplace experiments have attracted ___ much attention in recent years as the four-day week."
+    answers: ["as", "so"]
+    explain: "Рамка **as much… as** (после отрицания возможно и *so much… as*). Ключ — *as* после *the four-day week*."
+  - q: "The idea is simple: staff work four days instead ___ five, yet receive exactly the same salary."
+    answers: ["of"]
+    explain: "**instead of** + существительное или число — «вместо»."
+  - q: "Critics initially dismissed the idea, arguing that productivity would inevitably suffer. This, ___, has not turned out to be the case in most trials."
+    answers: ["however", "though"]
+    explain: "Связка контраста в середине предложения, между запятыми: **This, however, has not…** Разговорная замена — *though*."
+  - q: "In one large British study, ___ involved around sixty companies, revenue remained broadly stable."
+    answers: ["which"]
+    explain: "Неопределительное придаточное после запятой → **which**. *that* после запятой не ставится."
+  - q: "Many employees reported feeling less stressed, and fewer of ___ took sick leave."
+    answers: ["them", "these", "those"]
+    explain: "**fewer of them** — «меньше из них». После *of* нужно объектное местоимение."
+  - q: "Not ___ did staff wellbeing improve, but several firms also found it easier to recruit new people."
+    answers: ["only"]
+    explain: "**Not only did…, but… also** — инверсия после *Not only*. Ключ — *did* после пропуска и *but… also* дальше."
+  - q: "___ these results are encouraging, it would be premature to conclude that the model suits every industry."
+    answers: ["while", "although", "though", "whilst"]
+    explain: "Уступительный союз перед полным предложением: **While / Although** these results are encouraging, …"
+  - q: "A hospital, for example, cannot simply close its doors ___ Fridays."
+    answers: ["on"]
+    explain: "Дни недели — с **on**: *on Fridays*."
+  - q: "Some organisations have therefore experimented ___ staggered schedules, so that services run as usual."
+    answers: ["with"]
+    explain: "**experiment with** — «экспериментировать с»."
+  - q: "Whether the four-day week becomes the norm will depend ___ large part on how governments respond."
+    answers: ["in"]
+    explain: "**in large part** — «в значительной степени». Предлог *on* уже стоит дальше: *depend… on how*."

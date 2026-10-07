@@ -1,0 +1,64 @@
+title: "Перефразирование: каузатив (C1 Advanced, Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "have / get + объект + V3 — услуга или неприятный опыт."
+  - "get + человек + to do — уговорить."
+  - "need / be worth + -ing — пассивный смысл."
+items:
+  - q: "Someone stole Maria's bike from outside the library."
+    key: "HAD"
+    stem: "Maria ___ from outside the library."
+    answers: ["had her bike stolen", "had her bicycle stolen"]
+    explain: "Неприятный опыт — **had her bike stolen**: *have* + объект + V3."
+  - q: "A technician is going to install our new router on Monday."
+    key: "HAVING"
+    stem: "We ___ on Monday."
+    answers: ["are having our new router installed", "'re having our new router installed", "are having the new router installed", "are having a new router installed"]
+    explain: "Запланированная услуга — Present Continuous каузатива: **are having our new router installed**."
+  - q: "I eventually persuaded my manager to approve the training budget."
+    key: "GOT"
+    stem: "I eventually ___ the training budget."
+    answers: ["got my manager to approve", "got my manager to sign off", "got my boss to approve"]
+    explain: "«Уговорил» — **got my manager to approve** (*get* + человек + *to*)."
+  - q: "The curtains are filthy; someone should wash them."
+    key: "NEED"
+    stem: "The curtains are filthy; they ___."
+    answers: ["need to be washed", "need washing", "really need washing", "really need to be washed", "need cleaning", "need to be cleaned", "badly need washing"]
+    explain: "**need to be washed** = *need washing*: после *need* герундий уже имеет пассивный смысл, поэтому годятся обе формы."
+  - q: "It's a good idea to see that film at the cinema rather than at home."
+    key: "WORTH"
+    stem: "That film ___ at the cinema rather than at home."
+    answers: ["is worth seeing", "is worth watching", "'s worth seeing", "'s worth watching", "is well worth seeing", "is well worth watching"]
+    explain: "*be worth* + простой *-ing*: **is worth seeing**."
+  - q: "My assistant will book your hotel, so you don't need to worry about it."
+    key: "HAVE"
+    stem: "I'll ___ your hotel, so you don't need to worry about it."
+    answers: ["have my assistant book", "have my assistant reserve"]
+    explain: "Распоряжение подчинённому — *have* + человек + инфинитив без *to*: **have my assistant book**."
+  - q: "He behaved so badly at the party that the host threw him out."
+    key: "HIMSELF"
+    stem: "He behaved so badly at the party that he ___ out."
+    answers: ["got himself thrown", "got himself kicked"]
+    explain: "*get oneself* + V3 — сам «напросился»: **got himself thrown** out."
+  - q: "I refuse to let you talk about my family in that way."
+    key: "HAVE"
+    stem: "I ___ about my family in that way."
+    answers: ["won't have you talking", "will not have you talking", "won't have you speaking", "will not have you speaking"]
+    explain: "*won't have* + объект + *-ing* — «не потерплю»: **won't have you talking**."
+  - q: "Did a mechanic check the tyres before your trip?"
+    key: "GET"
+    stem: "Did you ___ before your trip?"
+    answers: ["get the tyres checked", "get your tyres checked", "get the tyres checked by a mechanic", "get your tyres checked by a mechanic"]
+    explain: "Вопрос через *did* + **get the tyres checked** (*get* + объект + V3)."
+  - q: "The comedian made the audience laugh within seconds of walking on stage."
+    key: "HAD"
+    stem: "Within seconds of walking on stage, the comedian ___."
+    answers: ["had the audience laughing", "had the whole audience laughing", "had everyone laughing"]
+    explain: "*have* + объект + **-ing** — «привёл в состояние»: **had the audience laughing**."
+  - q: "I have to finish this presentation before I can go home."
+    key: "GET"
+    stem: "I have to ___ before I can go home."
+    answers: ["get this presentation finished", "get this presentation done", "get the presentation finished", "get the presentation done"]
+    explain: "*get* + объект + V3 о своей работе — «доделать»: **get this presentation finished / done**."

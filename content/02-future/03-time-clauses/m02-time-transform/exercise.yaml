@@ -1,0 +1,68 @@
+title: "Перефразирование: time clauses и be about to / due to / likely to (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "После when, as soon as, until, before, once, by the time — Present Simple или Present Perfect, а не will."
+  - "not … until = only when; probably = be likely to; scheduled = be due to; very soon = be about to."
+items:
+  - q: "I won't make a decision before I talk to my manager."
+    key: "UNTIL"
+    stem: "I won't make a decision ___ to my manager."
+    answers: ["until I talk", "until I've talked", "until I have talked", "until I've spoken", "until I have spoken", "until I speak"]
+    explain: "«Не… до тех пор, пока» → **not … until** + Present Simple или Present Perfect. Будущее время после *until* не ставится."
+  - q: "The match will probably be cancelled because of the storm."
+    key: "LIKELY"
+    stem: "The match ___ cancelled because of the storm."
+    answers: ["is likely to be", "'s likely to be"]
+    explain: "*probably* = **be likely to**. После *likely to* — инфинитив; в пассиве — *to be cancelled*."
+  - q: "The film starts in a moment, so please switch off your phones."
+    key: "ABOUT"
+    stem: "The film ___, so please switch off your phones."
+    answers: ["is about to start", "'s about to start", "is about to begin", "'s about to begin"]
+    explain: "«Вот-вот» → **be about to + инфинитив**. С *about to* не нужны слова вроде *in a moment* — значение уже внутри конструкции."
+  - q: "According to the timetable, the ferry arrives at 6.40."
+    key: "DUE"
+    stem: "The ferry ___ at 6.40."
+    answers: ["is due to arrive", "'s due to arrive", "is due in", "'s due in"]
+    explain: "По расписанию → **be due to + инфинитив**: *is due to arrive*. Про транспорт говорят и короче: *is due in at 6.40*."
+  - q: "I intended to ring you last night, but I fell asleep."
+    key: "GOING"
+    stem: "I ___ you last night, but I fell asleep."
+    answers: ["was going to ring", "was going to call", "was going to phone"]
+    explain: "Намерение в прошлом, которое не осуществилось → **was going to + инфинитив**."
+  - q: "First I'll finish this email, then I'll join you in the kitchen."
+    key: "AS"
+    stem: "I'll join you in the kitchen as ___ this email."
+    answers: ["soon as I finish", "soon as I've finished", "soon as I have finished"]
+    explain: "**as soon as** + Present Simple или Present Perfect (если подчёркиваешь, что дело уже закончено). Не ~~as soon as I'll finish~~."
+  - q: "You can watch TV only after you finish your homework."
+    key: "UNTIL"
+    stem: "You can't watch TV ___ your homework."
+    answers: ["until you finish", "until you've finished", "until you have finished", "until you've done", "until you have done", "until you do"]
+    explain: "«Только после того как» = **not … until**. Present Perfect подчёркивает: сначала домашка должна быть сделана полностью."
+  - q: "Ben was on the point of leaving when the phone rang."
+    key: "ABOUT"
+    stem: "Ben ___ when the phone rang."
+    answers: ["was about to leave", "was just about to leave", "was about to go"]
+    explain: "«Вот-вот собирался» в прошлом → **was about to + инфинитив**, часто с *when* + Past Simple."
+  - q: "The guests will arrive at eight. We'll finish decorating the room before that."
+    key: "TIME"
+    stem: "By ___, we'll have finished decorating the room."
+    answers: ["the time the guests arrive", "the time they arrive", "the time the guests come", "the time they come"]
+    explain: "**by the time** + Present Simple: *by the time the guests arrive*. Главная часть — Future Perfect, придаточное — настоящее время."
+  - q: "It's very unlikely that interest rates will fall this year."
+    key: "LIKELY"
+    stem: "Interest rates ___ fall this year."
+    answers: ["are not likely to", "aren't likely to", "are very unlikely to", "are unlikely to", "are not very likely to", "aren't very likely to"]
+    explain: "Отрицание вероятности → **aren't likely to** (или *are unlikely to*). Ключевое слово *LIKELY* стоит в неизменной форме."
+  - q: "The museum plans to reopen in May, according to the official schedule."
+    key: "DUE"
+    stem: "The museum ___ in May."
+    answers: ["is due to reopen", "'s due to reopen", "is due to open again", "'s due to open again"]
+    explain: "Официальный график → **be due to + инфинитив**. Это нейтральнее, чем *be to*, и типично для новостей."
+  - q: "Don't start the meeting without Olga — wait for her to arrive."
+    key: "UNTIL"
+    stem: "Don't start the meeting ___ here."
+    answers: ["until Olga is", "until Olga's", "until Olga gets", "until she is", "until she's", "until she gets"]
+    explain: "**until** + Present Simple: *until Olga is here / gets here*. Никакого *will* после *until*."

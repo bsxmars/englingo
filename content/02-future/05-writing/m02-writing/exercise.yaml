@@ -1,0 +1,42 @@
+title: "Email другу: планы на лето"
+type: writing
+intro: "Ответь на письмо друга. Сначала набросай план по абзацам из урока, потом пиши."
+prompt: |
+  You have received this email from your English-speaking friend, Sam.
+
+  > Hi!
+  >
+  > It's been ages! I've finally finished my exams, so I'm free all summer. What are your plans? Are you going anywhere interesting? I might have a couple of weeks in July — maybe we could meet up somewhere? Let me know what you think.
+  >
+  > Sam
+
+  Write your **email** to Sam (140–190 words).
+words: [140, 190]
+target_grammar:
+  - "going to и Present Continuous для планов и договорённостей"
+  - "will для спонтанных решений, предложений и прогнозов"
+  - "Future Continuous / Future Perfect (this time next month, by August)"
+  - "time clauses: when / as soon as / before + Present"
+checklist:
+  - "Есть приветствие, отклик на письмо Сэма и тёплое завершение."
+  - "Ответил на все вопросы: планы, поездки, встреча в июле."
+  - "Планы описаны через going to и/или Present Continuous, а не только will."
+  - "Есть хотя бы одна форма Future Continuous или Future Perfect."
+  - "После when / as soon as / before / until нет will."
+  - "Разговорный регистр: сокращения, вопросы к другу, связки (anyway, by the way)."
+  - "Текст разбит на абзацы; 140–190 слов."
+model_answer: |
+  Hi Sam,
+
+  Thanks for your email — congratulations on finishing your exams! You must be so relieved.
+
+  My summer is going to be busy, but in a good way. At the moment I'm working on a big project, and I'll have finished it by the end of June. After that, I'm taking three weeks off. My brother and I are flying to Portugal on 2 July — we booked the tickets last month. We're going to spend a week in Lisbon and then drive along the coast. This time next month I'll probably be lying on a beach somewhere near Lagos!
+
+  So why don't you join us? The second week is likely to be the most relaxed, and there's plenty of room in the car. If flights are too expensive, we could meet up in August instead, when I get back. I'll show you my favourite cafés in town.
+
+  Anyway, have a think and let me know as soon as you decide. I'll send you the details of our route when we've planned it properly.
+
+  Can't wait to see you!
+
+  Best,
+  Ivan

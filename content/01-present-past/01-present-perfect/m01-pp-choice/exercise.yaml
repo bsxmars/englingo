@@ -1,0 +1,47 @@
+title: "Выбери правильный вариант"
+type: choice
+intro: "Выбери вариант, который звучит естественно для носителя. Иногда грамматически возможны оба, но верный — только один по смыслу."
+hints:
+  - "been — был и вернулся; gone — уехал и ещё там."
+  - "Новость → Present Perfect, подробности (когда, как) → Past Simple."
+items:
+  - q: "— Where's Tom? — He ___ to the shop. He'll be back in ten minutes."
+    options: ["has been", "has gone", "went yesterday"]
+    answer: 1
+    explain: "Том сейчас в магазине и ещё не вернулся → **has gone**. *has been* значило бы, что он уже вернулся."
+  - q: "— I've lost my wallet! — Oh no! Where ___ it?"
+    options: ["have you lost", "did you lose", "you lost"]
+    answer: 1
+    explain: "Новость сообщили в Present Perfect, а вопрос о подробностях (где?) — уже **Past Simple**."
+  - q: "This is the best pizza I ___ ."
+    options: ["ever ate", "have ever eaten", "have ever ate"]
+    answer: 1
+    explain: "После превосходной степени (*the best, the worst, the first time*) — Present Perfect: *the best pizza I've ever eaten*. Третья форма — **eaten**."
+  - q: "I ___ my homework, so now I can play."
+    options: ["did", "have done", "was doing"]
+    answer: 1
+    explain: "Результат важен сейчас (теперь могу играть) → **have done**."
+  - q: "Steve Jobs ___ Apple in 1976."
+    options: ["has founded", "founded", "has been founding"]
+    answer: 1
+    explain: "Год назван (**in 1976**) → только Past Simple."
+  - q: "How long ___ your current phone?"
+    options: ["did you have", "have you had", "do you have"]
+    answer: 1
+    explain: "«Как давно у тебя…» — до сих пор → **How long have you had…?** Русское «есть» в настоящем — ловушка."
+  - q: "It's the first time I ___ a presentation in English."
+    options: ["give", "have given", "gave"]
+    answer: 1
+    explain: "Конструкция **It's the first time** требует Present Perfect."
+  - q: "We ___ each other since university."
+    options: ["know", "knew", "have known"]
+    answer: 2
+    explain: "**since** + знаем до сих пор → **have known**."
+  - q: "I ___ that new series last weekend. It was amazing."
+    options: ["watched", "have watched", "have been watching"]
+    answer: 0
+    explain: "**last weekend** — законченный период → Past Simple."
+  - q: "Prices ___ a lot recently."
+    options: ["rose", "have risen", "have rose"]
+    answer: 1
+    explain: "**recently** + результат актуален → Present Perfect. *rise – rose – **risen***."

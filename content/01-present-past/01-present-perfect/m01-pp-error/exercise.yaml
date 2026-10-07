@@ -1,0 +1,43 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: не то время, не та форма или не то слово (for / since / ago, been / gone, yet / already). Исправь её и отправь предложение целиком."
+hints:
+  - "Законченный момент (ago, last, in 2019, when…) → Past Simple."
+  - "Связь с настоящим, период не закончен, for / since до сих пор → Present Perfect."
+items:
+  - q: "I have finished the project last Friday."
+    answers: ["I finished the project last Friday."]
+    explain: "**last Friday** — законченный момент → Past Simple: *finished*."
+  - q: "How long do you know your best friend?"
+    answers: ["How long have you known your best friend?"]
+    explain: "Состояние длится до сих пор, вопрос *How long* → Present Perfect: **have you known**. Present Simple здесь — калька с русского «сколько знаешь»."
+  - q: "We've lived in this flat since three years."
+    answers: ["We've lived in this flat for three years.", "We have lived in this flat for three years."]
+    explain: "**for** + длительность (*three years*), **since** + точка отсчёта (*since 2022*)."
+  - q: "When have you moved to Berlin?"
+    answers: ["When did you move to Berlin?"]
+    explain: "Вопрос **When…?** спрашивает о моменте → Past Simple: *When did you move*."
+  - q: "I didn't see Masha since her birthday party."
+    answers: ["I haven't seen Masha since her birthday party."]
+    explain: "**since** + период до сих пор → Present Perfect: *haven't seen*."
+  - q: "— Where's Pavel? — He's been to the bank. He'll be back soon."
+    answers: ["— Where's Pavel? — He's gone to the bank. He'll be back soon.", "— Where's Pavel? — He has gone to the bank. He'll be back soon."]
+    explain: "Павел сейчас там → **gone**. *been to* значит «был и вернулся»."
+  - q: "Have you already finished the tests yet?"
+    answers: ["Have you finished the tests yet?", "Have you already finished the tests?"]
+    explain: "**yet** — в вопросах и отрицаниях в конце, **already** — «уже» в утверждениях или удивлённом вопросе. Вместе их не ставят."
+  - q: "This is the first time I visit this city."
+    answers: ["This is the first time I've visited this city.", "This is the first time I have visited this city."]
+    explain: "После **It's / This is the first time** — Present Perfect: *I've visited*."
+  - q: "My laptop has crashed twice yesterday."
+    answers: ["My laptop crashed twice yesterday."]
+    explain: "**yesterday** закрывает период → Past Simple: *crashed*."
+  - q: "She has started her new job two weeks ago."
+    answers: ["She started her new job two weeks ago."]
+    explain: "**ago** всегда с Past Simple: *started… two weeks ago*."
+  - q: "Have you seen the news on TV last night?"
+    answers: ["Did you see the news on TV last night?"]
+    explain: "**last night** — законченный момент → вопрос в Past Simple: *Did you see*."
+  - q: "I've been knowing Oleg since we were at school."
+    answers: ["I've known Oleg since we were at school.", "I have known Oleg since we were at school."]
+    explain: "*know* — глагол состояния, Continuous невозможен → **have known**."

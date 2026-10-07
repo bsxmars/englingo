@@ -1,0 +1,59 @@
+title: "Перефразирование (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "I don't know what I should do → I don't know what to do."
+  - "It's kind that you… → It's kind of you to…; so that he could… → for him to…"
+  - "after / before / instead of / without + -ing."
+items:
+  - q: "I have no idea what I should say to her."
+    key: "WHAT"
+    stem: "I have no idea ___ to her."
+    answers: ["what to say"]
+    explain: "*what I should say* → **what to say**: вопросительное слово + to-инфинитив."
+  - q: "You were very kind to lend me your car."
+    key: "OF"
+    stem: "It was very ___ me your car."
+    answers: ["kind of you to lend"]
+    explain: "Оценка поведения → **It was kind of you to** + глагол."
+  - q: "The instructions were so complicated that I couldn't understand them."
+    key: "FOR"
+    stem: "The instructions were too ___ understand."
+    answers: ["complicated for me to"]
+    explain: "*so … that I couldn't* → **too complicated for me to understand**. Исполнитель — через *for*."
+  - q: "We took the stairs because we didn't want to wait for the lift."
+    key: "INSTEAD"
+    stem: "We took the stairs ___ for the lift."
+    answers: ["instead of waiting"]
+    explain: "«Вместо того чтобы ждать» → **instead of + -ing**."
+  - q: "He didn't say goodbye when he left the party."
+    key: "WITHOUT"
+    stem: "He left the party ___ goodbye."
+    answers: ["without saying"]
+    explain: "«Не попрощавшись» → **without + -ing**: *without saying goodbye*."
+  - q: "I didn't dare to tell my boss about the mistake."
+    key: "AFRAID"
+    stem: "I was ___ my boss about the mistake."
+    answers: ["afraid to tell", "too afraid to tell"]
+    explain: "Не решился сказать → **afraid to tell**. *afraid of telling* значило бы, что боюсь самой ситуации."
+  - q: "I heard the baby. She was crying in the next room."
+    key: "HEARD"
+    stem: "I ___ in the next room."
+    answers: ["heard the baby crying", "heard the baby cry"]
+    explain: "Плач длился, мы застали процесс → **heard the baby crying**. Голый инфинитив *cry* тоже возможен."
+  - q: "I'm not sure whether I should accept the offer."
+    key: "WHETHER"
+    stem: "I'm not sure ___ the offer."
+    answers: ["whether to accept", "whether or not to accept", "whether I should accept"]
+    explain: "*whether I should* → короче **whether to accept**. Перед инфинитивом — только *whether*."
+  - q: "As soon as she arrived at the hotel, she checked her emails."
+    key: "ON"
+    stem: "___ the hotel, she checked her emails."
+    answers: ["On arriving at", "On reaching", "On getting to", "On arrival at"]
+    explain: "**on + -ing** = «как только»: *On arriving at the hotel*."
+  - q: "Everybody has to sign the form. This is essential."
+    key: "FOR"
+    stem: "It is essential ___ the form."
+    answers: ["for everybody to sign", "for everyone to sign"]
+    explain: "У инфинитива свой исполнитель → **It is essential for everybody to sign**."

@@ -1,0 +1,47 @@
+title: "Какой порядок правильный?"
+type: choice
+intro: "Выбери вариант с правильным порядком слов."
+hints:
+  - "Прилагательные: мнение → размер → возраст → форма → цвет → происхождение → материал."
+  - "yet — в конце; still и even — в середине предложения."
+items:
+  - q: "She was wearing a ___ dress."
+    options: ["lovely long silk", "silk long lovely", "long lovely silk"]
+    answer: 0
+    explain: "Мнение (*lovely*) → размер (*long*) → материал (*silk*)."
+  - q: "We stayed in a ___ house by the sea."
+    options: ["stone old small", "small old stone", "old small stone"]
+    answer: 1
+    explain: "Размер (*small*) → возраст (*old*) → материал (*stone*)."
+  - q: "He bought an ___ watch for his father."
+    options: ["expensive Swiss gold", "gold Swiss expensive", "Swiss expensive gold"]
+    answer: 0
+    explain: "Мнение (*expensive*) → происхождение (*Swiss*) → материал (*gold*)."
+  - q: "I found a ___ table at the flea market."
+    options: ["round wooden nice", "nice round wooden", "wooden nice round"]
+    answer: 1
+    explain: "Мнение (*nice*) → форма (*round*) → материал (*wooden*)."
+  - q: "Which sentence is correct?"
+    options: ["I go usually to work by bus.", "I usually go to work by bus.", "Usually I go by bus usually to work."]
+    answer: 1
+    explain: "Наречие частоты — **перед** смысловым глаголом: *usually go*."
+  - q: "The film was ___ to watch twice."
+    options: ["enough good", "good enough", "enough well"]
+    answer: 1
+    explain: "**enough** — после прилагательного: *good enough*."
+  - q: "I'm starving — I ___ ."
+    options: ["haven't had yet lunch", "haven't had lunch yet", "yet haven't had lunch"]
+    answer: 1
+    explain: "**yet** в отрицании — в конце, после дополнения: *haven't had lunch yet*."
+  - q: "He's so lazy that he ___ his own bed."
+    options: ["doesn't even make", "even doesn't make", "doesn't make even"]
+    answer: 0
+    explain: "**even** — после вспомогательного глагола, перед смысловым: *doesn't even make*."
+  - q: "Do you ___ in the same flat?"
+    options: ["still live", "live still", "still are living"]
+    answer: 0
+    explain: "**still** — перед смысловым глаголом: *Do you still live…?*"
+  - q: "Which sentence is correct?"
+    options: ["We yesterday met at the café.", "We met at the café yesterday.", "We at the café met yesterday."]
+    answer: 1
+    explain: "Место → время: *at the café yesterday*. Время между подлежащим и глаголом (~~We yesterday met~~) — калька с русского."

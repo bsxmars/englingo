@@ -1,0 +1,56 @@
+title: "Зависимые предлоги, between или among"
+type: choice
+intro: "Выбери единственный верный вариант. Предлог здесь определяется словом перед ним или тем, как устроена группа."
+hints:
+  - "ban, restriction, emphasis, effect, impact → on."
+  - "believe, invest, specialise, indulge, result → in."
+  - "between — связи между отдельными участниками; among — «в числе», внутри группы."
+items:
+  - q: "The government has announced a ban ___ single-use plastics."
+    options: ["on", "of", "for"]
+    answer: 0
+    explain: "*ban* — существительное «давления» → **a ban on** something. Так же *restrictions on, sanctions on, limits on*."
+  - q: "Several investors have expressed an interest ___ the project."
+    options: ["for", "in", "to"]
+    answer: 1
+    explain: "**interest in** — интерес к чему-то. ~~interest for~~ — калька с «интерес к»."
+  - q: "She insisted ___ paying for everyone's dinner."
+    options: ["to", "in", "on"]
+    answer: 2
+    explain: "**insist on** + -ing. ~~insist to pay~~ — частая ошибка: после *on* только герундий."
+  - q: "The study examined the relationship ___ sleep, diet and academic performance."
+    options: ["among", "between", "within"]
+    answer: 1
+    explain: "Речь о **связях** между отдельными факторами → *between*, даже если их три."
+  - q: "___ the main advantages of remote work is the absence of a daily commute."
+    options: ["Among", "Between", "Amid"]
+    answer: 0
+    explain: "«В числе преимуществ» → **Among**. *Amid* — «посреди» (шума, кризиса), а не «в числе»."
+  - q: "Why is he shouting ___ the waiter? It isn't his fault."
+    options: ["to", "at", "on"]
+    answer: 1
+    explain: "**shout at** — кричать **на** кого-то, со злостью. *shout to* — кричать кому-то, чтобы услышал: по контексту (*It isn't her fault*) нужен *at*."
+  - q: "The new guidelines place considerable emphasis ___ transparency."
+    options: ["on", "in", "to"]
+    answer: 0
+    explain: "**emphasis on** — так же, как глагол *focus on*."
+  - q: "Stratford is a small market town ___ the river Avon."
+    options: ["at", "in", "on"]
+    answer: 2
+    explain: "Река — **линия** → *on the Avon*, *on the Rhine*, *on the border*."
+  - q: "The express train doesn't stop ___ smaller stations like this one."
+    options: ["at", "on", "by"]
+    answer: 0
+    explain: "Станция — **точка на маршруте** → *stop at*."
+  - q: "These cuts are likely to result ___ longer waiting times."
+    options: ["to", "into", "in"]
+    answer: 2
+    explain: "**result in** — приводить к (следствие). *result from* — происходить из (причина). ~~result to~~ не бывает."
+  - q: "Who's the man ___ the photo, standing next to your sister?"
+    options: ["on", "in", "at"]
+    answer: 1
+    explain: "Изображённое на снимке — **in** the photo / in the picture. «На фото» по-русски, но по-английски картинка — пространство."
+  - q: "He has been accused of meddling ___ the internal affairs of other countries."
+    options: ["with", "in", "into"]
+    answer: 1
+    explain: "**meddle in** (как *interfere in*) — вмешиваться в дела. *meddle with* тоже бывает, но значит «трогать, возиться с вещью»; о делах стран — *in*."

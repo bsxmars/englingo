@@ -1,0 +1,47 @@
+title: "Выбери связку"
+type: choice
+intro: "Выбери связку, которая подходит и по смыслу, и по грамматике. Смотри, что идёт **после** пропуска: целое предложение, существительное или *-ing*."
+hints:
+  - "although / even though + подлежащее и глагол; despite / in spite of + существительное или -ing."
+  - "however начинает новое предложение; whereas сравнивает два факта."
+items:
+  - q: "___ the heavy rain, the match went ahead."
+    options: ["Although", "Despite", "However"]
+    answer: 1
+    explain: "После пропуска — существительное (*the heavy rain*), значит, нужен предлог **Despite**. *Although* требует подлежащее с глаголом: *Although it was raining heavily…*"
+  - q: "She took the job ___ the salary was quite low."
+    options: ["despite", "even though", "however"]
+    answer: 1
+    explain: "После пропуска целое предложение (*the salary was quite low*) → союз **even though**. *Despite* так не умеет без *the fact that*."
+  - q: "The flat is quite small. ___, it's in a great location."
+    options: ["Although", "However", "Despite"]
+    answer: 1
+    explain: "Связка открывает новое предложение и стоит перед запятой → **However**. *Although* и *despite* не стоят в начале предложения отдельно."
+  - q: "___ feeling exhausted, he finished the report before midnight."
+    options: ["In spite of", "Although", "Even though"]
+    answer: 0
+    explain: "После пропуска форма на *-ing* (*feeling*) → предлог **In spite of**. После *although* нужно было бы *he felt*."
+  - q: "My brother loves football, ___ I can't stand it."
+    options: ["whereas", "despite", "nevertheless"]
+    answer: 0
+    explain: "Сравниваем два факта о двух людях (русское «а») → **whereas**. *Nevertheless* не соединяет части через запятую."
+  - q: "Despite ___ late, we caught the train."
+    options: ["we left", "leaving", "of leaving"]
+    answer: 1
+    explain: "После **despite** — существительное или *-ing*: *despite **leaving** late*. *Despite of* не бывает."
+  - q: "He didn't get the job, ___ he had all the right qualifications."
+    options: ["even though", "in spite of", "however"]
+    answer: 0
+    explain: "Дальше идёт целое предложение (*he had…*) → **even though**. *However* через запятую так не ставят, а *in spite of* требует существительное."
+  - q: "The hotel was a bit noisy. The breakfast was excellent, ___."
+    options: ["although", "though", "despite"]
+    answer: 1
+    explain: "В конце предложения в значении «впрочем, зато» может стоять только **though**."
+  - q: "In spite of ___ it was expensive, they bought the house."
+    options: ["the fact", "the fact that", "that"]
+    answer: 1
+    explain: "Чтобы после *in spite of* поставить целое предложение, нужна связка **the fact that**: *in spite of the fact that it was expensive*."
+  - q: "___ some people enjoy working from home, others feel isolated."
+    options: ["While", "Despite", "However"]
+    answer: 0
+    explain: "Противопоставляем две группы людей в одном предложении → **While** (= *whereas*). *However* требовал бы двух отдельных предложений."

@@ -1,0 +1,41 @@
+title: "Дополнения и придаточные: найди ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка — в управлении глагола, порядке дополнений или структуре предложения. Исправь её и отправь предложение целиком."
+hints:
+  - "explain, suggest, mention, describe, admit — «кому» только через to."
+  - "tell, remind, inform, assure, convince — «кому» без предлога, и он обязателен."
+  - "discuss, enter, reach, resemble, attend — без предлога."
+items:
+  - q: "Could you explain me why the deadline was moved?"
+    answers: ["Could you explain to me why the deadline was moved?", "Could you explain why the deadline was moved?"]
+    explain: "*explain* не берёт «кому» без предлога: **explain to me** why… Можно и вовсе без «кому»."
+  - q: "The consultant suggested us that we postpone the launch."
+    answers: ["The consultant suggested to us that we postpone the launch.", "The consultant suggested that we postpone the launch.", "The consultant suggested that we should postpone the launch."]
+    explain: "*suggest* + **to** кому + *that*: *suggested **to us** that…* Чаще «кому» просто опускают: *suggested that we (should) postpone…*"
+  - q: "We discussed about the proposal for almost three hours."
+    answers: ["We discussed the proposal for almost three hours."]
+    explain: "*discuss* — переходный глагол, предлог не нужен: **discussed the proposal**. Сравни существительное: *a discussion **about** the proposal*."
+  - q: "She assured that the data would be kept confidential."
+    answers: ["She assured us that the data would be kept confidential.", "She assured me that the data would be kept confidential.", "She assured them that the data would be kept confidential.", "She assured him that the data would be kept confidential.", "She assured her clients that the data would be kept confidential.", "She said that the data would be kept confidential.", "She promised that the data would be kept confidential."]
+    explain: "После *assure* (как *tell, remind, inform*) нужен адресат: *assured **us** that…* Если адресат не важен — другой глагол: *said / promised that…*"
+  - q: "He admitted the auditors that some figures had been altered."
+    answers: ["He admitted to the auditors that some figures had been altered.", "He admitted that some figures had been altered."]
+    explain: "*admit* + **to** кому + *that*: *admitted **to the auditors** that…*"
+  - q: "The mistake cost to the company nearly half a million."
+    answers: ["The mistake cost the company nearly half a million."]
+    explain: "*cost* (как *charge, fine, deny, forgive*) — только «кому + что» без предлога: **cost the company** half a million."
+  - q: "Please don't lend him it — he never returns anything."
+    answers: ["Please don't lend it to him — he never returns anything."]
+    explain: "Когда оба дополнения — местоимения, используют модель с предлогом: **lend it to him**."
+  - q: "As the plane approached to the runway, the engines suddenly cut out."
+    answers: ["As the plane approached the runway, the engines suddenly cut out."]
+    explain: "*approach* (как *reach, enter*) — переходный глагол: **approached the runway** без *to*."
+  - q: "I was so exhausted that couldn't follow the rest of the lecture."
+    answers: ["I was so exhausted that I couldn't follow the rest of the lecture.", "I was so exhausted that I could not follow the rest of the lecture."]
+    explain: "В придаточном подлежащее не опускается, даже если совпадает с главным: *that **I** couldn't follow…*"
+  - q: "The new manager reminded that the reports were due on Friday."
+    answers: ["The new manager reminded us that the reports were due on Friday.", "The new manager reminded everyone that the reports were due on Friday.", "The new manager reminded the team that the reports were due on Friday.", "The new manager reminded them that the reports were due on Friday.", "The new manager reminded staff that the reports were due on Friday.", "The new manager reminded the staff that the reports were due on Friday.", "The new manager reminded me that the reports were due on Friday."]
+    explain: "*remind* требует адресата: *reminded **us / everyone / the team** that…* Без него можно *pointed out that…*"
+  - q: "He not only rewrote the introduction but also the conclusion."
+    answers: ["He rewrote not only the introduction but also the conclusion.", "He not only rewrote the introduction but also rewrote the conclusion.", "He not only rewrote the introduction but also revised the conclusion."]
+    explain: "Части *not only… but also* должны быть параллельны. *not only rewrote* (глагол) требует глагола после *but also*; проще перенести: *rewrote **not only** the introduction **but also** the conclusion*."

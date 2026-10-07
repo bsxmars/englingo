@@ -1,0 +1,56 @@
+title: "Где и куда: предлоги места и движения"
+type: choice
+intro: "Выбери предлог, который точно описывает положение или движение."
+hints:
+  - "into / onto — движение внутрь / на поверхность; out of / off — наоборот."
+  - "across — поперёк по поверхности, through — сквозь, along — вдоль, past — мимо."
+  - "between — между двумя, among — среди многих."
+items:
+  - q: "The cat jumped ___ the kitchen table and knocked over my coffee."
+    options: ["onto", "into", "at"]
+    answer: 0
+    explain: "Движение на поверхность → **onto**. *into* — внутрь чего-то объёмного, а стол — поверхность."
+  - q: "She walked ___ the room and switched on the light."
+    options: ["onto", "into", "at"]
+    answer: 1
+    explain: "Движение внутрь помещения → **into** the room."
+  - q: "We walked ___ the river for an hour, enjoying the sunset."
+    options: ["along", "across", "through"]
+    answer: 0
+    explain: "Целый час — значит, **вдоль** реки: **along**. *across* — перейти на другой берег, это не займёт час."
+  - q: "The train went ___ a long dark tunnel."
+    options: ["across", "through", "along"]
+    answer: 1
+    explain: "Сквозь что-то объёмное (туннель, лес, окно) → **through**."
+  - q: "She's sitting ___ me at the table, so I can see her face the whole time."
+    options: ["next to", "opposite", "behind"]
+    answer: 1
+    explain: "Видишь лицо — значит, сидит **напротив**: **opposite**. *next to* — рядом, сбоку."
+  - q: "Our village is somewhere ___ Oxford and London."
+    options: ["among", "between", "in the middle"]
+    answer: 1
+    explain: "Между **двумя** названными точками → **between … and …**. *among* — среди многих."
+  - q: "Somewhere ___ the thousands of fans at the concert was my old school friend."
+    options: ["between", "among", "within"]
+    answer: 1
+    explain: "Среди многих (людей, предметов) → **among**. *between* — между двумя или между отдельными, чётко названными точками."
+  - q: "What time did you arrive ___ the airport?"
+    options: ["to", "at", "in"]
+    answer: 1
+    explain: "После **arrive** никогда не бывает *to*. Здание, пункт → **arrive at**; город, страна → **arrive in**."
+  - q: "We got ___ the bus one stop too early."
+    options: ["out of", "off", "from"]
+    answer: 1
+    explain: "Из автобуса, поезда, самолёта — **get off** (это «поверхность», по которой можно ходить). *get out of* — из машины или такси."
+  - q: "Last night the temperature fell to ten degrees ___ zero."
+    options: ["under", "below", "down"]
+    answer: 1
+    explain: "Ниже по шкале или уровню → **below** zero. *under* — прямо под предметом: *under the table*."
+  - q: "He walked right ___ me in the street and didn't even say hello."
+    options: ["past", "across", "through"]
+    answer: 0
+    explain: "Мимо кого-то → **past**. *through* и *across* — про проход сквозь или поперёк чего-то."
+  - q: "Hurry up, or we won't get to the cinema ___ the start of the film!"
+    options: ["on time for", "in time for", "at time for"]
+    answer: 1
+    explain: "Успеть заранее, до начала → **in time for**. *on time* — точно по расписанию (*The train left on time*), и после него *for* не нужен."

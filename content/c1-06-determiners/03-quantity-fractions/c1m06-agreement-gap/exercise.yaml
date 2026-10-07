@@ -1,0 +1,44 @@
+title: "Согласование и выбор квантификатора"
+type: gap
+intro: "Если в скобках дан глагол — поставь его в нужную форму (**is / are, has / have, was / were**). Если дан выбор — впиши **одно** подходящее слово или выражение."
+hints:
+  - "Дробь, процент, half, the majority, the rest + of: глагол согласуется с существительным после of."
+  - "the number of → ед. ч.; a number of → мн. ч."
+  - "Суммы, расстояния, время — одно количество: Ten miles is…, less than £50."
+items:
+  - q: "According to the latest audit, three-quarters of the budget ___ (be) spent on staff costs."
+    answers: ["is", "was", "has been", "is being"]
+    explain: "*budget* — единственное число, поэтому **is** (или *was / has been*): глагол согласуется с существительным после *of*, а не с дробью."
+  - q: "Roughly a third of the respondents ___ (have) never used the service."
+    answers: ["have", "had"]
+    explain: "*respondents* — множественное число → **have**."
+  - q: "The number of reported incidents ___ (have) fallen sharply since 2020."
+    answers: ["has"]
+    explain: "***The number of*** — подлежащее «число», единственное число → **has fallen**."
+  - q: "A number of residents ___ (have) objected to the proposed development."
+    answers: ["have"]
+    explain: "***A number of*** = «ряд, несколько» → множественное число: **have objected**."
+  - q: "Twenty thousand pounds ___ (be) a great deal of money for a small charity."
+    answers: ["is", "was"]
+    explain: "Сумма воспринимается как одно количество → **is**, хотя *pounds* во множественном."
+  - q: "Half of the documents ___ (be) missing when the auditors arrived."
+    answers: ["were"]
+    explain: "*half of* + *documents* (мн. ч.) → **were**. Сравни: *Half of the money was missing*."
+  - q: "Neither of the two reports ___ (mention) the delay, which is surprising."
+    answers: ["mentions", "mention"]
+    explain: "После *neither of* в формальном стиле — **mentions** (ед. ч.); *mention* встречается в разговорной речи и тоже допустимо."
+  - q: "The journey took ___ (fewer / less) than three hours, despite the snow."
+    answers: ["less"]
+    explain: "Время — одно измеряемое количество → **less than three hours**, хотя *hours* во множественном."
+  - q: "There were ___ (fewer / less) than fifty people at the launch, which was a disappointment."
+    answers: ["fewer"]
+    explain: "Людей считают поштучно → **fewer than fifty people**. *less* здесь — разговорный вариант, в формальном тексте ошибка."
+  - q: "___ (Few / A few) people realise how much water is needed to produce a single cotton T-shirt, which is precisely why the campaign was launched."
+    answers: ["few"]
+    explain: "«Мало кто понимает» → **Few** без артикля, отрицательный смысл. *A few people realise* = «некоторые понимают» — не тот смысл."
+  - q: "The majority of the land ___ (be) owned by three families."
+    answers: ["is", "was"]
+    explain: "*the majority of* + неисчисляемое *land* → **is**. С множественным было бы *are*: *The majority of voters are…*"
+  - q: "Ten per cent of the population ___ (live) below the poverty line."
+    answers: ["lives", "live"]
+    explain: "*population* — групповое существительное: можно **lives** (как единое целое) или *live* (как множество людей). Оба варианта верны."

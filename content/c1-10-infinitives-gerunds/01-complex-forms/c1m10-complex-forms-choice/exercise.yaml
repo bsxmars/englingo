@@ -1,0 +1,47 @@
+title: "Какая форма точнее?"
+type: choice
+intro: "Почти все варианты грамматичны. Выбери тот, который точно передаёт смысл или подходит по регистру."
+hints:
+  - "Спроси себя: действие одновременно с главным глаголом, раньше или идёт как процесс?"
+  - "Подлежащее делает действие или с ним что-то делают?"
+items:
+  - q: "Looking back, I'm glad ___ that risk — it changed my career."
+    options: ["to take", "to have taken", "to be taking"]
+    answer: 1
+    explain: "Риск уже в прошлом, а радость — сейчас → **to have taken**. *glad to take* значило бы «охотно возьму»."
+  - q: "The bridge is now said ___ for years, which explains the sudden collapse."
+    options: ["to weaken", "to be weakening", "to have been weakening"]
+    answer: 2
+    explain: "Процесс длился годами до обрушения → перфектный длительный инфинитив **to have been weakening**."
+  - q: "She was the first woman ___ the medal for bravery."
+    options: ["to be awarded", "to award", "being awarded"]
+    answer: 0
+    explain: "Медаль ей вручили → пассив: *the first woman **to be awarded***. *to award* значило бы, что она сама вручала медаль."
+  - q: "He hates ___ what to do; he'd much rather work things out himself."
+    options: ["telling", "being told", "to tell"]
+    answer: 1
+    explain: "Ему говорят, что делать → пассивный герундий **being told**. *hates telling* — он сам не любит говорить другим."
+  - q: "The house appears ___ empty for some time — the garden is completely overgrown."
+    options: ["to be", "being", "to have been"]
+    answer: 2
+    explain: "*for some time* + следы в настоящем → состояние длилось до сих пор: **to have been**."
+  - q: "Instead of ___ as a failure, the experiment is now seen as a turning point."
+    options: ["regarding", "being regarded", "having regarded"]
+    answer: 1
+    explain: "Эксперимент не «рассматривает», его рассматривают → пассивный герундий после предлога: **being regarded**."
+  - q: "I can't recall ___ that contract — are you sure it was me?"
+    options: ["signing", "to sign", "being signed"]
+    answer: 0
+    explain: "*recall* + герундий о прошлом действии: **signing**. *to sign* после *recall* не употребляется, *being signed* — меня подписали."
+  - q: "The suspect is believed ___ the country under a false name two years ago."
+    options: ["to leave", "to be leaving", "to have left"]
+    answer: 2
+    explain: "*is believed* — сейчас, отъезд — два года назад → перфектный инфинитив **to have left**."
+  - q: "In a formal complaint: 'The committee objected to ___ the report without consultation.'"
+    options: ["him publishing", "his publishing", "he publishing"]
+    answer: 1
+    explain: "В формальном тексте подлежащее герундия — притяжательное: **his publishing**. *him publishing* грамматично, но разговорнее; *he publishing* неверно."
+  - q: "In an essay: 'The government decided ___ with the controversial reform.'"
+    options: ["not to proceed", "to not proceed", "to proceed not"]
+    answer: 0
+    explain: "В формальном письме *not* стоит перед *to*: **not to proceed**. *to not proceed* встречается в разговоре, но в эссе считается небрежным."

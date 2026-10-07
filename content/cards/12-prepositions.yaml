@@ -1,0 +1,140 @@
+- id: m12-at-on-in-idea
+  lesson: 12-prepositions/01-place-time
+  q: "Общая картинка для **at / on / in** (место и время)?"
+  a: "**at** — точка (*at the door, at 5 pm*), **on** — поверхность или день (*on the wall, on Monday*), **in** — пространство или период (*in the room, in May*)."
+- id: m12-in-the-photo
+  lesson: 12-prepositions/01-place-time
+  q: "Найди ошибку: *Who's that on the photo?*"
+  a: "*Who's that **in** the photo?* — изображение — «пространство»: *in the photo / picture*."
+- id: m12-arrive-in-at
+  lesson: 12-prepositions/01-place-time
+  q: "**arrive** + какой предлог?"
+  a: "**arrive in** + город или страна, **arrive at** + здание или пункт. Никогда не ~~arrive to~~."
+- id: m12-go-home
+  lesson: 12-prepositions/01-place-time
+  q: "Найди ошибку: *Let's go to home.*"
+  a: "*Let's **go home**.* — после глаголов движения *home* без предлога. Но «дома» — *at home*."
+- id: m12-no-prep-next
+  lesson: 12-prepositions/01-place-time
+  q: "Переведи: «Увидимся в следующую субботу»."
+  a: "*See you **next Saturday**.* — перед *next, last, this, every* предлога нет."
+- id: m12-in-on-time
+  lesson: 12-prepositions/01-place-time
+  q: "**in time** или **on time**?"
+  a: "**on time** — точно по расписанию (*The train left on time*). **in time** — заранее, чтобы успеть (*in time for dinner*)."
+- id: m12-in-minutes
+  lesson: 12-prepositions/01-place-time
+  q: "Переведи: «Я вернусь через десять минут»."
+  a: "*I'll be back **in** ten minutes.* — «через» от сейчас = *in*, не ~~after~~."
+- id: m12-across-through
+  lesson: 12-prepositions/01-place-time
+  q: "«через» улицу, лес, забор — какие предлоги?"
+  a: "*across the street* (по поверхности), *through the forest* (сквозь), *over the fence* (сверху)."
+- id: m12-since-for
+  lesson: 12-prepositions/02-for-since-during
+  q: "Найди ошибку: *I've lived here since three years.*"
+  a: "*I've lived here **for** three years.* — *for* + длительность, *since* + момент (*since 2022*)."
+- id: m12-ago-before
+  lesson: 12-prepositions/02-for-since-during
+  q: "**ago** или **before**?"
+  a: "**ago** — назад от сейчас, Past Simple: *two days ago*. **before** — назад от момента в прошлом, Past Perfect: *he had left two days before*."
+- id: m12-during-while
+  lesson: 12-prepositions/02-for-since-during
+  q: "**during** или **while**: It rained ___ we were on holiday."
+  a: "**while** — дальше предложение (*we were…*). *during* — перед существительным: *during the holiday*."
+- id: m12-by-until
+  lesson: 12-prepositions/02-for-since-during
+  q: "**by** или **until**: Finish it ___ Friday. / I'll stay ___ Friday."
+  a: "*Finish it **by** Friday* — не позже срока. *I'll stay **until** Friday* — всё время вплоть до."
+- id: m12-by-the-time
+  lesson: 12-prepositions/02-for-since-during
+  q: "Переведи: «К тому времени, как мы приехали, все ушли»."
+  a: "***By the time** we arrived, everyone **had left**.*"
+- id: m12-as-like
+  lesson: 12-prepositions/02-for-since-during
+  q: "*She works as a teacher* и *She talks like a teacher* — в чём разница?"
+  a: "**as** — роль, так и есть (она учитель). **like** — похоже на (ведёт себя как учитель)."
+- id: m12-as-if
+  lesson: 12-prepositions/02-for-since-during
+  q: "Переведи: «Ты выглядишь так, будто не спал»."
+  a: "*You look **as if** you haven't slept.*"
+- id: m12-by-on-purpose
+  lesson: 12-prepositions/03-prepositional-phrases
+  q: "«случайно» и «нарочно» по-английски?"
+  a: "**by accident / by mistake / by chance** — случайно; **on purpose** — нарочно."
+- id: m12-in-at-the-end
+  lesson: 12-prepositions/03-prepositional-phrases
+  q: "**in the end** или **at the end**?"
+  a: "**in the end** — в итоге, в конце концов. **at the end of** — в конце чего-то: *at the end of May*."
+- id: m12-on-foot
+  lesson: 12-prepositions/03-prepositional-phrases
+  q: "Найди ошибку: *We went there by foot.*"
+  a: "*We went there **on foot**.* Остальной транспорт — *by*: *by bus, by car*."
+- id: m12-reason-for
+  lesson: 12-prepositions/03-prepositional-phrases
+  q: "Предлоги: reason ___, cause ___, solution ___"
+  a: "*reason **for**, cause **of**, solution **to***."
+- id: m12-rise-in-of
+  lesson: 12-prepositions/03-prepositional-phrases
+  q: "*a rise in* или *a rise of*?"
+  a: "**in** — чего (*a rise in prices*), **of** — на сколько (*a rise of 5%*)."
+- id: m12-good-at-for-to
+  lesson: 12-prepositions/03-prepositional-phrases
+  q: "good **at** / good **for** / good **to** — разница?"
+  a: "*good at maths* — умеет; *good for you* — полезно; *good to me* — добр ко мне."
+- id: m12-angry-with-about
+  lesson: 12-prepositions/03-prepositional-phrases
+  q: "Переведи: «Я злюсь на тебя из-за опоздания»."
+  a: "*I'm angry **with** you **about** the delay.* — *with* человек, *about* ситуация."
+- id: m12-in-my-opinion
+  lesson: 12-prepositions/03-prepositional-phrases
+  q: "Найди ошибку: *In my point of view, it's too expensive.*"
+  a: "***From** my point of view…* или ***In my opinion**…*"
+- id: m12-porto-on-the-whole
+  lesson: 12-prepositions/04-reading
+  q: "Коллокация из текста: «в целом, по большому счёту»"
+  a: "***on the whole*** — *On the whole, it was worth it.* Синоним — *in general*."
+- id: m12-in-the-night
+  lesson: 12-prepositions/01-place-time
+  q: "**at night** или **in the night**?"
+  a: "**at night** — по ночам, ночью вообще; **in the night** — посреди одной конкретной ночи: *I woke up in the night*."
+- id: m12-as-if-like
+  lesson: 12-prepositions/02-for-since-during
+  q: "Найди ошибку: *He talks as an expert, but he's never studied it.*"
+  a: "*He talks **like** an expert* (или *as if he were an expert*) — он не эксперт, а только похож. *as* — реальная роль."
+- id: m12-concerned-about-with
+  lesson: 12-prepositions/03a-dependent-prepositions
+  q: "**concerned about** или **concerned with**?"
+  a: "**about** — обеспокоен (*concerned about costs*); **with** — посвящён, касается (*The book is concerned with ethics*)."
+- id: m12-good-with
+  lesson: 12-prepositions/03a-dependent-prepositions
+  q: "Переведи: «Она отлично ладит с детьми»."
+  a: "*She's great **with** children.* — **good / great with** — умеет обращаться с людьми, вещами, деньгами."
+- id: m12-discuss-discussion
+  lesson: 12-prepositions/03a-dependent-prepositions
+  q: "Найди ошибку: *We discussed about the budget.*"
+  a: "*We **discussed** the budget.* — глагол без предлога. Но существительное — *a discussion **about** the budget*."
+- id: m12-effect-on
+  lesson: 12-prepositions/03a-dependent-prepositions
+  q: "**affect** или **effect on**: Stress can ___ your sleep."
+  a: "*Stress can **affect** your sleep* — глагол без предлога. Существительное: *have an **effect on** your sleep*."
+- id: m12-familiar-with-to
+  lesson: 12-prepositions/03a-dependent-prepositions
+  q: "*familiar with* или *familiar to*?"
+  a: "Человек знает вещь — *I'm familiar **with** Git*. Вещь знакома человеку — *Git is familiar **to** me*."
+- id: m12-aware-that
+  lesson: 12-prepositions/03a-dependent-prepositions
+  q: "Найди ошибку: *I'm aware of that it's late.*"
+  a: "*I'm aware **that** it's late.* — перед *that*-предложением предлог выпадает. С существительным — *aware **of** the time*."
+- id: m12-sorry-for-about
+  lesson: 12-prepositions/03a-dependent-prepositions
+  q: "*sorry about* или *sorry for*: I feel ___ Tom. / ___ the noise."
+  a: "*I feel sorry **for** Tom* — жалеть человека. *Sorry **about** the noise* — сожалеть о ситуации."
+- id: m12-pride-in
+  lesson: 12-prepositions/03a-dependent-prepositions
+  q: "Переведи: «Она гордится своей работой» (двумя способами)."
+  a: "*She's **proud of** her work.* / *She **takes pride in** her work.* — у существительного *pride* предлог **in**."
+- id: m12-tired-of-from
+  lesson: 12-prepositions/03a-dependent-prepositions
+  q: "*tired of* или *tired from*?"
+  a: "**tired of** — надоело (*tired of meetings*); **tired from** — физически устал после (*tired from the drive*)."

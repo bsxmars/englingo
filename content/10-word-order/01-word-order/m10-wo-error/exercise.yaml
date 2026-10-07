@@ -1,0 +1,40 @@
+title: "Найди и исправь ошибку в порядке слов"
+type: error
+intro: "В каждом предложении **одна** ошибка в порядке слов или пропущено обязательное слово. Исправь предложение целиком."
+hints:
+  - "Между глаголом и дополнением ничего не вставляем."
+  - "enough — после прилагательного, но перед существительным."
+items:
+  - q: "I like very much this song."
+    answers: ["I like this song very much.", "I really like this song.", "I very much like this song."]
+    explain: "Нельзя разрывать глагол и дополнение: *like this song*, а **very much** — в конце."
+  - q: "She speaks very well French."
+    answers: ["She speaks French very well."]
+    explain: "Наречие образа действия — после дополнения: *speaks French very well*."
+  - q: "He goes often to the gym."
+    answers: ["He often goes to the gym.", "He goes to the gym often."]
+    explain: "Наречие частоты — **перед** смысловым глаголом: *often goes*. Реже его ставят в конец."
+  - q: "I have finished already my project."
+    answers: ["I have already finished my project.", "I have finished my project already.", "I've already finished my project.", "I've finished my project already."]
+    explain: "**already** — между *have* и причастием или в конце, но не между глаголом и дополнением."
+  - q: "She is enough old to vote."
+    answers: ["She is old enough to vote.", "She's old enough to vote."]
+    explain: "**enough** после прилагательного: *old enough*."
+  - q: "They bought a red big car."
+    answers: ["They bought a big red car."]
+    explain: "Размер идёт перед цветом: *big red car*."
+  - q: "Never I eat fast food."
+    answers: ["I never eat fast food."]
+    explain: "**never** — после подлежащего и перед глаголом: *I never eat*."
+  - q: "I yet haven't decided."
+    answers: ["I haven't decided yet.", "I still haven't decided.", "I haven't yet decided."]
+    explain: "**yet** — в конце отрицания: *haven't decided yet*. «Всё ещё не» перед глаголом — это *still*: *I still haven't decided*."
+  - q: "We don't have money enough for a holiday."
+    answers: ["We don't have enough money for a holiday."]
+    explain: "С существительным **enough** стоит **перед** ним: *enough money*."
+  - q: "Is raining again."
+    answers: ["It is raining again.", "It's raining again."]
+    explain: "В английском подлежащее обязательно, даже «пустое»: ***It**'s raining*."
+  - q: "He always is late for meetings."
+    answers: ["He is always late for meetings.", "He's always late for meetings."]
+    explain: "С глаголом **be** наречие частоты стоит **после** него: *is always*."

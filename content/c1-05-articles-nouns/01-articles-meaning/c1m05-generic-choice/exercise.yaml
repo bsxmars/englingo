@@ -1,0 +1,52 @@
+title: "Вид, тип или «тот самый»"
+type: choice
+intro: "Выбери единственный вариант, который грамматически и по смыслу подходит к предложению. Спроси себя: я классифицирую (*a*), идентифицирую (*the*) или говорю о понятии вообще (без артикля)?"
+hints:
+  - "Свойства всего вида (is extinct, was domesticated, is endangered) не сочетаются с a/an."
+  - "one подчёркивает число или вводит момент в рассказе; a/an — нейтральное «один из» и приблизительные меры."
+  - "advice, research, progress, weather никогда не берут a/an."
+items:
+  - q: "___ is now classified as endangered across most of its former range."
+    options: ["A snow leopard", "The snow leopard", "Snow leopard"]
+    answer: 1
+    explain: "«Находится под угрозой» — свойство вида целиком, поэтому generic **the**. *A snow leopard* — любая одна особь, она не может быть endangered; исчисляемое существительное в единственном числе без артикля невозможно."
+  - q: "___ was first domesticated in the Middle East some ten thousand years ago."
+    options: ["The goat", "A goat", "Goat"]
+    answer: 0
+    explain: "Одомашнивают вид, а не отдельное животное → **The goat**. *A goat was first domesticated* означало бы, что одомашнили одну конкретную козу."
+  - q: "In many cultures, ___ are expected to care for their ageing parents."
+    options: ["young", "the young", "the youngs"]
+    answer: 1
+    explain: "*the* + прилагательное = группа людей: **the young**, глагол во множественном числе. Окончания *-s* у такого прилагательного нет."
+  - q: "We are currently carrying out ___ into the effects of night shifts on memory."
+    options: ["a research", "researches", "research"]
+    answer: 2
+    explain: "*research* неисчисляемое: ни *a*, ни *-es*. Если нужно «одно исследование» — *a study* или *a piece of research*."
+  - q: "She received ___ excellent education at a tiny village school."
+    options: ["an", "the", "a"]
+    answer: 0
+    explain: "Абстрактное *education* с оценочным прилагательным описывает один вид образования → **an excellent education**. *a* не подходит, потому что *excellent* начинается с гласного звука."
+  - q: "I'm afraid there's only room for ___ more passenger in the car."
+    options: ["a", "one", "the"]
+    answer: 1
+    explain: "*only* + подчёркнутое число → **one**. *a more passenger* и *the more passenger* невозможны."
+  - q: "___ evening in late October, a stranger knocked on our door."
+    options: ["An", "The", "One"]
+    answer: 2
+    explain: "Неопределённый момент в начале рассказа — **One evening / One day**. *An evening* в роли обстоятельства времени не употребляется."
+  - q: "The renovation took a year and ___ half, twice as long as planned."
+    options: ["one", "a", "the"]
+    answer: 1
+    explain: "Дроби и приблизительные меры — с *a*: **a year and a half**. *one half* звучит как точная математическая величина."
+  - q: "The painting in the hall turned out to be ___ Vermeer, not a copy."
+    options: ["the", "a", "—"]
+    answer: 1
+    explain: "Имя художника здесь означает «одна из его картин» — классификация → **a Vermeer**. Так же *a Picasso*, *a Ford*."
+  - q: "My grandfather never trusted ___ ; he kept his savings in a tin under the bed."
+    options: ["the banks", "banks", "bank"]
+    answer: 1
+    explain: "Речь о банках вообще → множественное число без артикля, **banks**. *the banks* — конкретные, уже известные банки; исчисляемое *bank* в единственном числе без артикля стоять не может."
+  - q: "She has always had ___ for languages; she picked up Greek in a single summer."
+    options: ["gift", "a gift", "the gifts"]
+    answer: 1
+    explain: "*gift* в значении «талант» исчисляемое: **a gift for** something. Без артикля в единственном числе оно не стоит, а *the gifts* означало бы конкретные, уже известные подарки или таланты."

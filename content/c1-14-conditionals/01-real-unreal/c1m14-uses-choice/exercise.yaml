@@ -1,0 +1,52 @@
+title: "Выбери форму по смыслу"
+type: choice
+intro: "Выбери вариант, который точнее всего передаёт смысл и уместен в ситуации. Обрати внимание на случаи, где will и would в if-части — не ошибка."
+hints:
+  - "Ударное will в if-части = «если ты упорно…»."
+  - "if you'll / if you would — вежливая просьба."
+  - "Упрёк за прошлое — counterfactual: if + had V3, would have V3."
+items:
+  - q: "— Can I help you with those boxes? — Thanks. If you ___ the door for me, I'll carry them in."
+    options: ["'ll open", "would have opened", "opened"]
+    answer: 0
+    explain: "Вежливая просьба → **if you'll**. *opened* (второй тип) не сочетается с *I'll*, *would have opened* — нереальное прошлое."
+  - q: "If you ___ keep interrupting me, I'm going to stop explaining altogether."
+    options: ["will", "would", "should"]
+    answer: 0
+    explain: "Ударное **will** = «если ты упорно продолжаешь» — раздражение и упрёк."
+  - q: "When we were kids, if it rained, we ___ indoors and play cards for hours."
+    options: ["would stay", "would have stayed", "will stay"]
+    answer: 0
+    explain: "Прошлая привычка → **would** + инфинитив (= *used to*). Это factual, хотя выглядит как второй тип."
+  - q: "If I ___ feeling better, I'd help you move — but my back is killing me."
+    options: ["were", "had been", "am"]
+    answer: 0
+    explain: "Готовность помочь при неспособности сейчас → hypothetical: **were** feeling."
+  - q: "If demand ___, prices usually go up."
+    options: ["increases", "will increase", "increased"]
+    answer: 0
+    explain: "Экономическая закономерность → factual: **Present Simple**. *usually* подсказывает общую истину."
+  - q: "What ___ if a large asteroid hit the Atlantic?"
+    options: ["would happen", "will happen", "would have happened"]
+    answer: 0
+    explain: "Воображаемая ситуация (*hit* — Past) → hypothetical: **would happen**."
+  - q: "If you had listened to our accountant, we ___ all our savings."
+    options: ["wouldn't lose", "wouldn't have lost", "didn't lose"]
+    answer: 1
+    explain: "Упрёк за прошлое → counterfactual: **wouldn't have lost**."
+  - q: "If you came in July, you ___ even have the top-floor room to yourself."
+    options: ["might", "will", "must"]
+    answer: 0
+    explain: "Hypothetical допускает *could / might* вместо *would*: **might** — «возможно, даже…»."
+  - q: "If the ball touches the line, it ___ in."
+    options: ["is", "would be", "will have been"]
+    answer: 0
+    explain: "Правило игры → factual: **is**."
+  - q: "If the company ___ to relocate, around 300 jobs would be lost."
+    options: ["were", "was being", "had"]
+    answer: 0
+    explain: "Формальная гипотеза → **were to** + инфинитив."
+  - q: "Formal email: 'I ___ grateful if you could send me the invoice by Friday.'"
+    options: ["would be", "will be", "am being"]
+    answer: 0
+    explain: "Вежливая формула: **I would be grateful if you could…** Наклонение согласовано: *would … could*."

@@ -1,0 +1,42 @@
+title: "Статья: если бы я мог изменить одну вещь в своём городе"
+type: writing
+intro: "Напиши статью в формате B2 First Part 2. Не забудь заголовок и обращение к читателю."
+hints:
+  - "Заголовок → вступление с вопросом → проблема сейчас → как было бы → заключение."
+  - "Второй тип: if + Past Simple, would + глагол. В части с if нет would."
+prompt: |
+  You have seen this announcement on an English-language website for young people.
+
+  > **Articles wanted!**
+  >
+  > **If I could change one thing about my city**
+  >
+  > What would you change about the place where you live, and why? How would life be different for the people who live there?
+  >
+  > The best articles will be published on our website next month.
+
+  Write your **article**.
+words: [140, 190]
+target_grammar:
+  - "Second conditional: if + Past Simple, would / could + V"
+  - "wish + Past Simple / Past Perfect"
+  - "Mixed conditional (прошлое → настоящее)"
+  - "as long as / provided that / unless"
+checklist:
+  - "Есть заголовок, который хочется прочитать."
+  - "Вступление обращается к читателю (вопрос или яркая картинка)."
+  - "Объяснено, что не так сейчас, и как изменилась бы жизнь после перемен."
+  - "Минимум три условных предложения, в том числе второго типа; в части с if нет would."
+  - "Есть wish или if only и хотя бы одно из: unless, as long as, provided that."
+  - "Живой, но грамотный стиль: обращение к читателю, риторический вопрос в конце."
+  - "Объём 140–190 слов."
+model_answer: |
+  **Give Us Back Our River**
+
+  Have you ever walked along a river after a long day and felt your stress disappear? In my city, that's impossible, and I really wish it weren't. If I could change one thing, I would turn our riverbank into a park.
+
+  At the moment, the river is hidden behind a busy four-lane road and a row of ugly car parks. You can hear the traffic, but you can't even see the water. If the planners had thought about people rather than cars fifty years ago, we wouldn't have this problem today.
+
+  Just imagine how different life would be. If the road went underground, there would be space for trees, cafés and a cycle path. Families could have picnics at weekends, and office workers would eat their lunch by the water instead of at their desks. Of course, it wouldn't be cheap, but as long as the project was planned carefully, I'm sure it would be worth every penny.
+
+  So next time you're stuck in traffic by the river, ask yourself: wouldn't you rather be sitting under a tree on the other side of that fence?

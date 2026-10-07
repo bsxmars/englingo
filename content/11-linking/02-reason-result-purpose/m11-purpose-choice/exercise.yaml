@@ -1,0 +1,47 @@
+title: "Причина, следствие или цель?"
+type: choice
+intro: "Выбери вариант, который верен и по смыслу, и по грамматике."
+hints:
+  - "Цель человека — инфинитив (to, in order to); назначение предмета — for + -ing."
+  - "such bad weather (неисчисляемое), such a bad day (единственное число)."
+items:
+  - q: "I'm learning English ___ I can work abroad."
+    options: ["in order to", "so that", "for"]
+    answer: 1
+    explain: "После пропуска подлежащее + *can* → **so that**. *In order to* требует сразу глагол: *in order to work abroad*."
+  - q: "We left home early ___ get stuck in traffic."
+    options: ["not so as to", "for not to", "so as not to"]
+    answer: 2
+    explain: "Отрицательная цель: **so as not to** / *in order not to*. *not* ставится перед *to*."
+  - q: "I went to the pharmacy ___ some painkillers."
+    options: ["to buy", "for buy", "for buying"]
+    answer: 0
+    explain: "Цель действия человека → инфинитив **to buy**. *for + -ing* описывает назначение предмета, а не цель поступка."
+  - q: "This tool is used ___ wood."
+    options: ["to cutting", "for cut", "for cutting"]
+    answer: 2
+    explain: "Назначение предмета → **for + -ing**: *for cutting wood* (можно и *to cut*)."
+  - q: "The roads were icy. ___, there were several accidents."
+    options: ["Because", "As a result", "Due to"]
+    answer: 1
+    explain: "Следствие в начале нового предложения → **As a result**. *Because* и *due to* вводят причину, а не следствие."
+  - q: "The delay was ___ a technical problem."
+    options: ["due to", "because", "owing"]
+    answer: 0
+    explain: "После *be* + существительное → **due to**: *The delay was due to…* *Because* требует предложение, *owing* без *to* не употребляется."
+  - q: "___ you're here, could you help me move this table?"
+    options: ["Due to", "So", "Since"]
+    answer: 2
+    explain: "**Since** = «раз уж, так как» + предложение. *Due to* — предлог, *so* вводит следствие."
+  - q: "It was ___ weather that we stayed in all weekend."
+    options: ["so bad", "such bad", "such a bad"]
+    answer: 1
+    explain: "*weather* неисчисляемое → **such** без артикля: *such bad weather*."
+  - q: "There were ___ people at the concert that we couldn't see the stage."
+    options: ["so many", "such many", "so much"]
+    answer: 0
+    explain: "Исчисляемое во множественном числе → **so many** people. *such many* не говорят, *much* — для неисчисляемых."
+  - q: "He didn't get the job ___ his lack of experience."
+    options: ["because", "because of", "so"]
+    answer: 1
+    explain: "После пропуска — существительное (*his lack of experience*) → **because of**."

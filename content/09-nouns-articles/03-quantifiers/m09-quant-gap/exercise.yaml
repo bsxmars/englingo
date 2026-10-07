@@ -1,0 +1,43 @@
+title: "Quantifiers в контексте: впиши одно слово"
+type: gap
+intro: "Впиши **одно** слово: *some, any, no, none, all, every, each, both, either, neither, most, whole* и т. п. Смотри на число существительного, на отрицание и на то, о скольких предметах речь."
+hints:
+  - "Два предмета → both / either / neither; три и больше → all / any / none."
+  - "every и each + единственное число; after not → any, а не no."
+items:
+  - q: "I've invited my two best friends, but ___ of them can come — they're both away."
+    answers: ["neither"]
+    explain: "Речь о **двух**, и ни один не может → **neither of them** (глагол утвердительный, отрицание уже в *neither*)."
+  - q: "There were three buses, but ___ of them stopped for us."
+    answers: ["none"]
+    explain: "Предметов **больше двух** → **none of them**. *neither* — только про двоих."
+  - q: "You can pay by card or in cash — ___ way is fine."
+    answers: ["either"]
+    explain: "«Любой из двух» + единственное число → **either way**."
+  - q: "She spent the ___ weekend fixing the server."
+    answers: ["whole", "entire"]
+    explain: "«Целый» после артикля → **the whole weekend** (или *the entire weekend*)."
+  - q: "___ single seat in the hall was taken."
+    answers: ["Every"]
+    explain: "**Every single** — «абсолютно каждый», подчёркнуто; *each single* так не говорят."
+  - q: "We didn't get ___ replies to our survey, which was disappointing."
+    answers: ["any", "many"]
+    explain: "В отрицании — **any** (ни одного). *many* тоже грамматично: «немного ответов»."
+  - q: "Is there ___ chance you could finish this by Friday?"
+    answers: ["any", "a"]
+    explain: "В вопросе с неуверенностью → **any chance**. *a chance* тоже возможно."
+  - q: "___ of my colleagues work remotely, but a few come to the office every day."
+    answers: ["Most", "Some", "Many"]
+    explain: "Перед *of my colleagues* — **most of / some of / many of**: *every* и *each* здесь не подходят из-за глагола *work* во мн. ч."
+  - q: "The two candidates were excellent, so we offered jobs to ___ of them."
+    answers: ["both"]
+    explain: "Двое, и оба получили предложение → **both of them**."
+  - q: "There's ___ point in calling him now — he's on a plane."
+    answers: ["no"]
+    explain: "В утвердительном предложении «никакого смысла» → **There's no point** (= *There isn't any point*)."
+  - q: "___ student receives a certificate at the end of the course."
+    answers: ["Each", "Every"]
+    explain: "**Each / Every** + единственное число и глагол в ед. ч. (*receives*). *All students* потребовало бы множественное."
+  - q: "I've read ___ of her novels except the last one — it's still on my list."
+    answers: ["all"]
+    explain: "«Все, кроме…» → **all of her novels**. *every* нельзя: после *every* без *one* не ставится *of*."

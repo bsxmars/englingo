@@ -1,0 +1,56 @@
+title: "Вопросы в тонкостях: выбери вариант"
+type: choice
+intro: "Выбери вариант, который верен и лучше всего подходит по смыслу и регистру. Иногда грамматичны несколько вариантов — решает ситуация."
+hints:
+  - "which — выбор из известного набора; перед of и one — только which."
+  - "Формально предлог в начале + whom; нейтрально — предлог в конце."
+  - "Вопрос внутри вопроса и косвенный вопрос — порядок утверждения."
+items:
+  - q: "Formal letter: \"___ should queries regarding the tender be addressed?\""
+    options: ["Who", "To whom", "To who", "Whom to"]
+    answer: 1
+    explain: "Формальный стиль — предлог в начале, после него только **whom**: *To whom should queries be addressed?* Нейтрально было бы *Who should queries be addressed to?*"
+  - q: "Chatting with a colleague: \"___ were you talking to at lunch?\""
+    options: ["To whom", "Whom", "Who", "With who"]
+    answer: 2
+    explain: "В разговоре — **Who** и предлог в конце: *Who were you talking to?* *To whom* звучит канцелярски, *With who* неграмматично."
+  - q: "\"We've shortlisted three suppliers. ___ do you think offers the best value?\""
+    options: ["What", "Which", "Whose", "Whom"]
+    answer: 1
+    explain: "Выбор из известного набора (три поставщика) → **Which**. *What* звучит так, будто список неизвестен; *Whom* невозможно — это подлежащее для *offers*; *Whose* — «чей»."
+  - q: "\"___ do you think is behind these leaks?\""
+    options: ["Whom", "Who", "Whoever", "Whose"]
+    answer: 1
+    explain: "Вопросительное слово — подлежащее для *is*, вставка *do you think* этого не меняет → **Who**."
+  - q: "You can't believe someone climbed the fence: \"___ did he get over that fence?\""
+    options: ["How", "However", "Whatever", "Whichever"]
+    answer: 1
+    explain: "Удивление, недоверие — **However** did he get over…? (= *How on earth*). Обычное *How* — нейтральный вопрос."
+  - q: "\"I can't decide ___ to accept the offer or keep looking.\""
+    options: ["if", "whether", "that", "what"]
+    answer: 1
+    explain: "Перед инфинитивом возможно только **whether**: *whether to accept…* *if to accept* неграмматично."
+  - q: "\"— I've just sold the flat. — You've sold ___?\" (переспросить с удивлением)"
+    options: ["it", "which", "what", "that"]
+    answer: 2
+    explain: "Эхо-вопрос: wh-слово стоит на месте того, что удивило, и выделяется ударением — *You've sold **what**?*"
+  - q: "\"What's the new director ___?\" — \"Very sharp, but rather impatient.\""
+    options: ["like", "look like", "as", "how"]
+    answer: 0
+    explain: "Ответ о характере → **What's he like?** *What does he look like?* — о внешности."
+  - q: "Essay: \"___ that young people are losing interest in traditional media?\""
+    options: ["Is it really surprising", "Is it surprising really", "Really is it surprising", "Is really it surprising"]
+    answer: 0
+    explain: "Риторический вопрос в эссе: **Is it really surprising that…?** *really* после подлежащего *it*."
+  - q: "\"Do you know ___?\""
+    options: ["when does the next train leave", "when the next train leaves", "when leaves the next train", "the next train leaves when"]
+    answer: 1
+    explain: "Косвенный вопрос после *Do you know* — порядок утверждения: **when the next train leaves**."
+  - q: "\"___ did the Roman bridge collapse?\" (формальный вопрос о периоде)"
+    options: ["During which century", "Which century during", "What century in which", "In what during century"]
+    answer: 0
+    explain: "С *during, since, after* предлог обычно стоит в начале: **During which century** did the bridge collapse?"
+  - q: "\"When did she say ___?\""
+    options: ["will the results be published", "the results would be published", "would the results be published", "the results be published"]
+    answer: 1
+    explain: "Вопрос внутри вопроса: инверсия только во вставке (*did she say*), wh-часть — с порядком утверждения: **the results would be published**."

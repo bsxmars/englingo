@@ -1,0 +1,50 @@
+title: "Перефразирование (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+
+  Это Part 4 экзамена B2 First — одно из самых полезных упражнений на грамматику.
+hints:
+  - "«Началось N лет назад» = «длится уже N лет»: started … ago → have + V3 + for."
+  - "«Последний раз … тогда-то» = «не делал с тех пор»: last … in → haven't + V3 + since."
+items:
+  - q: "I started working here three years ago."
+    key: "FOR"
+    stem: "I ___ three years."
+    answers: ["have worked here for", "have been working here for"]
+    explain: "*started … ago* → *have worked / have been working here **for*** — действие продолжается."
+  - q: "The last time I saw Kate was in June."
+    key: "SINCE"
+    stem: "I ___ June."
+    answers: ["have not seen Kate since", "haven't seen Kate since", "have not seen her since", "haven't seen her since"]
+    explain: "*The last time … was in June* = *I **haven't seen** Kate **since** June*."
+  - q: "This is my first visit to Rome."
+    key: "BEEN"
+    stem: "I ___ Rome before."
+    answers: ["have never been to", "haven't been to", "have not been to"]
+    explain: "Первый раз = никогда раньше: *I **have never been to** Rome before*."
+  - q: "When did you start learning English?"
+    key: "LONG"
+    stem: "How ___ English?"
+    answers: ["long have you been learning", "long have you learned", "long have you learnt"]
+    explain: "*When did you start…?* → *How **long have you been learning**…?* — вопрос о длительности до сих пор."
+  - q: "It's ages since we went to the cinema."
+    key: "FOR"
+    stem: "We ___ ages."
+    answers: ["have not been to the cinema for", "haven't been to the cinema for", "haven't gone to the cinema for", "have not gone to the cinema for"]
+    explain: "*It's ages since…* = *We **haven't been to the cinema for** ages*."
+  - q: "I've never eaten such a delicious cake."
+    key: "EVER"
+    stem: "It's the most delicious cake I ___ ."
+    answers: ["have ever eaten", "'ve ever eaten"]
+    explain: "*never … such a* → *the most … I have **ever** eaten*."
+  - q: "My parents got married thirty years ago."
+    key: "BEEN"
+    stem: "My parents ___ thirty years."
+    answers: ["have been married for"]
+    explain: "*got married … ago* → состояние до сих пор: *have **been** married **for*** thirty years."
+  - q: "She moved to Berlin in 2021 and she still lives there."
+    key: "LIVED"
+    stem: "She ___ 2021."
+    answers: ["has lived in Berlin since", "has lived there since"]
+    explain: "Переехала и живёт до сих пор → *has **lived** in Berlin **since** 2021*."

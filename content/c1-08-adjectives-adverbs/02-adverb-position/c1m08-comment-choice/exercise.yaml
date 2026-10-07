@@ -1,0 +1,51 @@
+title: "Какое наречие по смыслу"
+type: choice
+intro: "Все варианты грамматичны, но по смыслу или по позиции подходит **один**. Выбери его."
+hints:
+  - "admittedly — уступка; arguably — смелое, но спорное утверждение; presumably — логичный вывод; supposedly — «якобы»."
+  - "Фокусные наречия меняют смысл в зависимости от того, что выделяют."
+items:
+  - q: "The film flopped at the box office, but ___ it was a triumph: reviewers adored it."
+    options: ["commercially", "critically", "financially"]
+    answer: 1
+    explain: "Речь о реакции рецензентов → **critically** («с точки зрения критики»). *commercially* и *financially* — как раз провал."
+  - q: "___, I haven't actually finished the book I'm meant to be reviewing."
+    options: ["Presumably", "Hopefully", "To be honest"]
+    answer: 2
+    explain: "Признание о себе → **To be honest**. *Presumably* — догадка о чём-то внешнем, *Hopefully* — желаемое."
+  - q: "Lena hasn't answered any of my emails. ___ she's still on holiday."
+    options: ["Presumably", "Admittedly", "Ideally"]
+    answer: 0
+    explain: "Логичное объяснение по имеющимся фактам → **Presumably** («надо полагать»)."
+  - q: "I've been so busy that I haven't ___ had time for a coffee."
+    options: ["even", "only", "also"]
+    answer: 0
+    explain: "«Даже на кофе не было времени» → **even** после отрицательного вспомогательного."
+  - q: "Don't bother calling her on Monday — she ___ works on Fridays."
+    options: ["also", "even", "only"]
+    answer: 2
+    explain: "Она работает **только** по пятницам, поэтому в понедельник звонить бесполезно."
+  - q: "She answered every question ___ , without trying to dodge any of them."
+    options: ["honestly", "admittedly", "presumably"]
+    answer: 0
+    explain: "Здесь нужен образ действия («как ответила») → **honestly** в конце. *admittedly* и *presumably* — комментарии говорящего, а не способ ответа."
+  - q: "He's got a fever, so he ___ come to the meeting tomorrow."
+    options: ["won't probably", "probably won't", "won't be probably"]
+    answer: 1
+    explain: "Наречия уверенности стоят **перед** отрицательным вспомогательным: **probably won't**. В утверждении — после: *he'll probably come*."
+  - q: "___ on cash; most now prefer card payments."
+    options: ["No longer do small shops rely", "No longer small shops rely", "Small shops do no longer rely"]
+    answer: 0
+    explain: "*No longer* в начале → инверсия: **No longer do small shops rely**. Без инверсии — *Small shops no longer rely*."
+  - q: "It's eleven o'clock and he ___ isn't up."
+    options: ["yet", "already", "still"]
+    answer: 2
+    explain: "Дольше, чем ожидали, и с отрицанием → **still** перед *isn't*. *yet* стоял бы в конце: *he isn't up yet*."
+  - q: "___ , you're right: the rules don't forbid it. But it's clearly against their spirit."
+    options: ["Technically", "Apparently", "Undoubtedly"]
+    answer: 0
+    explain: "**Technically** — «формально, по букве правил», и дальше противопоставление духу правил."
+  - q: "The proposal is ___ the strongest we've received, so I suggest we accept it."
+    options: ["supposedly", "arguably", "allegedly"]
+    answer: 1
+    explain: "**arguably** — уверенное, но осторожное утверждение. *supposedly* и *allegedly* выражают сомнение и противоречат совету принять предложение."

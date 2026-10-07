@@ -1,0 +1,45 @@
+title: "Объект + to, -ing или предлог"
+type: gap
+intro: "Впиши слова в скобках в правильной модели: **объект + to**, **объект + -ing** или **объект + предлог + -ing**. Местоимения поставь в нужную форму (*we* → *us*)."
+hints:
+  - "want / expect / advise / enable + sb + to do."
+  - "mind / imagine / appreciate + sb + doing."
+  - "prevent / stop from, talk into / out of, warn against + -ing."
+  - "hope — без объекта перед инфинитивом: hope (that) you'll…"
+items:
+  - q: "The manager wants ___ (we / finish) the migration by Friday."
+    answers: ["us to finish"]
+    explain: "*want* + объект + **to**: *wants us to finish*. Объект в форме *us*, не *we*."
+  - q: "Do you mind ___ (I / open) the window? It's really stuffy."
+    answers: ["me opening", "my opening"]
+    explain: "*mind* + объект + **-ing**: *mind me opening*. Формально — *my opening*."
+  - q: "My sister talked me ___ (buy) a phone I didn't really need."
+    answers: ["into buying"]
+    explain: "«Уговорила» → **talk sb into doing**. После предлога *into* — *-ing*."
+  - q: "A power cut prevented the team ___ (deploy) the update."
+    answers: ["from deploying"]
+    explain: "**prevent sb from doing** — «помешать кому-то сделать». Предлог *from* обязателен."
+  - q: "I hope ___ (you / enjoy) the conference tomorrow."
+    answers: ["you will enjoy", "you'll enjoy", "that you will enjoy", "that you'll enjoy", "you enjoy", "that you enjoy"]
+    explain: "*hope* не берёт объект + *to* (~~hope you to enjoy~~). Нужно придаточное: **(that) you'll enjoy**."
+  - q: "The doctor advised ___ (he / not / eat) late at night."
+    answers: ["him not to eat"]
+    explain: "*advise sb not to do*: объект **him**, отрицание **not** перед *to*."
+  - q: "Our gym doesn't allow ___ (take) photos in the changing rooms."
+    answers: ["taking"]
+    explain: "Человек не назван → *allow* + **-ing**: *allow taking photos*. С объектом было бы *allow members to take*."
+  - q: "Thank you for your patience. We really appreciate ___ (you / wait)."
+    answers: ["you waiting", "your waiting"]
+    explain: "*appreciate* + объект + **-ing**: *appreciate you waiting*. В деловом письме — *your waiting*."
+  - q: "Nothing will stop ___ (she / speak) her mind."
+    answers: ["her from speaking", "her speaking"]
+    explain: "*stop sb (from) doing* — «помешать». Объект *her*, после него **from speaking** (*from* в британском можно опустить)."
+  - q: "They warned us ___ (swim) in the river after heavy rain."
+    answers: ["against swimming", "not to swim"]
+    explain: "Две модели с одним смыслом: **warn sb against doing** или **warn sb not to do**."
+  - q: "The new tool has enabled ___ (we / cut) our testing time in half."
+    answers: ["us to cut"]
+    explain: "*enable sb to do* — «дать возможность». Объект *us* + **to cut**."
+  - q: "I can't imagine ___ (my grandmother / use) TikTok."
+    answers: ["my grandmother using"]
+    explain: "*imagine* + объект + **-ing**: *imagine my grandmother using*. Инфинитив после *imagine* невозможен."

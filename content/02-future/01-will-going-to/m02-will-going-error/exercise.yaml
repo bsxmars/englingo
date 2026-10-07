@@ -1,0 +1,41 @@
+title: "Найди и исправь ошибку: will, going to, Present Continuous"
+type: error
+intro: "В каждом предложении **одна** ошибка в выборе или форме будущего времени. Исправь её и отправь предложение целиком."
+hints:
+  - "Решение в момент речи → will; решение, принятое заранее → going to; договорённость с людьми, временем и местом → Present Continuous."
+  - "Расписание (поезда, фильмы, занятия) → Present Simple."
+  - "Предсказание по тому, что видишь сейчас → going to."
+items:
+  - q: "— The printer has run out of paper. — Don't worry, I'm going to get some from the cupboard."
+    answers: ["— The printer has run out of paper. — Don't worry, I'll get some from the cupboard.", "The printer has run out of paper. Don't worry, I'll get some from the cupboard."]
+    explain: "Ты решаешь прямо сейчас, услышав о проблеме → **I'll get**. *going to* звучало бы так, будто ты уже заранее собирался идти за бумагой."
+  - q: "Watch out! That glass will fall off the edge of the table!"
+    answers: ["Watch out! That glass is going to fall off the edge of the table!", "Watch out! That glass's going to fall off the edge of the table!"]
+    explain: "Ты видишь стакан на краю — это предсказание по очевидному признаку → **is going to fall**."
+  - q: "I'm seeing the dentist on Thursday at four. I will make the appointment last week."
+    answers: ["I'm seeing the dentist on Thursday at four. I made the appointment last week."]
+    explain: "*last week* — законченное прошлое → **made**. Первая часть верна: запись к врачу на конкретное время — договорённость, Present Continuous."
+  - q: "What do you do this weekend? Any plans?"
+    answers: ["What are you doing this weekend? Any plans?", "What are you going to do this weekend? Any plans?"]
+    explain: "О планах спрашивают **What are you doing…?** (или *going to do*). *What do you do* — вопрос о профессии или привычке."
+  - q: "The conference will start at 9:00 on Monday, according to the programme."
+    answers: ["The conference starts at 9:00 on Monday, according to the programme."]
+    explain: "Программа, расписание → **Present Simple**: *starts*. *according to the programme* прямо указывает на официальное расписание."
+  - q: "I've decided that I'll look for a new job. I've already updated my CV."
+    answers: ["I've decided that I'm going to look for a new job. I've already updated my CV.", "I've decided that I am going to look for a new job. I've already updated my CV."]
+    explain: "*I've decided* и уже обновлённое резюме — решение принято заранее → **I'm going to look**."
+  - q: "— Shall I help you with those bags? — No thanks, my husband helps me — he's just parking the car."
+    answers: ["— Shall I help you with those bags? — No thanks, my husband is going to help me — he's just parking the car.", "— Shall I help you with those bags? — No thanks, my husband will help me — he's just parking the car.", "— Shall I help you with those bags? — No thanks, my husband's going to help me — he's just parking the car.", "— Shall I help you with those bags? — No thanks, my husband is helping me — he's just parking the car.", "— Shall I help you with those bags? — No thanks, my husband's helping me — he's just parking the car."]
+    explain: "Present Simple *helps* описывает привычку, а речь об одном случае прямо сейчас → **is going to help** / **will help** / **is helping**."
+  - q: "Shall you send me the file before lunch, please?"
+    answers: ["Will you send me the file before lunch, please?", "Could you send me the file before lunch, please?", "Can you send me the file before lunch, please?", "Would you send me the file before lunch, please?"]
+    explain: "Просьба → **Will you…? / Could you…?** *Shall* в вопросах ставится только с *I* и *we*: *Shall I…?* — предложение помощи, *Shall we…?* — предложение сделать вместе."
+  - q: "Do you want a lift? I drive past the station anyway — I'm meeting Jo at seven."
+    answers: ["Do you want a lift? I'm driving past the station anyway — I'm meeting Jo at seven.", "Do you want a lift? I'll be driving past the station anyway — I'm meeting Jo at seven.", "Do you want a lift? I'm going to drive past the station anyway — I'm meeting Jo at seven."]
+    explain: "Речь об одной поездке сегодня, а не о привычке → **I'm driving** (или *I'll be driving* — «всё равно буду проезжать»)."
+  - q: "According to the forecast, it's raining heavily tomorrow afternoon."
+    answers: ["According to the forecast, it will rain heavily tomorrow afternoon.", "According to the forecast, it's going to rain heavily tomorrow afternoon.", "According to the forecast, it is going to rain heavily tomorrow afternoon."]
+    explain: "Погоду нельзя «договорить», поэтому Present Continuous не подходит. Прогноз → **will rain** или **is going to rain**."
+  - q: "I think I'm going to have the fish, please. — Certainly, sir."
+    answers: ["I think I'll have the fish, please. — Certainly, sir.", "I think I will have the fish, please. — Certainly, sir."]
+    explain: "Заказ в ресторане — решение в момент речи → **I'll have**. *I think* + **will** — самая естественная пара."

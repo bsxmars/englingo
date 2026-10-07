@@ -1,0 +1,63 @@
+title: "Фразовые глаголы в трансформациях (C1 Advanced, Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово** без изменений и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "Ключевое слово часто — частица или предлог трёхчастного глагола: UP, AWAY, DOWN, ROUND."
+  - "Формальный глагол в исходном предложении → фразовый в ответе: tolerate → put up with, abolish → do away with."
+items:
+  - q: "The film was not as good as everyone had expected."
+    key: "LIVE"
+    stem: "The film ___ everyone's expectations."
+    answers: ["did not live up to", "failed to live up to", "didn't quite live up to", "did not quite live up to", "failed to quite live up to", "never lived up to"]
+    explain: "**live up to** expectations — оправдать ожидания. Отрицание передаём через *did not* или *failed to*."
+  - q: "We will have to tolerate the noise until the building work is finished."
+    key: "PUT"
+    stem: "We'll have to ___ the noise until the building work is finished."
+    answers: ["put up with"]
+    explain: "**put up with** = *tolerate*. Трёхчастный глагол: все три слова подряд, дополнение после *with*."
+  - q: "The police are now certain that it was not murder."
+    key: "RULED"
+    stem: "The police have ___ murder."
+    answers: ["ruled out the possibility of", "ruled out any possibility of", "now ruled out the possibility of", "completely ruled out the possibility of", "now ruled out any possibility of"]
+    explain: "**rule out** — исключить (вариант, версию). Длинное дополнение идёт после частицы: *ruled out the possibility of*."
+  - q: "The government abolished the tax in 2015."
+    key: "AWAY"
+    stem: "The tax ___ in 2015."
+    answers: ["was done away with"]
+    explain: "**do away with** = *abolish*. В пассиве предлог остаётся в конце: *was done away with*."
+  - q: "Last night I finally started writing the report I had been putting off."
+    key: "ROUND"
+    stem: "Last night I finally ___ the report I had been putting off."
+    answers: ["got round to writing", "got round to starting", "got round to doing", "got round to starting on", "got round to working on", "got round to starting to write"]
+    explain: "**get round to + -ing** — наконец взяться за отложенное дело. *to* — предлог, поэтому *writing*."
+  - q: "The minister was fiercely criticised for her handling of the crisis."
+    key: "CAME"
+    stem: "The minister ___ for her handling of the crisis."
+    answers: ["came in for fierce criticism", "came in for a lot of criticism", "came in for heavy criticism", "came in for severe criticism", "came in for strong criticism", "came in for much criticism"]
+    explain: "**come in for criticism** — подвергнуться критике. Наречие *fiercely* превращается в прилагательное *fierce*."
+  - q: "Ultimately, the decision depends on how much money we have."
+    key: "DOWN"
+    stem: "Ultimately, the decision ___ much money we have."
+    answers: ["comes down to how"]
+    explain: "**come down to** — сводиться к. Дальше — придаточное *how much money…*, которое идёт после предлога."
+  - q: "The deal was not completed because the investors withdrew at the last minute."
+    key: "THROUGH"
+    stem: "The deal ___ the investors pulled out at the last minute."
+    answers: ["fell through because", "fell through when", "fell through as", "fell through after"]
+    explain: "**fall through** — сорваться (о сделке, плане). Непереходный глагол: дополнения нет, сразу союз."
+  - q: "He cheated in the exam, but nobody punished him."
+    key: "AWAY"
+    stem: "He cheated in the exam and ___ it."
+    answers: ["got away with", "managed to get away with", "somehow got away with"]
+    explain: "**get away with** sth — «сойти с рук». Местоимение *it* — после предлога *with*."
+  - q: "Could you explain clearly what you expect from the contractors?"
+    key: "SPELL"
+    stem: "Could you ___ you expect from the contractors?"
+    answers: ["spell out what", "spell out exactly what", "spell out precisely what", "spell out clearly what"]
+    explain: "**spell out** — разъяснить подробно. Придаточное *what you expect* стоит после частицы, не между глаголом и *out*."
+  - q: "She refused the job offer without a moment's hesitation."
+    key: "TURNED"
+    stem: "She ___ without a moment's hesitation."
+    answers: ["turned down the job offer", "turned the job offer down", "turned down the offer", "turned the offer down", "turned the job down", "turned down the job"]
+    explain: "**turn down** = *refuse / reject*. С существительным частица может стоять до или после дополнения."

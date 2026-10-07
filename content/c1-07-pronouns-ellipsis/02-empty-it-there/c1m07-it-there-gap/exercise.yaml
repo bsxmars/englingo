@@ -1,0 +1,44 @@
+title: "it, there или конструкция целиком"
+type: gap
+intro: "Заполни пропуск. Иногда это одно слово (*it* или *there*), иногда — несколько слов: следи за подсказкой в скобках."
+hints:
+  - "Существование или количество — there; оценка, время, погода, «похоже, что…» — it."
+  - "find / make / consider + it + прилагательное + to / that."
+  - "there seems to be — сейчас; there seems to have been — о прошлом."
+items:
+  - q: "I'd appreciate ___ if you could send me the figures before Thursday's meeting."
+    answers: ["it"]
+    explain: "*appreciate* требует дополнения, поэтому перед *if* ставится пустое **it**: *I'd appreciate it if…* ~~I'd appreciate if~~ — частая ошибка."
+  - q: "___ is little doubt that the merger will go ahead, despite the protests."
+    answers: ["There"]
+    explain: "*There is little doubt* — «сомнений мало»: речь о существовании (наличии) сомнения → **There**."
+  - q: "The constant roadworks outside made ___ almost impossible to concentrate."
+    answers: ["it"]
+    explain: "*make + **it** + прилагательное + to-infinitive*: пустое дополнение *it* обязательно."
+  - q: "___ no good trying to reason with him when he's in that mood. (пустое подлежащее + глагол)"
+    answers: ["It's", "It is"]
+    explain: "Устойчивая модель **It's no good / It's no use + -ing** («бесполезно»). Подлежащее — пустое *it*."
+  - q: "According to the latest estimates, there ___ fewer than 3,000 speakers of the language left. (think)"
+    answers: ["are thought to be"]
+    explain: "*there + passive reporting verb + to be*: **are thought to be**. Глагол во множественном числе — из-за *fewer than 3,000 speakers*."
+  - q: "Judging by the broken glass, there ___ a break-in during the night. (appear)"
+    answers: ["appears to have been", "seems to have been"]
+    explain: "Вывод сейчас о событии в прошлом → *there + appears + **to have been***. *seems to have been* — тот же смысл."
+  - q: "___ took the investigators nearly two years to establish what had caused the crash."
+    answers: ["It"]
+    explain: "*It takes (someone) + время + to-infinitive* — сколько времени ушло. Пустое подлежащее — **It**."
+  - q: "Given how popular the event was last year, there ___ long queues, so arrive early. (bound)"
+    answers: ["are bound to be", "is bound to be", "'s bound to be"]
+    explain: "*there + be bound to be* = «наверняка будут». Формально *are* (из-за *queues*), в разговоре встречается и *there's*."
+  - q: "We all thought ___ odd that the director didn't attend her own premiere."
+    answers: ["it"]
+    explain: "*think + **it** + adj + that*: без *it* фраза ~~We thought odd that~~ — неграмматична."
+  - q: "___ struck me that nobody at the meeting had actually spoken to a customer."
+    answers: ["It"]
+    explain: "*It struck me that…* — «мне пришло в голову / меня поразило, что…». Настоящее подлежащее — придаточное после *that*, поэтому начинаем с **It**."
+  - q: "Don't bother taking the old laptop to be repaired — it isn't ___ fixing. (одно слово)"
+    answers: ["worth"]
+    explain: "*it's (not) worth + -ing* — «(не) стоит делать». После *worth* — герундий: *worth fixing*."
+  - q: "I know you're exhausted, but you owe ___ to the team to see the project through."
+    answers: ["it"]
+    explain: "*owe it to someone to do something* — «ты обязан (перед кем-то) сделать…». Пустое **it** обязательно."

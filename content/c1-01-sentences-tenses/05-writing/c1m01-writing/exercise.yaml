@@ -1,0 +1,45 @@
+title: "Essay: preparing young people for the jobs of the future"
+type: writing
+intro: "Напиши эссе в формате C1 Advanced, Writing Part 1. Выбери **два** аспекта из трёх, обсуди их и чётко скажи, какой эффективнее и почему."
+prompt: |
+  Your class has attended a panel discussion on how governments can **prepare young people for a rapidly changing job market**. You have made the notes below.
+
+  **Approaches governments could take:**
+
+  - reforming school curricula
+  - expanding apprenticeship schemes
+  - funding lifelong retraining programmes
+
+  **Some opinions expressed in the discussion:**
+
+  - *"Schools are still teaching for a world that no longer exists."*
+  - *"Nothing replaces learning on the job."*
+  - *"Nobody stays in one career for life any more."*
+
+  Write an **essay** discussing **two** of the approaches in your notes. You should **explain which approach you think is more effective**, giving reasons to support your opinion.
+
+  You may, if you wish, make use of the opinions expressed in the discussion, but you should use your own words as far as possible.
+
+  Write your essay in **220–260 words**.
+words: [220, 260]
+target_grammar:
+  - "Present Perfect и Past Simple по смыслу: has transformed / changed in the 1990s"
+  - "Формальное будущее: is set to, is likely to, will have + V3, if we are to…"
+  - "Сложноподчинённые предложения с relative и adverbial clauses; not only… but also"
+  - "Верное управление глаголов: explain to, suggest that, equip someone with"
+checklist:
+  - "Четыре абзаца: введение, аспект 1, аспект 2, вывод; обсуждены ровно два аспекта из трёх."
+  - "В выводе ясно сказано, какой подход эффективнее, и дан главный аргумент."
+  - "Для каждого аспекта есть и довод «за», и ограничение (That said, Admittedly…)."
+  - "Использованы минимум две формы формального будущего (is set to, will have + V3, if … are to…)."
+  - "Нет ошибок согласования в длинных подлежащих и в управлении глаголов (explain to, suggest that)."
+  - "Формальный регистр: без сокращений и разговорных связок."
+  - "Объём 220–260 слов."
+model_answer: |
+  In recent decades, technological change has transformed the labour market, and many of the jobs that today's teenagers will eventually do do not yet exist. If young people are to thrive in such conditions, governments need to rethink how they are prepared for work. This essay considers two possible approaches: reforming school curricula and expanding apprenticeship schemes.
+
+  One obvious advantage of changing what is taught in schools is that it reaches every child, regardless of background. A curriculum that places greater emphasis on problem-solving, digital literacy and collaboration would equip students with skills that are unlikely to become obsolete. That said, curriculum reform is notoriously slow: by the time a new programme has been designed, tested and introduced, the technology it was meant to address may well have moved on.
+
+  Apprenticeships, by contrast, connect young people directly with employers who know which skills are in demand. Trainees earn while they learn, and what they acquire is immediately relevant. Admittedly, such schemes depend on the willingness of companies to invest, and smaller firms often lack the resources to take on and supervise trainees.
+
+  On balance, I would argue that apprenticeships are the more effective of the two. While school reform lays an essential foundation, it cannot keep pace with a job market that is set to change faster than ever before. Apprenticeships, which evolve together with the industries they serve, offer young people not only relevant skills but also the confidence that comes from genuine experience of the workplace.

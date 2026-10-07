@@ -1,0 +1,55 @@
+title: "Перефразирование (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+
+  Факт превращается в нереальное условие: «не знал → если бы знал».
+hints:
+  - "Факт в прошлом с отрицанием → условие с утверждением, и наоборот."
+  - "Результат сейчас → would + V; результат в прошлом → would have + V3."
+items:
+  - q: "I didn't know you were ill, so I didn't visit you."
+    key: "KNOWN"
+    stem: "I would have visited you ___ you were ill."
+    answers: ["if I had known", "if I had known that", "had I known"]
+    explain: "Не знал → *if I **had known***. Третий тип: обе части о прошлом."
+  - q: "We got lost because we didn't have a map."
+    key: "HAD"
+    stem: "We wouldn't have got lost if we ___ a map."
+    answers: ["had had", "had taken", "had brought"]
+    explain: "*didn't have* → *if we **had had*** — Past Perfect глагола *have*. Двойное *had had* — нормально."
+  - q: "I'm so tired now because I stayed up late."
+    key: "WOULDN'T"
+    stem: "If I hadn't stayed up late, I ___ tired now."
+    answers: ["wouldn't be so", "wouldn't be", "wouldn't feel so", "wouldn't feel"]
+    explain: "Условие в прошлом, результат **now** → смешанный тип: *I **wouldn't be so** tired now*."
+  - q: "She failed the exam because she didn't study."
+    key: "PASSED"
+    stem: "She ___ if she had studied."
+    answers: ["would have passed the exam", "would have passed it", "could have passed the exam", "could have passed it", "might have passed the exam", "might have passed it"]
+    explain: "Результат в прошлом → **would have passed**."
+  - q: "Without your help, I would have failed."
+    key: "HADN'T"
+    stem: "If you ___ me, I would have failed."
+    answers: ["hadn't helped"]
+    explain: "*Without your help* = *If you **hadn't helped** me* — Past Perfect в условии."
+  - q: "I don't speak Spanish, so I didn't understand the guide."
+    key: "SPOKE"
+    stem: "If I ___ have understood the guide."
+    answers: ["spoke Spanish, I would", "spoke Spanish, I could", "spoke Spanish, I might"]
+    explain: "Условие — постоянное (не говорю по-испански) → **spoke**; результат — в прошлом → *would have understood*. Смешанный тип."
+  - q: "Luckily, the ambulance arrived quickly, so he survived."
+    key: "DIED"
+    stem: "If the ambulance hadn't arrived quickly, he ___ ."
+    answers: ["would have died", "might have died", "could have died"]
+    explain: "Нереальный результат в прошлом → **would / might have died**."
+  - q: "We didn't book a table, so now we have to wait."
+    key: "WOULDN'T"
+    stem: "If we had booked a table, we ___ wait now."
+    answers: ["wouldn't have to"]
+    explain: "Прошлое условие → результат сейчас: **wouldn't have to** + глагол."
+  - q: "I'm not rich because I didn't invest in that company."
+    key: "BE"
+    stem: "If I had invested in that company, I ___ now."
+    answers: ["would be rich", "might be rich", "could be rich"]
+    explain: "Прошлое условие → результат **now**: **would be rich**."

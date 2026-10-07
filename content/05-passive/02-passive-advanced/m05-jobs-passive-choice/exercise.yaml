@@ -1,0 +1,52 @@
+title: "Мне оставили, мне должны, дела на сегодня"
+type: choice
+intro: "Выбери единственный верный вариант. Здесь глаголы с двумя дополнениями (*award, lend, owe, promise…*), *to do* или *to be done* и конструкция *be to*."
+hints:
+  - "Кто сделает работу — подлежащее? Тогда активный инфинитив: I've got emails to answer."
+  - "Подлежащее — сама работа или вещь → to be done: The form has to be signed."
+  - "be to + инфинитив = официальное распоряжение."
+items:
+  - q: "After the competition, both finalists ___ a cash prize."
+    options: ["were awarded", "were awarded to", "awarded"]
+    answer: 0
+    explain: "*award* — глагол с двумя дополнениями, получатель становится подлежащим: **were awarded** a prize. *to* нужен, только если подлежащее — сам приз."
+  - q: "I ___ three days' pay by my old employer, and I still haven't got it."
+    options: ["owe", "am owed", "am owing"]
+    answer: 1
+    explain: "«Мне должны» → пассив **am owed**. *I owe* значило бы «я должен» сам."
+  - q: "When her grandfather died, she ___ his collection of old maps."
+    options: ["was left", "was leaving", "left to"]
+    answer: 0
+    explain: "*leave someone something* (в завещании) → пассив с человеком-подлежащим: *she **was left** his collection*."
+  - q: "Sorry, I can't come out tonight. I've got a presentation ___ ."
+    options: ["to be prepared", "to prepare", "preparing"]
+    answer: 1
+    explain: "Готовить буду я, а *I* — подлежащее → активный инфинитив **to prepare**."
+  - q: "All applications ___ by the end of the month."
+    options: ["are to submit", "are to be submitted", "are submitting"]
+    answer: 1
+    explain: "Подлежащее — заявки, их подают → пассив + распоряжение: **are to be submitted**."
+  - q: "This plant needs ___ every two days."
+    options: ["being watered", "watering", "water"]
+    answer: 1
+    explain: "*need + -ing* уже имеет пассивный смысл: **needs watering** (= *needs to be watered*). ~~needs being watered~~ — ошибка."
+  - q: "Passengers ___ remain seated until the plane has stopped."
+    options: ["are to", "are to be", "have been to"]
+    answer: 0
+    explain: "**be to + инфинитив** = официальное распоряжение: *Passengers **are to** remain seated*. Пассажиры сами сидят, поэтому актив."
+  - q: "I ___ a pay rise twice, but it never happened."
+    options: ["have promised", "have been promised", "have been promised to"]
+    answer: 1
+    explain: "«Мне обещали» → *I **have been promised** a pay rise*. *to* после V3 здесь не нужен: подлежащее — человек."
+  - q: "Wait — there's one more thing ___ before we leave: the gas."
+    options: ["to check", "to be checked", "Both are correct."]
+    answer: 2
+    explain: "После **there is / are** возможны оба инфинитива: *one more thing **to check** / **to be checked***."
+  - q: "My sister ___ to drive by our dad when she was seventeen."
+    options: ["was taught", "was teaching", "taught"]
+    answer: 0
+    explain: "*teach someone (to do) something* → пассив с человеком-подлежащим: *she **was taught** to drive*. *by our dad* — важный исполнитель."
+  - q: "You ___ tell anyone about this until it's officially announced."
+    options: ["are not to", "are not to be", "don't need be"]
+    answer: 0
+    explain: "*be not to + инфинитив* — строгий запрет: *You **are not to** tell anyone*. Рассказывать будешь ты, поэтому актив."

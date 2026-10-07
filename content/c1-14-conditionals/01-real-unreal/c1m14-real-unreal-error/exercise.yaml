@@ -1,0 +1,41 @@
+title: "Найди ошибку: формы реальных и нереальных условий"
+type: error
+intro: "В каждом предложении **одна** ошибка в форме глагола. Исправь её и отправь предложение целиком."
+hints:
+  - "Определи тип по смыслу: закономерность, прогноз, воображение или то, чего не было."
+  - "would в if-части — только просьба или желаемое поведение, но не состояние."
+  - "Время двух частей должно совпадать по логике: Present → will, Past → would, Past Perfect → would have."
+items:
+  - q: "If you will need any help with the forms, just let me know."
+    answers: ["If you need any help with the forms, just let me know."]
+    explain: "Обычное будущее условие → **Present** в if-части. Это не упрёк и не просьба, поэтому *will* здесь лишнее."
+  - q: "If I would be in charge, I'd change the rules tomorrow."
+    answers: ["If I were in charge, I'd change the rules tomorrow.", "If I was in charge, I'd change the rules tomorrow."]
+    explain: "Hypothetical → **were** (разговорное *was*). *would* в if-части не выражает воображаемое состояние."
+  - q: "When I was a student, if I had an exam the next day, I had stayed up all night."
+    answers: ["When I was a student, if I had an exam the next day, I stayed up all night.", "When I was a student, if I had an exam the next day, I would stay up all night.", "When I was a student, if I had an exam the next day, I used to stay up all night."]
+    explain: "Прошлая привычка — factual: **Past + Past** или *would* / *used to*. Past Perfect в главной части здесь бессмыслен."
+  - q: "If the government were to raising the minimum wage, many small firms would struggle."
+    answers: ["If the government were to raise the minimum wage, many small firms would struggle."]
+    explain: "После **were to** — голый инфинитив: *were to raise*."
+  - q: "If you'd have told me earlier, I could have helped."
+    answers: ["If you'd told me earlier, I could have helped.", "If you had told me earlier, I could have helped."]
+    explain: "В if-части counterfactual — **Past Perfect**: *had told*. Конструкция *'d have* в if-части — разговорная ошибка."
+  - q: "If you mix blue and yellow, you would get green."
+    answers: ["If you mix blue and yellow, you get green.", "If you mix blue and yellow, you will get green."]
+    explain: "Факт, закономерность → factual: **Present + Present** (или *will*). *would* превращает факт в фантазию."
+  - q: "If he would have more experience, they would promote him."
+    answers: ["If he had more experience, they would promote him."]
+    explain: "Воображаемое состояние сейчас → **Past Simple**: *had*. *would* в if-части — только о желаемом поведении (*if he would listen*), не о состоянии."
+  - q: "If she had taken the earlier train, she would arrive on time yesterday."
+    answers: ["If she had taken the earlier train, she would have arrived on time yesterday."]
+    explain: "*yesterday* — главная часть тоже о прошлом → **would have arrived**."
+  - q: "If you would follow me, I show you to the conference room."
+    answers: ["If you would follow me, I'll show you to the conference room.", "If you would follow me, I will show you to the conference room."]
+    explain: "Вежливая просьба *if you would…*, а главная часть — обещание → **I'll show**. Голый Present здесь звучит как перевод с русского."
+  - q: "If it rains tomorrow, we would cancel the picnic."
+    answers: ["If it rains tomorrow, we will cancel the picnic.", "If it rains tomorrow, we'll cancel the picnic.", "If it rained tomorrow, we would cancel the picnic."]
+    explain: "Части не согласованы: predictive — **Present + will**, hypothetical — **Past + would**."
+  - q: "If the council were to close the library, many elderly residents will lose their only meeting place."
+    answers: ["If the council were to close the library, many elderly residents would lose their only meeting place."]
+    explain: "**were to** — гипотеза, поэтому в главной части **would**, а не *will*."

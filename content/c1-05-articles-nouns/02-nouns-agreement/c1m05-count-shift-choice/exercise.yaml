@@ -1,0 +1,51 @@
+title: "Считаем или нет"
+type: choice
+intro: "Выбери единственный верный вариант. Ловушки — слова, которые меняют значение в зависимости от исчисляемости, и неисчисляемые, которым прилагательное не даёт права на *a/an*."
+hints:
+  - "an experience — случай; experience — опыт. a paper — статья или газета; paper — бумага."
+  - "Чтобы посчитать неисчисляемое, нужен partitive: a stroke of luck, a round of applause."
+items:
+  - q: "Is there ___ for one more suitcase in the boot?"
+    options: ["a room", "room", "the rooms"]
+    answer: 1
+    explain: "*room* в значении «свободное место» неисчисляемое: **room for**. *a room* — комната."
+  - q: "Spending a year in Lagos was ___ that changed the way I see the world."
+    options: ["experience", "experiences", "an experience"]
+    answer: 2
+    explain: "Отдельный случай, переживание → исчисляемое **an experience**. Неисчисляемое *experience* — накопленный опыт."
+  - q: "Applicants with ___ in project management will be given priority."
+    options: ["experience", "an experience", "the experiences"]
+    answer: 0
+    explain: "Профессиональный опыт — неисчисляемое **experience**, без артикля."
+  - q: "She has just published ___ on the effects of noise on sleep quality."
+    options: ["paper", "a paper", "the paper's"]
+    answer: 1
+    explain: "*a paper* — научная статья, исчисляемое. Неисчисляемое *paper* — бумага как материал."
+  - q: "We're almost out of ___ — could you order some more for the printer?"
+    options: ["paper", "papers", "a paper"]
+    answer: 0
+    explain: "Бумага как материал неисчисляема: **out of paper**. *papers* — документы или газеты."
+  - q: "There's ___ in my soup!"
+    options: ["hair", "a hair", "hairs"]
+    answer: 1
+    explain: "Один волос — исчисляемое **a hair**. Неисчисляемое *hair* — волосы на голове (*She has long hair*). *There's hairs* нарушает согласование."
+  - q: "Many critics regard the novel as ___ of extraordinary ambition."
+    options: ["a work", "work", "works"]
+    answer: 0
+    explain: "Произведение искусства — исчисляемое **a work** (*a work of art, a work of genius*). Неисчисляемое *work* — труд."
+  - q: "We only found the documents by ___ ."
+    options: ["a luck", "a stroke of luck", "lucks"]
+    answer: 1
+    explain: "*luck* неисчисляемо и не берёт *a*. Чтобы выделить «один случай удачи» — partitive **a stroke of luck**."
+  - q: "When she finished speaking, the audience gave her ___ ."
+    options: ["a standing ovation", "a standing applause", "standing applauses"]
+    answer: 0
+    explain: "*applause* неисчисляемо: ни *an applause*, ни *applauses*. Исчисляемое слово для «аплодисментов стоя» — **a standing ovation**; с *applause* — *a round of applause*."
+  - q: "Don't forget to unplug ___ when you've finished with it."
+    options: ["iron", "the iron", "irons"]
+    answer: 1
+    explain: "Утюг — исчисляемое *an iron*; здесь конкретный, известный предмет в доме → **the iron**. Неисчисляемое *iron* — железо."
+  - q: "She speaks ___ and passable Portuguese."
+    options: ["an excellent French", "excellent French", "the excellent French"]
+    answer: 1
+    explain: "Названия языков неисчисляемы и не берут артикль даже с прилагательным: **excellent French**. Ср. *the French* — французы."

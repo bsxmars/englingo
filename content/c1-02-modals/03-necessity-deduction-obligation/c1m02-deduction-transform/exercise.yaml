@@ -1,0 +1,59 @@
+title: "Перефразирование: deduction, necessity, obligation (C1 Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "I'm sure … = must; I'm sure … not = can't / couldn't."
+  - "It wasn't necessary, but I did it = needn't have + V3."
+  - "It was a mistake not to… = should have + V3."
+items:
+  - q: "I'm sure the burglars knew the alarm code."
+    key: "MUST"
+    stem: "The burglars ___ the alarm code."
+    answers: ["must have known"]
+    explain: "Уверенный вывод о прошлом → *must have* + V3."
+  - q: "I'm certain she wasn't listening when I explained the procedure."
+    key: "BEEN"
+    stem: "She ___ when I explained the procedure."
+    answers: ["can't have been listening", "cannot have been listening", "couldn't have been listening", "could not have been listening"]
+    explain: "Уверенность в обратном о процессе в прошлом → *can't / couldn't have been* + V-ing. Не ~~mustn't have~~."
+  - q: "It wasn't necessary for you to bring a gift, but it's very kind of you."
+    key: "NEEDN'T"
+    stem: "You ___ a gift, but it's very kind of you."
+    answers: ["needn't have brought"]
+    explain: "Подарок принесли, хотя необходимости не было → *needn't have brought*."
+  - q: "It was a mistake not to back up the files before the update."
+    key: "SHOULD"
+    stem: "We ___ the files before the update."
+    answers: ["should have backed up", "should have backed them up"]
+    explain: "Сожаление о несделанном → *should have* + V3."
+  - q: "Everyone says the new exhibition at the Tate is outstanding."
+    key: "SUPPOSED"
+    stem: "The new exhibition at the Tate ___ outstanding."
+    answers: ["is supposed to be"]
+    explain: "«Говорят, что…» → *be supposed to*. *should* в этом значении не используется."
+  - q: "It isn't necessary for you to attend the briefing if you've read the notes."
+    key: "HAVE"
+    stem: "You ___ the briefing if you've read the notes."
+    answers: ["don't have to attend", "do not have to attend"]
+    explain: "Нет необходимости → *don't have to*. *needn't attend* тоже по смыслу, но ключ — *HAVE*."
+  - q: "I strongly advise you not to mention the budget at the meeting, or you'll regret it."
+    key: "BETTER"
+    stem: "You ___ the budget at the meeting."
+    answers: ["had better not mention", "'d better not mention"]
+    explain: "Настойчивый совет с угрозой → *'d better not* + V. Отрицание — после *better*."
+  - q: "I'm sure this isn't the right address — there's no house number 47 on this street."
+    key: "CAN'T"
+    stem: "This ___ address."
+    answers: ["can't be the right", "can't possibly be the right", "can't be the correct"]
+    explain: "Уверенный отрицательный вывод о настоящем → *can't be*."
+  - q: "The plan was for the minister to open the new hospital, but she fell ill."
+    key: "WAS"
+    stem: "The minister ___ the new hospital, but she fell ill."
+    answers: ["was supposed to open", "was going to open", "was due to open", "was to have opened", "was meant to open", "was to open"]
+    explain: "Несостоявшийся план → *was supposed to / was going to open*. Формальное *was to have opened* подчёркивает, что план сорвался."
+  - q: "Perhaps the flight was delayed because of the strike."
+    key: "BEEN"
+    stem: "The flight ___ because of the strike."
+    answers: ["may have been delayed", "might have been delayed", "could have been delayed"]
+    explain: "Предположение о прошлом в пассиве → *may / might / could have been* + V3."

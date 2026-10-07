@@ -1,0 +1,68 @@
+title: "Перефразирование с предложными фразами (C1 Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы смысл совпал с первым. Используй **ключевое слово** без изменений и впиши от **трёх до шести слов**, включая ключевое. Во многих пунктах ключ — устойчивая фраза с предлогом.
+hints:
+  - "on the verge of, in favour of, at odds with, in charge of, on behalf of, with the exception of, in terms of, in the event of."
+  - "Глагол → существительное + предлог: object → raise an objection to, depend → be dependent on."
+items:
+  - q: "Most local residents support the plan to close the road to traffic."
+    key: "FAVOUR"
+    stem: "Most local residents ___ the road to traffic."
+    answers: ["are in favour of closing", "are in favour of the plan to close"]
+    explain: "*support* → **be in favour of** + -ing или существительное."
+  - q: "Her version of events contradicts what the other witnesses said."
+    key: "ODDS"
+    stem: "Her version of events ___ what the other witnesses said."
+    answers: ["is at odds with"]
+    explain: "**be at odds with** — «расходиться, противоречить». Предлог только *with*."
+  - q: "The company almost collapsed in 2019."
+    key: "VERGE"
+    stem: "In 2019 the company ___ collapse."
+    answers: ["was on the verge of", "was on the very verge of"]
+    explain: "«чуть не, на грани» → **be on the verge of** + существительное (*collapse*) или -ing."
+  - q: "If there is a fire, do not use the lifts."
+    key: "EVENT"
+    stem: "___ a fire, do not use the lifts."
+    answers: ["In the event of"]
+    explain: "**In the event of** + существительное — формальное «в случае». Ровно четыре слова."
+  - q: "Whether the project succeeds depends entirely on the funding we receive."
+    key: "DEPENDENT"
+    stem: "The success of the project ___ the funding we receive."
+    answers: ["is entirely dependent on", "is entirely dependent upon", "is dependent entirely on", "is dependent entirely upon"]
+    explain: "*depend on* → **be dependent on / upon**. Наречие *entirely* надо сохранить."
+  - q: "Mr Hayes manages the marketing department."
+    key: "CHARGE"
+    stem: "Mr Hayes ___ the marketing department."
+    answers: ["is in charge of", "has charge of", "is the person in charge of", "is the one in charge of"]
+    explain: "**be in charge of** — «руководить, отвечать за». Не ~~in charge for~~."
+  - q: "I am writing to you as the representative of the tenants' association."
+    key: "BEHALF"
+    stem: "I am writing to you ___ the tenants' association."
+    answers: ["on behalf of"]
+    explain: "**on behalf of** — «от имени». Три слова — минимальная длина ответа в Part 4."
+  - q: "Nobody objected to the new timetable."
+    key: "OBJECTIONS"
+    stem: "There ___ the new timetable."
+    answers: ["were no objections to", "were not any objections to", "weren't any objections to"]
+    explain: "Глагол *object to* → существительное **objection to** — предлог сохраняется. Ключ во множественном числе → *were no objections*."
+  - q: "Everyone came to the meeting except Laura."
+    key: "EXCEPTION"
+    stem: "___ Laura, everyone came to the meeting."
+    answers: ["With the exception of"]
+    explain: "**With the exception of** — «за исключением». Не ~~by the exception of~~."
+  - q: "The two phones are very similar in price but very different in quality."
+    key: "TERMS"
+    stem: "The two phones are very similar ___ but very different in quality."
+    answers: ["in terms of price", "in terms of their price", "in terms of cost"]
+    explain: "**in terms of** — «с точки зрения, в плане». Типичная фраза эссе и отчётов."
+  - q: "The success of the campaign was largely due to social media."
+    key: "OWED"
+    stem: "The success of the campaign ___ social media."
+    answers: ["was largely owed to", "owed a great deal to", "owed much to", "owed a lot to", "largely owed to", "was owed largely to", "owed largely to"]
+    explain: "**owe something to** — «быть обязанным чему-то». *largely* или *a great deal* сохраняет «в основном»."
+  - q: "Despite the bad weather, the festival went ahead as planned."
+    key: "SPITE"
+    stem: "The festival went ahead as planned ___ weather."
+    answers: ["in spite of the bad", "in spite of the poor", "in spite of the terrible", "in spite of the awful"]
+    explain: "**in spite of** = *despite*, но с *of*. ~~despite of~~ — частая ошибка."

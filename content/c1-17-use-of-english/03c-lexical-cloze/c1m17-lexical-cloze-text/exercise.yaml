@@ -1,0 +1,48 @@
+title: "Part 1: текст «The art of doing nothing»"
+type: choice
+intro: |
+  Связный текст в формате C1 Advanced, Part 1, разбитый на предложения. Читай пункты по порядку, как один текст, и выбери слово, которое лучше всего подходит к пропуску.
+hints:
+  - "Проверяй и сочетаемость, и конструкцию после пропуска."
+  - "Связки выбирай по функции: обобщение, уступка, добавление."
+items:
+  - q: "In a culture that ___ great value on productivity, sitting still can feel almost like a crime."
+    options: ["gives", "places", "makes", "holds"]
+    answer: 1
+    explain: "**place (great) value on** — «придавать большое значение» (в разговорной речи и *put*). *give value to*, *make value* и *hold value* с предлогом *on* не сочетаются."
+  - q: "Yet a growing number of psychologists argue that idleness has been ___ underrated."
+    options: ["deeply", "gravely", "seriously", "heavily"]
+    answer: 2
+    explain: "**seriously underrated** — устойчивое сочетание. *gravely* — с *ill, concerned*; *heavily* — с *rain, criticised*."
+  - q: "When the mind is allowed to wander, it ___ connections that focused thinking tends to miss."
+    options: ["does", "draws", "takes", "gets"]
+    answer: 1
+    explain: "**draw connections** (как *draw a conclusion, draw a comparison*) — «находить связи». *make connections* тоже возможно, но *make* среди вариантов нет."
+  - q: "Many famous ideas are said to have come to their inventors while they were doing something ___ unrelated, such as taking a bath."
+    options: ["highly", "entirely", "fully", "purely"]
+    answer: 1
+    explain: "**entirely / completely / wholly unrelated** — «совершенно не связанный». *fully* — с *aware, booked*; *highly* — с *unlikely, successful*; *purely* — «исключительно»."
+  - q: "This is not to ___ that we should all give up work and stare at the ceiling."
+    options: ["say", "tell", "speak", "talk"]
+    answer: 0
+    explain: "Устойчивая оговорка **This is not to say that…** — «это не значит, что…». *tell* требует дополнения-человека, *speak* и *talk* не вводят придаточное с *that*."
+  - q: "Rest, the researchers ___, is not the opposite of work but part of it."
+    options: ["insist", "demand", "require", "request"]
+    answer: 0
+    explain: "Вводное **the researchers insist** — «настаивают». *demand, require, request* выражают требования или просьбы, а не утверждения."
+  - q: "Of course, in many jobs, taking a break is ___ the question."
+    options: ["beyond", "out of", "off", "without"]
+    answer: 1
+    explain: "**out of the question** — «исключено». Остальные предлоги в этой фразе невозможны."
+  - q: "Employers who allow staff time to think may well find that it pays ___ in the long run."
+    options: ["back", "off", "out", "up"]
+    answer: 1
+    explain: "**pay off** — «окупиться, принести плоды». *pay back* — «вернуть долг»."
+  - q: "___, the message is simple: doing nothing is rarely a waste of time."
+    options: ["After all", "Above all", "All in all", "At all"]
+    answer: 2
+    explain: "Подведение итога в конце текста → **All in all** — «в общем». *After all* — «в конце концов, ведь», *Above all* — «прежде всего»."
+  - q: "The difficult part, ___ most of us know, is allowing ourselves to do it without guilt."
+    options: ["as", "like", "what", "so"]
+    answer: 0
+    explain: "Вводное **as most of us know** — «как многие из нас знают». *like* перед придаточным — разговорное и в формальном тексте не используется."

@@ -1,0 +1,43 @@
+title: "there, it, -self, each other, one, else"
+type: gap
+intro: "Впиши **одно** подходящее слово (или два, если это *each other*): *there*, *it*, возвратное местоимение (*myself, ourselves…*), *each other*, *one / ones* или *else*."
+hints:
+  - "Впервые сообщаем, что что-то есть → there. Говорим о том, что уже известно, о погоде, времени → it."
+  - "one / ones заменяют исчисляемое существительное, чтобы его не повторять."
+items:
+  - q: "We can't use the meeting room — ___ are about twenty people in there already."
+    answers: ["there"]
+    explain: "Сообщаем, что люди **есть** в комнате → *there are*. Глагол во множественном числе, потому что дальше *twenty people*."
+  - q: "Take a jacket. ___'s much colder than yesterday."
+    answers: ["it"]
+    explain: "О погоде говорим через пустое подлежащее **it**: *It's cold*. Русское «Холодно» без подлежащего в английском невозможно."
+  - q: "I've just bought a smartwatch, and ___ tracks my sleep really well."
+    answers: ["it", "this", "this one"]
+    explain: "Часы уже упомянуты — дальше о них говорим **it**. *there* вводит новое, *it* продолжает."
+  - q: "Did you have a good time at the festival? ~ Yes, we really enjoyed ___."
+    answers: ["ourselves"]
+    explain: "**enjoy yourself / ourselves** = хорошо провести время. Без дополнения *enjoy* не употребляют: ~~we enjoyed~~."
+  - q: "My brother and I don't look like ___ at all."
+    answers: ["each other", "one another"]
+    explain: "Взаимность — «друг на друга» → **each other** (или *one another*). *ourselves* значило бы «каждый сам на себя»."
+  - q: "These earphones are broken. I need to buy some new ___."
+    answers: ["ones"]
+    explain: "Заменяем *earphones* (мн. ч.) → **ones**. После прилагательного (*new*) *one / ones* опускать нельзя."
+  - q: "This café is too noisy. Let's go somewhere ___."
+    answers: ["else"]
+    explain: "**somewhere else** = в другое место. *else* ставится после *somewhere, someone, anything*: не ~~other somewhere~~."
+  - q: "Nobody helped me with the website — I built it all by ___."
+    answers: ["myself"]
+    explain: "**by myself** = сам, в одиночку (= *on my own*)."
+  - q: "Which bike is yours? ~ The ___ with the red basket."
+    answers: ["one"]
+    explain: "*The bike with the red basket* → **the one** with… После *the* слово *one* не опускают: ~~the with the red basket~~."
+  - q: "Please help ___ to some cake, everyone — there's plenty."
+    answers: ["yourselves"]
+    explain: "Обращаемся к нескольким людям (*everyone*) → **yourselves**. *help yourself / yourselves to* = угощайтесь."
+  - q: "___'s a pity that you missed the concert."
+    answers: ["it"]
+    explain: "Оценка + *that*-придаточное → пустое **it**: *It's a pity (that)…* Так говорят вместо ~~That you missed it is a pity~~."
+  - q: "Be careful with that knife, or you'll cut ___."
+    answers: ["yourself"]
+    explain: "Тот, кто режет, и тот, кого режут, — одно лицо → **yourself**. *cut you* значило бы, что порежешь кого-то другого."

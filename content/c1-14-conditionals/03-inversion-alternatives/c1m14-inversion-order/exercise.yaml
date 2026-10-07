@@ -1,0 +1,31 @@
+title: "Собери условное предложение"
+type: order
+intro: "Собери предложение из слов. Где в задании указано «формально», нужна инверсия."
+hints:
+  - "Инверсия: Had / Were / Should + подлежащее."
+  - "Only if в начале → инверсия в главной части."
+items:
+  - q: "Формально: «Если бы я знал о проблеме, я бы вмешался»."
+    answers: ["Had I known about the problem I would have intervened", "I would have intervened had I known about the problem"]
+    explain: "**Had I known** = *If I had known*. Инвертированная часть может стоять и в конце."
+  - q: "Формально: «Если бы не его упрямство, мы бы давно договорились»."
+    answers: ["Were it not for his stubbornness we would have agreed long ago", "We would have agreed long ago were it not for his stubbornness"]
+    explain: "Упрямство — постоянная черта → **Were it not for**; результат в прошлом → *would have agreed*. Смешанный тип."
+  - q: "Деловое письмо: «Если у вас возникнут вопросы, пожалуйста, свяжитесь с нами»."
+    answers: ["Should you have any questions please contact us", "Please contact us should you have any questions"]
+    explain: "**Should you have** — стандартная формула официального письма."
+  - q: "«Мы продолжим, только если все согласятся» (начни с Only)."
+    answers: ["Only if everyone agrees will we proceed", "We will proceed only if everyone agrees"]
+    explain: "**Only if** в начале → инверсия *will we*. Без фронтирования — обычный порядок."
+  - q: "«Если бы не ты, я бы сдался»."
+    answers: ["Had it not been for you I would have given up", "I would have given up had it not been for you"]
+    explain: "**Had it not been for** + существительное или местоимение — «если бы не» в прошлом."
+  - q: "«Я бы туда не пошёл, даже если бы мне заплатили»."
+    answers: ["I wouldn't go there even if they paid me", "Even if they paid me I wouldn't go there"]
+    explain: "Гипотеза → **even if** + Past; результат → *wouldn't go*."
+  - q: "«Возможно, данные неверны. Если так, нам придётся всё переделать»."
+    answers: ["If so we will have to redo everything"]
+    explain: "**If so** = «если это так» — сокращённое условие, отсылающее к предыдущей фразе."
+  - q: "«Предположим, рейс отменят — что мы будем делать?»"
+    answers: ["Suppose the flight is cancelled what will we do"]
+    explain: "**Suppose** + Present → реальная возможность, поэтому *will* в вопросе. С Past было бы *what would we do*."

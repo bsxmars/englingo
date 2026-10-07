@@ -1,0 +1,30 @@
+title: "Собери предложение"
+type: order
+intro: "Собери английское предложение из слов. Относительное местоимение-объект в этих предложениях опущено, а предлог стоит в конце — как в живой речи."
+hints:
+  - "Порядок: существительное → подлежащее придаточного → глагол → (предлог) → основное сказуемое."
+items:
+  - q: "«Человек, с которым я говорил, очень помог»."
+    answers: ["The person I spoke to was very helpful."]
+    explain: "*speak **to** someone* → предлог уходит в конец придаточного: *the person I spoke to*. Местоимение (*who/that*) опущено."
+  - q: "«Я нашёл зарядку, которую ты искал»."
+    answers: ["I've found the charger you were looking for."]
+    explain: "*look **for** something* → *the charger you were looking for*."
+  - q: "«Мы вернулись в ресторан, где у нас было первое свидание»."
+    answers: ["We went back to the restaurant where we had our first date."]
+    explain: "Место + в придаточном нет предлога → **where**."
+  - q: "«Я ищу кого-нибудь, кто умеет чинить велосипеды»."
+    answers: ["I'm looking for someone who can fix bikes."]
+    explain: "*who* — подлежащее придаточного (кто умеет?), поэтому его нельзя опустить."
+  - q: "«Это девушка, чей брат работает в Google»."
+    answers: ["She's the girl whose brother works at Google."]
+    explain: "**whose** + существительное без артикля: *whose brother works*."
+  - q: "«Музыка, которую ты слушаешь, слишком громкая»."
+    answers: ["The music you are listening to is too loud."]
+    explain: "*listen **to*** → предлог в конце: *the music you are listening to*. Затем основное сказуемое *is too loud*."
+  - q: "«Мужчина, у которого мы снимаем квартиру, живёт в Испании»."
+    answers: ["The man we rent the flat from lives in Spain."]
+    explain: "*rent a flat **from** someone* → *the man we rent the flat from*. Глагол главного предложения *lives* идёт после всего придаточного."
+  - q: "«Это была самая сложная задача, с которой я сталкивался»."
+    answers: ["It was the hardest problem I have ever dealt with."]
+    explain: "*deal **with*** → предлог в конце. После превосходной степени — Present Perfect с *ever*."

@@ -1,0 +1,43 @@
+title: "Поставь в нужную степень"
+type: gap
+intro: "Поставь слово в скобках в нужную форму: сравнительную, превосходную или исходную. Если нужен артикль *the* или слово *more / most*, впиши и его."
+hints:
+  - "Один слог → -er / -est; два и больше → more / most. good → better → the best."
+  - "Внутри as … as — исходная форма."
+items:
+  - q: "My new flat is much ___ (big) than the old one."
+    answers: ["bigger"]
+    explain: "Один слог, гласная + согласная → согласная удваивается: **bigger**."
+  - q: "This is ___ (bad) coffee I've ever had."
+    answers: ["the worst"]
+    explain: "Превосходная от *bad* — неправильная: **the worst**. После неё часто идёт *I've ever…*"
+  - q: "Yesterday was ___ (hot) day of the year so far."
+    answers: ["the hottest"]
+    explain: "Превосходная с *of the year* → **the hottest** (*t* удваивается)."
+  - q: "Could you speak a bit ___ (slowly), please?"
+    answers: ["more slowly", "slower"]
+    explain: "Наречие на *-ly* → **more slowly**. В разговорной речи часто говорят и *slower*."
+  - q: "The more you practise, the ___ (easy) it gets."
+    answers: ["easier"]
+    explain: "Конструкция **the more…, the + comparative**. *easy* → *easier* (y → i)."
+  - q: "She's ___ (good) at maths than her brother."
+    answers: ["better", "much better", "far better", "a lot better"]
+    explain: "*good* → **better** (неправильная форма)."
+  - q: "He drives ___ (carefully) than his wife does."
+    answers: ["more carefully"]
+    explain: "Наречие на *-ly* → **more carefully**. ~~carefullier~~ не бывает."
+  - q: "This laptop is twice as ___ (heavy) as mine."
+    answers: ["heavy"]
+    explain: "Внутри **as … as** — исходная форма: *twice as heavy as*."
+  - q: "It was ___ (interesting) talk of the whole conference."
+    answers: ["the most interesting"]
+    explain: "Длинное прилагательное → **the most interesting**."
+  - q: "I'm even ___ (busy) this week than I was last week."
+    answers: ["busier"]
+    explain: "*busy* → **busier** (y → i). *even* + comparative = «ещё больше»."
+  - q: "We arrived ___ (early) than we had planned."
+    answers: ["earlier"]
+    explain: "*early* — и прилагательное, и наречие; сравнительная — **earlier**."
+  - q: "Train tickets are getting more and ___ (expensive)."
+    answers: ["more expensive"]
+    explain: "«Всё дороже и дороже» с длинным прилагательным: **more and more expensive**."

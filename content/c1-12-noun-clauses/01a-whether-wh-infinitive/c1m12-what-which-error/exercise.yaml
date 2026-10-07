@@ -1,0 +1,44 @@
+title: "Найди ошибку: whether, what, which"
+type: error
+intro: "В каждом предложении **одна** ошибка. Исправь её и отправь предложение целиком."
+hints:
+  - "all / everything / the only thing + that (или ничего), не what."
+  - "Комментарий ко всему предложению — which; перед to-инфинитивом и после предлога — whether."
+  - "Внутри косвенного вопроса — прямой порядок слов."
+items:
+  - q: "We did all what we could to save the company."
+    answers: ["We did all that we could to save the company.", "We did all we could to save the company.", "We did everything we could to save the company."]
+    explain: "*what* уже содержит «то», поэтому после *all* его не ставят: **all (that) we could**."
+  - q: "He apologised in public, what surprised everyone."
+    answers: ["He apologised in public, which surprised everyone.", "He apologized in public, which surprised everyone."]
+    explain: "Комментарий ко всему предыдущему предложению после запятой — **which**."
+  - q: "I can't decide if to apply for the job."
+    answers: ["I can't decide whether to apply for the job.", "I can't decide whether or not to apply for the job."]
+    explain: "Перед to-инфинитивом — только **whether**."
+  - q: "It all depends on if the bank approves the loan."
+    answers: ["It all depends on whether the bank approves the loan.", "It all depends whether the bank approves the loan."]
+    explain: "После предлога — **whether**: *depends on whether*. В разговорном BrE возможно и *depends whether* без *on*."
+  - q: "Could you explain me how to fill in this form?"
+    answers: ["Could you explain to me how to fill in this form?", "Could you explain how to fill in this form?"]
+    explain: "*explain* не берёт лицо без предлога: **explain to me** how… или просто *explain how…*"
+  - q: "The real question is if we can afford it."
+    answers: ["The real question is whether we can afford it."]
+    explain: "После *be* в роли сказуемого — **whether**, не *if*."
+  - q: "Nobody reads these reports, so I don't know why to bother."
+    answers: ["Nobody reads these reports, so I don't know why I should bother.", "Nobody reads these reports, so I don't know why I bother."]
+    explain: "С *why* инфинитив не употребляется: **why I should bother** / *why I bother*."
+  - q: "She wasn't sure what to do it with the leftover paint."
+    answers: ["She wasn't sure what to do with the leftover paint."]
+    explain: "*what* уже и есть дополнение к *do*, поэтому *it* лишнее: **what to do with** the paint."
+  - q: "The only thing what matters now is the result."
+    answers: ["The only thing that matters now is the result.", "The only thing which matters now is the result."]
+    explain: "После существительного (*the only thing*) нужно относительное **that**, а не *what* = «то, что»."
+  - q: "We discussed if or not to extend the deadline."
+    answers: ["We discussed whether or not to extend the deadline.", "We discussed whether to extend the deadline."]
+    explain: "Вплотную перед *or not* и перед инфинитивом — только **whether**."
+  - q: "Nobody could tell me where was the nearest pharmacy."
+    answers: ["Nobody could tell me where the nearest pharmacy was.", "Nobody could tell me where the nearest pharmacy is."]
+    explain: "В косвенном вопросе прямой порядок: **where the nearest pharmacy was**."
+  - q: "What little time we had were spent arguing about the agenda."
+    answers: ["What little time we had was spent arguing about the agenda."]
+    explain: "*what little time* согласуется с неисчисляемым *time* → **was**."

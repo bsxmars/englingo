@@ -1,0 +1,44 @@
+title: "Найди и исправь ошибку: фразовые глаголы"
+type: error
+intro: "В каждом предложении **одна** ошибка: порядок слов, не та частица, лишний или пропущенный предлог, неверная форма глагола. Исправь её и перепиши предложение целиком."
+hints:
+  - "Местоимение стоит между глаголом и частицей: pick it up, а не pick up it."
+  - "Непереходные фразовые глаголы не берут дополнения: The car broke down."
+  - "После give up, carry on, put off, keep on — форма -ing."
+items:
+  - q: "These leaflets are for the visitors, so please hand out them at the entrance."
+    answers: ["These leaflets are for the visitors, so please hand them out at the entrance."]
+    explain: "Местоимение *them* ставится **между** глаголом и частицей: *hand **them** out*."
+  - q: "The concert was called out because the singer had lost her voice."
+    answers: ["The concert was called off because the singer had lost her voice."]
+    explain: "Отменить → **call off**. *call out* — выкрикнуть, вызвать (врача, мастера)."
+  - q: "I'll carry on to work on the report after lunch."
+    answers: ["I'll carry on working on the report after lunch.", "I'll carry on with the report after lunch."]
+    explain: "**carry on** + *-ing* или *carry on with* + существительное. Инфинитив *to work* здесь не подходит."
+  - q: "We set off for the airport at six, but the taxi broke down it on the motorway."
+    answers: ["We set off for the airport at six, but the taxi broke down on the motorway."]
+    explain: "**break down** — непереходный: у него нет дополнения. Местоимение *it* лишнее."
+  - q: "Could you look up it in the dictionary? I'm not sure how to spell it."
+    answers: ["Could you look it up in the dictionary? I'm not sure how to spell it."]
+    explain: "*look up* — фразовый глагол, поэтому *look **it** up*. Сравни с предложным *look **after** it*."
+  - q: "My English teacher didn't turn up to class yesterday, so we found up why later."
+    answers: ["My English teacher didn't turn up to class yesterday, so we found out why later."]
+    explain: "Узнать, выяснить → **find out**. *out* здесь — «до конца, найти решение»."
+  - q: "She was offered a job in Dubai but she turned it off because of the heat."
+    answers: ["She was offered a job in Dubai but she turned it down because of the heat.", "She was offered a job in Dubai but she turned down the offer because of the heat.", "She was offered a job in Dubai but she turned the offer down because of the heat."]
+    explain: "Отклонить предложение → **turn down**: *turned it **down***. *turn off* — выключить прибор, к предложению работы не подходит."
+  - q: "Please switch on your phones off before the exam begins."
+    answers: ["Please switch your phones off before the exam begins.", "Please switch off your phones before the exam begins."]
+    explain: "Нужна одна частица — **off** (выключить). *on* лишняя: *switch your phones off* или *switch off your phones*."
+  - q: "I've been putting off to call the bank for weeks."
+    answers: ["I've been putting off calling the bank for weeks."]
+    explain: "После **put off** — форма *-ing*: *putting off **calling***."
+  - q: "When I was clearing the attic, I came across with some letters from my grandfather."
+    answers: ["When I was clearing the attic, I came across some letters from my grandfather."]
+    explain: "**come across** — двухчастный: дополнение идёт сразу после *across*. *with* лишнее (не путай с *come up **with***)."
+  - q: "The plane took up two hours late because of the storm."
+    answers: ["The plane took off two hours late because of the storm."]
+    explain: "Взлететь → **take off** (*off* — отрыв, отъезд). *take up* — начать заниматься (хобби)."
+  - q: "Don't worry about the money — you can pay me back it next month."
+    answers: ["Don't worry about the money — you can pay me back next month.", "Don't worry about the money — you can pay it back next month.", "Don't worry about the money. You can pay me back next month."]
+    explain: "У *pay back* одно дополнение-местоимение и оно стоит внутри: *pay **me** back* или *pay **it** back*. Два местоимения вокруг частицы не ставят."

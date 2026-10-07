@@ -1,0 +1,55 @@
+title: "Выбери верный вариант"
+type: choice
+intro: "Выбери единственный верный (или, где спрошено, неестественный) вариант. Следи за предлогами: их не должно быть ни двух, ни нуля."
+hints:
+  - "Фразовые глаголы (come across, look after, put up with) не отдают частицу вперёд."
+  - "where требует предлога внутри: live in → where; visit → which / that."
+items:
+  - q: "Formal letter: The authority ___ the complaint was sent has not replied yet."
+    options: ["to who", "to whom", "to that"]
+    answer: 1
+    explain: "Сразу после предлога про людей / организации как людей — **to whom**. *to who* и *to that* невозможны."
+  - q: "Is this the street ___ you grew up?"
+    options: ["which", "where", "in where"]
+    answer: 1
+    explain: "*grow up **in** a street* → **where**. С *which* понадобился бы предлог в конце: *which you grew up in*."
+  - q: "This is the street ___ I told you about."
+    options: ["where", "which", "about which"]
+    answer: 1
+    explain: "Предлог *about* уже стоит в конце → перед ним **which** (или *that*). *about which … about* — двойной предлог."
+  - q: "Which of these sounds unnatural?"
+    options: ["the old photos I came across", "the old photos across which I came", "the old photos that I came across"]
+    answer: 1
+    explain: "*come across* — фразовый глагол, частицу **нельзя** переносить вперёд: ~~across which I came~~."
+  - q: "That was the year ___ everything changed."
+    options: ["where", "when", "which"]
+    answer: 1
+    explain: "Время → **when**. *which* без предлога не работает: нужно было бы *in which*."
+  - q: "She explained ___ the algorithm works."
+    options: ["the way how", "how", "the way which"]
+    answer: 1
+    explain: "Либо **how**, либо *the way (that)*. Сочетание *the way how* — ошибка, *the way which* без *in* тоже."
+  - q: "We stayed in a village ___ name I can't pronounce."
+    options: ["which", "whose", "who's"]
+    answer: 1
+    explain: "«Название которой» = «чьё название» → **whose**. *who's* = *who is*."
+  - q: "The candidate ___ impressed us most was the youngest."
+    options: ["whom", "who", "which"]
+    answer: 1
+    explain: "Кандидат сам впечатлил → он **подлежащее** придаточного → только **who**. *whom* — только объект."
+  - q: "The topic ___ was fascinating."
+    options: ["about which we talked", "about which we talked about", "which we talked"]
+    answer: 0
+    explain: "Предлог один раз: **about which we talked** (или *(that) we talked about*). Третий вариант теряет предлог."
+  - q: "This is a case ___ the law isn't clear."
+    options: ["where", "which", "that"]
+    answer: 0
+    explain: "С абстрактными *case, situation, point* → **where** (= *in which*). Без предлога *which / that* не работают."
+  - q: "Formal email: Unfortunately, the position ___ is no longer available."
+    options: ["you applied", "for which you applied", "for that you applied"]
+    answer: 1
+    explain: "*apply **for*** — предлог нужен. Формально он идёт вперёд: **for which you applied**. Первый вариант его потерял."
+  - q: "The people ___ I work are very friendly."
+    options: ["who", "with whom", "with who"]
+    answer: 1
+    explain: "*work **with** sb* → **with whom**. В первом варианте предлог потерян, в третьем после предлога стоит *who*."

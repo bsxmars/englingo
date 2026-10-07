@@ -1,0 +1,55 @@
+title: "Вообще или конкретно?"
+type: choice
+intro: "Выбери верный вариант. Сначала реши, о чём речь: о вещах **вообще** или о **конкретных** вещах, которые уточнены ситуацией, *of*-фразой или придаточным."
+hints:
+  - "Прилагательное (modern, young, Russian) не делает понятие конкретным."
+  - "of + конкретное или придаточное (that / who / we had…) → обычно the."
+items:
+  - q: "___ is one of the biggest problems in modern cities."
+    options: ["The pollution", "Pollution", "A pollution"]
+    answer: 1
+    explain: "Загрязнение вообще, абстрактное неисчисляемое → **без артикля**. *A pollution* невозможно: слово неисчисляемое."
+  - q: "___ we had in that little café in Lisbon was the best I've ever tasted."
+    options: ["Coffee", "The coffee", "A coffee"]
+    answer: 1
+    explain: "Придаточное *we had in that café* уточняет, какой именно кофе → **The coffee**."
+  - q: "My grandfather was fascinated by ___ of the Second World War."
+    options: ["history", "the history", "a history"]
+    answer: 1
+    explain: "*of the Second World War* сужает понятие до конкретной истории → **the history of**."
+  - q: "She's doing a degree in ___ at Leeds."
+    options: ["the economics", "economics", "an economics"]
+    answer: 1
+    explain: "Учебные предметы и науки — **без артикля**: *study economics, maths, law*."
+  - q: "___ often find it hard to get a mortgage."
+    options: ["The young people", "Young people", "Young peoples"]
+    answer: 1
+    explain: "Молодые люди вообще: прилагательное *young* не делает группу конкретной → **Young people** без артикля."
+  - q: "In many countries, ___ receive free medical care."
+    options: ["the elderly", "elderly", "the elderlies"]
+    answer: 0
+    explain: "**the** + прилагательное = группа людей: **the elderly** (пожилые). Без *the* и с *-s* так не говорят."
+  - q: "___ is a mammal, not a fish."
+    options: ["Dolphin", "A dolphin", "Dolphins"]
+    answer: 1
+    explain: "Утверждение верно для **любого** дельфина → **A dolphin** is a mammal. *Dolphins are mammals* тоже возможно, но тогда *are* и *mammals*; голое *Dolphin* невозможно."
+  - q: "Who invented ___?"
+    options: ["the dishwasher", "dishwasher", "a dishwashers"]
+    answer: 0
+    explain: "Изобретение как тип предмета → **the** + единственное число: *invent the telephone, the dishwasher*."
+  - q: "___ in our office are really friendly."
+    options: ["Most people", "Most of the people", "The most people"]
+    answer: 1
+    explain: "Конкретная группа (люди у нас в офисе) → **most of the people**. *Most people* — люди вообще."
+  - q: "I've always been interested in ___ — especially Japanese gardens."
+    options: ["the nature", "nature", "a nature"]
+    answer: 1
+    explain: "*nature* (природа) в общем смысле — **без артикля**. ~~the nature~~ — типичная калька."
+  - q: "___ love long lunches — or at least that's the stereotype."
+    options: ["French", "The French", "The Frenches"]
+    answer: 1
+    explain: "Национальность на *-ch* без формы на *-s* → **the French** со значением «все французы»."
+  - q: "We didn't have rice in the end — we had ___ ."
+    options: ["some potatoes", "potatoes", "the potatoes"]
+    answer: 1
+    explain: "Мы просто называем, **что** ели (не рис, а картошку) — описание без *some*. *Some potatoes* подчёркивало бы количество, а *the* — конкретную картошку."

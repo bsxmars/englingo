@@ -1,0 +1,38 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка в модели reporting verb. Исправь её и отправь предложение целиком."
+hints:
+  - "explain / say / mention to sb; agree with sb; tell / assure / inform sb."
+  - "suggest / recommend — без объекта + инфинитива."
+  - "insist on, congratulate on, blame sth on sb / blame sb for sth."
+items:
+  - q: "She explained me that the system had crashed overnight."
+    answers: ["She explained to me that the system had crashed overnight.", "She explained that the system had crashed overnight.", "She told me that the system had crashed overnight."]
+    explain: "*explain* без прямого объекта-человека: **explained to me** или просто *explained that*."
+  - q: "He suggested me to apply for the scholarship."
+    answers: ["He suggested that I apply for the scholarship.", "He suggested that I should apply for the scholarship.", "He suggested I apply for the scholarship.", "He suggested I should apply for the scholarship.", "He suggested that I applied for the scholarship.", "He suggested I applied for the scholarship.", "He suggested applying for the scholarship."]
+    explain: "*suggest* + *that I (should) apply* или *suggest applying*. Объект + инфинитив невозможен."
+  - q: "They agreed me that the plan was far too risky."
+    answers: ["They agreed with me that the plan was far too risky."]
+    explain: "*agree* **with** sb **that**…"
+  - q: "She threatened calling the police if we didn't leave."
+    answers: ["She threatened to call the police if we didn't leave."]
+    explain: "*threaten* + **инфинитив**: *threatened to call*."
+  - q: "The lawyer denied to know anything about the deal."
+    answers: ["The lawyer denied knowing anything about the deal.", "The lawyer denied having known anything about the deal.", "The lawyer denied that he knew anything about the deal.", "The lawyer denied that she knew anything about the deal.", "The lawyer denied that he had known anything about the deal.", "The lawyer denied that she had known anything about the deal."]
+    explain: "*deny* + *-ing* или *that*-clause; инфинитив невозможен."
+  - q: "He blamed the delay to the weather."
+    answers: ["He blamed the delay on the weather.", "He blamed the weather for the delay."]
+    explain: "*blame sth **on** sb/sth* или *blame sb/sth **for** sth*."
+  - q: "My colleague insisted to pay for lunch."
+    answers: ["My colleague insisted on paying for lunch.", "My colleague insisted that he pay for lunch.", "My colleague insisted that she pay for lunch.", "My colleague insisted that he should pay for lunch.", "My colleague insisted that she should pay for lunch."]
+    explain: "*insist* **on** + *-ing* или *insist that…*; инфинитив невозможен."
+  - q: "She spoke to reporters that she had no plans to resign."
+    answers: ["She told reporters that she had no plans to resign.", "She said to reporters that she had no plans to resign.", "She informed reporters that she had no plans to resign.", "She assured reporters that she had no plans to resign."]
+    explain: "*speak* — только для summary report (*She spoke to reporters*), он не вводит *that*-clause. Нужен *told / said to / informed*."
+  - q: "He congratulated me for my promotion."
+    answers: ["He congratulated me on my promotion."]
+    explain: "*congratulate sb* **on** sth."
+  - q: "The minister assured that the hospital would remain open."
+    answers: ["The minister assured us that the hospital would remain open.", "The minister assured them that the hospital would remain open.", "The minister assured the public that the hospital would remain open.", "The minister assured voters that the hospital would remain open.", "The minister assured residents that the hospital would remain open.", "The minister assured everyone that the hospital would remain open.", "The minister assured patients that the hospital would remain open.", "The minister stated that the hospital would remain open.", "The minister promised that the hospital would remain open."]
+    explain: "*assure* требует объекта — кого заверили: *assured **the public** that…*"

@@ -1,0 +1,60 @@
+title: "Перефразирование: фразовые глаголы (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+
+  В Part 4 экзамена часто просят заменить «книжный» глагол фразовым: *postpone → put off*, *discover → find out*.
+hints:
+  - "postpone = put off, stop doing = give up, continue = carry on, refuse = turn down."
+  - "found / establish = set up, raise a child = bring up, start a hobby = take up."
+items:
+  - q: "They postponed the meeting until Friday."
+    key: "OFF"
+    stem: "They ___ until Friday."
+    answers: ["put the meeting off", "put off the meeting", "put it off"]
+    explain: "*postpone* = **put off**. Существительное может стоять до или после частицы."
+  - q: "I stopped eating meat two years ago."
+    key: "GAVE"
+    stem: "I ___ two years ago."
+    answers: ["gave up eating meat", "gave up meat"]
+    explain: "Бросить привычку → **give up** + *-ing* или существительное."
+  - q: "There's no coffee left."
+    key: "RUN"
+    stem: "We have ___ coffee."
+    answers: ["run out of"]
+    explain: "Закончилось → **run out of**: *We have run out of coffee*. Без *of* перед существительным нельзя."
+  - q: "She refused the job offer."
+    key: "DOWN"
+    stem: "She ___ the job offer."
+    answers: ["turned down"]
+    explain: "Отклонить предложение → **turn down**."
+  - q: "Please continue with your work."
+    key: "CARRY"
+    stem: "Please ___ your work."
+    answers: ["carry on with", "carry on doing", "carry on"]
+    explain: "*continue* = **carry on**; перед существительным — *carry on **with***."
+  - q: "I found this café by chance last week."
+    key: "CAME"
+    stem: "I ___ last week."
+    answers: ["came across this café", "came across this cafe", "came across it"]
+    explain: "Найти случайно, наткнуться → **come across**."
+  - q: "Two students founded the company in 2015."
+    key: "SET"
+    stem: "The company ___ two students in 2015."
+    answers: ["was set up by"]
+    explain: "*found / establish* = **set up**. Подлежащее — компания, значит пассив: *was set up by*."
+  - q: "My grandmother raised me."
+    key: "BROUGHT"
+    stem: "I ___ my grandmother."
+    answers: ["was brought up by"]
+    explain: "Воспитывать → **bring up**; в пассиве: *I was brought up by…*"
+  - q: "The manager promised to investigate the complaint."
+    key: "LOOK"
+    stem: "The manager promised ___ the complaint."
+    answers: ["to look into"]
+    explain: "Расследовать, разобраться → **look into**."
+  - q: "She started doing yoga last year."
+    key: "TOOK"
+    stem: "She ___ last year."
+    answers: ["took up yoga", "took yoga up"]
+    explain: "Начать заниматься хобби → **take up**."

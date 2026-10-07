@@ -1,0 +1,84 @@
+title: "The Woman Who Cleared the View"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. В вопросах с полем ввода впиши одно слово из текста."
+hints:
+  - "Вопросы идут в порядке текста."
+  - "Неверные варианты часто повторяют слова из текста, но меняют смысл."
+text: |
+  ## The Woman Who Cleared the View
+
+  **(1)** Every time you switch on your windscreen wipers in a rainstorm, you are using an idea that came to a woman from Alabama more than a century ago. Her name was Mary Anderson, and, like many inventors whose ideas changed everyday life, she made almost no money from it.
+
+  **(2)** In the winter of 1902, Anderson, who was then in her mid-thirties, travelled to New York City. Riding a tram through the snowy streets, she noticed something that most passengers had probably stopped seeing. The driver, whose windscreen was covered in sleet, kept opening the window and leaning out to clear the glass by hand. Every time he did so, freezing air rushed in, which made the journey even more uncomfortable for everyone on board.
+
+  **(3)** Most people would have complained and then forgotten about it. Anderson took out a notebook. Back home in Birmingham, Alabama, she sketched a simple device: a rubber blade attached to a swinging arm, operated by a lever inside the vehicle. The driver could pull the lever to move the blade across the glass without ever opening the window. When summer came, the arm could be removed altogether so that it didn't spoil the look of the vehicle.
+
+  **(4)** Having built a working model with the help of a local company, she applied for a patent, which was granted in November 1903. The problem was that hardly anyone owned a car at the time. The Ford Model T, the car that would bring motoring to ordinary families, was still five years away.
+
+  **(5)** Convinced that her invention was worth something, Anderson wrote to a Canadian manufacturing firm, offering to sell them the rights. The reply was polite but discouraging: the company could see no commercial value in the idea. Other businesses she approached gave similar answers. Disappointed, she put the patent aside and went back to running the apartment building she owned in Birmingham.
+
+  **(6)** Patents at the time lasted seventeen years, and hers expired in 1920 — just as the car industry was growing at an extraordinary speed. Within a few years, mechanical wipers working on the same basic principle were becoming standard on new cars. Anderson, whose design had come first, received nothing from any of them.
+
+  **(7)** Why did so few people see what she saw? Historians usually point to two reasons, both of which still sound familiar today. First, she was trying to solve a problem for a market that barely existed yet. Second, as a woman with no engineering background, she was easy to ignore for the businessmen she wrote to.
+
+  **(8)** Anderson died in 1953, by which time nobody could imagine a car without wipers. Recognition, when it finally came, came very late: in 2011 she was added to the National Inventors Hall of Fame, joining people like Thomas Edison and the Wright brothers.
+
+  **(9)** Her story is a useful reminder for anyone working on a new idea. The inventors we remember are not always the people who thought of something first. Often they are the ones who happened to be in the right place at the moment the world was finally ready to listen.
+items:
+  - q: "What first caught Anderson's attention in New York?"
+    options:
+      - "The poor heating inside the tram."
+      - "The driver repeatedly opening the window to clean the glass."
+      - "Passengers complaining about the weather."
+      - "How slowly the tram moved through the snow."
+    answer: 1
+    explain: "Абзац 2: водитель *kept opening the window and leaning out to clear the glass by hand*. Холод в вагоне — следствие, а не то, что она заметила первым."
+  - q: "Why could the arm of Anderson's device be removed in summer?"
+    options:
+      - "To make the device cheaper to produce."
+      - "Because it did not work in hot weather."
+      - "So that it would not affect the vehicle's appearance."
+      - "Because drivers preferred to open the window in summer."
+    answer: 2
+    explain: "Абзац 3: *so that it didn't spoil the look of the vehicle* — чтобы не портить внешний вид."
+  - q: "What does the writer suggest about the year 1903 in paragraph 4?"
+    options:
+      - "Cars were too expensive to need wipers."
+      - "There were too few drivers for the invention to be in demand."
+      - "Ford had already designed a similar device."
+      - "Patents were very difficult to obtain."
+    answer: 1
+    explain: "*hardly anyone owned a car at the time* — массового рынка ещё не было, и Model T появится только через пять лет."
+  - q: "How did the Canadian firm respond to Anderson's offer?"
+    options:
+      - "It asked her to improve the design first."
+      - "It refused rudely and ignored further letters."
+      - "It did not believe the invention could make money."
+      - "It offered her a much lower price."
+    answer: 2
+    explain: "Абзац 5: *could see no commercial value in the idea*. Ответ был вежливым (*polite*), поэтому вариант про грубость неверен."
+  - q: "In paragraph 7, what does \"which\" in \"both of which\" refer to?"
+    options:
+      - "Two of Anderson's inventions."
+      - "Two reasons why her idea was ignored."
+      - "Two historians who studied her life."
+      - "Two businesses she wrote to."
+    answer: 1
+    explain: "*two reasons, both of which…* — *which* относится к ближайшему существительному слева: **two reasons**."
+  - q: "What is the writer's main point in the final paragraph?"
+    options:
+      - "Inventors should always work in large teams."
+      - "Being first matters less than being in the right place at the right time."
+      - "Most famous inventors stole their ideas from others."
+      - "Anderson should have tried harder to sell her patent."
+    answer: 1
+    explain: "*not always the people who thought of something first… the ones who happened to be in the right place* — главное — удачный момент, а не первенство."
+  - q: "Find a word in paragraph 2 that means \"a mix of rain and snow\"."
+    answers: ["sleet"]
+    explain: "**sleet** — мокрый снег, дождь со снегом."
+  - q: "Find a word in paragraph 5 that means \"making someone lose hope or enthusiasm\"."
+    answers: ["discouraging"]
+    explain: "**discouraging** — обескураживающий. Противоположность — *encouraging*."
+  - q: "Find a word in paragraph 6 that means \"stopped being legally valid\"."
+    answers: ["expired"]
+    explain: "**expire** — истекать (о патенте, паспорте, подписке): *My passport expires in May.*"

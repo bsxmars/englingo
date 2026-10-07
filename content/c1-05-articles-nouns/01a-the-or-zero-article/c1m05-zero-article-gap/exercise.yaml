@@ -1,0 +1,43 @@
+title: "the или ничего: названия и институции"
+type: gap
+intro: "Впиши слово или фразу из скобок **с артиклем the или без него** — так, как это звучит в британском английском."
+hints:
+  - "Одиночное имя (город, озеро, гора, улица) — без артикля; цепи, реки, моря, названия с of — с the."
+  - "prison, hospital, church, court без артикля — функция; с the — здание."
+items:
+  - q: "After the operation she spent a week in ___ (hospital) and then went to stay with her sister."
+    answers: ["hospital"]
+    explain: "Британское *in hospital* — она там как пациент, это функция учреждения. *the hospital* звучало бы как конкретное здание (или как американский вариант)."
+  - q: "We spent a fortnight hiking in ___ (Pyrenees) last summer."
+    answers: ["the Pyrenees"]
+    explain: "Горные цепи — во множественном числе и с *the*: **the Pyrenees**, *the Alps, the Andes*. Одиночная вершина — без артикля: *Mont Blanc*."
+  - q: "The city lies on the western shore of ___ (Lake Geneva)."
+    answers: ["Lake Geneva"]
+    explain: "*Lake* + имя — одиночное название без артикля: **Lake Geneva**, *Lake Baikal*. Ср. *the Black Sea* — моря берут *the*."
+  - q: "Her research focuses on the history of trade routes across ___ (Sahara)."
+    answers: ["the Sahara"]
+    explain: "Пустыни, как реки и моря, — с *the*: **the Sahara**, *the Gobi*."
+  - q: "He was sentenced to five years, but he was released from ___ (prison) after three."
+    answers: ["prison"]
+    explain: "Речь о нём как о заключённом — функция: *go to / be released from* **prison**. *the prison* — здание: *She visited him at the prison*."
+  - q: "Every Sunday my grandmother would walk two miles to ___ (church), whatever the weather."
+    answers: ["church"]
+    explain: "Ходить на службу — **to church** без артикля. *The church* — о конкретном здании: *The church was built in 1450*."
+  - q: "She graduated from ___ (University of Glasgow) in 2009."
+    answers: ["the University of Glasgow"]
+    explain: "Название с *of* берёт *the*: **the University of Glasgow**. Без *of* — *Glasgow University*, без артикля."
+  - q: "My uncle was a sailor; he first went to ___ (sea) when he was only fifteen."
+    answers: ["sea"]
+    explain: "*go to* **sea** — стать моряком, функция. *go to the sea* — поехать на море отдыхать."
+  - q: "The treaty was signed at a summit organised by ___ (UN)."
+    answers: ["the UN"]
+    explain: "Аббревиатура, которая читается по буквам и называет организацию, — с *the*: **the UN**, *the EU, the BBC*. Акронимы, читаемые как слово, — без: *NATO*."
+  - q: "We usually get to the office ___ (by train), but today we drove."
+    answers: ["by train"]
+    explain: "Способ передвижения — **by** + существительное без артикля. *the* появится только с предлогом *on/in*: *on the 8:10 train*."
+  - q: "They live just off ___ (Oxford Street), above a shoe shop."
+    answers: ["Oxford Street"]
+    explain: "Улицы и площади — без артикля: **Oxford Street**, *Red Square*. Исключения запоминаются отдельно (*the Strand, the High Street*)."
+  - q: "The exhibition at ___ (British Museum) attracted record crowds."
+    answers: ["the British Museum"]
+    explain: "Музеи, галереи, театры, гостиницы — с *the*: **the British Museum**, *the Tate, the Savoy*."

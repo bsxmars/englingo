@@ -1,0 +1,53 @@
+title: "Перефразирование (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "didn't remember to = forgot to; I'm sorry I didn't = I regret not + -ing."
+  - "gave up doing = stopped doing; continued doing = went on doing."
+items:
+  - q: "I didn't remember to send the invoice."
+    key: "FORGOT"
+    stem: "I ___ the invoice."
+    answers: ["forgot to send"]
+    explain: "Не вспомнил о задаче = **forgot to send**."
+  - q: "I'm sorry I didn't study harder at school."
+    key: "REGRET"
+    stem: "I ___ harder at school."
+    answers: ["regret not studying", "regret not having studied"]
+    explain: "Сожаление о прошлом → **regret + -ing**, отрицание перед глаголом: *regret not studying*."
+  - q: "Lena gave up eating sugar last year."
+    key: "STOPPED"
+    stem: "Lena ___ last year."
+    answers: ["stopped eating sugar"]
+    explain: "*gave up doing* = **stopped doing** — перестала."
+  - q: "Why don't you use a different browser?"
+    key: "TRY"
+    stem: "You could ___ a different browser."
+    answers: ["try using", "try to use"]
+    explain: "Совет попробовать способ → **try using** (основной вариант). *try to use* тоже встречается."
+  - q: "I was going to call you, but I didn't have time."
+    key: "MEANT"
+    stem: "I ___ you, but I didn't have time."
+    answers: ["meant to call", "meant to phone", "meant to ring"]
+    explain: "«Собирался» → **meant to call**."
+  - q: "I will always remember meeting my wife for the first time."
+    key: "FORGET"
+    stem: "I will never ___ wife for the first time."
+    answers: ["forget meeting my"]
+    explain: "*always remember* = **never forget + -ing** — о пережитом."
+  - q: "Taking the job in London would involve moving my whole family."
+    key: "MEAN"
+    stem: "Taking the job in London would ___ my whole family."
+    answers: ["mean moving"]
+    explain: "*involve* = **mean + -ing** — «повлечь за собой»."
+  - q: "Don't forget to take your passport."
+    key: "REMEMBER"
+    stem: "___ your passport."
+    answers: ["Remember to take", "Remember to bring"]
+    explain: "*Don't forget to* = **Remember to** — задача на будущее."
+  - q: "He continued talking even though nobody was listening."
+    key: "WENT"
+    stem: "He ___ even though nobody was listening."
+    answers: ["went on talking", "went on speaking"]
+    explain: "*continued doing* = **went on doing** — продолжал то же самое."

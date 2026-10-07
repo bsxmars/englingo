@@ -1,0 +1,44 @@
+title: "Построй именную группу"
+type: gap
+intro: "Впиши существительное или прилагательное из скобок с нужным артиклем (или без него). Если в скобках есть глагол, поставь его в нужную форму после существительного: *(tiger / be)* → *Tigers are* или *The tiger is*."
+hints:
+  - "Вид целиком: the + единственное число или множественное без артикля. a/an — нет."
+  - "the + прилагательное (the rich, the elderly) — всегда множественное число."
+  - "Абстрактное существительное с прилагательным и of часто получает a/an: a good command of."
+items:
+  - q: "___ (tiger / be) already extinct on the islands of Java and Bali."
+    answers: ["The tiger is", "Tigers are"]
+    explain: "*extinct* — свойство вида → **the tiger is** (формально) или **tigers are** (нейтрально). *A tiger is extinct* невозможно."
+  - q: "Few would have predicted that ___ (smartphone) would transform the way we read."
+    answers: ["the smartphone", "smartphones"]
+    explain: "Изобретение как явление → **the smartphone**; множественное **smartphones** тоже обобщает. *a smartphone* — «какой-то один телефон»."
+  - q: "___ (honeybee / pollinate) a remarkable proportion of the crops we eat."
+    answers: ["The honeybee pollinates", "Honeybees pollinate", "The honey bee pollinates", "Honey bees pollinate"]
+    explain: "Утверждение о виде: **the honeybee pollinates** или **honeybees pollinate**. Одна пчела (*a honeybee*) не опыляет долю всего урожая."
+  - q: "___ (elderly / be) often the first to suffer when rural bus routes are cut."
+    answers: ["The elderly are"]
+    explain: "*the* + прилагательное = группа людей, глагол во множественном числе: **The elderly are**."
+  - q: "Throughout history, ___ (rich) have found ways to avoid paying their share."
+    answers: ["the rich"]
+    explain: "**the rich** — «богатые» как группа. Без *the* прилагательное не может стоять подлежащим, а *-s* у него не бывает."
+  - q: "It was ___ (printing press) that made mass literacy possible in Europe."
+    answers: ["the printing press"]
+    explain: "Изобретение как явление → generic **the**. *a printing press* — одна машина, а одна машина массовую грамотность не создаёт."
+  - q: "___ (life) in a big city is rarely as glamorous as it looks online."
+    answers: ["Life"]
+    explain: "*life* «вообще», хотя и с уточнением *in a big city*: обстоятельство места не делает его конкретным → **Life** без артикля."
+  - q: "The documentary follows ___ (life) of a lighthouse keeper in the 1890s."
+    answers: ["the life"]
+    explain: "*of*-фраза выделяет одну конкретную жизнь → **the life**. Сравни с *Life is short* — о жизни вообще."
+  - q: "He has ___ (intense dislike) of small talk and avoids parties altogether."
+    answers: ["an intense dislike"]
+    explain: "Одно проявление чувства с прилагательным и *of* → **an intense dislike of**. Ср. *a fear of heights, a love of music*."
+  - q: "All candidates must demonstrate ___ (good command) of written English."
+    answers: ["a good command"]
+    explain: "Устойчивое **a good command of** — «хорошее владение». Это классификация уровня владения, поэтому *a*."
+  - q: "Much of ___ (research) on this question has been funded by the industry itself."
+    answers: ["the research"]
+    explain: "*much of* требует определителя перед существительным, а *on this question* сужает тему → **the research**."
+  - q: "The new law was hailed as ___ (victory) for common sense."
+    answers: ["a victory"]
+    explain: "*victory* здесь исчисляемое: «одна из побед» — классификация → **a victory**."

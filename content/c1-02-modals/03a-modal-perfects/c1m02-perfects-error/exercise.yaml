@@ -1,0 +1,41 @@
+title: "Modal perfects: найди ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: не тот модальный глагол для этого смысла или сломанная форма. Исправь её и отправь предложение целиком."
+hints:
+  - "«Обязан был, но не сделал» — should have / was supposed to, а не must have."
+  - "Отрицательный вывод — can't have; воображаемое прошлое — might / could have."
+  - "Пассив: have been + V3."
+items:
+  - q: "He must have called the client yesterday, but he forgot all about it."
+    answers: ["He should have called the client yesterday, but he forgot all about it.", "He ought to have called the client yesterday, but he forgot all about it.", "He was supposed to call the client yesterday, but he forgot all about it."]
+    explain: "«Должен был, но не позвонил» → **should have called / was supposed to call**. *must have called* значит «наверное, позвонил» — противоречит второй части."
+  - q: "She mustn't have heard the alarm — she slept right through it."
+    answers: ["She can't have heard the alarm — she slept right through it.", "She cannot have heard the alarm — she slept right through it.", "She couldn't have heard the alarm — she slept right through it."]
+    explain: "Уверенный отрицательный вывод о прошлом в британском английском — **can't / couldn't have heard**. *mustn't* означает запрет."
+  - q: "The results should have published before the conference."
+    answers: ["The results should have been published before the conference."]
+    explain: "Результаты сами себя не публикуют → пассив: **should have been published**."
+  - q: "You were incredibly lucky — you may have been killed."
+    answers: ["You were incredibly lucky — you might have been killed.", "You were incredibly lucky — you could have been killed."]
+    explain: "Воображаемое прошлое (собеседник жив) → **might / could have been killed**. *may have been killed* звучит так, будто неизвестно, жив ли он."
+  - q: "I needn't have worn a suit, so I didn't — and nobody else did either."
+    answers: ["I didn't need to wear a suit, so I didn't — and nobody else did either.", "I did not need to wear a suit, so I didn't — and nobody else did either."]
+    explain: "Костюм не надевали → **didn't need to wear**. *needn't have worn* значит, что надел зря."
+  - q: "Flowers? Oh, you didn't need to bring them — they're beautiful!"
+    answers: ["Flowers? Oh, you needn't have brought them — they're beautiful!", "Flowers? Oh, you shouldn't have brought them — they're beautiful!", "Flowers? Oh, you shouldn't have — they're beautiful!", "Flowers? Oh, you needn't have — they're beautiful!"]
+    explain: "Цветы уже принесли — вежливая благодарность звучит как **you needn't have / you shouldn't have**. *didn't need to bring* — сухое «не требовалось»."
+  - q: "I couldn't ask for a better start to the season."
+    answers: ["I couldn't have asked for a better start to the season.", "I could not have asked for a better start to the season."]
+    explain: "Оценка того, что уже произошло, + сравнительная степень → **couldn't have asked for** a better… («лучше и быть не могло»)."
+  - q: "They should arrive by now — the train got in an hour ago."
+    answers: ["They should have arrived by now — the train got in an hour ago.", "They ought to have arrived by now — the train got in an hour ago.", "They must have arrived by now — the train got in an hour ago.", "They will have arrived by now — the train got in an hour ago."]
+    explain: "*by now* + действие уже должно было завершиться → перфект: **should have arrived** by now."
+  - q: "He is supposed to make a fortune in the dot-com boom."
+    answers: ["He is supposed to have made a fortune in the dot-com boom.", "He is said to have made a fortune in the dot-com boom."]
+    explain: "Слух о **прошлом** → перфектный инфинитив: **is supposed to have made**."
+  - q: "She must have been forgot to lock the door."
+    answers: ["She must have forgotten to lock the door."]
+    explain: "Активное действие → **must have forgotten**. *been* нужен только в пассиве или continuous."
+  - q: "I would have help you, but nobody told me you were moving."
+    answers: ["I would have helped you, but nobody told me you were moving."]
+    explain: "После *have* — всегда V3: **would have helped**."

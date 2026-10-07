@@ -1,0 +1,55 @@
+title: "Part 1: четыре похожих слова"
+type: choice
+intro: "Как в C1 Advanced, Part 1: все четыре слова близки по значению, но в предложение подходит только одно — по коллокации, конструкции или оттенку смысла."
+hints:
+  - "Сначала посмотри вправо от пропуска: предлог, -ing, to, дополнение-человек."
+  - "Потом — на соседнее существительное и на оценку (положительная или неодобрительная)."
+items:
+  - q: "After years of hard work, the small bakery has ___ a reputation for the best bread in town."
+    options: ["won", "took", "earned", "achieved"]
+    answer: 2
+    explain: "**earn a reputation** — заслужить трудом. *take* и *achieve* с *reputation* не сочетаются, *win a reputation* устарело и встречается редко. Ключ — *after years of hard work*."
+  - q: "The minister ___ that the new tax would affect only the wealthiest households."
+    options: ["insisted", "demanded", "required", "urged"]
+    answer: 0
+    explain: "**insist that** + утверждение — «настаивать, что так и есть». *demand* и *require* относятся к требованиям, а не к утверждениям; *urge* требует дополнения-человека."
+  - q: "The guide ___ us not to leave any valuables in the car."
+    options: ["suggested", "advised", "proposed", "insisted"]
+    answer: 1
+    explain: "Справа *us not to leave* → **advise sb (not) to do**. ~~suggest us to~~ и ~~propose us to~~ невозможны; *insist* требует *on*."
+  - q: "Despite the warnings, he ___ in climbing the mountain without a guide."
+    options: ["managed", "achieved", "succeeded", "accomplished"]
+    answer: 2
+    explain: "Справа *in climbing* → **succeed in -ing**. *manage to do*, *achieve / accomplish sth* — другие конструкции."
+  - q: "The town's hospital is under threat of closure, and hundreds of jobs are at ___."
+    options: ["hand", "stake", "issue", "play"]
+    answer: 1
+    explain: "**at stake** — «на кону». *at hand* — «под рукой, близко», *at issue* — «обсуждаемый», *at play* — «действующий» (о факторах)."
+  - q: "There is only a ___ chance that the missing climbers will be found alive."
+    options: ["thin", "slim", "narrow", "light"]
+    answer: 1
+    explain: "**a slim chance** — «слабый шанс». *narrow* — с *escape, margin, victory*: *a narrow escape*."
+  - q: "The ___ majority of respondents said they would welcome longer opening hours."
+    options: ["vast", "wide", "large", "big"]
+    answer: 0
+    explain: "**the vast majority** — устойчивое сочетание. *a large number*, *a wide range* — с другими существительными."
+  - q: "Many people take clean drinking water for ___ until there is a shortage."
+    options: ["given", "granted", "sure", "certain"]
+    answer: 1
+    explain: "**take sth for granted** — «принимать как должное». Фраза фиксирована."
+  - q: "The match was ___ off at the last minute because the pitch was frozen."
+    options: ["called", "put", "cut", "set"]
+    answer: 0
+    explain: "**call off** — «отменить». *put off* — «отложить»: матч, который отменили в последнюю минуту, а не перенесли, — *called off*."
+  - q: "She is a ___ scientist whose work on vaccines has been recognised worldwide."
+    options: ["notorious", "renowned", "infamous", "well-off"]
+    answer: 1
+    explain: "Положительная слава → **renowned**. *notorious* и *infamous* — «печально известный»; *well-off* — «состоятельный»."
+  - q: "It took her a long time to come to ___ with the loss of her job."
+    options: ["grips", "terms", "peace", "agreement"]
+    answer: 1
+    explain: "**come to terms with** — «смириться, принять». *get to grips with* — «разобраться», *make peace with* — другой глагол."
+  - q: "The proposal to close the library is, ___, out of the question."
+    options: ["for good", "of course", "at all", "in vain"]
+    answer: 1
+    explain: "Вводное **of course** — «разумеется». *for good* — «навсегда», *at all* — в отрицаниях и вопросах, *in vain* — «напрасно»."

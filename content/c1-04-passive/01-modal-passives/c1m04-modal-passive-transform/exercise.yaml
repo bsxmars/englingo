@@ -1,0 +1,64 @@
+title: "Перефразирование: модальный пассив, инфинитивы и герундии (C1 Advanced, Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "Оценка прошлого: could / should / must / can't + have been + V3."
+  - "Пассивный герундий: being + V3; пассивный перфектный инфинитив: to have been + V3."
+  - "Отрицание ставится перед всей формой: not being told, not to have been invited."
+items:
+  - q: "It was a mistake not to inform the residents earlier."
+    key: "SHOULD"
+    stem: "The residents ___ earlier."
+    answers: ["should have been informed", "should have been told", "should have been warned"]
+    explain: "Упрёк о прошлом в пассиве — **should have been informed**: модальный + *have been* + V3."
+  - q: "It's possible that someone moved the files while I was away."
+    key: "MIGHT"
+    stem: "The files ___ while I was away."
+    answers: ["might have been moved", "might have been taken"]
+    explain: "Предположение о прошлом — **might have been moved**."
+  - q: "I'm sure nobody cleaned this room yesterday."
+    key: "CAN'T"
+    stem: "This room ___ yesterday."
+    answers: ["can't have been cleaned", "cannot have been cleaned", "can't possibly have been cleaned"]
+    explain: "Уверенное отрицание о прошлом — **can't have been cleaned**."
+  - q: "It would have been possible to avoid the accident."
+    key: "COULD"
+    stem: "The accident ___."
+    answers: ["could have been avoided", "could have been prevented"]
+    explain: "Упущенная возможность — **could have been avoided**."
+  - q: "She hates it when people interrupt her during a presentation."
+    key: "BEING"
+    stem: "She hates ___ presentation."
+    answers: ["being interrupted during a", "being interrupted in a", "being interrupted while giving a", "being interrupted while she is giving a", "being interrupted when giving a"]
+    explain: "После *hate* — герундий; подлежащее испытывает действие → пассивный герундий **being interrupted**."
+  - q: "He was upset that nobody had invited him to the launch."
+    key: "NOT"
+    stem: "He was upset ___ to the launch."
+    answers: ["not to have been invited", "at not having been invited", "about not having been invited", "at not being invited", "about not being invited"]
+    explain: "Отрицательный пассивный перфектный инфинитив: **not to have been invited** (*not* перед всей формой). Возможен и герундий: *at not having been invited*."
+  - q: "They will probably have to sell the house."
+    key: "LIKELY"
+    stem: "The house ___ sold."
+    answers: ["is likely to have to be", "will likely have to be", "is likely to need to be"]
+    explain: "Phrasal modal в пассиве с *likely*: **is likely to have to be** sold."
+  - q: "Nobody is allowed to take photographs inside the chapel."
+    key: "MUST"
+    stem: "Photographs ___ inside the chapel."
+    answers: ["must not be taken", "mustn't be taken"]
+    explain: "Запрет в безличном стиле — **must not be taken**."
+  - q: "Someone has to repair the roof before winter."
+    key: "NEEDS"
+    stem: "The roof ___ before winter."
+    answers: ["needs to be repaired", "needs repairing", "needs to be fixed", "needs fixing"]
+    explain: "**needs to be repaired** (или *needs repairing*) — необходимость в пассиве."
+  - q: "I remember that the headmaster punished me for being late."
+    key: "PUNISHED"
+    stem: "I remember ___ the headmaster for being late."
+    answers: ["being punished by", "having been punished by"]
+    explain: "*remember* + пассивный герундий: **being punished by** (или *having been punished by* — подчёркивает предшествование)."
+  - q: "They expect to announce the results next week."
+    key: "EXPECTED"
+    stem: "The results ___ next week."
+    answers: ["are expected to be announced", "are expected to be published", "are expected to be released"]
+    explain: "Пассив + пассивный инфинитив: **are expected to be announced**."

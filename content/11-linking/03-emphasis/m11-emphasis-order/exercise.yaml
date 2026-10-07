@@ -1,0 +1,34 @@
+title: "Собери предложение с акцентом"
+type: order
+intro: "Собери английское предложение из слов. Перевод подсказывает, что нужно выделить."
+hints:
+  - "What … is / was …; It was … that / who …; All I … is / was …"
+  - "Усилительное do / does / did + начальная форма глагола."
+items:
+  - q: "«Мне нужно только одно — хорошенько выспаться»."
+    answers: ["All I need is a good night's sleep."]
+    explain: "**All I need is** … — «всё, что мне нужно». Глагол *is* в единственном числе."
+  - q: "«Больше всего меня раздражает шум»."
+    answers: ["What annoys me most is the noise."]
+    explain: "Cleft с **What**: сначала «что раздражает», потом главное — *the noise*."
+  - q: "«Именно в Берлине они впервые встретились»."
+    answers: ["It was in Berlin that they first met."]
+    explain: "**It was** + выделяемое обстоятельство + **that**. *first* стоит перед *met*."
+  - q: "«Это мой брат нашёл ключи»."
+    answers: ["It was my brother who found the keys."]
+    explain: "Выделяем человека: **It was my brother who** … (можно и *that*)."
+  - q: "«Я правда отправил тебе письмо!» (с акцентом)"
+    answers: ["I did send you an email!"]
+    explain: "Усилительное **did** + начальная форма *send*: возражаем собеседнику."
+  - q: "«Она действительно много работает»."
+    answers: ["She does work very hard."]
+    explain: "**does** + *work* (без *-s*) подчёркивает, что это правда."
+  - q: "«Причина, по которой я ушёл, — скучная работа»."
+    answers: ["The reason I left was that the job was boring."]
+    explain: "**The reason (why) … was that** + предложение."
+  - q: "«Всё, что он сделал, — это задал вопрос»."
+    answers: ["All he did was ask a question."]
+    explain: "**All he did was** + глагол (обычно без *to*)."
+  - q: "«Угощайтесь, пожалуйста, тортом!» (вежливое приглашение)"
+    answers: ["Do help yourself to some cake!"]
+    explain: "**Do** + повелительное наклонение звучит тепло и настойчиво: *Do help yourself*."

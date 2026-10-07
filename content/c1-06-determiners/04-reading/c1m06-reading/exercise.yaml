@@ -1,0 +1,82 @@
+title: "Twice as likely to what?"
+type: reading
+intro: "Прочитай эссе и ответь на вопросы. Вопросы с вариантами — в стиле C1 Advanced, Part 5; в остальных впиши слово или фразу из текста."
+hints:
+  - "Вопросы идут в порядке текста."
+  - "В Part 5 верный вариант перефразирует мысль автора, а неверные часто повторяют слова текста, но искажают смысл."
+text: |
+  ## Twice as likely to what? On reading numbers in the news
+
+  Few headlines are as effective at making a reader put down a cup of coffee as one announcing that some everyday habit *doubles* the risk of a serious illness. Many a breakfast has been abandoned on the strength of such a claim. Yet in the great majority of cases, the alarm turns out to be out of all proportion to the danger. The problem is rarely that the figures are invented. It is that they are presented in a way that almost no one, journalists included, is trained to read.
+
+  Consider the word "twice". If a condition affects one person in ten thousand, and a particular habit is associated with two cases in ten thousand, the habit has indeed doubled the risk. It has also raised it by a hundredth of one per cent. Both statements are true; only one of them will be quoted. Statisticians call the first figure the *relative* risk and the second the *absolute* risk, and much of the confusion surrounding health reporting comes from the habit of mentioning the former and quietly omitting the latter. A drug that cuts deaths "by half" sounds miraculous until one learns that it reduces them from two in a thousand patients to one.
+
+  Percentages create a second, subtler trap. A rise from four per cent to six per cent can be described as an increase of two percentage points or as an increase of fifty per cent, and the difference is not a matter of taste. The first describes how far the line on the graph has moved; the second describes that movement relative to where the line started. Neither is dishonest in itself, but each invites a very different reaction, and a writer who wishes to alarm will seldom choose the smaller-sounding number.
+
+  Then there is the question of whom the figures actually describe. A survey reporting that "two-thirds of Britons" hold a particular view may, on closer inspection, turn out to have questioned a few hundred people, all of whom had signed up to a website devoted to the issue in question. The sample, in other words, was neither large nor representative, and no amount of careful arithmetic can rescue a result built on such foundations. It is worth asking, every time, not only how many people were asked, but which people, and how they came to be asked at all.
+
+  None of this means that numbers should be distrusted wholesale. On the contrary, the cure for misleading statistics is not less numeracy but more. A reader who understands the difference between "fewer than one in a hundred" and "less than one per cent" — which are, admittedly, the same thing expressed in two ways — is far harder to frighten than one who simply takes in the size of the font. The trouble is that schools devote a great deal of time to calculation and comparatively little to interpretation. Most adults can work out a percentage; far fewer can say whether it means anything.
+
+  Some of the responsibility, of course, lies with the media. Editors know that a story about a modest, uncertain effect will attract a fraction of the readers that a frightening one will, and the economics of online publishing reward attention rather than accuracy. Yet it would be too easy to blame journalists alone. Press releases from universities and companies frequently exaggerate the findings of the very research they promote, and every one of those exaggerations finds its way, sooner or later, into somebody's headline.
+
+  What, then, should the ordinary reader do? A handful of questions will dispose of most statistical scare stories. Twice as likely as what? Out of how many? Compared with whom? Measured over what period? If an article answers none of these, the sensible response is not panic but polite scepticism. If it answers all of them, it may well be worth reading to the end.
+
+  There is something almost liberating in this. Each of us is bombarded daily with more figures than any previous generation encountered in a lifetime, and the temptation is either to believe all of them or to dismiss the whole lot as "lies, damned lies and statistics". Both reactions are understandable; neither is necessary. A little patience and a few well-chosen questions are usually enough to separate the numbers that matter from the ones that merely make a noise. The coffee, in most cases, can safely be finished.
+items:
+  - q: "In the first paragraph, the writer suggests that alarming health headlines are usually a result of"
+    options:
+      - "researchers deliberately falsifying their data."
+      - "figures being presented in a form that readers cannot interpret."
+      - "readers ignoring the warnings they are given."
+      - "journalists being unfamiliar with medical vocabulary."
+    answer: 1
+    explain: "*The problem is rarely that the figures are invented. It is that they are presented in a way that almost no one… is trained to read.* Данные не выдуманы — их подают в форме, которую мало кто умеет читать."
+  - q: "What point does the writer make with the example of a habit that 'doubles' the risk?"
+    options:
+      - "Relative risk is a more reliable measure than absolute risk."
+      - "A statement can be accurate and still give a misleading impression."
+      - "Most habits have no effect on the risk of illness."
+      - "Journalists usually quote both figures but emphasise one."
+    answer: 1
+    explain: "*Both statements are true; only one of them will be quoted.* Удвоение риска — правда, но абсолютный прирост ничтожен; точное утверждение создаёт ложное впечатление. Вариант D противоречит тексту: второе число *quietly omitted*."
+  - q: "According to the third paragraph, describing a rise from four to six per cent as 'fifty per cent' is"
+    options:
+      - "mathematically wrong but commonly done."
+      - "a stylistic choice with no real consequences."
+      - "correct, but likely to provoke a stronger reaction."
+      - "less accurate than speaking of percentage points."
+    answer: 2
+    explain: "*Neither is dishonest in itself, but each invites a very different reaction* — оба описания верны, но «пятьдесят процентов» пугает сильнее. *the difference is not a matter of taste* исключает вариант B."
+  - q: "What is the main weakness of the survey described in the fourth paragraph?"
+    options:
+      - "The people questioned were too few and not typical of the population."
+      - "The questions were worded in a misleading way."
+      - "The results were calculated incorrectly."
+      - "The website refused to publish the full results."
+    answer: 0
+    explain: "*The sample… was neither large nor representative* — выборка мала и нерепрезентативна. Об арифметике сказано, что даже аккуратный расчёт не спасёт результат."
+  - q: "What does the writer believe is the solution to misleading statistics?"
+    options:
+      - "Treating all published figures with suspicion."
+      - "Teaching people to calculate percentages more accurately."
+      - "Improving people's ability to interpret what numbers mean."
+      - "Reducing the number of statistics in the media."
+    answer: 2
+    explain: "*the cure… is not less numeracy but more… schools devote a great deal of time to calculation and comparatively little to interpretation.* Нужно учить толковать числа, а считать большинство и так умеет."
+  - q: "In the sixth paragraph, the writer's attitude towards journalists is best described as"
+    options:
+      - "entirely sympathetic, since they are victims of the system."
+      - "critical, but aware that they are not solely to blame."
+      - "dismissive of their claim to be under economic pressure."
+      - "convinced that they are the main source of exaggeration."
+    answer: 1
+    explain: "*Some of the responsibility… lies with the media… Yet it would be too easy to blame journalists alone* — автор критикует СМИ, но указывает и на пресс-релизы университетов и компаний."
+  - q: "Find a two-word phrase in paragraph 7 that means 'a small number'."
+    answers: ["a handful", "handful"]
+    explain: "***A handful of** questions* — «горстка, несколько». Естественный синоним *a few*, стилистически чуть живее."
+  - q: "Find a phrase in the last paragraph that means 'all of them together' (informal)."
+    answers: ["the whole lot", "whole lot"]
+    explain: "*to dismiss **the whole lot*** — «отбросить всё скопом». *the whole lot* — разговорный вариант *all of them*."
+  - q: "Find the word in paragraph 5 that the writer uses for 'completely, without distinguishing between cases'."
+    answers: ["wholesale"]
+    explain: "*numbers should be distrusted **wholesale*** — «огульно, целиком». Буквально «оптом»."

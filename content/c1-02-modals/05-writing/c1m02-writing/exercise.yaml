@@ -1,0 +1,49 @@
+title: "Proposal: reducing burnout in a remote team"
+type: writing
+intro: "Напиши proposal в формате C1 Advanced, Writing Part 2. Используй заголовок и подзаголовки, формальный регистр и модальные глаголы для предложений, оговорок и ожидаемых результатов."
+prompt: |
+  You work for an international software company where most employees now work remotely. Management has noticed a rise in sick leave and staff turnover, and the HR director has invited employees to submit **proposals** for improving staff wellbeing.
+
+  Your proposal should:
+
+  - briefly describe the **current problems** faced by remote staff;
+  - suggest **two practical measures** the company could introduce, explaining how they would work;
+  - explain how these measures **would benefit** both staff and the company.
+
+  Write your **proposal** in 220–260 words.
+words: [220, 260]
+target_grammar:
+  - "would / could / should для предложений и прогнозов: would allow, could be introduced, should result in"
+  - "Modal passives: could be offered, would need to be allocated, should be reviewed"
+  - "Оговорки с may / might: this may involve some cost; while this might not suit everyone…"
+  - "It is proposed that … (should) be …; consideration should be given to…"
+checklist:
+  - "Есть заголовок и подзаголовки; центральный раздел — конкретные предложения, а не описание проблемы."
+  - "Во введении названа цель proposal и источник информации."
+  - "Каждое из двух предложений объясняет, как именно оно будет работать (кто, что, когда, сколько стоит)."
+  - "Результаты сформулированы через would / could / should, а не через категоричное will."
+  - "Есть хотя бы одна оговорка с may / might и хотя бы два modal passive."
+  - "Формальный регистр: нет сокращений и разговорных слов; есть связки (however, furthermore, in view of this)."
+  - "Объём 220–260 слов."
+model_answer: |
+  **Proposal for improving the wellbeing of remote staff**
+
+  **Introduction**
+
+  The purpose of this proposal is to suggest two measures that could reduce stress among our remote employees. It is based on an informal survey of forty colleagues across four departments.
+
+  **Current situation**
+
+  Most respondents reported that the boundary between work and private life has all but disappeared. Many feel obliged to answer messages late in the evening, and several admitted that they had not taken a full day off in months. Unsurprisingly, burnout was a recurring theme.
+
+  **Proposal 1: core hours and a messaging policy**
+
+  It is proposed that the company should introduce core hours, from 10 a.m. to 4 p.m., during which all meetings would have to be scheduled. Outside these hours, staff would not be expected to reply to messages unless there was a genuine emergency. Admittedly, this may require some adjustment from teams working across time zones; however, rotating meeting slots could solve this.
+
+  **Proposal 2: a wellbeing allowance**
+
+  A modest monthly allowance could be offered to every employee to spend on gym membership, ergonomic equipment or a co-working space. A budget would need to be allocated, but the cost should be far lower than that of recruiting replacements for staff who leave.
+
+  **Expected benefits**
+
+  These measures would allow employees to recover properly between working days, which should, in turn, reduce sick leave and turnover. They would also send a clear message that the company values its people. In view of this, I would strongly recommend that both measures be trialled for six months and then reviewed.

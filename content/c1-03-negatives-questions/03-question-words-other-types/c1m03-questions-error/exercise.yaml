@@ -1,0 +1,40 @@
+title: "Ошибки в вопросах"
+type: error
+intro: "В каждом предложении **одна** ошибка: порядок слов, вопросительное слово или лишнее *do*. Исправь и отправь предложение целиком."
+hints:
+  - "В косвенном вопросе и после вставки do you think — порядок утверждения."
+  - "which of, to whom, What does she look like?"
+items:
+  - q: "Can you tell me where is the nearest pharmacy?"
+    answers: ["Can you tell me where the nearest pharmacy is?"]
+    explain: "Косвенный вопрос → порядок утверждения: *where the nearest pharmacy **is***."
+  - q: "What do you think does she want?"
+    answers: ["What do you think she wants?"]
+    explain: "Вопросительный порядок уже есть во вставке *do you think*; дальше — *she **wants*** без *does*."
+  - q: "To who did you send the invoice?"
+    answers: ["To whom did you send the invoice?", "Who did you send the invoice to?"]
+    explain: "После предлога в начале — **whom**. Нейтральный вариант — предлог в конце: *Who did you send the invoice to?*"
+  - q: "What of these laptops is the lightest?"
+    answers: ["Which of these laptops is the lightest?"]
+    explain: "Перед *of these* — только **which**: выбор из ограниченного набора."
+  - q: "Whichever do you mean by that?"
+    answers: ["Whatever do you mean by that?"]
+    explain: "Вопросы удивления строят с *whatever, however, whoever, wherever*, но не с *whichever*."
+  - q: "I asked him if had he finished the report."
+    answers: ["I asked him if he had finished the report.", "I asked him whether he had finished the report."]
+    explain: "Косвенный вопрос — без инверсии: *if **he had** finished*."
+  - q: "How about we going for a walk after lunch?"
+    answers: ["How about going for a walk after lunch?", "How about we go for a walk after lunch?"]
+    explain: "После *How about* — *-ing* без подлежащего или, в разговоре, целая клауза: *How about we go…?*"
+  - q: "What is she looking like? — Tall, with short dark hair."
+    answers: ["What does she look like? — Tall, with short dark hair."]
+    explain: "Вопрос о внешности — ***What does she look like?*** *look like* здесь — глагол состояния, в Continuous не ставится."
+  - q: "Do you know what time does the shop open on Sundays?"
+    answers: ["Do you know what time the shop opens on Sundays?"]
+    explain: "Внутри *Do you know…* — косвенный вопрос: *what time the shop **opens***, без *does*."
+  - q: "When do you believe will the work be finished?"
+    answers: ["When do you believe the work will be finished?"]
+    explain: "Вставка *do you believe* забирает вопросительный порядок; дальше — *the work **will be** finished*."
+  - q: "Whom do you think is responsible for the leak?"
+    answers: ["Who do you think is responsible for the leak?"]
+    explain: "Вопросительное слово — подлежащее для *is*, поэтому **who**. *Whom* было бы возможно только для дополнения: *Whom do you think they will appoint?*"

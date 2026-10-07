@@ -1,0 +1,52 @@
+title: "Связный текст: the move, the kitchen, a friend of mine"
+type: choice
+intro: "Выбери единственный вариант, который естественно продолжает текст. Следи за тем, как уже введённый объект называют заново, и за выбором между 's, *of* и compound."
+hints:
+  - "Уже введённый объект называют с the — часто другим, более общим словом: the suspect, the move."
+  - "the работает и для того, что естественно связано с упомянутым: a flat → the kitchen."
+  - "'s — чей (люди, организации, время); compound — какой (тип, назначение)."
+items:
+  - q: "Police were called to a disturbance outside a nightclub on Friday night. ___ lasted less than ten minutes."
+    options: ["An incident", "Incident", "The incident"]
+    answer: 2
+    explain: "*a disturbance* уже введено; дальше его называют заново более общим словом с **the**: *The incident*. *An incident* звучало бы как новое, другое событие."
+  - q: "We looked at a flat near the station, but ___ was far too small to cook in."
+    options: ["the kitchen", "a kitchen", "its kitchens"]
+    answer: 0
+    explain: "Ассоциативная связь: у квартиры одна кухня, читатель её «опознаёт» → **the kitchen**, хотя она не упоминалась."
+  - q: "The government announced that fuel duty would rise by 10%. ___ provoked fury among hauliers."
+    options: ["A move", "The move", "Move"]
+    answer: 1
+    explain: "Существительное-ярлык суммирует всё предыдущее предложение: **The move**. Без артикля исчисляемое *move* стоять не может, а *A move* было бы новым действием."
+  - q: "She applied for a grant to study coral reefs. ___ was turned down twice before it was finally approved."
+    options: ["Grant application", "A grant application", "The grant application"]
+    answer: 2
+    explain: "Глагол *applied for a grant* сворачивается в сжатый compound с *the*: **The grant application**."
+  - q: "I really wanted that jacket, but in the end I didn't buy it because ___ was ridiculous."
+    options: ["the price", "a price", "its prices"]
+    answer: 0
+    explain: "Связь с подразумеваемой покупкой: у вещи одна цена, она «опознаваема» → **the price**."
+  - q: "A woman and her teenage son were rescued from a burning car on the M6. ___ was later treated for smoke inhalation."
+    options: ["A boy", "The boy", "Boy"]
+    answer: 1
+    explain: "Сын уже упомянут, и его называют заново другим словом: **The boy**. *A boy* — какой-то другой мальчик."
+  - q: "The woman staying with us isn't a relative; she's ___ — they were at university together."
+    options: ["a my wife's friend", "a friend of my wife's", "my wife's a friend"]
+    answer: 1
+    explain: "«Одна из подруг жены» — double possessive: **a friend of my wife's**. Артикль и притяжательное не стоят рядом (~~a my wife's friend~~)."
+  - q: "We spent the weekend at ___ — she's just moved into a house by the sea."
+    options: ["my aunt's", "my aunt", "the aunt's of mine"]
+    answer: 0
+    explain: "Possessive без существительного, когда «дом» понятен: **at my aunt's** (= at my aunt's house)."
+  - q: "We sat at ___ so that we could slip out early without being noticed."
+    options: ["the hall's back", "the back of the hall", "the hall back"]
+    answer: 1
+    explain: "Часть предмета, особенно неодушевлённого, — через *of*: **the back of the hall**. 's с неодушевлённым предметом здесь неестественно, а compound *hall back* не существует."
+  - q: "Could you hand me ___ ? I want to fill it with water for the plants."
+    options: ["a cup of coffee", "that coffee cup", "that coffee's cup"]
+    answer: 1
+    explain: "Нужна пустая чашка «для кофе» — compound **coffee cup**. *a cup of coffee* — кофе в чашке, а 's у *coffee* не бывает."
+  - q: "She has always written for children, and her latest book won the prize for best ___ ."
+    options: ["children book", "children's book", "childrens' book"]
+    answer: 1
+    explain: "Classifying possessive: **children's book** — «книга для детей». *children* уже множественное число, поэтому 's, а не s'."

@@ -1,0 +1,56 @@
+title: "during / while, by / until, as / like"
+type: choice
+intro: "Выбери правильный вариант. Во всех пунктах верен ровно один."
+hints:
+  - "during + существительное, while + подлежащее и глагол."
+  - "by — не позже срока, until — всё время вплоть до."
+  - "as — в роли (так и есть), like — похоже на, as if — будто."
+items:
+  - q: "My phone rang ___ the interview — so embarrassing!"
+    options: ["during", "while", "for"]
+    answer: 0
+    explain: "После пропуска — существительное (*the interview*) → **during**. *while* требует подлежащего и глагола."
+  - q: "Someone stole my bike ___ I was in the shop."
+    options: ["during", "while", "for"]
+    answer: 1
+    explain: "После пропуска — предложение (*I was in the shop*) → **while**."
+  - q: "Please send me the report ___ Friday at the latest."
+    options: ["until", "by", "till"]
+    answer: 1
+    explain: "Крайний срок (*at the latest*) → **by**. *until / till* — действие длится вплоть до момента."
+  - q: "I'll wait here ___ you come back."
+    options: ["by", "by the time", "until"]
+    answer: 2
+    explain: "Жду непрерывно вплоть до момента → **until**."
+  - q: "___ we got to the party, most people had already left."
+    options: ["By the time", "Until", "By"]
+    answer: 0
+    explain: "«К тому моменту, когда» + предложение → **By the time**. Просто *by* перед предложением не ставится."
+  - q: "She works ___ a nurse in a children's hospital."
+    options: ["like", "as", "as if"]
+    answer: 1
+    explain: "Профессия, роль — так и есть → **as** a nurse. *like a nurse* значило бы «похоже на медсестру»."
+  - q: "He sings ___ an angel."
+    options: ["as", "like", "as if"]
+    answer: 1
+    explain: "Сравнение: он не ангел, но поёт похоже → **like**."
+  - q: "___ I said yesterday, the deadline can't be moved."
+    options: ["As if", "Such as", "As"]
+    answer: 2
+    explain: "С глаголами речи и знания — **As** I said / As you know. В разговоре слышно и *Like I said*, но в нейтральном стиле — *as*."
+  - q: "You look ___ you haven't slept for days."
+    options: ["as", "as if", "such as"]
+    answer: 1
+    explain: "«Выглядишь так, будто…» → **as if** + предложение."
+  - q: "On Sunday we stayed in bed ___ eleven o'clock — what a lazy morning!"
+    options: ["by", "until", "during"]
+    answer: 1
+    explain: "Лежали непрерывно вплоть до одиннадцати → **until**."
+  - q: "I fell asleep ___ the film and missed the ending."
+    options: ["during", "while", "for"]
+    answer: 0
+    explain: "*the film* — существительное → **during**."
+  - q: "The guests should be here ___ seven, so let's start cooking now."
+    options: ["until", "by", "during"]
+    answer: 1
+    explain: "Не позже семи, к семи → **by**."

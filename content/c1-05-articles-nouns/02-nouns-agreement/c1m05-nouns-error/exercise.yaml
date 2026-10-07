@@ -1,0 +1,43 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка в существительном, артикле или согласовании. Исправь её и отправь предложение целиком."
+hints:
+  - "Проверь: может ли это слово быть исчисляемым? Есть ли у него форма единственного числа?"
+  - "Не смешивай в одном предложении it/its и they/their для group noun."
+items:
+  - q: "The speech was rewarded with a warm applause."
+    answers: ["The speech was rewarded with warm applause.", "The speech was rewarded with a warm round of applause.", "The speech was rewarded with a round of warm applause."]
+    explain: "*applause* неисчисляемо, и прилагательное этого не меняет: **warm applause** или **a warm round of applause**."
+  - q: "We had such a terrible weather in Wales that we hardly left the cottage."
+    answers: ["We had such terrible weather in Wales that we hardly left the cottage."]
+    explain: "*weather* никогда не берёт *a*: **such terrible weather**. Ср. *such a terrible day* — *day* исчисляемое."
+  - q: "She has made a remarkable progress since she joined the team."
+    answers: ["She has made remarkable progress since she joined the team."]
+    explain: "*progress* неисчисляемо: **remarkable progress**, без *a*."
+  - q: "A tiger is now critically endangered across much of Asia."
+    answers: ["The tiger is now critically endangered across much of Asia.", "Tigers are now critically endangered across much of Asia."]
+    explain: "«Под угрозой исчезновения» — свойство вида, а не одной особи: **The tiger is** или **Tigers are**."
+  - q: "Physics were the subject I struggled with most at school."
+    answers: ["Physics was the subject I struggled with most at school."]
+    explain: "Название науки на *-ics* — единственное число: **Physics was**."
+  - q: "The outskirts of the city is mostly industrial estates and car parks."
+    answers: ["The outskirts of the city are mostly industrial estates and car parks."]
+    explain: "*outskirts* — существительное только во множественном числе (как *belongings, surroundings, premises*), поэтому глагол **are**."
+  - q: "She bought two jeans in the January sales."
+    answers: ["She bought two pairs of jeans in the January sales."]
+    explain: "pair nouns считают через *pair*: **two pairs of jeans**. ~~two jeans~~ невозможно."
+  - q: "The police has launched an investigation into the leak."
+    answers: ["The police have launched an investigation into the leak."]
+    explain: "*police* — только множественное число: **The police have**."
+  - q: "The jury have reached its verdict after two days of deliberation."
+    answers: ["The jury has reached its verdict after two days of deliberation.", "The jury have reached their verdict after two days of deliberation."]
+    explain: "Group noun согласуется последовательно: либо целое (**has… its**), либо отдельные люди (**have… their**). Смешивать нельзя."
+  - q: "All her belonging fitted into two battered suitcases."
+    answers: ["All her belongings fitted into two battered suitcases.", "All her belongings fit into two battered suitcases."]
+    explain: "*belongings* (вещи, имущество) — plural-only noun, формы *belonging* в этом значении нет."
+  - q: "Smoking is strictly prohibited anywhere on the premise."
+    answers: ["Smoking is strictly prohibited anywhere on the premises."]
+    explain: "«Территория, здание» — только **premises**. *premise* — исходное положение, посылка рассуждения."
+  - q: "Thank you so much for your kind congratulation on our engagement."
+    answers: ["Thank you so much for your kind congratulations on our engagement."]
+    explain: "*congratulations* в значении «поздравления» употребляется во множественном числе."

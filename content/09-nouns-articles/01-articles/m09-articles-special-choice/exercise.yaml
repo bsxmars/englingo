@@ -1,0 +1,55 @@
+title: "Особые случаи: инструменты, полиция, время"
+type: choice
+intro: "Выбери **a**, **an**, **the**, **one** или **—** (артикль не нужен)."
+hints:
+  - "Инструменты — с the, виды спорта — без артикля."
+  - "Фразы времени без артикля, пока нет прилагательного или уточнения."
+items:
+  - q: "She plays ___ violin in a youth orchestra."
+    options: ["a", "the", "—"]
+    answer: 1
+    explain: "Музыкальные инструменты после *play* — с **the**: *play the violin, the piano, the guitar*."
+  - q: "Do you want to play ___ tennis after work?"
+    options: ["a", "the", "—"]
+    answer: 2
+    explain: "Виды спорта — **без артикля**: *play tennis, play football*."
+  - q: "Only ___ of the candidates had real experience."
+    options: ["a", "one", "the"]
+    answer: 1
+    explain: "«Один из многих» — только **one of**: ~~a of~~ не бывает."
+  - q: "___ police have closed the road after the accident."
+    options: ["A", "The", "—"]
+    answer: 1
+    explain: "**the police** — полиция как служба, глагол во множественном (*have*). Одного человека называют *a police officer*."
+  - q: "We heard the news on ___ radio."
+    options: ["a", "the", "—"]
+    answer: 1
+    explain: "Радио как средство информации — **the radio**. А телевизор обычно без артикля: *on TV*."
+  - q: "We had ___ very quick breakfast and left."
+    options: ["a", "the", "—"]
+    answer: 0
+    explain: "Приём пищи сам по себе — без артикля (*have breakfast*), но с прилагательным — **a**: *a very quick breakfast*."
+  - q: "I was born in ___ 1998."
+    options: ["a", "the", "—"]
+    answer: 2
+    explain: "Годы — **без артикля**: *in 1998*."
+  - q: "Do you remember ___ summer we spent by the lake?"
+    options: ["a", "the", "—"]
+    answer: 1
+    explain: "Уточнение *we spent by the lake* показывает, какое именно лето → **the**."
+  - q: "My grandfather spent twenty years at ___ sea as a sailor."
+    options: ["a", "the", "—"]
+    answer: 2
+    explain: "**at sea** — «в плавании», устойчивое выражение без артикля. Но *by the sea* — у моря."
+  - q: "Who invented ___ wheel?"
+    options: ["a", "the", "—"]
+    answer: 1
+    explain: "Изобретение как явление в целом → **the** + единственное число: *the wheel, the telephone*."
+  - q: "Her daughter has ___ long curly hair."
+    options: ["a", "the", "—"]
+    answer: 2
+    explain: "*hair* (волосы на голове) неисчисляемое, и мы просто описываем → **без артикля**. *a hair* — один волосок."
+  - q: "The thief was caught by ___ police officer who was off duty."
+    options: ["a", "the", "—"]
+    answer: 0
+    explain: "Один полицейский, впервые упомянут → **a police officer**. ~~a police~~ не говорят."

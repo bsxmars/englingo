@@ -1,0 +1,58 @@
+title: "Перефразирование с инверсией (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "Not until / Only when + придаточное → инверсия в главной части."
+  - "If I had … → Had I …; If you need … → Should you need …"
+items:
+  - q: "I didn't understand the problem until I read the report."
+    key: "UNTIL"
+    stem: "Not ___ the report did I understand the problem."
+    answers: ["until I read", "until I had read"]
+    explain: "*didn't … until* → **Not until** + придаточное с обычным порядком; инверсия (*did I understand*) уже стоит в главной части."
+  - q: "We only noticed the mistake after the website went live."
+    key: "DID"
+    stem: "Only after the website went live ___ the mistake."
+    answers: ["did we notice"]
+    explain: "*Only after* + придаточное → инверсия в главной части: **did we notice**."
+  - q: "If I had known you were in town, I would have called you."
+    key: "HAD"
+    stem: "___ you were in town, I would have called you."
+    answers: ["Had I known"]
+    explain: "Третий условный без *if*: **Had I known** = *If I had known*."
+  - q: "If you need any help, just call reception."
+    key: "SHOULD"
+    stem: "___ any help, just call reception."
+    answers: ["Should you need", "Should you require"]
+    explain: "**Should you need** = *If you need* — вежливая формальная инверсия."
+  - q: "You must not tell anyone the code under any circumstances."
+    key: "NO"
+    stem: "Under ___ tell anyone the code."
+    answers: ["no circumstances must you", "no circumstances should you", "no circumstances can you"]
+    explain: "*Under no circumstances* в начале → инверсия: модальный **must / should you**."
+  - q: "The film was so boring that half the audience left."
+    key: "SO"
+    stem: "___ the film that half the audience left."
+    answers: ["So boring was"]
+    explain: "**So + прилагательное + be + подлежащее + that**: *So boring was the film that…*"
+  - q: "She had no idea that she would become famous one day."
+    key: "LITTLE"
+    stem: "___ that she would become famous one day."
+    answers: ["Little did she know", "Little did she realise", "Little did she realize", "Little did she think"]
+    explain: "«И не подозревала» → **Little did she know**: инверсия с *did*, глагол в начальной форме."
+  - q: "If it hadn't been for the rain, we would have won."
+    key: "NOT"
+    stem: "Had ___ the rain, we would have won."
+    answers: ["it not been for"]
+    explain: "Отрицание в условной инверсии — **Had it not been for** (не *Hadn't it been*)."
+  - q: "He not only lost the match but also injured his knee."
+    key: "DID"
+    stem: "Not only ___ the match, but he also injured his knee."
+    answers: ["did he lose"]
+    explain: "*Not only* в начале → инверсия: **did he lose**; во второй части — обычный порядок."
+  - q: "We can only finish on time if everyone works at the weekend."
+    key: "CAN"
+    stem: "Only if everyone works at the weekend ___ on time."
+    answers: ["can we finish"]
+    explain: "*Only if* + придаточное → инверсия в главной части: **can we finish**."

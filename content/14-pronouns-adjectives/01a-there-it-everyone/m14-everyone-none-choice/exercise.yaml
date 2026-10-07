@@ -1,0 +1,55 @@
+title: "everyone, no one, none, else"
+type: choice
+intro: "Выбери вариант, который грамматически верен и звучит естественно."
+hints:
+  - "everyone / everything / nobody + глагол в единственном числе, но дальше — they / their."
+  - "none of + the / my / us; no one и nobody — без of."
+items:
+  - q: "Everyone in the office ___ been told about the changes."
+    options: ["has", "have", "are"]
+    answer: 0
+    explain: "*everyone* грамматически — единственное число: **Everyone has**. Русское «все» сбивает на ~~have~~."
+  - q: "If anybody asks for me, tell ___ I'll be back at three."
+    options: ["they", "them", "their"]
+    answer: 1
+    explain: "Про неизвестного человека после *anybody* говорим *they / them*. Здесь нужно дополнение → **them**."
+  - q: "Everyone's ready to go, ___?"
+    options: ["isn't he", "aren't they", "isn't it"]
+    answer: 1
+    explain: "В разделительном вопросе после *everyone* — **they**, поэтому *aren't they*. С *everything* было бы *isn't it*."
+  - q: "— How many replies did you get? — ___. Not a single one."
+    options: ["No one", "None", "Nothing"]
+    answer: 1
+    explain: "Короткий ответ на *how many / how much* — **None** («ни одного»). *No one* — только о людях."
+  - q: "___ of the candidates had any real experience."
+    options: ["No one", "None", "Nobody"]
+    answer: 1
+    explain: "Перед **of the** + сущ. — только **None**. *No one* и *nobody* с *of* не сочетаются."
+  - q: "I knocked several times, but ___ answered."
+    options: ["none", "no one", "nothing"]
+    answer: 1
+    explain: "О людях без *of* → **no one** (или *nobody*). *none* без существительного тут звучит книжно и устаревше."
+  - q: "Nobody said ___ about the delay."
+    options: ["nothing", "anything", "something"]
+    answer: 1
+    explain: "В английском одно отрицание: *nobody* уже отрицает, поэтому дальше **anything**, а не ~~nothing~~."
+  - q: "Sorry, this isn't my bag — it must be someone ___."
+    options: ["else", "else's", "other's"]
+    answer: 1
+    explain: "«Чей-то чужой» → **someone else's**: притяжательный *'s* присоединяется к *else*."
+  - q: "We checked ___ of the 200 links, and they all work."
+    options: ["everyone", "every one", "everything"]
+    answer: 1
+    explain: "«Каждый из» + *of* → **every one** раздельно. Слитное *everyone* — только «все люди» и без *of*."
+  - q: "Is there ___ you'd like to add before we finish?"
+    options: ["anything else", "else anything", "other anything"]
+    answer: 0
+    explain: "**else** ставится после *anything / someone / nowhere*: *anything else*. ~~other anything~~ не бывает."
+  - q: "I've tried everything, but ___ seems to work."
+    options: ["anything", "nothing", "something"]
+    answer: 1
+    explain: "Смысл «ничего не помогает» при утвердительном глаголе *seems* → **nothing**. *anything* требовал бы *doesn't seem*."
+  - q: "Everything ___ under control, so there's no need to panic."
+    options: ["is", "are", "were"]
+    answer: 0
+    explain: "*everything* — единственное число: **Everything is**. Русское «всё» тоже ед. ч., тут проще."

@@ -1,0 +1,46 @@
+title: "Report: how members use the town library"
+type: writing
+intro: "Напиши отчёт в формате C1 Advanced, Part 2. Опирайся на данные из задания, обобщай их через квантификаторы, дроби и проценты и следи за согласованием глагола."
+prompt: |
+  Your town library is facing budget cuts, and the library committee has asked you to write a report based on a recent survey of members. The main findings were:
+
+  - 64% of members visit less than once a month; 12% visit every week.
+  - Over half borrow e-books rather than printed books.
+  - Two-thirds of respondents aged under 30 have never attended a library event.
+  - The most common complaint was the opening hours (closed after 5 p.m.).
+
+  Your report should **summarise** how members currently use the library, **identify** the main problems, and **recommend** how the limited budget should be spent.
+
+  Write your **report** in 220–260 words.
+words: [220, 260]
+target_grammar:
+  - "Дроби и проценты с правильным согласованием: two-thirds of respondents have…, half of the budget is…"
+  - "Формальные квантификаторы: the majority of, relatively few, a great deal of, a handful of"
+  - "fewer / less, twice as many… as…, none of / neither of"
+  - "Безличные конструкции для выводов и рекомендаций: This suggests that…, It is recommended that…"
+checklist:
+  - "Есть заголовок и информативные подзаголовки (не меньше трёх разделов)."
+  - "Во введении названы цель отчёта и источник данных."
+  - "Данные обобщены, а не переписаны: использовано не меньше пяти разных выражений количества."
+  - "Глагол после дробей, процентов, the majority / a number of согласован с существительным после of."
+  - "Нет разговорных квантификаторов (a lot of, loads of) и сокращений."
+  - "Рекомендации логически вытекают из находок и обоснованы."
+  - "Объём 220–260 слов."
+model_answer: |
+  **Report on the use of Hillford Library**
+
+  **Introduction**
+
+  The purpose of this report is to summarise how members currently use the library and to suggest how the reduced budget might best be spent. It is based on a survey completed by some 400 members last month.
+
+  **Patterns of use**
+
+  The figures suggest that the library is no longer a place most members visit regularly. Almost two-thirds of respondents come in less than once a month, while just over a tenth visit every week. At the same time, more than half of those surveyed now borrow e-books rather than printed books, which indicates that a considerable proportion of the library's activity takes place online.
+
+  **Main problems**
+
+  By far the most frequent complaint concerned the opening hours. Since the building closes at 5 p.m., relatively few working members are able to visit at all. Younger members appear particularly disconnected: two-thirds of respondents under thirty have never attended a single library event, and none of the comments from this group mentioned the current programme of talks.
+
+  **Recommendations**
+
+  It is recommended that a significant share of the budget be spent on extending opening hours to two evenings a week, as this would address the complaint raised by the greatest number of members. In addition, it would be advisable to invest in the e-book collection rather than in new printed stock, given that the majority of members now prefer e-books. Finally, the committee should consider replacing some of the daytime talks with a handful of evening events for younger readers.

@@ -1,0 +1,41 @@
+title: "Найди ошибку: смешанные условия и пунктуация"
+type: error
+intro: "В каждом предложении **одна** ошибка: неверная форма глагола или неверная связка. Исправь и отправь предложение целиком."
+hints:
+  - "В if-части обычно нет will и would have."
+  - "Время каждой части определяется тем, о каком моменте она говорит."
+  - "«если…, то…» → if…, then…; никогда if…, so…"
+items:
+  - q: "If I would have known about the delay, I would have stayed at home."
+    answers: ["If I had known about the delay, I would have stayed at home.", "If I'd known about the delay, I would have stayed at home."]
+    explain: "В if-части counterfactual — **Past Perfect**: *had known*. *would have* только в главной части."
+  - q: "If the files aren't on the server, so someone must have deleted them."
+    answers: ["If the files aren't on the server, then someone must have deleted them.", "If the files aren't on the server, someone must have deleted them."]
+    explain: "Следствие подчёркивают **then**, а не *so*. Можно и без связки."
+  - q: "If she wouldn't have missed the bus, she would be here by now."
+    answers: ["If she hadn't missed the bus, she would be here by now.", "If she had not missed the bus, she would be here by now."]
+    explain: "Прошлое событие в if-части → **hadn't missed**. Главная часть (*would be … by now*) — смешанный тип."
+  - q: "If you will heat ice, it melts."
+    answers: ["If you heat ice, it melts."]
+    explain: "Закономерность → factual, **Present Simple** в обеих частях. *will* тут не несёт ни упрёка, ни просьбы."
+  - q: "If I had more time last week, I would have finished the report."
+    answers: ["If I had had more time last week, I would have finished the report.", "If I'd had more time last week, I would have finished the report."]
+    explain: "*last week* — прошлое → **had had**. Двойное *had* — нормально: Past Perfect от *have*."
+  - q: "When we were children, if it snowed, we would have built a snowman in the garden."
+    answers: ["When we were children, if it snowed, we would build a snowman in the garden.", "When we were children, if it snowed, we built a snowman in the garden.", "When we were children, if it snowed, we'd build a snowman in the garden.", "When we were children, if it snowed, we used to build a snowman in the garden."]
+    explain: "Реальная прошлая привычка → **would build** или *built*. *would have built* значило бы, что снеговика не лепили."
+  - q: "If they would have finished the work already, we'll give them something else to do."
+    answers: ["If they have finished the work already, we'll give them something else to do.", "If they've finished the work already, we'll give them something else to do."]
+    explain: "Реальное условие о уже сделанном → **Present Perfect**: *If they've finished*, + *will* в главной."
+  - q: "If the weather will be good tomorrow, we'll eat outside."
+    answers: ["If the weather is good tomorrow, we'll eat outside."]
+    explain: "Будущее в if-части выражаем **Present Simple**: *is good*."
+  - q: "If he hadn't spent all his savings, he would be able to afford a car last year."
+    answers: ["If he hadn't spent all his savings, he would have been able to afford a car last year."]
+    explain: "*last year* — результат в прошлом → **would have been able to**."
+  - q: "If you don't mind, I'd rather to stay here tonight."
+    answers: ["If you don't mind, I'd rather stay here tonight."]
+    explain: "После **would rather** — инфинитив без *to*."
+  - q: "If I didn't eat so much at lunch today, I wouldn't feel so full now."
+    answers: ["If I hadn't eaten so much at lunch today, I wouldn't feel so full now.", "If I had not eaten so much at lunch today, I wouldn't feel so full now."]
+    explain: "Обед уже прошёл → **hadn't eaten**; тяжесть сейчас → *wouldn't feel*. Смешанный тип."

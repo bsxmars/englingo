@@ -1,0 +1,41 @@
+title: "Придаточные времени, be to и was going to"
+type: gap
+intro: "Поставь глагол в скобках в нужную форму. Если в скобках дана конструкция (*be to*), используй её. Сокращения засчитываются; если подходят несколько форм, засчитаем любую верную."
+hints:
+  - "После when, while, as, as soon as, until, if — без will: Present Simple, Continuous или Perfect."
+  - "Present Perfect в придаточном — «сначала закончу, потом…»."
+  - "was going to — собирался (но не вышло) или «было понятно, что…»."
+items:
+  - q: "I'll listen to an audiobook while I ___ (drive) to Kazan tomorrow."
+    answers: ["am driving", "drive"]
+    explain: "После **while** — без *will*. Процесс в будущем удобно передать Present Continuous: *while I'm driving*. Present Simple тоже верен."
+  - q: "When you ___ (lie) on the beach next week, remember us poor people in the office!"
+    answers: ["are lying", "lie"]
+    explain: "Придаточное после **when** — настоящее время; Present Continuous подчёркивает процесс: *when you're lying on the beach*."
+  - q: "When I ___ (read) the report, I'll write a short summary for the team."
+    answers: ["have read", "read"]
+    explain: "Сначала прочитаю, потом напишу → лучше Present Perfect **have read**. Present Simple тоже возможен, но *will* — нет."
+  - q: "The bus pulled away just as I ___ (get) on it."
+    answers: ["was going to get", "was about to get", "was getting"]
+    explain: "**just as I was going to** — «как раз когда я собирался». Можно и *was about to get* или Past Continuous *was getting*."
+  - q: "I knew the exam ___ (be) difficult, so I studied all weekend."
+    answers: ["was going to be", "would be"]
+    explain: "Прогноз, сделанный в прошлом → **was going to be** или **would be**."
+  - q: "If the weather ___ (be) good tomorrow, we'll go hiking."
+    answers: ["is"]
+    explain: "После **if**, как и после *when*, будущее выражается настоящим временем: *if it is good*, не ~~will be~~."
+  - q: "Two new metro stations ___ (be to / open) in December, the mayor's office announced."
+    answers: ["are to open"]
+    explain: "**be to + глагол** — официально назначенное событие, язык новостей: *are to open*."
+  - q: "We'll start the meeting as soon as everyone ___ (arrive)."
+    answers: ["has arrived", "arrives"]
+    explain: "После **as soon as** — без *will*. *has arrived* подчёркивает: сначала все придут, потом начнём."
+  - q: "Don't sign anything until you ___ (talk) to a lawyer."
+    answers: ["have talked", "talk"]
+    explain: "После **until** — настоящее время; Present Perfect подчёркивает, что разговор должен закончиться раньше."
+  - q: "I ___ (call) you last night, but my phone died."
+    answers: ["was going to call", "was about to call"]
+    explain: "Намерение в прошлом, которое не осуществилось → **was going to call**."
+  - q: "The minister ___ (be to / meet) the strikers' leaders on Friday."
+    answers: ["is to meet"]
+    explain: "Официальная договорённость → **is to meet**. В разговоре сказали бы *is meeting*."

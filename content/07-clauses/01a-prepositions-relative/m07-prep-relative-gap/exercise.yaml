@@ -1,0 +1,44 @@
+title: "Предлог, whom, where, when, whose"
+type: gap
+intro: "Впиши **одно** слово (или предлог + *which*, где это указано вариантами). Иногда подходят несколько ответов — любой верный засчитывается."
+hints:
+  - "Сразу после предлога — только whom или which."
+  - "where = in / at which, when = on / in which, why = for which."
+  - "Предлог, ушедший в конец, нельзя потерять."
+items:
+  - q: "The colleague on ___ I relied most has just resigned."
+    answers: ["whom"]
+    explain: "Сразу после предлога про человека — только **whom**. ~~on who~~ и ~~on that~~ невозможны."
+  - q: "This is the software for ___ we paid two thousand euros."
+    answers: ["which"]
+    explain: "После предлога про вещь — только **which**. *that* после предлога не ставится."
+  - q: "Is this the charger you were looking ___ ?"
+    answers: ["for"]
+    explain: "*look **for*** — «искать». Местоимение опущено, предлог уходит в конец и обязательно остаётся."
+  - q: "The conference ___ she gave her first talk was in Lisbon."
+    answers: ["where", "at which"]
+    explain: "*give a talk **at** a conference* → **where** = *at which*. Предлог «спрятан» внутри *where*."
+  - q: "I'll never forget the moment ___ I first saw my daughter."
+    answers: ["when", "that"]
+    explain: "Момент времени → **when** (или *that*). ~~where~~ для времени не используют."
+  - q: "Nobody understands the reason ___ the project was cancelled."
+    answers: ["why", "that"]
+    explain: "После *the reason* — **why** или *that* (или ничего). Никогда не *because*."
+  - q: "She hates the way ___ he interrupts everyone."
+    answers: ["that", "in which"]
+    explain: "После *the way* — **that**, *in which* или ничего. *how* после *the way* — ошибка."
+  - q: "We need a system in ___ every user has their own password."
+    answers: ["which"]
+    explain: "*in* + вещь → **in which**. Это формальный вариант *where*."
+  - q: "It's a start-up ___ founders are both under twenty-five."
+    answers: ["whose"]
+    explain: "«Основатели которого» = «чьи основатели» → **whose**. Для компаний и вещей *whose* тоже нормален."
+  - q: "The problem I told you ___ has been fixed."
+    answers: ["about", "of"]
+    explain: "*tell sb **about** sth* → предлог в конце придаточного: *the problem I told you about*."
+  - q: "There are situations ___ honesty isn't the best policy."
+    answers: ["where", "in which", "when"]
+    explain: "С абстрактными *situation, case, point* обычно **where** или формальное *in which*; *when* тоже возможно — «бывают моменты, когда…»."
+  - q: "The guy ___ I share a flat with is a nurse."
+    answers: ["who", "that", "whom"]
+    explain: "Предлог *with* в конце, значит, перед ним — **who / that** (или формальное *whom*). Можно и опустить."

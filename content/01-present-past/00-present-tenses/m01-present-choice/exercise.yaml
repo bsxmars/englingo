@@ -1,0 +1,55 @@
+title: "Simple или Continuous"
+type: choice
+intro: "Выбери вариант, который звучит естественно. Подумай: действие в процессе или «вообще», действие или состояние."
+hints:
+  - "know, want, belong, contain, depend — глаголы состояния, без -ing."
+  - "think, have, see, taste меняют форму вместе со значением."
+items:
+  - q: "Can you call back later? We ___ dinner right now."
+    options: ["have", "'re having", "'ve got"]
+    answer: 1
+    explain: "*have dinner* = «ужинать» — действие, и оно идёт прямо сейчас → **'re having**. С *got* так нельзя."
+  - q: "My sister ___ in Lisbon — she moved there for good in 2018."
+    options: ["lives", "is living", "live"]
+    answer: 0
+    explain: "*for good* = «навсегда» — постоянная ситуация → **Present Simple**: *lives*. Continuous означал бы «временно»."
+  - q: "I ___ what you mean, but I don't agree."
+    options: ["see", "'m seeing", "am see"]
+    answer: 0
+    explain: "*see* = «понимаю» — глагол состояния → **see**. *I'm seeing* = «встречаюсь с кем-то»."
+  - q: "Which sentence sounds like a complaint?"
+    options: ["She always brings cake on Fridays.", "She's always interrupting me in meetings.", "She always replies within an hour."]
+    answer: 1
+    explain: "**always + Continuous** = «вечно она…» — так выражают раздражение. *always* + Simple — нейтральное «каждый раз»."
+  - q: "This jacket ___ to my brother, not to me."
+    options: ["is belonging", "belongs", "belong"]
+    answer: 1
+    explain: "*belong* — глагол владения, состояние → **belongs** (с -s в третьем лице)."
+  - q: "I ___ tired, so I'm going to bed."
+    options: ["am being", "am", "was being"]
+    answer: 1
+    explain: "*being* — только о поведении (*You're being rude*). Усталость — состояние → **am tired**."
+  - q: "I ___ about moving to another city, but I haven't decided yet."
+    options: ["think", "'m thinking", "thinks"]
+    answer: 1
+    explain: "*think about* = «обдумывать» — это процесс → **'m thinking**. *I think* = «я считаю»."
+  - q: "This soup ___ amazing. What's in it?"
+    options: ["is tasting", "tastes", "taste"]
+    answer: 1
+    explain: "*taste* = «иметь вкус» — состояние → **tastes**. *He's tasting the soup* — пробует (действие)."
+  - q: "Sorry, I can't talk now — I ___ to the airport."
+    options: ["drive", "'m driving", "'m drive"]
+    answer: 1
+    explain: "Действие идёт в момент речи → **'m driving**."
+  - q: "We ___ a car, so we usually take the train."
+    options: ["haven't got", "aren't having", "don't have got"]
+    answer: 0
+    explain: "«Нет машины» = владение: **haven't got** или *don't have*. *don't have got* — смешение двух конструкций."
+  - q: "At midnight I was still awake: I ___ for an exam."
+    options: ["studied", "was studying", "was study"]
+    answer: 1
+    explain: "В тот момент прошлого действие было в процессе → **Past Continuous**: *was studying*."
+  - q: "I ___ the answer when the teacher asked me, so I said nothing."
+    options: ["wasn't knowing", "didn't know", "haven't known"]
+    answer: 1
+    explain: "*know* — глагол состояния, и в прошлом без Continuous → **didn't know**."

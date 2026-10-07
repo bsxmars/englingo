@@ -1,0 +1,47 @@
+title: "Причастия и висячие обороты"
+type: choice
+intro: "Выбери единственный правильный вариант. Следи за активным/пассивным значением и за тем, кто выполняет действие причастия."
+hints:
+  - "-ing не заменяет одно законченное действие в прошлом: the man who stole, а не the man stealing."
+  - "Подлежащее после запятой = тот, кто делает действие причастия."
+items:
+  - q: "The man ___ the shop was arrested an hour later."
+    options: ["robbing", "who robbed", "robbed"]
+    answer: 1
+    explain: "Одно законченное действие в прошлом → полное придаточное **who robbed**. -ing описывало бы действие в процессе, а *robbed* значило бы «ограбленный»."
+  - q: "Students ___ late will not be allowed into the exam."
+    options: ["arrived", "arriving", "who arriving"]
+    answer: 1
+    explain: "= *students who arrive late*. Активное значение, общее правило → **arriving**."
+  - q: "___ the instructions, I put the bookshelf together in twenty minutes."
+    options: ["Followed", "Following", "To following"]
+    answer: 1
+    explain: "Я сам следовал инструкции, одновременно со сборкой → **Following**."
+  - q: "___ by thousands of tourists every day, the old bridge needs constant repairs."
+    options: ["Crossing", "Crossed", "Having crossed"]
+    answer: 1
+    explain: "Мост пересекают (пассив) → **Crossed**. *Crossing* значило бы, что мост сам что-то пересекает."
+  - q: "___ my keys, I had to wait outside until my flatmate came home."
+    options: ["Lost", "Having lost", "Lose"]
+    answer: 1
+    explain: "Сначала потерял, потом ждал → **Having lost**. *Lost* был бы пассивом («будучи потерянным»)."
+  - q: "Какое предложение правильное?"
+    options: ["Driving to work, a deer ran across the road.", "Driving to work, I saw a deer run across the road.", "Driving to work, the road was blocked by a deer."]
+    answer: 1
+    explain: "Машину ведёт **I**. В остальных вариантах получается, что за рулём олень или дорога, — это висячее причастие."
+  - q: "___ what to do, she called her mum."
+    options: ["Not knowing", "Knowing not", "Don't knowing"]
+    answer: 0
+    explain: "Отрицание — **not** перед причастием: *Not knowing*."
+  - q: "Is that the email ___ by the CEO last night?"
+    options: ["sending", "sent", "was sent"]
+    answer: 1
+    explain: "= *the email which was sent* → **sent**. *was sent* без *which* не работает."
+  - q: "___ in a small village, he had never seen a traffic jam before moving to Moscow."
+    options: ["Grown up", "Having grown up", "Grew up"]
+    answer: 1
+    explain: "«Выросши в деревне» — предшествующий период → **Having grown up**. *grow up* — непереходный, пассивного *Grown up* здесь быть не может."
+  - q: "Having read the reviews, ___"
+    options: ["the film seemed less interesting.", "we decided not to see the film.", "the film was taken off the list."]
+    answer: 1
+    explain: "Отзывы читали **we** — значит, именно *we* должно стоять сразу после запятой. Фильм отзывы не читает."

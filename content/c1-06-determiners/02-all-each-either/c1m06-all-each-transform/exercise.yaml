@@ -1,0 +1,59 @@
+title: "Перефразирование: all, whole, half, each, either"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "Перед названием места — the whole of; half стоит перед артиклем: half an hour."
+  - "all и each могут «плавать»: стоять после be и вспомогательного глагола."
+  - "every — регулярность (every twenty minutes) и «все основания» (every reason)."
+items:
+  - q: "All of France was affected by the strike."
+    key: "WHOLE"
+    stem: "The strike affected ___ ."
+    answers: ["the whole of France"]
+    explain: "Перед названием места — **the whole of**: *the whole of France*. ~~the whole France~~ — ошибка."
+  - q: "The two finalists were both given a scholarship."
+    key: "EACH"
+    stem: "___ received a scholarship."
+    answers: ["Each of the finalists", "Each of the two finalists", "The two finalists each", "The finalists each", "Each finalist"]
+    explain: "*each* смотрит на каждого по отдельности и годится для двух: **Each of the finalists** или «плавающее» *The two finalists each*."
+  - q: "Neither the first draft nor the second one mentioned the budget."
+    key: "OF"
+    stem: "___ mentioned the budget."
+    answers: ["Neither of the drafts", "Neither of the two drafts"]
+    explain: "**Neither of the** + мн. ч. = «ни один из двух». Глагол здесь в прошедшем времени, поэтому вопрос согласования не возникает."
+  - q: "They gave a key to every one of us."
+    key: "EACH"
+    stem: "We ___ a key."
+    answers: ["were each given", "each received", "each got"]
+    explain: "*each* после первого вспомогательного глагола: **We were each given a key**. Вариант *We each received* тоже естествен."
+  - q: "The only thing I want is a little peace and quiet."
+    key: "ALL"
+    stem: "___ a little peace and quiet."
+    answers: ["All I want is", "All that I want is", "All I really want is"]
+    explain: "*all* + придаточное = «единственное, что»: **All I want is**. *Everything I want* поменяло бы смысл."
+  - q: "We spent thirty minutes looking for a parking space."
+    key: "HOUR"
+    stem: "We spent ___ looking for a parking space."
+    answers: ["half an hour", "a half hour", "a half-hour"]
+    explain: "*half* стоит **перед** артиклем: **half an hour**. *a half hour* тоже возможно (особенно в AmE), но не ~~a half of hour~~."
+  - q: "Everyone in the team has signed the agreement."
+    key: "ALL"
+    stem: "The team members ___ the agreement."
+    answers: ["have all signed", "all signed", "all have signed"]
+    explain: "«Плавающее» *all* — после первого вспомогательного: **have all signed**. Без вспомогательного — перед глаголом: *all signed*."
+  - q: "There is a bus at 9.00, another at 9.20, another at 9.40, and so on."
+    key: "EVERY"
+    stem: "The buses run ___ ."
+    answers: ["every twenty minutes", "every 20 minutes"]
+    explain: "Регулярность — только **every** + число + мн. ч.: *every twenty minutes*. *each* так не употребляется."
+  - q: "She had good grounds for feeling angry with them."
+    key: "EVERY"
+    stem: "She had ___ angry with them."
+    answers: ["every reason to be", "every reason to feel", "every reason for being", "every reason for feeling"]
+    explain: "*every* с абстрактным существительным = «все основания»: **every reason to be angry**."
+  - q: "I don't mind which of the two options we choose."
+    key: "EITHER"
+    stem: "___ fine with me."
+    answers: ["Either option is", "Either of the options is", "Either of the two options is", "Either one is", "Either of them is", "Either option would be", "Either one would be", "Either of the options would be"]
+    explain: "*either* = «любой из двух», с глаголом в единственном числе: **Either option is fine**."

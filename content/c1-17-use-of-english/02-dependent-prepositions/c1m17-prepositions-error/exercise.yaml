@@ -1,0 +1,49 @@
+title: "Найди ошибку: предлоги"
+type: error
+intro: "В каждом предложении **один** неверный предлог. Исправь его и отправь предложение целиком."
+hints:
+  - "dependent on, accused of, eligible for, regardless of, result from / in, a rise in, object to, on behalf of, detrimental to, in the light of, impact on."
+items:
+  - q: "The success of the harvest is heavily dependent from the weather in late summer."
+    answers:
+      - "The success of the harvest is heavily dependent on the weather in late summer."
+      - "The success of the harvest is heavily dependent upon the weather in late summer."
+    explain: "**dependent on / upon** — «зависимый от». Калька «от» → *from* — одна из самых частых ошибок. Но: *independent **of***."
+  - q: "The former manager was accused for leaking confidential documents to the press."
+    answers: ["The former manager was accused of leaking confidential documents to the press."]
+    explain: "**accuse somebody of + -ing** — «обвинить в». *for* — после *blame* и *criticise*: *blamed for leaking*."
+  - q: "The scheme is aimed at families who are not currently eligible to state support."
+    answers: ["The scheme is aimed at families who are not currently eligible for state support."]
+    explain: "**eligible for + существительное** — «имеющий право на». *eligible to* возможно только с инфинитивом: *eligible to vote*."
+  - q: "Regardless to what the critics say, the film has been a huge commercial success."
+    answers:
+      - "Regardless of what the critics say, the film has been a huge commercial success."
+      - "Irrespective of what the critics say, the film has been a huge commercial success."
+    explain: "**regardless of** — «независимо от». ~~regardless to~~ — ошибка."
+  - q: "The fire is thought to have resulted in a faulty electrical cable."
+    answers:
+      - "The fire is thought to have resulted from a faulty electrical cable."
+      - "The fire is thought to have been caused by a faulty electrical cable."
+    explain: "Пожар — следствие, кабель — причина → **result from**. *result in* — наоборот: *The faulty cable resulted in a fire.*"
+  - q: "There has been a sharp rise of the number of people working from home."
+    answers: ["There has been a sharp rise in the number of people working from home."]
+    explain: "**a rise in** + то, что растёт. *a rise of* + величина: *a rise of 20%*."
+  - q: "Several committee members objected against the proposal on financial grounds."
+    answers:
+      - "Several committee members objected to the proposal on financial grounds."
+      - "Several committee members opposed the proposal on financial grounds."
+    explain: "**object to** — «возражать против». Калька «против» → *against* неверна. Синоним без предлога — *oppose*."
+  - q: "I am writing in behalf of the residents' association to express our concerns."
+    answers: ["I am writing on behalf of the residents' association to express our concerns."]
+    explain: "**on behalf of** — «от имени». Стандартное начало официального письма."
+  - q: "Long working hours are detrimental for both physical and mental health."
+    answers: ["Long working hours are detrimental to both physical and mental health."]
+    explain: "**detrimental to** — «вредный для». Так же: *harmful to*, но *bad for*."
+  - q: "In the light with recent events, the concert has been postponed until further notice."
+    answers:
+      - "In the light of recent events, the concert has been postponed until further notice."
+      - "In light of recent events, the concert has been postponed until further notice."
+    explain: "**in (the) light of** — «в свете, с учётом». Британский вариант с *the*, американский — без."
+  - q: "Her research has had a profound impact to the way the disease is treated."
+    answers: ["Her research has had a profound impact on the way the disease is treated."]
+    explain: "**an impact / effect / influence on** — «влияние на»."

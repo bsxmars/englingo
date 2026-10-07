@@ -1,0 +1,43 @@
+title: "Глагол + существительное"
+type: gap
+intro: "Впиши глагол (иногда фразовый) в нужной форме, который образует устойчивую коллокацию с существительным после пропуска. Засчитываются все естественные варианты."
+hints:
+  - "make: a decision, progress, an effort; do: damage, research, a favour; take: steps, action, responsibility."
+  - "raise: concerns, awareness, funds; reach: an agreement; draw: a conclusion; meet: a deadline; pose: a threat; pay: attention, tribute."
+items:
+  - q: "The government has promised to ___ urgent steps to tackle the housing crisis."
+    answers: ["take"]
+    explain: "**take steps / measures / action** — «принимать меры». ~~do steps~~ и ~~accept measures~~ — кальки."
+  - q: "Volunteers have ___ more than £20,000 for the children's hospital so far this year."
+    answers: ["raised", "collected", "made"]
+    explain: "**raise money / funds** — «собирать деньги» на благотворительность. Present Perfect: *have raised*."
+  - q: "After three days of tense negotiations, the two sides finally ___ an agreement."
+    answers: ["reached", "struck", "came to", "hammered out"]
+    explain: "**reach an agreement** — «достичь соглашения». Близкий вариант — *strike an agreement / a deal*."
+  - q: "It would be unwise to ___ any firm conclusions from such a small sample."
+    answers: ["draw", "reach"]
+    explain: "**draw a conclusion (from)** — «сделать вывод из фактов». ~~make a conclusion~~ — калька."
+  - q: "The storm ___ considerable damage to crops across the region."
+    answers: ["did", "caused", "inflicted"]
+    explain: "**do damage / harm** — не ~~make damage~~. Нейтральный синоним — *cause damage*."
+  - q: "I'd like to ___ tribute to everyone who has worked so hard on this project."
+    answers: ["pay"]
+    explain: "**pay tribute to** — «отдать должное». Так же: *pay attention, pay a compliment*."
+  - q: "If we don't ___ the deadline, the client may cancel the contract."
+    answers: ["meet", "make", "hit"]
+    explain: "**meet a deadline** — «уложиться в срок». В разговорной речи встречается и *make the deadline*; ~~keep a deadline~~ — ошибка."
+  - q: "Rising sea levels ___ a serious threat to low-lying coastal communities."
+    answers: ["pose", "present", "represent"]
+    explain: "**pose a threat / a risk / a challenge** — «представлять угрозу». Подлежащее во множественном числе → *pose*."
+  - q: "Nobody in the department was willing to ___ responsibility for the error."
+    answers: ["take", "accept", "assume", "bear"]
+    explain: "**take / accept responsibility for** — «взять на себя ответственность». *assume* — самый формальный вариант."
+  - q: "The campaign aims to ___ awareness of the dangers of air pollution among parents."
+    answers: ["raise", "increase", "spread"]
+    explain: "**raise awareness of** — «привлечь внимание, повысить осведомлённость». Одна из самых частых коллокаций в эссе."
+  - q: "She has ___ remarkable progress since she joined the advanced group."
+    answers: ["made", "shown"]
+    explain: "**make progress** (без артикля, неисчисляемое). ~~do progress~~ — частая ошибка."
+  - q: "The survey will be ___ over three years by a team of researchers in Edinburgh."
+    answers: ["carried out", "conducted", "done", "run"]
+    explain: "**carry out / conduct a survey / research / an experiment** — «проводить». Пассив: *will be carried out*."

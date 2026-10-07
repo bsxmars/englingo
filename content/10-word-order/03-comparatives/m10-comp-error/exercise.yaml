@@ -1,0 +1,40 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка в сравнении или в выборе прилагательного / наречия. Исправь предложение целиком."
+hints:
+  - "-er и more вместе не бывают; с comparative — much / far / a bit, не very."
+  - "После глагола действия — наречие (well, carefully), после be / look / sound — прилагательное."
+items:
+  - q: "My English is more better now."
+    answers: ["My English is better now.", "My English is much better now.", "My English is far better now.", "My English is a lot better now."]
+    explain: "*better* — уже сравнительная форма, *more* лишнее. Усилить можно через **much / far / a lot**."
+  - q: "She is very taller than her sister."
+    answers: ["She is much taller than her sister.", "She is far taller than her sister.", "She is a lot taller than her sister.", "She is a bit taller than her sister.", "She is slightly taller than her sister.", "She is a little taller than her sister.", "She is taller than her sister.", "She is even taller than her sister.", "She's much taller than her sister."]
+    explain: "С comparative **very** не употребляется. Нужно *much / far / a lot* (сильно) или *a bit / slightly* (чуть-чуть)."
+  - q: "This is the most cheap hotel in town."
+    answers: ["This is the cheapest hotel in town."]
+    explain: "*cheap* — один слог → **the cheapest**, без *most*."
+  - q: "He's as tall like his father."
+    answers: ["He's as tall as his father.", "He is as tall as his father."]
+    explain: "Конструкция равенства — **as … as**, не *as … like*."
+  - q: "Our office is bigger then yours."
+    answers: ["Our office is bigger than yours."]
+    explain: "После comparative — **than** (чем). *then* значит «потом, тогда»."
+  - q: "The more I read, more I understand."
+    answers: ["The more I read, the more I understand."]
+    explain: "В конструкции «чем…, тем…» **the** нужен в обеих частях."
+  - q: "She sings very good."
+    answers: ["She sings very well."]
+    explain: "*sings* — глагол действия → наречие **well**. *good* — прилагательное: *a good singer*."
+  - q: "It's the better restaurant in the city."
+    answers: ["It's the best restaurant in the city.", "It is the best restaurant in the city."]
+    explain: "Один из всех (*in the city*) → превосходная: **the best**."
+  - q: "Today is more hot than yesterday."
+    answers: ["Today is hotter than yesterday."]
+    explain: "*hot* — один слог → **hotter** (с удвоением *t*), без *more*."
+  - q: "He works very hardly."
+    answers: ["He works very hard."]
+    explain: "Наречие от *hard* — тоже **hard**. *hardly* значит «едва, почти не»: *He hardly works* — он почти не работает."
+  - q: "This test was the same difficult as the last one."
+    answers: ["This test was as difficult as the last one.", "This test was just as difficult as the last one."]
+    explain: "«Такой же трудный» → **as difficult as**. *the same* идёт с существительным: *the same level as*."

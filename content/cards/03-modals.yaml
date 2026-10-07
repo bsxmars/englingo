@@ -1,0 +1,188 @@
+- id: m03-mustnt-dont-have-to
+  lesson: 03-modals/01-obligation
+  q: "В чём разница: *You mustn't go* / *You don't have to go*?"
+  a: "**mustn't** — нельзя, запрещено; **don't have to** — не обязательно, можно не идти."
+- id: m03-must-past
+  lesson: 03-modals/01-obligation
+  q: "Переведи: «Вчера мне пришлось ждать час»."
+  a: "*Yesterday I **had to** wait for an hour.* — у *must* нет прошедшего времени."
+- id: m03-had-better
+  lesson: 03-modals/01-obligation
+  q: "Чем *had better* отличается от *should*?"
+  a: "**had better** — совет-предупреждение «иначе будут проблемы», о конкретной ситуации. Отрицание: *'d better **not***."
+- id: m03-ought-to
+  lesson: 03-modals/01-obligation
+  q: "Найди ошибку: *You ought apologise to her.*"
+  a: "*You ought **to** apologise.* — у *ought* частица *to* обязательна."
+- id: m03-needn-t
+  lesson: 03-modals/01-obligation
+  q: "Найди ошибку: *You needn't to worry.*"
+  a: "*You **needn't worry*** или *You **don't need to** worry*. После *needn't* — без *to*."
+- id: m03-have-to-question
+  lesson: 03-modals/01-obligation
+  q: "Переведи: «Тебе приходится работать по выходным?»"
+  a: "***Do** you **have to** work at weekends?* — *have to* требует *do* в вопросе."
+- id: m03-will-be-able
+  lesson: 03-modals/02-ability-permission
+  q: "Найди ошибку: *I will can help you tomorrow.*"
+  a: "*I **will be able to** help you tomorrow.* — два модальных подряд нельзя."
+- id: m03-could-managed
+  lesson: 03-modals/02-ability-permission
+  q: "«Мы смогли найти отель» (в трудной ситуации): *could* или *managed to*?"
+  a: "*We **managed to** / **were able to** find a hotel.* *could* — только общее умение в прошлом."
+- id: m03-couldnt-negative
+  lesson: 03-modals/02-ability-permission
+  q: "Можно ли сказать *I couldn't find my keys this morning* (разовая ситуация)?"
+  a: "Да. В **отрицании** *couldn't* подходит и для разового случая."
+- id: m03-could-i-answer
+  lesson: 03-modals/02-ability-permission
+  q: "Как ответить на *Could I borrow your pen?*"
+  a: "*Yes, you **can*** / *Of course.* Не ~~Yes, you could~~: *could* в вопросе — вежливость, а не прошлое."
+- id: m03-allowed-to
+  lesson: 03-modals/02-ability-permission
+  q: "Переведи: «В детстве мне не разрешали смотреть телевизор допоздна»."
+  a: "*As a child, I **wasn't allowed to** watch TV late.*"
+- id: m03-cant-be
+  lesson: 03-modals/03-deduction
+  q: "«Это не может быть Том — он в Испании»: *mustn't* или *can't*?"
+  a: "*That **can't** be Tom.* Уверенное «нет» — **can't**; *mustn't* — только запрет."
+- id: m03-must-have-done
+  lesson: 03-modals/03-deduction
+  q: "Переведи: «Должно быть, ночью шёл дождь»."
+  a: "*It **must have rained** last night.* — must + have + V3."
+- id: m03-might-be-ing
+  lesson: 03-modals/03-deduction
+  q: "«Не звони ей, она, может, спит»."
+  a: "*Don't call her — she **might be sleeping**.* Процесс сейчас → модальный + be + -ing."
+- id: m03-should-have
+  lesson: 03-modals/03-deduction
+  q: "«Зря я это сказал» и «надо было тебя послушать»."
+  a: "*I **shouldn't have said** that.* / *I **should have listened** to you.*"
+- id: m03-neednt-have
+  lesson: 03-modals/03-deduction
+  q: "В чём разница: *I needn't have cooked* / *I didn't need to cook*?"
+  a: "**needn't have cooked** — приготовил, но зря; **didn't need to cook** — не нужно было (и обычно не готовил)."
+- id: m03-could-have
+  lesson: 03-modals/03-deduction
+  q: "Переведи упрёк: «Мог бы и сказать!»"
+  a: "*You **could have told** me!*"
+- id: m03-must-have-went
+  lesson: 03-modals/03-deduction
+  q: "Найди ошибку: *He must have went home.*"
+  a: "*He must have **gone** home.* — после *have* третья форма."
+- id: m03-hindsight
+  lesson: 03-modals/04-reading
+  q: "Что значит *with hindsight*? Дополни: *With hindsight, I ___ (should / check) first.*"
+  a: "«Задним числом, оглядываясь назад». *With hindsight, I **should have checked** first.*"
+- id: m03-evidence
+  lesson: 03-modals/04-reading
+  q: "Найди ошибку: *There is an evidence that they survived.*"
+  a: "*There is **evidence** / **some evidence** that…* — *evidence* неисчисляемое."
+- id: m03-be-due-back
+  lesson: 03-modals/04-reading
+  q: "Переведи: «Они должны были вернуться в пятницу» (по плану)."
+  a: "*They **were due back** on Friday.*"
+- id: m03-essay-modals
+  lesson: 03-modals/05-writing
+  q: "Найди ошибку: *Schools should to ban phones.*"
+  a: "*Schools **should ban** phones.* — после модальных инфинитив без *to*."
+- id: m03-essay-structure
+  lesson: 03-modals/05-writing
+  q: "Из чего состоит эссе B2 First Part 1?"
+  a: "Вступление, два заданных пункта, свой третий пункт, заключение с мнением. 140–190 слов, без сокращений."
+- id: m03-supposed-to
+  lesson: 03-modals/01-obligation
+  q: "Переведи: «Ты должен был позвонить мне вчера!» (договорились, но не позвонил)."
+  a: "*You **were supposed to** call me yesterday!* — *was/were supposed to* = план, который не выполнили."
+- id: m03-might-have-to
+  lesson: 03-modals/01-obligation
+  q: "Найди ошибку: *We might must wait for an hour.*"
+  a: "*We **might have to** wait…* — после модального только *have to*."
+- id: m03-has-had-to
+  lesson: 03-modals/01-obligation
+  q: "Переведи: «Ей уже дважды пришлось отменить поездку»."
+  a: "*She**'s had to** cancel her trip twice.* — Present Perfect от *have to*."
+- id: m03-should-be-ing
+  lesson: 03-modals/01-obligation
+  q: "Переведи: «Мне сейчас полагалось бы работать, а не сидеть в телефоне»."
+  a: "*I **should be working**, not sitting on my phone.* — should + be + -ing."
+- id: m03-refuse-permission
+  lesson: 03-modals/02-ability-permission
+  q: "Как отказать на *Could we park here?*"
+  a: "*I'm afraid you **can't**.* Не ~~you couldn't~~: *could* в вопросе — только вежливость."
+- id: m03-may-i-allowed
+  lesson: 03-modals/02-ability-permission
+  q: "Разница: *May I take a photo?* / *Are we allowed to take photos?*"
+  a: "**May I…?** — прошу разрешения у собеседника; **Are we allowed to…?** — спрашиваю, какое правило."
+- id: m03-allowed-once
+  lesson: 03-modals/02-ability-permission
+  q: "«Вчера мне разрешили уйти пораньше»: *could* или *was allowed to*?"
+  a: "*I **was allowed to** leave early.* Разовое разрешение в прошлом — только *was allowed to*."
+- id: m03-mightnt-couldnt
+  lesson: 03-modals/03-deduction
+  q: "Разница: *I might not go* / *I couldn't go*?"
+  a: "**might not** — возможно, не пойду; **couldn't** — точно не смогу, это невозможно."
+- id: m03-could-have-danger
+  lesson: 03-modals/03-deduction
+  q: "Переведи: «Ты мог разбиться!» (но не разбился)."
+  a: "*You **could have been killed**!* — could have + V3: опасность была, но не случилась."
+- id: m03-might-not-have
+  lesson: 03-modals/03-deduction
+  q: "«Возможно, он не получил письмо» / «Он точно не получил письмо»."
+  a: "*He **might not have got** the letter.* / *He **can't / couldn't have got** the letter.*"
+- id: m03-would-you-mind
+  lesson: 03-modals/03a-requests-offers
+  q: "Найди ошибку: *Would you mind to wait a moment?* И как ответить «да, конечно»?"
+  a: "*Would you mind **waiting**?* Согласие: ***No, not at all*** — «не возражаю»."
+- id: m03-shall-i-we
+  lesson: 03-modals/03a-requests-offers
+  q: "Переведи: «Вызвать тебе такси?» и «Может, пойдём в кино?»"
+  a: "***Shall I** call you a taxi?* / ***Shall we** go to the cinema?* (или *Why don't we go…?*)"
+- id: m03-how-about-ing
+  lesson: 03-modals/03a-requests-offers
+  q: "Что после *How about*, *Let's* и *Why don't we*?"
+  a: "*How about **going***; *Let's **go***; *Why don't we **go***."
+- id: m03-would-do-you-like
+  lesson: 03-modals/03a-requests-offers
+  q: "Разница: *Would you like a tea?* / *Do you like tea?*"
+  a: "**Would you like** — предлагаю сейчас; **Do you like** — нравится ли вообще."
+- id: m03-wont-refusal
+  lesson: 03-modals/03a-requests-offers
+  q: "Переведи: «Машина утром никак не заводилась»."
+  a: "*The car **wouldn't** start this morning.* — *won't / wouldn't* = отказ, даже у предметов."
+- id: m03-pm-should-call
+  lesson: 03-modals/03b-past-modals
+  q: "Найди ошибку: *I should call you yesterday.*"
+  a: "*I **should have called** you yesterday.* — «надо было» о прошлом: should have + V3."
+- id: m03-pm-should-of
+  lesson: 03-modals/03b-past-modals
+  q: "Как правильно записать *should've*: *should of* или *should have*?"
+  a: "Только **should have** (*should've*). *should of* — ошибка на слух."
+- id: m03-pm-could-have-reproach
+  lesson: 03-modals/03b-past-modals
+  q: "Переведи с упрёком: «Мог бы и предупредить!»"
+  a: "*You **could have warned** me!* / *You **might have warned** me!*"
+- id: m03-pm-would-have-otherwise
+  lesson: 03-modals/03b-past-modals
+  q: "Переведи: «Спасибо, иначе я бы опоздал»."
+  a: "*Thanks — otherwise I **would have been** late.* — скрытое условие в прошлом → would have + V3."
+- id: m03-pm-needn-vs-didnt-need
+  lesson: 03-modals/03b-past-modals
+  q: "Кто взял зонт: *I needn't have taken an umbrella* / *I didn't need to take an umbrella*?"
+  a: "В первом — взял, но зря. Во втором — скорее не брал, нужды не было."
+- id: m03-pm-zrya-speshil
+  lesson: 03-modals/03b-past-modals
+  q: "Переведи: «Зря я так спешил — поезд опоздал»."
+  a: "*I **needn't have hurried** — the train was late.* (или *I shouldn't have hurried*)"
+- id: m03-pm-passive
+  lesson: 03-modals/03b-past-modals
+  q: "Переведи: «Об этом нас должны были предупредить заранее»."
+  a: "*We **should have been told** about it in advance.* — пассив: should have been + V3."
+- id: m03-pm-continuous
+  lesson: 03-modals/03b-past-modals
+  q: "Упрекни: «Тебе надо было слушать, а не сидеть в телефоне»."
+  a: "*You **should have been listening**, not sitting on your phone.* — процесс: should have been + -ing."
+- id: m03-pm-could-finish
+  lesson: 03-modals/03b-past-modals
+  q: "Разница: *I could swim at five* / *I could have finished it yesterday*?"
+  a: "**could** — общее умение в прошлом; **could have done** — мог бы, но не сделал."

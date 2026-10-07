@@ -1,0 +1,55 @@
+title: "Позиция прилагательных и the + adjective"
+type: choice
+intro: "Выбери вариант, который грамматически верен и звучит естественно."
+hints:
+  - "asleep, alive, afraid, alone, alike — только после глагола. main, only, elder — только перед существительным."
+  - "the rich, the homeless = группа людей, глагол во множественном числе, без -s."
+items:
+  - q: "The city should build more shelters for ___."
+    options: ["the homeless", "the homelesses", "homeless"]
+    answer: 0
+    explain: "Группа людей в целом → **the + прилагательное** без *-s*: *the homeless*. Без *the* не работает."
+  - q: "The elderly ___ more support during the winter months."
+    options: ["needs", "need", "is needing"]
+    answer: 1
+    explain: "*the elderly* = пожилые люди, это множественное число → **need**."
+  - q: "Did you hear about the ___ who found a job through a TikTok video?"
+    options: ["unemployed", "unemployed man", "unemployeds"]
+    answer: 1
+    explain: "Речь о **конкретном** человеке → нужно существительное: *the unemployed **man***. *the unemployed* — все безработные вообще."
+  - q: "Please be quiet — there's a ___ baby in the next room."
+    options: ["asleep", "sleeping", "slept"]
+    answer: 1
+    explain: "*asleep* стоит только после связки (*The baby is asleep*). Перед существительным — **sleeping**."
+  - q: "The ___ reason I'm calling is to ask about the invoice."
+    options: ["main", "mainly", "chiefly"]
+    answer: 0
+    explain: "Перед существительным — прилагательное **main**. *mainly, chiefly* — наречия («главным образом»)."
+  - q: "Our dog is terribly ___ of fireworks."
+    options: ["afraid", "frightening", "fear"]
+    answer: 0
+    explain: "*afraid of* — после связки (*is afraid*). *frightening* значило бы, что собака сама пугает."
+  - q: "My grandfather has lived ___ since my grandmother died."
+    options: ["alone", "lonely", "single"]
+    answer: 0
+    explain: "**alone** = один, без других людей. *lonely* — «одинокий» (чувство) и после *live* не ставится, а *single* — «холостой»."
+  - q: "This milk smells ___. Let's throw it away."
+    options: ["strange", "strangely", "stranger"]
+    answer: 0
+    explain: "*smell* здесь связка («пахнет как?») → прилагательное **strange**, а не наречие."
+  - q: "Anna and her mother look very ___."
+    options: ["alike", "like", "same"]
+    answer: 0
+    explain: "«Похожи друг на друга» → **look alike**. *like* требует дополнения (*look like her mother*), а *same* — с *the*."
+  - q: "My sister is two years ___ than me."
+    options: ["elder", "older", "eldest"]
+    answer: 1
+    explain: "*elder* ставится только перед существительным (*my elder sister*) и не употребляется с *than*. Сравнение → **older than**."
+  - q: "We've ordered a ___ for the dining room."
+    options: ["glass heavy table", "heavy glass table", "table heavy glass"]
+    answer: 1
+    explain: "Существительное-определение (*glass*) стоит вплотную к главному слову, прилагательные — перед ним: **heavy glass table**."
+  - q: "The charity raises money for ___ in the region."
+    options: ["the very poor", "the poors", "very poor"]
+    answer: 0
+    explain: "**the + (наречие) + прилагательное**: *the very poor*. Множественного *-s* у таких слов нет."

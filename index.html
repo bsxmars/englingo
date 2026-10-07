@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="ru" data-accent="aqua" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Englingo</title>
+<meta name="description" content="Английский от B1 до C1: грамматика, чтение, письмо, карточки.">
+<meta name="theme-color" content="#F4F6F8">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Englingo">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<script>
+  // Before the first paint: light unless the learner switched to dark.
+  (() => {
+    let saved = null;
+    try { saved = localStorage.getItem('englingo-theme'); } catch {}
+    document.documentElement.dataset.theme = saved === 'dark' ? 'dark' : 'light';
+  })();
+</script>
+</head>
+<body>
+<div id="app"></div>
+<script type="module" src="/src/main.ts"></script>
+</body>
+</html>

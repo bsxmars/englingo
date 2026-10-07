@@ -1,0 +1,58 @@
+title: "Трансформации: формальный стиль (C1 Advanced, Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "It is essential / vital / advisable that + сослагательное или should."
+  - "demand / suggest / insist that sb (should) do; insistence that / on."
+items:
+  - q: "Everyone must attend the safety briefing — this is essential."
+    key: "ESSENTIAL"
+    stem: "It ___ the safety briefing."
+    answers: ["is essential that everyone attend", "is essential that everyone should attend", "is essential that everyone attends", "is essential for everyone to attend", "is essential that everybody attend", "is essential that everybody should attend"]
+    explain: "*It is essential that* + сослагательное **attend** (или *should attend*); возможен и инфинитив *for everyone to attend*."
+  - q: "The board said that the director had to resign."
+    key: "DEMANDED"
+    stem: "The board ___ resign."
+    answers: ["demanded that the director", "demanded that the director should", "demanded the director"]
+    explain: "*demand that* + сослагательное: *demanded that the director **resign***."
+  - q: "'You should keep the receipt,' the shop assistant told me."
+    key: "SUGGESTED"
+    stem: "The shop assistant ___ the receipt."
+    answers: ["suggested that I keep", "suggested that I should keep", "suggested I keep", "suggested I should keep", "suggested keeping", "suggested that I kept"]
+    explain: "*suggest that I (should) keep* или *suggest keeping*."
+  - q: "The rules say that visitors must not feed the animals."
+    key: "RULE"
+    stem: "It is ___ feed the animals."
+    answers: ["a rule that visitors not", "a rule that visitors must not", "a rule that visitors should not", "a rule that visitors mustn't", "a rule that visitors shouldn't"]
+    explain: "Существительное *rule* + *that* + сослагательное с отрицанием: *visitors **not** feed*."
+  - q: "I'd advise you to read the contract carefully before you sign it."
+    key: "ADVISABLE"
+    stem: "It ___ the contract carefully before you sign it."
+    answers: ["is advisable to read", "is advisable that you read", "is advisable that you should read", "would be advisable to read", "is advisable for you to read"]
+    explain: "*It is advisable* + инфинитив или *that you (should) read*."
+  - q: "Nobody can explain how the manuscript ended up in a Lisbon bookshop."
+    key: "EXPLAIN"
+    stem: "How the manuscript ended up in a Lisbon bookshop ___ ."
+    answers: ["nobody can explain", "no one can explain", "nobody is able to explain", "no one is able to explain"]
+    explain: "wh-придаточное в начале (известная информация), затем подлежащее и сказуемое: *How the manuscript ended up… **nobody can explain***."
+  - q: "Prices fell sharply after the merger, which suggests that competition has weakened."
+    key: "FACT"
+    stem: "___ fell sharply after the merger suggests that competition has weakened."
+    answers: ["The fact that prices"]
+    explain: "*The fact that…* в начале подаёт информацию как факт, из которого делается вывод."
+  - q: "The government has insisted that all schools teach first aid, and this has been welcomed."
+    key: "INSISTENCE"
+    stem: "The government's ___ first aid has been welcomed."
+    answers: ["insistence that all schools teach", "insistence that all schools should teach", "insistence on all schools teaching"]
+    explain: "Существительное *insistence* сохраняет модель: *insistence that all schools **teach*** (сослагательное) или *on* + *-ing*."
+  - q: "In your position, I would complain to the manager."
+    key: "WERE"
+    stem: "___ you, I would complain to the manager."
+    answers: ["If I were", "Were I"]
+    explain: "Прошедшее сослагательное: **If I were you**; книжная инверсия — *Were I you*."
+  - q: "'Please don't share the data with anyone,' the professor asked us."
+    key: "REQUESTED"
+    stem: "The professor ___ shared with anyone."
+    answers: ["requested that the data not be", "requested that the data should not be", "requested that the data shouldn't be", "requested the data not be"]
+    explain: "*request that* + отрицательное пассивное сослагательное: *the data **not be** shared*."

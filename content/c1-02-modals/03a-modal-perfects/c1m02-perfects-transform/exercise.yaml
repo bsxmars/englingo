@@ -1,0 +1,64 @@
+title: "Перефразирование: modal perfects (C1 Advanced, Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "It was a mistake to… → shouldn't have; It wasn't necessary, but I did → needn't have."
+  - "I'm sure… didn't → can't have; Perhaps… → may / might have."
+  - "It's said that he… → is supposed to have / is said to have."
+items:
+  - q: "It was a mistake to sign the contract without reading it."
+    key: "SHOULD"
+    stem: "I ___ the contract without reading it."
+    answers: ["should not have signed", "should never have signed"]
+    explain: "«Это была ошибка» = **shouldn't have signed**: сожаление о сделанном."
+  - q: "I bought a new charger, but it turned out the old one was fine."
+    key: "NEEDN'T"
+    stem: "I ___ a new charger — the old one was fine."
+    answers: ["needn't have bought", "needn't have got", "needn't have purchased"]
+    explain: "Купил, а оказалось зря → **needn't have bought**. Ключ NEEDN'T почти всегда означает лишнее действие."
+  - q: "I'm sure Mark didn't see the email — he would have replied by now."
+    key: "CAN'T"
+    stem: "Mark ___ the email — he would have replied by now."
+    answers: ["can't have seen", "can't have read", "can't have received", "can't have got"]
+    explain: "Уверенное «нет» о прошлом → **can't have seen**."
+  - q: "Perhaps the package was delivered to the wrong address."
+    key: "MAY"
+    stem: "The package ___ to the wrong address."
+    answers: ["may have been delivered", "may have been sent", "may have gone"]
+    explain: "Предположение о прошлом + пассив → **may have been delivered**."
+  - q: "Why didn't you tell me you were coming? I'd have cooked something."
+    key: "MIGHT"
+    stem: "You ___ me you were coming — I'd have cooked something."
+    answers: ["might have told", "might have warned", "might have let"]
+    explain: "Упрёк «мог бы и сказать» → **might have told**."
+  - q: "The minister had planned to open the new bridge, but she fell ill."
+    key: "WAS"
+    stem: "The minister ___ the new bridge, but she fell ill."
+    answers: ["was to have opened", "was supposed to open", "was going to open", "was supposed to have opened", "was due to open"]
+    explain: "Формальное «план был, но сорвался» → **was to have opened**; нейтрально — *was supposed / going to open*."
+  - q: "People say that he made his fortune in the 1990s."
+    key: "SUPPOSED"
+    stem: "He ___ his fortune in the 1990s."
+    answers: ["is supposed to have made"]
+    explain: "Слух о прошлом → **is supposed to have made** (= *is said to have made*): перфектный инфинитив показывает, что действие раньше момента речи."
+  - q: "This was the best possible outcome for us."
+    key: "COULDN'T"
+    stem: "The outcome ___ better for us."
+    answers: ["couldn't have been"]
+    explain: "«Лучше некуда» → **couldn't have been better**."
+  - q: "It's a pity you didn't ask me first; I had a spare ticket."
+    key: "COULD"
+    stem: "You ___ first — I had a spare ticket."
+    answers: ["could have asked me", "could at least have asked me", "could have asked"]
+    explain: "Упущенная возможность с оттенком упрёка → **could have asked me** first."
+  - q: "It was wrong of them not to inform the staff earlier."
+    key: "BEEN"
+    stem: "The staff ___ earlier."
+    answers: ["should have been informed", "ought to have been informed", "should have been told", "ought to have been told"]
+    explain: "Упрёк в пассиве → **should have been informed**: *modal + have been + V3*."
+  - q: "I'm sure she was joking when she said she'd quit."
+    key: "MUST"
+    stem: "She ___ when she said she'd quit."
+    answers: ["must have been joking", "must have been kidding"]
+    explain: "Уверенный вывод о **процессе** в прошлом → **must have been joking**."

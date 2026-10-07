@@ -1,0 +1,64 @@
+title: "Перефразирование: complex modals, will и would (C1 Advanced, Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "Вывод о прошлом → modal + have + V3; о длительном процессе → modal + have been + V-ing."
+  - "Пассив после модального: modal + be / have been + V3."
+  - "Phrasal modal ставится туда, где модальный невозможен: will have to, having to, to be able to."
+items:
+  - q: "I'm sure she was working late last night — her light was on until 2 a.m."
+    key: "MUST"
+    stem: "She ___ late last night — her light was on until 2 a.m."
+    answers: ["must have been working", "must have worked", "must have stayed"]
+    explain: "Уверенный вывод о прошлом → **must have** + V3; если важен процесс — **must have been working**."
+  - q: "It's possible that the email was deleted by mistake."
+    key: "MIGHT"
+    stem: "The email ___ by mistake."
+    answers: ["might have been deleted", "might have been removed"]
+    explain: "Предположение о прошлом в пассиве: **might have been** + V3. Пропустить *been* нельзя — письмо само себя не удаляло."
+  - q: "I'm sure they have arrived at the hotel by now."
+    key: "WILL"
+    stem: "They ___ at the hotel by now."
+    answers: ["will have arrived", "will have got", "will have gotten", "will already have arrived", "will have already arrived"]
+    explain: "**will have** + V3 — уверенность о том, что уже случилось: «наверняка уже приехали»."
+  - q: "It will be necessary for us to cut the budget again."
+    key: "HAVE"
+    stem: "We ___ the budget again."
+    answers: ["will have to cut", "are going to have to cut", "will have to reduce", "are going to have to reduce"]
+    explain: "«Будущее must» — через phrasal modal: **will have to cut**. ~~will must~~ невозможно."
+  - q: "It makes me angry that I have to justify every expense to the board."
+    key: "HAVING"
+    stem: "I resent ___ every expense to the board."
+    answers: ["having to justify", "having to explain"]
+    explain: "После *resent* нужен герундий, а у *must* герундия нет → **having to justify**."
+  - q: "My plan was to phone you, but I forgot."
+    key: "GOING"
+    stem: "I ___ you, but I forgot."
+    answers: ["was going to phone", "was going to call", "was going to ring"]
+    explain: "Несостоявшийся план в прошлом → **was going to** + V. *would* здесь не подходит."
+  - q: "The lid refused to come off however hard I twisted it."
+    key: "WOULD"
+    stem: "The lid ___ however hard I twisted it."
+    answers: ["would not come off", "would not budge", "would not open"]
+    explain: "Отказ (в том числе у вещей) в прошлом → **wouldn't come off**: «никак не открывалась»."
+  - q: "Fortunately nobody was injured, although the risk was very real."
+    key: "COULD"
+    stem: "Somebody ___, but fortunately nobody was."
+    answers: ["could have been injured", "could have been hurt", "could easily have been injured", "could easily have been hurt"]
+    explain: "Нереализованная возможность в прошлом + пассив → **could have been injured**. Без *been* смысл ломается: «кто-то мог ранить»."
+  - q: "I would prefer you not to mention this to anyone."
+    key: "RATHER"
+    stem: "I ___ this to anyone."
+    answers: ["would rather you did not mention", "would rather you never mentioned"]
+    explain: "*would rather* + другой человек + **Past Simple**: *I'd rather you **didn't mention** this.* Инфинитив (~~rather you not mention~~) — американизм, в британском экзаменационном ключе не принят."
+  - q: "It annoys me that he keeps interrupting me in meetings."
+    key: "WISH"
+    stem: "I ___ interrupting me in meetings."
+    answers: ["wish he would stop", "wish he would not keep", "wish he would quit"]
+    explain: "Раздражение чужим поведением → **wish + would**: *I wish he **would stop** interrupting me.*"
+  - q: "I expect you have noticed that the figures have changed."
+    key: "WILL"
+    stem: "As you ___, the figures have changed."
+    answers: ["will have noticed", "will no doubt have noticed", "will doubtless have noticed", "will probably have noticed", "will already have noticed", "will have already noticed", "will have seen"]
+    explain: "Вежливая уверенность в деловом письме: **As you will have noticed** = «Как вы, конечно, заметили»."

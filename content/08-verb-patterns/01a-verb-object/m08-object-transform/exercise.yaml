@@ -1,0 +1,58 @@
+title: "Перефразирование (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "Why don't you…? → encourage / advise sb to do."
+  - "Не дать сделать → prevent sb from doing; отговорить → talk sb out of doing."
+items:
+  - q: "\"Why don't you apply for the scholarship?\" my teacher said to me."
+    key: "ENCOURAGED"
+    stem: "My teacher ___ for the scholarship."
+    answers: ["encouraged me to apply"]
+    explain: "Совет-поддержка → **encourage sb to do**: *encouraged me to apply*."
+  - q: "My friend convinced me not to sell my flat."
+    key: "OUT"
+    stem: "My friend ___ my flat."
+    answers: ["talked me out of selling"]
+    explain: "«Отговорил» → **talk sb out of doing**. Отрицание уже внутри *out of*."
+  - q: "Because of the strike, we couldn't get to work."
+    key: "PREVENTED"
+    stem: "The strike ___ to work."
+    answers: ["prevented us from getting", "prevented us getting"]
+    explain: "**prevent sb from doing**: *prevented us from getting*. В британском *from* иногда опускают."
+  - q: "Is it OK if I leave a bit early today?"
+    key: "MIND"
+    stem: "Do you ___ a bit early today?"
+    answers: ["mind me leaving", "mind my leaving", "mind if I leave"]
+    explain: "*mind* + объект + **-ing**: *mind me leaving*. Тоже верно: *mind if I leave*."
+  - q: "\"Don't click on that link,\" the IT team told us."
+    key: "AGAINST"
+    stem: "The IT team ___ on that link."
+    answers: ["warned us against clicking"]
+    explain: "Предостережение → **warn sb against doing**: *warned us against clicking*."
+  - q: "\"Please don't tell anyone,\" she said to me."
+    key: "ASKED"
+    stem: "She ___ anyone."
+    answers: ["asked me not to tell"]
+    explain: "Просьба с отрицанием → **ask sb not to do**: *not* перед *to*."
+  - q: "Thanks to the update, users can now work offline."
+    key: "ENABLES"
+    stem: "The update ___ offline."
+    answers: ["enables users to work"]
+    explain: "«Даёт возможность» → **enable sb to do**."
+  - q: "My boss expects that I will answer emails at weekends."
+    key: "ME"
+    stem: "My boss ___ emails at weekends."
+    answers: ["expects me to answer"]
+    explain: "*expect that I will* → **expect me to answer**: объект + *to* короче и естественнее."
+  - q: "In the end, I persuaded my brother to lend me his car."
+    key: "GOT"
+    stem: "In the end, I ___ me his car."
+    answers: ["got my brother to lend"]
+    explain: "«Добился, уговорил» → **get sb to do**: после *get* обязательно *to*."
+  - q: "They don't let customers bring their own food."
+    key: "ALLOWED"
+    stem: "Customers ___ their own food."
+    answers: ["are not allowed to bring", "aren't allowed to bring"]
+    explain: "*let* пассива не имеет → **are not allowed to bring**."

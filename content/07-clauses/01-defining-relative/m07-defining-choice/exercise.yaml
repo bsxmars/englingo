@@ -1,0 +1,47 @@
+title: "Опустить местоимение и предлог в конце"
+type: choice
+intro: "Выбери единственный правильный вариант. Обращай внимание, можно ли опустить местоимение и где стоит предлог."
+hints:
+  - "Если сразу после местоимения идёт новое подлежащее (I, we, she…), местоимение можно убрать."
+  - "where = in/at which. Если в придаточном нужен предлог, where с ним не сочетается."
+items:
+  - q: "The laptop ___ is already too slow for video editing."
+    options: ["I bought it last year", "I bought last year", "what I bought last year"]
+    answer: 1
+    explain: "Местоимение-объект можно опустить: *the laptop (that) I bought*. Добавлять *it* нельзя — объект уже есть; *what* не бывает после существительного."
+  - q: "The man ___ to me at the bus stop turned out to be my new boss."
+    options: ["spoke", "who spoke", "he spoke"]
+    answer: 1
+    explain: "Местоимение здесь — подлежащее (кто говорил?), поэтому опустить его нельзя: **who spoke**."
+  - q: "This is the town ___ ."
+    options: ["I grew up", "where I grew up in", "I grew up in"]
+    answer: 2
+    explain: "*grow up **in** a town* → либо *where I grew up*, либо *I grew up **in***. Предлог и *where* одновременно — дублирование."
+  - q: "We stayed in a hotel ___ my friend had recommended."
+    options: ["where", "which", "what"]
+    answer: 1
+    explain: "*recommend a hotel* — без предлога, отель здесь объект → **which** (или *that*, или ничего). *Where* возможно, только если в придаточном есть «в нём»."
+  - q: "She's the colleague ___ I share an office."
+    options: ["with whom", "with who", "whom"]
+    answer: 0
+    explain: "После предлога — только **whom** (формально). Разговорный вариант: *the colleague I share an office **with***."
+  - q: "The museum ___ on Saturday was surprisingly empty."
+    options: ["we visited", "where we visited", "we visited it"]
+    answer: 0
+    explain: "*visit a museum* — переходный глагол, поэтому не *where*. Местоимение-объект опущено: *the museum (that) we visited*."
+  - q: "I've lost the notebook ___ all my passwords."
+    options: ["that has", "has", "where has"]
+    answer: 0
+    explain: "Местоимение — подлежащее (*что содержит?*), опустить нельзя → **that has**."
+  - q: "Do you know the name of the actor ___ won the Oscar this year?"
+    options: ["who's", "whose", "who"]
+    answer: 2
+    explain: "Нужно подлежащее «который» → **who**. *who's* = *who is/has*, *whose* = «чей»."
+  - q: "Is this the song ___ ?"
+    options: ["you were talking about", "about you were talking", "you were talking about it"]
+    answer: 0
+    explain: "Разговорный порядок: предлог в конце, местоимение опущено → *the song you were talking **about***. *it* в конце — лишнее."
+  - q: "That's the woman ___ dog bit me last week."
+    options: ["who", "whose", "who's"]
+    answer: 1
+    explain: "«Чья собака» → **whose dog**."

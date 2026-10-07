@@ -1,0 +1,55 @@
+title: "Смысл меняется: выбери форму"
+type: choice
+intro: "Выбери вариант, который подходит по смыслу. Все три глагола из урока принимают и -ing, и to, но значат разное."
+hints:
+  - "-ing смотрит назад (уже было), to — вперёд (задача, цель)."
+  - "stop to = остановиться, чтобы; try -ing = попробовать как способ."
+items:
+  - q: "I clearly remember ___ the door, so the burglar must have come in through the window."
+    options: ["to lock", "locking", "lock"]
+    answer: 1
+    explain: "Помню, **как запер** (действие в прошлом) → **remember + -ing**."
+  - q: "Please remember ___ the lights when you leave."
+    options: ["to switch off", "switching off", "switch off"]
+    answer: 0
+    explain: "Задача на будущее → **remember to**: «не забудь выключить»."
+  - q: "We were exhausted, so we stopped ___ a coffee at a service station."
+    options: ["having", "have", "to have"]
+    answer: 2
+    explain: "Остановились, **чтобы** выпить кофе → **stop to**. *stopped having coffee* — «перестали пить кофе»."
+  - q: "He tried as hard as he could ___ his eyes open, but he fell asleep halfway through the film."
+    options: ["keeping", "to keep", "keep"]
+    answer: 1
+    explain: "Он **старался** (прилагал усилие, и это было трудно) → **try to**. *try -ing* — «попробовать способ»."
+  - q: "I regret ___ him my password. Now he reads all my messages."
+    options: ["giving", "to give", "give"]
+    answer: 0
+    explain: "Жалею о том, что **уже сделал** → **regret + -ing**."
+  - q: "We regret ___ you that the flight has been cancelled."
+    options: ["informing", "inform", "to inform"]
+    answer: 2
+    explain: "Официальная формула «с сожалением сообщаем» → **regret to inform**."
+  - q: "I meant ___ you yesterday, but I completely forgot."
+    options: ["to call", "calling", "call"]
+    answer: 0
+    explain: "**mean to** = «собирался, намеревался»."
+  - q: "Getting a dog means ___ up early every day, even at weekends."
+    options: ["to get", "get", "getting"]
+    answer: 2
+    explain: "**mean + -ing** = «означать, влечь за собой»."
+  - q: "After discussing the budget, the CEO went on ___ the new strategy."
+    options: ["presenting", "to present", "present"]
+    answer: 1
+    explain: "Перешла к **новому** действию → **go on to**. *went on presenting* — «продолжала то же самое»."
+  - q: "She ignored my question and went on ___ her emails."
+    options: ["checking", "to check", "check"]
+    answer: 0
+    explain: "Продолжила **то же самое** → **go on + -ing**."
+  - q: "I'll never forget ___ the Northern Lights for the first time."
+    options: ["to see", "seeing", "see"]
+    answer: 1
+    explain: "*never forget + -ing* — не забуду **пережитое**."
+  - q: "Sorry, I forgot ___ milk. Can you get some on your way home?"
+    options: ["buying", "buy", "to buy"]
+    answer: 2
+    explain: "Забыл **сделать** (и не сделал) → **forget to**."

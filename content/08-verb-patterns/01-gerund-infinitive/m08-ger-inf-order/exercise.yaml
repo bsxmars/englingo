@@ -1,0 +1,30 @@
+title: "Собери предложение"
+type: order
+intro: "Собери английское предложение из слов. Следи, где стоит объект и какая форма у второго глагола."
+hints:
+  - "want / expect / remind + КОГО + to + глагол."
+items:
+  - q: "«Я хочу, чтобы ты помог мне с этим»."
+    answers: ["I want you to help me with this."]
+    explain: "**want + объект + to**: *want you to help*."
+  - q: "«Они ожидают, что мы закончим к пятнице»."
+    answers: ["They expect us to finish by Friday."]
+    explain: "**expect + объект + to**: *expect us to finish*. Русское «что мы…» → *us to*."
+  - q: "«Она отказалась подписывать договор»."
+    answers: ["She refused to sign the contract."]
+    explain: "**refuse** + to."
+  - q: "«Я подумываю о том, чтобы выучить японский»."
+    answers: ["I'm thinking of learning Japanese."]
+    explain: "После предлога *of* — **-ing**: *thinking of learning*."
+  - q: "«Мы не можем позволить себе потерять этого клиента»."
+    answers: ["We can't afford to lose this client."]
+    explain: "**can't afford** + to."
+  - q: "«Он ушёл, не сказав ни слова»."
+    answers: ["He left without saying a word."]
+    explain: "**without** + -ing = русское деепричастие с «не»: «не сказав»."
+  - q: "«Напомни мне позвонить маме»."
+    answers: ["Remind me to call my mum."]
+    explain: "**remind + объект + to**: *remind me to call*."
+  - q: "«Я не против работать по выходным»."
+    answers: ["I don't mind working at weekends.", "At weekends I don't mind working."]
+    explain: "**don't mind** + -ing. *at weekends* — британский вариант (американский — *on weekends*)."

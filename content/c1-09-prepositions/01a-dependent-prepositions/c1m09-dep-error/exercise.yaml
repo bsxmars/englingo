@@ -1,0 +1,44 @@
+title: "Найди лишний, пропущенный или неверный предлог"
+type: error
+intro: "В каждом предложении **одна** ошибка, связанная с зависимым предлогом. Исправь её и отправь предложение целиком."
+hints:
+  - "accuse sb of, blame sb for / sth on, prevent sb from, provide sb with, congratulate sb on."
+  - "После предлога to (object to, committed to, with a view to) — -ing."
+  - "Составные предлоги не меняются: in accordance with, with regard to."
+items:
+  - q: "The minister emphasised on the need for further investment."
+    answers: ["The minister emphasised the need for further investment.", "The minister emphasized the need for further investment.", "The minister placed emphasis on the need for further investment.", "The minister put emphasis on the need for further investment."]
+    explain: "**emphasise** — без предлога. *on* нужен только существительному: *put emphasis on*."
+  - q: "She was accused for leaking confidential documents to the press."
+    answers: ["She was accused of leaking confidential documents to the press."]
+    explain: "**accuse sb of** sth. *for* — у *blame, criticise, punish*: *She was blamed for the leak.*"
+  - q: "The airline blamed the delays to the air traffic controllers' strike."
+    answers: ["The airline blamed the delays on the air traffic controllers' strike.", "The airline blamed the air traffic controllers' strike for the delays."]
+    explain: "**blame sth on** sb/sth или **blame sb/sth for** sth. Предлога *to* у *blame* нет."
+  - q: "Heavy snow prevented the rescue team to reach the village."
+    answers: ["Heavy snow prevented the rescue team from reaching the village.", "Heavy snow stopped the rescue team from reaching the village.", "Heavy snow prevented the rescue team reaching the village."]
+    explain: "**prevent sb from doing** — после предлога *from* герундий. В британском английском *from* иногда опускают, но инфинитив здесь невозможен."
+  - q: "We are fully committed to reduce our carbon emissions by 2030."
+    answers: ["We are fully committed to reducing our carbon emissions by 2030."]
+    explain: "В **committed to** *to* — предлог (можно сказать *committed to the plan*), поэтому дальше **-ing**."
+  - q: "The council bought the land with a view to build a new school."
+    answers: ["The council bought the land with a view to building a new school."]
+    explain: "**with a view to + -ing** — «с целью». *to* — предлог, инфинитив после него невозможен."
+  - q: "All staff are expected to act in accordance to the code of conduct."
+    answers: ["All staff are expected to act in accordance with the code of conduct.", "All staff are expected to act according to the code of conduct."]
+    explain: "Составной предлог неизменен: **in accordance with**. Путаница с *according to*, где как раз *to*."
+  - q: "Volunteers provided the refugees food, blankets and medical care."
+    answers: ["Volunteers provided the refugees with food, blankets and medical care.", "Volunteers provided food, blankets and medical care to the refugees.", "Volunteers provided food, blankets and medical care for the refugees."]
+    explain: "**provide sb with sth** или **provide sth to / for sb**. Модель с двумя дополнениями без предлога, как у *give*, для *provide* в британском английском — ошибка."
+  - q: "May I congratulate you for your appointment as head of department?"
+    answers: ["May I congratulate you on your appointment as head of department?"]
+    explain: "**congratulate sb on** sth. Русское «поздравить **с**» подталкивает к *with*, а *for* — от *thank sb for*."
+  - q: "The rise of unemployment has been sharpest in the north of the country."
+    answers: ["The rise in unemployment has been sharpest in the north of the country."]
+    explain: "Что выросло → **a rise in** unemployment. *a rise of* — на сколько: *a rise of 3%*."
+  - q: "The judge said that the new evidence had no bearing to the case."
+    answers: ["The judge said that the new evidence had no bearing on the case."]
+    explain: "**have a bearing on** — иметь отношение к. Существительные «влияния» — *effect, impact, influence, bearing* — берут **on**."
+  - q: "Older employees sometimes find it hard to adjust to work remotely."
+    answers: ["Older employees sometimes find it hard to adjust to working remotely."]
+    explain: "**adjust to** — *to* здесь предлог (*adjust to the climate*), значит дальше **-ing**: *adjust to working*."

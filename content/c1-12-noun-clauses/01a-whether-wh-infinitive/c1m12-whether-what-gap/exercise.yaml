@@ -1,0 +1,40 @@
+title: "Одно слово в пропуск"
+type: gap
+intro: "Впиши **одно** слово (как в C1 Advanced, Part 2): *whether, what, which, how, where, who, that, to, of*."
+hints:
+  - "Перед to-инфинитивом «ли» = whether."
+  - "what little / what few — «то немногое, что»."
+items:
+  - q: "The committee will meet on Friday to discuss ___ to postpone the launch."
+    answers: ["whether"]
+    explain: "«ли» перед to-инфинитивом → только **whether**."
+  - q: "I'm not sure ___ to put this, but the results are disappointing."
+    answers: ["how"]
+    explain: "**how to put this** — «как бы это сказать». wh-слово + инфинитив."
+  - q: "___ little evidence there is points in the opposite direction."
+    answers: ["What"]
+    explain: "**What little evidence** — «те немногие данные, что есть». Неисчисляемое *evidence* → глагол *points*."
+  - q: "The minister resigned the following day, ___ nobody had expected."
+    answers: ["which"]
+    explain: "Комментарий ко всему событию после запятой → **which**."
+  - q: "Everything ___ she touched seemed to turn to gold."
+    answers: ["that", "which"]
+    explain: "После *everything* нужно относительное **that** (реже *which*), не *what*. Можно и опустить, но пропуск требует слова."
+  - q: "There was some disagreement as ___ whether the vote was valid."
+    answers: ["to"]
+    explain: "**as to whether** — формальное «относительно того, … ли»."
+  - q: "New staff were given no instructions on ___ to do in an emergency."
+    answers: ["what"]
+    explain: "*instructions on* + **what to do**: после предлога wh-слово с инфинитивом."
+  - q: "___ or not the deal is signed this week, the factory will stay open."
+    answers: ["Whether"]
+    explain: "**Whether or not** — «независимо от того, … ли». С *if* так не говорят."
+  - q: "Excuse me, could you tell me ___ the nearest cashpoint is?"
+    answers: ["where"]
+    explain: "Косвенный вопрос о месте, порядок прямой: *where the nearest cashpoint is*."
+  - q: "It's hard to know ___ to trust when every source contradicts the others."
+    answers: ["who", "whom"]
+    explain: "*who(m) to trust* — о человеке; *whom* формальнее, *who* нейтрально."
+  - q: "The question ___ whether we can afford it has not even been raised."
+    answers: ["of"]
+    explain: "После *question, issue, matter* придаточное присоединяется через **of**: *the question of whether*. Формальный вариант *as to whether* занял бы два слова."

@@ -1,0 +1,44 @@
+title: "Найди и исправь ошибку: прилагательные"
+type: error
+intro: "В каждом предложении одна ошибка в прилагательном. Исправь предложение и впиши его целиком."
+hints:
+  - "asleep, alive, alone, afraid — только после глагола; перед существительным — sleeping, live, lonely, frightened."
+  - "the rich / the homeless — множественное число. Один человек — an unemployed person."
+  - "Чувство человека — -ed, свойство предмета — -ing."
+items:
+  - q: "We found an asleep cat in the garage."
+    answers: ["We found a sleeping cat in the garage."]
+    explain: "*asleep* стоит только после связки (*The cat is asleep*). Перед существительным — **sleeping**, и артикль меняется на *a*."
+  - q: "The homeless needs somewhere warm to stay in winter."
+    answers: ["The homeless need somewhere warm to stay in winter."]
+    explain: "*the homeless* = бездомные люди вообще, это множественное число → **need** без *-s*."
+  - q: "An unemployed came to the meeting to ask about training courses."
+    answers: ["An unemployed person came to the meeting to ask about training courses.", "An unemployed man came to the meeting to ask about training courses.", "An unemployed woman came to the meeting to ask about training courses."]
+    explain: "*the + прилагательное* — только группа в целом. Об одном человеке нужно существительное: **an unemployed person / man / woman**."
+  - q: "I was really boring in the second half of the match, so I left."
+    answers: ["I was really bored in the second half of the match, so I left."]
+    explain: "Мне было скучно — это **моё чувство** → *bored*. *I was boring* значило бы «я был занудой»."
+  - q: "My elder brother is three years elder than me."
+    answers: ["My elder brother is three years older than me."]
+    explain: "*elder* — только перед существительным (*my elder brother*). В сравнении с *than* — всегда **older**."
+  - q: "We stayed in a wooden lovely cottage by the lake."
+    answers: ["We stayed in a lovely wooden cottage by the lake."]
+    explain: "Порядок: **мнение → … → материал**. *lovely* (оценка) идёт раньше *wooden* (материал)."
+  - q: "Everyone was shocking when the company announced the job cuts."
+    answers: ["Everyone was shocked when the company announced the job cuts."]
+    explain: "Люди **почувствовали** шок → *shocked*. *shocking* — то, что шокирует: *The news was shocking*."
+  - q: "Since his wife died, he has been a very alone man."
+    answers: ["Since his wife died, he has been a very lonely man."]
+    explain: "*alone* не ставится перед существительным и не значит «грустно одинокий». Перед *man* — **lonely**."
+  - q: "The results of the survey were quite surprised."
+    answers: ["The results of the survey were quite surprising."]
+    explain: "Результаты **вызывают** удивление → *surprising*. *-ed* описывает чувство человека."
+  - q: "The rich is getting richer while wages stay the same."
+    answers: ["The rich are getting richer while wages stay the same."]
+    explain: "*the rich* — богатые люди, множественное число → **are**."
+  - q: "The museum has a kitchen huge window overlooking the river."
+    answers: ["The museum has a huge kitchen window overlooking the river."]
+    explain: "Существительное в роли прилагательного (*kitchen*) стоит **вплотную** к главному слову: *a huge kitchen window*."
+  - q: "Is the lobster still live? It's moving!"
+    answers: ["Is the lobster still alive? It's moving!"]
+    explain: "После связки *be* — **alive**. *live* (с долгим [aɪ]) ставится перед существительным: *a live lobster*."

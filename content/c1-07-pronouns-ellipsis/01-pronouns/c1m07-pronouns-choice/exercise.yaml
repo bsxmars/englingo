@@ -1,0 +1,56 @@
+title: "Какое местоимение уместно"
+type: choice
+intro: "Речь о современном английском (норма 2020-х). Все варианты — английские местоимения, но в контексте верен только **один**: по смыслу, по регистру или по правилу."
+hints:
+  - "Ссылка на мысль из прошлого предложения в письменном тексте — this; реакция на чужие слова — that."
+  - "Лицо неизвестного пола после someone / everyone / a student — they / their."
+  - "После предлогов места и take / bring with — обычное местоимение, не reflexive."
+items:
+  - q: "The survey found that a third of employees had never met their manager in person. ___ suggests that remote work has changed more than just where people sit."
+    options: ["It", "This", "That one"]
+    answer: 1
+    explain: "Отсылка к целому выводу из предыдущего предложения в связном тексте — **This**. *It* звучит неясно: к какому существительному оно относится?"
+  - q: "— I've decided to quit my job and sail around the world. — ___'s the craziest thing I've heard all year!"
+    options: ["This", "That", "It"]
+    answer: 1
+    explain: "Реакция на только что сказанное собеседником, с оттенком дистанции и оценки, — **That**."
+  - q: "Anyone who wishes to appeal against the decision should submit ___ request in writing."
+    options: ["his", "their", "one's"]
+    answer: 1
+    explain: "После *anyone* в современном английском — singular **their**. *his* для «любого человека» звучит устаревше, *one's* не согласуется с *anyone*."
+  - q: "If one is honest with ___, one has to admit that the plan was flawed from the start."
+    options: ["oneself", "yourself", "himself"]
+    answer: 0
+    explain: "Начав с *one*, сохраняй его до конца: *one… **oneself**… one*. Смешение *one* и *yourself* — стилистическая ошибка."
+  - q: "She glanced at the empty chair ___ and wondered whether he would come at all."
+    options: ["beside herself", "beside her", "beside of her"]
+    answer: 1
+    explain: "После предлогов места (*beside, near, behind*) — обычное местоимение: **beside her**. *beside herself* — идиома «вне себя» (*beside herself with rage*)."
+  - q: "The two companies had been competitors for decades, and they rarely missed a chance to criticise ___."
+    options: ["themselves", "each other", "them"]
+    answer: 1
+    explain: "Действие направлено от одной компании к другой — **each other**. *themselves* значило бы, что каждая критиковала саму себя."
+  - q: "I'd recommend Dr Patel — she's a former colleague ___."
+    options: ["of me", "of mine", "of my"]
+    answer: 1
+    explain: "Перед существительным уже есть *a*, поэтому принадлежность — через **of mine**: *a colleague of mine*."
+  - q: "In this paper, ___ argue that the reform failed for political rather than economic reasons."
+    options: ["you", "we", "they"]
+    answer: 1
+    explain: "Авторы научной статьи говорят о себе **we** (*we argue, as we have seen*). *you argue* приписывает тезис читателю, *they* — каким-то другим людям."
+  - q: "I'm afraid there's ___ we can do at this stage — it's in the hands of the lawyers now."
+    options: ["nothing else", "else nothing", "anything else"]
+    answer: 0
+    explain: "*else* стоит после неопределённого местоимения: **nothing else**. *anything* в утвердительном *there's* означало бы «что угодно» и смысла не даёт."
+  - q: "___ who registered before Friday will receive a discount on the conference fee."
+    options: ["Them", "Those", "These"]
+    answer: 1
+    explain: "«Те, кто» = **Those who**. *Them* не может быть подлежащим, а *these who* в английском не используется."
+  - q: "Since the divorce, she has preferred to travel ___ — no tours, no companions."
+    options: ["herself", "by herself", "on herself"]
+    answer: 1
+    explain: "«Одна, без компании» = **by herself**. Голое *herself* после *travel* не работает: это не дополнение, а *on herself* не существует."
+  - q: "— Who left the oven on? — ___, I'm afraid. Sorry!"
+    options: ["I", "Me", "Myself"]
+    answer: 1
+    explain: "В коротком ответе без глагола — объектная форма: **Me**. *I* возможно только с глаголом: *I did*."

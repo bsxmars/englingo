@@ -1,0 +1,41 @@
+title: "Объяснил, упомянул, я думал, что…"
+type: gap
+intro: "Впиши недостающие слова. В скобках — глагол в начальной форме. Где скобок нет, впиши одно-два слова по смыслу. Сокращения засчитываются."
+hints:
+  - "explain, mention, announce, complain — как say: человек только через to."
+  - "I thought / I didn't know / I realised + сдвиг времён, как после said."
+  - "Сдвигается только первое слово глагола: don't know → didn't know."
+items:
+  - q: "The engineer explained ___ us that the system needed a full restart."
+    answers: ["to"]
+    explain: "*explain* ведёт себя как *say*: человек — только через **to**. ~~explained us~~ — частая ошибка."
+  - q: "\"By the way, I'm changing jobs,\" Marta said casually. → Marta ___ (mention) that she was changing jobs."
+    answers: ["mentioned"]
+    explain: "Сказала между делом → **mentioned**. После *mention* сразу *that*, без человека или с *to sb*."
+  - q: "Oh, you're Lena's brother? Sorry, I didn't know you ___ (be) related."
+    answers: ["were", "are"]
+    explain: "Пересказ мысли после *didn't know* → обычно сдвиг: *are* → **were**. Факт верен и сейчас, поэтому *are* тоже допустимо, но *were* звучит естественнее."
+  - q: "You're eating a burger! I thought you said you ___ (not / eat) meat."
+    answers: ["didn't eat", "did not eat"]
+    explain: "Сказанное оказалось неправдой → сдвиг обязателен: *don't eat* → **didn't eat**. Меняется только первое слово (*don't → didn't*)."
+  - q: "\"I don't know the password,\" said Ivan. → Ivan said he ___ (not / know) the password."
+    answers: ["didn't know", "did not know", "doesn't know", "does not know"]
+    explain: "Сдвиг: *don't know* → **didn't know**. Если Иван и сейчас не знает пароль, можно оставить *doesn't know*."
+  - q: "When we got to the cinema, we realised the film ___ (already / start)."
+    answers: ["had already started"]
+    explain: "Мысль в прошлом (*realised*) о более раннем действии → Past Perfect: **had already started**."
+  - q: "\"We've been waiting for an hour,\" the passengers complained. → The passengers complained that they ___ (wait) for an hour."
+    answers: ["had been waiting"]
+    explain: "Present Perfect Continuous → Past Perfect Continuous: сдвигается первое слово, *have been* → **had been waiting**."
+  - q: "Yesterday Nick said, \"I'll call you tomorrow evening.\" Today you tell a friend: Nick said he'd call me ___ evening."
+    answers: ["this"]
+    explain: "Сказано вчера про завтра, а пересказываем сегодня → «завтрашний вечер» уже сегодняшний: **this evening**. Указатели меняются по ситуации, а не по таблице."
+  - q: "\"The meeting will be online,\" the HR manager ___ (announce) to all staff last week."
+    answers: ["announced"]
+    explain: "Официальное сообщение для всех → **announced**. Человек после *announce* — тоже через *to*: *announced to all staff*."
+  - q: "\"Sorry, I wasn't listening,\" said Pete. → Pete admitted he ___ (not / listen)."
+    answers: ["wasn't listening", "was not listening", "hadn't been listening", "had not been listening"]
+    explain: "Past Continuous после *said* можно оставить (**wasn't listening**) или сдвинуть в *hadn't been listening*."
+  - q: "\"I must leave by six,\" said Kate. → Kate said she ___ leave by six."
+    answers: ["had to", "must"]
+    explain: "*must* в пересказе меняется на **had to** или остаётся *must*. Оба варианта верны."

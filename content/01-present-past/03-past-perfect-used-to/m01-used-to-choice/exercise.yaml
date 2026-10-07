@@ -1,0 +1,47 @@
+title: "used to, would, be used to"
+type: choice
+intro: "Выбери правильный вариант. Помни: **would** — только для действий, **be / get used to** — «привык / привыкать» и требует **-ing**."
+hints:
+  - "Это состояние (be, have, like)? Тогда would не подходит."
+  - "Смысл «привык»? Тогда be used to + -ing."
+items:
+  - q: "I ___ glasses, but now I wear contact lenses."
+    options: ["used to wear", "would wear", "use to wear"]
+    answer: 0
+    explain: "Раньше было постоянно, теперь нет → **used to wear**. *use to* без *d* бывает только после *did / didn't*."
+  - q: "When we were kids, we ___ spend every summer at our grandparents' dacha."
+    options: ["would", "were used to", "use to"]
+    answer: 0
+    explain: "Повторяющееся действие в прошлом, воспоминание → **would spend**. *were used to* требовало бы *spending* и значило бы «привыкли»."
+  - q: "There ___ a cinema here, but it closed years ago."
+    options: ["would be", "used to be", "was used to be"]
+    answer: 1
+    explain: "*be* — состояние, **would** с ним нельзя → **used to be**."
+  - q: "I ___ working at night — I've done it for years."
+    options: ["used to", "am used to", "use to"]
+    answer: 1
+    explain: "«Я привык работать ночью» → **am used to + -ing**."
+  - q: "It took me months to ___ driving on the left."
+    options: ["get used to", "use to", "used to"]
+    answer: 0
+    explain: "Процесс привыкания → **get used to + -ing**."
+  - q: "My dad ___ a beard when he was young."
+    options: ["used to have", "would have", "was used to have"]
+    answer: 0
+    explain: "*have* = иметь — состояние, поэтому только **used to have**, не *would*."
+  - q: "She didn't ___ like coffee, but now she drinks three cups a day."
+    options: ["used to", "use to", "get used to"]
+    answer: 1
+    explain: "После **didn't** — **use to** без *d*: *didn't use to like*."
+  - q: "Living in a new country is hard at first, but you soon ___ it."
+    options: ["get used to", "used to", "are used"]
+    answer: 0
+    explain: "«Скоро привыкаешь» — процесс → **get used to** + существительное или местоимение."
+  - q: "In the 1990s, most people ___ mobile phones."
+    options: ["didn't use to have", "wouldn't have", "weren't used to have"]
+    answer: 0
+    explain: "*have* — состояние, *would* не подходит; отрицание used to → **didn't use to have**."
+  - q: "My grandmother ___ tell us stories every evening."
+    options: ["would", "was used to", "is used to"]
+    answer: 0
+    explain: "Регулярное действие в прошлом, воспоминание → **would tell** (или *used to tell*)."

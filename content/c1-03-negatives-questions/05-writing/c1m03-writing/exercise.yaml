@@ -1,0 +1,45 @@
+title: "Essay: teaching young people to think critically"
+type: writing
+intro: "Напиши эссе в формате C1 Advanced, Part 1. Обсуди **два** пункта из трёх, реши, какой эффективнее, и обоснуй. Используй хотя бы одну инверсию после отрицательного слова и один риторический вопрос."
+prompt: |
+  Your class has attended a panel discussion on how schools can encourage young people to **ask questions and think critically**. You have made the notes below.
+
+  **Ways schools could encourage critical thinking:**
+
+  - classroom debates
+  - independent research projects
+  - lessons on evaluating online sources
+
+  **Some opinions expressed in the discussion:**
+
+  - "Debates teach students to defend a position, not to question it."
+  - "Projects give students the freedom to follow their own questions."
+  - "Young people can't tell a reliable website from a fake one."
+
+  Write an **essay** discussing **two** of the ways in your notes. You should **explain which way would be more effective**, giving reasons in support of your answer.
+
+  You may, if you wish, make use of the opinions expressed in the discussion, but you should use your own words as far as possible.
+
+  Write your essay in **220–260** words.
+words: [220, 260]
+target_grammar:
+  - "Инверсия после отрицательных слов: Not only does…, Rarely do…, Only when… does…, At no point…"
+  - "Риторический вопрос во введении или в основной части: Is it really surprising that…?"
+  - "Negative words без двойного отрицания: hardly, seldom, few, none of"
+  - "Косвенные вопросы: students learn to ask whether a source is reliable"
+checklist:
+  - "Четыре абзаца: введение, два основных (по одному на выбранный пункт), заключение."
+  - "Обсуждены ровно два пункта из трёх; третий не упомянут или упомянут одной фразой."
+  - "В заключении ясно сказано, какой способ эффективнее, и почему."
+  - "Есть хотя бы одна правильная инверсия (вспомогательный глагол перед подлежащим)."
+  - "Есть риторический вопрос, и автор сразу на него отвечает."
+  - "Мнения из задания пересказаны своими словами, а не скопированы."
+  - "Формальный регистр, нет сокращений и разговорной лексики; объём 220–260 слов."
+model_answer: |
+  It is widely accepted that schools should produce young people who can think for themselves. Yet is it really surprising that so many students leave school better at memorising answers than at asking questions? Two approaches that might reverse this trend are independent research projects and lessons on evaluating online sources.
+
+  Research projects place the learner's own curiosity at the centre of the process. Rather than receiving a list of facts, students choose a question, decide how to investigate it and discover that the first answer they find is rarely the whole story. Not only does this build genuine critical habits, but it also gives students a sense of ownership that conventional lessons seldom provide. Admittedly, projects demand time and careful supervision, and weaker students may struggle without clear guidance.
+
+  Lessons on assessing online sources, by contrast, address a more immediate problem. Teenagers spend hours consuming information, yet few of them stop to ask who produced it, why, or whether it can be verified. Teaching them to check authorship, compare sources and recognise manipulative headlines equips them with skills they will use daily for the rest of their lives.
+
+  On balance, I would argue that evaluating online sources is the more effective of the two. Projects nurture curiosity, but only when young people can distinguish reliable information from misinformation does that curiosity lead anywhere useful. At no point in history has this skill mattered more, and schools can hardly afford to leave it to chance.

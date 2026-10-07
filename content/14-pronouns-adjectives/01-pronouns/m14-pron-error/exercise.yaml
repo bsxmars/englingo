@@ -1,0 +1,37 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении одна ошибка. Исправь предложение и впиши его целиком."
+hints:
+  - "Нет ли лишнего -self после meet, feel, relax?"
+  - "Не пропущено ли подлежащее there / it? Не стоит ли it там, где нужно one?"
+items:
+  - q: "Is a good restaurant near my office."
+    answers: ["There is a good restaurant near my office.", "There's a good restaurant near my office."]
+    explain: "«Есть хороший ресторан» → *There is*. Предложение без подлежащего в английском невозможно."
+  - q: "We met ourselves outside the cinema at seven."
+    answers: ["We met outside the cinema at seven."]
+    explain: "«Встретились» — просто **met**. Русское *-ся* не переводится через *-self*."
+  - q: "It was a great party and everyone enjoyed."
+    answers: ["It was a great party and everyone enjoyed themselves.", "It was a great party and everyone enjoyed it."]
+    explain: "*enjoy* требует дополнения: *enjoyed **themselves*** (хорошо провели время) или *enjoyed **it*** (вечеринку)."
+  - q: "I need a new phone because my old is broken."
+    answers: ["I need a new phone because my old one is broken.", "I need a new phone because my old phone is broken."]
+    explain: "После прилагательного существительное нельзя просто выбросить — нужно **one**: *my old **one***."
+  - q: "I feel myself much better today."
+    answers: ["I feel much better today."]
+    explain: "«Чувствую себя» — просто **feel** + прилагательное: *I feel better.* Без *myself*."
+  - q: "We always watch the same show. Let's watch a different something tonight."
+    answers: ["We always watch the same show. Let's watch something else tonight.", "We always watch the same show. Let's watch something different tonight."]
+    explain: "«Что-нибудь другое» — **something else** или *something different*: определение стоит **после** *something*."
+  - q: "Everybody were very friendly at the hotel."
+    answers: ["Everybody was very friendly at the hotel."]
+    explain: "*everybody, everyone, nobody* — грамматически единственное число: **was**, а не *were*."
+  - q: "I'd lend you an umbrella, but I don't have it."
+    answers: ["I'd lend you an umbrella, but I don't have one.", "I'd lend you an umbrella, but I haven't got one."]
+    explain: "Речь о любом зонте (*an umbrella*) → **one**. *it* значило бы конкретный, уже известный зонт."
+  - q: "There's a lovely park near us. There's very quiet in the mornings."
+    answers: ["There's a lovely park near us. It's very quiet in the mornings.", "There's a lovely park near us. It is very quiet in the mornings."]
+    explain: "Парк уже назван, дальше описываем его → **it**. Ещё и после *there's* нужно существительное, а не прилагательное."
+  - q: "Anna and Mark have been married for ten years and still love themselves."
+    answers: ["Anna and Mark have been married for ten years and still love each other.", "Anna and Mark have been married for ten years and still love one another."]
+    explain: "Любят **друг друга** → *each other* / *one another*. *themselves* — каждый любит сам себя."

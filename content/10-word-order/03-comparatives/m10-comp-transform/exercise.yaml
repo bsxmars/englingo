@@ -1,0 +1,53 @@
+title: "Перефразирование (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "taller than → not as tall as; better than → not as good as."
+  - "If you … more, you … more → The more…, the more…"
+items:
+  - q: "My brother is taller than me."
+    key: "AS"
+    stem: "I'm ___ my brother."
+    answers: ["not as tall as", "not so tall as"]
+    explain: "*taller than me* = *I'm **not as tall as** my brother*. Внутри *as … as* — исходная форма *tall*."
+  - q: "Living in London is much more expensive than living in Kazan."
+    key: "NEARLY"
+    stem: "Living in Kazan is ___ living in London."
+    answers: ["not nearly as expensive as", "not nearly so expensive as"]
+    explain: "**not nearly as … as** = «далеко не такой… как» — сильная разница."
+  - q: "I've never seen such a beautiful beach."
+    key: "MOST"
+    stem: "It's ___ I've ever seen."
+    answers: ["the most beautiful beach"]
+    explain: "*never … such* → **the most beautiful** … *I've ever seen*."
+  - q: "This year's rent is double last year's."
+    key: "TWICE"
+    stem: "This year's rent is ___ last year's."
+    answers: ["twice as high as", "twice as much as", "twice as expensive as"]
+    explain: "«Вдвое» → **twice as … as**. О цене и арендной плате говорят *high*, *much* или *expensive*."
+  - q: "If you work harder, you'll earn more."
+    key: "THE"
+    stem: "___ you work, the more you'll earn."
+    answers: ["The harder"]
+    explain: "«Чем…, тем…» → **The harder** you work, **the more** you'll earn."
+  - q: "Anna is a better cook than Max."
+    key: "WELL"
+    stem: "Max doesn't ___ Anna."
+    answers: ["cook as well as", "cook so well as"]
+    explain: "*a better cook* → о действии: *doesn't **cook as well as***. После глагола — наречие *well*, а не *good*."
+  - q: "The new version is a little faster than the old one."
+    key: "SLIGHTLY"
+    stem: "The new version is ___ the old one."
+    answers: ["slightly faster than"]
+    explain: "*a little faster* = **slightly faster** — небольшая разница."
+  - q: "Nobody in the team works as hard as Olga."
+    key: "HARDEST"
+    stem: "Olga works ___ the team."
+    answers: ["the hardest in", "hardest in", "the hardest of anyone in", "hardest of anyone in"]
+    explain: "«Никто не… так, как Ольга» → превосходная: *works **the hardest in** the team*."
+  - q: "The film wasn't as good as the book."
+    key: "THAN"
+    stem: "The book was ___ the film."
+    answers: ["better than", "much better than", "far better than", "a lot better than", "a bit better than", "slightly better than", "even better than"]
+    explain: "*not as good as* ↔ **better than**: книга лучше фильма."

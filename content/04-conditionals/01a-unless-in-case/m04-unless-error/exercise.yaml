@@ -1,0 +1,41 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: неверная форма глагола или неподходящий союз. Исправь её и отправь предложение целиком."
+hints:
+  - "После unless не ставят второе отрицание."
+  - "in case ≠ if: in case — заранее, if — когда это случится."
+  - "even if — неизвестно; even though — факт."
+items:
+  - q: "Unless you don't book in advance, you won't get a table."
+    answers: ["Unless you book in advance, you won't get a table.", "If you don't book in advance, you won't get a table."]
+    explain: "В **unless** отрицание уже есть: *Unless you book* = *If you don't book*. Двойное отрицание меняет смысл."
+  - q: "Take a jacket in case it will get cold tonight."
+    answers: ["Take a jacket in case it gets cold tonight."]
+    explain: "**in case** — союз условия: о будущем после него Present Simple (*gets*), а не *will*."
+  - q: "Even if he earns a fortune, he still drives a twenty-year-old car."
+    answers: ["Even though he earns a fortune, he still drives a twenty-year-old car."]
+    explain: "Он **точно** зарабатывает много (на это указывает *still*) → факт → **even though**."
+  - q: "I'll be very surprised unless she gets the promotion."
+    answers: ["I'll be very surprised if she doesn't get the promotion.", "I will be very surprised if she doesn't get the promotion."]
+    explain: "Удивление — реакция на то, что повышение **не** дадут → **if … doesn't**. *unless* для эмоций не подходит."
+  - q: "You can join the course as long as you will attend at least 80% of the classes."
+    answers: ["You can join the course as long as you attend at least 80% of the classes."]
+    explain: "После **as long as** о будущем — Present Simple: *as long as you attend*."
+  - q: "Take some cash in case of the card machine doesn't work."
+    answers: ["Take some cash in case the card machine doesn't work."]
+    explain: "**in case of** + существительное (*in case of fire*); перед придаточным с глаголом — просто **in case**."
+  - q: "Unless I had studied medicine, I would have become an architect."
+    answers: ["If I hadn't studied medicine, I would have become an architect.", "If I had not studied medicine, I would have become an architect."]
+    explain: "Нереальное прошлое (факт уже случился) → **if … hadn't**. *unless* в третьем типе не используют."
+  - q: "Supposing you would find a wallet in the street, what would you do?"
+    answers: ["Supposing you found a wallet in the street, what would you do?"]
+    explain: "**Supposing** работает как *if*: воображаемая ситуация → Past Simple *found*, *would* — только в результате."
+  - q: "Write the password down, otherwise you forget it."
+    answers: ["Write the password down, otherwise you'll forget it.", "Write the password down, otherwise you will forget it.", "Write the password down, otherwise you might forget it."]
+    explain: "После **otherwise** — результат условия о будущем: **you'll forget** (= *if you don't write it down, you'll forget*)."
+  - q: "But for the traffic jam we would have arrived on time if."
+    answers: ["But for the traffic jam we would have arrived on time."]
+    explain: "**But for** уже заменяет условие «если бы не», лишнее *if* в конце нужно убрать."
+  - q: "Only if you sign here we can process the refund."
+    answers: ["Only if you sign here can we process the refund.", "We can process the refund only if you sign here.", "We can only process the refund if you sign here."]
+    explain: "**Only if** в начале предложения требует инверсии в главной части: *can we process*. Или перенеси *only if* в середину."

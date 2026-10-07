@@ -1,0 +1,44 @@
+title: "Тонкие ошибки в артиклях"
+type: error
+intro: "В каждом предложении **одна** ошибка в артикле: лишний, пропущенный или не тот. Исправь её и отправь предложение целиком."
+hints:
+  - "Свойства вида (became extinct, was domesticated) не сочетаются с a/an."
+  - "Понятие вообще (life, nature, progress) — без артикля."
+  - "В рассказе «однажды» — one day, не a day."
+items:
+  - q: "A passenger pigeon became extinct in 1914, when the last bird died in a zoo."
+    answers: ["The passenger pigeon became extinct in 1914, when the last bird died in a zoo.", "Passenger pigeons became extinct in 1914, when the last bird died in a zoo."]
+    explain: "Вымирает вид, а не одна птица → generic **The passenger pigeon** или *Passenger pigeons*."
+  - q: "The life is too short to spend it arguing about money."
+    answers: ["Life is too short to spend it arguing about money.", "Life is too short to spend arguing about money."]
+    explain: "Жизнь вообще — абстрактное понятие без артикля: **Life is too short**. *the life* — только с уточнением: *the life of a sailor*."
+  - q: "The government has promised to create new opportunities for the unemployeds."
+    answers: ["The government has promised to create new opportunities for the unemployed.", "The government has promised to create new opportunities for unemployed people."]
+    explain: "*the* + прилагательное не берёт *-s*: **the unemployed**. Для подсчёта нужно существительное: *unemployed people*."
+  - q: "A day, without any warning, she packed her bags and left the country."
+    answers: ["One day, without any warning, she packed her bags and left the country."]
+    explain: "Неопределённый момент в рассказе — **One day**. ~~A day~~ в этом значении невозможно."
+  - q: "My sister plays cello in an amateur string quartet."
+    answers: ["My sister plays the cello in an amateur string quartet."]
+    explain: "В британском английском музыкальные инструменты после *play* — с *the*: **plays the cello**."
+  - q: "Historians still argue about who really invented a printing press."
+    answers: ["Historians still argue about who really invented the printing press."]
+    explain: "Изобретение как явление — generic *the*: **the printing press**. *a printing press* — один конкретный станок."
+  - q: "We're looking for someone with a deep knowledge of the region and an experience of managing teams."
+    answers: ["We're looking for someone with a deep knowledge of the region and experience of managing teams.", "We're looking for someone with a deep knowledge of the region and experience in managing teams."]
+    explain: "*experience* в значении «опыт работы» неисчисляемо: **experience of managing teams**. *an experience* — отдельное событие, переживание."
+  - q: "The nature has always been the main source of inspiration for her paintings."
+    answers: ["Nature has always been the main source of inspiration for her paintings."]
+    explain: "*nature* в значении «природа вообще» — без артикля: **Nature has always been**. Так же *society, science, history*."
+  - q: "He's a brilliant engineer, but the patience has never been one of his strengths."
+    answers: ["He's a brilliant engineer, but patience has never been one of his strengths."]
+    explain: "Качество вообще — абстрактное существительное без артикля: **patience has never been**."
+  - q: "The rich has always found ways to pay less tax than everyone else."
+    answers: ["The rich have always found ways to pay less tax than everyone else."]
+    explain: "*the rich* — группа людей, всегда множественное число: **The rich have**."
+  - q: "History of science shows that progress is rarely as linear as textbooks suggest."
+    answers: ["The history of science shows that progress is rarely as linear as textbooks suggest."]
+    explain: "*history* вообще — без артикля, но с уточнением *of* — конкретная история: **The history of science**. *progress* здесь — понятие вообще, без артикля."
+  - q: "We waited for an hour and the half before a doctor finally saw us."
+    answers: ["We waited for an hour and a half before a doctor finally saw us."]
+    explain: "В мерах и дробях — *a*: **an hour and a half**, *a day and a half*."

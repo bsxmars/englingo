@@ -1,0 +1,51 @@
+title: "Ask to, ask for, ask sb to"
+type: choice
+intro: "Выбери единственный верный вариант."
+hints:
+  - "ask sb to do — просим другого; ask to do — просим разрешения для себя; ask for — просим вещь."
+  - "Если вводный глагол в настоящем (wants to know, is wondering), сдвига времён нет."
+items:
+  - q: "\"Can I see your passport, please?\" → The officer asked ___ my passport."
+    options: ["to see", "me to see", "for seeing"]
+    answer: 0
+    explain: "Офицер просит, чтобы **ему** показали → **ask to see**. *asked me to see* значило бы, что смотреть должен я."
+  - q: "\"Could we have the menu, please?\" → We asked the waiter ___ the menu."
+    options: ["for", "to", "—"]
+    answer: 0
+    explain: "Попросить вещь → **ask sb for sth**. *asked the waiter the menu* — так нельзя."
+  - q: "\"Please call me back in an hour.\" → She asked ___ her back in an hour."
+    options: ["for me to call", "me to call", "to call"]
+    answer: 1
+    explain: "Просит **другого** сделать → **ask sb to do**: *asked me to call*. *asked to call* значило бы, что она сама хочет позвонить."
+  - q: "\"Would you mind closing the window?\" → The woman next to me asked if I ___ closing the window."
+    options: ["would mind", "minded to", "will mind"]
+    answer: 0
+    explain: "*would* не сдвигается: **asked if I would mind closing**. *will* в пересказе после *asked* стало бы *would*."
+  - q: "\"You have to show your ID.\" → The guard told us that we ___ our ID."
+    options: ["had to show", "have shown", "must to show"]
+    answer: 0
+    explain: "Приказ можно пересказать придаточным: *told us (that) we **had to show** our ID*. *must to* — ошибка в любом случае."
+  - q: "Our client wants to know when the new version ___ ready."
+    options: ["will be", "would be", "will it be"]
+    answer: 0
+    explain: "*wants to know* — в настоящем → сдвига нет: **will be**. Порядок прямой, поэтому не *will it be*."
+  - q: "I'm wondering ___ the last train has already left."
+    options: ["if", "that", "has"]
+    answer: 0
+    explain: "Вопрос «да/нет» в косвенной форме → **if** / *whether*. Глагол в настоящем → время не сдвигаем: *has already left*."
+  - q: "Have you any idea ___ ?"
+    options: ["how much a taxi to the airport would cost", "how much would a taxi to the airport cost", "how much costs a taxi to the airport"]
+    answer: 0
+    explain: "*Have you any idea…* — вежливое начало, дальше косвенный вопрос с прямым порядком: **how much a taxi to the airport would cost**."
+  - q: "\"Can I have a glass of water?\" → The patient asked ___ a glass of water."
+    options: ["for", "to", "me"]
+    answer: 0
+    explain: "Просит вещь → **asked for** a glass of water. Можно и *asked if he could have…*"
+  - q: "\"Would you like to join us for dinner on Friday?\" → They ___ me to join them for dinner on Friday."
+    options: ["invited", "suggested", "asked for"]
+    answer: 0
+    explain: "Приглашение → **invite sb to do**. *suggest sb to do* невозможно, *ask for* — для вещей."
+  - q: "\"Is there a pharmacy near here?\" → A tourist asked me ___ a pharmacy near there."
+    options: ["if there was", "if was there", "was there"]
+    answer: 0
+    explain: "*there is* тоже переходит в прямой порядок и сдвигается: **if there was**."

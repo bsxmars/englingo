@@ -1,0 +1,44 @@
+title: "Найди тонкую ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка в предлоге (лишний, пропущенный или неверный). Исправь её и отправь предложение целиком."
+hints:
+  - "Проверь, длится ли действие (until) или у него крайний срок (by)."
+  - "Зависимые предлоги: comment on, concentrate on, specialise in, constraints on."
+  - "Перед next / last / every предлога нет."
+items:
+  - q: "Please confirm your attendance until Friday."
+    answers: ["Please confirm your attendance by Friday.", "Please confirm your attendance before Friday.", "Please confirm your attendance no later than Friday."]
+    explain: "Подтверждение — разовое действие с крайним сроком → **by**. *until* — только для того, что длится."
+  - q: "The proposal was rejected because it would place severe constraints to the budget."
+    answers: ["The proposal was rejected because it would place severe constraints on the budget."]
+    explain: "**constraints on** — как *restrictions on, limits on*."
+  - q: "She specialises on contract law."
+    answers: ["She specialises in contract law.", "She specializes in contract law."]
+    explain: "**specialise in** — предлог *in*, как у *invest in, engage in*."
+  - q: "The board meeting has been moved on next Tuesday."
+    answers: ["The board meeting has been moved to next Tuesday."]
+    explain: "Перенос на дату — **move / postpone something to**. Перед *next* предлог *on* не ставится."
+  - q: "We're meeting on next Monday to discuss the budget."
+    answers: ["We're meeting next Monday to discuss the budget.", "We are meeting next Monday to discuss the budget."]
+    explain: "Перед *next, last, every, this* предлог времени не нужен: *next Monday*."
+  - q: "I'd like the head of department to comment the new design."
+    answers: ["I'd like the head of department to comment on the new design."]
+    explain: "**comment on** something. Без предлога — калька с «прокомментировать что-то»."
+  - q: "I can't concentrate to my work with all this noise."
+    answers: ["I can't concentrate on my work with all this noise."]
+    explain: "**concentrate on** — как *focus on*."
+  - q: "During three years, he never once took a holiday."
+    answers: ["For three years, he never once took a holiday.", "In three years, he never once took a holiday.", "Over three years, he never once took a holiday.", "For three years he never once took a holiday."]
+    explain: "Длительность → **for** three years. *during* отвечает на «когда?» и требует названия периода: *during the war*. *In three years* («за три года») тоже возможно."
+  - q: "Inflation is still over the target set by the central bank."
+    answers: ["Inflation is still above the target set by the central bank."]
+    explain: "Цель — уровень на **шкале** → **above**. *over* в значении «больше» — с числами и возрастом."
+  - q: "Between all the candidates, only two had relevant experience."
+    answers: ["Among all the candidates, only two had relevant experience.", "Of all the candidates, only two had relevant experience."]
+    explain: "Группа как целое, «из числа» → **among** или **of**. *between* — про связи между отдельными участниками."
+  - q: "With whom did you leave the keys with?"
+    answers: ["With whom did you leave the keys?", "Who did you leave the keys with?", "Whom did you leave the keys with?"]
+    explain: "Предлог ставится **один раз**: либо формально в начале (*With whom…?*), либо разговорно в конце (*Who… with?*)."
+  - q: "He was arrested at the night of 12 March."
+    answers: ["He was arrested on the night of 12 March."]
+    explain: "Конкретная дата, даже часть дня → **on**: *on the night of…, on the morning of…*"

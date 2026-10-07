@@ -1,0 +1,44 @@
+title: "Ошибки в 's, of, compound и связности"
+type: error
+intro: "В каждом предложении **одна** ошибка: неудачный possessive, неправильный compound или артикль, который ломает связь с предыдущим предложением. Исправь её и отправь всё целиком."
+hints:
+  - "Части неодушевлённых предметов — через of или compound, не через 's."
+  - "Первая часть compound стоит в единственном числе: a shoe shop, a two-week holiday."
+  - "Объект уже введён или естественно связан с предыдущим — нужен the."
+items:
+  - q: "The table's leg was broken, so we had to eat sitting on the floor."
+    answers: ["The leg of the table was broken, so we had to eat sitting on the floor.", "The table leg was broken, so we had to eat sitting on the floor."]
+    explain: "Часть неодушевлённого предмета — через *of* или compound: **the leg of the table / the table leg**. *the table's leg* звучит неуклюже."
+  - q: "She has worked in a shoes shop on the high street for years."
+    answers: ["She has worked in a shoe shop on the high street for years."]
+    explain: "Первая часть compound — в единственном числе: **a shoe shop**, как *a book shop, a toy shop*."
+  - q: "After the project we all need a two-weeks holiday somewhere hot."
+    answers: ["After the project we all need a two-week holiday somewhere hot.", "After the project we all need two weeks' holiday somewhere hot."]
+    explain: "Мера в compound — единственное число: **a two-week holiday**. Альтернатива — possessive без *a*: *two weeks' holiday*."
+  - q: "Constantly checking his phone during meals is a habit of him that drives me mad."
+    answers: ["Constantly checking his phone during meals is a habit of his that drives me mad."]
+    explain: "Double possessive требует притяжательной формы: **a habit of his**, как *a friend of mine*."
+  - q: "I read about the decision in yesterday newspaper."
+    answers: ["I read about the decision in yesterday's newspaper.", "I read about the decision in yesterday's paper."]
+    explain: "Время — через possessive: **yesterday's newspaper**, *last week's figures*."
+  - q: "Both of the brothers' mother-in-laws came to the wedding."
+    answers: ["Both of the brothers' mothers-in-law came to the wedding."]
+    explain: "Множественное число compound — на главном слове: **mothers-in-law**, *passers-by*."
+  - q: "Her latest children book has been translated into twenty languages."
+    answers: ["Her latest children's book has been translated into twenty languages."]
+    explain: "Classifying possessive «для кого» сохраняет 's: **children's book**, *a women's magazine*."
+  - q: "A man was arrested at Gatwick on Tuesday. A suspect was carrying three passports."
+    answers: ["A man was arrested at Gatwick on Tuesday. The suspect was carrying three passports.", "A man was arrested at Gatwick on Tuesday. The man was carrying three passports."]
+    explain: "Тот же человек, названный заново, — с *the*: **The suspect**. *A suspect* означало бы другого человека."
+  - q: "We stayed in a small hotel near the station, but a breakfast was disappointing."
+    answers: ["We stayed in a small hotel near the station, but the breakfast was disappointing."]
+    explain: "Ассоциативная связь: у отеля есть завтрак, читатель его «опознаёт» → **the breakfast**."
+  - q: "Inflation rose to 9% in May. An increase was far larger than economists had predicted."
+    answers: ["Inflation rose to 9% in May. The increase was far larger than economists had predicted.", "Inflation rose to 9% in May. This increase was far larger than economists had predicted."]
+    explain: "Существительное-ярлык суммирует предыдущее предложение и берёт *the* или *this*: **The increase**."
+  - q: "We're having dinner at the Tom's on Saturday — he's just moved into a new flat."
+    answers: ["We're having dinner at Tom's on Saturday — he's just moved into a new flat."]
+    explain: "Possessive без существительного («у Тома дома») не берёт артикль: **at Tom's**. 's уже определяет."
+  - q: "We sat at the room's back so that we could slip out early."
+    answers: ["We sat at the back of the room so that we could slip out early."]
+    explain: "Часть пространства — через *of*: **the back of the room**, *the top of the page, the middle of June*."

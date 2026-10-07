@@ -1,0 +1,96 @@
+title: "The forecaster's dilemma"
+type: reading
+intro: "Прочитай эссе и ответь на вопросы. Вопросы с вариантами — в стиле C1 Advanced Part 5; в остальных впиши слово или фразу из текста."
+hints:
+  - "Вопросы идут в порядке текста, обычно по одному на абзац."
+  - "Отличай мнение автора от мнений, которые он пересказывает."
+  - "Варианты с always / never часто слишком сильные."
+text: |
+  ## The forecaster's dilemma
+
+  Every January, newspapers fill their pages with predictions for the year ahead. Economists announce where interest rates will have got to by December, technology writers explain which gadgets are set to transform our lives, and political pundits tell us, with remarkable confidence, who is bound to win the next election. By the following January, most of these forecasts have quietly disappeared, and nobody seems particularly interested in checking how many of them came true.
+
+  Perhaps somebody should be. Consider the paperless office. In the 1970s, a number of respected commentators declared that the computer was about to make paper obsolete. The office of the future, they argued, would store everything electronically, and the filing cabinet was on the verge of extinction. What actually happened was very nearly the opposite: for decades, office paper consumption kept rising, because cheap printers made it easier than ever to put things on paper. The prediction was not foolish. It simply extrapolated one trend while ignoring another.
+
+  This, it turns out, is how most forecasts come to grief. The people who make them are rarely stupid; they are usually experts who know a great deal about one part of the world. The trouble is that the future is not shaped by one part of the world. It emerges from countless interactions, many of which nobody has thought to measure. An analyst who has spent thirty years studying oil markets can tell you exactly what the price of oil depends on. What she cannot tell you is whether a war, a pandemic or a breakthrough in battery technology is about to make her models irrelevant.
+
+  One well-known study, which followed hundreds of political and economic experts over almost two decades, produced a humbling result. When their predictions were finally scored, the average expert had performed only slightly better than chance, and in some areas worse than simple statistical rules. More revealing than the average, however, was the variation. Borrowing a metaphor from the philosopher Isaiah Berlin, the researcher divided his forecasters into 'hedgehogs', who know one big thing, and 'foxes', who know many small things. Hedgehogs, armed with a single grand theory, tended to make bold, memorable predictions — and to be wrong. Foxes, who drew on several perspectives, hedged their bets and revised their views as new evidence came in, did noticeably better.
+
+  The irony is that hedgehogs make far better television. A pundit who announces that the economy will collapse within eighteen months sounds authoritative; one who says that a downturn seems somewhat more likely than not, depending on several factors, sounds evasive. Audiences reward certainty, so the most confident voices are the ones that get invited back, regardless of their track record. Few viewers remember, a year later, what was predicted. Fewer still go back to check.
+
+  Hindsight makes matters worse. Once an event has happened, it tends to look inevitable. The financial crisis that almost nobody saw coming is, a decade later, routinely described as an accident that was waiting to happen. We rewrite the past so that it leads neatly to the present, and in doing so we persuade ourselves that the future must be just as legible. It is not. Had the people of 1900 been asked to describe the world of 1950, very few of them would have mentioned two world wars, antibiotics or the atomic bomb.
+
+  None of this means that forecasting is pointless. Weather forecasts, for example, have improved dramatically: a five-day forecast today is roughly as reliable as a one-day forecast was a few decades ago. What meteorologists have, and most pundits lack, is constant feedback. They make thousands of predictions, find out almost immediately whether they were right, and adjust their methods accordingly. Their confidence is earned rather than performed.
+
+  Perhaps the lesson, then, is not that we should stop thinking about the future, but that we should think about it differently. Instead of asking what will happen, we might ask what could happen, how likely each possibility is, and what evidence would make us change our minds. That sounds far less exciting than a bold headline. But by the time next January comes round, it will have proved considerably more useful.
+items:
+  - q: "What point does the writer make in the first paragraph?"
+    options:
+      - "Annual predictions have become less ambitious than they used to be."
+      - "Forecasts are published with great confidence but rarely evaluated afterwards."
+      - "Economists tend to be more cautious than political commentators."
+      - "Readers have lost interest in predictions about the year ahead."
+    answer: 1
+    explain: "Ключ — конец абзаца: прогнозы *quietly disappeared, and nobody seems particularly interested in checking*. Уверенность (*remarkable confidence*) есть, проверки нет. Остальные варианты в тексте не утверждаются."
+  - q: "The writer mentions the paperless office in order to"
+    options:
+      - "show that experts in the 1970s misunderstood how computers worked."
+      - "argue that new technology usually increases consumption."
+      - "illustrate how a reasonable forecast can fail by focusing on a single trend."
+      - "suggest that the prediction may still come true in the future."
+    answer: 2
+    explain: "*The prediction was not foolish. It simply extrapolated one trend while ignoring another.* Автор подчёркивает, что прогноз был разумным, — это исключает A; B — слишком широкое обобщение."
+  - q: "According to the third paragraph, why do expert forecasts often fail?"
+    options:
+      - "Experts are often unwilling to admit what they do not know."
+      - "Experts lack detailed knowledge of their own field."
+      - "Events outside an expert's area can overturn their predictions."
+      - "Experts rely too heavily on measurements that are inaccurate."
+    answer: 2
+    explain: "Пример с аналитиком нефтяного рынка: она знает свою область, но не может предсказать войну, пандемию или прорыв в батареях. B прямо противоречит тексту (*know a great deal*)."
+  - q: "What did the writer find most significant about the study's findings?"
+    options:
+      - "That experts performed only slightly better than chance."
+      - "That some types of forecaster were clearly more accurate than others."
+      - "That statistical rules were always superior to human judgement."
+      - "That bold predictions were easier for researchers to score."
+    answer: 1
+    explain: "*More revealing than the average, however, was the variation* — то есть важнее разница между «ежами» и «лисами». C — слишком сильный вариант: в тексте *in some areas*, а не *always*."
+  - q: "In the fifth paragraph, the writer suggests that confident pundits continue to be popular because"
+    options:
+      - "their predictions are usually more accurate than cautious ones."
+      - "viewers value an assured tone and seldom check past predictions."
+      - "television producers deliberately avoid inviting experts."
+      - "they are more willing than others to change their views."
+    answer: 1
+    explain: "*Audiences reward certainty… regardless of their track record. Few viewers remember… Fewer still go back to check.* A противоречит тексту: уверенные «ежи» как раз чаще ошибаются."
+  - q: "Why does the writer refer to the people of 1900?"
+    options:
+      - "To emphasise how unpredictable major developments actually are."
+      - "To show that people in the past were less imaginative than we are."
+      - "To argue that the twentieth century was unusually turbulent."
+      - "To explain why the financial crisis was inevitable."
+    answer: 0
+    explain: "Абзац о том, что задним числом всё кажется предсказуемым, но *It is not*. Пример с 1900 годом показывает: главные события полувека никто бы не назвал. Слово *inevitable* в варианте D — ловушка: автор как раз критикует такой взгляд."
+  - q: "What, according to the writer, gives weather forecasters an advantage over pundits?"
+    options:
+      - "They make fewer predictions and therefore make fewer mistakes."
+      - "Their subject is far less complex than economics or politics."
+      - "They are regularly able to compare their predictions with outcomes."
+      - "They are less concerned about appearing confident."
+    answer: 2
+    explain: "*What meteorologists have, and most pundits lack, is constant feedback.* Они быстро узнают, правы ли, и корректируют методы. A противоречит тексту (*thousands of predictions*)."
+  - q: "'Their confidence is earned rather than performed' (paragraph 7) means that their confidence"
+    options:
+      - "is based on proven results rather than put on for an audience."
+      - "has been rewarded financially rather than publicly."
+      - "is greater than that of most television experts."
+      - "comes from experience rather than formal training."
+    answer: 0
+    explain: "*earned* — заслужена результатами; *performed* — сыграна, изображена на публику, как у телеэкспертов из абзаца 5."
+  - q: "Find a phrase in paragraph 3 that means 'end in failure'."
+    answers: ["come to grief"]
+    explain: "*This… is how most forecasts **come to grief*** — «терпят крах, плохо заканчиваются». Идиома нейтрально-книжная, хороша для эссе."
+  - q: "Find an adjective in paragraph 4 that describes something which makes people realise they are less impressive than they thought."
+    answers: ["humbling"]
+    explain: "*a **humbling** result* — отрезвляющий результат, сбивающий самоуверенность. От глагола *humble* — «смирять»."

@@ -1,0 +1,55 @@
+title: "Слова-близнецы"
+type: choice
+intro: "Выбери слово, которое подходит по смыслу. Все варианты существуют, но значат разное."
+hints:
+  - "helpful — готовый помочь, helpless — беспомощный; sensible — разумный, sensitive — чувствительный."
+  - "economic — относящийся к экономике, economical — экономный."
+items:
+  - q: "Thanks for the advice — it was really ___."
+    options: ["helpful", "helpless", "helping"]
+    answer: 0
+    explain: "**helpful** — полезный, помогающий. *helpless* — беспомощный."
+  - q: "Without my phone or my wallet, I felt completely ___."
+    options: ["helpful", "helpless", "unhelpful"]
+    answer: 1
+    explain: "**helpless** — беспомощный. *unhelpful* — «не желающий помогать», о других людях."
+  - q: "My son is very ___ — he cries at every sad film."
+    options: ["sensible", "sensitive", "sensational"]
+    answer: 1
+    explain: "**sensitive** — чувствительный. *sensible* — разумный, здравомыслящий."
+  - q: "It would be ___ to take an umbrella — it looks like rain."
+    options: ["sensible", "sensitive", "sensory"]
+    answer: 0
+    explain: "**sensible** — разумный: *It would be sensible to…*"
+  - q: "The country's ___ situation is getting worse every month."
+    options: ["economic", "economical", "economist"]
+    answer: 0
+    explain: "Относящийся к экономике → **economic** (*economic situation, economic growth*)."
+  - q: "Our new boiler is much more ___ — the bills have halved."
+    options: ["economic", "economical", "economics"]
+    answer: 1
+    explain: "Экономный, расходует меньше → **economical**."
+  - q: "The painting is ___ — no museum in the world could afford it."
+    options: ["worthless", "priceless", "valueless"]
+    answer: 1
+    explain: "**priceless** = бесценный, настолько дорогой, что цену не назначить. *worthless* и *valueless* — ничего не стоящий."
+  - q: "Some cleaning products are ___ to pets, so keep them locked away."
+    options: ["harmful", "harmless", "harming"]
+    answer: 0
+    explain: "Опасны для животных → **harmful** (to). *harmless* — безвредный."
+  - q: "The day the peace agreement was signed was a ___ moment for the country."
+    options: ["historic", "historical", "history"]
+    answer: 0
+    explain: "Исторически важный → **historic**. *historical* — относящийся к истории (*historical documents, a historical novel*)."
+  - q: "Stop being so ___ — you're thirty, not five!"
+    options: ["childish", "childlike", "childhood"]
+    answer: 0
+    explain: "**childish** — ребяческий, с неодобрением. *childlike* — по-детски наивный, это похвала."
+  - q: "The film was really ___ — I laughed all the way through."
+    options: ["humour", "humorous", "humourless"]
+    answer: 1
+    explain: "Прилагательное «смешной, юмористический» → **humorous** (*-ous*; британское *humour* при этом теряет *u*: *humorous*)."
+  - q: "He works in a large ___ area on the edge of the city."
+    options: ["industrious", "industrial", "industry"]
+    answer: 1
+    explain: "Промышленный → **industrial**. *industrious* — трудолюбивый (о человеке)."

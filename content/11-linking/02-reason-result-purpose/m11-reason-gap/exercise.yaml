@@ -1,0 +1,44 @@
+title: "Впиши связку"
+type: gap
+intro: "Впиши связку причины, следствия или цели. Подсказка в скобках говорит, сколько слов нужно, если вариантов много. Если подходит несколько связок — засчитывается любая верная."
+hints:
+  - "because / as / since + предложение; because of / due to / owing to + существительное."
+  - "so + прилагательное; such (a) + существительное."
+  - "Цель: to / in order to + глагол; so that + подлежащее + can / could / would."
+items:
+  - q: "The flight was cancelled ___ the storm."
+    answers: ["because of", "due to", "owing to", "as a result of", "on account of"]
+    explain: "После пропуска — существительное (*the storm*) → предлог: **because of / due to / owing to**. Просто *because* здесь невозможно."
+  - q: "I'm saving money ___ I can buy a flat next year."
+    answers: ["so that", "so", "in order that"]
+    explain: "Цель + подлежащее и *can* → **so that** (в разговоре просто *so*). *To* здесь не подойдёт: после него нет подлежащего."
+  - q: "She went to the bank ___ get some cash."
+    answers: ["to", "in order to", "so as to"]
+    explain: "Цель действия человека → инфинитив: **to** / *in order to* / *so as to* get. Не ~~for get~~."
+  - q: "It was ___ a boring film that I fell asleep halfway through."
+    answers: ["such"]
+    explain: "Перед *a* + прилагательное + существительное → **such**: *such a boring film*."
+  - q: "The coffee was ___ hot that I couldn't drink it."
+    answers: ["so"]
+    explain: "Перед прилагательным без существительного → **so**: *so hot that…*"
+  - q: "He spoke quietly so as ___ to wake the baby."
+    answers: ["not"]
+    explain: "Отрицательная цель: **so as not to** + глагол. *not* стоит перед *to*."
+  - q: "___ it was a public holiday, all the shops were closed."
+    answers: ["As", "Since", "Because"]
+    explain: "Причина + целое предложение в начале → **As / Since** (или *Because*). Не *Because of*: после него нужно существительное."
+  - q: "We had ___ much fun that we didn't want to leave."
+    answers: ["so"]
+    explain: "**so much / so many** + существительное + *that*. *fun* неисчисляемое → *so much fun*."
+  - q: "The company lost its biggest client. ___, it had to cut jobs. (одно слово, формально)"
+    answers: ["Therefore", "Consequently", "Thus", "Hence", "So"]
+    explain: "Следствие в начале нового предложения → **Therefore / Consequently** (формальные наречия, после них запятая). Можно и *As a result*, но это три слова."
+  - q: "I wrote the address down ___ I wouldn't forget it."
+    answers: ["so that", "so", "in order that"]
+    explain: "Цель с подлежащим и *wouldn't* → **so that**: *so that I wouldn't forget*."
+  - q: "The match was postponed ___ to the bad weather. (одно слово)"
+    answers: ["due", "owing"]
+    explain: "**due to / owing to** + существительное — формальное «из-за», типичное для объявлений."
+  - q: "There were ___ few tickets left that we decided not to go."
+    answers: ["so"]
+    explain: "**so few / so little / so many / so much** + существительное. *such few* не говорят."

@@ -1,0 +1,44 @@
+title: "Время и залог: найди ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка в форме инфинитива или герундия: не то время (простая / перфектная / длительная форма) или не тот залог. Исправь и отправь предложение целиком."
+hints:
+  - "Действие раньше главного глагола → to have done / having done."
+  - "Действие идёт в момент речи → to be doing; шло до него → to have been doing."
+  - "С подлежащим что-то делают → to be done / being done."
+items:
+  - q: "The ancient manuscript is believed to destroy in a fire in the 17th century."
+    answers: ["The ancient manuscript is believed to have been destroyed in a fire in the 17th century."]
+    explain: "Рукопись не уничтожала сама, и событие было в прошлом → перфектный пассив: **to have been destroyed**."
+  - q: "She seems to have known the answer, but she's keeping it to herself."
+    answers: ["She seems to know the answer, but she's keeping it to herself.", "She seems to know the answer, but she is keeping it to herself."]
+    explain: "Она знает ответ **сейчас** (*is keeping it to herself*) → простой инфинитив **to know**. Перфектный означал бы знание в прошлом."
+  - q: "The suspect is thought to hide in the mountains at the moment."
+    answers: ["The suspect is thought to be hiding in the mountains at the moment."]
+    explain: "Процесс в момент речи (*at the moment*) → длительный инфинитив **to be hiding**."
+  - q: "By the look of him, he appears to be running — he's completely out of breath."
+    answers: ["By the look of him, he appears to have been running — he's completely out of breath.", "By the look of him, he appears to have been running — he is completely out of breath."]
+    explain: "Бег закончился, остался результат (одышка) → **to have been running**: процесс шёл до момента речи."
+  - q: "Nobody likes being kept waiting, and nobody likes to ignore either."
+    answers: ["Nobody likes being kept waiting, and nobody likes to be ignored either.", "Nobody likes being kept waiting, and nobody likes being ignored either."]
+    explain: "Игнорируют подлежащее, а не оно игнорирует → пассив: **to be ignored / being ignored**."
+  - q: "Having been finished the report, she sent it straight to the board."
+    answers: ["Having finished the report, she sent it straight to the board."]
+    explain: "Она сама закончила отчёт → активный перфектный герундий / причастие **Having finished**. *Having been finished* — пассив, и тогда у него не может быть дополнения *the report*."
+  - q: "He still bitterly resents to have been overlooked for the promotion."
+    answers: ["He still bitterly resents having been overlooked for the promotion.", "He still bitterly resents being overlooked for the promotion."]
+    explain: "*resent* требует герундия: **resents having been overlooked**. Форма и залог сохранены, меняется только инфинитив на герундий."
+  - q: "The new bridge is due to complete next spring."
+    answers: ["The new bridge is due to be completed next spring."]
+    explain: "Мост не завершает сам себя → пассивный инфинитив **to be completed**."
+  - q: "I'd like to see the final yesterday, but I had to work late."
+    answers: ["I'd like to have seen the final yesterday, but I had to work late.", "I'd have liked to see the final yesterday, but I had to work late.", "I would have liked to see the final yesterday, but I had to work late.", "I'd have liked to have seen the final yesterday, but I had to work late."]
+    explain: "Несбывшееся желание в прошлом: **would like to have seen** или **would have liked to see**. Простое *would like to see* — о будущем."
+  - q: "She denied to have leaked the documents to the press."
+    answers: ["She denied having leaked the documents to the press.", "She denied leaking the documents to the press."]
+    explain: "*deny* берёт только герундий: **denied having leaked** или просто *denied leaking* — простой герундий тоже относится к прошлому."
+  - q: "The children pretended to sleep when their mother came in, but they were whispering."
+    answers: ["The children pretended to be sleeping when their mother came in, but they were whispering.", "The children pretended to be asleep when their mother came in, but they were whispering."]
+    explain: "Притворялись, что спят **в тот момент** → длительный инфинитив **to be sleeping** (или *to be asleep*)."
+  - q: "The minister is reported to resign last night after a heated cabinet meeting."
+    answers: ["The minister is reported to have resigned last night after a heated cabinet meeting."]
+    explain: "Отставка — событие в прошлом (*last night*), а сообщают сейчас → **to have resigned**."

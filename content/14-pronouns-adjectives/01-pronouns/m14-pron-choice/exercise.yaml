@@ -1,0 +1,55 @@
+title: "Выбери местоимение"
+type: choice
+intro: "Выбери вариант, который грамматически верен и звучит естественно."
+hints:
+  - "Глаголы на -ся (meet, relax, hurry, feel) в английском обычно без -self."
+  - "Притяжательная форма от each other — each other's."
+items:
+  - q: "___ a lot of traffic on the way here, so I'm late."
+    options: ["There was", "It was", "Was"]
+    answer: 0
+    explain: "Сообщаем, что пробки **были** → *there was*. Без *there* у предложения нет подлежащего."
+  - q: "— Who was at the door? — ___ the neighbour from upstairs."
+    options: ["There was", "It was", "She was"]
+    answer: 1
+    explain: "«Кто это был?» — отвечаем через **it**: *It was the neighbour.* *it* здесь значит «тот, кто звонил»."
+  - q: "The kids are old enough to look after ___ now."
+    options: ["them", "themselves", "theirselves"]
+    answer: 1
+    explain: "Дети заботятся сами о себе → **themselves**. *them* означало бы других людей, а ~~theirselves~~ не существует."
+  - q: "I don't have any cash on ___. Can I pay by card?"
+    options: ["me", "myself", "mine"]
+    answer: 0
+    explain: "После предлога места (*on, with, next to, behind*) обычно простое местоимение: **on me**, *next to her*."
+  - q: "We were late for the train, so we had to ___."
+    options: ["hurry", "hurry ourselves", "hurry us"]
+    answer: 0
+    explain: "«Поторопиться» — просто **hurry**. Как и *meet, relax, concentrate*, этот глагол не берёт *-self*."
+  - q: "My parents still send ___ postcards when one of them travels."
+    options: ["themselves", "each other", "each other's"]
+    answer: 1
+    explain: "Они шлют открытки **друг другу** → *each other*. *themselves* — каждый сам себе."
+  - q: "In class we read ___ essays and gave feedback."
+    options: ["each other", "each other's", "ourselves"]
+    answer: 1
+    explain: "Читали эссе друг друга → притяжательная форма **each other's** essays."
+  - q: "Is there anything ___ I can get you?"
+    options: ["else", "other", "another"]
+    answer: 0
+    explain: "После *anything, something, someone* «ещё / другое» — **else**: *anything else*."
+  - q: "I'm looking for a flat. Ideally I'd like ___ near the river."
+    options: ["one", "a one", "it"]
+    answer: 0
+    explain: "Какую-нибудь квартиру → **one** (= *a flat*). ~~a one~~ не бывает; *it* — про уже известную квартиру."
+  - q: "I haven't got any stamps, but the post office will have ___."
+    options: ["one", "it", "some"]
+    answer: 2
+    explain: "Заменяем *stamps* (мн. ч., какие-то) → **some**. *one* — для ед. ч., *it* — про конкретную вещь."
+  - q: "Nobody ___ what happened to the money."
+    options: ["know", "knows", "are knowing"]
+    answer: 1
+    explain: "После *nobody, everyone, something* глагол в **единственном** числе: *Nobody knows*."
+  - q: "Someone has left ___ coat in the classroom."
+    options: ["their", "its", "them"]
+    answer: 0
+    explain: "О неизвестном человеке после *someone, everyone* говорим **their**. *its* — только о предметах и животных."

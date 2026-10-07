@@ -1,0 +1,58 @@
+title: "Перефразирование: как долго и с каких пор"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "«Начал тогда-то и продолжаю» → have/has been + -ing + for/since."
+  - "С глаголами состояния (know, have = иметь) — только Simple. Ключевое слово в третьей форме (felt, had) тоже подсказывает Simple."
+items:
+  - q: "I started learning the guitar two years ago, and I'm still learning."
+    key: "BEEN"
+    stem: "I ___ the guitar for two years."
+    answers: ["have been learning"]
+    explain: "Началось в прошлом и продолжается, назван срок (*for two years*) → **have been learning**."
+  - q: "It started raining at six o'clock, and it's still raining."
+    key: "SINCE"
+    stem: "It ___ six o'clock."
+    answers: ["has been raining since"]
+    explain: "Дождь идёт до сих пор, *since* + точка отсчёта → **has been raining since**."
+  - q: "When did you start working for this company?"
+    key: "LONG"
+    stem: "How ___ for this company?"
+    answers: ["long have you been working", "long have you worked"]
+    explain: "«Когда начал?» = «как долго уже?» → **How long have you been working**. С *work* подходит и Simple: *have you worked*."
+  - q: "I'm tired because I spent the whole day cleaning the flat."
+    key: "BEEN"
+    stem: "I'm tired because I ___ the flat all day."
+    answers: ["have been cleaning"]
+    explain: "Усталость — след долгого занятия, важен процесс (*all day*) → **have been cleaning**."
+  - q: "Max moved to Spain in March, and he's still there."
+    key: "LIVING"
+    stem: "Max ___ in Spain since March."
+    answers: ["has been living"]
+    explain: "Живёт там с марта до сих пор → **has been living**. Русское «живёт с марта» — ловушка для Present Simple."
+  - q: "Anna started playing tennis when she was seven, and she still plays."
+    key: "SINCE"
+    stem: "Anna ___ she was seven."
+    answers: ["has been playing tennis since", "has played tennis since"]
+    explain: "Повторяющееся занятие с детства до сих пор → **has been playing tennis since**. Simple тоже возможен."
+  - q: "Our neighbours began building their house a year ago, and they still haven't finished."
+    key: "BUILDING"
+    stem: "Our neighbours ___ house for a year."
+    answers: ["have been building their"]
+    explain: "Процесс не закончен, назван срок → **have been building**. Simple *have built* значил бы, что дом готов."
+  - q: "Her face is red because she was running until a minute ago."
+    key: "JUST"
+    stem: "Her face is red because she ___ running."
+    answers: ["has just been"]
+    explain: "Действие только что закончилось, видны следы → **has just been running**. *just* стоит после *has*."
+  - q: "It's a long time since I last felt so relaxed."
+    key: "FELT"
+    stem: "I ___ so relaxed for a long time."
+    answers: ["haven't felt"]
+    explain: "«Давно не чувствовал» → **haven't felt** + *for*. Ключевое слово *felt* — третья форма, значит Present Perfect Simple."
+  - q: "How long ago did you get this laptop?"
+    key: "HAD"
+    stem: "How long ___ this laptop?"
+    answers: ["have you had"]
+    explain: "*have* = «владеть» — глагол состояния, только Simple: **have you had**, не ~~have you been having~~."

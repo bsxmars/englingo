@@ -1,0 +1,90 @@
+title: "48 hours in Porto"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. Вопросы с вариантами — как в B2 First Part 5; в остальных впиши одно слово из текста."
+hints:
+  - "Вопросы идут в порядке текста."
+  - "Правильный вариант обычно перефразирует текст, а не повторяет его дословно."
+text: |
+  ## 48 hours in Porto: a weekend on foot
+
+  I had been told that Porto is a city of hills, but nobody warned me just how steep they are. Within ten minutes of leaving my guesthouse, I was out of breath and wondering why I hadn't packed better shoes. By Sunday evening, though, I had forgiven the hills completely. Porto is small enough to explore on foot in a weekend, and almost every climb ends with a view that makes it worth it.
+
+  **Saturday morning**
+
+  Start at São Bento station, even if you're not catching a train. The main hall is covered from floor to ceiling in blue and white tiles that tell stories from Portuguese history. Get there before nine, when it's still quiet; by eleven, the hall is full of tour groups with their phones in the air. From the station, it's a short walk downhill to the Ribeira, the old riverside district. Here, narrow streets lead down to the Douro river, and colourful houses lean against each other as if they were tired.
+
+  **Saturday afternoon**
+
+  After lunch, walk across the Dom Luís I bridge. It has two decks: cars and pedestrians use the lower one, while metro trains and pedestrians share the upper one, high above the water. Take the upper deck if you aren't afraid of heights — the view of the old town is unforgettable. On the other side of the river is Vila Nova de Gaia, which is technically a separate city. This is where the famous port wine has been stored for centuries, in cellars along the water. Most cellars offer tours with a tasting at the end, but book in advance at weekends, because the popular ones are often full by midday.
+
+  **Saturday evening**
+
+  As the sun goes down, climb up to the viewpoint next to the monastery on the Gaia side of the bridge. You'll find half the city there, sitting on the low wall with a drink and waiting for the sky to turn pink. Then head back across the river for dinner. If you're brave, order a *francesinha*, a huge sandwich filled with several kinds of meat, covered in melted cheese and served in a hot sauce. You won't need breakfast.
+
+  **Sunday**
+
+  On Sunday morning, visit the Livraria Lello, often described as one of the most beautiful bookshops in the world. Be warned: you have to buy a ticket to get in, and there is usually a long queue outside. Is it worth it? On the whole, yes — the red staircase in the middle of the shop is extraordinary — but go early or you'll spend more time in the queue than among the books.
+
+  In the afternoon, rest your legs. Take the old tram number 1, which rattles along the river towards the Atlantic. The ride takes about twenty minutes, and at the end of the line you can walk by the ocean or simply sit at a café and watch the waves.
+
+  **Getting there and around**
+
+  The airport is about half an hour from the centre by metro, and it runs until late at night. Inside the city, though, forget about transport. Porto rewards people who wander at their own pace, get lost in its back streets and climb one more hill than they planned to.
+items:
+  - q: "How did the writer feel about Porto's hills by the end of the weekend?"
+    options:
+      - "They still found them too difficult to enjoy the city."
+      - "They felt the effort of climbing them was rewarded."
+      - "They wished they had used public transport instead."
+      - "They realised the hills were less steep than they had been told."
+    answer: 1
+    explain: "*By Sunday evening, though, I had forgiven the hills completely… almost every climb ends with a view that makes it worth it* — усилия окупились видами."
+  - q: "Why does the writer recommend arriving at São Bento station early?"
+    options:
+      - "Trains to the Ribeira leave before nine."
+      - "The tiles are best seen in the morning light."
+      - "Later in the day the hall becomes crowded."
+      - "The station closes to visitors at eleven."
+    answer: 2
+    explain: "*Get there before nine, when it's still quiet; by eleven, the hall is full of tour groups* — позже становится многолюдно. Про свет и закрытие в тексте ничего нет."
+  - q: "What does the writer say about the Dom Luís I bridge?"
+    options:
+      - "Pedestrians can cross it on both levels."
+      - "Only metro trains are allowed on the upper deck."
+      - "The lower deck has the best view of the old town."
+      - "It connects two parts of the Ribeira district."
+    answer: 0
+    explain: "*cars and pedestrians use the lower one, while metro trains and pedestrians share the upper one* — пешеходы ходят по обоим ярусам. Мост соединяет Порту и Вила-Нова-ди-Гайю, а не два района Рибейры."
+  - q: "What advice does the writer give about the port wine cellars?"
+    options:
+      - "Visit them before lunch, as they close at midday."
+      - "Avoid the tours, as the tastings are disappointing."
+      - "Reserve a place beforehand if you go at the weekend."
+      - "Choose a cellar in the old town rather than in Gaia."
+    answer: 2
+    explain: "*book in advance at weekends, because the popular ones are often full by midday* — бронируй заранее. *by midday* — «к полудню» заполнены, а не «закрываются в полдень»."
+  - q: "What is the writer's opinion of the Livraria Lello?"
+    options:
+      - "It is overrated and not worth the ticket price."
+      - "It is impressive, but timing your visit matters."
+      - "It is better to see it from the queue outside."
+      - "It is the most beautiful bookshop in the world."
+    answer: 1
+    explain: "*On the whole, yes — … extraordinary — but go early* — магазин впечатляет, но идти надо рано. Автор не утверждает, что это самый красивый магазин: он лишь передаёт, что его *often described as* таким."
+  - q: "Why does the writer suggest taking tram number 1 on Sunday afternoon?"
+    options:
+      - "It is the fastest way to reach the airport."
+      - "It gives the reader a break from walking."
+      - "It goes up to the best viewpoint in the city."
+      - "It is the only way to get to the ocean."
+    answer: 1
+    explain: "*In the afternoon, rest your legs. Take the old tram…* — трамвай нужен, чтобы дать ногам отдохнуть."
+  - q: "Find a word in the Sunday section that means 'a line of people waiting'."
+    answers: ["queue"]
+    explain: "*there is usually a long **queue** outside* — очередь. Глагол — *to queue*."
+  - q: "Find a verb in the last paragraph that means 'to walk slowly with no particular aim'."
+    answers: ["wander"]
+    explain: "*people who **wander** at their own pace* — бродить без определённой цели."
+  - q: "Complete the phrase from the text: Porto is small enough to explore ___ foot in a weekend."
+    answers: ["on"]
+    explain: "Пешком — **on foot**, не ~~by foot~~. Остальной транспорт идёт с *by*: *by metro, by tram*."

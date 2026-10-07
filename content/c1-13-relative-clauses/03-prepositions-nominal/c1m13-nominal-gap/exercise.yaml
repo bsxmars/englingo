@@ -1,0 +1,41 @@
+title: "what, whatever, whoever, where, how"
+type: gap
+intro: "Впиши одно слово (иногда два): *what, whatever, whoever, whichever, wherever, however, where, when, why, how* и т. п."
+hints:
+  - "what = the thing(s) that; после существительного и all / everything — не what."
+  - "whichever — выбор из ограниченного набора вариантов."
+  - "however + прилагательное / наречие = «как бы ни»."
+items:
+  - q: "___ worries me most is the complete lack of transparency."
+    answers: ["What"]
+    explain: "«То, что меня беспокоит» → **What** worries me… Придаточное с *what* — подлежащее всего предложения."
+  - q: "Take ___ you need from the cupboard — there's plenty for everyone."
+    answers: ["whatever", "what"]
+    explain: "«бери всё, что нужно» → **whatever** (любое) или **what** (то, что). Оба верны."
+  - q: "___ left the back door unlocked last night should own up."
+    answers: ["Whoever"]
+    explain: "«Тот, кто (кем бы он ни был)» → **Whoever**. Это подлежащее придаточного, поэтому *whoever*, а не *whomever*."
+  - q: "You can pay by card or by bank transfer, ___ is more convenient for you."
+    answers: ["whichever"]
+    explain: "Выбор из двух названных вариантов → **whichever**."
+  - q: "___ hard she tries, she can't seem to win his approval."
+    answers: ["However", "No matter how"]
+    explain: "«Как бы ни старалась» → **However** + наречие или **No matter how**."
+  - q: "I'll never forget the summer ___ we drove right across Iceland."
+    answers: ["when", "that", "in which"]
+    explain: "После слова времени → **when** (= *in which*). В defining можно и *that*."
+  - q: "There's no reason ___ you shouldn't apply for the post yourself."
+    answers: ["why", "that"]
+    explain: "После *reason* → **why** (или *that*, или ничего)."
+  - q: "This is exactly ___ I was afraid would happen."
+    answers: ["what"]
+    explain: "«ровно то, что» → **what**: перед ним нет существительного, оно «спрятано» внутри *what*."
+  - q: "Negotiations have reached a stage ___ any further concessions would be unacceptable."
+    answers: ["where", "at which"]
+    explain: "*stage* в переносном смысле → **where** или формальное **at which**."
+  - q: "She showed me ___ she had managed to fix the leak without calling a plumber."
+    answers: ["how", "the way"]
+    explain: "«каким образом» → **how** (= *the way in which*). ~~the way how~~ невозможно, а просто *how* — да."
+  - q: "___ you go in the old town, you'll see posters for the festival."
+    answers: ["Wherever"]
+    explain: "«куда бы ты ни пошёл» → **Wherever**."

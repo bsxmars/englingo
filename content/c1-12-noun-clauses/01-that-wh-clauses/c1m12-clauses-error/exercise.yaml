@@ -1,0 +1,38 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка в придаточном-существительном. Исправь её и отправь предложение целиком."
+hints:
+  - "В wh-придаточных — прямой порядок слов."
+  - "После предлога — wh-слово или the fact that, но не that."
+  - "В начале предложения — whether, не if."
+items:
+  - q: "Nobody seems to know what does the new policy actually mean."
+    answers: ["Nobody seems to know what the new policy actually means."]
+    explain: "В придаточном прямой порядок и без *do*: *what **the new policy** actually **means***."
+  - q: "We talked for hours about that we should do next."
+    answers: ["We talked for hours about what we should do next."]
+    explain: "После предлога *about* — wh-слово: **what** we should do."
+  - q: "If the treatment works remains to be seen."
+    answers: ["Whether the treatment works remains to be seen.", "Whether or not the treatment works remains to be seen.", "Whether the treatment will work remains to be seen."]
+    explain: "Придаточное-подлежащее начинается только с **Whether**."
+  - q: "He was hurt by that nobody had thanked him."
+    answers: ["He was hurt by the fact that nobody had thanked him.", "He was hurt that nobody had thanked him."]
+    explain: "После предлога нужен **the fact that**, либо убираем предлог: *hurt that…*"
+  - q: "They consider essential that every child learns to swim."
+    answers: ["They consider it essential that every child learns to swim.", "They consider it essential that every child learn to swim.", "They consider it essential that every child should learn to swim."]
+    explain: "*consider **it** + прилагательное + that…* — пустое *it* обязательно."
+  - q: "What he told the police it was completely untrue."
+    answers: ["What he told the police was completely untrue."]
+    explain: "Придаточное *What he told the police* — само подлежащее; второе подлежащее *it* лишнее."
+  - q: "The reason for the delay is because the funding was cut."
+    answers: ["The reason for the delay is that the funding was cut.", "The delay is because the funding was cut."]
+    explain: "После *The reason is* нужен *that*-clause: *The reason… is **that**…* (*because* дублирует *reason*)."
+  - q: "Is surprising that so few people voted."
+    answers: ["It is surprising that so few people voted.", "It's surprising that so few people voted."]
+    explain: "Нужно пустое подлежащее **It**: в английском у сказуемого всегда есть подлежащее."
+  - q: "The idea what we should all work longer hours is absurd."
+    answers: ["The idea that we should all work longer hours is absurd."]
+    explain: "После существительного (*the idea*) придаточное-содержание вводит **that**, а не *what*."
+  - q: "Nobody could explain why had the alarm failed."
+    answers: ["Nobody could explain why the alarm had failed."]
+    explain: "Прямой порядок: *why **the alarm had** failed*."

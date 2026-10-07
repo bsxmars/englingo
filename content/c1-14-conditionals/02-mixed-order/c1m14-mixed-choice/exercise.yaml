@@ -1,0 +1,52 @@
+title: "Смешанные условия: выбери по смыслу"
+type: choice
+intro: "Все варианты (почти) грамматичны, но по смыслу и времени подходит один. Определи, о каком моменте говорит каждая часть предложения."
+hints:
+  - "Реальное условие о прошлом может давать вывод о настоящем: if you saw it, you know…"
+  - "Постоянная черта характера → Past (were), разовое прошлое → Past Perfect."
+  - "«если…, то…» → then, но не so."
+items:
+  - q: "If you ___ the first season, you know why everyone hates the main character."
+    options: ["saw", "had seen", "would have seen"]
+    answer: 0
+    explain: "Реальное условие: собеседник, возможно, смотрел — **Past + Present**. *had seen* требовал бы нереальной главной части (*you would know*)."
+  - q: "They left the office at six, so if the traffic was normal, they ___ at the hotel by now."
+    options: ["'ll have arrived", "would arrive", "arrive"]
+    answer: 0
+    explain: "**will have** + V3 — уверенное предположение о том, что уже произошло к настоящему моменту."
+  - q: "If I ___ so much coffee this afternoon, I'd be able to sleep now."
+    options: ["hadn't drunk", "didn't drink", "wouldn't drink"]
+    answer: 0
+    explain: "Кофе пили днём (прошлое) → **Past Perfect**; следствие сейчас → *would* + инфинитив. Классический смешанный тип."
+  - q: "Maya is painfully shy by nature. If she ___ so shy, she would have asked a question at yesterday's talk."
+    options: ["weren't", "hadn't been", "wasn't being"]
+    answer: 0
+    explain: "Застенчивость — постоянная черта → **Past** (*weren't*), последствие в прошлом → *would have asked*. *hadn't been* значило бы, что она стеснялась только в тот вечер."
+  - q: "If he ___ the email yet, there's still time to change the figures."
+    options: ["hasn't sent", "didn't send", "hadn't sent"]
+    answer: 0
+    explain: "Реальное условие о результате к настоящему → **Present Perfect**; на это указывает *yet*."
+  - q: "If you read the briefing last night, you ___ what to do this morning."
+    options: ["'ll know", "would have known", "would know"]
+    answer: 0
+    explain: "Реальное условие о прошлом и прогноз → **will**. *would* сделало бы чтение брифинга нереальным."
+  - q: "Which sentence is punctuated best?"
+    options: ["I'd like two tickets, if there are any left.", "I'd like two tickets if, there are any left.", "If there are any left I'd like, two tickets."]
+    answer: 0
+    explain: "if-часть, добавленная как оговорка в конце, отделяется **запятой** перед *if*."
+  - q: "If, as the survey suggests, most users never read the terms, ___ the consent they give is largely meaningless."
+    options: ["then", "so", "therefore"]
+    answer: 0
+    explain: "Главную часть после if-части подчёркивает **then**. *so* и *therefore* в этой позиции не используются."
+  - q: "If you ___ to the meeting on Monday, you'd know that the deadline has been moved."
+    options: ["had come", "came", "would come"]
+    answer: 0
+    explain: "Собрание уже было → **Past Perfect**; незнание — сейчас → *you'd know*. *came* звучало бы как привычка или гипотеза о настоящем."
+  - q: "When we were kids, if a storm was coming, my grandmother ___ all the shutters."
+    options: ["would close", "would have closed", "had closed"]
+    answer: 0
+    explain: "Прошлая привычка — factual: **would** = *used to*. *would have closed* — о том, чего не было."
+  - q: "If it's all the same to you, I ___ here and finish this."
+    options: ["'d rather stay", "'d rather have stayed", "would stay"]
+    answer: 0
+    explain: "Предпочтение в реальном условии → **would rather** + инфинитив без *to*. *would stay* без *rather* теряет значение «предпочёл бы»."

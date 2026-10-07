@@ -1,0 +1,52 @@
+title: "Какое будущее?"
+type: choice
+intro: "Выбери вариант, который лучше всего подходит по смыслу. Обрати внимание на сигналы: решение принято раньше или сейчас, расписание, официальный план, момент в будущем."
+hints:
+  - "Решение в момент речи → will; решение уже принято → going to."
+  - "be about to не сочетается с указанием времени (tomorrow, at 8 p.m.)."
+  - "Из прошлого: will → would, am going to → was going to, is to → was to."
+items:
+  - q: "— The printer's jammed again. — Don't worry, I ___ a look at it."
+    options: ["'ll have", "'m going to have", "'m having"]
+    answer: 0
+    explain: "Решение рождается прямо сейчас, в ответ на реплику → **'ll have**. *going to* и Present Continuous означали бы, что план был заранее."
+  - q: "We ___ the flat — we've already contacted an estate agent."
+    options: ["'ll sell", "'re going to sell", "'ll have sold"]
+    answer: 1
+    explain: "Решение принято раньше, есть подтверждение (*already contacted*) → **'re going to sell**."
+  - q: "Look at those clouds — we ___ absolutely soaked!"
+    options: ["'re going to get", "'ll have got", "get"]
+    answer: 0
+    explain: "Прогноз по видимым признакам (тучи) → **'re going to get**."
+  - q: "According to the official schedule, the final ___ at 8 p.m. local time."
+    options: ["kicks off", "is about to kick off", "has kicked off"]
+    answer: 0
+    explain: "Расписание → Present Simple **kicks off**. *be about to* не сочетается с точным временем (*at 8 p.m.*)."
+  - q: "Call me as soon as you ___ the results."
+    options: ["will get", "get", "will have got"]
+    answer: 1
+    explain: "В придаточном времени после *as soon as* будущее выражается Present Simple: **get** (или *have got*)."
+  - q: "This time next week I ___ on a beach in Crete."
+    options: ["'ll lie", "'ll be lying", "'ll have lain"]
+    answer: 1
+    explain: "Действие будет в процессе в конкретный момент будущего (*this time next week*) → Future Continuous **'ll be lying**."
+  - q: "By the end of the month, the engineers ___ the entire system."
+    options: ["will be replacing", "will have replaced", "replace"]
+    answer: 1
+    explain: "Завершится **к** моменту (*by the end of the month*) → Future Perfect **will have replaced**."
+  - q: "The Minister ___ meet union leaders tomorrow, a spokesperson confirmed."
+    options: ["is to", "is about to", "is bound to"]
+    answer: 0
+    explain: "Официально объявленный план → **is to** meet. *is about to* не сочетается с *tomorrow*, *is bound to* значит «неизбежно», а не «запланировано»."
+  - q: "Quick, take your seats — the play ___ start."
+    options: ["is about to", "is to", "is set to"]
+    answer: 0
+    explain: "«Вот-вот, сейчас» → **is about to** start. *is to* — официальный план, *is set to* — стиль новостей («ожидается»)."
+  - q: "I ___ you, but then I realised you were in a meeting."
+    options: ["was going to call", "would call", "will call"]
+    answer: 0
+    explain: "Намерение в прошлом, которое не осуществилось → **was going to call**."
+  - q: "It was a decision that he ___ for the rest of his career."
+    options: ["was to regret", "is going to regret", "will regret"]
+    answer: 0
+    explain: "Взгляд из прошлого на то, что потом случилось, «судьба» → **was to regret** (можно и *would regret*)."

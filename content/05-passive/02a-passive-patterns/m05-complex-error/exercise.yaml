@@ -1,0 +1,44 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка. Исправь её и отправь всё предложение целиком."
+hints:
+  - "make / see / hear в пассиве — с to."
+  - "let → be allowed to; appear, rise, happen — без пассива."
+  - "consider / elect / paint + сразу существительное или прилагательное; regard / describe / know + as."
+items:
+  - q: "We were made wait in the corridor for forty minutes."
+    answers: ["We were made to wait in the corridor for forty minutes."]
+    explain: "В пассиве после **make** нужен *to*: *were made **to** wait*. Голый инфинитив — только в активе: *they made us wait*."
+  - q: "Students were let to use the lab at weekends."
+    answers: ["Students were allowed to use the lab at weekends."]
+    explain: "У *let* нет пассивной формы. «Студентам разрешали» → **were allowed to**."
+  - q: "The temperature was dropped below zero last night."
+    answers: ["The temperature dropped below zero last night."]
+    explain: "Температура упала сама → актив **dropped**. Пассив значил бы, что её кто-то понизил."
+  - q: "Lake Baikal is known as its clear water."
+    answers: ["Lake Baikal is known for its clear water."]
+    explain: "Известен **чем** → *known **for***. *known as* — «известен под именем»: *Baikal is known as the 'Pearl of Siberia'*."
+  - q: "He is considered to a brilliant negotiator."
+    answers: ["He is considered a brilliant negotiator.", "He is considered to be a brilliant negotiator."]
+    explain: "После *is considered* — либо сразу существительное (**a brilliant negotiator**), либо **to be** + существительное. Одного *to* мало."
+  - q: "The burglar was heard break the window."
+    answers: ["The burglar was heard to break the window.", "The burglar was heard breaking the window."]
+    explain: "*hear* в пассиве: **was heard to break** (факт) или **was heard breaking** (процесс). Голый инфинитив невозможен."
+  - q: "It was told us to switch off our phones during the exam."
+    answers: ["We were told to switch off our phones during the exam."]
+    explain: "Калька с «нам сказали». Подлежащим пассива становится человек: **We were told to** switch off…"
+  - q: "A strange light was appeared in the sky."
+    answers: ["A strange light appeared in the sky."]
+    explain: "*appear* — непереходный глагол, пассива у него нет: **appeared**. Так же *happen, arrive, disappear*."
+  - q: "The walls were painted by white."
+    answers: ["The walls were painted white."]
+    explain: "*paint sth white* → *were painted **white***. *by* вводит исполнителя, а белый цвет — не исполнитель."
+  - q: "Visitors are required wearing a helmet on the construction site."
+    answers: ["Visitors are required to wear a helmet on the construction site."]
+    explain: "*require sb to do* → в пассиве **are required to wear**. После *require* не бывает *-ing* с человеком-подлежащим."
+  - q: "The project was described like a complete success."
+    answers: ["The project was described as a complete success."]
+    explain: "*describe sth **as*** — фиксированная модель. *like* здесь означало бы «описан похоже на успех»."
+  - q: "House prices were risen by 20% last year."
+    answers: ["House prices rose by 20% last year.", "House prices were raised by 20% last year."]
+    explain: "*rise* — непереходный, ~~were risen~~ не бывает. Либо «выросли сами» → **rose**, либо «их подняли» → **were raised**."

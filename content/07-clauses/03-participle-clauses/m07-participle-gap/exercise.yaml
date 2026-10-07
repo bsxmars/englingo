@@ -1,0 +1,43 @@
+title: "-ing, V3 или having + V3"
+type: gap
+intro: "Поставь глагол в скобках в форму причастия: **-ing**, **V3** (третья форма) или **having + V3**. Если в скобках есть *not*, поставь его в нужное место."
+hints:
+  - "Предмет делает сам → -ing. Над ним совершают действие → V3."
+  - "Одно действие закончилось раньше другого → Having + V3."
+items:
+  - q: "The woman ___ (stand) by the door is my manager."
+    answers: ["standing"]
+    explain: "= *who is standing*. Женщина сама стоит → активное **-ing**."
+  - q: "Most of the furniture ___ (sell) in this shop is made in Italy."
+    answers: ["sold"]
+    explain: "= *which is sold*. Мебель продают (с ней совершают действие) → **V3**."
+  - q: "Anyone ___ (want) a refund must keep the receipt."
+    answers: ["wanting"]
+    explain: "= *anyone who wants*. Активное значение → **-ing**."
+  - q: "The bridge ___ (destroy) in the war was rebuilt in 1955."
+    answers: ["destroyed"]
+    explain: "= *which was destroyed*. Мост разрушили → пассивное **V3**."
+  - q: "___ (live) in Japan for ten years, she understands the culture really well."
+    answers: ["Having lived"]
+    explain: "Десять лет жизни — период, который предшествует нынешнему знанию → **Having lived** («прожив»)."
+  - q: "___ (not / know) anyone at the party, I spent most of the evening in the kitchen."
+    answers: ["Not knowing"]
+    explain: "= *Because I didn't know*. Отрицание ставим **перед** причастием: *Not knowing*."
+  - q: "___ (write) in 1949, the novel still feels surprisingly modern."
+    answers: ["Written", "Having been written"]
+    explain: "Роман написали (пассив) → **Written** = *Although it was written…*"
+  - q: "After ___ (finish) the course, you will receive a certificate."
+    answers: ["finishing", "having finished"]
+    explain: "После предлога *after* — **-ing**. *having finished* тоже верно, но после *after* последовательность уже понятна, поэтому чаще говорят просто *finishing*."
+  - q: "Be careful when ___ (use) a sharp knife."
+    answers: ["using"]
+    explain: "*when using* = *when you are using*. После *when, while, before, after* — **-ing**."
+  - q: "Passengers ___ (travel) with small children can board first."
+    answers: ["travelling", "traveling"]
+    explain: "= *who are travelling*. Активное **-ing** (британское *travelling*, американское *traveling*)."
+  - q: "___ (feel) exhausted, he decided to skip the gym."
+    answers: ["Feeling"]
+    explain: "= *Because he felt exhausted*. Состояние одновременно с решением → **-ing**."
+  - q: "The photos ___ (take) on our holiday are all on my laptop."
+    answers: ["taken"]
+    explain: "= *which were taken*. Фото сделали → **V3**: *take – took – taken*."

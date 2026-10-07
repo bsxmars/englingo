@@ -1,0 +1,41 @@
+title: "Найди ошибку в безличном пересказе"
+type: error
+intro: "В каждом предложении **одна** ошибка: смешанные модели, неверный инфинитив, лишний глагол или *according to* не к месту. Исправь и отправь предложение целиком."
+hints:
+  - "It is said that + clause ИЛИ X is said + to-infinitive — не вместе."
+  - "Событие раньше мнения → to have done; в пассиве → to have been done."
+  - "according to — только про чужой источник и без дублирующего глагола."
+items:
+  - q: "The suspect is believed that he left the country last week."
+    answers: ["The suspect is believed to have left the country last week.", "It is believed that the suspect left the country last week."]
+    explain: "Модели смешаны. Либо **X is believed to have left**, либо **It is believed that X left**."
+  - q: "The singer is rumoured being in talks with a new label."
+    answers: ["The singer is rumoured to be in talks with a new label."]
+    explain: "После пассивного reporting verb — **to-инфинитив**: *is rumoured to be*."
+  - q: "The bridge is thought to collapse during the night, but nobody saw it happen."
+    answers: ["The bridge is thought to have collapsed during the night, but nobody saw it happen."]
+    explain: "Обрушение уже произошло, раньше мнения → **to have collapsed**. *to collapse* читается как будущее или привычка."
+  - q: "According to me, remote work is here to stay."
+    answers: ["In my view, remote work is here to stay.", "In my opinion, remote work is here to stay.", "I think remote work is here to stay.", "I believe remote work is here to stay."]
+    explain: "*according to* отсылает к **чужому** источнику. Своё мнение — *In my view / opinion*."
+  - q: "According to the police, the suspect was armed, they said."
+    answers: ["According to the police, the suspect was armed.", "The police said the suspect was armed."]
+    explain: "*according to* уже означает «как сообщают» — **they said** дублирует его."
+  - q: "People say him to be the best surgeon in the city."
+    answers: ["He is said to be the best surgeon in the city.", "People say he is the best surgeon in the city.", "People say that he is the best surgeon in the city."]
+    explain: "*say* + объект + инфинитив возможно **только в пассиве**: *He is said to be…*"
+  - q: "There are estimated being 3,000 plant species in the reserve."
+    answers: ["There are estimated to be 3,000 plant species in the reserve."]
+    explain: "Конструкция — **there are estimated to be**, с инфинитивом."
+  - q: "The documents are reported to have destroyed before the audit."
+    answers: ["The documents are reported to have been destroyed before the audit."]
+    explain: "Документы не сами уничтожили что-то, их уничтожили → пассивный инфинитив **to have been destroyed**."
+  - q: "It was feared that the climbers have died in the storm."
+    answers: ["It was feared that the climbers had died in the storm."]
+    explain: "Мнение в прошлом (*was feared*), гибель — ещё раньше → **had died**."
+  - q: "The minister is expected resigning by the end of the week."
+    answers: ["The minister is expected to resign by the end of the week."]
+    explain: "*expect* в пассиве + **to do**: *is expected to resign*."
+  - q: "According to the opinion of most experts, the risk is low."
+    answers: ["According to most experts, the risk is low.", "In the opinion of most experts, the risk is low."]
+    explain: "*according to* не сочетается с *opinion / view*: либо **according to experts**, либо **in the opinion of experts**."

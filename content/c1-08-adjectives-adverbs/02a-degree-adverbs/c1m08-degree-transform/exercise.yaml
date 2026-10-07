@@ -1,0 +1,62 @@
+title: "Перефразирование: степень и мера (C1 Advanced, Part 4)"
+type: transform
+intro: "Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое)."
+hints:
+  - "far / much + too; quite a + noun; hardly = почти не."
+  - "Проверь, не исказил ли ты степень: «немного» ≠ «гораздо»."
+items:
+  - q: "I don't think it's very likely that they will win the election."
+    key: "HIGHLY"
+    stem: "In my view, it is ___ win the election."
+    answers: ["highly unlikely that they will", "highly unlikely that they'll", "highly unlikely they will", "highly unlikely they'll"]
+    explain: "«Не очень вероятно» → **highly unlikely**: устойчивая пара для вероятности."
+  - q: "We could barely notice any change in her behaviour."
+    key: "HARDLY"
+    stem: "The change in her behaviour ___ ."
+    answers: ["was hardly noticeable", "was hardly noticed", "was hardly visible", "was hardly perceptible", "was hardly apparent", "was hardly evident", "could hardly be noticed", "could hardly be seen"]
+    explain: "*barely notice* → **was hardly noticeable**: *hardly* = «почти не»."
+  - q: "The flat was so expensive that we couldn't possibly afford it."
+    key: "FAR"
+    stem: "The flat was ___ us to afford."
+    answers: ["far too expensive for", "far too costly for", "far too dear for", "far too pricey for"]
+    explain: "*so… that we couldn't* → **far too + adj + for us to…**. Усилитель *far* стоит перед *too*."
+  - q: "Arriving to find the house already decorated surprised us a great deal."
+    key: "QUITE"
+    stem: "It was ___ to arrive and find the house already decorated."
+    answers: ["quite a surprise for us", "quite a surprise", "quite a shock for us", "quite a shock"]
+    explain: "*quite a* + существительное = «настоящий, немалый»: **quite a surprise**. Порядок: *quite* перед артиклем."
+  - q: "I'm completely sure that I locked the door."
+    key: "PERFECTLY"
+    stem: "I'm ___ I locked the door."
+    answers: ["perfectly sure that", "perfectly sure", "perfectly certain that", "perfectly certain"]
+    explain: "*perfectly* = «вполне, совершенно» с *sure, clear, normal*: **perfectly sure (that)**."
+  - q: "The new model is only a tiny bit cheaper than the old one."
+    key: "MARGINALLY"
+    stem: "The new model is ___ the old one."
+    answers: ["only marginally cheaper than", "marginally cheaper than", "just marginally cheaper than", "only marginally less expensive than", "marginally less expensive than"]
+    explain: "«Совсем чуть-чуть» в формальном стиле — **marginally cheaper than**."
+  - q: "We really are grateful for all the help you gave us."
+    key: "GREATLY"
+    stem: "All the help you gave us ___ ."
+    answers: ["is greatly appreciated", "was greatly appreciated", "has been greatly appreciated", "has been greatly appreciated by us", "was greatly appreciated by us", "is greatly appreciated by us"]
+    explain: "«Благодарны» → пассив с *appreciate*: **was / is greatly appreciated**. С причастием пассива — *greatly*, а не *very*."
+  - q: "The two sides disagree completely about the future of the project."
+    key: "DIVIDED"
+    stem: "The two sides ___ the future of the project."
+    answers: ["are deeply divided over", "are deeply divided on", "are deeply divided about", "are bitterly divided over", "are bitterly divided on", "are sharply divided over", "are sharply divided on", "are completely divided over", "are completely divided on", "are deeply divided as to", "are totally divided over", "are totally divided on"]
+    explain: "Раскол мнений — **deeply / sharply divided over (on)**."
+  - q: "I'd advise you very firmly not to sign the contract yet."
+    key: "STRONGLY"
+    stem: "I would ___ the contract yet."
+    answers: ["strongly advise you not to sign", "strongly recommend not signing", "strongly recommend that you not sign", "strongly recommend you not sign", "strongly advise against signing", "strongly urge you not to sign", "strongly recommend against signing"]
+    explain: "Настойчивый совет — **strongly advise you not to / against signing**."
+  - q: "The second hotel was a great deal more comfortable than the first."
+    key: "VASTLY"
+    stem: "The second hotel was ___ the first."
+    answers: ["vastly more comfortable than", "vastly superior to", "vastly better than", "vastly preferable to"]
+    explain: "*vastly* усиливает сравнение: **vastly more comfortable than** или *vastly superior to*."
+  - q: "She was not entirely convinced by his explanation."
+    key: "SOMEWHAT"
+    stem: "She remained ___ his explanation."
+    answers: ["somewhat unconvinced by", "somewhat sceptical of", "somewhat skeptical of", "somewhat sceptical about", "somewhat skeptical about", "somewhat doubtful about", "somewhat doubtful of"]
+    explain: "Книжное смягчение: *not entirely convinced* → **somewhat unconvinced by** (или *somewhat sceptical of*)."

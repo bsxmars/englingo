@@ -1,0 +1,44 @@
+title: "Simple или Continuous"
+type: gap
+intro: "Поставь глагол в скобках в **Present Perfect Simple** (*have done*) или **Present Perfect Continuous** (*have been doing*). Сокращения засчитываются."
+hints:
+  - "Есть число или «сколько раз»? Действие закончено и важен результат? → Simple."
+  - "Важно, чем человек занимался и как долго, или видны следы занятия? → Continuous."
+  - "know, own, have (= иметь), believe — глаголы состояния, только Simple."
+items:
+  - q: "Your eyes are red. ___ (you / cry)?"
+    answers: ["Have you been crying"]
+    explain: "Красные глаза — видимый след недавнего действия → **Present Perfect Continuous**."
+  - q: "I ___ (write) three emails this morning, and it's only ten o'clock."
+    answers: ["have written", "'ve written"]
+    explain: "Есть количество (**three emails**) → Simple. Continuous не сочетается с «сколько штук»."
+  - q: "How many pages ___ (you / read) so far?"
+    answers: ["have you read"]
+    explain: "**How many** — вопрос о количестве → Present Perfect Simple."
+  - q: "I ___ (know) Lena since we were at school."
+    answers: ["have known", "'ve known"]
+    explain: "*know* — глагол состояния, в Continuous не бывает: *I've known*, а не ~~I've been knowing~~."
+  - q: "Sorry I'm late! ___ (you / wait) long?"
+    answers: ["Have you been waiting", "Have you waited"]
+    explain: "Вопрос о длительности действия, которое длится до сих пор. Естественнее всего **Have you been waiting long?**, но *Have you waited long?* тоже возможно."
+  - q: "— You've got paint on your hands. ___ (you / paint)? — Yes, I've just finished the fence."
+    answers: ["Have you been painting"]
+    explain: "Краска на руках — след занятия. Спрашиваем, **чем человек занимался** → Continuous."
+  - q: "We ___ (paint) two rooms so far — only the kitchen is left."
+    answers: ["have painted", "'ve painted"]
+    explain: "Количество сделанного (**two rooms**) → Simple."
+  - q: "I ___ (own) this bike for ten years."
+    answers: ["have owned", "'ve owned"]
+    explain: "*own* — глагол владения, состояние → только Simple, даже с **for**."
+  - q: "He ___ (fix) my laptop, so I can work again."
+    answers: ["has fixed", "'s fixed"]
+    explain: "Работа закончена и важен результат (ноутбук работает) → Simple. *has been fixing* значило бы «чинил, а починил ли — неизвестно»."
+  - q: "I ___ (call) you five times! Why didn't you answer?"
+    answers: ["have called", "'ve called"]
+    explain: "**Five times** — сколько раз → Simple."
+  - q: "He's out of breath because he ___ (run)."
+    answers: ["has been running", "'s been running"]
+    explain: "Запыхался — видимое последствие недавнего занятия → **has been running**."
+  - q: "I ___ (not / finish) the book yet — I'm on chapter five."
+    answers: ["have not finished", "haven't finished"]
+    explain: "Речь о результате (закончил или нет) + **yet** → Simple: *haven't finished yet*."

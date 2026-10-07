@@ -1,0 +1,44 @@
+title: "Инфинитив, голый инфинитив или -ing"
+type: gap
+intro: "Поставь глагол в скобках в нужную форму: *to do*, голый инфинитив или *-ing*. Если подходят обе формы, засчитается любая."
+hints:
+  - "remember / forget / regret / stop / try / mean / go on меняют смысл в зависимости от формы."
+  - "allow / advise без объекта → -ing; с объектом → to do."
+  - "Глагол восприятия + объект: целое действие → голый инфинитив, процесс → -ing."
+items:
+  - q: "I distinctly remember ___ (lock) the door, so someone else must have opened it."
+    answers: ["locking", "having locked"]
+    explain: "Воспоминание о совершённом действии → **remember doing**. *having locked* тоже верно, но избыточно."
+  - q: "Please remember ___ (switch off) the projector when you leave."
+    answers: ["to switch off"]
+    explain: "Действие ещё впереди («не забудь сделать») → **remember to do**."
+  - q: "We regret ___ (inform) you that your application has been unsuccessful."
+    answers: ["to inform"]
+    explain: "Формула официального письма: сожалеем, что **сейчас** сообщаем → **regret to inform**."
+  - q: "He now bitterly regrets ___ (turn) down the offer."
+    answers: ["turning", "having turned"]
+    explain: "Жалеет о том, что уже сделал → **regret doing**; перфектный герундий тоже возможен."
+  - q: "After a short introduction, the speaker went on ___ (explain) why the project had failed."
+    answers: ["to explain"]
+    explain: "Переход к **новому** действию после введения → **go on to do**. *went on explaining* значило бы «продолжал объяснять»."
+  - q: "Accepting the promotion would mean ___ (move) to another city."
+    answers: ["moving"]
+    explain: "*mean* = «влечь за собой» → **mean doing**. *mean to do* — «намереваться»."
+  - q: "I'm sorry — I never meant ___ (offend) anyone with that joke."
+    answers: ["to offend"]
+    explain: "*mean* = «намереваться» → **mean to do**."
+  - q: "If the printer jams again, try ___ (turn) it off and on."
+    answers: ["turning"]
+    explain: "Совет попробовать способ, эксперимент → **try doing**. *try to do* — постараться сделать что-то трудное."
+  - q: "The sign said 'No photography', but I saw several tourists ___ (take) pictures all the same."
+    answers: ["taking", "take"]
+    explain: "Повторяющееся действие, которое я застал → **taking**. Голый инфинитив *take* тоже возможен, если видишь действие целиком, но с множеством снимков естественнее *-ing*."
+  - q: "The reading room doesn't permit ___ (eat) at the desks."
+    answers: ["eating"]
+    explain: "После *permit* без объекта — герундий: **permit eating**. С объектом было бы *permit readers to eat*."
+  - q: "I'd rather ___ (not / go) out tonight, if you don't mind."
+    answers: ["not go"]
+    explain: "После *would rather* — голый инфинитив, отрицание *not* перед ним: **I'd rather not go**."
+  - q: "I eventually came ___ (see) her criticism as a kind of compliment."
+    answers: ["to see"]
+    explain: "*come to do* — «со временем начать (думать, понимать)»: **came to see**."

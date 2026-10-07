@@ -1,0 +1,43 @@
+title: "Модальный + have + V3"
+type: gap
+intro: "Поставь слова в скобках в нужную форму: настоящее (*must be*, *might be doing*) или прошлое (*must have done*). Сокращения засчитываются."
+hints:
+  - "Прошлое: модальный + have + третья форма (must have gone)."
+  - "Прямо сейчас: модальный + be + -ing (may be sleeping)."
+items:
+  - q: "The lights are off. They ___ (must / go) to bed."
+    answers: ["must have gone"]
+    explain: "Вывод о прошлом действии → **must have gone**. Третья форма *go* — *gone*."
+  - q: "Look at his face — he ___ (must / joke)!"
+    answers: ["must be joking"]
+    explain: "Вывод о том, что происходит сейчас → **must be joking**."
+  - q: "She ___ (can't / see) us — she walked right past without saying hello."
+    answers: ["can't have seen", "couldn't have seen"]
+    explain: "Уверенное «нет» о прошлом → **can't have seen**."
+  - q: "I ___ (should / listen) to your advice. You were right."
+    answers: ["should have listened"]
+    explain: "«Надо было, а я не сделал» → **should have listened**."
+  - q: "You ___ (shouldn't / eat) so much cake. No wonder you feel sick."
+    answers: ["shouldn't have eaten"]
+    explain: "«Зря ты это сделал» → **shouldn't have eaten**."
+  - q: "Thanks for the flowers, but you really ___ (needn't / buy) them!"
+    answers: ["needn't have bought"]
+    explain: "Купил, хотя не было нужды → **needn't have bought**. Вежливая фраза при получении подарка."
+  - q: "Paul still isn't here. He ___ (might / miss) the train."
+    answers: ["might have missed"]
+    explain: "Возможное объяснение того, что уже случилось → **might have missed**."
+  - q: "Don't call Sarah now — she ___ (may / sleep)."
+    answers: ["may be sleeping"]
+    explain: "Предположение о действии в процессе → **may be sleeping**."
+  - q: "Entry to the museum was free, so we ___ (didn't need / pay)."
+    answers: ["didn't need to pay"]
+    explain: "Не было необходимости → **didn't need to** + инфинитив."
+  - q: "Someone ___ (must / take) my umbrella by mistake — it's not where I left it."
+    answers: ["must have taken"]
+    explain: "Уверенный вывод о прошлом → **must have taken**."
+  - q: "He ___ (can't / be) Spanish — he doesn't speak a word of Spanish."
+    answers: ["can't be"]
+    explain: "Уверенное «нет» о настоящем → **can't be**. Не ~~mustn't be~~."
+  - q: "We ___ (could / win) the match if Leo hadn't been injured."
+    answers: ["could have won"]
+    explain: "Возможность в прошлом, которая не реализовалась → **could have won**."

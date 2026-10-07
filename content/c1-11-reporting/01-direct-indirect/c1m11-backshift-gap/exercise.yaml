@@ -1,0 +1,44 @@
+title: "Сдвигать время или нет?"
+type: gap
+intro: "Перескажи слова в кавычках. Впиши только сказуемое (с *not* и наречием, если они есть в оригинале). Смотри на пояснение в скобках: когда и где пересказывают. Если подходят обе формы — со сдвигом и без, — засчитается любая."
+hints:
+  - "Reporting verb в настоящем или ситуация всё ещё верна → сдвиг необязателен."
+  - "will → would, can → could, shall (вопрос-совет) → should, must → must / had to."
+  - "Past Simple → Past Simple или Past Perfect."
+items:
+  - q: "'I've never been to Japan.' (He said this two years ago; he has since been twice.) → Two years ago Mark told us he ___ to Japan."
+    answers: ["had never been"]
+    explain: "Ситуация изменилась, пересказ о прошлом → Present Perfect сдвигается в **Past Perfect**."
+  - q: "'Water boils at 100 degrees at sea level.' → Our physics teacher explained that water ___ at 100 degrees at sea level."
+    answers: ["boils", "boiled"]
+    explain: "Общеизвестный факт — сдвиг необязателен: **boils**. *boiled* тоже грамматично."
+  - q: "'I can't read your handwriting.' → The examiner complained that she ___ my handwriting."
+    answers: ["couldn't read", "could not read"]
+    explain: "*can* → **could** после reporting verb в прошедшем."
+  - q: "'I didn't take the money.' → He insisted that he ___ the money."
+    answers: ["hadn't taken", "had not taken", "didn't take", "did not take"]
+    explain: "Past Simple можно оставить или сдвинуть в Past Perfect; *hadn't taken* подчёркивает, что событие было раньше."
+  - q: "'Shall I bring some wine?' → My neighbour asked if she ___ some wine."
+    answers: ["should bring"]
+    explain: "*Shall I…?* — предложение услуги → в косвенной речи **should**."
+  - q: "'You must wear a helmet on site.' → The foreman told us we ___ a helmet on site."
+    answers: ["must wear", "had to wear"]
+    explain: "*must* (обязанность) → **must** или **had to**; оба варианта верны."
+  - q: "'They might be stuck in traffic.' → She said they ___ stuck in traffic."
+    answers: ["might be"]
+    explain: "*might* в косвенной речи не меняется."
+  - q: "'Inflation is falling.' → The latest Bank of England report states that inflation ___ ."
+    answers: ["is falling"]
+    explain: "Reporting verb в **настоящем** (*states*) — время не сдвигается."
+  - q: "'I'm working from home today.' (Tom said this at 9 a.m.; it is now lunchtime.) → Tom said this morning that he ___ from home today."
+    answers: ["is working", "'s working", "was working"]
+    explain: "Ситуация ещё актуальна и *today* остаётся — сдвиг необязателен. *was working* тоже верно."
+  - q: "'We had already left when the storm hit.' → They said they ___ when the storm hit."
+    answers: ["had already left"]
+    explain: "Past Perfect в косвенной речи не меняется — сдвигать дальше некуда."
+  - q: "'I'll call you tomorrow.' (She said this on Monday; it is now Friday.) → On Monday she promised she ___ me the next day, and I'm still waiting."
+    answers: ["would call"]
+    explain: "*will* → **would**; *tomorrow* → *the next day*, потому что пересказ через несколько дней."
+  - q: "'The new line will open in 2031.' (Officials said this today; it is still the plan.) → Officials announced today that the new line ___ in 2031."
+    answers: ["will open", "would open"]
+    explain: "Прогноз всё ещё в силе → можно оставить **will**. *would* тоже верно и звучит нейтральнее."

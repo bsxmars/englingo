@@ -1,0 +1,59 @@
+title: "Инверсия: перефразирование (C1 Advanced, Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его, и впиши **от трёх до шести слов** (включая ключевое).
+hints:
+  - "Отрицательное слово в начале → вспомогательный глагол перед подлежащим: Never have I…, Little did he…"
+  - "Нет вспомогательного — добавь do / does / did."
+  - "Not until / Only after: инверсия в главной части предложения."
+items:
+  - q: "I had never seen such a chaotic meeting before."
+    key: "NEVER"
+    stem: "___ seen such a chaotic meeting."
+    answers: ["Never before had I", "Never had I"]
+    explain: "*Never* в начале → инверсия Past Perfect: ***Never (before) had I** seen…* Слово *before* можно перенести к *never*."
+  - q: "You must not open this door under any circumstances."
+    key: "CIRCUMSTANCES"
+    stem: "Under ___ this door."
+    answers: ["no circumstances must you open", "no circumstances should you open", "no circumstances are you to open", "no circumstances can you open"]
+    explain: "*not… under any circumstances* → ***Under no circumstances must / should you open***. Отрицание переходит в *no*, глагол становится утвердительным, порядок — вопросительный."
+  - q: "I only realised how serious the problem was when I saw the figures."
+    key: "UNTIL"
+    stem: "It ___ the figures that I realised how serious the problem was."
+    answers: ["was not until I saw", "wasn't until I saw", "was not until I had seen", "wasn't until I had seen"]
+    explain: "Расщеплённое предложение *It was not until X that…* = «только когда… я понял». Это близкий родственник инверсии *Not until I saw… did I realise*."
+  - q: "As soon as we sat down, the waiter brought the bill."
+    key: "SOONER"
+    stem: "No ___ the waiter brought the bill."
+    answers: ["sooner had we sat down than", "sooner did we sit down than"]
+    explain: "***No sooner had we sat down than…*** — инверсия, Past Perfect и обязательно **than**. Вариант с *did we sit* встречается реже, но тоже верен."
+  - q: "She had only just closed her laptop when the power went off."
+    key: "HARDLY"
+    stem: "___ her laptop when the power went off."
+    answers: ["Hardly had she closed", "Hardly had she shut"]
+    explain: "*had only just… when* = ***Hardly had she closed… when***. После *hardly* — *when*, а не *than*."
+  - q: "He had no idea that his colleagues were planning a party for him."
+    key: "LITTLE"
+    stem: "___ that his colleagues were planning a party for him."
+    answers: ["Little did he know", "Little did he suspect", "Little did he realise", "Little did he realize", "Little did he imagine", "Little did he guess"]
+    explain: "*Little did he know* — книжное «он и не подозревал». *Little* здесь отрицательное слово, поэтому инверсия с *did* и глагол без *-ed*."
+  - q: "The company not only cut salaries but also closed two branches."
+    key: "ONLY"
+    stem: "Not ___ salaries, but it also closed two branches."
+    answers: ["only did the company cut"]
+    explain: "***Not only did the company cut…, but it also…*** — инверсия только в первой части; во второй обычный порядок. *cut* после *did* — начальная форма."
+  - q: "It is rare for the committee to reject a proposal outright."
+    key: "RARELY"
+    stem: "___ a proposal outright."
+    answers: ["Rarely does the committee reject", "Rarely will the committee reject"]
+    explain: "*Rarely* в начале → инверсия: ***Rarely does the committee reject***. Present Simple, поэтому *does* + начальная форма."
+  - q: "Nobody told us at any point that the flight had been cancelled."
+    key: "TIME"
+    stem: "At ___ the flight had been cancelled."
+    answers: ["no time were we told that", "no time were we told", "no time did anyone tell us that", "no time did anyone tell us", "no time did anybody tell us", "no time did anybody tell us that"]
+    explain: "*not… at any point / time* → ***At no time were we told (that)…*** — пассив с инверсией *were we*, или актив *did anyone tell us*."
+  - q: "I don't like the new layout, and my colleagues don't like it either."
+    key: "NOR"
+    stem: "I don't like the new layout, ___."
+    answers: ["nor do my colleagues", "and nor do my colleagues"]
+    explain: "Согласие с отрицанием: ***nor do my colleagues*** — *nor* + вспомогательный + подлежащее. Глагол *like* повторять не нужно."

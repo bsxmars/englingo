@@ -1,0 +1,70 @@
+title: "Найди ошибку: близкие синонимы"
+type: error
+intro: "В каждом предложении **одно** слово — близкий синоним того, что нужно, но не подходит по конструкции, сочетаемости или оттенку. Замени его и отправь предложение целиком."
+hints:
+  - "prevent sb from, avoid -ing, advise sb to, suggest -ing / that, succeed in, manage to, accuse of, blame for."
+  - "notorious ↔ famous, stubborn ↔ determined, rise ↔ raise, earn ↔ win."
+items:
+  - q: "My doctor suggested me to cut down on coffee."
+    answers:
+      - "My doctor advised me to cut down on coffee."
+      - "My doctor told me to cut down on coffee."
+      - "My doctor recommended me to cut down on coffee."
+      - "My doctor suggested that I cut down on coffee."
+      - "My doctor suggested that I should cut down on coffee."
+      - "My doctor suggested I cut down on coffee."
+      - "My doctor suggested cutting down on coffee."
+    explain: "*suggest* не берёт конструкцию *sb to do*. Либо **advise / tell me to**, либо **suggested (that) I cut down / cutting down**."
+  - q: "Nothing could avoid her from speaking her mind."
+    answers:
+      - "Nothing could prevent her from speaking her mind."
+      - "Nothing could stop her from speaking her mind."
+      - "Nothing could stop her speaking her mind."
+      - "Nothing could keep her from speaking her mind."
+      - "Nothing could deter her from speaking her mind."
+    explain: "**prevent / stop sb from -ing**. *avoid* — «избегать (самому)»: *She avoided speaking*, без дополнения-человека."
+  - q: "He finally achieved to pass his driving test on the fifth attempt."
+    answers:
+      - "He finally managed to pass his driving test on the fifth attempt."
+      - "He finally succeeded in passing his driving test on the fifth attempt."
+    explain: "*achieve* + существительное (*achieve a goal*). С инфинитивом — **manage to**, с *-ing* — **succeed in**."
+  - q: "The city is famous for its traffic jams, which can last for hours."
+    answers: ["The city is notorious for its traffic jams, which can last for hours."]
+    explain: "Пробки — повод для плохой славы → **notorious for**. *famous* звучит как похвала, что в C1 считается ошибкой регистра и оценки."
+  - q: "The management was blamed of ignoring the safety warnings."
+    answers:
+      - "The management was blamed for ignoring the safety warnings."
+      - "The management was accused of ignoring the safety warnings."
+      - "The management was criticised for ignoring the safety warnings."
+      - "The management was criticized for ignoring the safety warnings."
+    explain: "**blame sb for**, но **accuse sb of**. Предлог выбирает глагол."
+  - q: "She gained her living as a translator before becoming a novelist."
+    answers:
+      - "She earned her living as a translator before becoming a novelist."
+      - "She made her living as a translator before becoming a novelist."
+    explain: "**earn / make a living** — «зарабатывать на жизнь». *gain* — с *experience, weight, access*."
+  - q: "Please remember me to call the bank tomorrow morning."
+    answers: ["Please remind me to call the bank tomorrow morning."]
+    explain: "**remind sb to do** — «напомнить кому-то». *remember* — «помнить самому», без дополнения-человека."
+  - q: "The government plans to rise taxes on tobacco and alcohol next year."
+    answers:
+      - "The government plans to raise taxes on tobacco and alcohol next year."
+      - "The government plans to increase taxes on tobacco and alcohol next year."
+    explain: "Переходный глагол — **raise** (*raise taxes*). *rise* — непереходный: *taxes will rise*."
+  - q: "The new law will effect thousands of small businesses."
+    answers: ["The new law will affect thousands of small businesses."]
+    explain: "**affect** — глагол «влиять». *effect* — существительное «эффект» (как глагол — редкое «осуществить»: *effect change*)."
+  - q: "Stop being so curious — who I go out with is none of your business!"
+    answers:
+      - "Stop being so nosy — who I go out with is none of your business!"
+      - "Stop being so nosey — who I go out with is none of your business!"
+    explain: "Раздражённый контекст (*none of your business*) → **nosy** — «любопытный, суёт нос в чужие дела». *curious* — нейтральное «любознательный» и оценки не несёт."
+  - q: "Can you say me what time the next train leaves?"
+    answers: ["Can you tell me what time the next train leaves?"]
+    explain: "**tell sb sth**; *say* не берёт дополнение-человека без *to*: *say to me*."
+  - q: "Most experts trust on official statistics, despite their limitations."
+    answers:
+      - "Most experts rely on official statistics, despite their limitations."
+      - "Most experts depend on official statistics, despite their limitations."
+      - "Most experts trust official statistics, despite their limitations."
+    explain: "**rely / depend on**, но **trust** — без предлога. Можно убрать *on* или заменить глагол."

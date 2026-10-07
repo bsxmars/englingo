@@ -1,0 +1,41 @@
+title: "Найди тонкую ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка с прилагательным: порядок, позиция, форма compound, прилагательное в роли существительного или пунктуация. Исправь её и отправь предложение целиком."
+hints:
+  - "Число + существительное в compound — в единственном числе: a two-hour delay."
+  - "the rich, the elderly, the Swiss — множественное число; the unknown — единственное."
+  - "Два classifying одного типа соединяются and."
+items:
+  - q: "We crept past the room so as not to wake the asleep toddler."
+    answers: ["We crept past the room so as not to wake the sleeping toddler."]
+    explain: "*asleep* не ставится перед существительным. Перед ним — **sleeping**."
+  - q: "He turned up to the interview in a leather black jacket."
+    answers: ["He turned up to the interview in a black leather jacket."]
+    explain: "Describing (цвет) идёт раньше classifying (материал): *a **black leather** jacket*."
+  - q: "The hotel is a ten-minutes walk from the station."
+    answers: ["The hotel is a ten-minute walk from the station.", "The hotel is ten minutes' walk from the station."]
+    explain: "В compound adjective существительное стоит в единственном числе: *a **ten-minute** walk*. Другой вариант — притяжательная форма без артикля: *ten minutes' walk*."
+  - q: "Rising rents hit the poors hardest."
+    answers: ["Rising rents hit the poor hardest.", "Rising rents hit poor people hardest."]
+    explain: "*the poor* — группа людей: без *-s*, но во множественном числе по смыслу."
+  - q: "The Swiss has a long tradition of political neutrality."
+    answers: ["The Swiss have a long tradition of political neutrality."]
+    explain: "*the Swiss* = швейцарцы как народ → глагол во множественном: **have**."
+  - q: "It was a planned-well campaign, and it paid off."
+    answers: ["It was a well-planned campaign, and it paid off.", "It was a well planned campaign, and it paid off."]
+    explain: "В compound adjective наречие стоит **перед** причастием: *well-planned* (= planned well)."
+  - q: "Did the inspectors find unusual anything during the audit?"
+    answers: ["Did the inspectors find anything unusual during the audit?"]
+    explain: "Прилагательное после неопределённого местоимения: *anything **unusual***."
+  - q: "The unknown frighten most people more than danger itself."
+    answers: ["The unknown frightens most people more than danger itself."]
+    explain: "*the unknown* — абстрактное понятие, единственное число: **frightens**."
+  - q: "The committee discussed several legal financial issues."
+    answers: ["The committee discussed several legal and financial issues."]
+    explain: "Два classifying-прилагательных одного типа соединяются **and**: *legal and financial issues*."
+  - q: "Our team dealt with an alike problem last year."
+    answers: ["Our team dealt with a similar problem last year."]
+    explain: "*alike* стоит только после связки (*The two problems are alike*). Перед существительным — **similar**."
+  - q: "The figures for the third quarter were deeply disappointed."
+    answers: ["The figures for the third quarter were deeply disappointing."]
+    explain: "Цифры — источник чувства, а не тот, кто его испытывает: **disappointing**."

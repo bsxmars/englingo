@@ -1,0 +1,41 @@
+title: "Ability, permission, possibility: найди ошибку"
+type: error
+intro: "В каждом предложении **одна** тонкая ошибка в выборе или форме модального глагола. Исправь её и отправь предложение целиком."
+hints:
+  - "Одно успешное действие в прошлом — was able to / managed to, не could."
+  - "Конкретное предположение — could / may / might, не can."
+  - "Где модальный невозможен (после will, в перфекте, в инфинитиве), нужен be able to."
+items:
+  - q: "After three hours of negotiations, they could finally reach an agreement."
+    answers: ["After three hours of negotiations, they were finally able to reach an agreement.", "After three hours of negotiations, they were able to finally reach an agreement.", "After three hours of negotiations, they finally managed to reach an agreement.", "After three hours of negotiations, they managed to finally reach an agreement.", "After three hours of negotiations, they finally reached an agreement."]
+    explain: "Одно конкретное успешное действие в прошлом → **were able to / managed to**. *could* описывает общее умение, а не удачу в одном случае."
+  - q: "I'm smelling something burning — did you leave the oven on?"
+    answers: ["I can smell something burning — did you leave the oven on?", "I smell something burning — did you leave the oven on?"]
+    explain: "Глаголы восприятия почти не бывают в Continuous; по-английски «чувствую запах» — **I can smell**."
+  - q: "I haven't could sleep properly since we moved."
+    answers: ["I haven't been able to sleep properly since we moved."]
+    explain: "У *can* нет перфекта → **haven't been able to**."
+  - q: "The parcel can be with a neighbour — try next door."
+    answers: ["The parcel could be with a neighbour — try next door.", "The parcel may be with a neighbour — try next door.", "The parcel might be with a neighbour — try next door."]
+    explain: "Конкретное предположение — **could / may / might**. *can* говорит лишь об общей возможности («так бывает»)."
+  - q: "You can have been killed — why weren't you wearing a helmet?"
+    answers: ["You could have been killed — why weren't you wearing a helmet?", "You might have been killed — why weren't you wearing a helmet?"]
+    explain: "Нереализованная опасность в прошлом → **could / might have been** + V3. *can have* в утвердительных предложениях не используется."
+  - q: "Because the meeting finished early, I could catch the 5:15 train."
+    answers: ["Because the meeting finished early, I was able to catch the 5:15 train.", "Because the meeting finished early, I managed to catch the 5:15 train.", "Because the meeting finished early, I caught the 5:15 train."]
+    explain: "Речь об одном удачном случае → **was able to / managed to catch**. *I could catch* звучит как общая возможность, а не факт."
+  - q: "That mightn't be Anna at the door — she's in Tokyo this week."
+    answers: ["That can't be Anna at the door — she's in Tokyo this week.", "That cannot be Anna at the door — she's in Tokyo this week.", "That couldn't be Anna at the door — she's in Tokyo this week."]
+    explain: "Говорящий уверен (она в Токио) → **can't**. *mightn't / may not* — лишь «возможно, нет»."
+  - q: "In the 1800s, a letter to Australia can take three months to arrive."
+    answers: ["In the 1800s, a letter to Australia could take three months to arrive.", "In the 1800s, a letter to Australia might take three months to arrive."]
+    explain: "Типичная возможность **в прошлом** → **could** (или *might*): «так бывало»."
+  - q: "I'd love to can speak Japanese fluently one day."
+    answers: ["I'd love to be able to speak Japanese fluently one day."]
+    explain: "У *can* нет инфинитива → **to be able to speak**."
+  - q: "Visitors may not to use flash photography in the gallery."
+    answers: ["Visitors may not use flash photography in the gallery."]
+    explain: "После *may* (как после любого модального) — голый инфинитив: **may not use**."
+  - q: "Are you being able to hear me clearly now?"
+    answers: ["Are you able to hear me clearly now?", "Can you hear me clearly now?"]
+    explain: "*be able to* не употребляется в длительной форме: **Are you able to hear / Can you hear** me?"

@@ -1,0 +1,55 @@
+title: "Предлог + существительное"
+type: choice
+intro: "Выбери устойчивое сочетание, которое подходит по смыслу."
+hints:
+  - "by mistake / by chance — случайно, on purpose — нарочно."
+  - "in the end — в итоге, at the end of — в конце чего-то; on the way — по дороге, in the way — мешает."
+items:
+  - q: "Sorry, I deleted your file ___ mistake."
+    options: ["by", "on", "in"]
+    answer: 0
+    explain: "**by mistake** — по ошибке. Так же *by accident, by chance*."
+  - q: "He didn't break the window by accident — he did it ___ purpose."
+    options: ["by", "with", "on"]
+    answer: 2
+    explain: "**on purpose** — нарочно, специально. Противоположность *by accident*."
+  - q: "It's only ten minutes from here ___ foot."
+    options: ["by", "on", "with"]
+    answer: 1
+    explain: "Пешком — **on foot**. Не ~~by foot~~, хотя остальной транспорт идёт с *by*: *by bus, by car*."
+  - q: "I'm away ___ business next week, so let's meet the week after."
+    options: ["on", "in", "at"]
+    answer: 0
+    explain: "**on business** — в командировке, по делам; так же *on holiday, on a trip*."
+  - q: "It took us ages to decide, but ___ we chose the blue sofa."
+    options: ["at the end", "in the end", "by the end"]
+    answer: 1
+    explain: "«В конце концов, в итоге» → **in the end**. *at the end* требует *of*: *at the end of the day*."
+  - q: "Could you move your suitcase, please? It's ___."
+    options: ["on the way", "by the way", "in the way"]
+    answer: 2
+    explain: "Мешает пройти → **in the way**."
+  - q: "I'll pick up some milk ___ home."
+    options: ["in the way", "on the way", "by the way"]
+    answer: 1
+    explain: "По дороге → **on the way** (home / to work)."
+  - q: "Tickets sell out fast, so you'd better book them ___."
+    options: ["in advance", "on advance", "by advance"]
+    answer: 0
+    explain: "Заранее → **in advance**."
+  - q: "___, I like the plan, but there are a few details we need to discuss."
+    options: ["In the whole", "On the whole", "At the whole"]
+    answer: 1
+    explain: "В целом → **On the whole** (или *In general*)."
+  - q: "The house next door is ___ — maybe we should buy it!"
+    options: ["on sale", "in sale", "for sale"]
+    answer: 2
+    explain: "Продаётся (владелец ищет покупателя) → **for sale**. *on sale* — товар продаётся в магазинах или идёт со скидкой."
+  - q: "Your passport is ___, so you'll need a new one before the trip."
+    options: ["out of date", "out of time", "over date"]
+    answer: 0
+    explain: "Просроченный, устаревший → **out of date**. Противоположность — *up to date*."
+  - q: "___, social media does more harm than good."
+    options: ["In my point of view", "In my opinion", "On my opinion"]
+    answer: 1
+    explain: "**In my opinion** или *from my point of view*. Смешанные варианты — ошибка."

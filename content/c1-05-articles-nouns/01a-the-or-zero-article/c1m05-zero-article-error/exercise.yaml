@@ -1,0 +1,43 @@
+title: "Лишний или пропущенный the"
+type: error
+intro: "В каждом предложении **одна** ошибка: лишний артикль или пропущенный. Исправь её и отправь предложение целиком (британский вариант)."
+hints:
+  - "Проверь названия: есть ли в них of, множественное число, нарицательное слово (river, sea, museum)?"
+  - "Устойчивые формулы (by car, at night, face to face) артикля не берут."
+items:
+  - q: "Netherlands has one of the highest population densities in Europe."
+    answers: ["The Netherlands has one of the highest population densities in Europe."]
+    explain: "Название во множественном числе — с *the*: **The Netherlands**, *the Philippines, the Bahamas*."
+  - q: "We took a boat trip along the Danube and then flew to the Lake Como."
+    answers: ["We took a boat trip along the Danube and then flew to Lake Como."]
+    explain: "Реки — с *the* (*the Danube*), но *Lake* + имя — без артикля: **Lake Como**."
+  - q: "She got a place at University of Bristol to study medicine."
+    answers: ["She got a place at the University of Bristol to study medicine.", "She got a place at Bristol University to study medicine."]
+    explain: "Название с *of* требует *the*: **the University of Bristol**. Вариант без *of* — *Bristol University*, без артикля."
+  - q: "The suspect was sent to the prison for six months for dangerous driving."
+    answers: ["The suspect was sent to prison for six months for dangerous driving."]
+    explain: "Его отправили отбывать срок — функция учреждения: *sent to* **prison** без артикля."
+  - q: "Most of the commuters in the city now travel to work by the bike."
+    answers: ["Most of the commuters in the city now travel to work by bike."]
+    explain: "Способ передвижения — **by bike** без артикля, как *by car, by train*."
+  - q: "The most employees said they would prefer to work from home two days a week."
+    answers: ["Most employees said they would prefer to work from home two days a week.", "Most of the employees said they would prefer to work from home two days a week."]
+    explain: "«Большинство» — **Most employees** или *Most of the employees*. *The most* — только превосходная степень прилагательного."
+  - q: "The two leaders finally met the face to face in Geneva."
+    answers: ["The two leaders finally met face to face in Geneva."]
+    explain: "Повтор существительного с предлогом — устойчивая формула без артиклей: **face to face**."
+  - q: "We stayed at Savoy for our anniversary and it was worth every penny."
+    answers: ["We stayed at the Savoy for our anniversary and it was worth every penny."]
+    explain: "Названия гостиниц — с *the*: **the Savoy**, *the Ritz, the Hilton*."
+  - q: "He spent ten years in Brussels working for the NATO before joining the EU."
+    answers: ["He spent ten years in Brussels working for NATO before joining the EU."]
+    explain: "Акроним, который читается как слово, — без артикля: **NATO**, *UNESCO*. Аббревиатура по буквам — с *the*: *the EU*."
+  - q: "My father works at night and sleeps during day."
+    answers: ["My father works at night and sleeps during the day."]
+    explain: "*at night* — устойчивая формула без артикля, а *during* требует *the*: **during the day**."
+  - q: "She was appointed the head of the research team at the age of thirty-two."
+    answers: ["She was appointed head of the research team at the age of thirty-two."]
+    explain: "Уникальная должность после *appoint, elect, become* обычно идёт без артикля: *appointed* **head of**."
+  - q: "We met in Lisbon in 2015 and got married the next year in the Scotland."
+    answers: ["We met in Lisbon in 2015 and got married the next year in Scotland."]
+    explain: "Страна-одиночное имя — без артикля: **Scotland**. *the next year* — правильно: отсчёт от 2015, а не от «сейчас»."

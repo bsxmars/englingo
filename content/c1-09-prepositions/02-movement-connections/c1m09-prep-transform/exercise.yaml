@@ -1,0 +1,63 @@
+title: "Перефразирование (C1 Advanced, Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово** без изменений и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "Исключения: with the exception of, except (for), apart from; добавление: in addition to + -ing."
+  - "Срок → by; «не раньше» → not … until."
+items:
+  - q: "Everyone signed the petition apart from Tom."
+    key: "EXCEPTION"
+    stem: "Everyone signed the petition ___ ."
+    answers: ["with the exception of Tom"]
+    explain: "**with the exception of** — формальный синоним *except (for)*, любимая трансформация C1."
+  - q: "The hotel was expensive, and it was also badly located."
+    key: "ADDITION"
+    stem: "___ expensive, the hotel was badly located."
+    answers: ["In addition to being"]
+    explain: "**in addition to** — предлог, после него герундий: *In addition to being…* ~~In addition to be~~ — ошибка."
+  - q: "The flooding was caused by a week of heavy rain."
+    key: "RESULT"
+    stem: "The flooding occurred ___ a week of heavy rain."
+    answers: ["as a result of", "as the result of", "as a direct result of"]
+    explain: "**as a result of** + существительное — составной предлог причины."
+  - q: "You must hand in the essay no later than Friday."
+    key: "BY"
+    stem: "The essay ___ Friday."
+    answers: ["must be handed in by", "has to be handed in by", "needs to be handed in by", "must be submitted by", "has to be submitted by", "must be in by", "should be handed in by", "has to be in by", "is to be handed in by", "is due in by"]
+    explain: "«Не позже» → **by**. Подлежащее — эссе, поэтому пассив: *must be handed in by*."
+  - q: "The shop will reopen on the 15th, not before."
+    key: "UNTIL"
+    stem: "The shop ___ the 15th."
+    answers: ["will not reopen until", "won't reopen until", "will not open again until", "won't open again until", "will remain closed until", "will stay closed until", "is closed until", "will be closed until", "does not reopen until", "doesn't reopen until", "will not be open until", "won't be open until", "will not be reopening until", "won't be reopening until", "is not reopening until", "isn't reopening until", "is not opening again until", "will not be open again until", "won't be open again until"]
+    explain: "«Не раньше 15-го» → **not … until** или *remain closed until*."
+  - q: "I don't know anything about that software."
+    key: "FAMILIAR"
+    stem: "I'm ___ that software."
+    answers: ["not familiar with", "not at all familiar with", "not in the least familiar with", "not remotely familiar with"]
+    explain: "**familiar with** — знаком с чем-то. ~~familiar to~~ значит другое: *This tune is familiar to me* (мне знаком)."
+  - q: "She paid using her credit card."
+    key: "BY"
+    stem: "She ___ card."
+    answers: ["paid by credit"]
+    explain: "Способ оплаты без артикля → **by credit card**. С местоимением было бы *with her credit card*."
+  - q: "Only the committee members came to the meeting."
+    key: "EXCEPT"
+    stem: "Nobody ___ the committee members."
+    answers: ["came to the meeting except", "came to the meeting except for", "came except", "came except for", "turned up except", "turned up except for", "attended the meeting except", "attended except", "attended the meeting except for", "attended except for"]
+    explain: "После *nobody* — **except (for)**: исключаем одну группу из общего отрицания."
+  - q: "The government has made it illegal to sell fireworks to under-18s."
+    key: "BAN"
+    stem: "There is now ___ fireworks to under-18s."
+    answers: ["a ban on selling", "a ban on the sale of", "a ban on sales of", "a government ban on selling"]
+    explain: "**a ban on** + -ing или существительное. ~~a ban to sell~~ — ошибка."
+  - q: "Several side effects can come with this medication."
+    key: "ASSOCIATED"
+    stem: "Several side effects ___ this medication."
+    answers: ["are associated with", "can be associated with", "have been associated with", "are known to be associated with"]
+    explain: "**associated with** — связанный с. Тот же предлог у *connected with, linked with* (и *linked to*)."
+  - q: "Russian is the only language she speaks."
+    key: "BESIDES"
+    stem: "She doesn't speak ___ Russian."
+    answers: ["any languages besides", "any other languages besides", "any language besides", "any other language besides"]
+    explain: "В **отрицании** *besides* = «кроме»: *She doesn't speak any languages besides Russian.*"

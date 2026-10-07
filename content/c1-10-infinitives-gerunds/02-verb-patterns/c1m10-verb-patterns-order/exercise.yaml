@@ -1,0 +1,34 @@
+title: "Собери предложение"
+type: order
+intro: "Собери предложение по-английски из данных слов. Следи, где стоит объект и где *not*."
+hints:
+  - "Объект стоит между глаголом и инфинитивом: advise you not to sign."
+  - "Наречия частотности и ever стоят перед смысловым глаголом или герундием."
+items:
+  - q: "Совет: «Я бы посоветовал вам не подписывать контракт сразу»."
+    answers: ["I would advise you not to sign the contract immediately", "I would advise you not to immediately sign the contract"]
+    explain: "*advise* + объект + *not to do*. Отрицание стоит перед *to*."
+  - q: "Протокол допроса: «Он отрицал, что когда-либо встречался с ней»."
+    answers: ["He denied ever having met her", "He denied having ever met her"]
+    explain: "*deny* + перфектный герундий; *ever* может стоять до *having* или после него."
+  - q: "Воспоминание: «Я помню, как мама читала мне вслух»."
+    answers: ["I remember my mother reading aloud to me", "I remember my mother reading to me aloud"]
+    explain: "*remember* + объект + *-ing* — воспоминание о чужом действии в прошлом."
+  - q: "Объявление: «Посетителям не разрешается фотографировать внутри собора»."
+    answers: ["Visitors are not allowed to take photos inside the cathedral", "Inside the cathedral visitors are not allowed to take photos"]
+    explain: "В пассиве *allow* берёт инфинитив: *are not allowed **to take***."
+  - q: "Разговор о повышении: «Если принять это предложение, придётся работать по выходным»."
+    answers: ["Accepting the offer would mean working at weekends"]
+    explain: "Герундий-подлежащее *Accepting the offer* + *mean doing* = «повлечёт за собой»."
+  - q: "Наблюдение: «Я заметил, как кто-то вышел из здания» (одно законченное действие)."
+    answers: ["I noticed someone leave the building"]
+    explain: "Глагол восприятия + объект + голый инфинитив → действие целиком."
+  - q: "Совет другу: «Тебе нужно перестать пытаться угодить всем»."
+    answers: ["You need to stop trying to please everyone"]
+    explain: "*need to do* → *stop doing* (прекратить) → *try to do* (стараться). Три модели подряд."
+  - q: "Письмо: «Я бы предпочёл, чтобы вы не упоминали об этом на собрании»."
+    answers: ["I would rather you didn't mention this at the meeting", "I would rather you did not mention this at the meeting"]
+    explain: "*would rather* + другое подлежащее + прошедшее время: *you didn't mention*."
+  - q: "Отзыв: «Со временем я начал ценить её прямоту»."
+    answers: ["I gradually came to appreciate her directness", "Gradually I came to appreciate her directness", "I came to appreciate her directness gradually"]
+    explain: "*come to do* — «со временем начать»: *came to appreciate*."

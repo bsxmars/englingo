@@ -1,0 +1,51 @@
+title: "Какая формула подходит?"
+type: choice
+intro: "Выбери вариант, который грамматически верен и звучит естественно и вежливо в этой ситуации."
+hints:
+  - "Просьба к незнакомому — Could you…? / Would you mind + -ing?"
+  - "Would you like…? — предложение; Do you like…? — «нравится ли вообще»."
+items:
+  - q: "You're lost in a city and stop a stranger: ___"
+    options: ["Tell me the way to the station.", "Excuse me, could you tell me the way to the station?", "Excuse me, would you mind to tell me the way to the station?"]
+    answer: 1
+    explain: "Незнакомому человеку — вежливая просьба **Could you…?** Повелительное наклонение звучит как приказ, а после *mind* нужен *-ing*, не инфинитив."
+  - q: "That box looks heavy. ___ help you with it?"
+    options: ["Shall I", "Will I", "Do I"]
+    answer: 0
+    explain: "Предлагаем свою помощь → **Shall I…?** (или *Can I…?*). *Will I…?* — вопрос о будущем, а не предложение."
+  - q: "— Shall I open the window for you? — ___"
+    options: ["Oh, thanks, that's kind of you.", "No, not at all.", "Yes, you shall."]
+    answer: 0
+    explain: "На предложение помощи благодарим: **Thanks, that's kind of you**. *No, not at all* — ответ на *Would you mind…?*, а *Yes, you shall* так не говорят."
+  - q: "It's such a lovely day. ___ going for a walk by the river?"
+    options: ["How about", "Why don't we", "Let's"]
+    answer: 0
+    explain: "После пропуска стоит *going* → **How about + -ing**. После *Why don't we* и *Let's* нужен инфинитив без *to*: *go*."
+  - q: "I'm bored. ___ we watch a film?"
+    options: ["Why don't", "How about", "Let's"]
+    answer: 0
+    explain: "**Why don't we + инфинитив?** — предложение сделать что-то вместе. *How about* требует *-ing*, а *Let's* не бывает вопросом с *we*."
+  - q: "— ___ a piece of cake? — Yes, please. It looks delicious."
+    options: ["Would you like", "Do you like", "Will you like"]
+    answer: 0
+    explain: "Предлагаем угощение прямо сейчас → **Would you like…?** *Do you like cake?* — «ты любишь торт?» вообще."
+  - q: "— ___ jazz? — Not really. I prefer rock."
+    options: ["Would you like", "Do you like", "Shall you like"]
+    answer: 1
+    explain: "Спрашиваем о вкусах вообще → **Do you like…?** *Would you like jazz?* прозвучало бы как предложение «дать» джаз."
+  - q: "— Would you mind holding my coffee for a second? — ___ Give it to me."
+    options: ["Not at all.", "Yes, I would.", "Yes, I mind."]
+    answer: 0
+    explain: "*mind* = «возражать». Согласие — **Not at all** («совсем не возражаю»). *Yes, I would* означало бы отказ — и не вяжется с *Give it to me*."
+  - q: "I've asked him three times, but he ___ listen to me."
+    options: ["won't", "doesn't want", "shan't"]
+    answer: 0
+    explain: "Упорный отказ в настоящем → **won't**. *doesn't want* требует *to*, а *shan't* — только с *I/we*."
+  - q: "We pushed and pulled, but the door ___ open."
+    options: ["wouldn't", "didn't want", "couldn't to"]
+    answer: 0
+    explain: "Отказ в прошлом, даже у предмета, → **wouldn't**: «никак не открывалась». *didn't want* требует *to*, а после *couldn't* *to* не ставится."
+  - q: "Waiter: Are you ready to order? — Yes, ___ the chicken salad, please."
+    options: ["I'll have", "I want", "I have"]
+    answer: 0
+    explain: "В кафе заказывают через **I'll have** или *I'd like*. *I want* звучит слишком прямо, а *I have* значит «у меня есть»."

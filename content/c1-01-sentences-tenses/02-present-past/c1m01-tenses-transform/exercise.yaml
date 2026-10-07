@@ -1,0 +1,66 @@
+title: "Перефразирование: времена (C1 Advanced, Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+
+  Это Part 4 экзамена C1 Advanced: каждая трансформация проверяет сразу грамматику и лексику.
+hints:
+  - "«Давно не…» = haven't + V3 + for; «последний раз… когда» = haven't + V3 + since."
+  - "Действие до момента в прошлом → had + V3 или had been + -ing."
+  - "Вежливая просьба → I was wondering if…"
+items:
+  - q: "It's ages since I last spoke to Tom."
+    key: "FOR"
+    stem: "I ___ ages."
+    answers: ["haven't spoken to Tom for", "have not spoken to Tom for", "haven't spoken to him for", "have not spoken to him for", "haven't talked to Tom for", "haven't talked to him for", "have not talked to Tom for", "have not talked to him for"]
+    explain: "*It's ages since I last…* = *I **haven't spoken to Tom for** ages* — отрицательный Present Perfect + *for* с периодом."
+  - q: "This is the first time I have ever tasted durian."
+    key: "NEVER"
+    stem: "I ___ durian before."
+    answers: ["have never tasted", "have never eaten", "have never tried"]
+    explain: "«Первый раз» = «никогда раньше»: **have never tasted** durian before. Время сохраняем — Present Perfect."
+  - q: "She started working on the report at 9 a.m. and she's still doing it."
+    key: "BEEN"
+    stem: "She ___ since 9 a.m."
+    answers: ["has been working on the report", "has been working on it", "has been writing the report", "has been doing the report"]
+    explain: "Начала в прошлом и продолжает → Present Perfect Continuous: **has been working on the report** since 9 a.m."
+  - q: "The film started before we got to the cinema."
+    key: "ALREADY"
+    stem: "When we got to the cinema, the film ___."
+    answers: ["had already started", "had started already", "had already begun"]
+    explain: "Фильм начался **до** нашего прихода → Past Perfect: **had already started**. Без *had* смысл был бы «начался, когда мы пришли»."
+  - q: "He's normally polite, so I don't understand his rudeness today."
+    key: "BEING"
+    stem: "I don't understand why ___ so rude today."
+    answers: ["he is being", "he's being"]
+    explain: "Временное поведение → *be* в Continuous: **he is being** so rude. Порядок слов прямой: это косвенный вопрос после *why*."
+  - q: "I last saw her when she moved to Canada."
+    key: "SINCE"
+    stem: "I ___ she moved to Canada."
+    answers: ["haven't seen her since", "have not seen her since"]
+    explain: "*I last saw her when…* = *I **haven't seen her since**…* — точка отсчёта выражена придаточным после *since*."
+  - q: "When we were kids, we often went fishing with Dad on Sundays."
+    key: "WOULD"
+    stem: "When we were kids, we ___ fishing with Dad on Sundays."
+    answers: ["would often go", "would go", "would usually go", "would always go"]
+    explain: "Повторяющееся действие в прошлом → **would** + глагол: *we **would often go** fishing*. *go* — действие, поэтому *would* уместно (с состояниями — только *used to*)."
+  - q: "How long is it since you joined the company?"
+    key: "WORKED"
+    stem: "How long ___ the company?"
+    answers: ["have you worked for", "have you worked at", "have you worked in", "have you worked with"]
+    explain: "*How long is it since…?* → *How long **have you worked for** the company?* — Present Perfect с вопросом о длительности до сих пор."
+  - q: "I'd like to ask if you could lend me your notes."
+    key: "WONDERING"
+    stem: "I ___ you could lend me your notes."
+    answers: ["was wondering if", "was wondering whether", "am wondering if", "am wondering whether", "have been wondering if", "have been wondering whether"]
+    explain: "Вежливая просьба → **I was wondering if**… Past Continuous делает её мягче, чем *I'd like to ask*."
+  - q: "He came in after we had finished dinner."
+    key: "TIME"
+    stem: "By ___ in, we had finished dinner."
+    answers: ["the time he came"]
+    explain: "*By the time* + Past Simple в придаточном, Past Perfect в главном: **By the time he came in**, we had finished dinner."
+  - q: "Her eyes were red because she'd spent the whole evening crying."
+    key: "BEEN"
+    stem: "Her eyes were red because she ___ the whole evening."
+    answers: ["had been crying", "had been crying for"]
+    explain: "Длительный процесс до момента в прошлом с видимым следом → Past Perfect Continuous: **had been crying**."

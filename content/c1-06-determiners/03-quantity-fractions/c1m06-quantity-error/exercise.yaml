@@ -1,0 +1,41 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка в квантификаторе, умножителе или согласовании. Исправь её и отправь предложение целиком."
+hints:
+  - "a great deal of — только с неисчисляемыми; fewer — с исчисляемыми, less — с неисчисляемыми и мерами."
+  - "После дроби и процента глагол согласуется с существительным после of."
+  - "twice as … as; three times the size of."
+items:
+  - q: "A great deal of people turned up for the opening of the exhibition."
+    answers: ["A great many people turned up for the opening of the exhibition.", "A large number of people turned up for the opening of the exhibition.", "A lot of people turned up for the opening of the exhibition.", "A great number of people turned up for the opening of the exhibition.", "A good many people turned up for the opening of the exhibition."]
+    explain: "*a great deal of* — только с неисчисляемыми. С *people* — **a great many** или *a large number of*."
+  - q: "Two-thirds of the budget are spent on salaries."
+    answers: ["Two-thirds of the budget is spent on salaries."]
+    explain: "Глагол согласуется с существительным после *of*: *budget* — единственное число, значит **is**."
+  - q: "There were less complaints this year than last year."
+    answers: ["There were fewer complaints this year than last year."]
+    explain: "*complaints* — исчисляемое во множественном числе, в формальном английском нужно **fewer**."
+  - q: "The new stadium is three times the size than the old one."
+    answers: ["The new stadium is three times the size of the old one."]
+    explain: "Конструкция с существительным — **three times the size of**. *than* здесь невозможно: сравнительной степени нет."
+  - q: "Many a student have struggled with this module."
+    answers: ["Many a student has struggled with this module."]
+    explain: "*many a* + ед. ч. требует глагола в **единственном** числе: *Many a student has struggled*."
+  - q: "Exports grew twice as fast than imports last year."
+    answers: ["Exports grew twice as fast as imports last year."]
+    explain: "Умножитель + *as … as*: **twice as fast as**. *than* — только после сравнительной степени."
+  - q: "We had to walk fewer than five miles to the nearest village."
+    answers: ["We had to walk less than five miles to the nearest village."]
+    explain: "Расстояние воспринимается как одно количество, а не как отдельные мили, поэтому **less than five miles**."
+  - q: "She spent many of the year travelling around South-East Asia."
+    answers: ["She spent much of the year travelling around South-East Asia.", "She spent most of the year travelling around South-East Asia."]
+    explain: "«Большая часть» + единственное число — **much of the year**. *many of* требует множественного числа."
+  - q: "The number of reported thefts have risen sharply since January."
+    answers: ["The number of reported thefts has risen sharply since January."]
+    explain: "Подлежащее — *the number* («количество»), поэтому **has**. Множественное было бы после *a number of* («несколько»)."
+  - q: "Little people realise how much water it takes to produce a single cotton T-shirt."
+    answers: ["Few people realise how much water it takes to produce a single cotton T-shirt.", "Few people realize how much water it takes to produce a single cotton T-shirt."]
+    explain: "*people* — исчисляемое, значит **few** («мало кто»). *little* — для неисчисляемых: *little water*."
+  - q: "This year there were double as many applicants as last year."
+    answers: ["This year there were twice as many applicants as last year."]
+    explain: "В конструкции *as many as* умножитель — **twice**. *double* употребляется иначе: *double the number of applicants*."

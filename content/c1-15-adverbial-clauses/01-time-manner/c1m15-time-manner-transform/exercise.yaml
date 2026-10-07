@@ -1,0 +1,64 @@
+title: "Перефразирование: время и образ действия (C1 Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы смысл совпал с первым. Используй **ключевое слово** без изменений и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "No sooner / Hardly в начале → инверсия had + подлежащее + V3."
+  - "as if / as though + were для нереального сравнения."
+  - "by the time, once, until — будущее выражается настоящим временем."
+items:
+  - q: "As soon as she arrived home, the phone rang."
+    key: "SOONER"
+    stem: "No ___ the phone rang."
+    answers: ["sooner had she arrived home than", "sooner had she got home than", "sooner had she gotten home than", "sooner had she reached home than"]
+    explain: "**No sooner + had + подлежащее + V3 + than**: Past Perfect для первого события и инверсия после фронтированного *no sooner*."
+  - q: "The minute I saw his face, I knew something was wrong."
+    key: "HARDLY"
+    stem: "___ I knew something was wrong."
+    answers: ["Hardly had I seen his face when", "Hardly had I seen his face before"]
+    explain: "**Hardly had I seen… when**: тот же смысл «едва… как», но пара с *when* (или *before*), не с *than*."
+  - q: "I'll call you when I've finished the report."
+    key: "ONCE"
+    stem: "I'll call you ___ the report."
+    answers: ["once I have finished", "once I finish", "once I have done", "once I have completed", "once I complete"]
+    explain: "**once** = «как только, после того как»; будущее — Present Perfect или Present Simple, без *will*."
+  - q: "The film had already started when we got to the cinema."
+    key: "TIME"
+    stem: "By ___ the cinema, the film had already started."
+    answers: ["the time we got to", "the time we arrived at", "the time we reached"]
+    explain: "**by the time** + Past Simple, в главной части — Past Perfect: к моменту прихода действие уже завершилось."
+  - q: "He treats me like a child."
+    key: "WERE"
+    stem: "He treats me ___ child."
+    answers: ["as if I were a", "as though I were a"]
+    explain: "Нереальное сравнение → **as if / as though + were**. *were* для всех лиц — формальный и экзаменационный вариант."
+  - q: "It looks like it's going to rain."
+    key: "AS"
+    stem: "It looks ___ going to rain."
+    answers: ["as if it is", "as though it is", "as if it's", "as though it's"]
+    explain: "Разговорное *looks like + придаточное* в нейтральном и письменном стиле → **as if / as though**. Дождь вероятен, поэтому время обычное, не *were*."
+  - q: "Things didn't happen in the way we had expected."
+    key: "TURN"
+    stem: "Things didn't ___ we had expected."
+    answers: ["turn out as", "turn out the way", "turn out quite as", "turn out exactly as", "turn out how"]
+    explain: "**turn out as / the way** = «получиться так, как». *as* здесь — союз образа действия."
+  - q: "Last summer was much hotter than this one."
+    key: "SO"
+    stem: "This summer isn't ___ last summer."
+    answers: ["so hot as", "nearly so hot as", "quite so hot as", "anywhere near so hot as"]
+    explain: "В отрицании сравнение можно строить через **not so… as** (= *not as… as*). *nearly* усиливает разрыв, как *much* в исходнике."
+  - q: "She started crying the moment she read the letter."
+    key: "INSTANT"
+    stem: "The ___ the letter, she started crying."
+    answers: ["instant she read", "instant that she read", "instant she had read", "instant that she had read"]
+    explain: "**the instant (that)** = *the moment* = *as soon as*: союз, после которого сразу подлежащее и сказуемое."
+  - q: "I haven't seen Marta since we left school."
+    key: "LAST"
+    stem: "The ___ was when we left school."
+    answers: ["last time I saw Marta", "last time I saw her", "last time I had seen Marta"]
+    explain: "*haven't… since* ↔ **The last time I saw… was when…**: классическая пара для Part 4."
+  - q: "We'll wait here until the rain stops."
+    key: "UNTIL"
+    stem: "We won't leave ___ stopped."
+    answers: ["until the rain has", "until the rain's"]
+    explain: "*not… until* = «только когда». В придаточном времени — Present Perfect: *until the rain **has stopped***."

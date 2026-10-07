@@ -1,0 +1,51 @@
+title: "Выбери правильный вариант"
+type: choice
+intro: "Выбери единственный правильный вариант."
+hints:
+  - "let не используется в пассиве — вместо него be allowed to."
+  - "enough — после прилагательного, но перед существительным."
+items:
+  - q: "The teacher made us ___ the whole chapter again."
+    options: ["to read", "read", "reading"]
+    answer: 1
+    explain: "После **make + объект** — голый инфинитив: *made us read*."
+  - q: "Passengers are not ___ to smoke on board."
+    options: ["let", "allowed", "made"]
+    answer: 1
+    explain: "Пассив «не разрешено» → **are not allowed to**. *Let* в пассиве не используется."
+  - q: "She isn't ___ to go to the club."
+    options: ["enough old", "old enough", "too old enough"]
+    answer: 1
+    explain: "**enough** ставится после прилагательного: *old enough*."
+  - q: "We didn't have ___ the tickets."
+    options: ["money enough for buy", "enough money to buy", "enough money for buy"]
+    answer: 1
+    explain: "**enough** перед существительным + **to**: *enough money to buy*."
+  - q: "This box is ___ for me to lift."
+    options: ["too heavy", "so heavy", "heavy enough"]
+    answer: 0
+    explain: "«Слишком тяжёлая, чтобы я поднял» → **too heavy for me to lift**. *heavy enough* значило бы «достаточно тяжёлая» — противоположный смысл."
+  - q: "Her parents finally ___ her go to the concert alone."
+    options: ["let", "allowed", "permitted"]
+    answer: 0
+    explain: "После объекта стоит голый инфинитив *go* → только **let**. *allowed / permitted* потребовали бы *to go*."
+  - q: "The bad weather ___ us to turn back."
+    options: ["made", "let", "forced"]
+    answer: 2
+    explain: "После объекта стоит *to turn* → **forced**. *made* и *let* требуют глагол без *to*."
+  - q: "This software is very easy ___ ."
+    options: ["to install", "to install it", "installing it"]
+    answer: 0
+    explain: "*easy to install* — объект (*this software*) уже стоит в начале, *it* в конце лишнее."
+  - q: "He was made ___ for the damage."
+    options: ["pay", "to pay", "paying"]
+    answer: 1
+    explain: "Пассив *be made* + **to**: *was made to pay*."
+  - q: "Can you get your brother ___ us with the move?"
+    options: ["help", "to help", "helped"]
+    answer: 1
+    explain: "**get + объект + to** = «уговорить кого-то сделать»."
+  - q: "I was ___ to leave work early because I had a doctor's appointment."
+    options: ["let", "allowed", "make"]
+    answer: 1
+    explain: "«Мне разрешили» в пассиве → **was allowed to**. ~~was let~~ невозможно."

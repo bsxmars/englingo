@@ -1,0 +1,39 @@
+title: "Essay: working from home"
+type: writing
+intro: "Напиши эссе в формате B2 First, Part 1. Используй обе заметки и добавь свою идею. Задача урока — минимум 8 производных слов (существительные на -tion / -ity / -ment / -ness, прилагательные с -ful / -able / -ive / -ous, отрицательные приставки, наречия на -ly)."
+prompt: |
+  In your English class you have been talking about the way people work. Now your teacher has asked you to write an essay.
+
+  **Working from home is better for both employees and companies. Do you agree?**
+
+  Notes — write about:
+
+  1. productivity
+  2. relationships with colleagues
+  3. ........................ (your own idea)
+
+  Write your **essay** in 140–190 words.
+words: [140, 190]
+target_grammar:
+  - "Существительные с суффиксами: productivity, communication, independence, loneliness, improvement"
+  - "Прилагательные с суффиксами и приставками: stressful, valuable, effective, unnecessary, impossible"
+  - "Наречия на -ly: increasingly, efficiently, unfortunately"
+  - "Сочетания с предлогами: an increase in, a lack of, access to"
+checklist:
+  - "Пять абзацев: введение, две идеи из заметок, своя идея, вывод с чёткой позицией."
+  - "Использовано не меньше 8 разных производных слов (с суффиксом или приставкой), без орфографических ошибок."
+  - "Минимум две отрицательные формы с приставкой (un-, in-, im-, dis-…)."
+  - "Абстрактные существительные употреблены с правильными предлогами (increase in, lack of…)."
+  - "Есть связки между абзацами и внутри них."
+  - "Формальный регистр: нет сокращений и разговорных слов."
+  - "Объём 140–190 слов."
+model_answer: |
+  Since the pandemic, working from home has become increasingly common. While many people see it as a positive development, I believe its advantages are not equally shared by employees and companies.
+
+  Firstly, there is evidence that productivity often rises when people work at home. Without long journeys and unnecessary interruptions, employees can concentrate better and organise their time more efficiently. Many also enjoy greater independence and flexibility.
+
+  On the other hand, relationships with colleagues can suffer. Online meetings are useful, but they cannot completely replace informal conversations in the office, which are valuable for creativity and teamwork. As a result, some people experience loneliness, and new employees may find it difficult to learn from more experienced staff.
+
+  Another important issue is mental health. For some workers, the lack of a clear separation between home and work is stressful, and it can become almost impossible to switch off in the evening.
+
+  In conclusion, working from home is not automatically better for everyone. In my opinion, a combination of home and office work is the most effective solution, as it offers the benefits of both.

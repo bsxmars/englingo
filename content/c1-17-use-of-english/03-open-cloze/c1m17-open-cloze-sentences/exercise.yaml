@@ -1,0 +1,43 @@
+title: "Одно слово: предложения"
+type: gap
+intro: "Впиши **одно** слово в каждый пропуск. Сокращения (*didn't*) считаются двумя словами и не подходят."
+hints:
+  - "Смотри не только влево, но и вправо: что требует слово после пропуска?"
+  - "Фиксированные рамки: by far, let alone, no matter how, the more… the more, as much as."
+items:
+  - q: "___ having lived in Madrid for over a decade, she still finds Spanish grammar a struggle."
+    answers: ["despite", "notwithstanding"]
+    explain: "После пропуска — *having lived*, то есть *-ing* без подлежащего. Так работает только предлог **Despite**. *Although* требовал бы подлежащего и глагола."
+  - q: "The village was cut off for a week, during ___ time residents relied on supplies dropped by helicopter."
+    answers: ["which"]
+    explain: "**during which time** — «за это время». Относительное *which* здесь работает как определитель перед *time*."
+  - q: "She is by ___ the most gifted pianist I have ever taught."
+    answers: ["far"]
+    explain: "**by far** + превосходная степень — «безусловно, намного»."
+  - q: "No ___ how hard I try, I just can't get the hang of this software."
+    answers: ["matter"]
+    explain: "**No matter how** — «как бы ни». Синоним одним словом — *However hard I try*."
+  - q: "Hardly ___ the meeting begun when the fire alarm went off."
+    answers: ["had"]
+    explain: "*Hardly* в начале → инверсия с Past Perfect: **Hardly had** the meeting begun **when**…"
+  - q: "The more you practise speaking, the ___ confident you will become."
+    answers: ["more"]
+    explain: "Рамка **the more…, the more…** — «чем больше…, тем…». Второе *more* — сравнительная степень *confident*."
+  - q: "My grandfather insisted ___ paying for everyone's dinner, despite our protests."
+    answers: ["on", "upon"]
+    explain: "**insist on + -ing** — «настаивать на». Формальный вариант — *upon*."
+  - q: "It's high time the council ___ action to repair the roads in this area."
+    answers: ["took"]
+    explain: "**It's high time + Past Simple** — «давно пора». Коллокация *take action* → *took*."
+  - q: "She had never travelled abroad before, let ___ on her own."
+    answers: ["alone"]
+    explain: "**let alone** — «не говоря уже о». После него — сокращённая часть, параллельная первой."
+  - q: "___ it not been for your help, we would never have finished on time."
+    answers: ["had"]
+    explain: "Условие 3-го типа без *if*: **Had it not been for** = *If it hadn't been for*."
+  - q: "The town hall, ___ roof was badly damaged in the storm, has finally been restored."
+    answers: ["whose"]
+    explain: "**whose** — «чей, у которого»: *the town hall whose roof…*. Подходит и для неодушевлённых предметов."
+  - q: "Since the campaign began, sales have risen by as ___ as forty per cent."
+    answers: ["much"]
+    explain: "**as much as** + число — «целых, аж». Подчёркивает, что цифра большая."

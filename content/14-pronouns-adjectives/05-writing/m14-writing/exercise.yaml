@@ -1,0 +1,35 @@
+title: "Review: a museum or exhibition"
+type: writing
+intro: "Напиши отзыв в формате B2 First, Part 2. Нужны заголовок, описание, плюсы и минусы и рекомендация. Используй точные прилагательные и наречия степени."
+prompt: |
+  You see this announcement on an English-language website for visitors to your city:
+
+  > **Reviews wanted!**
+  > Have you visited a **museum, gallery or exhibition** recently? Write a review telling us what you saw, what you **liked and didn't like**, and **who you would recommend it to**.
+  > The best reviews will be published next month.
+
+  Write your **review** in 140–190 words.
+words: [140, 190]
+target_grammar:
+  - "Прилагательные -ed / -ing: bored / boring, fascinated / fascinating"
+  - "Наречия степени: very / extremely с обычными, absolutely / completely с предельными; quite, rather, slightly"
+  - "too / enough + to-infinitive; so / such"
+  - "Прилагательное после связок look, sound, seem; наречия образа действия: beautifully, poorly"
+checklist:
+  - "Есть заголовок, и текст разбит на 4 абзаца: вступление, плюсы, минусы, рекомендация."
+  - "Описано, что именно можно увидеть, — с конкретными деталями."
+  - "Есть и плюсы, и минусы."
+  - "Использовано не меньше трёх пар или форм -ed / -ing без ошибок."
+  - "Использованы минимум четыре разных наречия степени, и ни одного «very» с предельным прилагательным."
+  - "В конце есть рекомендация: кому подойдёт и практический совет."
+  - "Объём 140–190 слов."
+model_answer: |
+  **Small Objects, Big Stories**
+
+  I went to the City Museum's new exhibition, "Everyday Treasures", on a rainy Sunday, expecting a rather boring collection of old kitchen tools. I was completely wrong.
+
+  The exhibition tells the history of ordinary objects — spoons, keys, buttons, toothbrushes — and every one of them comes with a surprising story. What impressed me most was a tiny Roman key, beautifully displayed under a magnifying glass, which was found by two schoolboys in a park. The labels are short and genuinely funny, and there are plenty of things to touch, so I was never bored.
+
+  On the downside, the rooms are quite small, and on the day I went they were far too crowded to move around comfortably. The café was also slightly disappointing: the cakes looked lovely but tasted rather dry.
+
+  Overall, though, it is an absolutely fascinating show, and it is free, which makes it even better. I would highly recommend it to families and anyone who is interested in history. Just make sure you go early on a weekday, when it is quiet enough to read everything properly.

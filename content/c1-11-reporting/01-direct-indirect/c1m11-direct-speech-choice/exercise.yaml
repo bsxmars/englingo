@@ -1,0 +1,77 @@
+title: "Прямая речь: пунктуация и порядок слов"
+type: choice
+intro: "Выбери вариант, оформленный правильно. Пунктуация — британская (одинарные кавычки)."
+hints:
+  - "Запятая и точка — внутри кавычек; после ? и ! запятая не нужна."
+  - "Инверсия said John возможна с существительным, но не с местоимением."
+items:
+  - q: "Какой вариант верен?"
+    options:
+      - "'The results are final,' the chairman said."
+      - "'The results are final', the chairman said."
+      - "'The results are final.' the chairman said."
+    answer: 0
+    explain: "Перед словами автора цитата заканчивается **запятой внутри кавычек**, а не точкой."
+  - q: "Какой вариант верен?"
+    options:
+      - "'Is anyone there?', she called."
+      - "'Is anyone there?' she called."
+      - "'Is anyone there,' she called?"
+    answer: 1
+    explain: "Вопросительный знак уже закрывает цитату, запятая после него не ставится."
+  - q: "Какой вариант верен?"
+    options:
+      - "'We have no comment,' said she."
+      - "'We have no comment,' she said."
+      - "'We have no comment,' said."
+    answer: 1
+    explain: "С местоимением инверсия невозможна: **she said**. *said she* — устаревший или шутливый стиль."
+  - q: "Какой вариант звучит как типичный газетный стиль?"
+    options:
+      - "'We will not be intimidated,' declared the head of the union."
+      - "'We will not be intimidated,' declared he."
+      - "'We will not be intimidated,' the head declared of the union."
+    answer: 0
+    explain: "С длинным подлежащим-существительным в прессе часто используют инверсию: **declared the head of the union**."
+  - q: "Какой вариант верен?"
+    options:
+      - "'If you ask me,' she said, 'It's a terrible idea.'"
+      - "'If you ask me,' she said, 'it's a terrible idea.'"
+      - "'If you ask me', she said, 'it's a terrible idea'."
+    answer: 1
+    explain: "Вторая часть разорванного предложения — со **строчной** буквы, запятые — внутри кавычек."
+  - q: "Какой вариант верен?"
+    options:
+      - "He asked, 'Have you read Middlemarch?'"
+      - "He asked: 'have you read Middlemarch?'"
+      - "He asked 'Have you read Middlemarch'?"
+    answer: 0
+    explain: "Перед цитатой — запятая, цитата с заглавной буквы, вопросительный знак — внутри кавычек."
+  - q: "Цитата внутри цитаты (британский стиль). Какой вариант верен?"
+    options:
+      - "She said, 'Someone had written 'Go home' on the door.'"
+      - "She said, 'Someone had written \"Go home\" on the door.'"
+      - "She said, \"Someone had written \"Go home\" on the door.\""
+    answer: 1
+    explain: "В британском стиле внешние кавычки одинарные, внутренние — **двойные**. В американском — наоборот."
+  - q: "Какой вариант верен?"
+    options:
+      - "'Frankly,' he began, 'I expected better.'"
+      - "'Frankly,' began he, 'I expected better.'"
+      - "'Frankly' he began 'I expected better.'"
+    answer: 0
+    explain: "Слова автора в середине: запятая внутри первой цитаты и запятая после слов автора; инверсии с *he* нет."
+  - q: "Какой вариант — естественная передача мысли?"
+    options:
+      - "I remember thinking, 'This is the worst day of my life.'"
+      - "I remember thinking that, 'This is the worst day of my life.'"
+      - "I remember thinking 'that this was the worst day of my life.'"
+    answer: 0
+    explain: "Мысли можно оформлять как прямую речь — без *that*. *that* вводит косвенную речь и не сочетается с кавычками."
+  - q: "Какой вариант верен?"
+    options:
+      - "'Get out!', shouted the guard."
+      - "'Get out!' shouted the guard."
+      - "'Get out!' the guard shouted him."
+    answer: 1
+    explain: "После восклицательного знака запятая не нужна; инверсия с существительным *the guard* допустима."

@@ -1,0 +1,58 @@
+title: "Трансформации: вопросы, просьбы, советы"
+type: transform
+intro: |
+  Перескажи прямую речь с помощью **ключевого слова**, не меняя его формы. Впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "whether + to do; whether + подлежащее + глагол."
+  - "recommend / insist that + сослагательное или should."
+items:
+  - q: "'Should I accept the job offer or not?' he wondered."
+    key: "WHETHER"
+    stem: "He was wondering ___ the job offer or not."
+    answers: ["whether to accept", "whether he should accept"]
+    explain: "Вопрос с *should* → **whether to accept**, или полное *whether he should accept*."
+  - q: "'Don't touch the exhibits,' the guide told the children."
+    key: "NOT"
+    stem: "The guide told ___ the exhibits."
+    answers: ["the children not to touch"]
+    explain: "*tell* + объект + **not to** do."
+  - q: "'You really must try the local wine,' our host said to us."
+    key: "INSISTED"
+    stem: "Our host ___ the local wine."
+    answers: ["insisted that we try", "insisted that we should try", "insisted we try", "insisted we should try", "insisted on our trying", "insisted on us trying"]
+    explain: "*insist that* + сослагательное (*we try*) / *should try*, или *insist on* + (*our / us*) + *-ing*."
+  - q: "'Where did you buy that jacket?' Tom asked me."
+    key: "KNOW"
+    stem: "Tom wanted ___ that jacket."
+    answers: ["to know where I had bought", "to know where I bought"]
+    explain: "Косвенный вопрос после *wanted to know*: прямой порядок *where I had bought*."
+  - q: "'You should see a lawyer,' she said to him."
+    key: "ADVISED"
+    stem: "She ___ a lawyer."
+    answers: ["advised him to see", "advised him to consult", "advised him that he should see", "advised him to go to"]
+    explain: "*advise* + объект + **to do**."
+  - q: "'Are we allowed to bring our own laptops?' a student asked."
+    key: "WHETHER"
+    stem: "A student asked ___ allowed to bring their own laptops."
+    answers: ["whether they were", "whether or not they were", "whether students were", "whether or not students were"]
+    explain: "Общий вопрос → *whether* + прямой порядок: *whether they were allowed*; *we* → *they*."
+  - q: "'Please, please let me go to the concert,' Ella said to her parents."
+    key: "BEGGED"
+    stem: "Ella ___ let her go to the concert."
+    answers: ["begged her parents to"]
+    explain: "*beg* + объект + **to do**."
+  - q: "'I'm sure we'll win the final,' said the captain."
+    key: "CONVINCED"
+    stem: "The captain ___ win the final."
+    answers: ["was convinced that they would", "was convinced they would", "was convinced that his team would", "was convinced his team would", "was convinced that her team would", "was convinced her team would", "was convinced that we would"]
+    explain: "Мнение через прилагательное: *was convinced (that)…*; *will* → *would*."
+  - q: "'Can I borrow your notes?' Jake asked me."
+    key: "IF"
+    stem: "Jake asked me ___ notes."
+    answers: ["if he could borrow my", "if he might borrow my"]
+    explain: "Просьба-вопрос → *if he could borrow*; *your* → *my*, потому что пересказываю я."
+  - q: "'Why don't you take a gap year?' my teacher said to me."
+    key: "RECOMMENDED"
+    stem: "My teacher ___ a gap year."
+    answers: ["recommended that I take", "recommended that I should take", "recommended I take", "recommended I should take", "recommended that I took", "recommended taking"]
+    explain: "*recommend that I (should) take* или *recommend taking*. Не ~~recommended me to take~~."

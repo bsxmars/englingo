@@ -1,0 +1,44 @@
+title: "Время и залог инфинитива и герундия"
+type: gap
+intro: "Поставь глагол в скобках в нужную форму инфинитива или герундия: простую, длительную, перфектную или пассивную. Впиши только эту форму (с *to*, *not*, *having*, *being*, если они нужны)."
+hints:
+  - "Действие раньше главного глагола → to have done / having done."
+  - "С подлежащим что-то делают → to be done / being done; сделали раньше → to have been done / having been done."
+  - "Процесс в тот момент → to be doing; длился до того момента → to have been doing."
+items:
+  - q: "The documents appear ___ (tamper) with before they reached the archive."
+    answers: ["to have been tampered"]
+    explain: "С документами что-то сделали (пассив), и **раньше**, чем «кажется» (*before they reached*) → перфектный пассивный инфинитив."
+  - q: "She still resents ___ (not / invite) to the launch, although she pretends not to care."
+    answers: ["not being invited", "not having been invited"]
+    explain: "*resent* + герундий. Её не пригласили → пассив. *not having been invited* подчёркивает, что это было в прошлом; *not being invited* тоже верно — после *resent* простой герундий может относиться к прошлому."
+  - q: "The witness claims ___ (wait) at the bus stop for over an hour when the accident happened."
+    answers: ["to have been waiting", "to have waited"]
+    explain: "Утверждает сейчас о прошлом процессе, который длился (*for over an hour*) → **to have been waiting**. *to have waited* тоже грамматично, но не показывает процесс."
+  - q: "The new terminal is expected ___ (complete) by next spring."
+    answers: ["to be completed", "to have been completed"]
+    explain: "Терминал достроят (пассив). *to be completed* — нейтрально; *to have been completed by next spring* подчёркивает, что к этому моменту работа будет завершена."
+  - q: "I'd love ___ (see) his face when he opened the letter — what a pity I missed it."
+    answers: ["to have seen"]
+    explain: "Несбывшееся в прошлом после *would love* → перфектный инфинитив: *I'd love **to have seen***."
+  - q: "___ (warn) twice already, the driver could hardly claim he didn't know the rule."
+    answers: ["Having been warned"]
+    explain: "Водителя предупредили (пассив) **до** главного события, *already* это подчёркивает → **Having been warned**."
+  - q: "He has no memory of ___ (take) to hospital after the crash."
+    answers: ["being taken", "having been taken"]
+    explain: "После предлога — герундий; его отвезли → пассив. Оба варианта верны: *of* + прошлое событие допускает простой герундий."
+  - q: "Sorry ___ (keep) you waiting — the previous meeting overran."
+    answers: ["to have kept", "to keep"]
+    explain: "Извинение за то, что уже произошло → *Sorry **to have kept** you waiting*. В разговоре часто говорят и *Sorry to keep you waiting*."
+  - q: "The minister is reported ___ (consider) resigning for several weeks before she finally made the announcement."
+    answers: ["to have been considering", "to have considered"]
+    explain: "Сообщают сейчас о длительном процессе в прошлом (*for several weeks before…*) → **to have been considering**."
+  - q: "These figures need ___ (check) again before we publish them."
+    answers: ["checking", "to be checked"]
+    explain: "*need* + герундий = пассивный инфинитив: *need checking* = *need to be checked*."
+  - q: "The children were made ___ (wait) outside the head teacher's office for an hour."
+    answers: ["to wait"]
+    explain: "В активе *make sb wait* — без *to*, но в пассиве *to* возвращается: *were made **to wait***."
+  - q: "At the time, she happened ___ (live) next door to the man who later became president."
+    answers: ["to be living"]
+    explain: "*happen* + длительный инфинитив: в тот период она как раз жила рядом. Временная ситуация в процессе → **to be living**."

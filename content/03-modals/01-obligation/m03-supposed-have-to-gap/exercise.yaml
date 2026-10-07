@@ -1,0 +1,40 @@
+title: "be supposed to и have to во всех формах"
+type: gap
+intro: "Поставь слова в скобках в нужную форму. Здесь тренируем то, что не умеет *must*: прошлое, Present Perfect, сочетания с другими модальными, а также *be supposed to* и *should be + -ing*."
+hints:
+  - "be supposed to — «так положено / так договорились»; was/were supposed to — «должен был, но не сделал»."
+  - "После might, will, to и в Present Perfect работает только have to: might have to, has had to, to have to."
+items:
+  - q: "You ___ (be supposed to) take these tablets with food — it says so on the box."
+    answers: ["are supposed to", "'re supposed to"]
+    explain: "Так написано в инструкции → **are supposed to**. Нужны и *be*, и *supposed* с окончанием *-d*."
+  - q: "Where were you? You ___ (be supposed to) meet us at seven!"
+    answers: ["were supposed to"]
+    explain: "**were supposed to** — договорились, что придёшь, а ты не пришёл. В прошлом эта конструкция почти всегда означает невыполненный план."
+  - q: "The shop might be closed today, so we ___ (might / have to) come back tomorrow."
+    answers: ["might have to", "may have to"]
+    explain: "Два модальных подряд нельзя (~~might must~~), поэтому после *might* — **have to**."
+  - q: "Mark ___ (have to, Present Perfect) work every weekend this month."
+    answers: ["has had to", "'s had to"]
+    explain: "Present Perfect от *have to* — **has had to**: первое *has* — вспомогательный, *had* — третья форма. У *must* такой формы нет."
+  - q: "I really don't want ___ (have to) ask my parents for money again."
+    answers: ["to have to"]
+    explain: "После *want* нужен инфинитив с *to*, а *must* инфинитива не имеет → **to have to**."
+  - q: "Visitors ___ (not / be supposed to) feed the animals, but lots of people still do."
+    answers: ["aren't supposed to", "are not supposed to", "'re not supposed to"]
+    explain: "Правило, которое не все соблюдают, → **aren't supposed to**. *mustn't* звучал бы как прямой запрет от говорящего."
+  - q: "I ___ (should / work) right now, not chatting with you!"
+    answers: ["should be working"]
+    explain: "**should be + -ing** — «сейчас мне полагалось бы заниматься другим». Процесс в данный момент → continuous."
+  - q: "I can't decide. Which jacket ___ (should / I / wear) to the interview?"
+    answers: ["should I wear"]
+    explain: "Просим совета → вопрос с **should**: модальный перед подлежащим, *do* не нужен."
+  - q: "Sorry, I can't stay — I ___ (have got to) pick up my son from school."
+    answers: ["'ve got to", "have got to"]
+    explain: "**have got to** — разговорный синоним *have to* в настоящем: *I've got to go*."
+  - q: "At my old school we ___ (not / have to) wear a uniform, so I wore jeans every day."
+    answers: ["didn't have to", "did not have to", "didn't need to", "did not need to"]
+    explain: "Отсутствие обязанности в прошлом → **didn't have to**. *mustn't* значило бы запрет, и прошедшего у него нет."
+  - q: "It's been so nice to see you! We ___ (must — «надо бы», сильное желание) meet up again soon."
+    answers: ["must"]
+    explain: "С *I / we* **must** часто выражает горячее желание, а не обязанность: «надо бы непременно встретиться»."

@@ -1,0 +1,41 @@
+title: "like, would like, start, need"
+type: gap
+intro: "Поставь глагол в скобках в форму **-ing** или **to + глагол**. Если подходят обе формы, засчитывается любая."
+hints:
+  - "would like / love / hate / prefer → только to."
+  - "start, begin, continue, like, love, hate, prefer, bother → обе формы, но не два -ing подряд."
+  - "need to do — сделать должен я; sth needs doing — с вещью нужно что-то сделать."
+items:
+  - q: "I'd love ___ (come) to your birthday party, but I'm away that weekend."
+    answers: ["to come"]
+    explain: "**would love** — только с **to**: *I'd love to come*."
+  - q: "My grandad loves ___ (tell) stories about his army days."
+    answers: ["telling", "to tell"]
+    explain: "После *love* (без *would*) подходят обе формы: **telling** / *to tell*. Смысл одинаковый."
+  - q: "It's starting ___ (snow). Let's go back inside."
+    answers: ["to snow"]
+    explain: "*starting* уже с -ing, а два -ing подряд звучат плохо → **to snow**."
+  - q: "I don't enjoy it, but I like ___ (back up) my files every Friday — it's safer."
+    answers: ["to back up"]
+    explain: "**like to do** — «считаю правильным, привык», даже без удовольствия. *like backing up* значило бы, что это приятно (здесь противоречит *I don't enjoy it*)."
+  - q: "Would you prefer ___ (eat) inside or on the terrace?"
+    answers: ["to eat"]
+    explain: "**would prefer** — только **to**: *Would you prefer to eat…?*"
+  - q: "The kitchen floor really needs ___ (clean) — look at it!"
+    answers: ["cleaning", "to be cleaned"]
+    explain: "С вещью что-то нужно сделать → **needs cleaning** (= *needs to be cleaned*)."
+  - q: "I need ___ (clean) the kitchen before my parents arrive."
+    answers: ["to clean"]
+    explain: "Делать буду я сам → **need to clean**."
+  - q: "Don't bother ___ (cook) tonight — I'll bring a takeaway."
+    answers: ["cooking", "to cook"]
+    explain: "После **bother** обе формы: *Don't bother cooking / to cook*."
+  - q: "Even after the fire alarm went off, he continued ___ (type)."
+    answers: ["typing", "to type"]
+    explain: "После **continue** обе формы, смысл одинаковый."
+  - q: "I'd hate ___ (be) in your shoes right now."
+    answers: ["to be"]
+    explain: "**would hate** → только **to**: *I'd hate to be in your shoes* — «не хотел бы я оказаться на твоём месте»."
+  - q: "She hates ___ (wait) in queues — she'd rather pay more and skip them."
+    answers: ["waiting", "to wait"]
+    explain: "*hate* без *would* — общее отношение, подходят обе формы: **waiting** / *to wait*."

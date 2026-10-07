@@ -1,0 +1,37 @@
+title: "Найди ошибку: схемы reporting verbs"
+type: error
+intro: "В каждом предложении **одна** ошибка в схеме глагола. Исправь её и отправь предложение целиком."
+hints:
+  - "warn, remind, assure + человек + that; admit, explain, suggest — без человека или с to."
+  - "ask for + вещь; ask to do — для себя; invite sb to do."
+items:
+  - q: "He admitted me that he had lost the keys."
+    answers: ["He admitted that he had lost the keys.", "He admitted to me that he had lost the keys.", "He admitted he had lost the keys.", "He admitted to me he had lost the keys.", "He told me that he had lost the keys.", "He told me he had lost the keys."]
+    explain: "*admit* не ставит человека сразу после себя: **admitted (to me) that…**"
+  - q: "The pilot assured that there was nothing to worry about."
+    answers: ["The pilot assured us that there was nothing to worry about.", "The pilot assured us there was nothing to worry about.", "The pilot assured the passengers that there was nothing to worry about.", "The pilot assured the passengers there was nothing to worry about.", "The pilot assured everyone that there was nothing to worry about.", "The pilot assured everyone there was nothing to worry about."]
+    explain: "*assure* требует человека: **assured us that…** — «заверил нас». Без человека — *said that…*"
+  - q: "My manager explained us that the deadline had moved."
+    answers: ["My manager explained to us that the deadline had moved.", "My manager explained to us the deadline had moved.", "My manager explained that the deadline had moved.", "My manager explained the deadline had moved.", "My manager told us that the deadline had moved.", "My manager told us the deadline had moved."]
+    explain: "*explain* как *say*: человек только через **to** — *explained to us that…*"
+  - q: "I reminded to him that the bank was closed on Sundays."
+    answers: ["I reminded him that the bank was closed on Sundays.", "I reminded him the bank was closed on Sundays."]
+    explain: "*remind sb that* — человек сразу после глагола, без *to*: **reminded him that…**"
+  - q: "We asked the receptionist a taxi to the airport."
+    answers: ["We asked the receptionist for a taxi to the airport.", "We asked the receptionist to book a taxi to the airport.", "We asked the receptionist to call a taxi to the airport.", "We asked the receptionist to order a taxi to the airport."]
+    explain: "Попросить вещь → **ask sb for sth**: *asked the receptionist **for** a taxi*."
+  - q: "The ticket inspector asked for to see our tickets."
+    answers: ["The ticket inspector asked to see our tickets."]
+    explain: "Перед глаголом *for* не нужен: **asked to see** — «попросил показать ему»."
+  - q: "They invited us coming to their wedding."
+    answers: ["They invited us to come to their wedding.", "They invited us to their wedding."]
+    explain: "**invite sb to do**: *invited us **to come***. Можно и короче: *invited us to their wedding*."
+  - q: "She warned to me that the dog could bite."
+    answers: ["She warned me that the dog could bite.", "She warned me the dog could bite."]
+    explain: "**warn sb that** — человек сразу после глагола, без *to*: *warned me that the dog could bite*."
+  - q: "She suggested me that we take a short break."
+    answers: ["She suggested that we take a short break.", "She suggested we take a short break.", "She suggested that we should take a short break.", "She suggested we should take a short break.", "She suggested that we took a short break.", "She suggested we took a short break.", "She suggested to me that we take a short break.", "She suggested to me that we should take a short break.", "She suggested taking a short break."]
+    explain: "*suggest* не ставит человека сразу после себя: **suggested (to me) that we take…** или *suggested taking a short break*."
+  - q: "My parents insisted me to stay for another week."
+    answers: ["My parents insisted that I stay for another week.", "My parents insisted that I should stay for another week.", "My parents insisted that I stayed for another week.", "My parents insisted on me staying for another week.", "My parents insisted on my staying for another week.", "My parents insisted I stay for another week.", "My parents insisted I should stay for another week.", "My parents insisted I stayed for another week."]
+    explain: "*insist* не берёт *sb to do*. Либо **insisted that I (should) stay**, либо *insisted on me / my staying*."

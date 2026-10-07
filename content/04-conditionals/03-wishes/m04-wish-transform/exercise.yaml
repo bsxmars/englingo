@@ -1,0 +1,61 @@
+title: "Перефразирование: wish, if only, it's time, would rather (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+
+  Сожаление превращается в *wish / if only* со сдвигом времени назад.
+hints:
+  - "Сожаление о настоящем → Past Simple; о прошлом → Past Perfect; «не смог тогда» → could have + V3."
+  - "Хочу, чтобы кто-то перестал / начал что-то делать → wish + would."
+  - "It's time + подлежащее + Past Simple; would rather + другой человек + Past Simple."
+items:
+  - q: "I'm sorry I wasn't able to come to your birthday party."
+    key: "COULD"
+    stem: "I wish ___ to your birthday party."
+    answers: ["I could have come", "I could have gone"]
+    explain: "«Не смог» в прошлом → *wish* + **could have + V3**. *would have* после *wish* не ставится."
+  - q: "Please stop leaving your shoes in the hall!"
+    key: "WOULD"
+    stem: "I wish ___ leaving your shoes in the hall."
+    answers: ["you would stop", "you'd stop"]
+    explain: "Раздражает чужое поведение, хочу, чтобы оно прекратилось → *wish* + **would**: *I wish you would stop…*"
+  - q: "It's a pity I don't live near the sea."
+    key: "ONLY"
+    stem: "If ___ near the sea!"
+    answers: ["only I lived", "only I could live"]
+    explain: "Сожаление о настоящем → *If only* + Past Simple: **If only I lived**… «Не живу» становится утверждением."
+  - q: "I regret selling my old guitar."
+    key: "WISH"
+    stem: "I ___ my old guitar."
+    answers: ["wish I hadn't sold", "wish I had not sold", "wish I had never sold", "wish I'd never sold"]
+    explain: "Сожаление о прошлом действии → *wish* + Past Perfect с отрицанием: **wish I hadn't sold**."
+  - q: "We should really start the meeting now."
+    key: "TIME"
+    stem: "It's ___ the meeting."
+    answers: ["time we started", "time we began", "high time we started", "high time we began", "time to start", "time to begin", "time for us to start", "time for us to begin"]
+    explain: "*It's time* + подлежащее + **Past Simple** (*we started*) или без подлежащего с инфинитивом (*time to start*)."
+  - q: "I'd prefer you not to call me after ten."
+    key: "RATHER"
+    stem: "I ___ me after ten."
+    answers: ["would rather you didn't call", "would rather you did not call", "'d rather you didn't call", "'d rather you did not call"]
+    explain: "Предпочтение о поступке другого человека → *would rather* + он + **Past Simple**: *I'd rather you didn't call*."
+  - q: "It's a shame my brother isn't here — he'd know what to do."
+    key: "WISH"
+    stem: "I ___ here — he'd know what to do."
+    answers: ["wish my brother was", "wish my brother were"]
+    explain: "Сожаление о настоящем состоянии → *wish* + Past Simple: **were** (или разговорное *was*). *would be* здесь не подходит: это состояние, а не действие."
+  - q: "I can't speak Italian, and it's a real problem on this trip."
+    key: "COULD"
+    stem: "I ___ Italian — it would make this trip much easier."
+    answers: ["wish I could speak"]
+    explain: "Сожаление о неумении → *wish* + **could**: *I wish I could speak Italian*."
+  - q: "I didn't take any photos at the concert, and now I regret it."
+    key: "ONLY"
+    stem: "If ___ some photos at the concert!"
+    answers: ["only I had taken", "only I'd taken"]
+    explain: "Сожаление о прошлом → *If only* + Past Perfect: **If only I had taken**…"
+  - q: "My phone keeps freezing, and I hate it."
+    key: "WOULD"
+    stem: "I wish my phone ___ all the time."
+    answers: ["wouldn't freeze", "would not freeze", "would stop freezing"]
+    explain: "Хочу, чтобы что-то перестало происходить → *wish* + **would**: *I wish my phone wouldn't freeze*. Работает и с неодушевлёнными предметами."

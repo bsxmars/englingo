@@ -1,0 +1,43 @@
+title: "Смешанная практика в формате Part 3"
+type: gap
+intro: "Формат B2 First Use of English, Part 3. Образуй от слова КАПСОМ подходящее слово. Часто нужно **две** операции: приставка + суффикс."
+hints:
+  - "Определи часть речи, потом проверь смысл: может, нужно отрицание?"
+  - "Проверь орфографию: удвоенные буквы, y → i, выпадающее e."
+items:
+  - q: "___ (FORTUNE), the museum was closed when we arrived."
+    answers: ["unfortunately"]
+    explain: "Начало + запятая → наречие; музей закрыт — плохая новость → **un** + *fortunate* + **ly**."
+  - q: "The new manager is rather ___ (EXPERIENCE), so she sometimes makes mistakes."
+    answers: ["inexperienced"]
+    explain: "После *rather* — прилагательное; *makes mistakes* → отрицательное: **inexperienced**."
+  - q: "Youth ___ (EMPLOY) has risen to twenty per cent in some regions."
+    answers: ["unemployment"]
+    explain: "Подлежащее → существительное; рост в процентах — это безработица: **unemployment**."
+  - q: "The minister's plan was criticised as ___ (RESPONSIBLE) and dangerous."
+    answers: ["irresponsible"]
+    explain: "*criticised… and dangerous* → отрицательный смысл: **ir-** перед *r*: *irresponsible*."
+  - q: "The hotel staff were extremely ___ (HELP) and ignored all our complaints."
+    answers: ["unhelpful"]
+    explain: "*ignored all our complaints* → не готовы помочь: **unhelpful**. *helpless* значило бы «беспомощные»."
+  - q: "Her ___ (ABLE) to say no means she always has too much work."
+    answers: ["inability"]
+    explain: "После *her* — существительное. Прилагательное *unable*, но существительное — **inability**."
+  - q: "The special effects were ___ (BELIEVE) — I've never seen anything like them."
+    answers: ["unbelievable"]
+    explain: "«Невероятные» → **un** + *believe* + **able** (*e* выпадает)."
+  - q: "There is growing ___ (EQUAL) between the rich and the poor."
+    answers: ["inequality"]
+    explain: "*growing ___ between the rich and the poor* — неравенство: **inequality**."
+  - q: "Our flight was ___ (AVOID) delayed because of the storm."
+    answers: ["unavoidably"]
+    explain: "Перед причастием *delayed* — наречие; шторм не отменишь → **un** + *avoid* + **ably**."
+  - q: "His ___ (PATIENT) with slow internet is famous in our office."
+    answers: ["impatience"]
+    explain: "После *his* — существительное; *with slow internet* — нетерпение: **impatience**."
+  - q: "The speaker's jokes were completely ___ (APPROPRIATE) for a children's event."
+    answers: ["inappropriate"]
+    explain: "*completely ___ for a children's event* — неуместные: **inappropriate**."
+  - q: "She answered the last question ___ (CORRECT), so she lost two points."
+    answers: ["incorrectly"]
+    explain: "Описывает глагол *answered* → наречие; *lost two points* → неправильно: **incorrectly**."

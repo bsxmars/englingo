@@ -1,0 +1,52 @@
+title: "See it happen, afraid of, interested in"
+type: choice
+intro: "Выбери вариант, который подходит **по смыслу и по грамматике**. Иногда грамматически возможны два, но смысл подходит только у одного."
+hints:
+  - "see / hear sb do — всё действие целиком; see / hear sb doing — в процессе."
+  - "afraid to do — не решаюсь; afraid of doing — боюсь, что случится."
+  - "interested to hear — с интересом узнал; interested in doing — интересуюсь."
+items:
+  - q: "I watched the builders ___ the whole wall in one afternoon."
+    options: ["build", "building", "to build"]
+    answer: 0
+    explain: "*the whole wall in one afternoon* — действие целиком, от начала до конца → **watched them build**."
+  - q: "When I came into the kitchen, I found my son ___ cookies from the jar."
+    options: ["steal", "stealing", "to steal"]
+    answer: 1
+    explain: "После **find + объект** — только -ing: *found my son stealing*. Застал в процессе."
+  - q: "Can you smell something ___? I think it's the toast!"
+    options: ["burn", "burning", "to burn"]
+    answer: 1
+    explain: "После **smell + объект** — -ing: *smell something burning*."
+  - q: "I was interested ___ that you used to live in Brazil."
+    options: ["in hearing", "to hear", "hearing"]
+    answer: 1
+    explain: "«С интересом узнал» (одно событие) → **interested to hear**. *interested in* — постоянный интерес, хобби."
+  - q: "My daughter is really interested ___ how robots work."
+    options: ["to learn", "in learning", "learning"]
+    answer: 1
+    explain: "Постоянный интерес → **interested in + -ing**."
+  - q: "I'm a bit anxious ___ my presentation tomorrow."
+    options: ["to give", "about giving", "of giving"]
+    answer: 1
+    explain: "«Волнуюсь из-за…» → **anxious about + -ing**. *anxious to give* значило бы «очень хочу выступить»."
+  - q: "She sat by the window ___ the rain for hours."
+    options: ["watched", "watching", "to watch"]
+    answer: 1
+    explain: "Два действия одновременно (сидела и смотрела) → **-ing**: *sat … watching*."
+  - q: "He broke his wrist ___ in the park."
+    options: ["skateboarding", "to skateboard", "skateboarded"]
+    answer: 0
+    explain: "Одно действие во время другого («когда катался») → **-ing**: *broke his wrist skateboarding*."
+  - q: "___ the email, she immediately called her lawyer."
+    options: ["On reading", "On read", "At reading"]
+    answer: 0
+    explain: "**on + -ing** = «как только»: *On reading the email* = *As soon as she read the email*."
+  - q: "The suspect was seen ___ the building at midnight."
+    options: ["leave", "to leave", "left"]
+    answer: 1
+    explain: "В пассиве после *see* появляется **to**: *was seen to leave* (как *was made to go*). *was seen leaving* тоже возможно, но такого варианта здесь нет."
+  - q: "I'm sorry ___ so rude to you yesterday."
+    options: ["to be", "for being", "being"]
+    answer: 1
+    explain: "Извиняемся за то, что **уже было** → **sorry for / about being**. *sorry to be rude* — о том, что делаем сейчас."

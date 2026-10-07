@@ -1,0 +1,37 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка в фразовом, предложном или трёхчастном глаголе. Исправь её и отправь предложение целиком."
+hints:
+  - "Проверь порядок слов с местоимением и не потерян ли предлог."
+  - "После look forward to и give up — форма -ing."
+items:
+  - q: "I'm looking forward to see you next week."
+    answers: ["I'm looking forward to seeing you next week."]
+    explain: "*to* в *look forward to* — предлог: после него **-ing**."
+  - q: "The music is too loud — please turn down it."
+    answers: ["The music is too loud — please turn it down.", "The music is too loud. Please turn it down.", "The music is too loud, please turn it down."]
+    explain: "Местоимение ставится **между** глаголом и частицей: *turn **it** down*."
+  - q: "We have run out milk, so I'll go to the shop."
+    answers: ["We have run out of milk, so I'll go to the shop."]
+    explain: "Перед существительным нужен предлог: **run out of** milk."
+  - q: "Who is going to look the dog after this weekend?"
+    answers: ["Who is going to look after the dog this weekend?"]
+    explain: "*look after* — предложный глагол, его нельзя разделять: *look after the dog*."
+  - q: "She came up an excellent idea for the campaign."
+    answers: ["She came up with an excellent idea for the campaign."]
+    explain: "Придумать → **come up with**. Без *with* смысл «придумать» теряется."
+  - q: "I can't put up this noise any more."
+    answers: ["I can't put up with this noise any more.", "I can't put up with this noise anymore."]
+    explain: "Терпеть → **put up with**. *put up* без *with* — повесить, поднять, приютить."
+  - q: "He gave up to smoke when his daughter was born."
+    answers: ["He gave up smoking when his daughter was born."]
+    explain: "После **give up** — форма **-ing**: *gave up smoking*."
+  - q: "Can you pick up me at the station at six?"
+    answers: ["Can you pick me up at the station at six?"]
+    explain: "Местоимение — внутри фразового глагола: *pick **me** up*."
+  - q: "I get on well to all my colleagues."
+    answers: ["I get on well with all my colleagues.", "I get along well with all my colleagues."]
+    explain: "Ладить с кем-то → **get on with** someone, не *to*."
+  - q: "She grew up her three children alone after the divorce."
+    answers: ["She brought up her three children alone after the divorce.", "She raised her three children alone after the divorce.", "She brought her three children up alone after the divorce."]
+    explain: "Воспитывать **кого-то** → **bring up**. *grow up* — расти самому, дополнения у него нет."

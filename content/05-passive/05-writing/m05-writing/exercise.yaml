@@ -1,0 +1,44 @@
+title: "Report: staying active in your area"
+type: writing
+intro: "Напиши отчёт в формате B2 First, Part 2. Используй заголовок и подзаголовки, нейтральный регистр, пассив и безличные конструкции."
+prompt: |
+  The international language school you attend wants to help new students settle in. The director has asked you to write a report about **opportunities for sport and exercise** in the area where the school is located.
+
+  In your report you should:
+
+  - describe **two or three** places or activities that are available;
+  - say what is **good and not so good** about each;
+  - **recommend** what new students should do and explain why.
+
+  Write your **report** in 140–190 words.
+words: [140, 190]
+target_grammar:
+  - "Пассив в разных временах: are offered, was opened, has been renovated, can be booked"
+  - "It is recommended / suggested that… (should); students are advised to…"
+  - "it is said / considered that…; …is said to be…"
+checklist:
+  - "Есть заголовок и 3–4 подзаголовка (Introduction, разделы, Recommendations)."
+  - "Во введении названа цель отчёта и источник информации."
+  - "Для каждого места или занятия есть и плюсы, и минусы."
+  - "Использовано не меньше пяти пассивных форм, в том числе в двух разных временах."
+  - "Рекомендации оформлены через It is recommended / suggested that… или are advised to…"
+  - "Нейтральный регистр: нет сокращений (it's, don't) и разговорных слов."
+  - "Объём 140–190 слов."
+model_answer: |
+  **Report on sports opportunities for new students**
+
+  **Introduction**
+
+  The aim of this report is to describe the sports facilities near our school and to suggest how new students could stay active. The information was gathered from a short survey of current students.
+
+  **Riverside Sports Centre**
+
+  The centre, which was renovated last year, is located a ten-minute walk from the school. A wide range of classes is offered, from yoga to kickboxing, and the pool can be used until 10 pm. However, membership is rather expensive, and the gym is said to be overcrowded in the evenings.
+
+  **Parks and outdoor activities**
+
+  Running and cycling are popular with students because they cost nothing. Free group runs are organised every Saturday morning in Central Park, and bikes can be hired cheaply near the station. The main drawback is the weather, as outdoor sessions are often cancelled in winter.
+
+  **Recommendations**
+
+  It is recommended that new students should join the Saturday runs, since they are a good way to make friends. Those who prefer indoor exercise are advised to buy a monthly pass rather than an annual one, as student discounts are available.

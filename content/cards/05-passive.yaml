@@ -1,0 +1,180 @@
+- id: m05-passive-formula
+  lesson: 05-passive/01-passive-tenses
+  q: "Как образуется пассив в любом времени?"
+  a: "**be** в нужном времени + **V3**. Continuous → *being*, Perfect → *been*, после модального → *be*."
+- id: m05-being-built
+  lesson: 05-passive/01-passive-tenses
+  q: "Переведи: «Сейчас строят новый мост»."
+  a: "*A new bridge **is being built** now.*"
+- id: m05-has-been-cancelled
+  lesson: 05-passive/01-passive-tenses
+  q: "Переведи: «Встречу отменили» (новость, результат сейчас)."
+  a: "*The meeting **has been cancelled**.*"
+- id: m05-happened-error
+  lesson: 05-passive/01-passive-tenses
+  q: "Найди ошибку: *The accident was happened at night.*"
+  a: "*The accident **happened** at night.* — у *happen, arrive, die, consist of* пассива нет."
+- id: m05-by-agent
+  lesson: 05-passive/01-passive-tenses
+  q: "Когда в пассиве нужно **by** + исполнитель?"
+  a: "Только если исполнитель важен или интересен: *painted by Picasso*. Не пиши *arrested by the police*."
+- id: m05-modal-perfect-passive
+  lesson: 05-passive/01-passive-tenses
+  q: "Переведи: «Это нужно было сделать вчера» (упрёк)."
+  a: "*It **should have been done** yesterday.*"
+- id: m05-born
+  lesson: 05-passive/01-passive-tenses
+  q: "Найди ошибку: *I born in 1992.*"
+  a: "*I **was born** in 1992.* — *be born* всегда пассив."
+- id: m05-empty-subject
+  lesson: 05-passive/01-passive-tenses
+  q: "Скажи двумя способами: «Мост опять закрыли»."
+  a: "*They've closed the bridge again.* (разговор) / *The bridge **has been closed** again.* (новости). Без подлежащего (~~Have closed the bridge~~) нельзя."
+- id: m05-you-one
+  lesson: 05-passive/01-passive-tenses
+  q: "Какое «пустое» подлежащее значит «любой человек» в инструкции? Перепиши в пассив: *You should keep the receipt.*"
+  a: "**you** (книжно — **one**). Пассив: *The receipt **should be kept**.*"
+- id: m05-has-to-be
+  lesson: 05-passive/01-passive-tenses
+  q: "Пассив от *They have to / ought to check the data.*"
+  a: "*The data **has to be checked** / **ought to be checked**.* — после *have to* и *ought to* голое *be* + V3."
+- id: m05-was-given
+  lesson: 05-passive/02-passive-advanced
+  q: "Переведи: «Мне предложили повышение»."
+  a: "*I **was offered** a promotion.* — получатель становится подлежащим."
+- id: m05-explained-to
+  lesson: 05-passive/02-passive-advanced
+  q: "Найди ошибку: *I was explained the problem.*"
+  a: "*The problem **was explained to me**.* — *explain, describe, suggest* не ставят человека в подлежащее."
+- id: m05-being-interrupted
+  lesson: 05-passive/02-passive-advanced
+  q: "Переведи: «Ненавижу, когда меня перебивают»."
+  a: "*I hate **being interrupted**.*"
+- id: m05-want-to-be-told
+  lesson: 05-passive/02-passive-advanced
+  q: "Переведи: «Я хочу, чтобы мне сказали правду»."
+  a: "*I want **to be told** the truth.*"
+- id: m05-looked-after
+  lesson: 05-passive/02-passive-advanced
+  q: "Найди ошибку: *The children were looked by their grandmother.*"
+  a: "*The children were looked **after** by their grandmother.* — предлог остаётся в пассиве."
+- id: m05-get-passive
+  lesson: 05-passive/02-passive-advanced
+  q: "Как сказать по-разговорному «Его уволили» и «Мне не заплатили»?"
+  a: "*He **got fired**.* / *I **didn't get paid**.* — отрицание get-passive через *did*."
+- id: m05-needs-repairing
+  lesson: 05-passive/02-passive-advanced
+  q: "Скажи двумя способами: «Крышу нужно починить»."
+  a: "*The roof **needs repairing**.* = *The roof **needs to be repaired**.*"
+- id: m05-am-owed
+  lesson: 05-passive/02-passive-advanced
+  q: "Переведи: «Мне должны зарплату за месяц»."
+  a: "*I**'m owed** a month's salary.* — *owe, award, lend, promise, teach* тоже ставят получателя в подлежащее."
+- id: m05-emails-to-answer
+  lesson: 05-passive/02-passive-advanced
+  q: "Найди ошибку: *I have twenty emails to be answered today.*"
+  a: "*I have twenty emails **to answer** today.* — отвечать буду я (подлежащее) → активный инфинитив."
+- id: m05-are-to-be
+  lesson: 05-passive/02-passive-advanced
+  q: "Что значит *All visitors are to sign in at reception*?"
+  a: "**be to + инфинитив** — распоряжение: «Все посетители должны отметиться на ресепшене»."
+- id: m05-needs-being
+  lesson: 05-passive/02-passive-advanced
+  q: "Найди ошибку: *The carpet needs being cleaned.*"
+  a: "*The carpet **needs cleaning**.* / *…**needs to be cleaned**.* — после *need* -ing уже пассивный."
+- id: m05-hair-cut
+  lesson: 05-passive/03-causative-reporting
+  q: "Переведи: «Я подстригся вчера» (в парикмахерской)."
+  a: "*I **had my hair cut** yesterday.* — не ~~I cut my hair~~ и не ~~I had cut my hair~~."
+- id: m05-had-stolen
+  lesson: 05-passive/03-causative-reporting
+  q: "Переведи: «У меня украли телефон»."
+  a: "*I **had my phone stolen**.* (или *My phone was stolen.*)"
+- id: m05-have-get-to
+  lesson: 05-passive/03-causative-reporting
+  q: "**have** someone ___ или **get** someone ___: где нужно *to*?"
+  a: "*have him **call*** — без *to*; *get him **to call*** — с *to*."
+- id: m05-said-to-be
+  lesson: 05-passive/03-causative-reporting
+  q: "Перефразируй: *People say that he is a genius.* → *He…*"
+  a: "*He **is said to be** a genius.*"
+- id: m05-believed-to-have
+  lesson: 05-passive/03-causative-reporting
+  q: "Перефразируй: *People believe the thief escaped.* → *The thief…*"
+  a: "*The thief **is believed to have escaped**.* — действие раньше → *to have* + V3."
+- id: m05-said-that-error
+  lesson: 05-passive/03-causative-reporting
+  q: "Найди ошибку: *She is said that she is rich.*"
+  a: "*She **is said to be** rich.* или *It is said that she is rich.* — две конструкции не смешиваем."
+- id: m05-expected-to
+  lesson: 05-passive/03-causative-reporting
+  q: "Переведи: «Ожидается, что цены вырастут»."
+  a: "*Prices **are expected to rise**.* / *It is expected that prices will rise.*"
+- id: m05-supposed-to-be
+  lesson: 05-passive/03-causative-reporting
+  q: "Переведи: «Говорят, этот фильм очень смешной»."
+  a: "*This film **is supposed to be** very funny.* — не ~~supposes to be~~."
+- id: m05-supposed-plan
+  lesson: 05-passive/03-causative-reporting
+  q: "Что значит *The meeting was supposed to start at ten*?"
+  a: "«Встреча должна была начаться в десять» (по плану, но, видимо, не началась)."
+- id: m05-it-was-agreed
+  lesson: 05-passive/03-causative-reporting
+  q: "Найди ошибку: *The plan was agreed to go ahead.*"
+  a: "*It **was agreed that** the plan would go ahead.* — с *agree, decide, announce* только *It + пассив + that*."
+- id: m05-where-did-you-have
+  lesson: 05-passive/03-causative-reporting
+  q: "Задай вопрос: «Где ты чинил (у кого) телефон?»"
+  a: "*Where **did you have** your phone **repaired**?* — вопрос через *did*, объект между *have* и V3."
+- id: m05-ground
+  lesson: 05-passive/04-reading
+  q: "Три формы *grind* и пример из текста о шоколаде."
+  a: "*grind – ground – ground*: *The nibs **are ground** into cocoa mass.*"
+- id: m05-shiny-dull
+  lesson: 05-passive/04-reading
+  q: "Как сказать «блестящий» и «тусклый» о поверхности?"
+  a: "**shiny** — блестящий, **dull** — тусклый: *Tempered chocolate is shiny.*"
+- id: m05-it-is-recommended
+  lesson: 05-passive/05-writing
+  q: "Закончи по правилам отчёта: *It is recommended that each student ___ (join) a club.*"
+  a: "*…that each student **join** / **should join** a club.* — не ~~joins~~."
+- id: m05-advised-to
+  lesson: 05-passive/05-writing
+  q: "Найди ошибку: *I recommend you to visit the centre.*"
+  a: "*I recommend **visiting** the centre.* / *I recommend **that you visit**…* / *You are **advised to** visit…*"
+- id: m05-elected-chairman
+  lesson: 05-passive/02a-passive-patterns
+  q: "Переведи: «Её избрали председателем»."
+  a: "*She **was elected chair(man)**.* — должность сразу после V3, без *as*, без артикля и без *by*."
+- id: m05-regarded-as
+  lesson: 05-passive/02a-passive-patterns
+  q: "**considered** или **regarded**: какому нужен *as*?"
+  a: "*is regarded **as** the best*; *is considered the best* (без *as*). Также с *as*: *seen as, described as, known as*."
+- id: m05-known-for-as
+  lesson: 05-passive/02a-passive-patterns
+  q: "*known for* или *known as*: Kazan is known ___ its chak-chak."
+  a: "**for** — известен чем-то. *known as* — под именем / в качестве: *known as the third capital*."
+- id: m05-made-to-wait
+  lesson: 05-passive/02a-passive-patterns
+  q: "Найди ошибку: *We were made wait for an hour.*"
+  a: "*We were made **to** wait.* — в пассиве после *make / see / hear* возвращается *to*."
+- id: m05-let-allowed
+  lesson: 05-passive/02a-passive-patterns
+  q: "Как сказать в пассиве *They let us leave early*?"
+  a: "*We **were allowed to** leave early.* — у *let* пассива нет."
+- id: m05-seen-leaving
+  lesson: 05-passive/02a-passive-patterns
+  q: "Переведи: «Его видели, когда он садился в такси»."
+  a: "*He **was seen getting** into a taxi.* (процесс) или *was seen **to get*** (факт)."
+- id: m05-door-opened
+  lesson: 05-passive/02a-passive-patterns
+  q: "Переведи: «Дверь открылась» (сама)."
+  a: "*The door **opened**.* — «-ся» = актив. *was opened* — кто-то её открыл."
+- id: m05-rise-raise
+  lesson: 05-passive/02a-passive-patterns
+  q: "**rise** или **raise**: Prices ___ last year. / The company ___ prices."
+  a: "*Prices **rose*** (сами, без пассива). *The company **raised** prices* → *Prices **were raised***."
+- id: m05-told-to-bring
+  lesson: 05-passive/02a-passive-patterns
+  q: "Переведи: «Нам сказали принести паспорта»."
+  a: "*We **were told to bring** our passports.* — подлежащее — человек, не ~~It was told us~~."

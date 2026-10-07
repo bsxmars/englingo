@@ -1,0 +1,45 @@
+title: "Proposal: a better place to study"
+type: writing
+intro: "Напиши proposal в формате C1 Advanced, Part 2. Заголовок и подзаголовки, формальный регистр, конкретные меры с обоснованием через придаточные цели, причины, результата и уступки."
+prompt: |
+  The college where you study has received a grant to **improve the facilities available to students for independent study**. The principal has invited students to submit proposals. In your proposal you should:
+
+  - briefly **explain** what is wrong with the current study facilities;
+  - **propose** two specific improvements and explain how the money should be spent;
+  - **explain** how students and the college would benefit.
+
+  Write your **proposal** in 220–260 words.
+words: [220, 260]
+target_grammar:
+  - "Цель: so that… could, in order to, so as not to, in order for… to"
+  - "Причина: since, given that, as, in that"
+  - "Результат: so… that, such… that; уступка: although, while, much as"
+  - "Сокращённые обороты без висячих причастий: Having consulted…, Once installed…, If necessary…"
+checklist:
+  - "Есть заголовок и подзаголовки: Introduction, Current situation, Proposals, Benefits / Conclusion."
+  - "Проблема описана коротко, основная часть — конкретные меры."
+  - "Для каждой меры объяснено, зачем она нужна (so that / in order to)."
+  - "Использованы придаточные причины, результата и уступки, не меньше одного каждого типа."
+  - "Хотя бы один сокращённый оборот, и его подлежащее совпадает с подлежащим главной части."
+  - "Формальный регистр, осторожная модальность (would, could, it is proposed that)."
+  - "Объём 220–260 слов."
+model_answer: |
+  **Proposal for improving independent study facilities**
+
+  **Introduction**
+
+  The purpose of this proposal is to suggest how the recent grant could be used to improve the facilities available for independent study. Having consulted around fifty students, I have identified two priorities.
+
+  **Current situation**
+
+  At present, the library is the only quiet space on campus, and it is so overcrowded during exam periods that many students give up and go home. Since most computers in the study area are over eight years old, they are also extremely slow, which is frustrating in that most assignments now have to be completed online.
+
+  **Proposals**
+
+  Firstly, it is proposed that the empty seminar room on the second floor should be converted into a silent study area, so that students could work there when the library is full. Desks with individual lamps would be installed, and phones would have to be switched off so as not to disturb others.
+
+  Secondly, I would recommend replacing twenty of the oldest computers with modern laptops which could be borrowed for the day. Once registered, students would be able to collect a laptop at reception and use it anywhere in the building.
+
+  **Benefits**
+
+  Although these changes would use most of the grant, they would make such a difference to students' daily lives that the investment would quickly pay for itself. Students would be less likely to miss deadlines, and the college could expect better results as a consequence. I am therefore confident that the principal will give these proposals serious consideration.

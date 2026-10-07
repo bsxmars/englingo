@@ -1,0 +1,41 @@
+title: "whose, of which, those, much that"
+type: gap
+intro: "Впиши пропущенное слово или фразу. Если в скобках дано слово — используй его."
+hints:
+  - "whose работает и с людьми, и с организациями, местами, вещами."
+  - "the + существительное + of which — формальная замена whose для вещей."
+  - "those who / those which — не these."
+items:
+  - q: "Napa is a region ___ wines are known all over the world."
+    answers: ["whose"]
+    explain: "**whose** подходит и для мест: *a region whose wines…* ~~which wines~~ невозможно — *which* не притяжательное."
+  - q: "It was a decision ___ consequences nobody had foreseen."
+    answers: ["whose"]
+    explain: "«решение, последствия которого» → **whose consequences**. Вещь в роли владельца — нормально для *whose*."
+  - q: "Draw a triangle, the longest side ___ is ten centimetres."
+    answers: ["of which"]
+    explain: "Формальный вариант *whose longest side*: **the longest side of which**."
+  - q: "The novel, ___ (title) I have unfortunately forgotten, is set in Lisbon."
+    answers: ["whose title", "the title of which", "of which the title"]
+    explain: "«название которого» → **whose title** или формально **the title of which**. ~~which title~~ — ошибка."
+  - q: "___ (местоимение) who arrive after the doors close will not be admitted."
+    answers: ["Those", "All"]
+    explain: "**Those who** = «те, кто» — стандартная формула правил и объявлений. ~~These who~~ не употребляется."
+  - q: "His arguments are very similar to ___ we heard at last year's conference."
+    answers: ["those", "the ones", "those that", "those which", "the ones that", "the ones which", "what"]
+    explain: "Вместо повтора *arguments* → **those (that/which)** или разговорное *the ones*. ~~similar to which~~ невозможно."
+  - q: "There isn't much ___ escapes her attention."
+    answers: ["that"]
+    explain: "После *much, little, all, everything* — **that**, не *which*. Местоимение — подлежащее (*escapes*), опустить нельзя."
+  - q: "The company, ___ founder still sits on the board, has been sold to a rival."
+    answers: ["whose"]
+    explain: "«основатель которой» → **whose founder**. Для организаций *whose* — норма."
+  - q: "I don't know anyone ___ could lend us a van at such short notice."
+    answers: ["who", "that"]
+    explain: "*anyone* + **who** (или *that*). Подлежащее придаточного — опустить нельзя."
+  - q: "She insists that it's you ___ should apologise, not her."
+    answers: ["who", "that"]
+    explain: "Выделительная конструкция *it is you **who***: «именно ты». Глагол после *who* согласуется с *you*."
+  - q: "The museum houses two thousand paintings, the most valuable ___ is a small Vermeer."
+    answers: ["of which"]
+    explain: "Превосходная степень + **of which** выделяет одну вещь из группы."

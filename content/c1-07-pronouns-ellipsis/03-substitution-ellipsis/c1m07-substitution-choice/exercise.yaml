@@ -1,0 +1,52 @@
+title: "Замена и эллипсис: выбери естественный вариант"
+type: choice
+intro: "Выбери единственный вариант, который грамматичен **и** естественен для носителя в этом контексте."
+hints:
+  - "После want / like / need в эллипсисе остаётся to; после отрицания — обязательно."
+  - "После because, although, when подлежащее не опускают."
+  - "know и be sure не сочетаются с so."
+items:
+  - q: "— Are you coming to the party on Saturday? — I'd love ___, but I'm working."
+    options: ["(ничего не нужно)", "to", "it"]
+    answer: 1
+    explain: "После *love / like / want* в эллипсисе остаётся частица: **I'd love to**. *I'd love it* значит «мне бы понравилось (это)» — не ответ на приглашение."
+  - q: "— Did you lock the back door? — Yes, I'm ___."
+    options: ["sure so", "sure", "sure of it so"]
+    answer: 1
+    explain: "После *be sure* и *know* **не** ставят *so*: *Yes, I'm sure. — I know.*"
+  - q: "She promised to finish the report by Friday, and ___."
+    options: ["she did", "she did it so", "so she did it"]
+    answer: 0
+    explain: "Эллипсис после вспомогательного: **she did** (= she did finish it). Это классическое *She said she would, and she did*."
+  - q: "I'm not going to apologise, because ___."
+    options: ["did nothing wrong", "I did nothing wrong", "nothing wrong"]
+    answer: 1
+    explain: "После подчинительных союзов (*because, although, if*) подлежащее не опускают: **because I did nothing wrong**."
+  - q: "— You should take a day off. — I know I should, but I really don't ___."
+    options: ["want", "want to", "want it"]
+    answer: 1
+    explain: "После отрицания частица *to* обязательна: **I don't want to**. ~~I don't want~~ звучит обрубленно."
+  - q: "I used to play the violin, but I haven't ___ for years."
+    options: ["done so", "it", "so"]
+    answer: 0
+    explain: "**done so** заменяет *played the violin* (глагол + дополнение). Голые *so* или *it* после вспомогательного глагола не заменяют глагольную группу."
+  - q: "Mark chose the vegetarian option, and ___."
+    options: ["Sarah the fish", "she the fish", "her the fish"]
+    answer: 0
+    explain: "Формальный пропуск глагола (gapping) возможен, если подлежащее — существительное: **Sarah the fish**. С местоимением глагол лучше оставить: *and she had the fish*."
+  - q: "Someone has been leaving the fridge door open, but I have no idea ___."
+    options: ["who", "who is", "who it"]
+    answer: 0
+    explain: "После вопросительного слова повтор опускают: **I have no idea who** (= who has been leaving it open)."
+  - q: "— Will the results be published before the summer? — I ___. They're still checking the data."
+    options: ["don't hope so", "don't expect so", "expect not so"]
+    answer: 1
+    explain: "*expect* в отрицании — **I don't expect so**. *hope* так не работает (~~don't hope so~~), а *expect not so* — смешение двух моделей."
+  - q: "We were told the building would be evacuated, and within ten minutes ___."
+    options: ["it was", "it was so", "it did"]
+    answer: 0
+    explain: "Эллипсис после вспомогательного глагола пассива: **it was** (= it was evacuated). *it did* не подходит: вспомогательный в первой части — *be*."
+  - q: "I've been invited to give the keynote speech, but I'm not sure I ___."
+    options: ["can", "can it", "can do it so"]
+    answer: 0
+    explain: "После модального глагола глагольная группа опускается: **I'm not sure I can** (= can give it)."

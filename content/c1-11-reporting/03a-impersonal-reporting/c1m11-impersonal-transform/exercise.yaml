@@ -1,0 +1,69 @@
+title: "Безличный пересказ (C1 Advanced, Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово** без изменений и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "It is said that X did → X is said to have done; X is doing → X is said to be doing."
+  - "Если мнение было в прошлом, в прошлом и reporting verb: was feared, were thought."
+  - "There is / are + V3 + to be."
+items:
+  - q: "People believe that the painting was stolen in 1990."
+    key: "BELIEVED"
+    stem: "The painting ___ in 1990."
+    answers: ["is believed to have been stolen"]
+    explain: "Кража была **раньше** мнения и в пассиве → **to have been stolen**."
+  - q: "It is said that the company is planning a merger."
+    key: "SAID"
+    stem: "The company ___ a merger."
+    answers: ["is said to be planning"]
+    explain: "Процесс в момент мнения → **to be planning**. *to plan* потеряло бы значение «прямо сейчас готовит»."
+  - q: "Reports say that negotiations are continuing behind closed doors."
+    key: "REPORTED"
+    stem: "Negotiations ___ behind closed doors."
+    answers: ["are reported to be continuing"]
+    explain: "*Reports say* → **are reported**, длительность → *to be continuing*."
+  - q: "People think there are fewer than fifty tigers left in the region."
+    key: "THOUGHT"
+    stem: "There ___ fewer than fifty tigers left in the region."
+    answers: ["are thought to be"]
+    explain: "Конструкция **there are thought to be** сохраняет формальное *there* как подлежащее."
+  - q: "It was feared that the climbers had died in the avalanche."
+    key: "FEARED"
+    stem: "The climbers ___ in the avalanche."
+    answers: ["were feared to have died"]
+    explain: "Мнение было в прошлом → **were feared**; гибель раньше этого мнения → *to have died*."
+  - q: "It is alleged that the director falsified the accounts."
+    key: "ALLEGEDLY"
+    stem: "The director ___ ."
+    answers: ["allegedly falsified the accounts", "has allegedly falsified the accounts"]
+    explain: "Наречие **allegedly** заменяет весь оборот *It is alleged that* и стоит перед смысловым глаголом."
+  - q: "Everyone knows that he has a short temper."
+    key: "KNOWN"
+    stem: "He ___ a short temper."
+    answers: ["is known to have"]
+    explain: "Здесь *have* = «иметь», состояние одновременно с моментом знания → простой инфинитив **to have**, а не перфектный."
+  - q: "The weather service says that the storm will reach the coast tonight."
+    key: "ACCORDING"
+    stem: "___ service, the storm will reach the coast tonight."
+    answers: ["According to the weather"]
+    explain: "**according to** + источник; глагол *says* при этом исчезает — дублировать его нельзя."
+  - q: "It appears that the policy has had little effect."
+    key: "APPEARS"
+    stem: "The policy ___ little effect."
+    answers: ["appears to have had"]
+    explain: "*appear / seem* строятся как reporting verbs: результат к настоящему моменту → **to have had**."
+  - q: "People expect that the minister will resign this week."
+    key: "EXPECTED"
+    stem: "The minister ___ this week."
+    answers: ["is expected to resign"]
+    explain: "Будущее относительно ожидания передаётся простым инфинитивом: **is expected to resign**."
+  - q: "It is rumoured that the singer is leaving the band."
+    key: "RUMOURED"
+    stem: "The singer ___ the band."
+    answers: ["is rumoured to be leaving"]
+    explain: "*rumour* как глагол живёт **только в пассиве**: *is rumoured to be leaving*. ~~People rumour that~~ — ошибка."
+  - q: "People say that the documents were destroyed before the inquiry began."
+    key: "HAVE"
+    stem: "The documents are said ___ before the inquiry began."
+    answers: ["to have been destroyed"]
+    explain: "Событие в прошлом и в пассиве → перфектный пассивный инфинитив **to have been destroyed**."

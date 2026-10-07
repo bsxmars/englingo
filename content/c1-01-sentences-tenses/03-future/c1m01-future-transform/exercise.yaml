@@ -1,0 +1,64 @@
+title: "Перефразирование: будущее (C1 Advanced, Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "be due to, be set to, be bound to, be about to, be on the verge of — устойчивые конструкции будущего."
+  - "Неосуществлённый план в прошлом → was going to / was to have done."
+  - "К моменту в будущем → will have done; сколько будет длиться → will have been doing."
+items:
+  - q: "The train should arrive at 10.40, according to the timetable."
+    key: "DUE"
+    stem: "The train ___ 10.40."
+    answers: ["is due to arrive at", "is due at", "'s due to arrive at", "is due in at"]
+    explain: "*be due to* + инфинитив — «по графику»: **is due to arrive at** 10.40. Можно и короче: *is due at*."
+  - q: "The company is very close to going bankrupt."
+    key: "VERGE"
+    stem: "The company ___ bankruptcy."
+    answers: ["is on the verge of", "is on the very verge of", "'s on the verge of"]
+    explain: "*be on the verge of* + существительное или -ing — «на грани»: **is on the verge of** bankruptcy."
+  - q: "I was just going to leave the office when the phone rang."
+    key: "POINT"
+    stem: "I ___ the office when the phone rang."
+    answers: ["was on the point of leaving", "was just on the point of leaving"]
+    explain: "*be on the point of* + **-ing** — «вот-вот»: **was on the point of leaving**."
+  - q: "The ceremony was planned for June, but it never happened."
+    key: "HAVE"
+    stem: "The ceremony ___ in June."
+    answers: ["was to have taken place", "was to have been held", "was supposed to have taken place", "was meant to have taken place", "was to have happened"]
+    explain: "*was to* + перфектный инфинитив — план, который **не осуществился**: **was to have taken place**."
+  - q: "Experts predict that house prices will fall further next year."
+    key: "SET"
+    stem: "House prices ___ further next year, experts predict."
+    answers: ["are set to fall", "are set to drop", "are set to decline"]
+    explain: "*be set to* — «ожидается», типично для новостей: **are set to fall**."
+  - q: "I'm sure he'll find out about the party sooner or later."
+    key: "BOUND"
+    stem: "He ___ about the party sooner or later."
+    answers: ["is bound to find out", "'s bound to find out"]
+    explain: "*be bound to* — «наверняка, неизбежно»: **is bound to find out**."
+  - q: "We won't finish the project unless we hire two more developers."
+    key: "ARE"
+    stem: "If we ___ the project, we need to hire two more developers."
+    answers: ["are to finish", "are to complete", "are to get through", "are ever to finish"]
+    explain: "*If we are to* + инфинитив — «если мы хотим, чтобы…»: **If we are to finish** the project, we need…"
+  - q: "By next June, she will have worked here for exactly twenty years."
+    key: "BEEN"
+    stem: "Next June, she ___ for exactly twenty years."
+    answers: ["will have been working here", "'ll have been working here"]
+    explain: "Длительность к моменту в будущем → Future Perfect Continuous: **will have been working here**."
+  - q: "Do you need the meeting room this afternoon? If not, we'd like to book it."
+    key: "USING"
+    stem: "___ the meeting room this afternoon?"
+    answers: ["Will you be using", "Are you using", "Are you going to be using"]
+    explain: "Вежливый вопрос о планах без давления → Future Continuous: **Will you be using**…? Подходит и *Are you using…?* (договорённость)."
+  - q: "The minister intends to announce the reforms tomorrow, a spokesperson confirmed."
+    key: "TO"
+    stem: "The minister ___ the reforms tomorrow, a spokesperson confirmed."
+    answers: ["is to announce", "is going to announce", "is due to announce", "is set to announce", "'s going to announce", "'s to announce"]
+    explain: "Официальный план в новостном стиле — **is to announce** (также *is due / set / going to announce*)."
+  - q: "I had no idea at that time that I would end up living abroad."
+    key: "LITTLE"
+    stem: "___ that I would end up living abroad."
+    answers: ["Little did I know", "Little did I realise", "Little did I think", "Little did I suspect", "Little did I imagine", "Little did I realize"]
+    explain: "Книжная инверсия после *Little*: **Little did I know** that I would end up… — будущее в прошедшем через *would*."

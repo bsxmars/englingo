@@ -1,0 +1,47 @@
+title: "will, would, be going to, shall: оттенки"
+type: choice
+intro: "Все варианты грамматически возможны, но по смыслу подходит только один. Выбери его."
+hints:
+  - "will — уверенный прогноз или готовность; would — воображаемая ситуация, привычка в прошлом, вежливость."
+  - "be going to — по признакам сейчас или уже принятое решение; was going to — несостоявшийся план."
+items:
+  - q: "— There's someone at the door. — That ___ the plumber; he said he'd come around ten."
+    options: ["would be", "will be", "was going to be"]
+    answer: 1
+    explain: "Уверенное предположение о настоящем по известным фактам → **will be**. *would be* звучало бы как воображаемая ситуация, *was going to be* — план в прошлом."
+  - q: "I ___ ask you for the report, but I see it's already on my desk."
+    options: ["am going to", "will", "was going to"]
+    answer: 2
+    explain: "Намерение в прошлом, которое уже не понадобилось → **was going to**. *am going to* и *will* противоречат второй части: отчёт уже на столе."
+  - q: "Introducing a four-day week ___ staff morale, but the board is unlikely to approve it."
+    options: ["will improve", "would improve", "is going to improve"]
+    answer: 1
+    explain: "Неделю вряд ли введут — ситуация гипотетическая → **would improve**."
+  - q: "When we were students, we ___ argue about politics until dawn."
+    options: ["would", "will", "were going to"]
+    answer: 0
+    explain: "Повторяющееся действие в прошлом → **would** (= used to). *were going to* означало бы несостоявшийся план."
+  - q: "I keep trying, but the app ___ sync with my laptop."
+    options: ["wouldn't", "won't", "shouldn't"]
+    answer: 1
+    explain: "«Никак не хочет» сейчас — упрямство вещи в настоящем → **won't**. *wouldn't* — то же, но про прошлое; *shouldn't* — «не должно», а не отказ."
+  - q: "— The kitchen is a mess. — Leave it, I ___ clean it up after the guests leave."
+    options: ["'ll", "'d", "was going to"]
+    answer: 0
+    explain: "Готовность, решение в момент речи → **'ll**. *'d* потребовало бы условия («сделал бы, если…»)."
+  - q: "Look at the queue! We ___ miss the start of the film."
+    options: ["would", "were going to", "are going to"]
+    answer: 2
+    explain: "Прогноз по тому, что видно сейчас (очередь) → **are going to**. *were going to* — несостоявшийся план в прошлом, *would* — воображаемая ситуация."
+  - q: "___ I forward you the minutes of the meeting?"
+    options: ["Will", "Shall", "Would"]
+    answer: 1
+    explain: "Предложение помощи от первого лица → **Shall I…?** *Will I…?* — вопрос о будущем факте, *Would I…?* — о гипотетической ситуации."
+  - q: "My grandfather ___ live in a small fishing village before the war."
+    options: ["would", "used to", "will"]
+    answer: 1
+    explain: "*live* — состояние, а *would* о прошлом описывает только повторяющиеся действия → **used to**."
+  - q: "Medieval sailors spent months on salted meat and biscuits. You ___ it."
+    options: ["will have hated", "would have hated", "were going to hate"]
+    answer: 1
+    explain: "Воображаемое прошлое («тебе бы это не понравилось, если бы ты там оказался») → **would have hated**. *will have hated* — уверенность о реальном прошлом."

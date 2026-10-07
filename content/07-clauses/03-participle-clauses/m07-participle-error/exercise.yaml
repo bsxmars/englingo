@@ -1,0 +1,37 @@
+title: "Исправь причастие"
+type: error
+intro: "В каждом предложении **одна** ошибка. Исправь её и отправь всё предложение целиком."
+hints:
+  - "Проверь: активное (-ing) или пассивное (V3) значение?"
+  - "Отрицание — Not + -ing. После when / after / before — -ing, а не to."
+items:
+  - q: "The photos taking at the wedding were beautiful."
+    answers: ["The photos taken at the wedding were beautiful.", "The photos that were taken at the wedding were beautiful.", "The photos which were taken at the wedding were beautiful."]
+    explain: "Фото сделали (пассив) → **taken**, а не *taking*."
+  - q: "Knowing not the answer, I stayed silent."
+    answers: ["Not knowing the answer, I stayed silent."]
+    explain: "Отрицание причастного оборота — **Not** в начале: *Not knowing*."
+  - q: "Having finish the meeting, we went for lunch."
+    answers: ["Having finished the meeting, we went for lunch."]
+    explain: "Перфектное причастие — **having + V3**: *having finished*."
+  - q: "Building in the 1960s, the stadium now needs a new roof."
+    answers: ["Built in the 1960s, the stadium now needs a new roof."]
+    explain: "Стадион построили (пассив) → **Built**. *Building* значило бы, что стадион сам что-то строил."
+  - q: "Anyone wanted to leave early should tell the manager."
+    answers: ["Anyone wanting to leave early should tell the manager.", "Anyone who wants to leave early should tell the manager."]
+    explain: "Активное значение («кто хочет») → **wanting** или полное *who wants*."
+  - q: "People lived near the airport often complain about the noise."
+    answers: ["People living near the airport often complain about the noise.", "People who live near the airport often complain about the noise."]
+    explain: "Люди сами живут → **living** (= *who live*)."
+  - q: "Be careful when you crossing the road."
+    answers: ["Be careful when crossing the road.", "Be careful when you cross the road.", "Be careful when you are crossing the road.", "Be careful when you're crossing the road."]
+    explain: "Либо сокращённо **when crossing**, либо полное придаточное *when you cross*. Смешивать нельзя."
+  - q: "After to finish the exam, you can leave the room."
+    answers: ["After finishing the exam, you can leave the room.", "After having finished the exam, you can leave the room.", "After you finish the exam, you can leave the room.", "After you have finished the exam, you can leave the room.", "After you've finished the exam, you can leave the room."]
+    explain: "После предлога *after* — **-ing**: *after finishing*. *to* после предлога невозможно."
+  - q: "Being tired, so I went to bed early."
+    answers: ["Being tired, I went to bed early.", "I was tired, so I went to bed early."]
+    explain: "Причастный оборот уже выражает причину, *so* лишнее: **Being tired, I went…** Или полное предложение: *I was tired, so…*"
+  - q: "The documents signing yesterday are on your desk."
+    answers: ["The documents signed yesterday are on your desk.", "The documents that were signed yesterday are on your desk.", "The documents which were signed yesterday are on your desk."]
+    explain: "Документы подписали (пассив) → **signed**."

@@ -1,0 +1,128 @@
+- id: m15-which-class
+  lesson: 15-word-formation/01-nouns
+  q: "Какая часть речи нужна: *the ___ of the bridge*, *She seems very ___*, *He drove ___*?"
+  a: "Существительное (после *the*, перед *of*); прилагательное (после *seem*); наречие (описывает глагол)."
+- id: m15-part3-questions
+  lesson: 15-word-formation/01-nouns
+  q: "Какие три вопроса задать к пропуску в Part 3 после выбора части речи?"
+  a: "Единственное или множественное? Положительное или отрицательное? Меняется ли корень и орфография?"
+- id: m15-employer-employee
+  lesson: 15-word-formation/01-nouns
+  q: "Разница: *employer* / *employee* / *employment*?"
+  a: "*employer* — работодатель; *employee* — работник; *employment* — занятость, работа."
+- id: m15-th-nouns
+  lesson: 15-word-formation/01-nouns
+  q: "Существительные от *high, long, strong, wide, deep, grow*."
+  a: "*height, length, strength, width, depth, growth*."
+- id: m15-pronunciation
+  lesson: 15-word-formation/01-nouns
+  q: "Существительные от *pronounce* и *explain* — как пишутся?"
+  a: "***pronunciation*** (без *o*), ***explanation*** (без *i*)."
+- id: m15-ship-hood
+  lesson: 15-word-formation/01-nouns
+  q: "Что значат суффиксы **-ship** и **-hood**? Примеры."
+  a: "*-ship* — отношения, статус: *friendship, membership*; *-hood* — период, состояние: *childhood, neighbourhood*."
+- id: m15-advice-advise
+  lesson: 15-word-formation/01-nouns
+  q: "*advice* или *advise*: Can you give me some ___?"
+  a: "***advice*** — существительное, неисчисляемое; *advise* — глагол."
+- id: m15-economic-economical
+  lesson: 15-word-formation/02-adjectives-adverbs
+  q: "Разница: *economic* / *economical*?"
+  a: "*economic* — экономический (*economic crisis*); *economical* — экономный (*an economical car*)."
+- id: m15-sensible-sensitive
+  lesson: 15-word-formation/02-adjectives-adverbs
+  q: "Разница: *sensible* / *sensitive*?"
+  a: "*sensible* — разумный; *sensitive* — чувствительный."
+- id: m15-helpful-helpless
+  lesson: 15-word-formation/02-adjectives-adverbs
+  q: "Разница: *helpful* / *helpless* / *unhelpful*?"
+  a: "*helpful* — полезный, отзывчивый; *helpless* — беспомощный; *unhelpful* — не желающий помочь."
+- id: m15-priceless
+  lesson: 15-word-formation/02-adjectives-adverbs
+  q: "*priceless* — это «дешёвый»?"
+  a: "Нет: *priceless* — бесценный, очень дорогой. «Ничего не стоящий» — *worthless*."
+- id: m15-ful-spelling
+  lesson: 15-word-formation/02-adjectives-adverbs
+  q: "Найди ошибку: *It was a successfull and beautifull day.*"
+  a: "*successful, beautiful* — суффикс *-ful* с одной *l*. Наречия — с двумя: *successfully*."
+- id: m15-ically
+  lesson: 15-word-formation/02-adjectives-adverbs
+  q: "Наречия от *dramatic*, *easy*, *possible*."
+  a: "*dramatically* (-ic → -ically), *easily* (-y → -ily), *possibly* (-le → -ly)."
+- id: m15-im-il-ir
+  lesson: 15-word-formation/03-prefixes
+  q: "Отрицательная форма: *possible, legal, regular, patient*."
+  a: "*impossible, illegal, irregular, impatient* — *im-* перед m/p, *il-* перед l, *ir-* перед r."
+- id: m15-inability
+  lesson: 15-word-formation/03-prefixes
+  q: "*unable* → существительное с отрицанием?"
+  a: "***inability*** (не ~~unability~~)."
+- id: m15-dishonest
+  lesson: 15-word-formation/03-prefixes
+  q: "Найди ошибку: *It was unhonest of him to lie.*"
+  a: "*It was **dishonest** of him…* — *honest → dishonest, honesty → dishonesty*."
+- id: m15-mis-re-over-under
+  lesson: 15-word-formation/03-prefixes
+  q: "Что значат *mis-*, *re-*, *over-*, *under-*?"
+  a: "*mis-* — неправильно (*misunderstand*); *re-* — заново (*rewrite*); *over-* — слишком много (*overpriced*); *under-* — слишком мало (*underpaid*)."
+- id: m15-unfortunately
+  lesson: 15-word-formation/03-prefixes
+  q: "FORTUNE → наречие с отрицанием?"
+  a: "***unfortunately***: *un-* + *fortunate* + *-ly*."
+- id: m15-productivity
+  lesson: 15-word-formation/04-reading
+  q: "Семейство слов от *produce*."
+  a: "*product, production, producer, productive, productivity, unproductive*."
+- id: m15-increase-in
+  lesson: 15-word-formation/05-writing
+  q: "Какие предлоги: an increase ___ productivity, a lack ___ time, a solution ___ the problem?"
+  a: "*an increase **in***, *a lack **of***, *a solution **to***."
+- id: m15-b2-vocab
+  lesson: 15-word-formation/05-writing
+  q: "Как сказать по-B2: *people who have no job*, *more and more*, *it is not possible*?"
+  a: "*the unemployed / unemployment*; *increasingly*; *it is impossible*."
+- id: m15-applicants-plural
+  lesson: 15-word-formation/01-nouns
+  q: "Part 3: *Several ___ (APPLY) were invited to an interview.*"
+  a: "***applicants*** — речь о людях, и *several* требует мн. ч. *applications* — заявления."
+- id: m15-historic-historical
+  lesson: 15-word-formation/02-adjectives-adverbs
+  q: "**historic** или **historical**: a ___ novel, a ___ victory?"
+  a: "*a **historical** novel* (связанный с историей); *a **historic** victory* (исторически важная)."
+- id: m15-mislead-unpack
+  lesson: 15-word-formation/03-prefixes
+  q: "**mis-**, **dis-** или **un-** с глаголом: ___lead, ___obey, ___pack?"
+  a: "***mis**lead* (неправильно), ***dis**obey* (противоположное), ***un**pack* (отменить действие)."
+- id: m15-verb-suffixes
+  lesson: 15-word-formation/03a-verbs-negative-prefixes
+  q: "Какими способами образуются глаголы: wide, able, modern, simple?"
+  a: "*wid**en***, ***en**able*, *modern**ise / ize***, *simpl**ify*** — суффиксы *-en, -ise, -ify* и приставка *en-*."
+- id: m15-strengthen
+  lesson: 15-word-formation/03a-verbs-negative-prefixes
+  q: "Глагол от **strong** и **long**?"
+  a: "Через существительное: *strength → **strengthen***, *length → **lengthen***. Но *wide → **widen***."
+- id: m15-enlarge-error
+  lesson: 15-word-formation/03a-verbs-negative-prefixes
+  q: "Найди ошибку: *Could you large this photo?*"
+  a: "*Could you **enlarge** this photo?* — прилагательное само по себе не глагол."
+- id: m15-ise-ize
+  lesson: 15-word-formation/03a-verbs-negative-prefixes
+  q: "**-ise** или **-ize**: modernise / modernize?"
+  a: "Оба верны (брит. / амер.), главное — единообразно в тексте. Только *-ise*: *advertise, advise, exercise, surprise*."
+- id: m15-simplified-spelling
+  lesson: 15-word-formation/03a-verbs-negative-prefixes
+  q: "Формы глагола **simplify**: -s, -ed, -ing?"
+  a: "*simplif**ies***, *simplif**ied*** (*y → i*), но *simplif**ying***."
+- id: m15-dissatisfied
+  lesson: 15-word-formation/03a-verbs-negative-prefixes
+  q: "Найди ошибку: *I was disatisfied and I always mispell it.*"
+  a: "***diss**atisfied*, ***miss**pell*: приставка + корень целиком, буквы удваиваются."
+- id: m15-unbelievably
+  lesson: 15-word-formation/03a-verbs-negative-prefixes
+  q: "Part 3: *The view was ___ (BELIEVE) beautiful.*"
+  a: "***unbelievably*** — un- + -able + -ly; *-le* → *-ly*, не ~~unbelievablely~~."
+- id: m15-non-mal
+  lesson: 15-word-formation/03a-verbs-negative-prefixes
+  q: "Что значат **non-** и **mal-**? Примеры."
+  a: "**non-** — «не являющийся»: *non-existent, non-smoker*; **mal-** — «плохо»: *malfunction, malnutrition*."

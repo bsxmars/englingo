@@ -1,0 +1,56 @@
+title: "Какая связка подходит по смыслу?"
+type: choice
+intro: "Все варианты — настоящие связки. Выбери ту, которая подходит по **логике** и **регистру**. Прочитай обе части и спроси себя: это добавление, контраст, опровержение, следствие или время?"
+hints:
+  - "on the contrary опровергает предыдущее (чаще отрицательное) утверждение; on the other hand даёт вторую сторону того же вопроса."
+  - "hence + существительное; thereby + -ing."
+  - "besides — разговорное «да и вообще»; moreover — формальное «более того»."
+items:
+  - q: "The new booking system has not reduced waiting times. ___, many patients now wait longer than they did before."
+    options: ["On the contrary", "On the other hand", "Likewise", "In other words"]
+    answer: 0
+    explain: "Вторая часть **опровергает** ожидание из первой (не сократилось — наоборот, выросло). После отрицательного утверждения это работа **On the contrary**."
+  - q: "Renting gives you the freedom to move whenever you like. ___, you never build up any equity."
+    options: ["On the contrary", "Moreover", "On the other hand", "Hence"]
+    answer: 2
+    explain: "Это две стороны одного вопроса — плюс и минус аренды → **On the other hand**. *On the contrary* отрицало бы, что аренда даёт свободу."
+  - q: "The scheme is extremely expensive to run. ___, there is little evidence that it actually works."
+    options: ["Nevertheless", "Moreover", "Conversely", "Instead"]
+    answer: 1
+    explain: "Оба довода работают против программы, второй сильнее → **Moreover** («более того»). *Nevertheless* предполагало бы противоположный вывод."
+  - q: "Average wages in the capital rose by six per cent last year. ___, in rural areas they fell slightly."
+    options: ["On the contrary", "Besides", "By contrast", "Accordingly"]
+    answer: 2
+    explain: "Сравниваются два разных объекта (столица и сельские районы) → **By contrast**. *On the contrary* здесь нечего опровергать."
+  - q: "I really don't think we should hire a car. ___, neither of us has driven on the left before."
+    options: ["Conversely", "Besides", "Nonetheless", "Thus"]
+    answer: 1
+    explain: "Разговорная речь, добавочный и решающий довод «да и вообще» → **Besides**."
+  - q: "The evidence against him appeared overwhelming. ___, the jury took less than an hour to acquit him."
+    options: ["Furthermore", "Likewise", "Nonetheless", "Hence"]
+    answer: 2
+    explain: "Результат вопреки ожиданию → **Nonetheless** («тем не менее»). *Hence* подразумевал бы, что оправдание следует из улик."
+  - q: "Don't be too hard on her about the mistake. ___, it's only her first week in the job."
+    options: ["After all", "Meanwhile", "Even so", "In contrast"]
+    answer: 0
+    explain: "**After all** в начале — «не забывай, ведь…»: напоминание, которое оправдывает предыдущую мысль."
+  - q: "The bridge was declared structurally unsafe in March — ___ the six-month closure and the endless traffic jams."
+    options: ["thereby", "hence", "therefore", "consequently"]
+    answer: 1
+    explain: "После пропуска — только существительные, без глагола. Так работает **hence**: «отсюда и…». *Therefore* и *consequently* требуют полного предложения, *thereby* — причастия."
+  - q: "Engineers will inspect the building next week. ___, it must remain closed to the public."
+    options: ["Previously", "In the meantime", "Thereby", "Conversely"]
+    answer: 1
+    explain: "«А пока, до проверки» → **In the meantime**. *Previously* указывало бы на прошлое, а речь о времени до будущего события."
+  - q: "The firm digitised its entire archive, ___ cutting its storage costs by forty per cent."
+    options: ["moreover", "thereby", "meanwhile", "conversely"]
+    answer: 1
+    explain: "«Тем самым сократив» — результат того же действия, выраженный причастием → **thereby + -ing**."
+  - q: "The minister initially denied all knowledge of the payments. He ___ admitted that he had approved them himself."
+    options: ["previously", "simultaneously", "subsequently", "meanwhile"]
+    answer: 2
+    explain: "Сначала отрицал, **впоследствии** признал → **subsequently** — формальное «позже, затем»."
+  - q: "My thanks go to the organisers, the volunteers and our generous sponsors. ___, a huge thank you to my parents, without whom none of this would have been possible."
+    options: ["At last", "In the first place", "Last but not least", "In short"]
+    answer: 2
+    explain: "Последний пункт списка, но очень важный → **Last but not least**. *At last* — «наконец-то» после долгого ожидания, а не «и последнее»."

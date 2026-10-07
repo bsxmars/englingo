@@ -1,0 +1,55 @@
+title: "Событие или фон?"
+type: choice
+intro: "Выбери вариант, который подходит по смыслу. Иногда грамматически возможны оба, но верен только один — для этой ситуации."
+hints:
+  - "Есть момент, на фоне которого действие шло? → Past Continuous."
+  - "Цепочка событий, факт, глагол состояния → Past Simple."
+items:
+  - q: "I ___ the release notes when Slack suddenly went down."
+    options: ["wrote", "was writing", "have written"]
+    answer: 1
+    explain: "Длинное действие (писал) прервано коротким (Slack упал) → **was writing**."
+  - q: "She opened the laptop, ___ her password and started the call."
+    options: ["was typing", "typed", "had typed"]
+    answer: 1
+    explain: "Действия идут друг за другом → все в **Past Simple**: *opened, typed, started*."
+  - q: "Sorry I missed your call — I ___ a shower."
+    options: ["was having", "had", "have had"]
+    answer: 0
+    explain: "Объясняем, чем был занят в момент звонка → процесс → **was having**. *have a shower* — действие, Continuous возможен."
+  - q: "When the guests arrived, we ___ the table, so they helped us finish."
+    options: ["laid", "were laying", "had laid"]
+    answer: 1
+    explain: "Гости помогли **закончить** — значит, процесс ещё шёл → **were laying**. С *had laid* стол был бы уже накрыт."
+  - q: "When the alarm went off, everyone ___ the building."
+    options: ["left", "was leaving", "were leaving"]
+    answer: 0
+    explain: "Сначала сирена, **потом** все вышли — реакция на событие → **left**."
+  - q: "I ___ who she was, so I asked my colleague."
+    options: ["wasn't knowing", "didn't know", "haven't known"]
+    answer: 1
+    explain: "*know* — глагол состояния, в Continuous не ставится → **didn't know**."
+  - q: "My brother ___ my things without asking — it drove me mad."
+    options: ["always borrowed", "was always borrowing", "always was borrowing"]
+    answer: 1
+    explain: "Раздражающая привычка → **was always + -ing**. *always* стоит между *was* и *-ing*."
+  - q: "___ I was crossing the bridge, I noticed smoke rising from a building."
+    options: ["During", "As", "Meanwhile"]
+    answer: 1
+    explain: "**As** (= *while*) — союз, вводит длинный процесс. *During* — предлог (*during the walk*), *meanwhile* — наречие «тем временем», они не соединяют два предложения."
+  - q: "We ___ to Sochi on Saturday, but the airport was closed because of fog."
+    options: ["flew", "were flying", "had flown"]
+    answer: 1
+    explain: "План в прошлом, который сорвался → **were flying**. С *flew* мы бы уже улетели."
+  - q: "I ___ if you could look at my pull request when you have a minute."
+    options: ["wondered", "was wondering", "am wondered"]
+    answer: 1
+    explain: "Вежливая просьба → **I was wondering if…** Прошедшее здесь создаёт дистанцию, а не говорит о прошлом."
+  - q: "My grandfather ___ in the army for twenty years."
+    options: ["was serving", "served", "has served"]
+    answer: 1
+    explain: "Законченный факт биографии, длительность не мешает → **served**. Continuous не нужен: нет момента, на фоне которого шёл процесс."
+  - q: "The lights went out just as I ___ the most important part of my speech."
+    options: ["started", "was starting", "was started"]
+    answer: 1
+    explain: "**just as** + процесс: свет погас ровно в тот момент, когда я начинал → **was starting**."

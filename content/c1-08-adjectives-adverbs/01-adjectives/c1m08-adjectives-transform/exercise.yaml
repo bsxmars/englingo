@@ -1,0 +1,63 @@
+title: "Перефразирование: прилагательные (C1 Advanced, Part 4)"
+type: transform
+intro: "Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое)."
+hints:
+  - "Compound adjective сворачивает придаточное: a walk that takes ten minutes → a ten-minute walk."
+  - "asleep, alive, afraid — только после связки; перед существительным — sleeping, living, frightened."
+  - "the + прилагательное = группа людей, глагол во множественном числе."
+items:
+  - q: "The contract lasts for two years and can be renewed."
+    key: "YEAR"
+    stem: "It is ___ that can be renewed."
+    answers: ["a two-year contract", "a two year contract"]
+    explain: "Число + существительное в compound — единственное число: **a two-year contract**, не ~~two-years~~."
+  - q: "None of the survivors of the expedition are still alive today."
+    key: "LIVING"
+    stem: "There are ___ the expedition."
+    answers: ["no living survivors of", "no survivors still living from", "no living survivors from", "no survivors living from"]
+    explain: "*alive* не встаёт перед существительным; перед ним — **living**: *no living survivors*."
+  - q: "The government should do more to help people who have no home."
+    key: "HOMELESS"
+    stem: "The government should do more to ___ ."
+    answers: ["help the homeless", "assist the homeless", "support the homeless", "help homeless people", "support homeless people", "assist homeless people"]
+    explain: "*the* + прилагательное — вся группа: **help the homeless** (без *-s*, глагол при нём во мн. ч.)."
+  - q: "Everyone who was at the meeting voted in favour."
+    key: "PRESENT"
+    stem: "All ___ voted in favour."
+    answers: ["the people present", "those present", "the members present", "the people who were present", "those who were present"]
+    explain: "*present* **после** существительного = «присутствующие»: *the people present*. Перед существительным (*the present members*) — «нынешние»."
+  - q: "This is a problem that people have known about for a long time."
+    key: "STANDING"
+    stem: "This is ___ ."
+    answers: ["a long-standing problem", "a long standing problem", "a longstanding problem"]
+    explain: "Compound adjective сворачивает придаточное о длительности: **a long-standing problem**."
+  - q: "The man in charge of safety has been suspended."
+    key: "RESPONSIBLE"
+    stem: "The ___ been suspended."
+    answers: ["man responsible for safety has", "person responsible for safety has", "manager responsible for safety has", "official responsible for safety has", "employee responsible for safety has"]
+    explain: "*responsible* **после** существительного = «тот, кто отвечает за»: *the man responsible for safety*. Перед существительным — «ответственный, надёжный»."
+  - q: "The party ended in complete disaster; there's no other word for it."
+    key: "UTTER"
+    stem: "The party was ___ ."
+    answers: ["an utter disaster", "an utter and complete disaster", "a complete and utter disaster", "an utter failure", "an utter catastrophe"]
+    explain: "*utter* стоит только **перед** существительным: **an utter disaster**. ~~The disaster was utter~~ невозможно."
+  - q: "The children were frightened and huddled together in the corner."
+    key: "FRIGHTENED"
+    stem: "There were ___ in the corner."
+    answers: ["some frightened children huddled together", "frightened children huddled together", "a few frightened children huddled together", "several frightened children huddled together", "frightened children huddling together", "some frightened children huddling together"]
+    explain: "Перед существительным нужно *frightened*, а не *afraid*: **frightened children** (~~afraid children~~)."
+  - q: "The two brothers look very similar to each other."
+    key: "ALIKE"
+    stem: "The two brothers ___ ."
+    answers: ["look very much alike", "look very alike", "look much alike", "look remarkably alike", "look strikingly alike", "look really alike", "look so alike", "look alike", "look exactly alike", "look almost exactly alike"]
+    explain: "*alike* — только после связки и без дополнения: **look very much alike**. Перед существительным было бы *similar*."
+  - q: "The plan was prepared very carefully, and it worked."
+    key: "WELL"
+    stem: "It was a ___ worked."
+    answers: ["well-prepared plan that", "well-prepared plan which", "well-prepared plan and it", "well-thought-out plan that", "well-thought-out plan which", "well-planned scheme that", "well prepared plan that", "well prepared plan which", "well-prepared plan, and it"]
+    explain: "*adv + V3* в compound = пассивное значение: **a well-prepared plan**. Перед существительным — с дефисом."
+  - q: "Is there anyone who is interested in joining the committee?"
+    key: "INTERESTED"
+    stem: "Is there ___ the committee?"
+    answers: ["anyone interested in joining", "anybody interested in joining", "anyone interested in becoming part of"]
+    explain: "После *anyone, something, nothing* прилагательное идёт **после** местоимения: **anyone interested in joining**."

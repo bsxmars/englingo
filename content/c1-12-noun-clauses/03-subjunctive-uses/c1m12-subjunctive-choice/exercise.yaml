@@ -1,0 +1,47 @@
+title: "Требование или утверждение? Стиль академического текста"
+type: choice
+intro: "Выбери вариант, который верен по смыслу и уместен в формальном письменном тексте."
+hints:
+  - "insist / suggest + требование → сослагательное; + утверждение факта → обычное время."
+  - "Вставка после that: первая запятая — после that."
+items:
+  - q: "Throughout the trial he insisted that he ___ nothing about the missing money."
+    options: ["know", "knew", "should know"]
+    answer: 1
+    explain: "Он **утверждал** факт («ничего не знал») → обычное прошедшее **knew**. Сослагательное значило бы требование."
+  - q: "The safety officer insisted that from now on every worker ___ a helmet on site."
+    options: ["wore", "wears", "wear"]
+    answer: 2
+    explain: "Требование (*from now on*) → сослагательное **wear**."
+  - q: "The latest figures suggest that unemployment ___ falling."
+    options: ["is", "be", "should be"]
+    answer: 0
+    explain: "*suggest* = «указывать, свидетельствовать» → утверждение, обычное время: **is**."
+  - q: "In a formal proposal: 'It is essential that the scheme ___ adequately funded from the outset.'"
+    options: ["will be", "be", "is going to be"]
+    answer: 1
+    explain: "После *it is essential that* в формальном стиле — сослагательное **be** (или *should be*)."
+  - q: "I sometimes wish I ___ more patient with my students."
+    options: ["am", "be", "were"]
+    answer: 2
+    explain: "После *wish* о настоящем — прошедшее сослагательное **were**."
+  - q: "We recommend that the medication ___ on an empty stomach."
+    options: ["be not taken", "not be taken", "doesn't be taken"]
+    answer: 1
+    explain: "Отрицание в сослагательном — **not** перед глаголом: *not be taken*."
+  - q: "Which sentence is punctuated correctly?"
+    options: ["The report concluded, that in the short term costs would rise.", "The report concluded that in the short term, costs, would rise.", "The report concluded that, in the short term, costs would rise."]
+    answer: 2
+    explain: "Вставка *in the short term* идёт после *that*, поэтому запятые — **после** *that* и после вставки."
+  - q: "___ the effect disappeared in larger samples suggests that it was a statistical artefact."
+    options: ["The fact that", "What", "Whether"]
+    answer: 0
+    explain: "Установленный факт в начале предложения, из которого делается вывод → **The fact that**."
+  - q: "Researchers have argued that bilingualism improves attention, ___ it may delay the onset of dementia."
+    options: ["and what", "and that", "which that"]
+    answer: 1
+    explain: "Второе однородное *that*-придаточное: **and that** — повтор *that* держит структуру."
+  - q: "After three weeks adrift, the sailor was rescued off the coast of Chile. ___ on rainwater alone astonished his doctors."
+    options: ["That he had survived", "If he had survived", "It he had survived"]
+    answer: 0
+    explain: "Известная информация (выжил) в начале как подлежащее → **That he had survived**."

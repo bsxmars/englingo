@@ -1,0 +1,47 @@
+title: "be или get, инфинитив или -ing"
+type: choice
+intro: "Выбери единственный верный вариант. Ловушки: потерянный предлог, неверный порядок с двумя дополнениями, путаница be и get."
+hints:
+  - "explain, describe, suggest не ставят человека в подлежащее."
+  - "Отрицание и вопрос с get строятся через do / did."
+items:
+  - q: "At the interview, I ___ about my previous job."
+    options: ["was asked a lot of questions", "was asked to me a lot of questions", "was been asked a lot of questions"]
+    answer: 0
+    explain: "*ask* — глагол с двумя дополнениями: *I **was asked** a lot of questions* («мне задали много вопросов»). *was been* — смешение двух форм: либо *was asked*, либо *have been asked*."
+  - q: "The procedure ___ before the operation."
+    options: ["was explained to the patient", "was explained the patient", "explained to the patient"]
+    answer: 0
+    explain: "С *explain* получатель всегда с **to**: *was explained **to** the patient*. И нужен *was* — процедуру объясняли."
+  - q: "I ___ for the work I did last month. Can you check?"
+    options: ["wasn't got paid", "didn't get paid", "didn't paid"]
+    answer: 1
+    explain: "get-passive в отрицании → *did not get* + V3: **didn't get paid**. *was* и *got* в одной форме не сочетаются."
+  - q: "Small children love ___ to at bedtime."
+    options: ["being read", "reading", "be reading"]
+    answer: 0
+    explain: "Детям читают вслух (*read to someone*) → пассивный герундий **being read to**, предлог *to* остаётся в конце. *reading to* без объекта не имеет смысла."
+  - q: "Their baby ___ by a nanny while they're at work."
+    options: ["is looked", "is looked after", "looks after"]
+    answer: 1
+    explain: "*look after* — «присматривать за». В пассиве предлог остаётся: **is looked after**. Без *after* смысл другой («на него смотрят»)."
+  - q: "My sister ___ last year. They'd been together for ten years."
+    options: ["got married", "was married by", "married with"]
+    answer: 0
+    explain: "Устойчивое **get married** — «пожениться». ~~married with~~ — калька с русского «на ком/с кем», в английском *marry someone* без предлога."
+  - q: "He's terrified of ___ in public."
+    options: ["laughing at", "being laughed", "being laughed at"]
+    answer: 2
+    explain: "После предлога *of* — *-ing*, смысл пассивный («что над ним посмеются»), а *at* обязателен: **being laughed at**."
+  - q: "Everyone who took part in the survey ___ a free coffee."
+    options: ["was given", "was given to", "gave"]
+    answer: 0
+    explain: "«Каждому участнику дали» → *Everyone… **was given** a free coffee*. *to* нужен только когда подлежащее — вещь: *A free coffee was given to everyone*."
+  - q: "The flight was delayed, so we ___ at the airport for six hours."
+    options: ["got stuck", "were sticking", "got stick"]
+    answer: 0
+    explain: "Устойчивое **get stuck** — «застрять». После *get* нужна третья форма: *stick – stuck – stuck*."
+  - q: "I really don't want ___ about this again. Just fix it."
+    options: ["to remind", "to be reminded", "being reminded"]
+    answer: 1
+    explain: "*want* + инфинитив; меня не должны напоминать → пассив **to be reminded**. *to remind* значило бы «я не хочу напоминать сам»."

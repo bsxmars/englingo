@@ -1,0 +1,136 @@
+- id: c1m10-forms-table
+  lesson: c1-10-infinitives-gerunds/01-complex-forms
+  q: "Назови шесть форм инфинитива от *write*."
+  a: "*to write, to be writing, to have written, to have been writing, to be written, to have been written*."
+- id: c1m10-perfect-inf
+  lesson: c1-10-infinitives-gerunds/01-complex-forms
+  q: "Переведи: «Похоже, она вчера ушла рано»."
+  a: "*She **seems to have left** early yesterday.* — кажется сейчас, ушла раньше."
+- id: c1m10-continuous-inf
+  lesson: c1-10-infinitives-gerunds/01-complex-forms
+  q: "Переведи: «Говорят, компания рассматривает слияние» (сейчас)."
+  a: "*The company **is said to be considering** a merger.*"
+- id: c1m10-perfect-passive-inf
+  lesson: c1-10-infinitives-gerunds/01-complex-forms
+  q: "Переведи: «Считается, что картину украли в 1945 году»."
+  a: "*The painting **is believed / thought to have been stolen** in 1945.*"
+- id: c1m10-having-been
+  lesson: c1-10-infinitives-gerunds/01-complex-forms
+  q: "Начни фразу оборотом: «После того как ей дважды отказали, она сменила подход»."
+  a: "***Having been rejected** twice, she changed her approach.*"
+- id: c1m10-would-like-perfect
+  lesson: c1-10-infinitives-gerunds/01-complex-forms
+  q: "Два способа сказать «Жаль, что я этого не видел» через *would like*."
+  a: "*I'd like **to have seen** it.* / *I'd have liked **to see** it.*"
+- id: c1m10-made-to
+  lesson: c1-10-infinitives-gerunds/01-complex-forms
+  q: "Найди ошибку: *We were made wait for an hour.*"
+  a: "*We were made **to** wait.* — в пассиве *make* и глаголы восприятия возвращают *to*."
+- id: c1m10-possessive-gerund
+  lesson: c1-10-infinitives-gerunds/01-complex-forms
+  q: "*him leaving* или *his leaving* — в чём разница?"
+  a: "Обе формы верны. Притяжательная (*his leaving*) — формальнее, для эссе и официальных писем."
+- id: c1m10-go-on
+  lesson: c1-10-infinitives-gerunds/02-verb-patterns
+  q: "*go on to do* или *go on doing*?"
+  a: "*go on **to do*** — перейти к новому действию; *go on **doing*** — продолжать то же самое."
+- id: c1m10-mean
+  lesson: c1-10-infinitives-gerunds/02-verb-patterns
+  q: "*mean to do* или *mean doing*?"
+  a: "*mean **to do*** — намереваться; *mean **doing*** — означать, влечь за собой: *The job means travelling.*"
+- id: c1m10-offer-error
+  lesson: c1-10-infinitives-gerunds/02-verb-patterns
+  q: "Найди ошибку: *He offered me to help with the move.*"
+  a: "*He **offered to help me** with the move.* — после *offer* объекта нет."
+- id: c1m10-allow
+  lesson: c1-10-infinitives-gerunds/02-verb-patterns
+  q: "*allow* / *permit* / *advise*: когда *-ing*, когда *to do*?"
+  a: "Без объекта — *-ing*: *allow smoking*. С объектом — *to do*: *allow guests to smoke*."
+- id: c1m10-perception
+  lesson: c1-10-infinitives-gerunds/02-verb-patterns
+  q: "*I heard the door slam* или *slamming*?"
+  a: "*slam* — одно законченное действие; *slamming* — процесс или повторение (дверь хлопала)."
+- id: c1m10-come-to
+  lesson: c1-10-infinitives-gerunds/02-verb-patterns
+  q: "Переведи: «Со временем я начал ценить его советы»."
+  a: "*I **came to appreciate** his advice.*"
+- id: c1m10-for-of
+  lesson: c1-10-infinitives-gerunds/03-adjectives-nouns
+  q: "*It was kind ___ you to help* — *for* или *of*?"
+  a: "***of*** — прилагательное оценивает поступок человека. *for* — «для кого»: *It's vital **for** staff **to** know.*"
+- id: c1m10-worth
+  lesson: c1-10-infinitives-gerunds/03-adjectives-nouns
+  q: "Найди ошибку: *The exhibition is worth to see.*"
+  a: "*The exhibition is **worth seeing**.* — после *worth* только активный герундий."
+- id: c1m10-easy-to-talk-to
+  lesson: c1-10-infinitives-gerunds/03-adjectives-nouns
+  q: "Перепиши: *It is difficult to deal with him.* → *He…*"
+  a: "*He is difficult to deal **with**.* — предлог остаётся в конце."
+- id: c1m10-capable
+  lesson: c1-10-infinitives-gerunds/03-adjectives-nouns
+  q: "Найди ошибку: *She is capable to run the department.*"
+  a: "*She is capable **of running** the department.*"
+- id: c1m10-chance
+  lesson: c1-10-infinitives-gerunds/03-adjectives-nouns
+  q: "*the chance to win* или *the chance of winning*?"
+  a: "*chance **to do*** — возможность; *chance **of doing*** — вероятность: *little chance of winning*."
+- id: c1m10-decision-to
+  lesson: c1-10-infinitives-gerunds/03-adjectives-nouns
+  q: "Переведи: «Решение закрыть завод вызвало протесты»."
+  a: "*The **decision to close** the factory sparked protests.*"
+- id: c1m10-anxious
+  lesson: c1-10-infinitives-gerunds/03-adjectives-nouns
+  q: "*anxious to sell* или *anxious about selling*?"
+  a: "*anxious **to** sell* — очень хотят продать; *anxious **about** selling* — переживают из-за продажи."
+- id: c1m10-hard-pressed
+  lesson: c1-10-infinitives-gerunds/04-reading
+  q: "Что значит *be hard pressed to do sth*?"
+  a: "С трудом смочь что-то сделать: *You'd be hard pressed to find a better hotel.*"
+- id: c1m10-to-be-endured
+  lesson: c1-10-infinitives-gerunds/04-reading
+  q: "Переведи: *a mood to be endured rather than a phenomenon to be understood*."
+  a: "Настроение, которое надо перетерпеть, а не явление, которое надо понять."
+- id: c1m10-risk-of-their
+  lesson: c1-10-infinitives-gerunds/05-writing
+  q: "Перепиши формально: *If teenagers work, they may neglect school.*"
+  a: "*There is a risk **of teenagers / their neglecting** schoolwork.*"
+- id: c1m10-have-get
+  lesson: c1-10-infinitives-gerunds/01a-bare-to-subjects
+  q: "*have sb do* или *get sb to do*: в чём разница?"
+  a: "*have* — поручить, голый инфинитив: *I had IT reset it.* *get* — уговорить, добиться, с *to*: *I got them to reset it.*"
+- id: c1m10-let-passive
+  lesson: c1-10-infinitives-gerunds/01a-bare-to-subjects
+  q: "Найди ошибку: *We were let to leave early.*"
+  a: "*let* не бывает в пассиве: *We **were allowed to** leave early.*"
+- id: c1m10-why-not
+  lesson: c1-10-infinitives-gerunds/01a-bare-to-subjects
+  q: "Найди ошибку: *Why not to ask for a refund?*"
+  a: "**Why not ask** — голый инфинитив. Так же *rather than wait, do nothing but complain*."
+- id: c1m10-used-to-be
+  lesson: c1-10-infinitives-gerunds/01a-bare-to-subjects
+  q: "Закончи: *He isn't the manager now, but he used ___.*"
+  a: "**to be**. Одно *to* заменяет глагол, но *be* не опускается."
+- id: c1m10-for-sb-to
+  lesson: c1-10-infinitives-gerunds/01a-bare-to-subjects
+  q: "Переведи: «План в том, чтобы новая команда взяла проект в июне»."
+  a: "*The plan is **for the new team to take over** the project in June.* Другой исполнитель → *for sb to do*."
+- id: c1m10-without-anyone
+  lesson: c1-10-infinitives-gerunds/01a-bare-to-subjects
+  q: "Переведи: «Она ушла так, что никто не заметил»."
+  a: "*She left **without anyone noticing**.* (*without noticing* — не заметила она сама.)"
+- id: c1m10-only-to
+  lesson: c1-10-infinitives-gerunds/01a-bare-to-subjects
+  q: "Что значит *only to* в *He rushed to the station, only to find it closed*?"
+  a: "Неожиданный, неприятный итог («а в итоге обнаружил»), а не цель."
+- id: c1m10-so-as-not-to
+  lesson: c1-10-infinitives-gerunds/01a-bare-to-subjects
+  q: "Найди ошибку: *We left early so as to not miss the train.*"
+  a: "*so as **not to** miss*: отрицание стоит перед *to*."
+- id: c1m10-try-doing
+  lesson: c1-10-infinitives-gerunds/02-verb-patterns
+  q: "*try to restart* или *try restarting* — если речь об эксперименте?"
+  a: "**try restarting** — попробовать и посмотреть, что выйдет. *try to do* — постараться, приложить усилие."
+- id: c1m10-prospect-of
+  lesson: c1-10-infinitives-gerunds/03-adjectives-nouns
+  q: "Найди ошибку: *There's little prospect to reach an agreement.*"
+  a: "*little prospect **of reaching***: *prospect, chance, risk, likelihood* (вероятность) + *of doing*."

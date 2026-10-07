@@ -1,0 +1,56 @@
+title: "Пассив или актив, as или без"
+type: choice
+intro: "Выбери единственный верный вариант. Обращай внимание на три вещи: нужно ли *as*, возвращается ли *to* после *make / see*, и не случилось ли действие «само»."
+hints:
+  - "consider + сразу существительное; regard / see / describe / know + as."
+  - "known for = известен чем-то, known as = известен под именем / в качестве."
+  - "rise / happen / appear — без пассива; raise — переходный: raise prices."
+items:
+  - q: "«Его считают лучшим тренером в лиге»."
+    options: ["He is considered as the best coach in the league.", "He is considered the best coach in the league.", "He considers the best coach in the league."]
+    answer: 1
+    explain: "После **is considered** существительное идёт сразу, без *as*. Третий вариант — актив: «он считает лучшего тренера»."
+  - q: "Tula is known ___ its gingerbread."
+    options: ["as", "for", "by"]
+    answer: 1
+    explain: "*known **for*** — «известен чем-то» (качеством, продуктом). *known as* — «известен в качестве / под именем»."
+  - q: "The novel is widely regarded ___ his best work."
+    options: ["as", "for", "like"]
+    answer: 0
+    explain: "*regard* всегда с **as**: *is regarded as*. С *like* так не говорят."
+  - q: "The teacher was ill, so we ___ leave school early."
+    options: ["were let", "were allowed to", "allowed to"]
+    answer: 1
+    explain: "У *let* нет пассива. Вместо него — **were allowed to**. *allowed to* без *were* — активная форма без подлежащего."
+  - q: "The thief was seen ___ over the fence."
+    options: ["climb", "to climbing", "climbing"]
+    answer: 2
+    explain: "В пассиве после *see*: **to climb** или **climbing**. Из вариантов верен только *climbing* — видели процесс."
+  - q: "Suddenly the door ___ and a tall man walked in."
+    options: ["opened", "was opened by itself", "has been opened"]
+    answer: 0
+    explain: "Русское «открылась» → актив **opened**. Пассив значил бы, что кто-то её открыл, а *by itself* с пассивом противоречит смыслу."
+  - q: "Unemployment in the region ___ sharply over the last two years."
+    options: ["has been increased", "has increased", "was increased"]
+    answer: 1
+    explain: "Безработица растёт «сама», никто её не повышает → актив **has increased**. *over the last two years* → Present Perfect."
+  - q: "The company ___ its prices twice this year, and customers are furious."
+    options: ["has raised", "has risen", "has been raised"]
+    answer: 0
+    explain: "Компания сама подняла цены → переходный **raise**: *has raised its prices*. *rise* непереходный, после него не бывает дополнения."
+  - q: "Nobody ___ to bring a laptop, so half the group came without one."
+    options: ["was told", "was said", "told"]
+    answer: 0
+    explain: "*tell sb to do* → в пассиве **was told to**. *say* не принимает человека-подлежащее: ~~was said to bring~~ в смысле «велели» невозможно."
+  - q: "I was made ___ the whole presentation again from scratch."
+    options: ["redo", "to redo", "redoing"]
+    answer: 1
+    explain: "В пассиве после *make* — только **to + инфинитив**: *was made **to redo***."
+  - q: "The old cinema ___ in 2018, and now it's a bookshop."
+    options: ["is closed", "was closed", "has been closed"]
+    answer: 1
+    explain: "Событие с точной датой (*in 2018*) → Past Simple passive **was closed**. *is closed* — состояние сейчас, а Present Perfect не сочетается с *in 2018*."
+  - q: "These jeans ___ really well — they still look new after a year."
+    options: ["wash", "are washed", "get washed"]
+    answer: 0
+    explain: "Свойство вещи («хорошо стираются») → активная форма **wash**, как *this book sells well*. Пассив говорил бы о том, как их стирают люди."

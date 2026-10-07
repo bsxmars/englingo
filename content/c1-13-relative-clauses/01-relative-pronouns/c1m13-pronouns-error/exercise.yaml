@@ -1,0 +1,41 @@
+title: "Найди ошибку: местоимения, запятые, which о всём предложении"
+type: error
+intro: "В каждом предложении **одна** ошибка: неверное местоимение, лишнее слово или нарушенная пунктуация. Исправь и отправь предложение целиком."
+hints:
+  - "В non-defining (с запятыми) нет ни that, ни нулевого местоимения."
+  - "whom — только дополнение; подлежащее — who."
+  - "Местоимение уже заменяет дополнение: второе it / him не нужно."
+items:
+  - q: "The Chief Medical Officer, that had warned about the risks for years, finally resigned."
+    answers: ["The Chief Medical Officer, who had warned about the risks for years, finally resigned."]
+    explain: "Запятые → non-defining, а в нём **that** невозможен. О человеке — **who**."
+  - q: "The applicant whom the committee believed was best qualified withdrew at the last minute."
+    answers: ["The applicant who the committee believed was best qualified withdrew at the last minute.", "The applicant the committee believed was best qualified withdrew at the last minute.", "The applicant that the committee believed was best qualified withdrew at the last minute."]
+    explain: "Вставка *the committee believed* не меняет функцию: местоимение — подлежащее для *was* → **who**. Это классическая гиперкоррекция с *whom*."
+  - q: "The proposal that we submitted it in March has still not been reviewed."
+    answers: ["The proposal that we submitted in March has still not been reviewed.", "The proposal which we submitted in March has still not been reviewed.", "The proposal we submitted in March has still not been reviewed."]
+    explain: "**that** уже заменяет дополнение *it*. Повтор местоимения (~~submitted it~~) — калька с разговорного русского «который мы его отправили»."
+  - q: "The minister refused to answer any questions, what only fuelled the speculation."
+    answers: ["The minister refused to answer any questions, which only fuelled the speculation."]
+    explain: "Комментарий ко всему предыдущему предложению вводится только **which**. *what* = «то, что» и антецедента не имеет."
+  - q: "We consulted twelve experts, most of them disagreed with the official forecast."
+    answers: ["We consulted twelve experts, most of whom disagreed with the official forecast."]
+    explain: "Без относительного слова получаются два предложения через запятую (comma splice). Квантор + **of whom** связывает их в одно."
+  - q: "The report contains several recommendations, none of whom has been acted upon."
+    answers: ["The report contains several recommendations, none of which has been acted upon.", "The report contains several recommendations, none of which have been acted upon."]
+    explain: "Рекомендации — не люди → **of which**. *none of which* допускает и единственное, и множественное число глагола."
+  - q: "My grandfather, who he fought in two wars, never talked about it."
+    answers: ["My grandfather, who fought in two wars, never talked about it."]
+    explain: "**who** — уже подлежащее придаточного, *he* лишнее."
+  - q: "The museum which we visited it on Sunday was surprisingly empty."
+    answers: ["The museum which we visited on Sunday was surprisingly empty.", "The museum that we visited on Sunday was surprisingly empty.", "The museum we visited on Sunday was surprisingly empty."]
+    explain: "*which* — дополнение к *visited*; второе дополнение *it* недопустимо."
+  - q: "The negotiations may stall, in that case the deadline will be extended."
+    answers: ["The negotiations may stall, in which case the deadline will be extended.", "The negotiations may stall. In that case the deadline will be extended.", "The negotiations may stall. In that case, the deadline will be extended."]
+    explain: "Внутри одного предложения после запятой нужна связка **in which case**. *In that case* начинает новое предложение."
+  - q: "Her latest novel, I found rather disappointing, has been shortlisted for the Booker."
+    answers: ["Her latest novel, which I found rather disappointing, has been shortlisted for the Booker."]
+    explain: "В non-defining местоимение нельзя опускать даже в роли дополнения: нужно **which**."
+  - q: "The hearing continued until midnight, by that time most of the journalists had left."
+    answers: ["The hearing continued until midnight, by which time most of the journalists had left."]
+    explain: "Формальная связка внутри предложения — **by which time** («а к тому времени»). *by that time* после запятой опять даёт comma splice."

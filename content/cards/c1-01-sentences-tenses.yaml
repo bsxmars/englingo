@@ -1,0 +1,132 @@
+- id: c1m01-number-of
+  lesson: c1-01-sentences-tenses/01-sentence-structure
+  q: "**The number of** или **a number of**: какое число глагола после каждого?"
+  a: "*The number of complaints **has** risen* (одно число). *A number of complaints **have** been made* (= несколько)."
+- id: c1m01-none-of
+  lesson: c1-01-sentences-tenses/01-sentence-structure
+  q: "*None of the proposals ___ been approved.* — **has** или **have** в формальном тексте?"
+  a: "**has** — после *none of / neither of* в формальном стиле единственное число. *have* — разговорное."
+- id: c1m01-police-news
+  lesson: c1-01-sentences-tenses/01-sentence-structure
+  q: "Найди ошибку: *The police is investigating, but the news are not good.*"
+  a: "*The police **are** investigating, but the news **is** not good.* — *police* всегда мн. ч., *news* — неисчисляемое."
+- id: c1m01-explain-to
+  lesson: c1-01-sentences-tenses/01-sentence-structure
+  q: "Найди ошибку: *Could you explain me the procedure?*"
+  a: "*Could you explain the procedure **to me**?* — *explain, describe, suggest, mention* берут «кому» только через *to*."
+- id: c1m01-tell-vs-say
+  lesson: c1-01-sentences-tenses/01-sentence-structure
+  q: "Какие глаголы требуют «кому» **без** предлога перед *that*-придаточным?"
+  a: "*tell, remind, inform, assure, convince, persuade, notify*: *She **assured us** that…*"
+- id: c1m01-cost-no-to
+  lesson: c1-01-sentences-tenses/01-sentence-structure
+  q: "Переведи: «Эта ошибка стоила компании контракта»."
+  a: "*The mistake **cost the company** a contract.* — с *cost, fine, deny, forgive* нет модели с *to*."
+- id: c1m01-discuss
+  lesson: c1-01-sentences-tenses/01-sentence-structure
+  q: "Какие переходные глаголы русскоговорящие часто употребляют с лишним предлогом?"
+  a: "*discuss* (~~about~~), *enter* (~~into~~ the room), *reach* (~~to~~), *approach* (~~to~~), *resemble* (~~to~~), *attend* (~~on~~)."
+- id: c1m01-turn-into
+  lesson: c1-01-sentences-tenses/01-sentence-structure
+  q: "Переведи: «Спор перерос в настоящую ссору»."
+  a: "*The argument **turned into** a real quarrel.* — *turn into* + существительное."
+- id: c1m01-come-to
+  lesson: c1-01-sentences-tenses/01-sentence-structure
+  q: "Переведи: «Со временем я стал ценить его прямоту»."
+  a: "*Over time I **came to appreciate** his frankness.* — *come to* + инфинитив = постепенная перемена отношения."
+- id: c1m01-there-appears
+  lesson: c1-01-sentences-tenses/01-sentence-structure
+  q: "Найди ошибку: *There appears a problem with your booking.*"
+  a: "*There **appears to be** a problem with your booking.*"
+- id: c1m01-is-being
+  lesson: c1-01-sentences-tenses/02-present-past
+  q: "Чем отличаются *He is difficult* и *He is being difficult*?"
+  a: "*is difficult* — черта характера; ***is being** difficult* — ведёт себя так сейчас, временно."
+- id: c1m01-performative
+  lesson: c1-01-sentences-tenses/02-present-past
+  q: "Почему *I promise*, а не ~~I'm promising~~?"
+  a: "Перформатив: глагол сам является действием (*promise, apologise, insist, accept*) → Present Simple."
+- id: c1m01-pp-vs-ppc
+  lesson: c1-01-sentences-tenses/02-present-past
+  q: "*She's written three reports* vs *She's been writing reports all day* — в чём разница?"
+  a: "Perfect Simple — результат и количество; Perfect Continuous — процесс и его длительность. С числом раз Continuous невозможен."
+- id: c1m01-wrote-vs-has-written
+  lesson: c1-01-sentences-tenses/02-present-past
+  q: "Почему *Tolstoy wrote*, но *She has written four novels*?"
+  a: "Present Perfect — период ещё открыт (автор жив, может написать ещё). Если период закрыт — Past Simple."
+- id: c1m01-was-wondering
+  lesson: c1-01-sentences-tenses/02-present-past
+  q: "Как вежливо начать просьбу о помощи с помощью Past Continuous?"
+  a: "*I **was wondering** if you could…* / *We **were hoping** you might…*"
+- id: c1m01-would-vs-used-to
+  lesson: c1-01-sentences-tenses/02-present-past
+  q: "Найди ошибку: *When I was a child, I would have a dog called Rex.*"
+  a: "*I **used to have** a dog* — *would* только для повторяющихся действий, не для состояний."
+- id: c1m01-had-started
+  lesson: c1-01-sentences-tenses/02-present-past
+  q: "*When he arrived, we started* vs *we had started* — что произошло раньше?"
+  a: "*started* — начали **после** его прихода; *had started* — **до** него."
+- id: c1m01-be-to
+  lesson: c1-01-sentences-tenses/03-future
+  q: "Что значит *be to* + инфинитив? Приведи два употребления."
+  a: "Официальный план (*The PM **is to** visit Delhi*) и распоряжение (*You **are to** report at 9*). В условии: *If we **are to** succeed…* = если хотим."
+- id: c1m01-was-to-have
+  lesson: c1-01-sentences-tenses/03-future
+  q: "*The ceremony was to have taken place in June.* — Состоялась ли церемония?"
+  a: "Нет. *was to have* + V3 — несостоявшийся план. *was to take place* — о результате ничего не говорит."
+- id: c1m01-about-to
+  lesson: c1-01-sentences-tenses/03-future
+  q: "Найди ошибку: *We're about to move to Lisbon next year.*"
+  a: "*be about to* = «вот-вот», не сочетается с указанием времени. → *We're **moving** / **going to move** to Lisbon next year.*"
+- id: c1m01-verge
+  lesson: c1-01-sentences-tenses/03-future
+  q: "Переведи: «Компания на грани банкротства»."
+  a: "*The company is **on the verge of** bankruptcy* (или *on the point of going bankrupt*)."
+- id: c1m01-will-be-using
+  lesson: c1-01-sentences-tenses/03-future
+  q: "Почему *Will you be using the car tonight?* вежливее, чем *Will you use the car tonight?*"
+  a: "Future Continuous спрашивает о планах «по ходу дел», без давления. *Will you…?* звучит как просьба или требование."
+- id: c1m01-come-to-grief
+  lesson: c1-01-sentences-tenses/04-reading
+  q: "Что значит *to come to grief*?"
+  a: "Потерпеть крах, плохо кончить: *Most forecasts **come to grief** because…*"
+- id: c1m01-comma-splice
+  lesson: c1-01-sentences-tenses/01a-complex-sentences
+  q: "Найди ошибку: *The results were promising, however more research is needed.*"
+  a: "Comma splice: *however* — наречие, а не союз. *…promising; **however**, more research…* или *…promising, **but** more research…*"
+- id: c1m01-although-but
+  lesson: c1-01-sentences-tenses/01a-complex-sentences
+  q: "Переведи: «Хотя он устал, но продолжал работать»."
+  a: "*Although he was tired, he kept working.* — один союз; русское «хотя…, но» по-английски даёт лишний *but*."
+- id: c1m01-not-only-parallel
+  lesson: c1-01-sentences-tenses/01a-complex-sentences
+  q: "Найди ошибку: *She not only speaks French but also German.*"
+  a: "Нарушен параллелизм: *She speaks **not only French but also German**.* После обеих частей пары — однотипные слова."
+- id: c1m01-nor-inversion
+  lesson: c1-01-sentences-tenses/01a-complex-sentences
+  q: "Переведи формально: «Он не извинился и не объяснил причину» (с nor)."
+  a: "*He did not apologise, **nor did he** explain why.* — после *nor* инверсия."
+- id: c1m01-despite-clause
+  lesson: c1-01-sentences-tenses/01a-complex-sentences
+  q: "Найди ошибку: *Despite he was ill, he came to work.*"
+  a: "*despite* — предлог: ***Despite being** ill…* или ***Although** he was ill…*"
+- id: c1m01-dangling
+  lesson: c1-01-sentences-tenses/01a-complex-sentences
+  q: "Что не так: *While waiting for the bus, it started to rain.*?"
+  a: "Висячее причастие: подлежащее главной части (*it*) не ждало автобус. *While **I was** waiting for the bus, it started to rain.*"
+- id: c1m01-ellipsis-has-will
+  lesson: c1-01-sentences-tenses/01a-complex-sentences
+  q: "Исправь: *He never has and never will apologise.*"
+  a: "*He has never **apologised**, and he never **will**.* — разные вспомогательные требуют разных форм глагола."
+- id: c1m01-love-to
+  lesson: c1-01-sentences-tenses/01a-complex-sentences
+  q: "— *Would you like to join us?* Как коротко ответить «С удовольствием»?"
+  a: "*I'd love **to**.* — при эллипсисе глагол опускают, частицу *to* оставляют."
+- id: c1m01-assure-us
+  lesson: c1-01-sentences-tenses/01-sentence-structure
+  q: "Найди ошибку: *She assured that the data was safe.*"
+  a: "После *assure* нужен адресат: *She assured **us** that…* (как *tell, remind, inform*)."
+- id: c1m01-was-to-regret
+  lesson: c1-01-sentences-tenses/03-future
+  q: "Переведи: «Это было решение, о котором ему предстояло жалеть всю жизнь»."
+  a: "*It was a decision he **was to regret** for the rest of his life.* — *was to* = «судьбе было угодно»."

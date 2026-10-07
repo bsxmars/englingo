@@ -1,0 +1,58 @@
+title: "Трансформации (C1 Advanced, Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "People think that X happened → X is thought to have happened."
+  - "Пассив в прошлом после предлога или глагола → having been done / being done."
+items:
+  - q: "People think that the painting was stolen during the war."
+    key: "THOUGHT"
+    stem: "The painting ___ during the war."
+    answers: ["is thought to have been stolen"]
+    explain: "*People think* (сейчас) + *was stolen* (раньше, пассив) → *is thought **to have been stolen***."
+  - q: "It seems that she has been working on the novel for a decade."
+    key: "SEEMS"
+    stem: "She ___ on the novel for a decade."
+    answers: ["seems to have been working", "seems to have worked"]
+    explain: "Present Perfect Continuous превращается в перфектный длительный инфинитив: *seems **to have been working***."
+  - q: "I'm sorry that I didn't listen to your advice."
+    key: "REGRET"
+    stem: "I ___ to your advice."
+    answers: ["regret not having listened", "regret not listening", "regret having not listened"]
+    explain: "*regret* + отрицательный герундий о прошлом: *regret **not having listened*** (или проще *not listening*). *not* ставится перед формой."
+  - q: "Nobody enjoys it when other people make fun of them in public."
+    key: "BEING"
+    stem: "Nobody enjoys ___ in public."
+    answers: ["being made fun of"]
+    explain: "Пассивный герундий от фразового *make fun of*: **being made fun of**. Предлог *of* остаётся в конце."
+  - q: "He is annoyed that nobody consulted him before the decision."
+    key: "CONSULTED"
+    stem: "He is annoyed at ___ before the decision."
+    answers: ["not having been consulted", "not being consulted"]
+    explain: "После предлога *at* — герундий; его не спросили → пассив, и раньше → *not having been consulted*."
+  - q: "It would have been nice to see the city in daylight, but we arrived at midnight."
+    key: "LIKED"
+    stem: "We would ___ the city in daylight, but we arrived at midnight."
+    answers: ["have liked to see", "have liked to have seen"]
+    explain: "Несбывшееся желание: *would have liked **to see*** (или разговорное двойное *to have seen*). Ключевое слово *liked* требует *would have*."
+  - q: "Apparently the minister knew about the problem months ago."
+    key: "APPEARS"
+    stem: "The minister ___ about the problem months ago."
+    answers: ["appears to have known"]
+    explain: "*appears* — сейчас, знание — раньше (*months ago*) → перфектный инфинитив **to have known**."
+  - q: "She stopped applying after she had been rejected three times."
+    key: "HAVING"
+    stem: "___ three times, she stopped applying."
+    answers: ["Having been rejected"]
+    explain: "Причастный оборот с перфектным пассивом: ей отказали **до** того, как она перестала → **Having been rejected**."
+  - q: "When the teacher walked in, the students acted as if they were working."
+    key: "PRETENDING"
+    stem: "When the teacher walked in, the students ___ ."
+    answers: ["were pretending to be working", "were pretending to work"]
+    explain: "*pretend* + длительный инфинитив: процесс в тот момент → *were pretending **to be working***."
+  - q: "There is a rumour that the company is planning to cut 500 jobs."
+    key: "RUMOURED"
+    stem: "The company ___ to cut 500 jobs."
+    answers: ["is rumoured to be planning"]
+    explain: "Процесс сейчас (*is planning*) → длительный инфинитив: *is rumoured **to be planning***. *rumour* употребляется только в пассиве."

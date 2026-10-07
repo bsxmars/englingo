@@ -1,0 +1,45 @@
+{
+  "name": "englingo",
+  "private": true,
+  "type": "module",
+  "version": "0.0.0",
+  "description": "Личный курс английского B1 → C1: Vue 3 + Aura, PWA на GitHub Pages",
+  "engines": {
+    "node": ">=23.6"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "validate": "node build/validate.ts",
+    "test": "vitest run",
+    "typecheck": "vue-tsc --noEmit",
+    "e2e": "playwright test"
+  },
+  "dependencies": {
+    "@ilomee/aura-core": "^1.0.3",
+    "@ilomee/aura-vue": "^1.0.3",
+    "idb": "^8.0.4",
+    "pinia": "^4.0.3",
+    "vue": "^3.5.43",
+    "vue-router": "^5.3.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/markdown-it": "^14.2.0",
+    "@types/node": "^26.6.4",
+    "@vitejs/plugin-vue": "^6.0.9",
+    "@vue/test-utils": "^2.5.1",
+    "fake-indexeddb": "^6.2.5",
+    "happy-dom": "^20.14.5",
+    "markdown-it": "^15.0.2",
+    "typescript": "^6.0.3",
+    "vite": "^8.3.3",
+    "vite-plugin-pwa": "^2.0.0",
+    "vitest": "^5.0.3",
+    "vue-tsc": "^3.3.12",
+    "workbox-window": "^7.4.1",
+    "yaml": "^2.9.1",
+    "zod": "^4.6.5"
+  }
+}

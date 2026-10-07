@@ -1,0 +1,56 @@
+title: "Охват и оттенки отрицания: выбери вариант"
+type: choice
+intro: "Выбери вариант, который точнее всего передаёт смысл или лучше подходит по стилю. Часто грамматичны несколько вариантов — решает значение."
+hints:
+  - "Отрицание действует на то, что стоит после него: not all ≠ all… not."
+  - "think, believe, expect, suppose переносят not в главную часть; hope и be afraid — нет."
+  - "anything but = совсем не; nothing but = только."
+items:
+  - q: "Neutral, polite prediction: \"___ the courier will come before six.\""
+    options: ["I think", "I don't think", "I don't hope", "I'm not afraid"]
+    answer: 1
+    explain: "Нейтральный прогноз «думаю, не придёт» — с переносом отрицания: **I don't think** the courier will come. *I think… will come* значит противоположное, *don't hope* и *not afraid* здесь невозможны."
+  - q: "— Will the trains be running tomorrow? — ___ — the strike has been extended."
+    options: ["I don't hope so", "I'm afraid not", "I don't afraid so", "I hope not so"]
+    answer: 1
+    explain: "Краткий отрицательный ответ с *be afraid* — **I'm afraid not**. С *hope* было бы *I hope not*, но по смыслу говорящий сожалеет, а *I don't hope so* — ошибка."
+  - q: "Academic hedge: \"A correlation between the two variables does ___ imply that one causes the other.\""
+    options: ["never", "not necessarily", "not at all", "by no means not"]
+    answer: 1
+    explain: "Осторожное академическое утверждение — **not necessarily**: связь возможна, но не доказана. *never* и *not at all* — слишком категорично, четвёртый вариант — двойное отрицание."
+  - q: "Only some of the survey responses could be used. ___"
+    options: ["All the responses weren't usable.", "None of the responses were usable.", "Not all the responses were usable.", "The responses were all unusable."]
+    answer: 2
+    explain: "Частичное отрицание — **Not all**. *None* и *all unusable* — ни одного; *All… weren't* двусмысленно и в письме читается как «ни одного»."
+  - q: "\"The hotel was ___ relaxing: the walls were thin and the street was noisy all night.\""
+    options: ["nothing but", "anything but", "not unlike", "not without"]
+    answer: 1
+    explain: "**anything but** relaxing = «совсем не расслабляющий». *nothing but* = «только», *not unlike* = «похож на», *not without* + сущ. = «не лишён»."
+  - q: "Formal report: \"It is ___ for large infrastructure projects to exceed their budgets.\""
+    options: ["not uncommon", "not common", "uncommon", "never common"]
+    answer: 0
+    explain: "Литота **not uncommon** = «довольно часто» — типичный сдержанный приём формального стиля. *not common / uncommon* говорят обратное."
+  - q: "\"He ___ replied to my email, and it's been three weeks!\" (раздражение)"
+    options: ["hasn't yet", "still hasn't", "hasn't still", "no longer has"]
+    answer: 1
+    explain: "«До сих пор нет» с оттенком раздражения — **still hasn't**: *still* стоит перед отрицанием. *hasn't yet* нейтрально и требует *yet* в конце, *hasn't still* — ошибка порядка."
+  - q: "Formal notice: \"Mr Clarke ___ with the company.\""
+    options: ["isn't any more", "is no longer", "isn't no longer", "is not any longer"]
+    answer: 1
+    explain: "Формальное «больше не» перед сказуемым — **is no longer**. *isn't… any more* разговорное и ставится в конец, *isn't no longer* — двойное отрицание."
+  - q: "\"I'm ___ surprised that the talks collapsed — they were doomed from the start.\""
+    options: ["not in the least", "not least", "at least not", "in the least"]
+    answer: 0
+    explain: "**not in the least** = «ничуть не». *not least* значит «в особенности», а *in the least* без *not* употребляется только в вопросах и отрицаниях."
+  - q: "\"We didn't receive the invoice ___ the delivery note.\""
+    options: ["and", "or", "nor", "neither"]
+    answer: 1
+    explain: "После отрицания перечисление идёт через **or**: *didn't receive the invoice or the delivery note*. *and* звучит так, будто не получили только оба вместе; *nor* требует инверсии и отдельной клаузы."
+  - q: "He resigned last month. Journalists claimed it was because of the scandal, but it wasn't. ___"
+    options: ["He didn't resign because of the scandal.", "He resigned, but not because of the scandal.", "He didn't resign, because of the scandal.", "Because of the scandal, he didn't resign."]
+    answer: 1
+    explain: "Нужно отрицать только причину, а не сам уход: **He resigned, but not because of the scandal**. Первый вариант двусмыслен, третий и четвёртый говорят, что он не ушёл."
+  - q: "Polite request: \"___ you could cover my shift on Friday?\""
+    options: ["I suppose", "I don't suppose", "I'm not supposing", "I suppose not"]
+    answer: 1
+    explain: "**I don't suppose you could…?** — вежливая, ненавязчивая просьба с переносом отрицания. *I suppose you could* звучит как распоряжение."

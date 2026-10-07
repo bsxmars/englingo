@@ -1,0 +1,40 @@
+title: "Собери предложение с местоимениями"
+type: order
+intro: "Собери предложение из слов по русской подсказке. Следи за -self, each other, one / ones и else."
+hints:
+  - "Возвратное местоимение — сразу после глагола; else — сразу после someone / anything / where."
+  - "После прилагательного существительное заменяет one / ones."
+items:
+  - q: "«Угощайтесь напитками — они на кухне»."
+    answers: ["Help yourself to drinks in the kitchen"]
+    explain: "**help yourself to** + что-то = «угощайся, бери сам». Предлог *to* обязателен."
+  - q: "«Они никогда не читают сообщения друг друга»."
+    answers: ["They never read each other's messages"]
+    explain: "Притяжательная форма — **each other's**. Наречие частоты *never* стоит перед смысловым глаголом."
+  - q: "«Эта зарядка сломалась, так что мне нужна новая»."
+    answers: ["This charger is broken so I need a new one"]
+    explain: "После прилагательного *new* существительное заменяем на **one**: ~~a new~~ без *one* нельзя."
+  - q: "«Сам директор позвонил мне вчера вечером» (именно он, не секретарь)."
+    answers: ["The director himself called me last night", "The director called me himself last night", "Last night the director himself called me"]
+    explain: "Усилительное **himself** = «сам, лично». Ставится сразу после существительного или в конце фразы с глаголом."
+  - q: "«Мы встретились у входа и вместе вошли внутрь»."
+    answers: ["We met at the entrance and went inside together"]
+    explain: "«Встретились» — просто **met**, без ~~ourselves~~: глаголы на *-ся* обычно обходятся без *-self*."
+  - q: "«Тебе не стоит винить себя за эту ошибку»."
+    answers: ["You shouldn't blame yourself for the mistake"]
+    explain: "*blame* — переходный глагол: винить **себя** = *blame yourself*. Здесь *-self* нужен, потому что объект совпадает с подлежащим."
+  - q: "«Чёрные (кроссовки) мне нравятся больше, чем белые»."
+    answers: ["I prefer the black ones to the white ones"]
+    explain: "Мн. ч. заменяем на **ones**: *the black ones*. После *prefer* второй вариант вводится через **to**."
+  - q: "«Здесь есть ещё кто-нибудь, кто говорит по-немецки?»"
+    answers: ["Is there anyone else here who speaks German", "Is there anyone else who speaks German here"]
+    explain: "**anyone else** — «ещё кто-нибудь»: *else* сразу после *anyone*. Вопрос о существовании → *Is there*."
+  - q: "«Ты не обязан делать всё сам»."
+    answers: ["You don't have to do everything by yourself"]
+    explain: "**by yourself** = в одиночку, без помощи. *don't have to* — «не обязан», а не «нельзя»."
+  - q: "«Кто-то оставил свой зонт в переговорке»."
+    answers: ["Someone has left their umbrella in the meeting room"]
+    explain: "После *someone* пол неизвестен → **their**. Глагол при этом в ед. ч.: *has left*."
+  - q: "«Давай сядем где-нибудь в другом месте, здесь слишком шумно»."
+    answers: ["Let's sit somewhere else because it's too noisy here"]
+    explain: "**somewhere else** — «в другом месте». Погода, шум, оценка обстановки → пустое *it*: *it's too noisy*."

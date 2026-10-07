@@ -1,0 +1,34 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка. Исправь её и отправь предложение целиком."
+hints:
+  - "Проверь глаголы состояния: know, own, have (= иметь) не бывают в Continuous."
+  - "Есть ли количество? Тогда Continuous не подходит."
+items:
+  - q: "I have been knowing him since 2015."
+    answers: ["I have known him since 2015."]
+    explain: "*know* — глагол состояния: **have known**, а не ~~have been knowing~~."
+  - q: "How long are you living in this flat?"
+    answers: ["How long have you been living in this flat?", "How long have you lived in this flat?"]
+    explain: "«Как долго» + до сих пор → Present Perfect (лучше Continuous), а не Present Continuous."
+  - q: "She has been writing three books."
+    answers: ["She has written three books.", "She's written three books.", "She wrote three books."]
+    explain: "Количество (**three books**) → Simple: *has written*."
+  - q: "We have been owning this car for six years."
+    answers: ["We have owned this car for six years."]
+    explain: "*own* — глагол владения, только Simple: **have owned**."
+  - q: "I have been visiting Paris four times."
+    answers: ["I have visited Paris four times.", "I have been to Paris four times.", "I visited Paris four times."]
+    explain: "**Four times** — сколько раз → Simple: *have visited* или *have been to*."
+  - q: "He works here since March."
+    answers: ["He has worked here since March.", "He's worked here since March.", "He has been working here since March.", "He's been working here since March."]
+    explain: "**since** + работает до сих пор → Present Perfect (Simple или Continuous), не Present Simple."
+  - q: "How long have you been having this phone?"
+    answers: ["How long have you had this phone?"]
+    explain: "*have* = «иметь, владеть» — состояние → только Simple: **have you had**."
+  - q: "I've been finishing my report, so I can go home now."
+    answers: ["I've finished my report, so I can go home now.", "I finished my report, so I can go home now."]
+    explain: "Отчёт готов, и важен результат (могу идти домой) → Simple: **I've finished**."
+  - q: "She has been learning English since five years."
+    answers: ["She has been learning English for five years.", "She's been learning English for five years."]
+    explain: "Длительность (**five years**) — с **for**; *since* ставится перед точкой отсчёта (*since 2020*)."

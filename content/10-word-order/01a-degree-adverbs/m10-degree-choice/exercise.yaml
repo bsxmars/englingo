@@ -1,0 +1,55 @@
+title: "Какая степень подходит?"
+type: choice
+intro: "Выбери вариант, который грамматически верен и лучше всего подходит по смыслу."
+hints:
+  - "Предельные прилагательные (exhausted, huge, delicious) — absolutely / really, а не very."
+  - "quite a + прилагательное + существительное; rather + сравнительная степень."
+items:
+  - q: "After a twelve-hour shift I was ___ exhausted."
+    options: ["very", "absolutely", "a bit"]
+    answer: 1
+    explain: "*exhausted* — предельное прилагательное (= very tired), его усиливают **absolutely / completely / really**, но не *very*."
+  - q: "The flat is ___ — perfect for a family of five."
+    options: ["huge", "very huge", "too huge"]
+    answer: 0
+    explain: "*huge* уже значит «очень большой», *very huge* невозможно. *too huge* дал бы негатив «слишком» — противоречит *perfect*."
+  - q: "It was ___ talk — I learned a lot from it."
+    options: ["a quite interesting", "quite an interesting", "quite interesting"]
+    answer: 1
+    explain: "**quite** ставится перед артиклем: *quite an interesting talk*. Без артикля исчисляемое *talk* не может стоять."
+  - q: "— Are you sure the meeting is at three? — Yes, I'm ___ sure."
+    options: ["quite", "rather", "fairly too"]
+    answer: 0
+    explain: "*sure* — «абсолютное» прилагательное, с ним **quite** = «совершенно»: *I'm quite sure*."
+  - q: "The repairs cost ___ more than the estimate."
+    options: ["quite", "very", "rather"]
+    answer: 2
+    explain: "Перед сравнительной степенью можно **rather** (а также *much, a bit*), но не *quite* и не *very*."
+  - q: "This laptop is ___ heavy to carry around all day."
+    options: ["very", "too", "enough"]
+    answer: 1
+    explain: "Есть продолжение *to carry* («чтобы носить») → **too … to**. *very* не сочетается с *to*-инфинитивом в таком смысле."
+  - q: "The tickets were ___ expensive, so we didn't go."
+    options: ["very too", "far too", "too much"]
+    answer: 1
+    explain: "*too* усиливают **much / far / a bit**: *far too expensive*. *very too* невозможно; *too much* + прилагательное — тоже нет."
+  - q: "I'm afraid I'm not ___ to understand legal documents."
+    options: ["enough experienced", "experienced enough", "enough experience"]
+    answer: 1
+    explain: "*enough* стоит **после** прилагательного: *experienced enough to understand*."
+  - q: "There are ___ people in this tiny office — we need more space."
+    options: ["too much", "too many", "enough many"]
+    answer: 1
+    explain: "*people* — исчисляемое во множественном числе → **too many**. *too much* — для неисчисляемых."
+  - q: "The steak was ___ — I'll definitely come back."
+    options: ["absolutely delicious", "very delicious", "quite delicious enough"]
+    answer: 0
+    explain: "*delicious* — предельное прилагательное → **absolutely delicious** (или *really delicious*)."
+  - q: "The instructions were ___ confusing — it took us ages to set it up."
+    options: ["rather", "quite a", "enough"]
+    answer: 0
+    explain: "**rather** с негативным словом подчёркивает неприятный, «больше, чем хотелось» оттенок. *quite a* требует существительного, *enough* стоит после прилагательного."
+  - q: "I'm ___ ready yet — give me five more minutes."
+    options: ["not quite", "quite not", "not rather"]
+    answer: 0
+    explain: "**not quite** = «не совсем». Порядок только такой: *not* перед *quite*."

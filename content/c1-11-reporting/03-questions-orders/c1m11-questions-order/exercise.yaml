@@ -1,0 +1,34 @@
+title: "Собери косвенный вопрос"
+type: order
+intro: "Собери предложение из слов. В косвенном вопросе — прямой порядок слов и никакого вопросительного знака."
+hints:
+  - "wh-слово / whether → подлежащее → глагол."
+  - "whether or not можно поставить вплотную или разнести: whether to call or not."
+items:
+  - q: "«Она спросила меня, где я храню запасной ключ»."
+    answers: ["She asked me where I kept the spare key"]
+    explain: "После *where* — подлежащее *I*, потом глагол *kept*. Время сдвинуто: *keep → kept*."
+  - q: "«Журналист спросил, знал ли министр об утечке»."
+    answers: ["The journalist asked whether the minister had known about the leak"]
+    explain: "Общий вопрос → *whether*; прямой порядок: *the minister had known*."
+  - q: "«Я не знала, звонить ей или нет»."
+    answers: ["I didn't know whether to call her or not", "I didn't know whether or not to call her"]
+    explain: "*whether* + инфинитив; *or not* — в конце или сразу после *whether*. С *if* такая конструкция невозможна."
+  - q: "«Он спросил, кто оставил дверь открытой»."
+    answers: ["He asked who had left the door open"]
+    explain: "*who* — подлежащее, поэтому порядок как в утверждении: *who had left*."
+  - q: "«Нас спросили, не против ли мы подождать»."
+    answers: ["They asked us whether we would mind waiting"]
+    explain: "Просьба в форме вопроса: *whether we would mind* + *-ing*."
+  - q: "«Комиссия усомнилась в том, что данные действительно надёжны»."
+    answers: ["The committee questioned whether the data were really reliable", "The committee questioned whether the data really were reliable"]
+    explain: "После *question* — только *whether*. *data* в академическом стиле — множественное число: *were*."
+  - q: "«Она спросила меня, когда ей начинать»."
+    answers: ["She asked me when to start"]
+    explain: "Вопрос с *should* → wh-слово + инфинитив: *when to start*."
+  - q: "«Интересно, понял ли кто-нибудь, что произошло»."
+    answers: ["I wonder whether anyone understood what had happened"]
+    explain: "Два вложенных придаточных: *whether anyone understood* и *what had happened* — оба с прямым порядком."
+  - q: "«Его единственное замечание было о том, что отчёт слишком длинный»."
+    answers: ["His only comment was that the report was too long"]
+    explain: "Существительное + *be* + *that*-clause: *His only comment was that…*"

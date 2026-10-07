@@ -1,0 +1,38 @@
+title: "Куда встаёт местоимение"
+type: order
+intro: "Собери предложение из слов. Следи, где стоит местоимение или длинное дополнение относительно частицы."
+hints:
+  - "Местоимение — между глаголом и частицей: look it up."
+  - "У трёхчастных глаголов местоимение — после предлога: put up with it."
+  - "Придаточное — после частицы: point out that…"
+items:
+  - q: "Незнакомое слово: «Она посмотрела его в словаре»."
+    answers: ["She looked it up in the dictionary"]
+    explain: "Местоимение *it* — между глаголом и частицей: *looked **it** up*. ~~looked up it~~ — ошибка."
+  - q: "Шум от стройки: «Придётся с этим мириться»."
+    answers: ["We will have to put up with it"]
+    explain: "Трёхчастный глагол **put up with**: местоимение после предлога, частицы не разрываются."
+  - q: "Совещание: «Она указала, что цифры неверны»."
+    answers: ["She pointed out that the figures were wrong"]
+    explain: "Придаточное не ставят между глаголом и частицей: *pointed out **that…***"
+  - q: "Конец делового письма."
+    answers: ["I look forward to hearing from you soon", "I am looking forward to hearing from you soon"]
+    explain: "**look forward to** + -ing: *to* здесь предлог, поэтому *hearing*, а не *hear*."
+  - q: "Матч из-за дождя: «Его отменили в последний момент»."
+    answers: ["They called it off at the last minute", "At the last minute they called it off"]
+    explain: "**call off** — отменить; местоимение между глаголом и частицей: *called **it** off*."
+  - q: "«Никто так и не придумал решения получше»."
+    answers: ["Nobody has come up with a better solution", "No one has come up with a better solution"]
+    explain: "**come up with** + дополнение после предлога *with*."
+  - q: "Совет автору: «Перечитай то, что написал»."
+    answers: ["You should read over what you have written"]
+    explain: "Длинное дополнение-придаточное идёт **после** частицы: *read over what…*"
+  - q: "Городской совет и плата за парковку."
+    answers: ["The council has decided to do away with parking fees"]
+    explain: "**do away with** — упразднить; три части идут подряд."
+  - q: "Ценная картина: «Не продавай её, держись за неё»."
+    answers: ["You should hold on to it", "You should hold onto it"]
+    explain: "**hold on to** it — местоимение после предлога. ~~hold it on to~~ — ошибка."
+  - q: "Предложение о работе: «Она отказалась без малейших колебаний»."
+    answers: ["She turned it down without a moment's hesitation", "Without a moment's hesitation she turned it down"]
+    explain: "**turn down** — отклонить; местоимение между глаголом и частицей: *turned **it** down*."

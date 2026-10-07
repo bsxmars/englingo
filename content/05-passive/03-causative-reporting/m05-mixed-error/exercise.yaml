@@ -1,0 +1,37 @@
+title: "Найди ошибку: каузатив и it is said"
+type: error
+intro: "В каждом предложении **одна** ошибка. Исправь её и отправь предложение целиком."
+hints:
+  - "have + объект + V3: объект всегда между have и третьей формой."
+  - "He is said to + инфинитив; It is said that + полное предложение. Смешивать нельзя."
+items:
+  - q: "I've just had cut my hair at a new place near work."
+    answers: ["I've just had my hair cut at a new place near work.", "I've just got my hair cut at a new place near work.", "I've just gotten my hair cut at a new place near work."]
+    explain: "Стриг мастер → объект между *had* и V3: *I've just had **my hair** cut*. Порядок *have + объект + V3* не меняется ни в каком времени."
+  - q: "We're having installed a new boiler next week."
+    answers: ["We're having a new boiler installed next week.", "We're getting a new boiler installed next week."]
+    explain: "Порядок: *having* + **объект** + V3: *having a new boiler installed*."
+  - q: "The singer is said that she is very shy in real life."
+    answers: ["The singer is said to be very shy in real life.", "It is said that the singer is very shy in real life."]
+    explain: "Нельзя смешивать две конструкции. Либо *The singer **is said to be** shy*, либо *It is said that the singer is shy*."
+  - q: "The painting is believed to be stolen in 1985."
+    answers: ["The painting is believed to have been stolen in 1985.", "It is believed that the painting was stolen in 1985."]
+    explain: "Кража была **раньше**, чем «полагают» (**in 1985**) → перфектный пассивный инфинитив: *to have been stolen*."
+  - q: "I'll have the technician to check your computer this afternoon."
+    answers: ["I'll have the technician check your computer this afternoon.", "I'll get the technician to check your computer this afternoon."]
+    explain: "После **have** + человек — глагол **без** *to*: *have the technician check*. С *to* — только после *get*."
+  - q: "My parents finally got me study for the exam."
+    answers: ["My parents finally got me to study for the exam.", "My parents finally had me study for the exam.", "My parents finally made me study for the exam."]
+    explain: "**get** + человек + **to** + глагол: *got me **to** study*. Можно и *made me study* — «заставили»."
+  - q: "It is thought the president to resign soon."
+    answers: ["It is thought that the president will resign soon.", "It is thought the president will resign soon.", "It is thought that the president is going to resign soon.", "It is thought the president is going to resign soon.", "The president is thought to be resigning soon."]
+    explain: "После *It is thought (that)* нужно полное предложение с подлежащим и сказуемым: *It is thought that the president **will resign** soon*. Либо *The president is thought to…*"
+  - q: "He is known to have spoke six languages."
+    answers: ["He is known to have spoken six languages.", "He is known to speak six languages."]
+    explain: "После *to have* — третья форма: *to have **spoken*** (*speak – spoke – spoken*)."
+  - q: "Have you had checked your teeth recently?"
+    answers: ["Have you had your teeth checked recently?"]
+    explain: "Present Perfect каузатива: *Have you had* + **объект** + V3: *had your teeth checked*."
+  - q: "Ticket prices are expected rising again next year."
+    answers: ["Ticket prices are expected to rise again next year."]
+    explain: "*be expected* + **to** + инфинитив: *are expected **to rise***."

@@ -1,0 +1,82 @@
+title: "From pod to bar"
+type: reading
+intro: "Прочитай статью и ответь на вопросы. Вопросы с вариантами — как в B2 First Part 5; в остальных впиши одно слово из текста."
+hints:
+  - "Вопросы идут в порядке текста."
+  - "Правильный вариант обычно перефразирует текст, а не повторяет его дословно."
+text: |
+  ## From pod to bar: the long journey of your chocolate
+
+  Next time you unwrap a chocolate bar, take a moment to think about how far it has travelled. Most of us never ask where chocolate comes from, and when I finally did, I was surprised by the answer. The bar in your hand is the result of a process that takes months and involves dozens of people on at least two continents.
+
+  It all starts with a tree. Cacao trees are grown only in a narrow belt around the equator, and today well over half of the world's cocoa is produced in just two West African countries, Côte d'Ivoire and Ghana. The fruit, called pods, grow directly from the trunk. Because they ripen at different times, they can't be harvested by machine. Instead, each pod is cut from the tree by hand, usually with a long knife.
+
+  Inside each pod there are thirty to fifty beans, surrounded by a sweet white pulp. Here comes the first surprise: a fresh cocoa bean tastes nothing like chocolate. It is bitter and rather unpleasant. The flavour we love is created later, in a series of steps that each change the bean a little more.
+
+  The first and probably the most important of these steps is fermentation. The beans and pulp are piled up, covered with banana leaves and left for about a week. During this time, the pulp is broken down by natural yeasts and bacteria, and the temperature inside the pile rises. If this stage is rushed, no factory in the world will be able to rescue the flavour later. The beans are then spread out and dried in the sun, which can take another week. Only then are they packed into sacks and shipped to Europe or North America.
+
+  At the factory, the beans are roasted, much like coffee. Roasting is where the typical chocolate smell first appears. The thin shells are then cracked and removed, and what is left — small pieces called nibs — is ground into a thick brown paste known as cocoa mass or, rather confusingly, cocoa liquor. Despite its name, it contains no alcohol. Part of this mass is pressed to separate the fat, cocoa butter, from the solids, which become cocoa powder.
+
+  To make a bar, the manufacturer mixes cocoa mass with extra cocoa butter, sugar and, for milk chocolate, milk powder. The mixture is then put through a process called conching: it is stirred and heated, sometimes for several days. Conching is said to have been invented by the Swiss chocolate maker Rodolphe Lindt in 1879, and it is believed to be the reason why modern chocolate feels so smooth on the tongue. Before Lindt, chocolate is thought to have been rather grainy.
+
+  The final step is tempering. The chocolate is carefully heated and cooled so that the fat forms the right kind of crystals. Properly tempered chocolate is shiny and snaps cleanly; if this stage goes wrong, the surface turns dull and grey. Finally, the chocolate is poured into moulds, cooled, wrapped and sent to shops.
+
+  All this explains why a good bar costs what it does. And yet, sadly, the farmers who do the hardest work are often paid the least: many of them earn only a few per cent of the price you pay. Some companies have had their supply chains checked by independent organisations, and their bars carry a certification label. It is worth looking for one — it may be the easiest way to make sure your chocolate tastes good in every sense.
+items:
+  - q: "What does the writer say about their own attitude to chocolate in the first paragraph?"
+    options:
+      - "They have always been curious about its origins."
+      - "They had not thought much about its origins until recently."
+      - "They believe most people know where it comes from."
+      - "They think chocolate travels too far to be eco-friendly."
+    answer: 1
+    explain: "*Most of us never ask where chocolate comes from, and when I finally did, I was surprised* — автор раньше не задумывался (*finally*). Остальные варианты противоречат тексту или в нём не упомянуты."
+  - q: "Why are cocoa pods harvested by hand?"
+    options:
+      - "Machines would damage the trunk of the tree."
+      - "The trees grow in areas where machines are too expensive."
+      - "The pods do not all become ready at the same time."
+      - "Farmers prefer traditional methods."
+    answer: 2
+    explain: "*Because they ripen at different times, they can't be harvested by machine* — плоды созревают в разное время. Это перефразировано в варианте C."
+  - q: "What is the 'first surprise' mentioned in the third paragraph?"
+    options:
+      - "Each pod contains a large number of beans."
+      - "The pulp around the beans is sweet."
+      - "Raw cocoa beans do not taste of chocolate."
+      - "Chocolate is made in many small steps."
+    answer: 2
+    explain: "Сразу после *Here comes the first surprise*: *a fresh cocoa bean tastes nothing like chocolate*. Сладкая мякоть и число бобов — факты, но не «сюрприз»."
+  - q: "What does the writer suggest about fermentation?"
+    options:
+      - "Mistakes made at this stage cannot be corrected later."
+      - "It is the slowest stage of the whole process."
+      - "It is carried out in factories in Europe."
+      - "It makes the beans much hotter than drying does."
+    answer: 0
+    explain: "*If this stage is rushed, no factory in the world will be able to rescue the flavour later* — ошибку ферментации потом не исправить. Ферментация проходит на ферме, до отправки в Европу."
+  - q: "What does the writer say about the paste made from the nibs?"
+    options:
+      - "It is made from the shells of the beans."
+      - "Its name might give people the wrong idea."
+      - "It is pressed to make milk chocolate."
+      - "It is the same thing as cocoa powder."
+    answer: 1
+    explain: "*Despite its name, it contains no alcohol* — второе название массы, *cocoa liquor*, звучит как «ликёр», и автор предупреждает (*rather confusingly*), что оно обманчиво. Масса делается из *nibs*, а не из оболочки."
+  - q: "How certain is the writer about Rodolphe Lindt's role in the history of chocolate?"
+    options:
+      - "Completely certain: it is a well-documented fact."
+      - "Not certain: they report what is generally said and believed."
+      - "Doubtful: they think the story is probably a myth."
+      - "Uninterested: they mention him only as an example."
+    answer: 1
+    explain: "Автор использует *is said to have been invented*, *is believed to be*, *is thought to have been* — это способ передать общепринятое мнение, не утверждая факт напрямую."
+  - q: "Find a word in paragraph 5 that means 'turned into small pieces or powder by pressing between hard surfaces'."
+    answers: ["ground"]
+    explain: "*nibs… is **ground** into a thick brown paste* — *grind – ground – ground*, «перемалывать». Здесь в пассиве: *is ground*."
+  - q: "Find an adjective in paragraph 7 that describes well-tempered chocolate and means 'reflecting light'."
+    answers: ["shiny"]
+    explain: "*Properly tempered chocolate is **shiny*** — блестящий. Противоположность в тексте — *dull*."
+  - q: "Find a word in the last paragraph that shows the writer's feeling about how much farmers earn."
+    answers: ["sadly"]
+    explain: "*And yet, **sadly**, the farmers… are often paid the least* — оценочное наречие показывает отношение автора. Такие слова — ключ к вопросам об отношении в Part 5."

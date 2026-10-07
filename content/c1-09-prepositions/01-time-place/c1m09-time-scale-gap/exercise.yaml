@@ -1,0 +1,44 @@
+title: "Срок, период, шкала"
+type: gap
+intro: "Впиши **один** предлог (или сочетание из двух предлогов, если оно нужно по смыслу)."
+hints:
+  - "Крайний срок → by; непрерывно до момента → until / till."
+  - "Шкала и уровень → above / below; возраст и сумма → over / under."
+  - "Перед every, next, last, this предлог не ставится."
+items:
+  - q: "Applications must reach the selection panel ___ noon on Friday; late entries will not be considered."
+    answers: ["by", "before"]
+    explain: "Крайний срок для разового действия → **by** («не позже»). *before* тоже возможно. *until* здесь нельзя: подача заявки не длится до полудня."
+  - q: "The exhibition runs ___ the end of January, so there is still time to see it."
+    answers: ["until", "till", "to", "through", "through to", "up to", "up until"]
+    explain: "Выставка идёт **непрерывно** до конца января → *until / till*. *runs to / through (to)* тоже естественно."
+  - q: "My grandparents have lived in that village ___ before the war."
+    answers: ["since"]
+    explain: "**since before** — «ещё с довоенных времён». Два предлога подряд здесь нормальны, а Present Perfect требует точки отсчёта с *since*."
+  - q: "Please don't reveal the winner ___ after the final speech."
+    answers: ["until", "till"]
+    explain: "**until after** — «не раньше, чем после». Тайна сохраняется непрерывно, поэтому *until*."
+  - q: "Wait here — I'll be back ___ an hour."
+    answers: ["in", "within"]
+    explain: "**in** + период = «через», по истечении часа. *within an hour* — «в пределах часа», тоже уместно. ~~after an hour~~ о будущем так не говорят."
+  - q: "I was woken twice ___ the night by a car alarm."
+    answers: ["in", "during"]
+    explain: "Момент внутри конкретной ночи → **in the night** или **during the night**. *at night* — «по ночам вообще», а здесь речь о конкретной ночи."
+  - q: "Most shops in the town are closed ___ Christmas Day."
+    answers: ["on"]
+    explain: "Конкретный день → **on Christmas Day**. *at Christmas* — праздничный период целиком."
+  - q: "Both of my parents left school ___ sixteen."
+    answers: ["at"]
+    explain: "Возраст как точка во времени → **at** sixteen (= at the age of sixteen)."
+  - q: "The temperature stayed well ___ zero for the whole of February, and the lake froze solid."
+    answers: ["below"]
+    explain: "Ноль — точка на **шкале** → **below**. *under* — «под чем-то» (накрыто) или «меньше» с возрастом и суммой."
+  - q: "You can't buy alcohol in the UK if you are ___ eighteen."
+    answers: ["under"]
+    explain: "С возрастом и суммами «меньше чем» → **under** (*under 18, under £50*)."
+  - q: "Her test scores were well ___ average, so she was moved to the advanced group."
+    answers: ["above"]
+    explain: "Средний уровень — точка на шкале → **above average**. ~~over average~~ так не говорят."
+  - q: "Is anyone here ___ sixty-five? Pensioners are entitled to a discount."
+    answers: ["over", "aged over"]
+    explain: "Возраст «больше чем» → **over** (*over 65, over 21*). ~~above 65~~ о возрасте звучит неестественно."

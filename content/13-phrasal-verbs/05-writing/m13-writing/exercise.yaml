@@ -1,0 +1,38 @@
+title: "Article: a challenge I didn't give up on"
+type: writing
+intro: "Напиши статью в формате B2 First, Part 2. Используй заголовок, обращение к читателю и не меньше шести фразовых глаголов."
+prompt: |
+  You see this announcement on an English-language website for young people:
+
+  > **Don't give up!**
+  >
+  > *Tell us about a time when you found something really difficult — learning a skill, starting a new activity or reaching a goal. What problems did you have? What helped you carry on? What did you learn from the experience?*
+  >
+  > *The best articles will be published on our website.*
+
+  Write your **article** in 140–190 words.
+words: [140, 190]
+target_grammar:
+  - "Фразовые глаголы: take up, give up, carry on, work out, turn out, put off"
+  - "Трёхчастные глаголы: run out of, come up with, keep up with, look forward to"
+  - "Порядок слов с местоимением: give it up, work it out; -ing после give up, carry on, look forward to"
+checklist:
+  - "Есть интригующий заголовок."
+  - "Вступление обращается к читателю (вопрос или яркое начало)."
+  - "Рассказано, что было трудно, что помогло продолжить и чему ты научился — все три пункта задания."
+  - "Использовано не меньше шести разных фразовых или трёхчастных глаголов, без ошибок в порядке слов."
+  - "После look forward to, give up, carry on стоит форма -ing."
+  - "Разговорный, но аккуратный регистр: сокращения, вопросы к читателю, без сленга."
+  - "Объём 140–190 слов."
+model_answer: |
+  **Why I'm Glad I Didn't Give Up**
+
+  Have you ever started something and wanted to quit after a week? That's exactly what happened when I took up running.
+
+  Two years ago, I signed up for a 10K race to raise money for a local charity. I'd never run more than a kilometre, but I thought I'd work it out as I went along. I was wrong. After the first training session, I could hardly breathe, and I couldn't keep up with anyone in my group.
+
+  For a while, I kept putting my runs off. I came up with excuses every day: too cold, too tired, too busy. I was about to give the whole thing up when my coach suggested something simple: run for one minute, walk for one minute. Slowly, the minutes turned into kilometres, and I actually started looking forward to my evening runs.
+
+  On race day, I nearly ran out of energy at the end, but I carried on and finished in just under an hour.
+
+  So my advice is this: don't try to do everything at once. Small steps really do add up.

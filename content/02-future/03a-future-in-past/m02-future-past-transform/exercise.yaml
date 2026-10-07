@@ -1,0 +1,63 @@
+title: "Перефразирование: будущее в прошлом (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "intended to → was going to; on the point of → was about to; was scheduled → was due to; agreed / expected → was supposed to."
+  - "certainly will → be bound to / be sure to; probably → be likely to."
+items:
+  - q: "I intended to visit my grandmother last weekend, but I was ill."
+    key: "GOING"
+    stem: "I ___ my grandmother last weekend, but I was ill."
+    answers: ["was going to visit", "was going to see"]
+    explain: "Намерение, которое не осуществилось → **was going to + инфинитив**."
+  - q: "The plane was scheduled to take off at noon."
+    key: "DUE"
+    stem: "The plane ___ off at noon."
+    answers: ["was due to take"]
+    explain: "По расписанию в прошлом → **was due to + инфинитив**. *take off* — фразовый глагол, *off* уже стоит после пропуска."
+  - q: "Tom was on the point of leaving when Kate walked in."
+    key: "ABOUT"
+    stem: "Tom ___ when Kate walked in."
+    answers: ["was about to leave", "was just about to leave", "was about to go"]
+    explain: "*on the point of + -ing* = **was about to + инфинитив**."
+  - q: "We agreed that you would bring the drinks. Where are they?"
+    key: "SUPPOSED"
+    stem: "You ___ the drinks. Where are they?"
+    answers: ["were supposed to bring"]
+    explain: "Договорённость, которую не выполнили → **were supposed to bring**."
+  - q: "Kate will certainly find out the truth."
+    key: "BOUND"
+    stem: "Kate ___ out the truth."
+    answers: ["is bound to find", "'s bound to find"]
+    explain: "Уверенность в будущем → **is bound to + инфинитив**."
+  - q: "'I'll call you after the meeting,' Mark said."
+    key: "WOULD"
+    stem: "Mark said ___ me after the meeting."
+    answers: ["that he would call", "he would call"]
+    explain: "Косвенная речь после *said*: *will* → **would**. *that* можно опустить."
+  - q: "It was clear to me that the project would fail."
+    key: "KNEW"
+    stem: "I ___ going to fail."
+    answers: ["knew the project was", "knew that the project was", "knew it was", "knew that it was"]
+    explain: "*It was clear to me* = **I knew**; прогноз из прошлого → **was going to fail**."
+  - q: "The printer refused to work no matter what I did."
+    key: "WOULDN'T"
+    stem: "The printer ___ no matter what I did."
+    answers: ["wouldn't work", "just wouldn't work", "simply wouldn't work"]
+    explain: "«Отказывался» о вещи в прошлом → **wouldn't + инфинитив**."
+  - q: "It's very probable that the price of the tickets will go up."
+    key: "LIKELY"
+    stem: "The price of the tickets ___ go up."
+    answers: ["is very likely to", "is likely to", "'s very likely to", "'s likely to"]
+    explain: "Вероятность → **be likely to + инфинитив**. *very* можно сохранить."
+  - q: "The new law was supposed to come into force in May, but it never did."
+    key: "HAVE"
+    stem: "The new law was to ___ into force in May, but it never did."
+    answers: ["have come"]
+    explain: "Книжное **was to have + V3** — план, который не осуществился. Ключевое *have* + третья форма *come*."
+  - q: "I'm sure the audience will love your talk."
+    key: "SURE"
+    stem: "Your talk ___ by the audience."
+    answers: ["is sure to be loved", "'s sure to be loved"]
+    explain: "Уверенность говорящего → **is sure to + инфинитив**; в пассиве — *to be loved*."

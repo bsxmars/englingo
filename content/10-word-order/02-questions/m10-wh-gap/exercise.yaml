@@ -1,0 +1,40 @@
+title: "What … like, which, how often"
+type: gap
+intro: "Впиши **одно** пропущенное слово. Ответ в диалоге подсказывает, о чём вопрос."
+hints:
+  - "What … like? — какой; What … look like? — как выглядит; How …? — как дела, самочувствие."
+  - "which — выбор из немногих вариантов; which of + the / these / them."
+items:
+  - q: "— What's your new boss ___? — Very calm and easy to talk to."
+    answers: ["like"]
+    explain: "Вопрос о характере и впечатлении — **What is … like?**"
+  - q: "— What does your brother look ___? — He's tall and has a beard."
+    answers: ["like"]
+    explain: "О внешности — **What does … look like?** *How does he look like* — ошибка."
+  - q: "— ___ is your grandmother? — Much better, thanks. She's out of hospital."
+    answers: ["How"]
+    explain: "О самочувствии и делах — **How is …?**. *What is she like?* спрашивало бы о характере."
+  - q: "— What did you buy all that rope ___? — We're going climbing at the weekend."
+    answers: ["for"]
+    explain: "**What … for?** = «зачем, для чего». Предлог *for* — в конце вопроса."
+  - q: "— ___ of these two jackets do you prefer? — The blue one."
+    answers: ["Which"]
+    explain: "Выбор из двух и конструкция **of these** → только **Which**."
+  - q: "— ___ often do you go to the gym? — Three times a week."
+    answers: ["How"]
+    explain: "Вопрос о частоте — **How often**."
+  - q: "— ___ far is the airport from here? — About forty minutes by taxi."
+    answers: ["How"]
+    explain: "О расстоянии — **How far**."
+  - q: "— What ___ of films do you like? — Mostly thrillers."
+    answers: ["kind", "sort", "type"]
+    explain: "«Какого рода, какие» — **What kind / sort / type of …?**"
+  - q: "— ___ was the concert like? — Amazing! The band played for three hours."
+    answers: ["What"]
+    explain: "**What … like?** — «Как тебе …?». ~~How was the concert like?~~ — смешение двух вопросов."
+  - q: "— Who are you waiting ___? — My sister. She's always late."
+    answers: ["for"]
+    explain: "*wait for someone* → предлог остаётся в конце вопроса: **Who are you waiting for?**"
+  - q: "— ___ platform does the Oxford train leave from? — Platform 4."
+    answers: ["Which", "What"]
+    explain: "Выбор из ограниченного числа платформ → чаще **Which**, но **What** здесь тоже допустимо."

@@ -1,0 +1,144 @@
+- id: m13-depend-on
+  lesson: 13-phrasal-verbs/01-prepositional-verbs
+  q: "Найди ошибку: *It depends from the weather.*"
+  a: "*It depends **on** the weather.* — не калькируй «зависеть от»."
+- id: m13-wait-listen
+  lesson: 13-phrasal-verbs/01-prepositional-verbs
+  q: "Переведи: «Подожди меня, я слушаю музыку»."
+  a: "*Wait **for** me, I'm listening **to** music.*"
+- id: m13-no-prep-verbs
+  lesson: 13-phrasal-verbs/01-prepositional-verbs
+  q: "Какие глаголы **не берут** предлог, хотя по-русски он есть?"
+  a: "*discuss, enter, reach, marry, phone / call, answer, approach, resemble*: *discuss the plan, enter the room, marry someone*."
+- id: m13-explain-to
+  lesson: 13-phrasal-verbs/01-prepositional-verbs
+  q: "Найди ошибку: *Can you explain me the task?*"
+  a: "*Can you explain the task **to me**?* — explain sth **to** sb."
+- id: m13-look-prepositions
+  lesson: 13-phrasal-verbs/01-prepositional-verbs
+  q: "look **at** / **for** / **after** / **into** — значения?"
+  a: "*at* — смотреть на, *for* — искать, *after* — присматривать, *into* — расследовать."
+- id: m13-congratulate-on
+  lesson: 13-phrasal-verbs/01-prepositional-verbs
+  q: "Переведи: «Поздравляю с днём рождения и спасибо за подарок»."
+  a: "*Congratulations **on** your birthday, and thank you **for** the present.* (Чаще просто *Happy birthday!*)"
+- id: m13-accuse-blame
+  lesson: 13-phrasal-verbs/01-prepositional-verbs
+  q: "accuse sb ___ / blame sb ___ / prevent sb ___"
+  a: "*accuse sb **of** doing*, *blame sb **for***, *prevent sb **from** doing*."
+- id: m13-remind-of-about
+  lesson: 13-phrasal-verbs/01-prepositional-verbs
+  q: "*remind of* или *remind about*?"
+  a: "*You remind me **of** my brother* — похож. *Remind me **about** the meeting* — не дай забыть."
+- id: m13-pronoun-position
+  lesson: 13-phrasal-verbs/02-phrasal-verbs
+  q: "Найди ошибку: *It's late — turn off it.*"
+  a: "*Turn **it** off.* — местоимение всегда между глаголом и частицей."
+- id: m13-phrasal-vs-prep
+  lesson: 13-phrasal-verbs/02-phrasal-verbs
+  q: "Почему *look it up*, но *look after it*?"
+  a: "*look up* — фразовый (местоимение внутри), *look after* — предложный (предлог не отделяется)."
+- id: m13-particle-up-down
+  lesson: 13-phrasal-verbs/02-phrasal-verbs
+  q: "Что обычно значат частицы **up** и **down**?"
+  a: "**up** — рост или до конца (*go up, eat up*); **down** — уменьшение, остановка, на бумагу (*turn down, break down, write down*)."
+- id: m13-particle-off-out
+  lesson: 13-phrasal-verbs/02-phrasal-verbs
+  q: "Что обычно значат частицы **off** и **out**?"
+  a: "**off** — отключение, отъезд (*switch off, set off*); **out** — наружу, вслух, раздать, до конца (*cross out, read out, hand out, work out*)."
+- id: m13-put-off
+  lesson: 13-phrasal-verbs/02-phrasal-verbs
+  q: "Переведи: «Хватит откладывать — сделай это сейчас»."
+  a: "*Stop **putting it off** — do it now.*"
+- id: m13-give-up-ing
+  lesson: 13-phrasal-verbs/02-phrasal-verbs
+  q: "Найди ошибку: *She gave up to eat sugar.*"
+  a: "*She gave up **eating** sugar.* — после *give up* форма -ing."
+- id: m13-turn-down-take-up
+  lesson: 13-phrasal-verbs/02-phrasal-verbs
+  q: "turn down / take up / set up / bring up — значения?"
+  a: "*turn down* — отклонить, *take up* — начать (хобби), *set up* — основать, *bring up* — воспитать; поднять тему."
+- id: m13-come-across
+  lesson: 13-phrasal-verbs/02-phrasal-verbs
+  q: "Переведи: «Я случайно нашёл старое письмо»."
+  a: "*I **came across** an old letter.*"
+- id: m13-look-forward-ing
+  lesson: 13-phrasal-verbs/03-three-part-verbs
+  q: "Найди ошибку: *I look forward to hear from you.*"
+  a: "*I look forward to **hearing** from you.* — *to* здесь предлог."
+- id: m13-put-up-with
+  lesson: 13-phrasal-verbs/03-three-part-verbs
+  q: "Переведи: «Как ты это терпишь?»"
+  a: "*How do you **put up with** it?* — трёхчастный глагол не разделяется."
+- id: m13-run-out-of
+  lesson: 13-phrasal-verbs/03-three-part-verbs
+  q: "Найди ошибку: *We've run out sugar.*"
+  a: "*We've run out **of** sugar.* Без дополнения — *Time has run out*."
+- id: m13-come-up-with
+  lesson: 13-phrasal-verbs/03-three-part-verbs
+  q: "Переведи: «Она придумала отличный план»."
+  a: "*She **came up with** a great plan.*"
+- id: m13-get-on-with
+  lesson: 13-phrasal-verbs/03-three-part-verbs
+  q: "Два значения **get on with**?"
+  a: "1) ладить: *I get on with my boss.* 2) продолжать работу: *Get on with your homework!*"
+- id: m13-keep-catch-up
+  lesson: 13-phrasal-verbs/03-three-part-verbs
+  q: "**keep up with** или **catch up with**?"
+  a: "*keep up with* — не отставать (идти наравне); *catch up with* — догнать (после отставания)."
+- id: m13-three-part-synonyms
+  lesson: 13-phrasal-verbs/03-three-part-verbs
+  q: "Фразовые синонимы: tolerate, invent (an idea), reduce, compensate for"
+  a: "*put up with, come up with, cut down on, make up for*."
+- id: m13-fall-through
+  lesson: 13-phrasal-verbs/04-reading
+  q: "Коллокация из текста: «сделка сорвалась»"
+  a: "*The deal **fell through**.* — *fall through* = не состояться."
+- id: m13-rely-insist-on
+  lesson: 13-phrasal-verbs/01-prepositional-verbs
+  q: "Переведи: «Она настояла на том, чтобы заплатить; на неё всегда можно положиться»."
+  a: "*She insisted **on paying**; you can always **rely on** her.* — после *on* форма -ing."
+- id: m13-switch-on-off-error
+  lesson: 13-phrasal-verbs/02-phrasal-verbs
+  q: "Найди ошибку: *She offered me a job, but I turned off it.*"
+  a: "*…I turned it **down**.* — отклонить = *turn down*; местоимение между глаголом и частицей."
+- id: m13-get-round-to
+  lesson: 13-phrasal-verbs/03-three-part-verbs
+  q: "Переведи: «Я так и не нашёл время ему позвонить»."
+  a: "*I never **got round to calling** him.* — *to* предлог, дальше -ing."
+- id: m13-turn-out
+  lesson: 13-phrasal-verbs/02a-particle-meanings
+  q: "Переведи: «Оказалось, что он был прав»."
+  a: "*It **turned out** that he was right.* / *He **turned out to be** right.*"
+- id: m13-wear-pay-off
+  lesson: 13-phrasal-verbs/02a-particle-meanings
+  q: "**wear off** или **pay off**: The painkiller ___ after two hours."
+  a: "**wore off** — постепенно прошло. *pay off* — окупиться, дать результат."
+- id: m13-out-disappear
+  lesson: 13-phrasal-verbs/02a-particle-meanings
+  q: "sell out / die out / break out — значения?"
+  a: "*sell out* — распродать всё, *die out* — вымереть, *break out* — внезапно начаться (война, пожар)."
+- id: m13-go-off-meanings
+  lesson: 13-phrasal-verbs/02a-particle-meanings
+  q: "Три значения **go off**?"
+  a: "Сработать (*the alarm went off*), испортиться (*the milk has gone off*), разлюбить (*I've gone off coffee*)."
+- id: m13-breakdown-noun
+  lesson: 13-phrasal-verbs/02a-particle-meanings
+  q: "Найди ошибку: *We were late because of a break down on the motorway.*"
+  a: "*…because of a **breakdown**…* — существительное пишется слитно; глагол — *break down*."
+- id: m13-outcome-outbreak
+  lesson: 13-phrasal-verbs/02a-particle-meanings
+  q: "Существительные от *come out*, *break out*, *look out*, *bring up*?"
+  a: "*outcome* (итог), *outbreak* (вспышка), *outlook* (прогноз), *upbringing* (воспитание) — частица впереди."
+- id: m13-setback-takeover
+  lesson: 13-phrasal-verbs/02a-particle-meanings
+  q: "Переведи: «неудача», «поглощение компании», «явка», «резервная копия»."
+  a: "*a setback, a takeover, turnout, a backup*."
+- id: m13-checkin-verb-noun
+  lesson: 13-phrasal-verbs/02a-particle-meanings
+  q: "Глагол или существительное: *Please ___ at desk 5* / *Online ___ closes at 10* (check in)."
+  a: "Глагол раздельно: *Please **check in** at desk 5.* Существительное через дефис: *Online **check-in** closes at 10.*"
+- id: m13-end-up-ing
+  lesson: 13-phrasal-verbs/02a-particle-meanings
+  q: "Переведи: «Мы в итоге остались дома»."
+  a: "*We **ended up staying** at home.* — *end up* + -ing."

@@ -1,0 +1,83 @@
+title: "The placebo paradox"
+type: reading
+intro: "Прочитай научно-популярную статью и ответь на вопросы. Вопросы с вариантами — в стиле C1 Advanced, Part 5; в остальных впиши слово или фразу из текста."
+hints:
+  - "Вопросы идут в порядке текста."
+  - "Различай позицию автора и мнения, которые он пересказывает (one explanation is…, critics point out…)."
+text: |
+  ## The placebo paradox
+
+  That a sugar pill can make people feel better is no longer seriously disputed. What remains far less clear is why it does so, and whether the effect can be put to honest use. For most of the twentieth century, the placebo was regarded as little more than a nuisance — a source of noise that had to be filtered out of clinical trials so that the real effects of a drug could be measured. It is only relatively recently that researchers have begun to treat it as a phenomenon worth studying in its own right.
+
+  The basic finding is easy to state. When patients receive an inactive treatment that they believe to be real, a significant proportion of them report an improvement in their symptoms. The effect is strongest for conditions in which subjective experience plays a large part, such as pain, nausea and fatigue, and weakest — often non-existent — for conditions that can be measured objectively, such as the growth of a tumour. Whether a placebo can actually change the course of a disease, rather than how the disease feels, is a question on which the evidence is, at best, thin.
+
+  How the effect works is the subject of lively debate. One explanation is that expectation alone prompts the brain to release its own pain-relieving chemicals. Another is that patients have been conditioned, much as Pavlov's dogs were, to associate the ritual of treatment with relief. A third, less flattering, explanation is that much of what looks like a placebo effect is not an effect at all. Many illnesses improve on their own, and patients who enrol in a trial when their symptoms are at their worst are likely to feel better a few weeks later regardless of what they are given. The fact that this so-called regression to the mean is not always controlled for has led some sceptics to argue that the power of the placebo has been greatly exaggerated.
+
+  Even so, there is evidence that the context in which a treatment is delivered matters a great deal. In various experiments, capsules have tended to outperform tablets, injections to outperform capsules, and expensive-looking pills to outperform cheap ones. Patients treated by a warm, attentive practitioner have reported more relief than those treated by a brisk one, even when the treatment itself was identical. What these findings seem to show is that the ritual of care — the consultation, the explanation, the sense of being taken seriously — is part of the medicine.
+
+  This raises an awkward ethical question. If a placebo works only because the patient is deceived, then prescribing one appears to violate the principle that patients be told the truth about their treatment. Medical codes insist that doctors obtain informed consent, and it is hard to see how consent can be informed if the patient has been misled about what they are taking. For this reason, many doctors who would like to harness the placebo effect feel unable to do so.
+
+  A possible way out of this dilemma has come from so-called open-label studies. In one widely discussed experiment, patients with a chronic digestive disorder were given pills that they were told, quite openly, contained no active ingredient. They were also told that placebos had been shown to produce improvements through mind–body processes. Remarkably, many of them reported that their symptoms eased. Similar results have since been reported for back pain and fatigue, although the trials have generally been small, and critics point out that patients who agree to take a pill they know to be inert may not be typical.
+
+  What all this means for everyday medicine is not yet obvious. Nobody is suggesting that doctors hand out sugar pills instead of antibiotics. The more modest conclusion is that the way a treatment is given cannot be separated from the treatment itself, and that it would be a mistake to dismiss as "merely psychological" an effect that patients experience as real. The placebo, it turns out, is less a trick played on the mind than a reminder of how much the mind has to do with healing.
+items:
+  - q: "According to the first paragraph, how has scientific thinking about placebos changed?"
+    options:
+      - "Placebos used to be considered dangerous but are now seen as harmless."
+      - "They were once seen mainly as an obstacle to research but are now studied for their own sake."
+      - "Researchers have only recently discovered that placebos make people feel better."
+      - "Clinical trials no longer need to take the placebo effect into account."
+    answer: 1
+    explain: "*regarded as little more than a nuisance — a source of noise…* → *only relatively recently… a phenomenon worth studying in its own right*."
+  - q: "What does the second paragraph suggest about the effectiveness of placebos?"
+    options:
+      - "They work equally well for all kinds of illness."
+      - "They are most effective for serious diseases such as cancer."
+      - "They influence how patients feel more reliably than the progress of a disease."
+      - "Their effects can be measured more easily than those of real drugs."
+    answer: 2
+    explain: "Сильнее всего эффект для субъективных симптомов (боль, усталость), а влияние на течение болезни подтверждено слабо (*the evidence is, at best, thin*)."
+  - q: "Why does the writer describe the third explanation as 'less flattering'?"
+    options:
+      - "It suggests that some apparent placebo effects would have happened anyway."
+      - "It implies that patients are easily deceived by doctors."
+      - "It compares patients to animals in a laboratory."
+      - "It has been rejected by most researchers."
+    answer: 0
+    explain: "Третье объяснение «не льстит» самому эффекту: многие пациенты поправились бы и так (*regardless of what they are given*), то есть эффект отчасти иллюзорен."
+  - q: "What do the experiments described in the fourth paragraph indicate?"
+    options:
+      - "Expensive drugs are more effective than cheap ones."
+      - "The way a treatment is presented and delivered affects how well it works."
+      - "Patients prefer injections to tablets."
+      - "Friendly doctors prescribe more effective treatments."
+    answer: 1
+    explain: "*the context in which a treatment is delivered matters* — форма, цена и манера врача влияют на результат даже при одинаковом лечении."
+  - q: "What is the ethical problem described in the fifth paragraph?"
+    options:
+      - "Placebos are too expensive to prescribe widely."
+      - "Doctors do not know enough about how placebos work."
+      - "Using a placebo seems to require misleading patients, which conflicts with informed consent."
+      - "Patients often refuse to take placebos."
+    answer: 2
+    explain: "*If a placebo works only because the patient is deceived…* — обман противоречит принципу информированного согласия."
+  - q: "What is the writer's attitude to open-label studies?"
+    options:
+      - "Cautiously interested: the results are striking, but the evidence has limitations."
+      - "Dismissive: the trials are too small to be taken seriously."
+      - "Enthusiastic: they have solved the ethical dilemma."
+      - "Neutral: the writer reports the results without comment."
+    answer: 0
+    explain: "*A possible way out*, *Remarkably* — интерес; но *the trials have generally been small* и оговорка критиков — осторожность."
+  - q: "Find a word in the third paragraph that means 'people who doubt that something is true'."
+    answers: ["sceptics", "skeptics"]
+    explain: "*sceptics* — скептики; американское написание — *skeptics*."
+  - q: "Find a word in the sixth paragraph that means 'having no active chemical effect'."
+    answers: ["inert"]
+    explain: "*a pill they know to be **inert*** — инертный, без действующего вещества."
+  - q: "Which phrase in the fourth paragraph does the writer use to sum up the consultation, the explanation and the sense of being taken seriously?"
+    answers: ["the ritual of care", "ritual of care"]
+    explain: "*What these findings seem to show is that **the ritual of care**… is part of the medicine* — псевдорасщеплённое предложение с *What*."
+  - q: "Complete the phrase from the fifth paragraph with the two-word verb form the writer uses (a subjunctive): 'the principle that patients ___ the truth about their treatment'."
+    answers: ["be told"]
+    explain: "*the principle that patients **be told** the truth* — сослагательное после существительного со значением правила."

@@ -1,0 +1,59 @@
+title: "Перефразирование: сокращённые придаточные (C1 Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы смысл совпал с первым. Используй **ключевое слово** без изменений и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "who / which + be + -ing / V3 → просто -ing / V3."
+  - "the first / the last / the only + to-инфинитив."
+  - "Квантор + of whom / of which связывает два предложения в одно."
+items:
+  - q: "Anyone who wishes to apply must submit a portfolio by 1 March."
+    key: "WISHING"
+    stem: "Anyone ___ a portfolio by 1 March."
+    answers: ["wishing to apply must submit", "wishing to apply should submit", "wishing to apply needs to submit", "wishing to apply has to submit"]
+    explain: "*who wishes* → **wishing**: актив сокращается до -ing. Это стандартная формула официальных объявлений."
+  - q: "Nobody reached the scene of the crime before Inspector Lane."
+    key: "FIRST"
+    stem: "Inspector Lane was ___ the scene of the crime."
+    answers: ["the first to reach", "the first person to reach", "the first one to reach", "the first officer to reach", "the first to arrive at", "the first person to arrive at", "the first one to arrive at", "the first officer to arrive at", "the first to get to", "the first person to get to"]
+    explain: "После **the first** — инфинитив: *the first (person) **to reach***, а не ~~the first reaching~~."
+  - q: "The flats which are being built near the river have all been sold."
+    key: "BEING"
+    stem: "The flats ___ the river have all been sold."
+    answers: ["being built near", "being built by", "being built next to", "being built beside", "being built along"]
+    explain: "*which are being built* → **being built**: пассив в процессе. Просто *built* значило бы, что стройка уже закончена."
+  - q: "Prisoners who have been held for years without trial are to be released."
+    key: "HAVING"
+    stem: "Prisoners ___ years without trial are to be released."
+    answers: ["having been held for"]
+    explain: "*who have been held* → **having been held**: перфектный пассив подчёркивает, что ситуация длится с прошлого."
+  - q: "Forty people were invited, but most of them didn't turn up."
+    key: "WHOM"
+    stem: "Forty people were invited, ___ turn up."
+    answers: ["most of whom did not", "most of whom didn't", "most of whom failed to"]
+    explain: "Два предложения → одно: квантор + **of whom**. ~~most of them didn't~~ после запятой дало бы ошибку comma splice."
+  - q: "They live in a village. I can never remember its name."
+    key: "OF"
+    stem: "They live in a village, the ___ never remember."
+    answers: ["name of which I can"]
+    explain: "Формальная альтернатива *whose name*: **the name of which**. Порядок: существительное → *of which* → подлежащее и сказуемое."
+  - q: "She was the only member of staff who noticed the error."
+    key: "TO"
+    stem: "She was the only member of staff ___ error."
+    answers: ["to notice the", "to have noticed the", "to spot the", "to have spotted the"]
+    explain: "После **the only** — инфинитив: *the only member of staff **to notice***. Перфектный *to have noticed* тоже возможен."
+  - q: "People who live near airports often complain about the noise."
+    key: "THOSE"
+    stem: "___ near airports often complain about the noise."
+    answers: ["Those living", "Those who live", "Those of us living", "Those of us who live"]
+    explain: "**those who** = «те, кто»; сокращённо — **those living**. С *these* так не говорят."
+  - q: "The issues which will be discussed at the summit include climate finance."
+    key: "DISCUSSED"
+    stem: "The issues ___ summit include climate finance."
+    answers: ["to be discussed at the"]
+    explain: "Будущее действие с оттенком плана → пассивный инфинитив **to be discussed**. *discussed at the summit* без *to be* звучало бы как уже обсуждённые."
+  - q: "Customers who did not receive a confirmation email should call the helpline."
+    key: "NOT"
+    stem: "Customers ___ confirmation email should call the helpline."
+    answers: ["not having received a", "not receiving a", "who did not receive a", "who have not received a", "who haven't received a", "who didn't receive a"]
+    explain: "В отрицательном сокращённом придаточном **not** стоит **перед** причастием: *not having received*. Полное придаточное с *not* тоже засчитывается."

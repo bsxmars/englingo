@@ -1,0 +1,136 @@
+- id: c1m15-one-conjunction
+  lesson: c1-15-adverbial-clauses/01-time-manner
+  q: "Найди ошибку: *Because there were no lights, so I couldn't see anything.*"
+  a: "Один союз на связь: *Because there were no lights, I couldn't…* или *There were no lights, so I couldn't…*"
+- id: c1m15-as-change
+  lesson: c1-15-adverbial-clauses/01-time-manner
+  q: "«По мере того как я старею, …» — as или while?"
+  a: "**as**: параллельное изменение. *As I get older, I care less.* *while* так не используется."
+- id: c1m15-just-as
+  lesson: c1-15-adverbial-clauses/01-time-manner
+  q: "Переведи: «Свет погас ровно в тот момент, когда я вошёл»."
+  a: "*The lights went out **just as** I walked in.*"
+- id: c1m15-no-sooner
+  lesson: c1-15-adverbial-clauses/01-time-manner
+  q: "Перефразируй с NO SOONER: *As soon as we sat down, the lights went out.*"
+  a: "***No sooner had we sat down than** the lights went out.*"
+- id: c1m15-hardly-when
+  lesson: c1-15-adverbial-clauses/01-time-manner
+  q: "Какие пары фиксированы: no sooner… ?, hardly / scarcely… ?"
+  a: "*no sooner… **than***; *hardly / scarcely… **when*** (иногда *before*)."
+- id: c1m15-since-tense
+  lesson: c1-15-adverbial-clauses/01-time-manner
+  q: "Найди ошибку: *I've lived here since I'm ten.*"
+  a: "После **since** — Past Simple или Present Perfect: *since I **was** ten*."
+- id: c1m15-as-if-were
+  lesson: c1-15-adverbial-clauses/01-time-manner
+  q: "Переведи: «Он обращается со мной так, будто я ребёнок»."
+  a: "*He treats me **as if I were** a child.* — нереальное сравнение → Past / *were*."
+- id: c1m15-as-like
+  lesson: c1-15-adverbial-clauses/01-time-manner
+  q: "*___ I told you, the meeting is cancelled.* — as или like в формальном письме?"
+  a: "**As** I told you. *like* как союз — разговорный."
+- id: c1m15-for-reason
+  lesson: c1-15-adverbial-clauses/02-reason-purpose-result
+  q: "Можно ли начать предложение с *for* («ибо»)?"
+  a: "Нет. *for* — только после главной части: *Save money, **for** there may be costs later.*"
+- id: c1m15-in-that
+  lesson: c1-15-adverbial-clauses/02-reason-purpose-result
+  q: "Что значит *in that*: *The plan is flawed in that it ignores costs.*"
+  a: "Формальное «в том смысле, что / поскольку» — уточняет, **в чём** именно."
+- id: c1m15-now-that
+  lesson: c1-15-adverbial-clauses/02-reason-purpose-result
+  q: "Переведи: «Теперь, когда у нас есть машина, мы можем чаще ездить к родителям»."
+  a: "***Now (that)** we've got a car, we can visit my parents more often.*"
+- id: c1m15-in-order-not
+  lesson: c1-15-adverbial-clauses/02-reason-purpose-result
+  q: "Найди ошибку: *She left early in order to not miss the train.*"
+  a: "*not* перед *to*: ***in order not to** miss* / ***so as not to** miss*."
+- id: c1m15-in-order-for
+  lesson: c1-15-adverbial-clauses/02-reason-purpose-result
+  q: "«Чтобы план сработал, нужны деньги» — с in order."
+  a: "***In order for the plan to work**, we need money.* — своё подлежащее → *in order for + сущ. + to*."
+- id: c1m15-lest
+  lesson: c1-15-adverbial-clauses/02-reason-purpose-result
+  q: "Что значит **lest** и какая форма после него?"
+  a: "«чтобы не» — очень формально. *lest* + (*should*) + инфинитив: *lest they (should) be overheard*."
+- id: c1m15-so-such
+  lesson: c1-15-adverbial-clauses/02-reason-purpose-result
+  q: "so или such: *It was ___ nice weather that…* / *It was ___ nice that…*"
+  a: "***such** nice weather* (перед именной группой) / ***so** nice* (перед прилагательным)."
+- id: c1m15-so-adj-a
+  lesson: c1-15-adverbial-clauses/02-reason-purpose-result
+  q: "Перефразируй книжно: *She is such a talented pianist that…*"
+  a: "*She is **so talented a pianist** that…*"
+- id: c1m15-adj-as
+  lesson: c1-15-adverbial-clauses/03-contrast-reduced
+  q: "Перефразируй с AS: *Although she was very tired, she kept working.*"
+  a: "***Tired as she was**, she kept working.* (или *Tired though she was*)"
+- id: c1m15-much-as
+  lesson: c1-15-adverbial-clauses/03-contrast-reduced
+  q: "Переведи формально: «Как бы я ни уважал его, я не могу согласиться»."
+  a: "***Much as** I respect him, I can't agree.*"
+- id: c1m15-although-but
+  lesson: c1-15-adverbial-clauses/03-contrast-reduced
+  q: "Найди ошибку: *Although he was ill, but he went to work.*"
+  a: "Лишнее *but*: *Although he was ill, he went to work.*"
+- id: c1m15-despite-clause
+  lesson: c1-15-adverbial-clauses/03-contrast-reduced
+  q: "Найди ошибку: *Despite he was tired, he finished the report.*"
+  a: "*Despite **being** tired* / *Despite **the fact that** he was tired* / *Although he was tired*."
+- id: c1m15-dangling
+  lesson: c1-15-adverbial-clauses/03-contrast-reduced
+  q: "Что не так: *Walking into the room, the smell of smoke hit me.*"
+  a: "Висячее причастие: в комнату вошёл не запах. *Walking into the room, **I** noticed the smell of smoke.*"
+- id: c1m15-because-reduced
+  lesson: c1-15-adverbial-clauses/03-contrast-reduced
+  q: "Можно ли сократить *because she was waiting* до *because waiting*?"
+  a: "Нет. Либо *Waiting for…*, либо полное *because she was waiting*. *because* не сокращается."
+- id: c1m15-once-submitted
+  lesson: c1-15-adverbial-clauses/03-contrast-reduced
+  q: "Переведи формально: «После подачи заявку нельзя отозвать»."
+  a: "***Once submitted**, the application cannot be withdrawn.*"
+- id: c1m15-stopgap
+  lesson: c1-15-adverbial-clauses/04-reading
+  q: "Переведи: *a stopgap, sleep debt, to make up for, to frown on*."
+  a: "временная мера; недосып; компенсировать; неодобрительно относиться к."
+- id: c1m15-proposal-modality
+  lesson: c1-15-adverbial-clauses/05-writing
+  q: "Почему в proposal лучше *would*, а не *will*?"
+  a: "Предложение ещё не принято: *This **would** reduce…*, *It is proposed that… (should)…* — осторожная модальность."
+- id: c1m15-as-if-past
+  lesson: c1-15-adverbial-clauses/01-time-manner
+  q: "Найди ошибку: *After the row, he behaved as if nothing has happened.*"
+  a: "Главная часть в прошлом, событие раньше → **had happened**: *as if nothing **had happened***."
+- id: c1m15-having-done
+  lesson: c1-15-adverbial-clauses/03a-participle-absolute
+  q: "*Finishing her degree, she travelled for a year* — что не так?"
+  a: "Между действиями промежуток → **Having finished** her degree. *-ing* — только для одновременных или идущих вплотную действий."
+- id: c1m15-chekhov
+  lesson: c1-15-adverbial-clauses/03a-participle-absolute
+  q: "Найди ошибку: *Having finished the report, it was sent to the director.*"
+  a: "Висячее причастие: отчёт не «закончил себя». → *Having finished the report, **I** sent it…* или *Once finished, the report was sent…*"
+- id: c1m15-it-being
+  lesson: c1-15-adverbial-clauses/03a-participle-absolute
+  q: "Исправь: *Being a public holiday, the shops were closed.*"
+  a: "У оборота своё подлежащее → ***It being** a public holiday, …* или *As it was a public holiday, …*"
+- id: c1m15-there-being
+  lesson: c1-15-adverbial-clauses/03a-participle-absolute
+  q: "Перефразируй формально с BEING: *As there was no further business, the meeting closed.*"
+  a: "***There being** no further business, the meeting closed.*"
+- id: c1m15-with-absolute
+  lesson: c1-15-adverbial-clauses/03a-participle-absolute
+  q: "Переведи нейтрально: «Поскольку цены так быстро растут, семьи экономят»."
+  a: "***With prices rising** so fast, families are cutting back.* — with + сущ. + -ing."
+- id: c1m15-weather-permitting
+  lesson: c1-15-adverbial-clauses/03a-participle-absolute
+  q: "Что значат *Weather permitting* и *All things considered*?"
+  a: "«Если позволит погода» и «учитывая всё» — застывшие абсолютные обороты формального стиля."
+- id: c1m15-trailing
+  lesson: c1-15-adverbial-clauses/03a-participle-absolute
+  q: "Сожми: *Prices rose sharply, which forced many shops to close.*"
+  a: "*Prices rose sharply, **forcing** many shops to close.* — оборот результата после главной части."
+- id: c1m15-fixed-participles
+  lesson: c1-15-adverbial-clauses/03a-participle-absolute
+  q: "Почему *Judging by his accent, he's from Glasgow* — не висячее причастие?"
+  a: "*judging by, considering, generally speaking, given, provided* — застывшие связки с «общим» подлежащим; правило к ним не применяют."

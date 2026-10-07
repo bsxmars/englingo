@@ -1,0 +1,51 @@
+title: "Какой пересказ точен?"
+type: choice
+intro: "Выбери пересказ, который грамматически верен **и** сохраняет смысл исходной фразы."
+hints:
+  - "Нереальные условия, wish и it's time не сдвигаются."
+  - "Вопросы с Shall I / Would you like / Can you — часто предложение, приглашение или просьба."
+items:
+  - q: "\"You must be hungry after the flight,\" Mum said. → Mum said I ___ hungry after the flight."
+    options: ["had to be", "must be", "must have been"]
+    answer: 1
+    explain: "Это вывод («наверное, голоден»), а не обязанность → **must be**. *must have been* сдвигает голод в прошлое, до полёта."
+  - q: "\"Must I fill in this form?\" he asked. → He asked if he ___ fill in the form."
+    options: ["must have", "had to", "should have"]
+    answer: 1
+    explain: "Вопрос об обязанности → **had to** (или *must*). *must have / should have* — это перфектные модальные о прошлом."
+  - q: "\"Shall we order a pizza?\" said Lisa."
+    options: ["Lisa asked shall we order a pizza.", "Lisa suggested ordering a pizza.", "Lisa offered to order us a pizza."]
+    answer: 1
+    explain: "*Shall we…?* — предложение сделать что-то **вместе** → **suggested ordering**. *offered to order* — Лиса закажет сама, это другой смысл."
+  - q: "\"Would you like to come to our wedding?\" they asked me."
+    options: ["They asked me would I like to come to their wedding.", "They invited me to come to their wedding.", "They offered me to come to their wedding."]
+    answer: 1
+    explain: "Это приглашение → **invited me to come**. ~~offered me to come~~ — ошибка: *offer to do* — про себя, а не про другого."
+  - q: "\"If you don't hurry, you'll miss the bus,\" Dad said."
+    options: ["Dad said that if I didn't hurry, I would miss the bus.", "Dad said that if I hadn't hurried, I would have missed the bus.", "Dad said that if I don't hurry, I would miss the bus."]
+    answer: 0
+    explain: "1st conditional сдвигается целиком: *don't hurry* → **didn't hurry**, *will* → **would**. Второй вариант — уже о нереальном прошлом."
+  - q: "\"If I had more time, I would learn the guitar,\" said Igor yesterday."
+    options: ["Igor said if he had had more time, he would have learnt the guitar.", "Igor said if he had more time, he would learn the guitar.", "Igor said if he has more time, he will learn the guitar."]
+    answer: 1
+    explain: "2nd conditional **не меняется**. Первый вариант превращает мечту о сейчас в сожаление о прошлом."
+  - q: "\"You needn't wait for me,\" she said."
+    options: ["She said we didn't need to wait for her.", "She said we mustn't wait for her.", "She said we couldn't wait for her."]
+    answer: 0
+    explain: "*needn't* = «не обязательно» → **didn't need to**. *mustn't* и *couldn't* превращают разрешение не ждать в запрет."
+  - q: "\"Can you help me move on Saturday?\" my brother asked."
+    options: ["My brother asked me to help him move on Saturday.", "My brother asked me can I help him move on Saturday.", "My brother said me to help him move on Saturday."]
+    answer: 0
+    explain: "*Can you…?* — просьба → **asked me to help**. Вопросительный порядок и *said me* невозможны."
+  - q: "\"Could I leave early today?\" Anna asked her boss."
+    options: ["Anna asked her boss if she could leave early that day.", "Anna asked her boss to leave early that day.", "Anna asked her boss if could she leave early today."]
+    answer: 0
+    explain: "Просьба о разрешении → **asked if she could**. *asked her boss to leave* значит «попросила начальника уйти»."
+  - q: "\"I wish I hadn't sold my old car,\" said Grandpa."
+    options: ["Grandpa said he wished he hadn't sold his old car.", "Grandpa said he wished he didn't sell his old car.", "Grandpa said he had wished he hadn't sold his old car."]
+    answer: 0
+    explain: "Меняется только *wish* → **wished**; *hadn't sold* остаётся. *had wished* означало бы, что он жалел ещё раньше."
+  - q: "\"It's time we went home,\" Vera said at midnight."
+    options: ["Vera said it was time they went home.", "Vera said it was time they had gone home.", "Vera said it is time we go home."]
+    answer: 0
+    explain: "После *it's time* — нереальное прошедшее, оно не сдвигается: **it was time they went**."

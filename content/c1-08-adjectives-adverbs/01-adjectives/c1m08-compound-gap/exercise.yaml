@@ -1,0 +1,43 @@
+title: "Сожми придаточное в одно прилагательное"
+type: gap
+intro: |
+  Замени описание в скобках **одним compound adjective** (через дефис) или, где сказано, конструкцией **the + прилагательное**.
+
+  Пример: *a ___ cake (a cake that was made at home)* → **home-made**.
+hints:
+  - "Активный смысл (что-то делает) → -ing: energy-saving. Пассивный (с ним что-то сделали) → V3: well-planned."
+  - "Число + существительное — в единственном числе: a two-year contract."
+items:
+  - q: "We were stuck behind a ___ lorry for twenty kilometres. (a lorry that moves slowly)"
+    answers: ["slow-moving", "slow moving"]
+    explain: "Активный смысл (lorry moves) → *adj + V-ing*: **slow-moving**."
+  - q: "The conference was a ___ event from start to finish. (an event that was organised well)"
+    answers: ["well-organised", "well-organized", "well organised", "well organized"]
+    explain: "Пассивный смысл (was organised) → *adv + V3*: **well-organised**."
+  - q: "The council has replaced all street lights with ___ bulbs. (bulbs that save energy)"
+    answers: ["energy-saving", "energy saving"]
+    explain: "Noun + V-ing на активной основе: bulbs save energy → **energy-saving**."
+  - q: "Sepsis is a ___ condition that requires urgent treatment. (a condition that threatens life)"
+    answers: ["life-threatening", "life threatening"]
+    explain: "*a condition that threatens life* → **life-threatening**."
+  - q: "She was offered a ___ contract with an option to extend. (a contract for two years)"
+    answers: ["two-year", "two year", "2-year"]
+    explain: "Число + существительное в единственном числе: **two-year**, не ~~two-years~~."
+  - q: "Despite the long hours, it's a notoriously ___ profession. (a profession in which people are paid little)"
+    answers: ["low-paid", "low paid", "badly-paid", "badly paid", "poorly-paid", "poorly paid", "underpaid", "low-paying", "low paying"]
+    explain: "Пассивная основа (people are paid little) → **low-paid** (или *badly paid, poorly paid*)."
+  - q: "The two countries finally resolved their ___ dispute over fishing rights. (a dispute that has existed for a long time)"
+    answers: ["long-standing", "longstanding", "long standing", "long-running", "long running"]
+    explain: "**long-standing** — «давний, многолетний». Близкий вариант — *long-running*."
+  - q: "The suspect was described as a tall, ___ man in his forties. (a man with broad shoulders)"
+    answers: ["broad-shouldered", "broad shouldered"]
+    explain: "Модель *adj + noun-ed* = «с чем-то»: **broad-shouldered**."
+  - q: "Our town has opened a new shelter for ___ . (people who have nowhere to live)"
+    answers: ["the homeless"]
+    explain: "*the* + прилагательное = социальная группа: **the homeless**."
+  - q: "___ are famously direct in business meetings. (people from the Netherlands)"
+    answers: ["The Dutch"]
+    explain: "Национальности на *-ch, -sh, -se, -ss* образуют группу через *the* без *-s*: **The Dutch**."
+  - q: "The new pension rules will mainly affect ___ . (people who are old)"
+    answers: ["the elderly", "the old", "the aged"]
+    explain: "**the elderly** — вежливое обозначение пожилых людей как группы; *the old* звучит резче, *the aged* — официально."

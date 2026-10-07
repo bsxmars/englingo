@@ -1,0 +1,44 @@
+title: "Все типы условных вперемешку"
+type: gap
+intro: "Поставь глагол в скобках в нужную форму. Сначала реши, о каком времени условие и о каком — результат, и реально это или нет."
+hints:
+  - "Конкретное прошлое (yesterday, last night) + нереальность → Past Perfect в условии."
+  - "Результат сейчас (now) → would + V; результат в прошлом → would have + V3."
+  - "Реальное будущее → в условии настоящее время, без will."
+items:
+  - q: "If I ___ (have) more time yesterday, I would have finished the report."
+    answers: ["had had"]
+    explain: "Нереальное прошлое (*yesterday*, а в результате *would have*) → Past Perfect от *have*: **had had**. Двойное *had* — это нормально."
+  - q: "You were coughing all day on Monday! If you ___ (feel) ill, you should have stayed at home."
+    answers: ["felt", "were feeling"]
+    explain: "Условие — реальный факт прошлого (ты правда болел), поэтому обычное прошедшее: **felt**. Результат — упрёк через *should have*. Это «свободное» сочетание, не один из четырёх типов."
+  - q: "If you press this button, the screen ___ (switch) off."
+    answers: ["switches", "will switch"]
+    explain: "Так происходит всегда → zero conditional: **switches**. Если речь о конкретном случае в будущем, возможно и *will switch*."
+  - q: "We could have given you a lift if we ___ (know) you were coming this way."
+    answers: ["had known"]
+    explain: "В результате *could have given* → третий тип: в условии Past Perfect **had known**."
+  - q: "If the lift ___ (work), we wouldn't have to take the stairs."
+    answers: ["was working", "were working", "worked"]
+    explain: "Нереальное настоящее (лифт сейчас сломан) → второй тип. Подходит Past Continuous **was / were working** (сейчас, в данный момент) или *worked*."
+  - q: "If you ___ (need) any help with the move this weekend, just ask."
+    answers: ["need"]
+    explain: "Реальное будущее, результат — повелительное наклонение (*just ask*) → в условии Present Simple **need**."
+  - q: "If you'd been more careful, you ___ (not / cut) yourself."
+    answers: ["wouldn't have cut", "would not have cut"]
+    explain: "Упрёк о прошлом: условие в Past Perfect (*you'd been*) → в результате **wouldn't have cut**."
+  - q: "Thank goodness for the seat belt! If she ___ (not / wear) it, she might have been seriously hurt."
+    answers: ["hadn't been wearing", "had not been wearing", "hadn't worn", "had not worn"]
+    explain: "Облегчение: всё обошлось. Нереальное прошлое → Past Perfect **hadn't worn** или Past Perfect Continuous **hadn't been wearing**."
+  - q: "If you ___ (not / leave) the window open last night, the room wouldn't be so cold now."
+    answers: ["hadn't left", "had not left"]
+    explain: "Условие — прошлое (*last night*), результат — сейчас (*now*) → смешанный тип: **hadn't left** … *wouldn't be*."
+  - q: "If it ___ (be) sunny on Saturday, we're going to have a barbecue."
+    answers: ["is"]
+    explain: "Реальный план на будущее → первый тип: в условии Present Simple **is**, без *will*. В результате может быть *be going to*."
+  - q: "If I ___ (realise) how expensive the hotel was, I would never have booked it."
+    answers: ["had realised", "had realized"]
+    explain: "Результат в прошлом (*would never have booked*) и условие тоже в прошлом → третий тип: **had realised**."
+  - q: "If I ___ (not / have) a meeting this afternoon, I'd come with you to the airport."
+    answers: ["didn't have", "did not have"]
+    explain: "Нереальное настоящее / ближайшее будущее (встреча есть) → второй тип: **didn't have** … *I'd come*."

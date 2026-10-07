@@ -1,0 +1,43 @@
+title: "Частица + предлог"
+type: gap
+intro: "Впиши **два слова** — частицу и предлог: *up with, out of, forward to* и т. п."
+hints:
+  - "put up with — терпеть, come up with — придумать, keep up with — не отставать."
+  - "run out of — закончиться, cut down on — сократить, look forward to — ждать с нетерпением."
+items:
+  - q: "I'm really looking ___ seeing you again!"
+    answers: ["forward to"]
+    explain: "**look forward to** + *-ing* — ждать с нетерпением."
+  - q: "How do you get ___ your new flatmate?"
+    answers: ["on with", "along with"]
+    explain: "Ладить с кем-то → **get on with** (брит.) или **get along with**."
+  - q: "I can't put ___ this noise any longer — I'm calling the landlord."
+    answers: ["up with"]
+    explain: "Терпеть, мириться → **put up with**."
+  - q: "We've run ___ milk. Can you get some on the way home?"
+    answers: ["out of"]
+    explain: "Закончилось → **run out of** something."
+  - q: "Who came ___ the idea of a four-day working week?"
+    answers: ["up with"]
+    explain: "Придумать → **come up with** an idea / a plan / a solution."
+  - q: "Slow down! I can't keep ___ you."
+    answers: ["up with"]
+    explain: "Не отставать, держаться наравне → **keep up with**."
+  - q: "You go ahead — I'll catch ___ you in a minute."
+    answers: ["up with"]
+    explain: "Догнать → **catch up with**."
+  - q: "My doctor told me to cut ___ sugar and salt."
+    answers: ["down on", "back on"]
+    explain: "Сократить потребление → **cut down on** (или *cut back on*)."
+  - q: "I'm sorry I was so rude yesterday. How can I make ___ it?"
+    answers: ["up for"]
+    explain: "Загладить вину, компенсировать → **make up for**."
+  - q: "Did the hotel live ___ your expectations?"
+    answers: ["up to"]
+    explain: "Оправдать ожидания → **live up to** expectations."
+  - q: "He copied his essay from the internet and somehow got ___ it!"
+    answers: ["away with"]
+    explain: "Избежать наказания → **get away with** something."
+  - q: "I've always looked ___ my older sister — she's my hero."
+    answers: ["up to"]
+    explain: "Уважать, равняться на кого-то → **look up to**. Противоположность — *look down on*."

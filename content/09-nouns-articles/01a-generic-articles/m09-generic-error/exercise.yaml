@@ -1,0 +1,40 @@
+title: "Найди лишний или пропущенный артикль"
+type: error
+intro: "В каждом предложении **одна** ошибка: лишний, пропущенный или не тот артикль (или *most / most of*). Исправь предложение целиком."
+hints:
+  - "Абстрактные понятия в общем смысле — без артикля."
+  - "Most people — вообще; most of the … — конкретная группа."
+items:
+  - q: "The education should be free for everyone."
+    answers: ["Education should be free for everyone."]
+    explain: "Образование вообще → без артикля. *The education* значило бы конкретное образование (например, *the education I received*)."
+  - q: "History of this city goes back two thousand years."
+    answers: ["The history of this city goes back two thousand years."]
+    explain: "*of this city* делает историю конкретной → **The history of**."
+  - q: "The most people I know have never been to Asia."
+    answers: ["Most people I know have never been to Asia.", "Most of the people I know have never been to Asia."]
+    explain: "«Большинство» — **most** без *the*. *The most* — превосходная степень (*the most popular*)."
+  - q: "Most of people in my building work from home."
+    answers: ["Most of the people in my building work from home.", "Most people in my building work from home."]
+    explain: "После *most of* обязательно определитель: **most of the** people. Или просто *most people*."
+  - q: "I'm not very interested in the politics."
+    answers: ["I'm not very interested in politics.", "I am not very interested in politics."]
+    explain: "Политика как сфера вообще → без артикля, как *history, sport, economics*."
+  - q: "Rich should pay more taxes, in my view."
+    answers: ["The rich should pay more taxes, in my view."]
+    explain: "Группа людей «богатые» → **the** + прилагательное: *the rich*."
+  - q: "The Japanese tea that we drank in Kyoto was very bitter, but a Japanese tea is usually mild."
+    answers: ["The Japanese tea that we drank in Kyoto was very bitter, but Japanese tea is usually mild."]
+    explain: "Во второй части — японский чай вообще, неисчисляемое → без артикля. Первая часть верна: чай уточнён придаточным."
+  - q: "He is an unemployed and is looking for a job."
+    answers: ["He is unemployed and is looking for a job.", "He's unemployed and is looking for a job.", "He is an unemployed man and is looking for a job."]
+    explain: "*unemployed* — прилагательное, артикль перед ним без существительного не ставится: *He is unemployed*. Группа целиком — *the unemployed*."
+  - q: "The cars are responsible for a large part of air pollution in cities."
+    answers: ["Cars are responsible for a large part of air pollution in cities."]
+    explain: "Машины вообще, общее утверждение → множественное число **без артикля**."
+  - q: "Nobody knows exactly who invented a wheel."
+    answers: ["Nobody knows exactly who invented the wheel."]
+    explain: "Изобретение как тип предмета → **the** + единственное число: *invent the wheel, the printing press*. *a wheel* — какое-то одно колесо."
+  - q: "The love is more important than money."
+    answers: ["Love is more important than money."]
+    explain: "Любовь как абстрактное понятие → без артикля, как и *money*."

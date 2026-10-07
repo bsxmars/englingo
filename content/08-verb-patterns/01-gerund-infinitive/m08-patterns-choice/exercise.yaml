@@ -1,0 +1,52 @@
+title: "Ещё модели: seem, can't help, prevent from"
+type: choice
+intro: "Выбери единственный верный вариант."
+hints:
+  - "seem / appear + to be doing (сейчас) / to have done (раньше)."
+  - "can't help / can't face / fancy / keep + -ing; can't wait / tend / happen + to."
+  - "prevent / stop / discourage + кого + from + -ing; succeed in + -ing."
+items:
+  - q: "Nobody's answering the door. They seem ___ already."
+    options: ["to leave", "to have left", "leaving"]
+    answer: 1
+    explain: "Ушли **раньше**, чем «кажется» → перфектный инфинитив **to have left**."
+  - q: "Listen — the neighbours seem ___ a party again."
+    options: ["to be having", "to have", "having"]
+    answer: 0
+    explain: "Похоже, вечеринка идёт **прямо сейчас** → **to be having**. *seem to have a party* звучало бы как привычка."
+  - q: "His jokes are terrible, but I can't help ___ at them."
+    options: ["to laugh", "laughing", "laugh"]
+    answer: 1
+    explain: "**can't help + -ing** — «не могу не…»: *can't help laughing*."
+  - q: "Do you fancy ___ for a pizza after work?"
+    options: ["going", "to go", "go"]
+    answer: 0
+    explain: "**fancy + -ing** — разговорное «хочется»: *Do you fancy going…?*"
+  - q: "I can't wait ___ my new flat — I get the keys on Friday!"
+    options: ["seeing", "to see", "for seeing"]
+    answer: 1
+    explain: "**can't wait + to** — «не терпится». Не путать с *fancy*, который берёт -ing."
+  - q: "The strike prevented thousands of passengers ___ home."
+    options: ["to get", "from getting", "of getting"]
+    answer: 1
+    explain: "**prevent sb from + -ing**: *prevented passengers from getting home*."
+  - q: "After three hours, we finally succeeded ___ the bug."
+    options: ["to fix", "in fixing", "fixing"]
+    answer: 1
+    explain: "**succeed in + -ing**. ~~succeeded to fix~~ — калька с «удалось». Синоним с *to*: *managed to fix*."
+  - q: "I can't imagine ___ in a big open-plan office again."
+    options: ["myself to work", "me working", "that I work"]
+    answer: 1
+    explain: "**imagine + объект + -ing**: *imagine me / myself working*. Модели *imagine sb to do* нет."
+  - q: "This museum doesn't allow ___ inside."
+    options: ["to take photos", "taking photos", "take photos"]
+    answer: 1
+    explain: "Без человека после *allow* → **-ing**: *doesn't allow taking photos*. С человеком было бы *allow visitors to take*."
+  - q: "I ___ my old teacher at the airport — she was on the same flight!"
+    options: ["happened to see", "happened seeing", "happened see"]
+    answer: 0
+    explain: "«Случайно увидел» → **happen to + инфинитив**: *happened to see*."
+  - q: "She made a decision ___ her job and start her own company."
+    options: ["of leaving", "to leave", "leaving"]
+    answer: 1
+    explain: "*decide to* → **a decision to**: существительное сохраняет модель глагола."

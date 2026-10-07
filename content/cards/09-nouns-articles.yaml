@@ -1,0 +1,184 @@
+- id: m09-article-algorithm
+  lesson: 09-nouns-articles/01-articles
+  q: "Как выбрать артикль за три шага?"
+  a: "Слушатель знает, какой именно → **the**. Нет, и это одно исчисляемое → **a/an**. Множественное или неисчисляемое в общем смысле → **без артикля**."
+- id: m09-profession
+  lesson: 09-nouns-articles/01-articles
+  q: "Переведи: «Я программист, а моя сестра — архитектор»."
+  a: "*I'm **a** programmer, and my sister is **an** architect.* Профессия всегда с a/an."
+- id: m09-a-an-sound
+  lesson: 09-nouns-articles/01-articles
+  q: "**a** или **an**: ___ hour, ___ university, ___ MBA, ___ European city?"
+  a: "**an** hour, **a** university, **an** MBA, **a** European city — решает первый **звук**, а не буква."
+- id: m09-life-is-hard
+  lesson: 09-nouns-articles/01-articles
+  q: "Найди ошибку: *The life is hard, but the music helps.*"
+  a: "*Life is hard, but music helps.* — общие утверждения без артикля."
+- id: m09-dogs-general
+  lesson: 09-nouns-articles/01-articles
+  q: "В чём разница: *Dogs are loyal* / *The dogs next door are loud*?"
+  a: "Без артикля — собаки вообще. **the** — конкретные собаки (соседские)."
+- id: m09-go-to-bed
+  lesson: 09-nouns-articles/01-articles
+  q: "go to bed, go to school, be in hospital — почему без артикля?"
+  a: "Речь о **назначении** места: спать, учиться, лечиться. Если о здании — *the*: *go to **the** school to meet the teacher*."
+- id: m09-geography
+  lesson: 09-nouns-articles/01-articles
+  q: "Артикль или нет: ___ Spain, ___ Netherlands, ___ Volga, ___ Lake Baikal, ___ Alps?"
+  a: "Spain, **the** Netherlands, **the** Volga, Lake Baikal, **the** Alps."
+- id: m09-superlative-the
+  lesson: 09-nouns-articles/01-articles
+  q: "Найди ошибку: *We went to same school, and it was best school in town.*"
+  a: "*We went to **the** same school, and it was **the** best school in town.*"
+- id: m09-uncountable-list
+  lesson: 09-nouns-articles/02-countable-uncountable
+  q: "Назови 6 существительных, неисчисляемых в английском, но «считаемых» по-русски."
+  a: "*advice, information, news, furniture, equipment, research* (а также *luggage, progress, work, homework, knowledge*)."
+- id: m09-piece-of-advice
+  lesson: 09-nouns-articles/02-countable-uncountable
+  q: "Переведи: «Можно дать тебе один совет?»"
+  a: "*Can I give you **a piece of advice**?* (или *some advice*, *a tip*). Не ~~an advice~~."
+- id: m09-news-is
+  lesson: 09-nouns-articles/02-countable-uncountable
+  q: "Найди ошибку: *The news are really good!*"
+  a: "*The news **is** really good!* — **news** неисчисляемое, глагол в единственном числе."
+- id: m09-work-job
+  lesson: 09-nouns-articles/02-countable-uncountable
+  q: "**work** или **job**: I've got a new ___. / I've got a lot of ___."
+  a: "*a new **job*** (должность, исчисляемое); *a lot of **work*** (труд, неисчисляемое)."
+- id: m09-much-positive
+  lesson: 09-nouns-articles/02-countable-uncountable
+  q: "Почему *We have much time* звучит неестественно?"
+  a: "**much** — в вопросах и отрицаниях. В утверждении: *We have **a lot of** time*. Исключения: *too much, so much*."
+- id: m09-few-vs-a-few
+  lesson: 09-nouns-articles/02-countable-uncountable
+  q: "В чём разница: *I have a few friends* / *I have few friends*?"
+  a: "**a few** — несколько, и это хорошо. **few** — мало, почти нет (негатив)."
+- id: m09-little-vs-a-little
+  lesson: 09-nouns-articles/02-countable-uncountable
+  q: "Переведи: «Я немного говорю по-испански»."
+  a: "*I speak **a little** Spanish.* — *little Spanish* значило бы «почти не говорю»."
+- id: m09-progress
+  lesson: 09-nouns-articles/02-countable-uncountable
+  q: "Найди ошибку: *She has made a big progress.*"
+  a: "*She has made **a lot of** / **great** progress.* — **progress** неисчисляемое, без *a*."
+- id: m09-double-negative
+  lesson: 09-nouns-articles/03-quantifiers
+  q: "Найди ошибку: *I didn't say nothing to nobody.*"
+  a: "*I didn't say **anything** to **anybody**.* (или *I said nothing to anybody*) — в английском одно отрицание."
+- id: m09-some-offers
+  lesson: 09-nouns-articles/03-quantifiers
+  q: "Почему *Would you like **some** tea?*, а не *any*?"
+  a: "В предложениях и просьбах ждём ответа «да» → **some**, даже в вопросе."
+- id: m09-neither-none
+  lesson: 09-nouns-articles/03-quantifiers
+  q: "**neither** или **none**: ___ of my parents speaks English."
+  a: "**Neither** — родителей двое. **none** — для трёх и больше."
+- id: m09-every-singular
+  lesson: 09-nouns-articles/03-quantifiers
+  q: "Найди ошибку: *Every students have to bring a laptop.*"
+  a: "*Every **student has** to bring a laptop.* — после *every* единственное число."
+- id: m09-every-one-of
+  lesson: 09-nouns-articles/03-quantifiers
+  q: "Как правильно: *Every of them* или *Every one of them*?"
+  a: "***Every one of** them* или ***Each of** them*. ~~Every of~~ не бывает."
+- id: m09-each-two
+  lesson: 09-nouns-articles/03-quantifiers
+  q: "Почему *a ring on **each** hand*, а не *every hand*?"
+  a: "Рук две. **each** — для двух и больше, **every** — для трёх и больше."
+- id: m09-no-shortage
+  lesson: 09-nouns-articles/04-reading
+  q: "Переведи: «Советов в интернете предостаточно»."
+  a: "*There's **no shortage of** advice online.* — *advice* без *-s*."
+- id: m09-review-recommend
+  lesson: 09-nouns-articles/05-writing
+  q: "Как в отзыве порекомендовать место и мягко покритиковать?"
+  a: "*I'd highly recommend it to anyone who… / It's well worth a visit.* — *The only downside is…*"
+- id: m09-play-the-piano
+  lesson: 09-nouns-articles/01-articles
+  q: "Артикль или нет: play ___ guitar / play ___ football?"
+  a: "*play **the** guitar* — инструменты с *the*; *play football* — спорт без артикля."
+- id: m09-police-officer
+  lesson: 09-nouns-articles/01-articles
+  q: "Найди ошибку: *A police came to our house.*"
+  a: "*A **police officer** came…* или *The police came…* — *police* = вся служба, глагол во множественном."
+- id: m09-quick-lunch
+  lesson: 09-nouns-articles/01-articles
+  q: "Почему *have lunch*, но *We had **a** quick lunch*?"
+  a: "Приёмы пищи и фразы времени без артикля, но с прилагательным появляется **a**."
+- id: m09-loaf-tube-bar
+  lesson: 09-nouns-articles/02-countable-uncountable
+  q: "Как сказать: буханка хлеба, тюбик пасты, плитка шоколада, банка варенья?"
+  a: "*a **loaf** of bread, a **tube** of toothpaste, a **bar** of chocolate, a **jar** of jam*."
+- id: m09-fun-luck
+  lesson: 09-nouns-articles/02-countable-uncountable
+  q: "Найди ошибку: *We had a great fun. — A good luck with your exam!*"
+  a: "*We had **great fun**. Good luck!* — *fun* и *luck* неисчисляемые."
+- id: m09-a-lot-no-of
+  lesson: 09-nouns-articles/02-countable-uncountable
+  q: "Найди ошибку: *Do you read much? — Yes, a lot of.*"
+  a: "*Yes, **a lot**.* — без существительного *of* не нужен."
+- id: m09-one-of-is
+  lesson: 09-nouns-articles/02a-noun-agreement
+  q: "Найди ошибку: *One of my friends live in Berlin.*"
+  a: "*One of my friends **lives**…* — подлежащее *one*, глагол в единственном."
+- id: m09-number-of
+  lesson: 09-nouns-articles/02a-noun-agreement
+  q: "**a number of** или **the number of**: какой глагол после каждого?"
+  a: "***A** number of* people **are** (= несколько, мн.); ***the** number of* people **is** (= количество, ед.)."
+- id: m09-news-police-jeans
+  lesson: 09-nouns-articles/02a-noun-agreement
+  q: "is или are: The news ___ / Physics ___ / The police ___ / My jeans ___?"
+  a: "news **is**, physics **is**, the police **are**, my jeans **are**."
+- id: m09-ten-minute-walk
+  lesson: 09-nouns-articles/02a-noun-agreement
+  q: "Переведи: «в десяти минутах ходьбы», «пятилетний мальчик», «обувной магазин»."
+  a: "*a **ten-minute** walk, a **five-year-old** boy, a **shoe** shop* — без *-s* в первой части."
+- id: m09-what-a-weather
+  lesson: 09-nouns-articles/02a-noun-agreement
+  q: "Найди ошибку: *What a nice weather! It's a such lovely day.*"
+  a: "*What **nice weather**! It's **such a** lovely day.* — *weather* неисчисляемое; *such* перед *a*."
+- id: m09-most-people
+  lesson: 09-nouns-articles/03-quantifiers
+  q: "«Большинство людей» и «большинство из этих людей» — как сказать?"
+  a: "***Most people*** (вообще); ***Most of the / these people*** (конкретные). Не ~~most of people~~."
+- id: m09-friend-of-mine
+  lesson: 09-nouns-articles/03-quantifiers
+  q: "Переведи: «Это мой друг (один из моих друзей), у него своя компания»."
+  a: "*He's **a friend of mine**. He has **his own** company.* — не ~~a friend of me~~, ~~an own~~."
+- id: m09-shake-head
+  lesson: 09-nouns-articles/03-quantifiers
+  q: "Найди ошибку: *He raised the hand and asked a question.*"
+  a: "*He raised **his** hand…* — с частями тела притяжательное слово."
+- id: m09-generic-plural
+  lesson: 09-nouns-articles/01a-generic-articles
+  q: "«Кошки — независимые животные» (вообще): *Cats* или *The cats*?"
+  a: "**Cats** are independent animals. *The cats* — конкретные кошки (например, твои)."
+- id: m09-education-zero
+  lesson: 09-nouns-articles/01a-generic-articles
+  q: "Найди ошибку: *The technology changes our lives.*"
+  a: "**Technology** changes our lives. Абстрактные понятия в общем смысле — без артикля."
+- id: m09-modern-art
+  lesson: 09-nouns-articles/01a-generic-articles
+  q: "Нужен ли артикль: *I don't understand ___ modern art.*"
+  a: "Нет: **modern art**. Прилагательное не делает понятие конкретным."
+- id: m09-history-of
+  lesson: 09-nouns-articles/01a-generic-articles
+  q: "*I study history* — а как «История этого города богатая»?"
+  a: "**The history of** this city is rich. *of* + конкретное → **the**."
+- id: m09-the-rich
+  lesson: 09-nouns-articles/01a-generic-articles
+  q: "Как сказать «бедные» (как группа) и «один бедный человек»?"
+  a: "**the poor** (глагол во мн. ч.: *the poor are…*); один — *a poor man / woman*, не ~~a poor~~."
+- id: m09-the-french
+  lesson: 09-nouns-articles/01a-generic-articles
+  q: "«Французы любят сыр»: *French love…* или *The French love…*?"
+  a: "**The French** love cheese. Национальности на *-sh, -ch, -ese* — с **the**. Но *Russians* / *the Russians*."
+- id: m09-a-dolphin
+  lesson: 09-nouns-articles/01a-generic-articles
+  q: "Почему можно *A dolphin is a mammal*, но нельзя ~~A tiger is endangered~~?"
+  a: "*a* в общем смысле = «любой представитель». Млекопитающее — каждый дельфин; под угрозой — вид целиком: **The tiger is endangered**."
+- id: m09-invented-the
+  lesson: 09-nouns-articles/01a-generic-articles
+  q: "Переведи: «Кто изобрёл колесо?»"
+  a: "Who invented **the wheel**? Изобретение как тип предмета — **the** + ед. ч."

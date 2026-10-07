@@ -1,0 +1,64 @@
+title: "Перефразирование: should have, needn't have, would have (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "It was a mistake to… → shouldn't have done; It was wrong of you not to… → should have done."
+  - "It wasn't necessary, but I did → needn't have done."
+  - "Скрытое условие (otherwise, without, but) → would have done."
+items:
+  - q: "It was a mistake to delete those files without a backup."
+    key: "SHOULDN'T"
+    stem: "I ___ those files without a backup."
+    answers: ["shouldn't have deleted"]
+    explain: "«Было ошибкой сделать» → **shouldn't have + V3**."
+  - q: "It was wrong of you not to tell me about the accident."
+    key: "SHOULD"
+    stem: "You ___ me about the accident."
+    answers: ["should have told"]
+    explain: "«Неправильно, что ты не сказал» → **should have told**: надо было сказать."
+  - q: "It wasn't necessary to print the tickets, but I did."
+    key: "NEEDN'T"
+    stem: "I ___ the tickets."
+    answers: ["needn't have printed"]
+    explain: "Сделал, но зря → **needn't have printed**."
+  - q: "Without your help, I wouldn't have passed the exam."
+    key: "HELPED"
+    stem: "If you ___ me, I wouldn't have passed the exam."
+    answers: ["hadn't helped", "had not helped"]
+    explain: "*Without your help* раскрываем в условие third conditional: **if you hadn't helped**."
+  - q: "The meeting was planned for 10 a.m., but it started at noon."
+    key: "SUPPOSED"
+    stem: "The meeting ___ at 10 a.m., but it started at noon."
+    answers: ["was supposed to start", "was supposed to begin"]
+    explain: "План, который не сбылся → **was supposed to start**."
+  - q: "It's a pity you didn't come with us — there was a free seat."
+    key: "COULD"
+    stem: "You ___ with us — there was a free seat."
+    answers: ["could have come"]
+    explain: "Упущенная возможность → **could have come**."
+  - q: "I didn't know you were in hospital, so I didn't visit you."
+    key: "WOULD"
+    stem: "I ___ you if I had known you were in hospital."
+    answers: ["would have visited", "would have gone to see", "would have come to see"]
+    explain: "Воображаемое прошлое: навестил бы, если бы знал → **would have visited**."
+  - q: "Somebody should have repaired the lift last week."
+    key: "BEEN"
+    stem: "The lift ___ last week."
+    answers: ["should have been repaired", "ought to have been repaired"]
+    explain: "Пассив с модальным → **should have been repaired**."
+  - q: "There was no need for us to take a taxi because the station was close, so we walked."
+    key: "NEED"
+    stem: "We ___ a taxi because the station was close."
+    answers: ["didn't need to take", "did not need to take"]
+    explain: "Такси не брали, нужды не было → **didn't need to take**. Ключ *NEED* без *-n't*."
+  - q: "Why didn't you warn me that the road was closed?"
+    key: "MIGHT"
+    stem: "You ___ me that the road was closed!"
+    answers: ["might have warned", "might have told"]
+    explain: "Упрёк «мог бы и предупредить» → **might have warned**."
+  - q: "You spent the whole afternoon on social media instead of working on your essay. That was wrong."
+    key: "BEEN"
+    stem: "You ___ on your essay all afternoon."
+    answers: ["should have been working", "ought to have been working"]
+    explain: "Упрёк о процессе → **should have been working** (модальный + have been + -ing)."

@@ -1,0 +1,60 @@
+title: "Перефразирование: пересказ по смыслу"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно передавало смысл первого. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+
+  Часто нужно пересказать не слова, а **намерение**: предложение помощи, приглашение, совет, запрет.
+hints:
+  - "Shall I…? → offered to do; Would you like to…? → invited sb to do; If I were you… → advised sb to do."
+  - "Why don't we…? → suggested doing / suggested (that) we do."
+items:
+  - q: "\"Shall I carry your suitcase?\" the porter asked me."
+    key: "OFFERED"
+    stem: "The porter ___ suitcase."
+    answers: ["offered to carry my"]
+    explain: "*Shall I…?* — предложение помощи → **offered to carry**. *your* с точки зрения пересказчика → *my*."
+  - q: "\"Would you like to stay for dinner?\" Mrs Petrova asked us."
+    key: "INVITED"
+    stem: "Mrs Petrova ___ for dinner."
+    answers: ["invited us to stay"]
+    explain: "*Would you like to…?* — приглашение → **invite sb to do**."
+  - q: "\"You mustn't touch the exhibits,\" the guide told the children."
+    key: "ALLOWED"
+    stem: "The guide told the children that they ___ the exhibits."
+    answers: ["were not allowed to touch", "weren't allowed to touch"]
+    explain: "Запрет *mustn't* в пересказе → **weren't allowed to**. Это не то же, что *didn't have to*."
+  - q: "\"You must be tired after such a long drive,\" Alex said to me."
+    key: "MUST"
+    stem: "Alex said that ___ tired after such a long drive."
+    answers: ["I must be"]
+    explain: "*must* в значении вывода не меняется: **I must be** tired. *you* с точки зрения пересказчика → *I*."
+  - q: "\"If I were you, I'd apologise,\" Olga told me."
+    key: "ADVISED"
+    stem: "Olga ___ ."
+    answers: ["advised me to apologise", "advised me to apologize"]
+    explain: "*If I were you…* — это совет → **advised me to apologise**. Короче и естественнее, чем пересказывать условие."
+  - q: "\"Why don't we take the train?\" said Kirill."
+    key: "SUGGESTED"
+    stem: "Kirill ___ the train."
+    answers: ["suggested taking", "suggested that we take", "suggested we take", "suggested that we should take", "suggested we should take", "suggested that they take", "suggested they take", "suggested that they should take", "suggested they should take"]
+    explain: "*Why don't we…?* → **suggested taking** или *suggested (that) we take*. ~~suggested to take~~ — ошибка."
+  - q: "\"You don't need to pay for the tickets,\" the organiser told us."
+    key: "HAVE"
+    stem: "The organiser told us we ___ for the tickets."
+    answers: ["did not have to pay", "didn't have to pay"]
+    explain: "«Не нужно» → **didn't have to pay**: отсутствие необходимости, сдвинутое в прошлое."
+  - q: "\"If it snows, the flight will be delayed,\" the pilot said."
+    key: "WOULD"
+    stem: "The pilot said that if it snowed, ___ delayed."
+    answers: ["the flight would be"]
+    explain: "1st conditional сдвигается: *will be* → **would be**. Условие *snows* → *snowed* уже в основе."
+  - q: "\"Can I use your laptop for a minute?\" Sasha asked me."
+    key: "COULD"
+    stem: "Sasha asked ___ my laptop for a minute."
+    answers: ["if she could use", "whether she could use", "if he could use", "whether he could use", "me if she could use", "me if he could use", "me whether she could use", "me whether he could use"]
+    explain: "Просьба о разрешении → **asked if she could use**. Вопрос «да / нет» вводим *if / whether*, порядок прямой."
+  - q: "\"I wish I could speak Chinese,\" said my colleague."
+    key: "WISHED"
+    stem: "My colleague said ___ speak Chinese."
+    answers: ["he wished he could", "she wished she could", "that he wished he could", "that she wished she could"]
+    explain: "*wish* → **wished**, а *could* после него не меняется."

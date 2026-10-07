@@ -1,0 +1,44 @@
+title: "Смешанные условия: поставь глагол"
+type: gap
+intro: "Поставь глагол в скобках в нужную форму. Сначала реши, о каком моменте говорит каждая часть: прошлое, настоящее, будущее, реальное или нет."
+hints:
+  - "Причина в прошлом, следствие сейчас: if + had V3, would + инфинитив."
+  - "Постоянное состояние сейчас, следствие в прошлом: if + Past, would have V3."
+  - "Реальное условие: время по смыслу, без would."
+items:
+  - q: "If I ___ (not / accept) that job in Berlin in 2015, I wouldn't be living here now."
+    answers: ["hadn't accepted", "had not accepted"]
+    explain: "Решение было в 2015 году → **Past Perfect**; следствие — сейчас (*now*) → *wouldn't be living*."
+  - q: "Lena is a very impatient person. If she ___ (be) more patient, she would have waited for us yesterday."
+    answers: ["were", "was"]
+    explain: "Нетерпеливость — постоянная черта → **were** (Past), хотя следствие в прошлом: *would have waited*."
+  - q: "If they set off at dawn as planned, they ___ (reach) the summit by now."
+    answers: ["will have reached", "should have reached", "must have reached"]
+    explain: "Реальное условие о прошлом + вывод о настоящем → **will have reached** («наверняка уже дошли»)."
+  - q: "If you ___ (read) chapter three, you already know the twist."
+    answers: ["have read", "read"]
+    explain: "Реальное условие: читал ли собеседник — неизвестно. **Present Perfect** или Past Simple + Present в главной части."
+  - q: "If the report ___ (not / publish) yet, we can still correct the figures."
+    answers: ["hasn't been published", "has not been published"]
+    explain: "Результат к настоящему + *yet* → **Present Perfect Passive**: *hasn't been published*."
+  - q: "If he ___ (not / spend) all his savings on that car, he could afford a holiday now."
+    answers: ["hadn't spent", "had not spent"]
+    explain: "Деньги потрачены в прошлом → **Past Perfect**; следствие сейчас → *could afford now*."
+  - q: "If I ___ (speak) Spanish, I would have understood what the guide was saying."
+    answers: ["spoke", "could speak", "had spoken", "had been able to speak"]
+    explain: "Знание языка — постоянное умение → обычно **spoke / could speak** (Past), хотя следствие в прошлом. *had spoken* тоже возможно, если речь только о том моменте."
+  - q: "If, as the company claims, the product ___ (test) thoroughly before launch, then how did this fault go unnoticed?"
+    answers: ["was tested", "had been tested", "has been tested"]
+    explain: "Реальное условие о прошлом («если, как утверждают, его действительно тестировали») → **was tested**. Это не counterfactual, поэтому *would* не нужно."
+  - q: "When I was a teenager, if my parents went away for the weekend, I ___ (invite) all my friends round."
+    answers: ["would invite", "invited", "used to invite"]
+    explain: "Прошлая привычка → factual: **would invite** = *used to invite*; просто *invited* тоже верно."
+  - q: "If it ___ (not / rain) so hard all night, the river wouldn't be flooding now."
+    answers: ["hadn't rained", "had not rained"]
+    explain: "Дождь шёл ночью → **Past Perfect**; разлив сейчас → *wouldn't be flooding*."
+  - q: "If you ___ (like) to wait in the lounge, I'll let you know when your car arrives."
+    answers: ["would like", "'d like"]
+    explain: "**would like** в реальном условии — вежливое предпочтение; главная часть остаётся *I'll*."
+  - q: "If you ___ (not / finish) the essay by now, you probably won't finish it tonight."
+    answers: ["haven't finished", "have not finished"]
+    explain: "*by now* → результат к настоящему → **Present Perfect**; вывод о будущем → *won't*."

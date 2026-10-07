@@ -1,0 +1,37 @@
+title: "Собери предложение"
+type: order
+intro: "Собери предложение из слов. Следи за цепочкой: modal → have → been / be → being → V3, а *not* — перед *to* или *having*."
+hints:
+  - "Модальный всегда первый, V3 — всегда последний в глагольной цепочке."
+  - "not ставится перед инфинитивом или герундием целиком."
+items:
+  - q: "Отчёт: «Эти цифры, возможно, были неверно истолкованы»."
+    answers: ["These figures may have been misinterpreted"]
+    explain: "*may* + *have been* + V3 — осторожное предположение о прошлом."
+  - q: "Объявление: «Работы придётся завершить до конца месяца»."
+    answers: ["The work will have to be completed by the end of the month", "By the end of the month the work will have to be completed"]
+    explain: "Два модальных подряд: *will have to* + **be completed**. Обстоятельство срока — в конце или в начале."
+  - q: "«Он терпеть не может, когда его перебивают на совещаниях»."
+    answers: ["He can't stand being interrupted in meetings", "In meetings he can't stand being interrupted"]
+    explain: "*can't stand* + пассивный герундий **being interrupted**."
+  - q: "«Она была счастлива, что её пригласили выступить»."
+    answers: ["She was delighted to have been invited to speak"]
+    explain: "Приглашение было раньше радости → перфектный пассивный инфинитив **to have been invited**."
+  - q: "Вопрос: «Это решение будут пересматривать?»"
+    answers: ["Is this decision going to be reconsidered"]
+    explain: "В вопросе *is* выходит вперёд, дальше *going to* + **be reconsidered**."
+  - q: "«Его задело, что его не упомянули в отчёте»."
+    answers: ["He resented not having been mentioned in the report"]
+    explain: "*resent* + герундий; отрицание **not** стоит перед *having been*."
+  - q: "«Пациента нельзя было перевозить»."
+    answers: ["The patient could not be moved"]
+    explain: "Прошедшая невозможность: *could not* + **be moved**."
+  - q: "«Письмо, должно быть, отправили не по тому адресу»."
+    answers: ["The letter must have been sent to the wrong address"]
+    explain: "Уверенный вывод о прошлом: *must have been* + V3."
+  - q: "«Не хотелось бы, чтобы меня неправильно поняли»."
+    answers: ["I wouldn't like to be misunderstood"]
+    explain: "*would like* + пассивный инфинитив **to be misunderstood**; отрицание — у *would*."
+  - q: "«Этот вопрос следовало обсудить заранее»."
+    answers: ["This issue ought to have been discussed in advance"]
+    explain: "*ought to* + *have been* + V3 — упрёк о прошлом, как *should have been*."

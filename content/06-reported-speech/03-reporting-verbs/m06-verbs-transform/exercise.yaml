@@ -1,0 +1,58 @@
+title: "Перефразирование (B2 First)"
+type: transform
+intro: |
+  Перескажи прямую речь, используя **ключевое слово** без изменения формы. Впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "Сначала определи схему глагола: to do, sb to do, -ing или предлог + -ing."
+  - "Отрицание: not to do, not + -ing."
+items:
+  - q: "\"Let's go to the beach,\" said Anna."
+    key: "SUGGESTED"
+    stem: "Anna ___ to the beach."
+    answers: ["suggested going", "suggested that we go", "suggested that we should go", "suggested we go", "suggested we should go", "suggested that we went", "suggested we went"]
+    explain: "**suggest + -ing** или *suggest that we (should) go*."
+  - q: "\"I didn't steal the bike,\" said the boy."
+    key: "DENIED"
+    stem: "The boy ___ the bike."
+    answers: ["denied stealing", "denied having stolen", "denied that he had stolen", "denied he had stolen", "denied that he stole", "denied he stole"]
+    explain: "**deny + -ing**: отрицание уже внутри глагола, *not* не нужен."
+  - q: "\"You should talk to a lawyer,\" my friend told me."
+    key: "ADVISED"
+    stem: "My friend ___ to a lawyer."
+    answers: ["advised me to talk", "advised me to speak"]
+    explain: "*You should…* → **advise sb to do**."
+  - q: "\"Sorry I didn't reply to your message,\" said Tom."
+    key: "APOLOGISED"
+    stem: "Tom ___ to my message."
+    answers: ["apologised for not replying", "apologized for not replying", "apologised for not having replied", "apologized for not having replied"]
+    explain: "**apologise for + not + -ing**: отрицание ставится перед *-ing*."
+  - q: "\"I won't wear that ugly jumper!\" said Leo."
+    key: "REFUSED"
+    stem: "Leo ___ that ugly jumper."
+    answers: ["refused to wear", "refused to put on"]
+    explain: "*I won't…* → **refuse to do**."
+  - q: "\"You broke my phone!\" Ella said to her brother."
+    key: "ACCUSED"
+    stem: "Ella ___ her phone."
+    answers: ["accused her brother of breaking", "accused him of breaking", "accused him of having broken", "accused her brother of having broken"]
+    explain: "**accuse sb of + -ing**."
+  - q: "\"Shall I give you a lift?\" Mike asked me."
+    key: "OFFERED"
+    stem: "Mike ___ a lift."
+    answers: ["offered to give me", "offered me"]
+    explain: "*Shall I…?* — предложение помощи → **offer to do** (или просто *offer sb sth*)."
+  - q: "\"Don't swim here, the current is very strong,\" the lifeguard told us."
+    key: "WARNED"
+    stem: "The lifeguard ___ there because the current was very strong."
+    answers: ["warned us not to swim", "warned us against swimming"]
+    explain: "**warn sb not to do** или *warn sb against + -ing*."
+  - q: "\"I'll never be late again,\" said Nina."
+    key: "PROMISED"
+    stem: "Nina ___ late again."
+    answers: ["promised never to be", "promised not to be", "promised she would never be", "promised that she would never be", "promised she would not be", "promised that she would not be", "promised to never be"]
+    explain: "**promise (not) to do** или *promise that she would never…* (сдвиг *will → would*)."
+  - q: "\"Yes, I ate the last biscuit,\" said Dad."
+    key: "ADMITTED"
+    stem: "Dad ___ the last biscuit."
+    answers: ["admitted eating", "admitted having eaten", "admitted to eating", "admitted to having eaten", "admitted that he had eaten", "admitted he had eaten", "admitted that he ate", "admitted he ate"]
+    explain: "**admit (to) + -ing / having done** или *admit that…* со сдвигом."

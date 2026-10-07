@@ -1,0 +1,37 @@
+title: "Собери косвенный вопрос"
+type: order
+intro: "Перескажи прямую речь: собери предложение из слов. Помни о прямом порядке слов и сдвиге времён."
+hints:
+  - "После вопросительного слова: подлежащее → сказуемое, без do / does / did."
+  - "Просьбы и приказы: ask / tell + человек + (not) to do."
+items:
+  - q: "\"Where do you work?\" she asked me."
+    answers: ["She asked me where I worked."]
+    explain: "Прямой порядок **I worked** и сдвиг *work → worked*. *do* исчезает."
+  - q: "\"Are you coming to the party?\" Tom asked me."
+    answers: ["Tom asked if I was coming to the party."]
+    explain: "Вопрос «да/нет» → **if** + прямой порядок: *I was coming*."
+  - q: "\"Why didn't you call me?\" my mum asked."
+    answers: ["My mum asked why I hadn't called her."]
+    explain: "Past Simple → Past Perfect: **I hadn't called**. Порядок прямой, без *did*."
+  - q: "\"What time does the film start?\" I asked."
+    answers: ["I asked what time the film started."]
+    explain: "*does* пропадает, глагол сам получает прошедшее время: **the film started**."
+  - q: "\"Please send me the file,\" my colleague said to me."
+    answers: ["My colleague asked me to send him the file."]
+    explain: "Просьба → **ask sb to do**. Местоимения меняются: *me* → *him*."
+  - q: "\"Don't open the window!\" the teacher said to us."
+    answers: ["The teacher told us not to open the window."]
+    explain: "Запрет → **tell sb not to do**."
+  - q: "\"Have you ever been to Japan?\" the interviewer asked me."
+    answers: ["The interviewer asked whether I had ever been to Japan."]
+    explain: "**whether** = *if*; Present Perfect → Past Perfect: *I had ever been*."
+  - q: "\"Who took my charger?\" Lisa asked."
+    answers: ["Lisa wanted to know who had taken her charger."]
+    explain: "*who* — подлежащее, порядок и так прямой. Сдвиг *took → had taken*."
+  - q: "Вежливо спроси прохожего, где банк."
+    answers: ["Could you tell me where the bank is?"]
+    explain: "Вежливый вопрос — тоже косвенный: **where the bank is**, а не *where is the bank*."
+  - q: "\"Can I use your phone?\" my neighbour asked me."
+    answers: ["My neighbour asked if he could use my phone."]
+    explain: "Просьба разрешения → **asked if he could…**: *can → could*, *I → he*, *your → my*."

@@ -1,0 +1,44 @@
+title: "Найди ошибку: инверсия, only if, even if, unless"
+type: error
+intro: "В каждом предложении **одна** ошибка: в форме глагола, порядке слов или выборе союза. Исправь и отправь предложение целиком."
+hints:
+  - "В инверсии — Had / Were / Should + подлежащее; not после подлежащего, без сокращения."
+  - "Only if в начале → инверсия в главной части."
+  - "unless не работает в counterfactual."
+items:
+  - q: "Had I knew about the change, I would have taken an earlier train."
+    answers: ["Had I known about the change, I would have taken an earlier train."]
+    explain: "Инверсия заменяет *If I had known* → после **Had I** нужно причастие: *known*."
+  - q: "Should you will require further assistance, please contact reception."
+    answers: ["Should you require further assistance, please contact reception."]
+    explain: "**Should** уже вспомогательный глагол; после подлежащего — голый инфинитив *require*."
+  - q: "Were I in charge, I will change the rules immediately."
+    answers: ["Were I in charge, I would change the rules immediately.", "Were I in charge, I'd change the rules immediately."]
+    explain: "**Were I** = *If I were* — hypothetical, значит в главной части **would**."
+  - q: "Only if everyone agrees we will proceed with the merger."
+    answers: ["Only if everyone agrees will we proceed with the merger."]
+    explain: "*Only if* в начале предложения требует инверсии в **главной** части: *will we proceed*."
+  - q: "Unless you had reminded me, I would have forgotten her birthday."
+    answers: ["If you hadn't reminded me, I would have forgotten her birthday.", "If you had not reminded me, I would have forgotten her birthday.", "Had you not reminded me, I would have forgotten her birthday."]
+    explain: "**unless** не используется в counterfactual — только *if … not* или инверсия *Had you not…*"
+  - q: "The concert will go ahead whether or not it will rain."
+    answers: ["The concert will go ahead whether or not it rains.", "The concert will go ahead whether it rains or not."]
+    explain: "*whether or not* вводит условие → как после *if*, будущее передаётся **Present**: *it rains*."
+  - q: "We'll go to the beach even though it rains — we've got umbrellas."
+    answers: ["We'll go to the beach even if it rains — we've got umbrellas.", "We'll go to the beach even if it rains - we've got umbrellas.", "We'll go to the beach even if it rains, we've got umbrellas."]
+    explain: "Дождь — лишь возможность → **even if**. *even though* говорит о реальном факте."
+  - q: "There is little, if no, evidence that the drug works."
+    answers: ["There is little, if any, evidence that the drug works."]
+    explain: "Устойчивая формула **little, if any** — «мало, а то и вовсе нет»."
+  - q: "Were the plan fail, we would lose all our investors."
+    answers: ["Were the plan to fail, we would lose all our investors.", "Should the plan fail, we would lose all our investors."]
+    explain: "Инверсия от *If the plan were to fail* → **Were the plan to fail**: *to* обязательно."
+  - q: "If only you would have told me the truth from the start!"
+    answers: ["If only you had told me the truth from the start!"]
+    explain: "Сожаление о прошлом → **if only + Past Perfect**, как после *I wish*."
+  - q: "Had not it been for her quick thinking, the fire would have spread."
+    answers: ["Had it not been for her quick thinking, the fire would have spread."]
+    explain: "Порядок в отрицательной инверсии: **Had + подлежащее + not**: *Had it not been for*."
+  - q: "We'll have the picnic in the garden unless it doesn't rain."
+    answers: ["We'll have the picnic in the garden unless it rains.", "We'll have the picnic in the garden if it doesn't rain."]
+    explain: "**unless** уже содержит отрицание («кроме случая, когда»). Двойное отрицание переворачивает смысл."

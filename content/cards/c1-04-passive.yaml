@@ -1,0 +1,132 @@
+- id: c1m04-modal-perfect-passive
+  lesson: c1-04-passive/01-modal-passives
+  q: "Схема модального перфектного пассива? Пример упрёка."
+  a: "modal + **have been** + V3: *The risks **should have been assessed** earlier.*"
+- id: c1m04-could-have-been-avoided
+  lesson: c1-04-passive/01-modal-passives
+  q: "Переведи: «Этой аварии можно было избежать»."
+  a: "*This accident **could have been avoided** / **prevented**.*"
+- id: c1m04-modal-continuous
+  lesson: c1-04-passive/01-modal-passives
+  q: "Что не так с *It may be being repaired*? Как сказать проще?"
+  a: "Форма верна, но громоздка и редка. Проще: *I think it's being repaired* или *They may be repairing it*."
+- id: c1m04-phrasal-modal-chain
+  lesson: c1-04-passive/01-modal-passives
+  q: "Пассив: *We're going to have to sell the car.*"
+  a: "*The car **is going to have to be sold**.* (формально: *will have to be sold*)"
+- id: c1m04-perfect-passive-inf
+  lesson: c1-04-passive/01-modal-passives
+  q: "*to be chosen* или *to have been chosen*: She was proud ___ for the team."
+  a: "Выбор уже состоялся → **to have been chosen** (перфект подчёркивает «раньше»). *to be chosen* тоже допустимо."
+- id: c1m04-not-position
+  lesson: c1-04-passive/01-modal-passives
+  q: "Найди ошибку: *He was upset to be not invited.*"
+  a: "*not* перед инфинитивом: *He was upset **not to be invited** / **not to have been invited**.*"
+- id: c1m04-resent-not-having
+  lesson: c1-04-passive/01-modal-passives
+  q: "Переведи: «Её задело, что с ней не посоветовались»."
+  a: "*She resented **not having been consulted**.*"
+- id: c1m04-no-passive-states
+  lesson: c1-04-passive/02-passive-verbs
+  q: "Назови 5 глаголов состояния без пассива."
+  a: "*belong to, resemble, lack, fit, suit, cost, weigh, have* (в значении «иметь»)."
+- id: c1m04-consist-of
+  lesson: c1-04-passive/02-passive-verbs
+  q: "Найди ошибку: *The panel is consisted of five experts.*"
+  a: "*The panel **consists of** five experts* — или пассивный синоним: *is made up of / is composed of*."
+- id: c1m04-explain-to
+  lesson: c1-04-passive/02-passive-verbs
+  q: "«Нам объяснили правила» — какие глаголы не делают человека подлежащим?"
+  a: "*The rules **were explained to us***. Так же: *describe, mention, suggest, report, present, announce*."
+- id: c1m04-fined
+  lesson: c1-04-passive/02-passive-verbs
+  q: "Пассив: *The court fined him £500.* Почему только один вариант?"
+  a: "***He was fined £500.*** У *fine* нет актива с *to* (~~fine £500 to him~~), поэтому и пассива с суммой в подлежащем нет."
+- id: c1m04-considered-genius
+  lesson: c1-04-passive/02-passive-verbs
+  q: "Пассив: *Critics considered her the finest pianist of her generation.*"
+  a: "*She **was considered** the finest pianist of her generation.* Характеристика подлежащим не становится."
+- id: c1m04-phrasal-intransitive
+  lesson: c1-04-passive/02-passive-verbs
+  q: "Почему нельзя ~~The rumours were died down~~?"
+  a: "*die down* — непереходный фразовый глагол, пассива нет: *The rumours **died down**.* Пассив дают только переходные: *was called off, was broken into*."
+- id: c1m04-by-with
+  lesson: c1-04-passive/02-passive-verbs
+  q: "*by* или *with*: The safe was opened ___ a crowbar. / The walls were covered ___ ivy."
+  a: "**with** в обоих: инструмент и покрытие. *by* — исполнитель, причина или способ (*by + -ing*)."
+- id: c1m04-empty-agent
+  lesson: c1-04-passive/02-passive-verbs
+  q: "Когда by-phrase нужен, а когда лишний?"
+  a: "Нужен, если без него смысл неполный, исполнитель — новая информация или контраст. Лишний: *by people, by someone, by them*."
+- id: c1m04-ergative
+  lesson: c1-04-passive/02-passive-verbs
+  q: "Что такое ergative verb? Три примера."
+  a: "Переходный глагол без дополнения, когда действие «само происходит»: *The door **opened**. The ice **melted**. Sales **have grown**.*"
+- id: c1m04-broke-itself
+  lesson: c1-04-passive/02-passive-verbs
+  q: "Найди ошибку: *The glass broke itself.*"
+  a: "С ergative-глаголами *itself* не ставят: ***The glass broke.***"
+- id: c1m04-said-to-have
+  lesson: c1-04-passive/03-uses-of-passive
+  q: "Перефразируй: *People say that he made his fortune in shipping.*"
+  a: "*He **is said to have made** his fortune in shipping.* / *It is said that he made…*"
+- id: c1m04-there-are-said
+  lesson: c1-04-passive/03-uses-of-passive
+  q: "Переведи: «Говорят, в этом озере водятся сомы длиной два метра»."
+  a: "***There are said to be** two-metre catfish in this lake.* (не ~~There are told to be~~)"
+- id: c1m04-alleged
+  lesson: c1-04-passive/03-uses-of-passive
+  q: "Новости: «Утверждается, что мэр брал взятки» (через подлежащее)."
+  a: "*The mayor **is alleged to have taken** bribes.*"
+- id: c1m04-it-was-mentioned
+  lesson: c1-04-passive/03-uses-of-passive
+  q: "Найди ошибку: *I was mentioned that the meeting had moved.*"
+  a: "*mention* не делает адресата подлежащим: ***It was mentioned (to me) that** the meeting had moved.* Или: *I was told that…*"
+- id: c1m04-get-passive-register
+  lesson: c1-04-passive/03-uses-of-passive
+  q: "Когда get-passive уместен, а когда нет?"
+  a: "Разговор, внезапные и часто неприятные события: *got stuck, got caught, got sacked*. Не в отчётах, не для состояний и официальных процедур."
+- id: c1m04-get-negative
+  lesson: c1-04-passive/03-uses-of-passive
+  q: "Отрицание и вопрос с get-passive: «Тебя пригласили?» / «Мне не заплатили»."
+  a: "***Did** you **get invited**? I **didn't get paid**.* — через *do*, как у смыслового глагола."
+- id: c1m04-impersonal-command
+  lesson: c1-04-passive/03-uses-of-passive
+  q: "Смягчи для объявления: *You must switch off your phones during the exam.*"
+  a: "*Mobile phones **must be switched off** during the exam.*"
+- id: c1m04-recommended-subjunctive
+  lesson: c1-04-passive/05-writing
+  q: "Отчёт: «Рекомендуется продлить программу». Два формальных варианта."
+  a: "*It is recommended that the scheme **be extended** / **should be extended**.*"
+- id: c1m04-had-stolen-experience
+  lesson: c1-04-passive/03a-get-have-causative
+  q: "Переведи: «У неё в Риме украли паспорт»."
+  a: "*She **had her passport stolen** in Rome.* (или *Her passport was stolen…*). Не ~~She was stolen her passport~~."
+- id: c1m04-had-done-vs-had-x-done
+  lesson: c1-04-passive/03a-get-have-causative
+  q: "*I had painted the fence* vs *I had the fence painted* — в чём разница?"
+  a: "Первое — Past Perfect: красил сам. Второе — каузатив: покрасил кто-то другой по моей просьбе."
+- id: c1m04-get-to-have
+  lesson: c1-04-passive/03a-get-have-causative
+  q: "Найди ошибку: *I'll get the caretaker unlock the door.*"
+  a: "*get* + человек + **to**: *get the caretaker **to unlock***. Без *to* — с *have*: *have the caretaker unlock*."
+- id: c1m04-need-doing
+  lesson: c1-04-passive/03a-get-have-causative
+  q: "Найди ошибку: *The windows need being cleaned.*"
+  a: "*The windows **need cleaning*** или *need to be cleaned* — *need* + -ing уже пассивно."
+- id: c1m04-worth-doing
+  lesson: c1-04-passive/03a-get-have-causative
+  q: "Переведи: «Этот музей стоит посетить»."
+  a: "*The museum is **worth visiting*** (или *worth a visit*). Не ~~worth to visit~~."
+- id: c1m04-got-himself
+  lesson: c1-04-passive/03a-get-have-causative
+  q: "Что добавляет *himself* в *He got himself arrested*?"
+  a: "Оттенок вины: сам «напросился», своими действиями довёл до ареста."
+- id: c1m04-wont-have
+  lesson: c1-04-passive/03a-get-have-causative
+  q: "Переведи: «Я не потерплю, чтобы вы так разговаривали с моими сотрудниками»."
+  a: "*I **won't have you talking** to my staff like that.* — *won't have* + объект + -ing."
+- id: c1m04-to-be-doing-report
+  lesson: c1-04-passive/03-uses-of-passive
+  q: "Переведи: «Сообщается, что стороны сейчас ведут переговоры»."
+  a: "*The two sides **are reported to be negotiating**.* — процесс сейчас → *to be* + -ing."

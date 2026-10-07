@@ -1,0 +1,89 @@
+title: "Итоговый тест C1: key word transformations"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **трёх до шести слов** (включая ключевое). Для зачёта нужно **60 %**.
+hints:
+  - "Ключевое слово почти всегда подсказывает конструкцию: инверсию, пассив, модальный перфект, устойчивое выражение."
+  - "Проверь время и число слов: сокращения вроде didn't считаются за два."
+pass: 60
+items:
+  - q: "I'm sure he didn't know anything about the plan."
+    key: "AWARE"
+    stem: "He ___ the plan."
+    answers: ["can't have been aware of", "cannot have been aware of", "couldn't have been aware of", "could not have been aware of", "must not have been aware of"]
+    explain: "Уверенность, что чего-то не было в прошлом → **can't / couldn't have + V3**; *know about* → **be aware of**."
+  - q: "People believe that an employee stole the painting."
+    key: "BELIEVED"
+    stem: "The painting ___ by an employee."
+    answers: ["is believed to have been stolen"]
+    explain: "Личная пассивная конструкция: *is believed* + перфектный пассивный инфинитив **to have been stolen** (кража была раньше, картину украли)."
+  - q: "She didn't realise how serious the situation was until she had read the report."
+    key: "DID"
+    stem: "Only after reading the report ___ how serious the situation was."
+    answers: ["did she realise", "did she realize", "did she fully realise", "did she fully realize", "did she understand", "did she fully understand", "did she see"]
+    explain: "**Only after…** в начале предложения → инверсия в главной части: **did she realise**."
+  - q: "If you hadn't helped me, I would have failed the course."
+    key: "BEEN"
+    stem: "Had it ___ , I would have failed the course."
+    answers: ["not been for your help", "not been for you"]
+    explain: "*If it hadn't been for* = «если бы не» → с инверсией **Had it not been for your help**."
+  - q: "They postponed the match because of the heavy rain."
+    key: "OFF"
+    stem: "The match ___ the heavy rain."
+    answers: ["was put off because of", "was put off due to", "was put off owing to", "was put off on account of", "got put off because of", "had to be put off because of", "had to be put off due to", "had to be put off owing to"]
+    explain: "*postpone* = **put off**; подлежащее — матч, значит пассив: **was put off because of / due to**."
+  - q: "It wasn't necessary for you to bring any food, but thank you."
+    key: "NEED"
+    stem: "You ___ any food, but thank you."
+    answers: ["needn't have brought", "need not have brought", "didn't need to bring", "did not need to bring"]
+    explain: "Принёс, хотя было не нужно → **needn't have brought** (*didn't need to bring* тоже засчитывается: оно не говорит, принёс ли, но смысл исходного передаёт)."
+  - q: "'I didn't take the money,' she said."
+    key: "DENIED"
+    stem: "She ___ money."
+    answers: ["denied taking the", "denied having taken the", "denied that she had taken the", "denied she had taken the", "denied that she took the", "denied she took the", "denied ever taking the", "denied ever having taken the"]
+    explain: "**deny + -ing** (или перфектный герундий *having taken*) либо *deny that…* со сдвигом времени."
+  - q: "I'd prefer you not to smoke in the house."
+    key: "RATHER"
+    stem: "I'd ___ in the house."
+    answers: ["rather you didn't smoke", "rather that you didn't smoke", "rather you did not smoke", "rather that you did not smoke"]
+    explain: "*would rather* + другое лицо → **Past Simple**: *I'd rather you didn't smoke* (хотя речь о настоящем)."
+  - q: "The two reports are almost identical."
+    key: "DIFFERENCE"
+    stem: "There is ___ the two reports."
+    answers: ["hardly any difference between", "scarcely any difference between", "barely any difference between", "almost no difference between", "virtually no difference between", "practically no difference between", "very little difference between", "little difference between"]
+    explain: "*almost identical* → **hardly any / virtually no difference between**. С двумя предметами — *between*."
+  - q: "He was so rude that nobody wanted to work with him."
+    key: "SUCH"
+    stem: "Such ___ nobody wanted to work with him."
+    answers: ["was his rudeness that"]
+    explain: "Фронтинг **Such + be + существительное + that**: *Such was his rudeness that…* Прилагательное *rude* превращается в существительное *rudeness*."
+  - q: "It's pointless to argue with him."
+    key: "POINT"
+    stem: "There's ___ with him."
+    answers: ["no point in arguing", "no point arguing", "little point in arguing", "no point in trying to argue", "no point trying to argue"]
+    explain: "**There's no point (in) + -ing** = «бессмысленно»."
+  - q: "I really regret not taking that job in Lisbon."
+    key: "ONLY"
+    stem: "If ___ that job in Lisbon!"
+    answers: ["only I had taken", "only I'd taken", "only I had accepted", "only I'd accepted"]
+    explain: "Сожаление о прошлом → **If only + Past Perfect**: *If only I had taken…*"
+  - q: "Everyone was surprised when he resigned."
+    key: "CAME"
+    stem: "His resignation ___ everyone."
+    answers: ["came as a surprise to", "came as a complete surprise to", "came as a great surprise to", "came as a big surprise to", "came as a total surprise to", "came as a shock to"]
+    explain: "Устойчивое **come as a surprise / shock to somebody**; *surprised* превращается в существительное."
+  - q: "There's no way I'm going to lend him money again."
+    key: "CIRCUMSTANCES"
+    stem: "Under ___ him money again."
+    answers: ["no circumstances will I lend", "no circumstances am I going to lend", "no circumstances would I lend", "no circumstances shall I lend"]
+    explain: "**Under no circumstances** в начале предложения → инверсия: *will I lend*."
+  - q: "The manager made them work overtime."
+    key: "MADE"
+    stem: "They ___ overtime by the manager."
+    answers: ["were made to work"]
+    explain: "В активе *make somebody do*, но в пассиве появляется *to*: **were made to work**."
+  - q: "Although he was injured, he finished the race."
+    key: "FACT"
+    stem: "He finished the race ___ injured."
+    answers: ["despite the fact that he was", "despite the fact he was", "in spite of the fact that he was", "in spite of the fact he was"]
+    explain: "*despite / in spite of* + предложение возможно только через **the fact that**."

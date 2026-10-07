@@ -1,0 +1,64 @@
+title: "Перефразирование: -ever и no matter (C1 Part 4)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы смысл совпал с первым. Используй **ключевое слово** без изменений и впиши от **трёх до шести слов** (включая ключевое).
+hints:
+  - "It doesn't matter what… → Whatever… / No matter what…"
+  - "however + прилагательное / наречие / much / many."
+  - "Anyone who / Anything that → whoever / whatever."
+items:
+  - q: "It doesn't matter how hard she works; her boss never praises her."
+    key: "HOWEVER"
+    stem: "___, her boss never praises her."
+    answers: ["However hard she works", "However hard she may work", "However hard she tries", "However hard she works at it"]
+    explain: "**However + hard** + подлежащее + глагол. Не ~~However she works hard~~."
+  - q: "Whatever you say, I won't change my mind."
+    key: "MATTER"
+    stem: "I won't change my mind, ___ say."
+    answers: ["no matter what you", "no matter what you may"]
+    explain: "**no matter what** = *whatever* в уступительной роли."
+  - q: "Anyone who finds the missing file will get a reward."
+    key: "WHOEVER"
+    stem: "___ missing file will get a reward."
+    answers: ["Whoever finds the", "Whoever manages to find the", "Whoever locates the"]
+    explain: "*Anyone who* → **Whoever**: придаточное становится подлежащим всего предложения."
+  - q: "I'll accept any decision the committee makes."
+    key: "WHATEVER"
+    stem: "I'll accept ___ makes."
+    answers: ["whatever decision the committee", "whatever the committee"]
+    explain: "*any decision that* → **whatever (decision)**: *whatever* бывает и определителем."
+  - q: "It doesn't matter what the reason is; the delay is unacceptable."
+    key: "REASON"
+    stem: "___, the delay is unacceptable."
+    answers: ["Whatever the reason", "Whatever the reason is", "Whatever the reason may be", "No matter what the reason is", "No matter what the reason may be"]
+    explain: "Формально: **Whatever the reason** — глагол *be* можно опустить."
+  - q: "It doesn't matter how many times you ask; the answer will still be no."
+    key: "MANY"
+    stem: "___ ask, the answer will still be no."
+    answers: ["However many times you", "No matter how many times you", "However many times you may"]
+    explain: "С исчисляемыми — **However many** + существительное: *However many times you ask*."
+  - q: "There isn't any doubt at all about her honesty."
+    key: "WHATSOEVER"
+    stem: "There is ___ about her honesty."
+    answers: ["no doubt whatsoever"]
+    explain: "Усилитель **whatsoever** стоит после существительного: *no doubt whatsoever*."
+  - q: "Every time it rains heavily, the basement floods."
+    key: "WHENEVER"
+    stem: "The basement floods ___ heavily."
+    answers: ["whenever it rains"]
+    explain: "«каждый раз, когда» → **whenever**."
+  - q: "You can choose either of the two rooms; the price is the same."
+    key: "WHICHEVER"
+    stem: "The price is the same ___ choose."
+    answers: ["whichever room you", "whichever of the rooms you", "whichever of the two rooms you", "whichever one you", "whichever you"]
+    explain: "Выбор из двух → **whichever** (room)."
+  - q: "Although the offer may be small, we will consider it seriously."
+    key: "HOWEVER"
+    stem: "We will consider the offer seriously, ___ be."
+    answers: ["however small it may", "however small it might"]
+    explain: "Книжная уступка: **however small it may be**. Прилагательное — сразу за *however*."
+  - q: "She makes friends easily in any place she goes."
+    key: "WHEREVER"
+    stem: "She makes friends easily ___."
+    answers: ["wherever she goes", "wherever she may go", "wherever she happens to go"]
+    explain: "«куда бы она ни поехала» → **wherever she goes** — Present, без *would*."

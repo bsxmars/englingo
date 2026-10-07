@@ -1,0 +1,52 @@
+title: "Регистр и смысл: выбери местоимение"
+type: choice
+intro: "Выбери вариант, который верен по грамматике, смыслу и регистру. Иногда грамматически возможны несколько, но в контексте подходит только один."
+hints:
+  - "Non-defining (с запятыми) — только who / whom / which, никогда that."
+  - "Комментарий ко всей фразе — which, а не what."
+  - "Квантор + of whom / of which."
+items:
+  - q: "Applicants ___ the panel considers suitable will be invited to a second interview."
+    options: ["whom", "which", "whose"]
+    answer: 0
+    explain: "Речь о людях, и местоимение — дополнение к *considers* (панель считает **их** подходящими) → **whom**. В разговоре было бы *who* или ноль; *which* — для вещей."
+  - q: "The proposal was rejected by the board, ___ came as no surprise to anyone who had read it."
+    options: ["what", "which", "that"]
+    answer: 1
+    explain: "Комментарий ко всему предыдущему предложению (то, что предложение отклонили) → только **which**. *that* в non-defining невозможно, *what* не вводит комментарий."
+  - q: "There may be delays on the northern line, ___ passengers are advised to allow extra time."
+    options: ["in which case", "in that case", "which case"]
+    answer: 0
+    explain: "Внутри одного предложения после запятой нужна относительная связка **in which case**. *In that case* начинает новое предложение, *which case* без предлога не существует."
+  - q: "The report lists twelve recommendations, ___ have already been implemented."
+    options: ["several of which", "several of them which", "several of whom"]
+    answer: 0
+    explain: "Квантор + **of which** для вещей: *several of which*. *of whom* — для людей, *of them which* — смешение двух конструкций."
+  - q: "Everything ___ the inspectors found has been documented."
+    options: ["what", "that", "whose"]
+    answer: 1
+    explain: "После *everything, all, nothing* — **that** (или ноль). ~~everything what~~ — калька с «всё, что»: *what* уже содержит в себе «то»."
+  - q: "Dr Ellis, ___ you met at the conference, has agreed to review the paper."
+    options: ["that", "whom", "which"]
+    answer: 1
+    explain: "Запятые → non-defining → *that* нельзя. Человек-дополнение (*you met **her***) → **whom** (или нейтральное *who*)."
+  - q: "The delegates spoke to several journalists, the most experienced ___ had covered three previous summits."
+    options: ["of whom", "of which", "whom"]
+    answer: 0
+    explain: "Превосходная степень + **of whom** выделяет одного из группы людей: *the most experienced of whom*. *of which* — для вещей."
+  - q: "Which sentence implies that the speaker has more than one sister?"
+    options: ["My sister, who lives in Canada, is a vet.", "My sister who lives in Canada is a vet.", "My sister, a vet, lives in Canada."]
+    answer: 1
+    explain: "Без запятых придаточное **defining**: оно выделяет ту сестру, что в Канаде, среди других. С запятыми сестра одна."
+  - q: "The firm ___ I was referring is no longer trading."
+    options: ["to which", "to that", "which"]
+    answer: 0
+    explain: "*refer **to*** — предлог впереди требует **which** (не *that*): *the firm to which I was referring*. Без предлога (*which*) пришлось бы ставить *to* в конце: *which I was referring to*."
+  - q: "Which version is most appropriate in a formal letter of complaint?"
+    options: ["The manager who I spoke to was unhelpful.", "The manager to whom I spoke was unhelpful.", "The manager I spoke to was unhelpful."]
+    answer: 1
+    explain: "Все три грамматичны, но в официальной жалобе уместен формальный вариант: предлог впереди + **whom**. Два других — разговорные."
+  - q: "Their findings, ___ were published last week, contradict earlier research."
+    options: ["which", "that", "(без местоимения)"]
+    answer: 0
+    explain: "Non-defining (запятые) → только **which**. Ни *that*, ни пропуск местоимения в non-defining невозможны."

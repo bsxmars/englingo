@@ -1,0 +1,41 @@
+title: "Найди ошибку в сравнении"
+type: error
+intro: "В каждом предложении **одна** тонкая ошибка в equative, comparative или superlative. Исправь её и отправь предложение целиком."
+hints:
+  - "as + adj + a + noun + as: as good a teacher as."
+  - "very не сочетается со сравнительной степенью; в регионе — in, за период — of."
+  - "Два качества одного человека — more… than, даже с короткими словами."
+items:
+  - q: "It wasn't as a difficult exam as we had feared."
+    answers: ["It wasn't as difficult an exam as we had feared.", "It wasn't so difficult an exam as we had feared.", "The exam wasn't as difficult as we had feared."]
+    explain: "С существительным в единственном числе порядок особый: **as difficult an exam as**. Артикль идёт после прилагательного."
+  - q: "The new office is very more spacious than the old one."
+    answers: ["The new office is much more spacious than the old one.", "The new office is far more spacious than the old one.", "The new office is a lot more spacious than the old one.", "The new office is considerably more spacious than the old one.", "The new office is significantly more spacious than the old one.", "The new office is substantially more spacious than the old one.", "The new office is a great deal more spacious than the old one.", "The new office is more spacious than the old one.", "The new office is vastly more spacious than the old one.", "The new office is slightly more spacious than the old one.", "The new office is a bit more spacious than the old one.", "The new office is a little more spacious than the old one.", "The new office is somewhat more spacious than the old one.", "The new office is even more spacious than the old one.", "The new office is rather more spacious than the old one.", "The new office is marginally more spacious than the old one."]
+    explain: "*very* не сочетается со сравнительной степенью: **much / far / considerably more spacious**."
+  - q: "Lake Baikal is the deepest lake of the world."
+    answers: ["Lake Baikal is the deepest lake in the world."]
+    explain: "С местом и группой после суперлатива — **in**: *the deepest lake in the world*. *of* — с периодом или набором (*of the year, of the three*)."
+  - q: "The remake is nowhere near as good than the original."
+    answers: ["The remake is nowhere near as good as the original.", "The remake is nowhere near as good as the original was."]
+    explain: "*as… as* не смешивается с *than*: **nowhere near as good as**."
+  - q: "He was braver than clever, which got him into trouble."
+    answers: ["He was more brave than clever, which got him into trouble."]
+    explain: "Сравниваются **два качества** одного человека → *more* даже с коротким прилагательным: **more brave than clever**."
+  - q: "The more you practise, the most confident you become."
+    answers: ["The more you practise, the more confident you become.", "The more you practice, the more confident you become."]
+    explain: "Конструкция *the + comparative…, the + comparative*: **the more confident**, не суперлатив."
+  - q: "There were less applicants this year than we expected."
+    answers: ["There were fewer applicants this year than we expected.", "There were fewer applicants this year than we had expected."]
+    explain: "С исчисляемыми во множественном числе в письменном стиле — **fewer**: *fewer applicants*. *less* — с неисчисляемыми (*less interest*)."
+  - q: "Of the two candidates, Maria is clearly the most experienced."
+    answers: ["Of the two candidates, Maria is clearly the more experienced.", "Of the two candidates, Maria is clearly the more experienced one."]
+    explain: "Выбор **из двух** в аккуратном письменном стиле — *the* + comparative: **the more experienced**."
+  - q: "Housing costs are getting more expensive and expensive every year."
+    answers: ["Housing costs are getting more and more expensive every year.", "Housing costs are getting increasingly expensive every year.", "Housing is getting more and more expensive every year.", "Housing costs are getting higher and higher every year."]
+    explain: "Нарастание с длинным прилагательным: **more and more expensive** (или книжное *increasingly expensive*). Повторяется *more*, а не прилагательное."
+  - q: "It was too good offer to turn down, so I accepted at once."
+    answers: ["It was too good an offer to turn down, so I accepted at once.", "It was too good an offer to refuse, so I accepted at once.", "It was such a good offer that I accepted at once.", "It was too good an offer to turn down, so I accepted it at once."]
+    explain: "*too* + прилагательное + **a/an** + существительное: **too good an offer**. Артикль нельзя опускать."
+  - q: "Please contact us if you need farther information about the course."
+    answers: ["Please contact us if you need further information about the course.", "Please contact us if you need more information about the course.", "Please contact us if you need any further information about the course."]
+    explain: "В значении «дополнительный» — только **further**: *further information*. *farther* — о расстоянии."

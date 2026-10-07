@@ -1,0 +1,56 @@
+title: "Какое наречие степени подходит"
+type: choice
+intro: "Выбери вариант, который подходит по смыслу, сочетаемости и регистру. Сначала реши: прилагательное градуируемое или крайнее?"
+hints:
+  - "very, extremely, fairly, pretty — с обычными (градуируемыми) прилагательными; absolutely, utterly — с крайними."
+  - "quite с крайними прилагательными значит «совершенно»."
+  - "Перед comparative и too: much, far, rather, a bit — но не very и не quite."
+items:
+  - q: "After twelve hours on the hillside, we were all ___ exhausted."
+    options: ["very", "absolutely", "fairly"]
+    answer: 1
+    explain: "*exhausted* — крайнее прилагательное («вымотанный»), с ним **absolutely**, *completely*, *utterly*. *very* и *fairly* требуют градуируемого слова (*very tired*)."
+  - q: "The sauce was ___ delicious — I'd love the recipe."
+    options: ["absolutely", "very", "slightly"]
+    answer: 0
+    explain: "*delicious* уже означает «очень вкусный», поэтому **absolutely delicious**. ~~very delicious~~ — типичная калька с «очень вкусно»."
+  - q: "I'm sorry, but what you're asking for is ___ impossible."
+    options: ["fairly", "quite", "pretty"]
+    answer: 1
+    explain: "С неградуируемым *impossible* **quite** = «совершенно». *fairly* и *pretty* означают «довольно» и с ним не сочетаются."
+  - q: "The new version runs ___ faster than the old one, but nobody will notice the difference."
+    options: ["very", "marginally", "quite"]
+    answer: 1
+    explain: "*but nobody will notice* указывает на крошечную разницу — **marginally faster**. *very* и *quite* не ставятся перед сравнительной степенью."
+  - q: "The hotel was ___ clean, but I wouldn't call it comfortable."
+    options: ["fairly", "utterly", "extremely"]
+    answer: 0
+    explain: "*but I wouldn't call it…* — сдержанная, умеренная оценка. **fairly** = «в целом сносно». *extremely clean* противоречит тону, *utterly* не сочетается с *clean*."
+  - q: "I expected the lecture to be dull, but it was ___ good, actually."
+    options: ["fairly", "rather", "barely"]
+    answer: 1
+    explain: "**rather** с положительным прилагательным передаёт приятное удивление: лучше, чем ожидалось. *fairly good* звучит как сдержанная похвала, *barely good* бессмысленно."
+  - q: "The committee's findings seem ___ premature, given the limited data."
+    options: ["a bit", "somewhat", "pretty"]
+    answer: 1
+    explain: "Формальный текст о выводах комитета — книжное **somewhat**. *a bit* и *pretty* разговорные и выбиваются из регистра."
+  - q: "The flat was ___ expensive for a student, so she kept looking."
+    options: ["very too", "much too", "too much"]
+    answer: 1
+    explain: "Перед *too* + прилагательное усилитель **much** или *far*: *much too expensive*. ~~too much expensive~~ — ошибка: *too much* ставится перед неисчисляемым существительным."
+  - q: "Thank you — your support has been ___ appreciated."
+    options: ["very", "greatly", "highly"]
+    answer: 1
+    explain: "*appreciated* здесь — глагольное причастие (пассив), с ним **greatly** или *much*. *very appreciated* считается ненормативным."
+  - q: "We spent ___ long afternoon going through the contract line by line."
+    options: ["a quite", "quite a", "fairly a"]
+    answer: 1
+    explain: "*quite* стоит **перед** артиклем: **quite a long afternoon**. С *fairly* порядок обратный: *a fairly long afternoon*."
+  - q: "The difference between the two samples was ___ noticeable; only a specialist could see it."
+    options: ["hardly", "hard", "slightly"]
+    answer: 0
+    explain: "«Только специалист увидит» — значит «почти незаметна»: **hardly noticeable**. *hard* — не наречие степени, *slightly noticeable* звучит неестественно и не передаёт «почти не»."
+  - q: "Don't worry, I'm ___ capable of booking a taxi myself."
+    options: ["perfectly", "highly", "deeply"]
+    answer: 0
+    explain: "**perfectly capable** — устойчивая пара «вполне способен», часто с оттенком раздражения. *highly capable* — «очень компетентный» (о специалисте), здесь неуместно."

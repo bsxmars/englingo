@@ -1,0 +1,58 @@
+title: "Перефразирование: количество (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "few / a few — с исчисляемыми, little / a little — с неисчисляемыми."
+  - "Неисчисляемое «по штукам»: a piece of, a bit of, an item of."
+items:
+  - q: "Let me give you a tip about the interview."
+    key: "PIECE"
+    stem: "Let me give you ___ about the interview."
+    answers: ["a piece of advice", "one piece of advice"]
+    explain: "*advice* неисчисляемое: «один совет» — **a piece of advice**. ~~an advice~~ невозможно."
+  - q: "There weren't many people at the concert."
+    key: "FEW"
+    stem: "There were ___ at the concert."
+    answers: ["few people", "very few people", "only a few people"]
+    explain: "«Мало, почти нет» с исчисляемыми → **few / very few people**. *only a few* тоже передаёт «немного»."
+  - q: "We don't have much time before the train leaves."
+    key: "LITTLE"
+    stem: "We have ___ before the train leaves."
+    answers: ["little time", "very little time", "only a little time"]
+    explain: "*time* неисчисляемое → **little** (мало). *few time* невозможно."
+  - q: "She has made a lot of progress with her Spanish."
+    key: "IMPROVED"
+    stem: "Her Spanish ___ lot."
+    answers: ["has improved a", "has improved quite a", "improved a"]
+    explain: "*progress* неисчисляемое и не употребляется с *a*; глагол **improve a lot** передаёт тот же смысл."
+  - q: "I haven't got any information about the new rules."
+    key: "NO"
+    stem: "I have ___ about the new rules."
+    answers: ["no information"]
+    explain: "*not any* = **no**. *information* без *-s* и без артикля."
+  - q: "We have plenty of chairs, so don't bring any."
+    key: "ENOUGH"
+    stem: "We have ___, so don't bring any."
+    answers: ["enough chairs", "more than enough chairs", "got enough chairs"]
+    explain: "**enough** стоит **перед** существительным: *enough chairs*."
+  - q: "How many suitcases are you taking?"
+    key: "LUGGAGE"
+    stem: "How ___ are you taking?"
+    answers: ["much luggage"]
+    explain: "*luggage* неисчисляемое → **how much luggage** (не *many luggages*)."
+  - q: "The room had only a bed and an old wardrobe in it."
+    key: "FURNITURE"
+    stem: "There was very ___ in the room."
+    answers: ["little furniture"]
+    explain: "*furniture* неисчисляемое, «очень мало» → **very little furniture**."
+  - q: "My trip to Japan was the best I've ever had."
+    key: "TRAVEL"
+    stem: "Japan was the best place I've ___ to."
+    answers: ["ever travelled", "ever traveled"]
+    explain: "*travel* как существительное неисчисляемое (*a travel* нельзя), поэтому перефразируем глаголом: **I've ever travelled to**."
+  - q: "I have a small amount of money left — enough for a coffee."
+    key: "LITTLE"
+    stem: "I have ___ left — enough for a coffee."
+    answers: ["a little money", "a little bit of money"]
+    explain: "«Немного, но достаточно» с неисчисляемым → **a little money**. Без *a* смысл стал бы негативным."

@@ -1,0 +1,43 @@
+title: "for, since, ago или before"
+type: gap
+intro: "Впиши **for**, **since**, **ago** или **before**."
+hints:
+  - "for — сколько длится, since — с какого момента."
+  - "ago — назад от сейчас (Past Simple), before — назад от момента в прошлом (Past Perfect)."
+items:
+  - q: "I've been waiting here ___ twenty minutes. Where are you?"
+    answers: ["for"]
+    explain: "*twenty minutes* — длительность → **for**."
+  - q: "She has been much happier ___ she left that company."
+    answers: ["since"]
+    explain: "*she left that company* — момент, с которого всё началось → **since**."
+  - q: "I moved to St Petersburg three years ___."
+    answers: ["ago"]
+    explain: "Назад от сейчас, Past Simple → **ago**, после отрезка времени."
+  - q: "When we got to the platform, the train had left ten minutes ___."
+    answers: ["before", "earlier"]
+    explain: "Отсчёт от момента в прошлом (когда мы пришли), Past Perfect → **before**. *ago* отсчитывало бы от сейчас."
+  - q: "We haven't seen each other ___ ages!"
+    answers: ["for"]
+    explain: "*ages* — длительность → **for ages**. В отрицании *for* не опускается."
+  - q: "It's been raining non-stop ___ we arrived."
+    answers: ["since"]
+    explain: "После *since* может идти целое предложение: **since** we arrived — с момента приезда."
+  - q: "I'm going to stay in Spain ___ a month, then I'll come back."
+    answers: ["for"]
+    explain: "*for* работает не только с Present Perfect: «на месяц», длительность → **for**."
+  - q: "Sorry, you've just missed her — she left a few minutes ___."
+    answers: ["ago"]
+    explain: "Назад от текущего момента → **ago**: *a few minutes ago*."
+  - q: "He hasn't eaten anything ___ breakfast."
+    answers: ["since"]
+    explain: "*breakfast* здесь — момент отсчёта → **since**."
+  - q: "In 2015 I finally visited Rome. I'd planned the trip ten years ___."
+    answers: ["before", "earlier"]
+    explain: "Точка отсчёта — 2015 год (прошлое), Past Perfect → **before**: за десять лет до той поездки."
+  - q: "I've known Max ___ we were at school together."
+    answers: ["since"]
+    explain: "Точка отсчёта — придаточное *we were at school* → **since**."
+  - q: "We swam ___ about an hour and then had lunch on the beach."
+    answers: ["for"]
+    explain: "Длительность в прошлом, Past Simple → **for** about an hour."

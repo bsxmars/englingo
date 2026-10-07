@@ -1,0 +1,41 @@
+title: "Найди ошибку: предлоги, what, where"
+type: error
+intro: "В каждом предложении **одна** ошибка. Исправь её и отправь предложение целиком. Если исправить можно по-разному, засчитываются все верные варианты."
+hints:
+  - "Перед предлогом — только which или whom; предлог не дублируется."
+  - "Частица фразового глагола остаётся при глаголе."
+  - "Не бывает the way how, everything what, every time when."
+items:
+  - q: "This is the report about that I told you."
+    answers: ["This is the report about which I told you.", "This is the report that I told you about.", "This is the report which I told you about.", "This is the report I told you about."]
+    explain: "После предлога *that* невозможно. Формально — **about which**, нейтрально — *that … about* в конце."
+  - q: "The colleague to who I sent the file never replied."
+    answers: ["The colleague to whom I sent the file never replied.", "The colleague who I sent the file to never replied.", "The colleague whom I sent the file to never replied.", "The colleague that I sent the file to never replied.", "The colleague I sent the file to never replied."]
+    explain: "После предлога — только **whom**: *to whom*. Если хочется *who*, предлог уходит в конец."
+  - q: "She is someone up to whom I have always looked."
+    answers: ["She is someone whom I have always looked up to.", "She is someone who I have always looked up to.", "She is someone that I have always looked up to.", "She is someone I have always looked up to."]
+    explain: "*look up to* — фразовый глагол: частица не отрывается от глагола, поэтому предлог остаётся в конце."
+  - q: "The war lasted six years, a period which many cities were destroyed during."
+    answers: ["The war lasted six years, a period during which many cities were destroyed.", "The war lasted six years, a period in which many cities were destroyed.", "The war lasted six years, a period when many cities were destroyed."]
+    explain: "**during** в относительном придаточном стоит только впереди: *during which*."
+  - q: "Nobody really understood the way how the system worked."
+    answers: ["Nobody really understood the way the system worked.", "Nobody really understood the way that the system worked.", "Nobody really understood the way in which the system worked.", "Nobody really understood how the system worked."]
+    explain: "~~the way how~~ не существует: либо *the way (that / in which)*, либо просто *how*."
+  - q: "Everything what she told the police turned out to be true."
+    answers: ["Everything that she told the police turned out to be true.", "Everything she told the police turned out to be true.", "What she told the police turned out to be true.", "All that she told the police turned out to be true."]
+    explain: "После *everything* — **that** или ничего. *what* уже значит «то, что» и после существительных и кванторов не ставится."
+  - q: "What they are proposing it seems completely unrealistic."
+    answers: ["What they are proposing seems completely unrealistic."]
+    explain: "Придаточное с **what** само является подлежащим. *it* дублирует его — лишнее."
+  - q: "This is the café where we first met in."
+    answers: ["This is the café where we first met.", "This is the café in which we first met.", "This is the café that we first met in.", "This is the café which we first met in.", "This is the café we first met in.", "This is the cafe where we first met.", "This is the cafe in which we first met.", "This is the cafe that we first met in.", "This is the cafe which we first met in.", "This is the cafe we first met in."]
+    explain: "**where** уже включает предлог (= *in which*). Или *where* без *in*, или *which / that / —* с *in* в конце."
+  - q: "He was unable to explain the extent which the figures had been altered."
+    answers: ["He was unable to explain the extent to which the figures had been altered."]
+    explain: "Устойчивое сочетание **the extent to which** — предлог обязателен (*to an extent*)."
+  - q: "We have reached a point which neither side is willing to compromise."
+    answers: ["We have reached a point where neither side is willing to compromise.", "We have reached a point at which neither side is willing to compromise.", "We've reached a point where neither side is willing to compromise.", "We've reached a point at which neither side is willing to compromise."]
+    explain: "*point* в переносном смысле → **where** или **at which**. Голое *which* требует, чтобы в придаточном не хватало подлежащего или дополнения, а здесь не хватает обстоятельства."
+  - q: "The same error appears every time when I try to update the software."
+    answers: ["The same error appears every time I try to update the software.", "The same error appears every time that I try to update the software.", "The same error appears whenever I try to update the software."]
+    explain: "После **every time / each time** — *that* или ничего, но не *when*. Альтернатива — **whenever**."

@@ -1,0 +1,44 @@
+title: "make, let, allow, too, enough"
+type: gap
+intro: "Поставь глагол в скобках в нужную форму: **голый инфинитив** (*stay*) или **to + глагол** (*to stay*)."
+hints:
+  - "make / let + объект + глагол без to."
+  - "allow / force + объект + to; в пассиве be made to."
+  - "easy / too … / … enough + to."
+items:
+  - q: "My boss made me ___ (stay) late on Friday."
+    answers: ["stay"]
+    explain: "**make + объект + голый инфинитив**: *made me stay*."
+  - q: "Our landlord doesn't allow us ___ (have) pets."
+    answers: ["to have"]
+    explain: "**allow + объект + to**: *allow us to have*."
+  - q: "Let me ___ (know) when you arrive."
+    answers: ["know"]
+    explain: "**let + объект + голый инфинитив**: *let me know*."
+  - q: "We were made ___ (fill) in the same form three times."
+    answers: ["to fill"]
+    explain: "В пассиве после *make* появляется **to**: *were made to fill in*."
+  - q: "The heavy snow forced the airport ___ (close)."
+    answers: ["to close"]
+    explain: "**force + объект + to**."
+  - q: "This tool is really easy ___ (use)."
+    answers: ["to use"]
+    explain: "Прилагательное + **to**: *easy to use*."
+  - q: "Could you help me ___ (move) the sofa?"
+    answers: ["move", "to move"]
+    explain: "После **help** можно и с *to*, и без него: *help me (to) move*."
+  - q: "The water was too cold ___ (swim) in."
+    answers: ["to swim"]
+    explain: "**too + прилагательное + to**: *too cold to swim in*."
+  - q: "Is he old enough ___ (drive)?"
+    answers: ["to drive"]
+    explain: "**прилагательное + enough + to**: *old enough to drive*."
+  - q: "Sad films always make me ___ (cry)."
+    answers: ["cry"]
+    explain: "*make* = «вызывать»: *make me cry* — без *to*."
+  - q: "Were you allowed ___ (use) your phone during the exam?"
+    answers: ["to use"]
+    explain: "Пассив *be allowed* + **to**."
+  - q: "My parents never let me ___ (watch) TV on school nights."
+    answers: ["watch"]
+    explain: "**let + объект + голый инфинитив**."

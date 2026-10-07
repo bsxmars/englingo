@@ -1,0 +1,37 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка в глагольной модели. Исправь её и отправь всё предложение целиком."
+hints:
+  - "want / expect / encourage + объект + to, а не that."
+  - "to в look forward to, thank you for… — предлог → -ing."
+items:
+  - q: "I suggest to take a taxi home tonight."
+    answers: ["I suggest taking a taxi home tonight.", "I suggest that we take a taxi home tonight.", "I suggest we take a taxi home tonight.", "I suggest that you take a taxi home tonight.", "I suggest you take a taxi home tonight."]
+    explain: "**suggest** + -ing или *that*-придаточное. *suggest to do* не бывает."
+  - q: "I want that you check my report before Friday."
+    answers: ["I want you to check my report before Friday."]
+    explain: "**want + объект + to**: *I want you to check*. Калька «хочу, чтобы…» с *that* невозможна."
+  - q: "She avoided to look at me during the meeting."
+    answers: ["She avoided looking at me during the meeting."]
+    explain: "**avoid** + -ing."
+  - q: "I'm thinking about to change my job."
+    answers: ["I'm thinking about changing my job.", "I'm thinking of changing my job."]
+    explain: "После предлога *about* — **-ing**: *thinking about changing*."
+  - q: "We agreed meeting at the station at six."
+    answers: ["We agreed to meet at the station at six."]
+    explain: "**agree** + to: *agreed to meet*."
+  - q: "He denied to break the window."
+    answers: ["He denied breaking the window.", "He denied having broken the window."]
+    explain: "**deny** + -ing (или *having + V3*, чтобы подчеркнуть прошлое)."
+  - q: "Thank you for invite me to your wedding."
+    answers: ["Thank you for inviting me to your wedding."]
+    explain: "После предлога **for** — -ing: *thank you for inviting*."
+  - q: "My parents encouraged me learn a second language."
+    answers: ["My parents encouraged me to learn a second language."]
+    explain: "**encourage + объект + to**: *encouraged me to learn*."
+  - q: "I look forward to see you next week."
+    answers: ["I look forward to seeing you next week.", "I'm looking forward to seeing you next week."]
+    explain: "В *look forward **to*** частица *to* — предлог, поэтому дальше **-ing**."
+  - q: "Do you mind to wait here for a few minutes?"
+    answers: ["Do you mind waiting here for a few minutes?"]
+    explain: "**mind** + -ing: *Do you mind waiting…?*"

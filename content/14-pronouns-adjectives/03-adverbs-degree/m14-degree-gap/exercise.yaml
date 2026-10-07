@@ -1,0 +1,43 @@
+title: "very или absolutely, quite или rather, so или such"
+type: gap
+intro: "Впиши **один** из вариантов в скобках."
+hints:
+  - "very — с обычными прилагательными (tired, cold), absolutely — с предельными (exhausted, freezing)."
+  - "such (a) + существительное, so + прилагательное без существительного."
+items:
+  - q: "The view from the top of the tower was ___ (very / absolutely) stunning."
+    answers: ["absolutely"]
+    explain: "*stunning* = «потрясающий», уже предельная оценка → **absolutely**. ~~very stunning~~ звучит неверно."
+  - q: "I was ___ (very / absolutely) tired after work, so I went to bed early."
+    answers: ["very"]
+    explain: "*tired* — обычное прилагательное, у него есть степени → **very**. Предельный вариант — *absolutely exhausted*."
+  - q: "Finishing the whole project by Friday is ___ (very / absolutely) impossible."
+    answers: ["absolutely"]
+    explain: "*impossible* — абсолютное прилагательное: нельзя быть «немного невозможным» → **absolutely**."
+  - q: "Take a scarf — it's ___ (very / absolutely) freezing outside!"
+    answers: ["absolutely"]
+    explain: "*freezing* = «очень холодно», предельное → **absolutely freezing**."
+  - q: "The exam was ___ (very / absolutely) difficult, but I think I passed."
+    answers: ["very"]
+    explain: "*difficult* — обычное прилагательное → **very**."
+  - q: "The journey took ___ (quite / rather) longer than we had expected."
+    answers: ["rather"]
+    explain: "Со сравнительной степенью работает **rather** (*rather longer*), а *quite* — нет."
+  - q: "Are you sure? ~ Yes, I'm ___ (quite / rather) sure."
+    answers: ["quite"]
+    explain: "*quite* с *sure, right, certain* = «совершенно»: **quite sure**. *rather sure* так не говорят."
+  - q: "There were ___ (too much / too many) people at the party, so we left early."
+    answers: ["too many"]
+    explain: "*people* — исчисляемое мн. ч. → **too many**. *too much* — с неисчисляемыми (*too much noise*)."
+  - q: "It was ___ (so / such) a lovely day that we went to the beach."
+    answers: ["such"]
+    explain: "Перед *a* + прилагательное + существительное → **such a lovely day**."
+  - q: "The flat was ___ (so / such) small that we couldn't fit a sofa in."
+    answers: ["so"]
+    explain: "Прилагательное без существительного → **so small**."
+  - q: "___ (What / What a) terrible weather we're having!"
+    answers: ["what"]
+    explain: "*weather* — неисчисляемое, артикль *a* не нужен: **What** terrible weather! Сравни: *What a terrible day!*"
+  - q: "I like this town ___ (much / very much)."
+    answers: ["very much"]
+    explain: "В утвердительном предложении — только **very much**. Одиночное *much* — в отрицаниях и вопросах."

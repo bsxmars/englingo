@@ -1,0 +1,44 @@
+title: "Новости и отчёты: впиши reporting passive"
+type: gap
+intro: "Впиши нужную форму глагола в скобках. Следи за временем инфинитива: одновременно (to do), процесс (to be doing), раньше (to have done), пассив (to have been done)."
+hints:
+  - "is said to + do / be doing / have done / have been done."
+  - "There + is/are + said + to be."
+  - "Событие с неожиданным результатом в разговоре → get + V3."
+items:
+  - q: "The singer ___ (say / earn) more than ten million dollars a year."
+    answers: ["is said to earn", "is said to be earning"]
+    explain: "Сейчас, регулярно → простой инфинитив: **is said to earn**."
+  - q: "The ancient manuscript ___ (think / write) by a monk in the ninth century."
+    answers: ["is thought to have been written"]
+    explain: "Раньше сообщения + манускрипт — объект → **is thought to have been written**."
+  - q: "The CEO ___ (allege / mislead) shareholders for years before the collapse."
+    answers: ["is alleged to have misled", "was alleged to have misled", "has been alleged to have misled", "is alleged to have been misleading"]
+    explain: "Действие в прошлом относительно сообщения → **is alleged to have misled**."
+  - q: "There ___ (believe / be) fewer than fifty of these birds left in the wild."
+    answers: ["are believed to be"]
+    explain: "*There* + **are believed to be** — глагол согласуется с *birds*."
+  - q: "At the time, the ship ___ (report / sink) with all hands, but survivors were later found."
+    answers: ["was reported to have sunk"]
+    explain: "Сообщение в прошлом о ещё более раннем событии → **was reported to have sunk**."
+  - q: "Right now, the two leaders ___ (understand / discuss) a ceasefire behind closed doors."
+    answers: ["are understood to be discussing"]
+    explain: "Процесс в момент сообщения → **are understood to be discussing**."
+  - q: "___ (expect) that inflation will fall below 3% by the end of the year."
+    answers: ["It is expected", "It's expected"]
+    explain: "Безличная модель с that-clause: **It is expected** that…"
+  - q: "The striker ___ (rumour / sign) a new contract last week."
+    answers: ["is rumoured to have signed", "was rumoured to have signed", "is rumored to have signed"]
+    explain: "*rumour* живёт почти только в пассиве: **is rumoured to have signed** — подписание раньше слухов."
+  - q: "Text to a friend: \"We ___ (get / stuck) in traffic for two hours — start without us!\""
+    answers: ["got stuck", "have got stuck", "'ve got stuck", "have been stuck", "were stuck"]
+    explain: "Разговорное неприятное событие — get-passive **got stuck**."
+  - q: "Did you ___ (get / pay) for all that overtime in the end?"
+    answers: ["get paid"]
+    explain: "После *did* — *get* + V3: **get paid**."
+  - q: "Lab report: \"The solution ___ (heat) to 80°C and then allowed to cool.\""
+    answers: ["was heated"]
+    explain: "Научный отчёт — формальный be-passive: **was heated**. get-passive здесь неуместен."
+  - q: "Over 2,000 people ___ (estimate / attend) yesterday's rally."
+    answers: ["are estimated to have attended", "were estimated to have attended"]
+    explain: "Оценка сейчас о прошедшем событии → **are estimated to have attended**."

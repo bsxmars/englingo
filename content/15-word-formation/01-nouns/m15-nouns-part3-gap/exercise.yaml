@@ -1,0 +1,44 @@
+title: "Существительные в формате Part 3: ловушки"
+type: gap
+intro: "Формат B2 First Use of English, Part 3. Образуй от слова КАПСОМ **существительное**, подходящее по смыслу и по форме. Внимание: иногда нужно множественное число, человек вместо процесса или смена корня."
+hints:
+  - "Есть ли перед пропуском many, several, all, both или глагол во множественном числе после него? Тогда нужно -s."
+  - "Речь о человеке или о действии / качестве? employer или employment?"
+  - "Корень может меняться: long → length, deep → depth, die → death."
+items:
+  - q: "Several ___ (APPLY) for the job were invited to a second interview."
+    answers: ["applicants"]
+    explain: "*were invited to an interview* — речь о людях, и *several* требует множественного числа: *apply → **applicants*** (кандидаты). *applications* — заявления, их на собеседование не зовут."
+  - q: "The museum offers free ___ (ADMIT) to students on Wednesdays."
+    answers: ["admission"]
+    explain: "*free ___* — бесплатный вход: *admit → **admission*** (*t* → *ss* + *-ion*, как *permit → permission*)."
+  - q: "Most ___ (VISIT) to the island arrive by ferry in the summer months."
+    answers: ["visitors"]
+    explain: "*Most ___ arrive* — глагол во множественном и речь о людях → **visitors** (*-or*, не ~~visiters~~)."
+  - q: "The ___ (LONG) of the course depends on how many modules you choose."
+    answers: ["length"]
+    explain: "*The ___ of* → существительное; *long → **length*** с изменением гласной, как *strong → strength*."
+  - q: "Thanks to modern ___ (MEDICAL), many diseases can now be cured."
+    answers: ["medicine"]
+    explain: "*modern ___* — наука и средства лечения: **medicine**. Слово образовано «назад» от прилагательного, такое в Part 3 тоже бывает."
+  - q: "The team celebrated their ___ (ACHIEVE) with a dinner in the city centre."
+    answers: ["achievement", "achievements"]
+    explain: "*their ___* → существительное: *achieve → **achievement*** (*-ment*). Множественное число тоже возможно."
+  - q: "There is no ___ (SIMILAR) between the two cases, so stop comparing them."
+    answers: ["similarity"]
+    explain: "*no ___ between* → существительное с *-ity*: *similar → **similarity***. Ударение переходит: si-mi-LA-ri-ty."
+  - q: "Her ___ (REFUSE) to answer the journalist's questions made things worse."
+    answers: ["refusal"]
+    explain: "*Her ___ to answer* → существительное: *refuse → **refusal*** (*-al*, *e* выпадает, как *arrive → arrival*)."
+  - q: "Both ___ (PARTICIPATE) in the debate were given ten minutes to speak."
+    answers: ["participants"]
+    explain: "*Both ___* — двое людей → множественное: **participants**. *participation* — участие как процесс."
+  - q: "The ___ (FAIL) of the project cost the company millions."
+    answers: ["failure"]
+    explain: "*The ___ of the project* → **failure** (суффикс *-ure*, как *depart → departure*, *press → pressure*)."
+  - q: "We were impressed by the ___ (ACCURATE) of her predictions."
+    answers: ["accuracy"]
+    explain: "*-ate* → *-acy*: *accurate → **accuracy***, как *private → privacy*. Не ~~accurateness~~."
+  - q: "Sales of electric cars have shown a steady ___ (GROW) over the past decade."
+    answers: ["growth"]
+    explain: "*a steady ___* → существительное: *grow → **growth*** (*-th*, как *true → truth*)."
