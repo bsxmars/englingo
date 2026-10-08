@@ -135,27 +135,6 @@ Past Continuous описывает договорённость, которая 
 
 > **B2-уровень:** в письме (статья, история) начинай сцену с Past Continuous — это декорации, — а потом переходи к цепочке событий в Past Simple: *It **was getting** dark and I **was walking** along an empty street. Suddenly, a car **stopped** next to me.*
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 5. Past Simple**
-
-- [1:50:49](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=6649s) — значение
-- [1:51:53](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=6713s) — *-ed* и неправильные глаголы
-- [1:54:54](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=6894s) — *did / didn't*
-- [1:56:56](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=7016s) — *was / were* без *did*
-- [1:57:57](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=7077s) — практика
-- [2:02:10](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=7330s) — произношение *-ed*
-
-**Урок 6. Past Continuous**
-
-- [2:14:55](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=8095s) — процесс или законченное действие
-- [2:19:34](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=8374s) — *was doing* и *did*
-- [2:21:08](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=8468s) — *while*, цепочка событий
-- [2:23:10](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=8590s) — глаголы состояния
-- [2:23:40](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=8620s) — практика
-
 ## Проверь себя
 
 ```quiz

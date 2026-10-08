@@ -150,49 +150,6 @@ sources:
 
 > **B2-уровень:** после предлога глагол всегда в форме **-ing**: *She insisted **on paying**. Thanks **for coming**. They accused him **of cheating**.*
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам. В уроке 133 преподаватель называет *take care for* и *take care of* взаимозаменяемыми — это не так: правильно только *take care **of***, а *care for* — «ухаживать» или «нравиться» (в отрицании).
-
-**Урок 132. Глагол + предлог: to и at**
-
-- [1:01:16](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=3676s) — *talk / listen / apologise / explain / describe to*
-- [1:03:23](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=3803s) — без предлога: *phone, text, email, answer, ask, thank*
-- [1:05:01](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=3901s) — *look / stare / laugh / point / shoot at*
-- [1:06:36](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=3996s) — *shout at* и *shout to*, *throw at* и *throw to*
-- [1:08:38](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=4118s) — практика
-
-**Урок 133. Глагол + предлог: about, for, of, after**
-
-- [1:17:43](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=4663s) — *talk about*, *discuss* без предлога, *do something about*
-- [1:18:48](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=4728s) — *ask* и *ask for*
-- [1:19:49](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=4789s) — *apply to / for*, *wait for*, *search for*, *leave for*
-- [1:21:53](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=4913s) — *care about, care for, take care of*, *look for* и *look after*
-- [1:25:31](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=5131s) — практика
-
-**Урок 134. Глагол + предлог: about и of**
-
-- [1:40:10](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=6010s) — *hear about, hear of, hear from*
-- [1:41:16](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=6076s) — *think about* и *think of*
-- [1:45:53](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=6353s) — *dream about / of*, *I wouldn't dream of it*
-- [1:47:28](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=6448s) — *complain to / about / of*, *remind about / of*
-- [1:49:29](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=6569s) — практика
-
-**Урок 135. Глагол + предлог: of, for, from, on**
-
-- [2:04:43](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=7483s) — *accuse / suspect of*, *approve of*, *die of*, *consist of*
-- [2:05:47](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=7547s) — *pay for* и *pay the bill*, *thank / forgive / apologise for*
-- [2:06:48](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=7608s) — *blame for*, *be to blame*, *blame sth on sb*
-- [2:07:49](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=7669s) — *suffer from*, *depend on* (+ *how / what*), *live on*, *congratulate on*
-- [2:09:21](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=7761s) — практика
-
-**Урок 136. Глагол + предлог: in, into, with, to, on**
-
-- [2:19:02](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=8342s) — *believe* и *believe in*
-- [2:20:06](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=8406s) — *specialise / succeed in*, *break / crash / run into*, *divide into*
-- [2:21:38](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=8498s) — *collide / fill / provide with*, *happen / invite / prefer to*, *concentrate / insist / spend on*
-- [2:23:40](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=8620s) — практика
-
 ## Проверь себя
 
 ```quiz

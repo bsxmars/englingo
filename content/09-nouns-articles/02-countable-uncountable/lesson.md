@@ -139,36 +139,6 @@ sources:
 
 > **Типичная ошибка русскоговорящих:** ~~We have plenty time~~, ~~There's plenty things to do~~. С существительным нужен **of**: *plenty **of** time*, *There are plenty **of** things to do*. Или без существительного: *There's plenty **to do***.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 69. Исчисляемые и неисчисляемые, часть 1**
-
-- [0:00:00](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=0s) — что можно посчитать, а что нет: *bananas* и *rice*
-- [0:03:35](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=215s) — исчисляемое в единственном числе не бывает «голым»
-- [0:05:07](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=307s) — неисчисляемые без артикля, *some rice, a bowl of rice*
-- [0:07:43](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=463s) — *many / much*, *a few / few*, *a little / little*
-- [0:10:17](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=617s) — практика
-
-**Урок 70. Исчисляемые и неисчисляемые, часть 2**
-
-- [0:18:53](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=1133s) — начало урока
-- [0:19:24](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=1164s) — слова с двумя значениями: *a noise / noise, a paper / paper, a hair / hair*
-- [0:21:29](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=1289s) — напитки: *coffee* и *two coffees*
-- [0:22:01](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=1321s) — список неисчисляемых: *advice, bread, chaos, damage, news, scenery…*
-- [0:26:42](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=1602s) — *travel* и *a trip*, *work* и *a job*, *scenery* и *a view*
-- [0:29:46](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=1786s) — практика
-
-**Урок 87. Much, many, little, few, a lot, plenty**
-
-- [1:47:10](https://www.youtube.com/watch?v=1_FACNmXj9M&t=6430s) — начало урока: обзор всех слов
-- [1:50:11](https://www.youtube.com/watch?v=1_FACNmXj9M&t=6611s) — *plenty of* и *plenty to do*
-- [1:50:42](https://www.youtube.com/watch?v=1_FACNmXj9M&t=6642s) — *much* в утверждениях звучит книжно; *too much, so much*
-- [1:52:15](https://www.youtube.com/watch?v=1_FACNmXj9M&t=6735s) — *little* = not much, *few* = not many
-- [1:55:22](https://www.youtube.com/watch?v=1_FACNmXj9M&t=6922s) — *only a few, only a little*
-- [1:56:26](https://www.youtube.com/watch?v=1_FACNmXj9M&t=6986s) — практика
-
 ## Проверь себя
 
 ```quiz

@@ -155,27 +155,6 @@ sources:
 - **he is said to** — когда в центре внимания человек или предмет.
 - В неформальной речи проще: *People say…*, *Apparently…* — но в эссе и отчётах B2 пассив выглядит сильнее.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 45. It is said that… / he is said to… / he is supposed to…**
-
-- [3:31:10](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=12670s) — *it is said that* и *he is said to*
-- [3:33:18](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=12798s) — *to be doing* и *to have done*; *allege* — «якобы»
-- [3:34:52](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=12892s) — *there is said to be*
-- [3:36:27](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=12987s) — *be supposed to* = «говорят»
-- [3:38:01](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=13081s) — *was supposed to*, *had to*, *should have*; *not supposed to*
-- [3:39:37](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=13177s) — практика
-
-**Урок 46. Have something done**
-
-- [3:57:28](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=14248s) — начало урока: *had her roof repaired*
-- [3:59:45](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=14385s) — порядок слов, время меняется у *have*
-- [4:01:22](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=14482s) — *get something done*
-- [4:02:26](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=14546s) — неприятности: *had their bags stolen*
-- [4:04:01](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=14641s) — практика
-
 ## Проверь себя
 
 ```quiz

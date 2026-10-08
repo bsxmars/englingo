@@ -86,24 +86,6 @@ sources:
 
 > **Типичная ошибка русскоговорящих:** ~~We have run out milk~~ → *run out **of** milk*; ~~She came up an idea~~ → *came up **with***. Без предлога глагол меняет смысл или становится неграмматичным.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 137. Фразовые глаголы: введение**
-
-- [0:06:17](https://www.youtube.com/watch?v=b9ap7lAe9z4&t=377s) — фразовый глагол + предлог: *look up at, run away from, keep up with, look forward to*
-
-**Урок 143. Up (1)**
-
-- [2:09:03](https://www.youtube.com/watch?v=b9ap7lAe9z4&t=7743s) — *come up to*, *catch up with* и *keep up with*
-- [2:16:48](https://www.youtube.com/watch?v=b9ap7lAe9z4&t=8208s) — практика: разница *caught up with* и *couldn't keep up with*
-
-**Урок 145. Away / back**
-
-- [2:47:19](https://www.youtube.com/watch?v=b9ap7lAe9z4&t=10039s) — *get away with*, *keep away from*
-- [2:50:58](https://www.youtube.com/watch?v=b9ap7lAe9z4&t=10258s) — *get back to*, *look back on*
-
 ## Проверь себя
 
 ```quiz

@@ -100,18 +100,6 @@ sources:
 
 > **B2-уровень:** многие *-ing / -ed* прилагательные «предельные»: *exhausted, terrified, fascinating, amazing*. Им не нужно *very*. Подробнее о том, чем их усиливать (*absolutely exhausted*), — в следующем уроке.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 98. Прилагательные на -ing и -ed (boring / bored)**
-
-- [0:00:01](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=1s) — *boring* — свойство, *bored* — чувство
-- [0:01:37](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=97s) — *Jane is boring* или *Jane is bored*
-- [0:04:12](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=252s) — практика
-- [0:05:15](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=315s) — *get depressed, get disappointed*: переход в состояние
-- [0:08:54](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=534s) — *look bored* или *look boring*
-
 ## Проверь себя
 
 ```quiz

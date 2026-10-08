@@ -103,21 +103,6 @@ get-passive не используют для состояний и общих ф
 - You**'re not to** touch anything in the lab. — Тебе нельзя ничего трогать.
 - This issue **is to be given** top priority. — Этому вопросу надлежит дать высший приоритет (пассив).
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 43. Пассив, часть 2**
-
-- [2:20:09](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=8409s) — пассивный инфинитив: *want to be left*, *must be done*
-
-**Урок 44. Пассив, часть 3**
-
-- [3:00:40](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=10840s) — глаголы с двумя дополнениями: *I was offered*, *we were given*
-- [3:03:17](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=10997s) — пассивный герундий: *I don't like being told*
-- [3:07:27](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=11247s) — get-passive: *got hurt*, *didn't get invited*; для состояний не подходит
-- [3:14:11](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=11651s) — практика
-
 ## Проверь себя
 
 ```quiz

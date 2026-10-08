@@ -134,27 +134,6 @@ sources:
 
 > **Типичная ошибка русскоговорящих:** ~~enough big~~, ~~money enough~~, ~~He isn't enough old~~. Формула: прилагательное + **enough**, **enough** + существительное.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 103. Enough и too**
-
-- [1:42:07](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=6127s) — *enough* после прилагательного, перед существительным
-- [1:44:10](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=6250s) — *too* и *not … enough*; *too much / too many*
-- [1:44:40](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=6280s) — *enough / too* + *for* кто-то, + *to* глагол
-- [1:46:44](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=6404s) — *too hot to eat*, *too heavy to carry*
-- [1:48:54](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=6534s) — практика
-
-**Урок 104. Quite, pretty, rather и fairly**
-
-- [2:00:45](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=7245s) — *quite* и *pretty*
-- [2:01:47](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=7307s) — *quite a*, но *a pretty*
-- [2:02:50](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=7370s) — *quite a surprise*, *quite a lot*, *quite like*
-- [2:04:29](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=7469s) — *rather*: негатив и удивление
-- [2:08:33](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=7713s) — *quite* = *completely*: *quite sure, not quite*
-- [2:11:15](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=7875s) — практика
-
 ## Проверь себя
 
 ```quiz

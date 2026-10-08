@@ -134,50 +134,6 @@ sources:
 
 > **B2-уровень:** *less* + прилагательное — элегантная альтернатива *not as … as*: *The suburbs are **less** crowded **than** the centre.* А *fewer* (с исчисляемыми) и *less* (с неисчисляемыми) — связь с модулем про существительные: ***fewer** cars, **less** traffic*.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 105. Сравнительная степень 1**
-
-- [2:19:08](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=8348s) — *cheaper than*: что такое comparative
-- [2:21:17](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=8477s) — *-er* или *more*
-- [2:22:19](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=8539s) — *more* с наречиями на *-ly*
-- [2:24:51](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=8691s) — *better, worse, further / farther*
-- [2:29:30](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=8970s) — практика
-
-**Урок 106. Сравнительная степень 2: much better, any better**
-
-- [2:41:05](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=9665s) — *much / far / a bit better*
-- [2:42:38](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=9758s) — *any longer, no bigger, no more expensive*
-- [2:44:13](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=9853s) — *better and better, more and more*
-- [2:44:44](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=9884s) — *the sooner, the better*
-- [2:47:22](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=10042s) — *older* и *elder*
-- [2:48:56](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=10136s) — практика
-
-**Урок 107. Сравнительная степень 3: as … as**
-
-- [3:00:31](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=10831s) — *as rich as, not as old as*
-- [3:04:42](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=11082s) — *as fast as I could, as soon as possible*
-- [3:05:12](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=11112s) — *twice as expensive as*
-- [3:06:45](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=11205s) — *the same as*
-- [3:07:17](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=11237s) — *than me* или *than I am*
-- [3:08:19](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=11299s) — практика
-
-**Урок 108. Превосходная степень**
-
-- [3:21:37](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=12097s) — *the longest, the most enjoyable*
-- [3:23:41](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=12221s) — *the* или притяжательное: *your youngest child*
-- [3:24:43](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=12283s) — *the eldest*
-- [3:25:14](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=12314s) — *in* для мест, *of* для периодов
-- [3:25:44](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=12344s) — превосходная + Present Perfect с *ever*
-- [3:28:16](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=12496s) — практика
-
-**Урок 99. Прилагательное после look, feel, sound** (фрагмент)
-
-- [0:25:41](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=1541s) — *be, get, become, seem, look, feel* + прилагательное
-- [0:28:13](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=1693s) — *drive carefully*: действие описывает наречие
-
 ## Проверь себя
 
 ```quiz

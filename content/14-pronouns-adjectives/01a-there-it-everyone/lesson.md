@@ -136,27 +136,6 @@ answer: 1
 explain: "Перед **of** + местоимение или *the / my* нужен **none**: *None of us*. *no one* и *nobody* без *of*."
 ```
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 84. There и it**
-
-- [0:44:33](https://www.youtube.com/watch?v=1_FACNmXj9M&t=2673s) — *there will be, there must have been, there should have been*
-- [0:46:05](https://www.youtube.com/watch?v=1_FACNmXj9M&t=2765s) — *there's bound to be, going to be, supposed to be, used to be*
-- [0:48:10](https://www.youtube.com/watch?v=1_FACNmXj9M&t=2890s) — *there must be a lot of noise* или *it must be noisy*
-- [0:49:47](https://www.youtube.com/watch?v=1_FACNmXj9M&t=2987s) — *it takes*, расстояние, *it's a long time since*
-- [0:51:24](https://www.youtube.com/watch?v=1_FACNmXj9M&t=3084s) — практика
-
-**Урок 86. No, none, any, nothing, nobody**
-
-- [1:25:18](https://www.youtube.com/watch?v=1_FACNmXj9M&t=5118s) — *no* + существительное = *not any*
-- [1:26:56](https://www.youtube.com/watch?v=1_FACNmXj9M&t=5216s) — *none* без существительного, *none of*
-- [1:27:57](https://www.youtube.com/watch?v=1_FACNmXj9M&t=5277s) — *none of the students was / were*
-- [1:28:57](https://www.youtube.com/watch?v=1_FACNmXj9M&t=5337s) — *nothing, nobody, no one, nowhere*
-- [1:30:30](https://www.youtube.com/watch?v=1_FACNmXj9M&t=5430s) — одно отрицание на предложение, *they* после *nobody*
-- [1:33:34](https://www.youtube.com/watch?v=1_FACNmXj9M&t=5614s) — практика
-
 ## Практика
 
 Сначала впиши слова, потом перефразируй в формате B2 First, выбери верный вариант и исправь ошибки.

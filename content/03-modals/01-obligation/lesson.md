@@ -191,50 +191,6 @@ sources:
 | так положено | be supposed to | not be supposed to |
 | не нужно | — | don't have to, don't need to, needn't |
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 31. Have to и must**
-
-- [4:30:04](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=16204s) — *have to* — обычный глагол: все времена, вопросы через *do*
-- [4:32:09](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=16329s) — *will have to*, *going to have to*, *might have to*
-- [4:33:44](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=16424s) — *must* — своё мнение, *have to* — внешние обстоятельства
-- [4:36:47](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=16607s) — *must* в письменных правилах, с пассивом
-- [4:38:50](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=16730s) — *mustn't* и *don't have to* — совсем разное
-- [4:42:58](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=16978s) — практика
-
-**Урок 32. Must, mustn't, needn't**
-
-- [4:55:51](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=17751s) — *must* и *mustn't*
-- [4:56:52](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=17812s) — *needn't* и *don't need to*
-- [5:02:56](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=18176s) — практика
-
-**Урок 33. Should, часть 1**
-
-- [5:19:38](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=19178s) — *should* — совет
-- [5:20:39](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=19239s) — *should be wearing* — о том, что происходит сейчас
-- [5:23:13](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=19393s) — *I think / I don't think you should*; *should* слабее *must*
-- [5:24:44](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=19484s) — *should* — ожидание и «так быть не должно»
-- [5:29:18](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=19758s) — *ought to*
-- [5:31:19](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=19879s) — практика
-
-**Урок 34. Should, часть 2**
-
-- [5:43:28](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=20608s) — *insist, demand, recommend, suggest* + *should*
-- [5:44:30](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=20670s) — *it's essential that…*; *should* можно опустить
-- [5:48:13](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=20893s) — *suggest* без *to*
-- [5:49:16](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=20956s) — *should* после *strange, funny, typical*
-- [5:50:53](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=21053s) — *if… should* и *Should anything happen*
-- [5:53:55](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=21235s) — практика
-
-**Урок 35. I'd better и it's time**
-
-- [6:05:58](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=21958s) — *had better*
-- [6:09:05](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=22145s) — *had better* или *should*
-- [6:11:40](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=22300s) — *it's time to…* и *it's time you did*
-- [6:14:45](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=22485s) — практика
-
 ## Проверь себя
 
 ```quiz

@@ -137,18 +137,6 @@ sources:
 | be due to | по плану, графику | *The train **is due to** arrive at 6.* |
 | be likely to | вероятно | *It's **likely to** rain.* |
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 25. When I do и when I've done, if и when**
-
-- [2:04:57](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=7497s) — после *when* настоящее время вместо *will*
-- [2:08:32](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=7712s) — то же после *while, before, after, as soon as, until*
-- [2:10:41](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=7841s) — *when I've done*: сначала одно, потом другое
-- [2:16:19](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=8179s) — *if* или *when*: возможно или точно
-- [2:18:22](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=8302s) — практика
-
 ## Проверь себя
 
 ```quiz

@@ -132,26 +132,6 @@ Past Simple после *said* часто **остаётся** как есть, �
 
 > **Типичная ошибка русскоговорящих:** механически менять всё подряд. Если пересказываешь в тот же день — *tomorrow* остаётся *tomorrow*: *Anna said she'd call you **tomorrow**.* Меняй указатели только тогда, когда сдвинулся момент или место.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 47. Косвенная речь, часть 1**
-
-- [4:14:24](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=15264s) — прямая и косвенная речь, сдвиг после *said*
-- [4:15:29](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=15329s) — как оформить прямую речь
-- [4:18:04](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=15484s) — таблица сдвига; *will* → *would*
-- [4:21:42](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=15702s) — Past Simple: оставить или Past Perfect
-- [4:22:44](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=15764s) — практика
-
-**Урок 48. Косвенная речь, часть 2**
-
-- [4:30:56](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=16256s) — когда время можно не сдвигать
-- [4:33:59](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=16439s) — сдвиг, когда сказанное расходится с реальностью
-- [4:35:40](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=16540s) — *say* и *tell*
-- [4:36:44](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=16604s) — *say something to somebody*, *say goodbye to*
-- [4:40:29](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=16829s) — практика
-
 ## Проверь себя
 
 ```quiz

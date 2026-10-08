@@ -72,28 +72,6 @@ sources:
 
 > **B2-уровень:** в заголовках, на картах, вывесках и в списках артикли часто опускают ради места: *USA, Netherlands, Prime Minister visits Paris*. Не принимай это за правило — в своём тексте пиши ***the** USA, **the** Netherlands*.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 77. Имена и названия с the и без, часть 1**
-
-- [2:43:20](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=9800s) — имена, континенты, страны, города без артикля
-- [2:46:59](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=10019s) — *Mr, Dr, President* + имя без артикля
-- [2:48:35](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=10115s) — океаны, моря, реки, каналы, пустыни с *the*
-- [2:50:07](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=10207s) — множественное число: *the Taylors, the Netherlands, the Canaries*
-- [2:51:38](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=10298s) — *the north*, но *northern Europe, North America*
-- [2:55:10](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=10510s) — практика
-
-**Урок 78. Имена и названия с the и без, часть 2**
-
-- [3:08:58](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=11338s) — улицы, площади, парки без артикля
-- [3:09:34](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=11374s) — *Manchester Airport, Harvard University*: имя + тип
-- [3:10:38](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=11438s) — отели, кинотеатры, музеи, *the White House*
-- [3:13:14](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=11594s) — название с *of*: *the University of Cambridge*
-- [3:14:19](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=11659s) — *McDonald's*, газеты и организации, компании
-- [3:16:26](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=11786s) — практика
-
 ## Проверь себя
 
 ```quiz

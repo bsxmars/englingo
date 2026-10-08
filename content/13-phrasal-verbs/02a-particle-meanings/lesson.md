@@ -130,18 +130,6 @@ answer: 1
 explain: "После *because of* нужно **существительное**: *a breakdown* (слитно). *break down* — глагол, а *because of the train broke down* — смешение двух конструкций (нужно *because the train broke down*)."
 ```
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам. Остальные глаголы из этих видеоуроков — в уроке «Фразовые глаголы по частицам».
-
-**Урок 139. Out**
-
-- [0:59:02](https://www.youtube.com/watch?v=b9ap7lAe9z4&t=3542s) — *run out of, sort out* и *turn out (to be)* — «оказаться»
-
-**Урок 144. Up (2)**
-
-- [2:27:34](https://www.youtube.com/watch?v=b9ap7lAe9z4&t=8854s) — *come up* — «возникнуть в разговоре», *bring up* — «поднять тему»
-
 ## Практика
 
 ```exercise m13-particles-meaning-choice

@@ -136,39 +136,6 @@ sources:
 - *He **must have left** early.* — вывод: «он, должно быть, ушёл рано».
 - *He **had to leave** early.* — факт: «ему пришлось уйти рано».
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 28. Must и can't**
-
-- [3:20:56](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=12056s) — *must* — уверенный вывод: *You must be tired*
-- [3:22:59](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=12179s) — *must be + -ing*: *She must be working*
-- [3:25:03](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=12303s) — *can't* — «не может быть»
-- [3:27:09](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=12429s) — *must have done*, *can't have been doing*
-- [3:35:08](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=12908s) — практика
-- [3:40:22](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=13222s) — *left*, а не *forgot*, когда говоришь, где оставил вещь
-
-**Урок 29. May и might, часть 1**
-
-- [3:48:32](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=13712s) — *may* и *might* о настоящем
-- [3:51:37](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=13897s) — *maybe* и *may be*
-- [3:52:40](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=13960s) — *may / might have done*
-- [3:54:43](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=14083s) — *couldn't have* и *might not have*
-- [3:55:45](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=14145s) — практика
-
-**Урок 30. May и might, часть 2**
-
-- [4:10:06](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=15006s) — *may / might* о будущем
-- [4:12:13](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=15133s) — в нереальной ситуации только *might*
-- [4:13:46](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=15226s) — *might be + -ing* о возможных планах
-- [4:14:48](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=15288s) — *might as well*
-- [4:16:53](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=15413s) — практика
-
-**Урок 27. Could (do) и could have (done)**
-
-- [2:57:50](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=10670s) — *can* — так бывает, *could* — может случиться сейчас или потом
-
 ## Проверь себя
 
 ```quiz

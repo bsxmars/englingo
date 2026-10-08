@@ -123,29 +123,6 @@ sources:
 
 > **B2-уровень:** *may* в разрешениях звучит официально (*Passengers **may** use the lounge*), а в повседневной речи его почти вытеснили *can* и *be allowed to*. Зато *may* активно живёт в значении «возможно» — об этом в следующем уроке.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 26. Can, could и be able to**
-
-- [2:33:00](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=9180s) — *can* и *be able to*; почему нельзя ~~will can~~
-- [2:36:04](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=9364s) — *have been able to*, *might be able to*
-- [2:38:09](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=9489s) — *could* или *was able to / managed to*
-- [2:40:43](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=9643s) — в отрицании подходит *couldn't*
-- [2:41:14](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=9674s) — практика
-
-**Урок 27. Could (do) и could have (done)**
-
-- [2:52:42](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=10362s) — *could* о будущем: *We could go to the cinema*
-- [2:54:46](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=10486s) — *could* менее уверенно, чем *can*; нереальное: *I could sleep for a week*
-- [3:01:26](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=10886s) — *couldn't* — «не смог бы»
-- [3:05:34](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=11134s) — практика
-
-**Урок 37. Просьбы и разрешения**
-
-- [6:56:15](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=24975s) — спросить разрешения: *Can I…? Could I…? May I…?*
-
 ## Проверь себя
 
 ```quiz

@@ -113,19 +113,6 @@ Past Perfect нужен только **глаголу условия**. Прид
 2. О каком времени **результат**? Сейчас → *would* + V. Прошлое → *would have* + V3.
 3. Есть ли маркеры (*now, yesterday, last year, in 2015*)? Они подсказывают ответ.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 40. If I had known… I wish I had known…**
-
-- [0:48:02](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=2882s) — нереальное прошлое: *if I knew* и *if I had known*
-- [0:50:07](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=3007s) — *'d* = *had* или *would*: как различить
-- [0:52:47](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=3167s) — *if you had been looking*, *if I had had*
-- [0:57:39](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=3459s) — смешанный тип: *If I had gone…, I would be tired now*
-- [1:05:52](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=3952s) — *would have*, *could have*, *might have*
-- [1:06:55](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=4015s) — практика
-
 ## Проверь себя
 
 ```quiz

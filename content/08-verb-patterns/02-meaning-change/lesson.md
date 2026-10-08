@@ -128,42 +128,6 @@ sources:
 
 Обе формы правильные, разница тонкая, на экзамене за неё не снижают.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 56. Verb + -ing или to, часть 1**
-
-- [1:15:29](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=4529s) — *remember doing* и *remember to do*
-- [1:17:30](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=4650s) — *regret doing* и *regret to say*
-- [1:18:33](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=4713s) — *go on doing* и *go on to do*
-- [1:20:37](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=4837s) — *begin, start, continue, intend, bother*: без разницы
-- [1:22:09](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=4929s) — практика
-
-**Урок 57. Verb + -ing или to, часть 2**
-
-- [1:35:18](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=5718s) — *try to do* и *try doing*
-- [1:37:51](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=5871s) — *need to do* и *needs doing*
-- [1:39:25](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=5965s) — *help (to) do* и *can't help doing*
-- [1:41:56](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=6116s) — практика
-
-**Урок 58. Verb + -ing или to, часть 3**
-
-- [1:54:52](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=6892s) — *like, love, hate* + -ing или to
-- [1:56:32](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=6992s) — *I like doing* и *I like to do*
-- [1:58:35](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=7115s) — *would like, would love, would prefer* + to
-- [2:00:06](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=7206s) — *would like to have done*
-- [2:02:40](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=7360s) — практика
-
-**Урок 59. Prefer и would rather**
-
-- [2:11:10](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=7870s) — *prefer to do* и *prefer doing*
-- [2:11:40](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=7900s) — *prefer X to Y*, *rather than*
-- [2:14:45](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=8085s) — *would prefer* в конкретной ситуации
-- [2:16:22](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=8182s) — *would rather do than do*
-- [2:17:54](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=8274s) — *I'd rather you did*
-- [2:20:00](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=8400s) — практика
-
 ## Проверь себя
 
 ```quiz

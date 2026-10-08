@@ -106,32 +106,6 @@ sources:
 
 Последние два случая подробно разобраны в модуле 7 (participle clauses). Здесь главное — первые два: в русском там деепричастие («сидела, читая») или «когда», а в английском — просто *-ing*.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 54. Verb + to** (часть про вопросительные слова)
-
-- [0:39:07](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=2347s) — *what to do, how to get, whether to apply*; *show / tell sb what to do*
-
-**Урок 65. Adjective + to** (часть про *of*)
-
-- [4:11:34](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=15094s) — *it was nice / kind / stupid of you to…*
-
-**Урок 66. Afraid to do и afraid of -ing**
-
-- [4:27:36](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=16056s) — *afraid to do* и *afraid of doing*
-- [4:29:13](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=16153s) — *interested in doing* и *interested to hear*
-- [4:30:15](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=16215s) — *sorry for doing* и *sorry to hear*
-- [4:32:51](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=16371s) — практика
-
-**Урок 67. See somebody do и see somebody doing**
-
-- [4:45:49](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=17149s) — *see sb do*: всё действие целиком
-- [4:47:54](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=17274s) — *see sb doing*: в процессе; *smell something burning*
-- [4:48:57](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=17337s) — в чём разница и когда она неважна
-- [4:50:31](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=17431s) — практика
-
 ## Проверь себя
 
 ```quiz

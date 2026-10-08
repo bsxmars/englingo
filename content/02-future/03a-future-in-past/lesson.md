@@ -100,15 +100,6 @@ sources:
 
 > **Типичная ошибка русскоговорящих:** ~~He is sure to win~~ ≠ *He is sure **that** he will win.* Первое — уверен **говорящий** («он непременно победит»), второе — уверен **сам он**. Порядок слов меняет того, кто уверен.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 20. I'm going to (do)**
-
-- [0:26:51](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=1611s) — *was going to*: собирался, но не сделал; *I thought it was going to rain*
-- [0:35:07](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=2107s) — практика на *was / were going to*
-
 ## Проверь себя
 
 ```quiz

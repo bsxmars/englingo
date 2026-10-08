@@ -126,18 +126,6 @@ sources:
 
 > **Типичная ошибка русскоговорящих:** ~~gave up to smoke~~ → *gave up **smoking***. После *give up, carry on, put off, keep on* глагол идёт в форме **-ing**.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 137. Фразовые глаголы: введение**
-
-- [0:00:00](https://www.youtube.com/watch?v=b9ap7lAe9z4&t=0s) — что такое фразовый глагол, почему частицу нельзя переводить буквально
-- [0:01:37](https://www.youtube.com/watch?v=b9ap7lAe9z4&t=97s) — глаголы движения: *get on, drive off, come back, turn round*
-- [0:03:10](https://www.youtube.com/watch?v=b9ap7lAe9z4&t=190s) — новый смысл: *break down, find out, take off, give up, get on, get by*
-- [0:11:27](https://www.youtube.com/watch?v=b9ap7lAe9z4&t=687s) — порядок слов: *turn on the light*, *turn the light on*, *turn it on*
-- [0:17:08](https://www.youtube.com/watch?v=b9ap7lAe9z4&t=1028s) — практика
-
 ## Проверь себя
 
 ```quiz

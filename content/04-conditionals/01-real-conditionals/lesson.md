@@ -137,35 +137,6 @@ sources:
 
 > **B2-уровень:** *in case* часто проверяют в B2 First Part 4: *I'll write down my number because you might need it* → *I'll write down my number **in case you need** it.*
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 38. If I do и if I did**
-
-- [0:00:00](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=0s) — реальное и воображаемое настоящее: *if we take* / *if we took*
-- [0:05:16](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=316s) — *will* и *would* не ставятся в части с *if*
-- [0:07:21](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=441s) — *could* и *might* вместо *would*
-- [0:08:25](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=505s) — практика
-- [0:10:37](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=637s) — first или second в приглашении; *if he did* вместо повтора глагола
-
-**Урок 39. If I knew… I wish I knew…**
-
-- [0:21:31](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=1291s) — *if I knew*: нереальное настоящее
-- [0:26:07](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=1567s) — *were* вместо *was* после *if*
-- [0:31:19](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=1879s) — *could* = *would be able to*, *could* в обеих частях
-- [0:36:55](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=2215s) — *I wouldn't be waiting*: *would be + -ing*
-- [0:41:32](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=2492s) — Past Continuous в условии
-
-**Урок 114. In case**
-
-- [0:25:03](https://www.youtube.com/watch?v=26J1ryERDWo&t=1503s) — *in case* и *if*: не одно и то же
-
-**Урок 115. Unless, as long as, provided**
-
-- [0:39:03](https://www.youtube.com/watch?v=26J1ryERDWo&t=2343s) — *unless* = *if … not*
-- [0:42:11](https://www.youtube.com/watch?v=26J1ryERDWo&t=2531s) — *as long as*, *provided (that)*
-
 ## Проверь себя
 
 ```quiz

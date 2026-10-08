@@ -116,35 +116,6 @@ sources:
 
 > **B2-уровень:** в эссе выручают **a + единственное** и **plural без артикля** — они звучат естественно. *The + единственное* в общем смысле оставь для видов животных, изобретений и научного стиля: *The internet has transformed **the way** we work* — а *the way* здесь конкретный, его уточняет придаточное.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 71. Исчисляемые существительные с a/an и some**
-
-- [0:43:40](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=2620s) — единственное и множественное число, *a dog — dogs*
-- [0:47:15](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=2835s) — *a/an*: что это за вещь или человек, профессия
-- [0:49:20](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=2960s) — *some* = несколько; *some* можно опустить
-- [0:49:52](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=2992s) — *some* не ставим, когда говорим «вообще»; *some* = «некоторые»
-- [0:51:27](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=3087s) — практика
-
-**Урок 75. Children или the children**
-
-- [2:06:56](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=7616s) — «вообще» — без артикля: *I'm afraid of dogs*
-- [2:08:02](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=7682s) — *most shops*, а не *the most shops*
-- [2:08:32](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=7712s) — конкретные — с *the*: *We took the children to the zoo*
-- [2:10:35](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=7835s) — граница размыта: *people who say what they think* и *the people I work with*
-- [2:11:36](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=7896s) — практика
-
-**Урок 76. The giraffe, the telephone, the old**
-
-- [2:20:39](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=8439s) — *the giraffe, the bicycle, the dollar*: вид, изобретение, валюта
-- [2:23:46](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=8626s) — *man* без артикля
-- [2:24:18](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=8658s) — *the rich, the homeless*; один человек — *a rich man*
-- [2:25:52](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=8752s) — национальности: *the French, the Chinese, Italians*
-- [2:29:58](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=8998s) — универсальный способ: *French people, Chinese people*
-- [2:30:31](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=9031s) — практика
-
 ## Проверь себя
 
 ```quiz

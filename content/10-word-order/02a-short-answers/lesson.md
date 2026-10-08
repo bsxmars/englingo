@@ -134,19 +134,6 @@ sources:
 
 После **know** и **be sure** *so* не ставится: *— The shop's closed. — Yes, I **know**.* (~~I know so~~) *— Are you sure? — Yes, I'm **sure**.* (~~I'm sure so~~)
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 51. Вспомогательные глаголы, I think so / I hope so**
-
-- [5:31:55](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=19915s) — вспомогательный и смысловой глагол
-- [5:33:28](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=20008s) — короткие ответы и *…, but Laura was*
-- [5:37:32](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=20252s) — возражение *Yes, I did* и реакции *Have you? Isn't she?*
-- [5:39:35](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=20375s) — *So am I, Neither do I*, *I don't either*
-- [5:45:42](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=20742s) — *I think so, I hope not, I'm afraid so*
-- [5:48:18](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=20898s) — практика
-
 ## Проверь себя
 
 ```quiz

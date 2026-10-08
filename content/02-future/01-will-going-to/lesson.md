@@ -205,48 +205,6 @@ Present Simple подходит и для **твоего** графика, ес�
 | договорился, всё организовано | Present Continuous |
 | расписание | Present Simple |
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 19. Present Continuous и Present Simple для будущего**
-
-- [0:00:00](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=0s) — Present Continuous: время и место уже известны
-- [0:02:35](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=155s) — *I'm going to bed*, *I'm coming*: действие вот-вот начнётся
-- [0:03:06](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=186s) — Present Simple: расписания, в том числе своё
-- [0:05:41](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=341s) — *have / have got* для экзаменов и приёмов
-- [0:06:13](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=373s) — практика
-
-**Урок 20. I'm going to (do)**
-
-- [0:17:18](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=1038s) — *going to*: намерение, «собираюсь»
-- [0:20:29](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=1229s) — *going to* или Present Continuous: решил или договорился
-- [0:23:43](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=1423s) — прогноз по признакам: *It's going to rain*
-- [0:27:52](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=1672s) — практика
-
-**Урок 21. will и shall, часть 1**
-
-- [0:39:21](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=2361s) — *will*: решение в момент речи, заказ
-- [0:41:24](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=2484s) — *I think I'll…*, *I don't think I'll…*
-- [0:43:57](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=2637s) — *won't* как отказ: *The car won't start*
-- [0:49:10](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=2950s) — *Shall I…? Shall we…?*, *What shall I do?*
-- [0:50:41](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=3041s) — практика
-
-**Урок 22. will и shall, часть 2**
-
-- [1:02:53](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=3773s) — *will* не для того, что уже решено
-- [1:03:24](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=3804s) — *will* для прогнозов и мнений
-- [1:09:13](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=4153s) — после *I hope*: настоящее или *will*
-- [1:09:44](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=4184s) — *will* о настоящем: *she'll be busy*
-- [1:14:20](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=4460s) — практика
-
-**Урок 23. I will и I'm going to**
-
-- [1:25:27](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=5127s) — новое решение (*will*) и уже принятое (*going to*)
-- [1:28:01](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=5281s) — прогноз: *will* или *going to*
-- [1:30:03](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=5403s) — *We're going to be late* и *She'll be late*
-- [1:31:07](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=5467s) — практика
-
 ## Проверь себя
 
 ```quiz

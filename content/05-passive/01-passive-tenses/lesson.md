@@ -142,27 +142,6 @@ Perfect Continuous в пассиве (*has been being built*) почти не у
 
 > **Типичная ошибка русскоговорящих:** глагол после *nobody, everybody, everyone* ставить во множественное число: ~~Everybody were evacuated~~. Эти слова грамматически единственного числа: ***Everybody was** evacuated. **Nobody was** hurt.*
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 42. Пассив, часть 1: is done / was done**
-
-- [1:50:08](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=6608s) — что такое пассив и зачем он нужен
-- [1:55:19](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=6919s) — *by* для исполнителя, *with* для инструмента
-- [1:56:20](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=6980s) — формула be + V3 во всех временах
-- [2:02:00](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=7320s) — практика
-- [2:06:44](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=7604s) — вопросы в пассиве
-- [2:08:44](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=7724s) — актив или пассив: *disappeared*, *died*, *was brought up*
-
-**Урок 43. Пассив, часть 2: be done / been done / being done**
-
-- [2:19:08](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=8348s) — начало урока: пассивный инфинитив
-- [2:24:46](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=8686s) — перфектный пассивный инфинитив: *should / might have been done*
-- [2:31:56](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=9116s) — Present Perfect и Past Perfect в пассиве
-- [2:36:01](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=9361s) — Present и Past Continuous в пассиве (*is being done*)
-- [2:39:09](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=9549s) — практика
-
 ## Проверь себя
 
 ```quiz

@@ -151,32 +151,6 @@ sources:
 - *any-* в утверждении = «любой, неважно какой»: *Sit **anywhere** you like.*
 - Отрицание одно: ~~I didn't do nothing~~ → *I didn't do **anything** / I did **nothing**.*
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 82. Myself, yourself, themselves**
-
-- [0:00:00](https://www.youtube.com/watch?v=1_FACNmXj9M&t=0s) — возвратные местоимения: *myself, ourselves*
-- [0:01:35](https://www.youtube.com/watch?v=1_FACNmXj9M&t=95s) — *enjoy yourself*, *help yourself*
-- [0:03:06](https://www.youtube.com/watch?v=1_FACNmXj9M&t=186s) — без *-self*: *feel, relax, concentrate, meet, wash, dress*
-- [0:05:13](https://www.youtube.com/watch?v=1_FACNmXj9M&t=313s) — *themselves* или *each other*
-- [0:06:45](https://www.youtube.com/watch?v=1_FACNmXj9M&t=405s) — усилительное *-self*: «сам»
-- [0:09:49](https://www.youtube.com/watch?v=1_FACNmXj9M&t=589s) — практика
-
-**Урок 83. A friend of mine, my own, on my own / by myself**
-
-- [0:21:32](https://www.youtube.com/watch?v=1_FACNmXj9M&t=1292s) — *a friend of mine*, *some friends of ours*
-- [0:24:03](https://www.youtube.com/watch?v=1_FACNmXj9M&t=1443s) — *my own*, *your own*
-- [0:25:05](https://www.youtube.com/watch?v=1_FACNmXj9M&t=1505s) — *a room of my own*, *problems of his own*
-- [0:26:38](https://www.youtube.com/watch?v=1_FACNmXj9M&t=1598s) — *on my own* и *by myself*
-- [0:28:14](https://www.youtube.com/watch?v=1_FACNmXj9M&t=1694s) — практика
-
-**Урок 84. There и it**
-
-- [0:41:26](https://www.youtube.com/watch?v=1_FACNmXj9M&t=2486s) — *there* вводит новое, *it* называет известное
-- [0:43:31](https://www.youtube.com/watch?v=1_FACNmXj9M&t=2611s) — сравнение *there* и *it*
-
 ## Проверь себя
 
 ```quiz

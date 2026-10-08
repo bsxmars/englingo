@@ -216,49 +216,6 @@ sources:
 
 > **Типичная ошибка русскоговорящих:** ~~I have difficulty to understand him~~, ~~We spent two hours to fix it~~, ~~Let's go to swimming~~. Правильно: *I have difficulty **understanding** him. We spent two hours **fixing** it. Let's **go swimming**.* После *go* в этих выражениях нет ни *to*, ни артикля.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 53. Verb + -ing**
-
-- [0:01:00](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=60s) — *enjoy, mind, suggest* и другие глаголы с -ing
-- [0:06:07](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=367s) — *give up, put off, carry on, keep*
-- [0:08:43](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=523s) — *having done* после *admit, regret*
-- [0:11:50](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=710s) — *deny that*, *suggest that*
-- [0:13:23](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=803s) — практика
-
-**Урок 54. Verb + to**
-
-- [0:27:11](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=1631s) — *decide, offer, refuse, manage, threaten, deserve, tend*
-- [0:32:28](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=1948s) — *dare* с *to* и без
-- [0:34:31](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=2071s) — *seem, pretend, claim* + *to be doing*, *to have done*
-- [0:42:11](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=2531s) — практика
-
-**Урок 60. Preposition + -ing**
-
-- [2:35:25](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=9325s) — после предлога -ing: *interested in, good at, fed up with*
-- [2:37:59](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=9479s) — *before, after, by* + -ing
-- [2:41:36](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=9696s) — *without* + -ing, *without being disturbed*
-- [2:42:38](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=9758s) — *look forward to doing*: *to* как предлог
-- [2:44:44](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=9884s) — практика
-
-**Урок 62. Verb + preposition + -ing**
-
-- [3:14:04](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=11644s) — *approve of, decide against, dream of, insist on, succeed in*
-- [3:16:39](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=11799s) — *looking forward to Andy coming*: человек перед -ing
-- [3:17:10](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=11830s) — *accuse of, congratulate on, prevent from, suspect of*
-- [3:21:51](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=12111s) — практика
-
-**Урок 63. There's no point in -ing, it's worth -ing**
-
-- [3:33:26](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=12806s) — *there's no point in doing*
-- [3:34:27](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=12867s) — *the point of*, *it's worth doing*
-- [3:36:37](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=12997s) — *have trouble / a problem doing*
-- [3:37:10](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=13030s) — *spend / waste time doing*, *busy doing*
-- [3:37:41](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=13061s) — *go swimming, go skiing*
-- [3:38:11](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=13091s) — практика
-
 ## Проверь себя
 
 ```quiz

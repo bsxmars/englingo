@@ -124,26 +124,6 @@ sources:
 
 В повседневной речи *shall* живёт в вопросах: *Shall I…?* (предложение помощи) и *Shall we…?* (предложение вместе). В американском английском чаще *Should I…?* / *Do you want me to…?*
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 37. Просьбы и предложения: can, could, would you**
-
-- [6:53:12](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=24792s) — просьбы: *Can you…? Could you…? Do you think you could…?*
-- [6:55:14](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=24914s) — попросить вещь: *Can I have…? Could we have…?*
-- [6:56:15](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=24975s) — попросить разрешения: *Can I…? May I…?*
-- [6:56:46](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=25006s) — *Do you mind if I…? Is it all right if I…?*; предложения *Can I…? Would you like…?*
-- [6:58:49](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=25129s) — практика
-
-**Урок 36. Would**
-
-- [6:27:32](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=23252s) — *would* — воображаемая ситуация: *It would be nice…*, *I wouldn't say anything*
-- [6:32:40](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=23560s) — *will* или *would*; обещание в прошлом: *He promised he would…*
-- [6:35:13](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=23713s) — *wouldn't* — «отказывался»
-- [6:35:43](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=23743s) — *would* о повторяющихся действиях в прошлом
-- [6:38:18](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=23898s) — практика
-
 ## Проверь себя
 
 ```quiz

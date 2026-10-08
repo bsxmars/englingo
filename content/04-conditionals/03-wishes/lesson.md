@@ -123,40 +123,6 @@ sources:
 
 > **B2-уровень:** *I'd rather you didn't…* — очень вежливый способ попросить не делать что-то. *I'd rather you didn't tell anyone* мягче, чем *Don't tell anyone*.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 39. If I knew… I wish I knew…**
-
-- [0:21:31](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=1291s) — *if I knew* и *I wish I knew*
-- [0:24:02](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=1442s) — три формулы с *wish*
-- [0:43:33](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=2613s) — практика с *I wish*
-
-**Урок 40. If I had known… I wish I had known…**
-
-- [0:55:03](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=3303s) — *I wish I had known*: сожаление о прошлом
-- [0:56:06](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=3366s) — *I'm glad I saw* и *I wish I had seen*; почему нет *wish … would have*
-- [1:20:42](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=4842s) — практика: *I wish* о прошлом
-
-**Урок 41. Wish**
-
-- [1:25:41](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=5141s) — *wish somebody luck*, *all the best*
-- [1:26:44](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=5204s) — *wish* или *hope*
-- [1:29:18](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=5358s) — *I wish I could* и *I wish I could have*
-- [1:30:20](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=5420s) — *wish + would*: жалобы и раздражение
-- [1:33:24](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=5604s) — практика
-
-**Урок 35. I'd better и it's time**
-
-- [6:11:40](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=22300s) — *it's time to*, *it's time for us to*, *it's time we went*
-- [6:26:06](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=23166s) — *it's time* с пассивом: *some changes were made*
-
-**Урок 59. Prefer и would rather**
-
-- [2:17:24](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=8244s) — *would rather do than do*, *I'd rather you did*
-- [2:18:26](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=8306s) — *would you rather I told her?*: прошедшее с настоящим значением
-
 ## Проверь себя
 
 ```quiz

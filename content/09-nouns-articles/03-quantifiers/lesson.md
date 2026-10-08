@@ -215,64 +215,6 @@ sources:
 
 > **Типичная ошибка русскоговорящих:** ~~I raised the hand~~ (по-русски «я поднял руку»). По-английски — *I raised **my** hand*. Русское «свой» почти всегда переводится через *my / his / her*.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 85. Some и any**
-
-- [1:07:39](https://www.youtube.com/watch?v=1_FACNmXj9M&t=4059s) — *some* в утверждениях, *any* в отрицаниях
-- [1:08:42](https://www.youtube.com/watch?v=1_FACNmXj9M&t=4122s) — *any* после *without, refuse, hardly*
-- [1:10:16](https://www.youtube.com/watch?v=1_FACNmXj9M&t=4216s) — *some* в просьбах и предложениях
-- [1:10:49](https://www.youtube.com/watch?v=1_FACNmXj9M&t=4249s) — *any* в вопросах и после *if*
-- [1:12:22](https://www.youtube.com/watch?v=1_FACNmXj9M&t=4342s) — *any* = «любой»: *any bus, anytime*
-- [1:14:56](https://www.youtube.com/watch?v=1_FACNmXj9M&t=4496s) — практика
-
-**Урок 86. No, none, any, nothing, nobody**
-
-- [1:25:17](https://www.youtube.com/watch?v=1_FACNmXj9M&t=5117s) — *no* + существительное = *not a / not any*
-- [1:26:23](https://www.youtube.com/watch?v=1_FACNmXj9M&t=5183s) — *none* без существительного и *none of*
-- [1:27:57](https://www.youtube.com/watch?v=1_FACNmXj9M&t=5277s) — *none of the students was / were*
-- [1:28:57](https://www.youtube.com/watch?v=1_FACNmXj9M&t=5337s) — *nothing, nobody, nowhere* в начале и в ответах
-- [1:30:30](https://www.youtube.com/watch?v=1_FACNmXj9M&t=5430s) — одно отрицание в предложении; *nobody … they*
-- [1:33:34](https://www.youtube.com/watch?v=1_FACNmXj9M&t=5614s) — практика
-
-**Урок 88. All / all of, most / most of, no / none of**
-
-- [2:05:51](https://www.youtube.com/watch?v=1_FACNmXj9M&t=7551s) — *all, some, most* + существительное без *of*
-- [2:06:23](https://www.youtube.com/watch?v=1_FACNmXj9M&t=7583s) — ~~all of cars~~: *of* только перед *the, my, these*
-- [2:06:54](https://www.youtube.com/watch?v=1_FACNmXj9M&t=7614s) — *some of the people, most of my time*
-- [2:09:58](https://www.youtube.com/watch?v=1_FACNmXj9M&t=7798s) — *all of us, some of it, none of them*
-- [2:11:02](https://www.youtube.com/watch?v=1_FACNmXj9M&t=7862s) — *some, most* без существительного
-- [2:12:03](https://www.youtube.com/watch?v=1_FACNmXj9M&t=7923s) — практика
-
-**Урок 89. Both, either, neither**
-
-- [2:21:58](https://www.youtube.com/watch?v=1_FACNmXj9M&t=8518s) — слова для двух предметов
-- [2:22:32](https://www.youtube.com/watch?v=1_FACNmXj9M&t=8552s) — *both restaurants*, но *neither restaurant is*
-- [2:24:34](https://www.youtube.com/watch?v=1_FACNmXj9M&t=8674s) — *both of, neither of, either of* + *the / my / us*
-- [2:27:38](https://www.youtube.com/watch?v=1_FACNmXj9M&t=8858s) — *both … and, neither … nor, either … or*
-- [2:29:41](https://www.youtube.com/watch?v=1_FACNmXj9M&t=8981s) — два предмета или больше: *either / any, neither / none*
-- [2:31:15](https://www.youtube.com/watch?v=1_FACNmXj9M&t=9075s) — практика
-
-**Урок 90. All, every, whole**
-
-- [2:47:47](https://www.youtube.com/watch?v=1_FACNmXj9M&t=10067s) — *everybody, everything* вместо *all*
-- [2:48:19](https://www.youtube.com/watch?v=1_FACNmXj9M&t=10099s) — когда *all* возможно: *all of us, all about, All I've eaten is…*
-- [2:49:21](https://www.youtube.com/watch?v=1_FACNmXj9M&t=10161s) — *whole*: *the whole book*, но *all the money*
-- [2:51:25](https://www.youtube.com/watch?v=1_FACNmXj9M&t=10285s) — *every day* и *all day / the whole day*
-- [2:52:58](https://www.youtube.com/watch?v=1_FACNmXj9M&t=10378s) — *all the time* и *every time*
-- [2:54:32](https://www.youtube.com/watch?v=1_FACNmXj9M&t=10472s) — практика
-
-**Урок 91. Each и every**
-
-- [3:03:42](https://www.youtube.com/watch?v=1_FACNmXj9M&t=11022s) — *each* и *every*: где взаимозаменяемы
-- [3:04:18](https://www.youtube.com/watch?v=1_FACNmXj9M&t=11058s) — *each* — по отдельности, по одному
-- [3:04:50](https://www.youtube.com/watch?v=1_FACNmXj9M&t=11090s) — *every* — все как группа
-- [3:08:28](https://www.youtube.com/watch?v=1_FACNmXj9M&t=11308s) — *each* без существительного, *each of*, *every one of*
-- [3:10:35](https://www.youtube.com/watch?v=1_FACNmXj9M&t=11435s) — *were each given*, *£1 each*; *everyone* и *every one*
-- [3:12:42](https://www.youtube.com/watch?v=1_FACNmXj9M&t=11562s) — практика
-
 ## Проверь себя
 
 ```quiz

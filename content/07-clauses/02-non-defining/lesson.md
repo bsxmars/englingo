@@ -109,26 +109,6 @@ Non-defining-придаточные стоят после имён собств�
 
 В разговоре можно и в конце: *My manager, who I reported to every week, left in May.* Но опустить местоимение нельзя: ~~My manager, I reported to every week, …~~
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 95. Придаточные с дополнительной информацией, часть 1**
-
-- [4:25:06](https://www.youtube.com/watch?v=1_FACNmXj9M&t=15906s) — тип 1: придаточное уточняет, о ком речь, без запятых
-- [4:27:08](https://www.youtube.com/watch?v=1_FACNmXj9M&t=16028s) — тип 2: дополнительная информация, запятые
-- [4:29:46](https://www.youtube.com/watch?v=1_FACNmXj9M&t=16186s) — в типе 2 нельзя *that* и нельзя опустить местоимение
-- [4:32:24](https://www.youtube.com/watch?v=1_FACNmXj9M&t=16344s) — практика
-- [4:43:01](https://www.youtube.com/watch?v=1_FACNmXj9M&t=16981s) — найди ошибку: *that* после запятой
-
-**Урок 96. Придаточные с дополнительной информацией, часть 2**
-
-- [4:47:54](https://www.youtube.com/watch?v=1_FACNmXj9M&t=17274s) — предлог + *whom / which*
-- [4:49:27](https://www.youtube.com/watch?v=1_FACNmXj9M&t=17367s) — *all of whom, most of which, none of which*
-- [4:50:57](https://www.youtube.com/watch?v=1_FACNmXj9M&t=17457s) — *the cause of which, the name of which*
-- [4:51:28](https://www.youtube.com/watch?v=1_FACNmXj9M&t=17488s) — *which* про всё предложение, а не *what*
-- [4:53:30](https://www.youtube.com/watch?v=1_FACNmXj9M&t=17610s) — практика
-
 ## Проверь себя
 
 ```quiz

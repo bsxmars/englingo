@@ -112,23 +112,6 @@ sources:
 
 > **B2-уровень:** *too* и *not enough* часто перефразируют друг в друга: *The box is too heavy for me to lift* = *I'm not strong enough to lift the box*. Это типичное задание B2 First Part 4.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 55. Verb + object + to** (часть про *make* и *let*)
-
-- [1:02:40](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=3760s) — *make sb do*, *let sb do*: без *to*
-- [1:03:44](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=3824s) — пассив *be made to do*
-
-**Урок 65. Adjective + to**
-
-- [4:08:57](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=14937s) — *it's hard to understand him* = *he's hard to understand*
-- [4:11:34](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=15094s) — *interesting to talk to*, *a difficult question to answer*
-- [4:13:15](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=15195s) — *sorry / glad / relieved to hear*
-- [4:14:46](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=15286s) — *be sure / likely / bound to*
-- [4:16:19](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=15379s) — практика
-
 ## Проверь себя
 
 ```quiz

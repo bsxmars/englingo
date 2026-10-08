@@ -170,39 +170,6 @@ Continuous подходит не только для одного длинног
 | почему у меня такой вид | Present Perfect Continuous |
 | глагол состояния (know, own…) | только Simple |
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 9. Present Perfect Continuous**
-
-- [3:12:28](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=11548s) — смысл времени
-- [3:14:01](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=11641s) — форма
-- [3:15:03](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=11703s) — следы действия: *Have you been crying?*
-- [3:17:05](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=11825s) — действие продолжается: *how long*
-- [3:20:11](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=12011s) — повторяющиеся действия
-- [3:25:12](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=12312s) — практика
-
-**Урок 10. Present Perfect Continuous и Simple**
-
-- [3:38:53](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=13133s) — *have been painting* и *have painted*
-- [3:43:33](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=13413s) — *What have you been doing / done?*
-- [3:44:03](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=13443s) — *how long* и *how many*
-- [3:46:06](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=13566s) — глаголы состояния
-- [3:48:22](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=13702s) — практика
-
-**Урок 11. How long have you been…?**
-
-- [3:58:52](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=14332s) — *are married* и *have been married*
-- [4:01:55](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=14515s) — *how long* + Continuous
-- [4:03:29](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=14609s) — *live, work* в обеих формах
-- [4:04:00](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=14640s) — *always* + Simple
-- [4:04:31](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=14671s) — практика
-
-**Урок 12. for и since**
-
-- [4:15:59](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=15359s) — *for* и *since*
-
 ## Проверь себя
 
 ```quiz

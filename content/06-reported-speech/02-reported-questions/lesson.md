@@ -113,22 +113,6 @@ sources:
 
 Просьбу разрешения пересказываем через *if*: "**Can I** borrow your pen?" → She asked **if she could** borrow my pen.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 48. Косвенная речь, часть 2**
-
-- [4:38:18](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=16698s) — *tell / ask sb to do*, *said not to do*
-
-**Урок 50. Do you know where…? / He asked me where…**
-
-- [5:11:05](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=18665s) — вопрос внутри предложения: прямой порядок слов
-- [5:15:48](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=18948s) — *if* и *whether*, когда нет вопросительного слова
-- [5:17:25](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=19045s) — *he asked me where…*: косвенный вопрос в прошлом
-- [5:17:58](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=19078s) — пересказ вопросов с собеседования
-- [5:26:50](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=19610s) — практика: пересказать вопросы
-
 ## Проверь себя
 
 ```quiz

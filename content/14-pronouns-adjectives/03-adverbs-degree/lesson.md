@@ -162,42 +162,6 @@ sources:
 
 > **Типичная ошибка русскоговорящих:** ~~It's too cold, I like it~~ — *too* значит «слишком», то есть **плохо**. «Очень холодно, обожаю» — *It's **very** / **so** cold*. И ~~so a nice day~~ → ***such** a nice day*; ~~such nice~~ без существительного → ***so** nice*. ~~no such a thing~~ → ***no such** thing*, ~~such a lot people~~ → *such a lot **of** people*.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 100. Прилагательные и наречия, часть 1 (quick / quickly)**
-
-- [0:45:49](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=2749s) — наречие = прилагательное + *-ly*, орфография
-- [0:46:53](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=2813s) — *friendly, lively, lonely, lovely* — прилагательные
-- [0:49:58](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=2998s) — после *be, look, feel, sound* — прилагательное
-- [0:50:59](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=3059s) — наречие + прилагательное или причастие: *seriously injured*
-- [0:53:02](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=3182s) — практика
-
-**Урок 101. Прилагательные и наречия, часть 2 (well, fast, late, hard / hardly)**
-
-- [1:07:10](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=4030s) — *good* и *well*, *well-known*, *well* = «здоров»
-- [1:08:40](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=4120s) — *fast, hard, late*; *hardly* и *lately*
-- [1:10:45](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=4245s) — *hardly any*, *hardly ever*, *hardly surprising*
-- [1:14:56](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=4496s) — практика
-
-**Урок 102. So и such**
-
-- [1:24:05](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=5045s) — *so* + прилагательное, *such (a)* + существительное
-- [1:25:40](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=5140s) — *so … that*, *such … that*
-- [1:28:20](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=5300s) — *no such word*
-- [1:29:24](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=5364s) — *so long / such a long time*, *so much / such a lot*
-- [1:31:00](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=5460s) — практика
-
-**Урок 104. Quite, pretty, rather и fairly**
-
-- [2:00:45](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=7245s) — *quite* и *pretty*
-- [2:02:50](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=7370s) — *quite a surprise*, *quite a lot*, *quite* + глагол
-- [2:04:29](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=7469s) — *rather* для негативной оценки
-- [2:07:03](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=7623s) — *fairly* — самое слабое
-- [2:08:33](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=7713s) — *quite* = «совершенно»: *quite sure, quite impossible*
-- [2:11:15](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=7875s) — практика
-
 ## Проверь себя
 
 ```quiz

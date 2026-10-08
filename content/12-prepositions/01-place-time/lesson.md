@@ -167,56 +167,6 @@ sources:
 
 > **B2-уровень:** *in six weeks' time* = *in six weeks* (через шесть недель). Апостроф после *weeks* — это притяжательный падеж.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 121. At, on, in для времени**
-
-- [2:23:44](https://www.youtube.com/watch?v=26J1ryERDWo&t=8624s) — начало: *at* + время на часах, *on* + день, *in* + период
-- [2:26:22](https://www.youtube.com/watch?v=26J1ryERDWo&t=8782s) — *at the moment, at the weekend, at Christmas*; *at night* и *in the night*
-- [2:28:56](https://www.youtube.com/watch?v=26J1ryERDWo&t=8936s) — без предлога перед *next, last, this, every*; *see you Friday*
-- [2:29:57](https://www.youtube.com/watch?v=26J1ryERDWo&t=8997s) — *in* — «через»: *in a few minutes*
-- [2:31:28](https://www.youtube.com/watch?v=26J1ryERDWo&t=9088s) — практика
-
-**Урок 122. On time и in time**
-
-- [2:40:28](https://www.youtube.com/watch?v=26J1ryERDWo&t=9628s) — *on time* — по расписанию, *in time* — успеть
-- [2:42:00](https://www.youtube.com/watch?v=26J1ryERDWo&t=9720s) — *just in time*
-- [2:46:08](https://www.youtube.com/watch?v=26J1ryERDWo&t=9968s) — практика
-
-**Урок 123. In, at, on для места, часть 1**
-
-- [2:54:35](https://www.youtube.com/watch?v=26J1ryERDWo&t=10475s) — *in* — внутри: комната, город, *in the mountains*
-- [2:57:10](https://www.youtube.com/watch?v=26J1ryERDWo&t=10630s) — *at* — у точки: *at the door, at the traffic lights, at the table*
-- [3:00:18](https://www.youtube.com/watch?v=26J1ryERDWo&t=10818s) — *on* — поверхность: *on the wall, on page 7, on an island*
-- [3:02:22](https://www.youtube.com/watch?v=26J1ryERDWo&t=10942s) — практика
-
-**Урок 124. In, at, on для места, часть 2**
-
-- [3:09:56](https://www.youtube.com/watch?v=26J1ryERDWo&t=11396s) — *in a queue, in the picture, in the sky*
-- [3:11:29](https://www.youtube.com/watch?v=26J1ryERDWo&t=11489s) — *on the left, on the second floor, on the map / menu / list*
-- [3:14:30](https://www.youtube.com/watch?v=26J1ryERDWo&t=11670s) — *in / at / on the front и the back*
-- [3:17:11](https://www.youtube.com/watch?v=26J1ryERDWo&t=11831s) — *in the corner* и *on the corner*
-- [3:17:41](https://www.youtube.com/watch?v=26J1ryERDWo&t=11861s) — практика
-
-**Урок 125. In, at, on для места, часть 3**
-
-- [3:29:19](https://www.youtube.com/watch?v=26J1ryERDWo&t=12559s) — *in bed, in hospital, in prison* без артикля
-- [3:31:24](https://www.youtube.com/watch?v=26J1ryERDWo&t=12684s) — *at home, at work, at school*; события: *at a party*
-- [3:33:32](https://www.youtube.com/watch?v=26J1ryERDWo&t=12812s) — *in* или *at* со зданиями: *in / at the restaurant, at Helen's*
-- [3:38:13](https://www.youtube.com/watch?v=26J1ryERDWo&t=13093s) — *stop at Oxford* — город как пункт маршрута
-- [3:39:14](https://www.youtube.com/watch?v=26J1ryERDWo&t=13154s) — транспорт: *in a car, on a bus*
-- [3:41:49](https://www.youtube.com/watch?v=26J1ryERDWo&t=13309s) — практика
-
-**Урок 126. To, at, in и into**
-
-- [3:53:08](https://www.youtube.com/watch?v=26J1ryERDWo&t=13988s) — *go / travel to*; *been to* и *been in*
-- [3:57:19](https://www.youtube.com/watch?v=26J1ryERDWo&t=14239s) — *get to*, *arrive in / at*, *home* без предлога
-- [3:59:51](https://www.youtube.com/watch?v=26J1ryERDWo&t=14391s) — *into* и *out of*
-- [4:01:54](https://www.youtube.com/watch?v=26J1ryERDWo&t=14514s) — *get on / off* автобус и самолёт, *get in / out of* машину
-- [4:03:25](https://www.youtube.com/watch?v=26J1ryERDWo&t=14605s) — практика
-
 ## Проверь себя
 
 ```quiz

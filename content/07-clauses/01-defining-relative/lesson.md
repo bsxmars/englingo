@@ -138,32 +138,6 @@ sources:
 
 Если местоимение в такой фразе — объект, его можно опустить: *It's chocolate cake **(that)** I want.* Если подлежащее — нельзя: *It was Tom **who** called.* Подробнее эти конструкции разберём в модуле 11.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 92. Придаточные: who, that, which**
-
-- [3:21:47](https://www.youtube.com/watch?v=1_FACNmXj9M&t=12107s) — что такое relative clause, *who* для людей
-- [3:23:47](https://www.youtube.com/watch?v=1_FACNmXj9M&t=12227s) — *that* и *which* для вещей, *which* не для людей
-- [3:24:52](https://www.youtube.com/watch?v=1_FACNmXj9M&t=12292s) — *who / that* вместо *he, she, they*
-- [3:25:53](https://www.youtube.com/watch?v=1_FACNmXj9M&t=12353s) — *what* или *that*: *what happened* и *everything that happened*
-- [3:26:24](https://www.youtube.com/watch?v=1_FACNmXj9M&t=12384s) — практика
-
-**Урок 93. Придаточные с who / that / which и без них**
-
-- [3:39:17](https://www.youtube.com/watch?v=1_FACNmXj9M&t=13157s) — местоимение-подлежащее опустить нельзя
-- [3:40:19](https://www.youtube.com/watch?v=1_FACNmXj9M&t=13219s) — местоимение-объект можно опустить
-- [3:43:20](https://www.youtube.com/watch?v=1_FACNmXj9M&t=13400s) — предлог в конце: *the woman Tom is talking to*
-- [3:45:52](https://www.youtube.com/watch?v=1_FACNmXj9M&t=13552s) — *all / everything that* и *what*
-- [3:47:27](https://www.youtube.com/watch?v=1_FACNmXj9M&t=13647s) — практика
-
-**Урок 94. whose, whom, where**
-
-- [4:02:01](https://www.youtube.com/watch?v=1_FACNmXj9M&t=14521s) — *whose* = «чей»
-- [4:04:50](https://www.youtube.com/watch?v=1_FACNmXj9M&t=14690s) — *whose* и *who's*
-- [4:09:34](https://www.youtube.com/watch?v=1_FACNmXj9M&t=14974s) — *the day / the time / the reason* без местоимения
-
 ## Проверь себя
 
 ```quiz

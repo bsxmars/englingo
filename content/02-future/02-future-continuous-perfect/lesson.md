@@ -126,18 +126,6 @@ Future Perfect — это Present Perfect, сдвинутый в будущее.
 | сделаю к моменту X | will have + V3 | by Friday, by the time, by then |
 | сколько буду делать к моменту X | will have been + -ing | by …, for … |
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 24. will be doing и will have done**
-
-- [1:41:42](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=6102s) — процесс в момент будущего и результат к сроку
-- [1:45:52](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=6352s) — *I'll be eating* или *we'll eat*; три Continuous
-- [1:47:54](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=6474s) — запланированное: *will be making a statement*
-- [1:48:55](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=6535s) — Future Perfect: *she'll have gone to work*
-- [1:50:29](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=6629s) — практика
-
 ## Проверь себя
 
 ```quiz

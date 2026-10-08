@@ -162,45 +162,6 @@ sources:
 
 Past Simple — для законченного действия и для событий по порядку: *I **watched** two episodes, **turned** off the TV and **went** to bed.* Глаголы состояния и в прошлом остаются в Simple: *I **didn't know** what to say* — не ~~I wasn't knowing~~.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 1. Present Continuous**
-
-- [0:05:19](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=319s) — форма и смысл
-- [0:07:22](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=442s) — не обязательно в момент речи
-- [0:08:54](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=534s) — *today, this week*
-- [0:10:01](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=601s) — глаголы изменения: *get, change, improve*
-- [0:12:03](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=723s) — практика
-
-**Урок 2. Present Simple**
-
-- [0:27:32](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=1652s) — привычки и факты
-- [0:33:22](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=2002s) — отрицания и вопросы
-- [0:38:02](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=2282s) — *What do you do?*
-- [0:39:37](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=2377s) — слова-действия: *I promise, I suggest*
-- [0:42:12](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=2532s) — практика
-
-**Урок 3. Present Continuous и Present Simple, часть 1**
-
-- [1:00:42](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=3642s) — «сейчас» и «вообще»
-- [1:05:19](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=3919s) — временное и постоянное
-- [1:06:20](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=3980s) — *always* + -ing
-- [1:09:54](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=4194s) — практика
-
-**Урок 4. Present Continuous и Present Simple, часть 2**
-
-- [1:25:52](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=5152s) — глаголы состояния
-- [1:30:28](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=5428s) — *think*
-- [1:31:59](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=5519s) — *see, hear, smell, taste, look*
-- [1:35:36](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=5736s) — *is being*
-- [1:38:42](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=5922s) — практика
-
-**Урок 17. Have и have got**
-
-- [5:49:18](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=20958s) — *have* = *have got* (подробно — в уроке «have и have got»)
-
 ## Проверь себя
 
 ```quiz

@@ -102,26 +102,6 @@ answer: 2
 explain: "С объектом *permit* требует **to**: *permit guests to smoke*. Без объекта — *-ing*: *permit smoking*."
 ```
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 55. Verb + object + to**
-
-- [0:56:20](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=3380s) — *I want you to do*, а не ~~want that~~
-- [0:58:57](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=3537s) — *tell, advise, remind, warn, persuade, get, force, allow, enable*
-- [1:01:07](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=3667s) — пассив *I was warned not to*; *suggest* без объекта + to
-- [1:05:17](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=3917s) — практика
-
-**Урок 53. Verb + -ing** (часть про объект)
-
-- [0:07:42](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=462s) — *stop people doing*, *imagine George riding*, *keep you waiting*
-
-**Урок 62. Verb + preposition + -ing** (часть про объект)
-
-- [3:17:10](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=11830s) — *accuse sb of, prevent sb from, thank sb for*
-- [3:18:46](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=11926s) — *stop sb (from) doing*, отрицание и пассив
-
 ## Практика
 
 Сначала формы, потом выбор модели, перефразирование в формате B2 First и сборка предложений.

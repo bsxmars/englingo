@@ -127,26 +127,6 @@ sources:
 | иначе, а то | otherwise, or (else) |
 | если бы не | but for, without, if it hadn't been for |
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 114. In case**
-
-- [0:21:30](https://www.youtube.com/watch?v=26J1ryERDWo&t=1290s) — *in case*: после него нет *will*
-- [0:23:31](https://www.youtube.com/watch?v=26J1ryERDWo&t=1411s) — *just in case* в конце фразы
-- [0:25:03](https://www.youtube.com/watch?v=26J1ryERDWo&t=1503s) — *in case* или *if*: делаем заранее или по факту
-- [0:27:39](https://www.youtube.com/watch?v=26J1ryERDWo&t=1659s) — *in case* + прошедшее, *in case of*
-- [0:29:13](https://www.youtube.com/watch?v=26J1ryERDWo&t=1753s) — практика
-
-**Урок 115. Unless, as long as, provided**
-
-- [0:39:03](https://www.youtube.com/watch?v=26J1ryERDWo&t=2343s) — *unless* = *if … not* = *except if*
-- [0:41:09](https://www.youtube.com/watch?v=26J1ryERDWo&t=2469s) — *Not unless…*, *unless* во втором типе и как оговорка
-- [0:42:11](https://www.youtube.com/watch?v=26J1ryERDWo&t=2531s) — *as long as*, *provided / providing*
-- [0:43:42](https://www.youtube.com/watch?v=26J1ryERDWo&t=2622s) — без *will* после условных союзов
-- [0:45:18](https://www.youtube.com/watch?v=26J1ryERDWo&t=2718s) — практика
-
 ## Проверь себя
 
 ```quiz

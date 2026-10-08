@@ -157,35 +157,6 @@ sources:
 
 > **Типичная ошибка русскоговорящих:** *Aren't you tired?* — ~~No, I am~~ (имея в виду «Нет, устал»). По-английски: ***Yes**, I am* (устал) или ***No**, I'm not* (не устал).
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 49. Вопросы 1**
-
-- [4:53:09](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=17589s) — порядок слов в вопросе
-- [4:55:41](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=17741s) — вопрос к подлежащему без *did*
-- [4:57:44](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=17864s) — предлог в конце: *Where are you from?*
-- [4:59:18](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=17958s) — *whom* в официальном стиле
-- [5:00:22](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=18022s) — отрицательные вопросы
-- [5:01:24](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=18084s) — практика
-
-**Урок 50. Вопросы 2: do you know where…?**
-
-- [5:12:11](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=18731s) — *Do you know where he lives?*
-- [5:15:18](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=18918s) — *do / does / did* исчезают
-- [5:15:48](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=18948s) — *if / whether* вместо «ли»
-- [5:17:25](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=19045s) — *He asked me where…*
-- [5:19:02](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=19142s) — практика
-
-**Урок 52. Question tags**
-
-- [6:01:35](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=21695s) — хвостик меняет полярность
-- [6:04:41](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=21881s) — интонация вниз и вверх
-- [6:06:49](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=22009s) — *You couldn't…, could you?*
-- [6:08:22](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=22102s) — *Let's…, shall we?*, *Don't…, will you?*, *aren't I?*
-- [6:10:57](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=22257s) — практика
-
 ## Проверь себя
 
 ```quiz

@@ -119,30 +119,6 @@ sources:
 
 > **B2-уровень:** в трансформациях Part 4 типичные пары: *It was a mistake to…* → **shouldn't have**; *It wasn't necessary, but we did* → **needn't have**; *It was wrong of you not to tell me* → **should have told**; *It's a pity I didn't…* → **should have / wish I had**.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 27. Could (do) и could have (done)**
-
-- [2:59:22](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=10762s) — *could have done* — могло случиться, но не случилось
-- [3:02:27](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=10947s) — *It couldn't have been better*
-- [3:15:26](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=11726s) — практика: *I couldn't have managed without you*, *couldn't have been more helpful*
-
-**Урок 32. Must, mustn't, needn't**
-
-- [4:58:23](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=17903s) — *needn't have done* — сделал, а оказалось зря
-- [5:00:24](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=18024s) — *didn't need to* — не было нужды
-
-**Урок 33. Should, часть 1**
-
-- [5:26:45](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=19605s) — *should have done* и *shouldn't have been doing*
-- [5:35:50](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=20150s) — практика: *should* или *should have*
-
-**Урок 36. Would**
-
-- [6:29:03](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=23343s) — *would have done* — воображаемое прошлое
-
 ## Проверь себя
 
 ```quiz

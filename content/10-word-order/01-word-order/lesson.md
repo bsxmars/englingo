@@ -169,53 +169,6 @@ sources:
 
 > **B2-уровень:** *very* усиливает прилагательные, но не глаголы. «Я очень люблю» — *I **really** love it* или *I love it **very much***, но не ~~I very love it~~.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 99. Порядок прилагательных**
-
-- [0:18:30](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=1110s) — начало: *a nice new house*
-- [0:19:34](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=1174s) — мнение раньше фактов
-- [0:21:06](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=1266s) — полный порядок: размер, возраст, форма, цвет, происхождение, материал
-- [0:25:11](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=1511s) — два цвета через *and*
-- [0:30:45](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=1845s) — практика
-- [0:40:57](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=2457s) — *the first two days, the next few weeks*
-
-**Урок 109. Порядок слов 1: глагол, дополнение, место и время**
-
-- [3:41:23](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=13283s) — глагол и дополнение не разрываем
-- [3:43:59](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=13439s) — глагол, дополнение, место
-- [3:45:30](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=13530s) — сначала место, потом время
-- [3:48:06](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=13686s) — практика
-
-**Урок 110. Порядок слов 2: наречия с глаголом**
-
-- [3:57:52](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=14272s) — наречия в середине: *always, also, probably*
-- [4:00:56](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=14456s) — *always have to*; после *be*; после первого вспомогательного
-- [4:03:59](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=14639s) — *probably* перед отрицанием
-- [4:05:02](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=14702s) — *all* и *both*
-- [4:06:03](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=14763s) — *he always is, I never will*
-- [4:07:05](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=14825s) — практика
-
-**Урок 111. Still, any more, yet, already**
-
-- [4:21:35](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=15695s) — *still* — всё ещё, всё равно
-- [4:23:08](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=15788s) — *not any more / any longer, no longer*
-- [4:25:40](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=15940s) — *yet* в отрицаниях и вопросах
-- [4:27:42](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=16062s) — *still* с отрицанием
-- [4:29:13](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=16153s) — *already*
-- [4:31:17](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=16277s) — практика
-
-**Урок 112. Even**
-
-- [4:42:24](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=16944s) — *even* — что-то необычное
-- [4:43:55](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=17035s) — *even* в середине предложения
-- [4:44:27](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=17067s) — *not even, can't even, didn't even*
-- [4:45:29](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=17129s) — *even* + сравнительная
-- [4:46:01](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=17161s) — *even if, even though, even when*
-- [4:49:37](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=17377s) — практика
-
 ## Проверь себя
 
 ```quiz

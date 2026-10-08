@@ -180,44 +180,6 @@ Past Perfect нужен, чтобы **показать порядок**, есл�
 
 > **B2-уровень:** *be used to* и *get used to* работают во всех временах: *I**'ve got used to** it*, *I**'ll never get used to** this weather*, *I **wasn't used to** such long days.* А *used to* (привычка в прошлом) — только про прошлое: «I use to» в настоящем не бывает.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 15. Past Perfect**
-
-- [5:10:57](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=18657s) — идея времени
-- [5:13:02](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=18782s) — форма
-- [5:14:34](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=18874s) — когда хватает Past Simple
-- [5:17:06](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=19026s) — *before, after, by the time, already*
-- [5:17:38](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=19058s) — Present Perfect и Past Perfect
-- [5:20:39](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=19239s) — практика
-
-**Урок 16. Past Perfect Continuous**
-
-- [5:33:46](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=20026s) — идея и форма
-- [5:36:30](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=20190s) — сравнение с Present Perfect Continuous
-- [5:37:00](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=20220s) — сравнение с Past Continuous
-- [5:37:30](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=20250s) — глаголы состояния
-- [5:38:31](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=20311s) — практика
-
-**Урок 18. used to**
-
-- [6:14:10](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=22450s) — *used to*: раньше было, теперь нет
-- [6:16:41](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=22601s) — *No, but I used to*
-- [6:18:51](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=22731s) — вопросы и отрицания
-- [6:20:25](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=22825s) — *used to* и *was doing*
-- [6:20:56](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=22856s) — *used to* и *be used to*
-- [6:22:29](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=22949s) — практика
-
-**Урок 61. be used to и get used to**
-
-- [2:57:04](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=10624s) — *be / get used to* + -ing
-- [2:59:12](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=10752s) — + -ing или существительное
-- [3:01:14](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=10874s) — *be* и *get*: состояние и процесс
-- [3:02:46](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=10966s) — *used to do* и *be used to doing*
-- [3:03:46](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=11026s) — практика
-
 ## Проверь себя
 
 ```quiz

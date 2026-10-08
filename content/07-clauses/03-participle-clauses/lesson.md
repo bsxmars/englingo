@@ -126,26 +126,6 @@ sources:
 
 > **B2-уровень:** экзаменаторы Cambridge ценят причастные обороты, но и замечают висячие причастия. Перед тем как начать предложение с *-ing*, спроси себя: «Кто это делает?» — и убедись, что именно он идёт сразу после запятой.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 97. -ing и -ed клаузы**
-
-- [5:08:59](https://www.youtube.com/watch?v=1_FACNmXj9M&t=18539s) — *the woman talking to Tom*: -ing вместо *who is talking*
-- [5:11:31](https://www.youtube.com/watch?v=1_FACNmXj9M&t=18691s) — -ing для постоянного: *the road connecting two villages*
-- [5:12:33](https://www.youtube.com/watch?v=1_FACNmXj9M&t=18753s) — -ed и V3 с пассивным значением: *the boy injured in the accident*
-- [5:16:40](https://www.youtube.com/watch?v=1_FACNmXj9M&t=19000s) — *there is* + -ing / -ed, *left* = «осталось»
-- [5:17:42](https://www.youtube.com/watch?v=1_FACNmXj9M&t=19062s) — практика
-
-**Урок 68. -ing клаузы: He hurt his knee playing football**
-
-- [5:02:22](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=18142s) — два действия одновременно: *Kate is in the kitchen making coffee*
-- [5:03:54](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=18234s) — действие во время другого, *while / when doing*
-- [5:04:24](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=18264s) — *having done*: одно действие раньше другого
-- [5:05:57](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=18357s) — причина: *feeling tired, being unemployed, not having*
-- [5:08:02](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=18482s) — практика
-
 ## Проверь себя
 
 ```quiz

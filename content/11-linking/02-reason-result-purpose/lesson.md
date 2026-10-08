@@ -147,28 +147,6 @@ sources:
 
 > **Типичная ошибка русскоговорящих:** ~~On the other side~~, ~~In other side~~, ~~From the other hand~~. Только ***On the other hand***. И не переводи «кроме того» как ~~except this~~ — это ***Besides*** / ***In addition***.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 64. To…, for… и so that… (цель)**
-
-- [3:48:13](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=13693s) — *to* + инфинитив цели
-- [3:49:49](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=13789s) — предлог в конце: *a chair to sit on, something to open it with*
-- [3:51:55](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=13915s) — *money, time, chance* + *to do*
-- [3:52:25](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=13945s) — *for* + существительное или *to* + глагол
-- [3:54:30](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=14070s) — *so that* + *can / could / would*
-- [3:57:37](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=14257s) — практика
-
-**Урок 116. As (as I walked… / as I was…)**
-
-- [0:57:55](https://www.youtube.com/watch?v=26J1ryERDWo&t=3475s) — *as* = в тот же момент
-- [0:59:32](https://www.youtube.com/watch?v=26J1ryERDWo&t=3572s) — *just as*
-- [1:01:02](https://www.youtube.com/watch?v=26J1ryERDWo&t=3662s) — *as* или *when*
-- [1:02:05](https://www.youtube.com/watch?v=26J1ryERDWo&t=3725s) — *as* = *because*, *since*
-- [1:03:38](https://www.youtube.com/watch?v=26J1ryERDWo&t=3818s) — *as he was on holiday* или *when he was on holiday*
-- [1:05:10](https://www.youtube.com/watch?v=26J1ryERDWo&t=3910s) — практика
-
 ## Проверь себя
 
 ```quiz

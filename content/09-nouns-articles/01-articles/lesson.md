@@ -208,37 +208,6 @@ sources:
 
 > **Типичная ошибка русскоговорящих:** ~~She plays piano and the volleyball~~. Наоборот: *She plays **the** piano and **volleyball***.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 72. A/an и the**
-
-- [1:01:46](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=3706s) — *a* для «какого-то», *the* для конкретного
-- [1:03:19](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=3799s) — второе упоминание: *a sandwich → the sandwich*
-- [1:06:26](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=3986s) — понятно из ситуации: *the light, the floor*
-- [1:07:28](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=4048s) — *the bank, the post office, the doctor, the gym*
-- [1:10:01](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=4201s) — *once a week, £2 a kilo*
-- [1:10:33](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=4233s) — практика
-
-**Урок 73. The, часть 1**
-
-- [1:24:36](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=5076s) — начало урока, произношение *the*
-- [1:25:40](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=5140s) — единственное в своём роде: *the equator, the capital, the end of*
-- [1:30:51](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=5451s) — *Earth* и *space* без артикля
-- [1:32:57](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=5577s) — *the cinema, the radio*, но *TV*; приёмы пищи
-- [1:35:00](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=5700s) — *platform 5, room 126, size 43* без артикля
-- [1:36:34](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=5794s) — практика
-
-**Урок 74. School или the school**
-
-- [1:47:17](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=6437s) — начало урока
-- [1:48:18](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=6498s) — *go to school* (учиться) и *go to the school* (как в здание)
-- [1:51:24](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=6684s) — *prison, hospital, university, church*
-- [1:53:31](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=6811s) — *go to bed, in bed, on the bed*
-- [1:54:32](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=6872s) — *go to work, go home, at home*
-- [1:56:04](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=6964s) — практика
-
 ## Проверь себя
 
 ```quiz

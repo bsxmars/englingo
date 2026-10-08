@@ -175,37 +175,6 @@ sources:
 
 > **Типичная ошибка русскоговорящих:** ~~What a nice weather!~~, ~~What a good news!~~ *weather* и *news* неисчисляемые → *What nice weather! What good news!*
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 79. Единственное и множественное число**
-
-- [3:27:08](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=12428s) — *trousers, pyjamas, glasses, scissors* и *a pair of*
-- [3:30:19](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=12619s) — *physics, economics, news* — единственное число
-- [3:31:21](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=12681s) — *means, series, species*
-- [3:33:29](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=12809s) — *the government, the team*: глагол в единственном или множественном
-- [3:36:05](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=12965s) — *people*, а не *persons*; суммы, сроки, расстояния — единственное число
-- [3:38:38](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=13118s) — практика
-
-**Урок 80. Noun + noun**
-
-- [3:52:29](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=13949s) — первое существительное как прилагательное: *a bus driver, income tax*
-- [3:54:32](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=14072s) — *-ing* в составе и три существительных подряд
-- [3:56:35](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=14195s) — *a coffee cup* и *a cup of coffee*
-- [3:58:37](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=14317s) — *a three-hour journey, a 14-year-old girl*
-- [4:00:08](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=14408s) — практика
-- [4:01:10](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=14470s) — *a race horse* и *a horse race*
-
-**Урок 81. Притяжательный падеж: 's и of**
-
-- [4:09:54](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=14994s) — 's для людей и животных: *Tom's computer*
-- [4:11:30](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=15090s) — *It's my sister's* — без существительного
-- [4:12:01](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=15121s) — длинная группа слов — через *of*; *my sisters'*
-- [4:14:38](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=15278s) — *Jack and Karen's children*: 's на последнем
-- [4:16:12](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=15372s) — *of* для вещей: *the beginning of, the top of*
-- [4:20:19](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=15619s) — практика
-
 ## Проверь себя
 
 ```quiz

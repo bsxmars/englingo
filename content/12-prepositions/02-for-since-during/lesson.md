@@ -143,48 +143,6 @@ sources:
 - *as* = «когда» — только для **одновременных** действий. Если одно идёт за другим, нужен *when*: ***When** I got home, I had dinner.*
 - Для периода жизни — тоже *when*: ***When** I was a child, I lived by the sea.* ~~As I was a child~~ прочитается как «так как я был ребёнком».
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 116. As (as I walked… / as I was…)**
-
-- [0:57:55](https://www.youtube.com/watch?v=26J1ryERDWo&t=3475s) — *as* — «когда, пока»: два действия одновременно
-- [1:00:02](https://www.youtube.com/watch?v=26J1ryERDWo&t=3602s) — *just as* — в тот самый момент; *as* — «по мере того как»
-- [1:02:05](https://www.youtube.com/watch?v=26J1ryERDWo&t=3725s) — *as* — «так как»
-
-**Урок 117. Like и as**
-
-- [1:15:02](https://www.youtube.com/watch?v=26J1ryERDWo&t=4502s) — *like* — «словно, похоже на»; *like this*
-- [1:17:54](https://www.youtube.com/watch?v=26J1ryERDWo&t=4674s) — *as / like* + предложение: *as I showed you*
-- [1:19:26](https://www.youtube.com/watch?v=26J1ryERDWo&t=4766s) — *as usual, as always, the same as*
-- [1:19:57](https://www.youtube.com/watch?v=26J1ryERDWo&t=4797s) — *do as you like, as you know, as I expected*
-- [1:21:32](https://www.youtube.com/watch?v=26J1ryERDWo&t=4892s) — *as* + существительное — «в качестве»: *as a taxi driver* и *like a taxi driver*
-- [1:24:06](https://www.youtube.com/watch?v=26J1ryERDWo&t=5046s) — практика
-
-**Урок 118. Like и as if**
-
-- [1:36:06](https://www.youtube.com/watch?v=26J1ryERDWo&t=5766s) — *look / sound / feel like* и *as if*
-- [1:37:36](https://www.youtube.com/watch?v=26J1ryERDWo&t=5856s) — *look tired*, *look like + существительное*, *look as if + предложение*
-- [1:39:52](https://www.youtube.com/watch?v=26J1ryERDWo&t=5992s) — прошедшее после *as if* для нереального: *as if he knew*
-- [1:42:33](https://www.youtube.com/watch?v=26J1ryERDWo&t=6153s) — практика
-
-**Урок 119. During, for, while**
-
-- [1:53:14](https://www.youtube.com/watch?v=26J1ryERDWo&t=6794s) — *during* + существительное
-- [1:54:49](https://www.youtube.com/watch?v=26J1ryERDWo&t=6889s) — *for* — как долго, *during* — когда
-- [1:55:52](https://www.youtube.com/watch?v=26J1ryERDWo&t=6952s) — *while* + подлежащее и глагол
-- [1:57:58](https://www.youtube.com/watch?v=26J1ryERDWo&t=7078s) — *while* + Present для будущего
-- [1:58:59](https://www.youtube.com/watch?v=26J1ryERDWo&t=7139s) — практика
-
-**Урок 120. By и until, by the time**
-
-- [2:06:51](https://www.youtube.com/watch?v=26J1ryERDWo&t=7611s) — *by* — не позже чем
-- [2:08:54](https://www.youtube.com/watch?v=26J1ryERDWo&t=7734s) — *until* и *by*: работать до 11:30 или закончить к 11:30
-- [2:09:55](https://www.youtube.com/watch?v=26J1ryERDWo&t=7795s) — *by the time* + Present для будущего и Past
-- [2:11:59](https://www.youtube.com/watch?v=26J1ryERDWo&t=7919s) — *by then, by that time*
-- [2:14:03](https://www.youtube.com/watch?v=26J1ryERDWo&t=8043s) — практика
-
 ## Проверь себя
 
 ```quiz

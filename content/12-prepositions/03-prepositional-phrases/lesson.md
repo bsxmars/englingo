@@ -151,58 +151,6 @@ sources:
 
 После предлога глагол всегда ставится в форме **-ing**: *I'm tired **of waiting**. She's good **at explaining** things. Thanks **for coming**.*
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 122. At the end и in the end**
-
-- [2:43:03](https://www.youtube.com/watch?v=26J1ryERDWo&t=9783s) — *at the end of* — в конце чего-то, *in the end* — в итоге
-- [2:44:35](https://www.youtube.com/watch?v=26J1ryERDWo&t=9875s) — *at the beginning*; *at first … in the end*
-- [2:50:18](https://www.youtube.com/watch?v=26J1ryERDWo&t=10218s) — практика
-
-**Урок 127. In, on, at: другие случаи**
-
-- [4:15:15](https://www.youtube.com/watch?v=26J1ryERDWo&t=15315s) — *in the rain, in the shade, in English, in dollars*
-- [4:16:49](https://www.youtube.com/watch?v=26J1ryERDWo&t=15409s) — *in a good mood, in my opinion*; *on TV, on fire, on purpose*
-- [4:17:52](https://www.youtube.com/watch?v=26J1ryERDWo&t=15472s) — *on holiday, on business, on strike, on a diet*
-- [4:19:23](https://www.youtube.com/watch?v=26J1ryERDWo&t=15563s) — *at the age of, at a speed of, at 100 degrees*
-- [4:20:28](https://www.youtube.com/watch?v=26J1ryERDWo&t=15628s) — практика
-
-**Урок 128. By**
-
-- [4:32:17](https://www.youtube.com/watch?v=26J1ryERDWo&t=16337s) — *by mistake, by chance*, но *on purpose*
-- [4:33:19](https://www.youtube.com/watch?v=26J1ryERDWo&t=16399s) — *by car*, но *in my car*, *on foot*
-- [4:35:51](https://www.youtube.com/watch?v=26J1ryERDWo&t=16551s) — *by hand, by card*, но *in cash*
-- [4:36:22](https://www.youtube.com/watch?v=26J1ryERDWo&t=16582s) — пассив: *by* — кто, *with* — чем
-- [4:37:28](https://www.youtube.com/watch?v=26J1ryERDWo&t=16648s) — *by the door*; разница: *increased by 10%*
-- [4:40:03](https://www.youtube.com/watch?v=26J1ryERDWo&t=16803s) — практика
-
-**Урок 129. Существительное + предлог**
-
-- [0:00:00](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=0s) — *need for, demand for, reason for*
-- [0:02:15](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=135s) — *advantage of* и *an advantage in / to doing*
-- [0:03:17](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=197s) — *increase in, damage to, solution to, attitude to*
-- [0:04:49](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=289s) — *relationship with* и *difference between*
-- [0:05:50](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=350s) — практика
-
-**Урок 130. Прилагательное + предлог, часть 1**
-
-- [0:18:04](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=1084s) — *nice of you* и *nice to me*
-- [0:20:41](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=1241s) — *angry with* человек *for*, *angry about* ситуация
-- [0:22:14](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=1334s) — *pleased / satisfied / disappointed with*
-- [0:23:17](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=1397s) — *surprised / shocked at, by*
-- [0:25:51](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=1551s) — *sorry about* и *sorry for*
-- [0:28:53](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=1733s) — практика
-
-**Урок 131. Прилагательное + предлог, часть 2**
-
-- [0:42:23](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=2543s) — *afraid, proud, ashamed, jealous, envious of*
-- [0:43:26](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=2606s) — *suspicious, aware, capable, short, typical of*
-- [0:44:57](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=2697s) — *good at, married to, similar to, different from, keen on*
-- [0:47:15](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=2835s) — *dependent on, crowded with, famous for*
-- [0:48:16](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=2896s) — практика
-
 ## Проверь себя
 
 ```quiz

@@ -138,19 +138,6 @@ answer: 2
 explain: "Болезнь — это «у меня есть», состояние → **I've got** (или *I have*). Сокращение *I've* в этом значении возможно только с *got*, а Continuous со «владением» нельзя."
 ```
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 17. Have и have got**
-
-- [5:49:18](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=20958s) — *have* = *have got*, без -ing
-- [5:50:59](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=21059s) — в прошедшем только *had*
-- [5:52:01](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=21121s) — вопросы и отрицания: три варианта
-- [5:54:37](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=21277s) — *have* как действие: *have breakfast, have a shower*
-- [5:58:43](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=21523s) — такое *have* в Continuous
-- [5:59:47](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=21587s) — практика
-
 ## Практика
 
 Сначала отличи владение от действия, потом поставь нужную форму *have*, а в конце исправь гибриды и кальки.

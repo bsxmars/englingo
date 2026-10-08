@@ -128,19 +128,6 @@ sources:
 
 > **Типичная ошибка русскоговорящих:** путать **in case** и **if**. *Take a map **in case** you get lost* — бери в любом случае, на всякий случай. *Call me **if** you get lost* — звони, только если заблудишься.
 
-## Видео
-
-Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
-
-**Урок 113. Although, though, even though, in spite of, despite**
-
-- [0:00:00](https://www.youtube.com/watch?v=26J1ryERDWo&t=0s) — *although* и *in spite of*: предложение или существительное
-- [0:02:01](https://www.youtube.com/watch?v=26J1ryERDWo&t=121s) — *although* или *because*
-- [0:02:31](https://www.youtube.com/watch?v=26J1ryERDWo&t=151s) — после *despite*: существительное, *this / what*, *-ing*
-- [0:04:02](https://www.youtube.com/watch?v=26J1ryERDWo&t=242s) — *in spite of* или *because of*
-- [0:05:32](https://www.youtube.com/watch?v=26J1ryERDWo&t=332s) — *though* в конце предложения, *even though*
-- [0:07:39](https://www.youtube.com/watch?v=26J1ryERDWo&t=459s) — практика
-
 ## Проверь себя
 
 ```quiz
