@@ -178,3 +178,71 @@
   lesson: 10-word-order/01a-degree-adverbs
   q: "*enough time* — а как «хватит этого шума»?"
   a: "**enough of** the noise. Перед *the / my / this* и местоимениями нужен **of**."
+- id: m10-always-have-to
+  lesson: 10-word-order/01-word-order
+  q: "Найди ошибку: *I have always to explain everything twice.*"
+  a: "*I **always have to** explain…* Наречие частоты стоит перед *have to*, как перед обычным глаголом."
+- id: m10-all-both-position
+  lesson: 10-word-order/01-word-order
+  q: "Переведи: «Мы все согласились», «Они оба уволились»."
+  a: "*We **all** agreed. They**'ve both** resigned.* (~~All we agreed~~) *all / both* стоят в середине предложения."
+- id: m10-still-negative
+  lesson: 10-word-order/01-word-order
+  q: "Чем *They still haven't replied* отличается от *They haven't replied yet*?"
+  a: "**still** + отрицание: «до сих пор не», с раздражением. **yet**: нейтральное «ещё не», стоит в конце."
+- id: m10-didnt-even
+  lesson: 10-word-order/01-word-order
+  q: "Найди ошибку: *He even didn't say goodbye.*"
+  a: "*He **didn't even** say goodbye.* *even* стоит после вспомогательного, перед смысловым глаголом."
+- id: m10-quite-a-surprise
+  lesson: 10-word-order/01a-degree-adverbs
+  q: "Что значит *It was quite a day!*?"
+  a: "«Ну и денёк!» **quite a** + существительное без прилагательного: что-то необычное, впечатляющее."
+- id: m10-i-quite-agree
+  lesson: 10-word-order/01a-degree-adverbs
+  q: "Как перевести *I quite agree* и *I don't quite understand*?"
+  a: "«Полностью согласен» (с *agree* quite = completely) и «не совсем понимаю»."
+- id: m10-pretty-article
+  lesson: 10-word-order/01a-degree-adverbs
+  q: "Найди ошибку: *She's got pretty a good job.*"
+  a: "*a **pretty** good job*: pretty стоит после артикля, как *very*. А *quite* стоит перед ним: *quite a good job*."
+- id: m10-tag-have
+  lesson: 10-word-order/02-questions
+  q: "Допиши хвостик: *She has a lovely voice, ___?*"
+  a: "***doesn't she?*** *have* здесь смысловой глагол, поэтому *do / does*. С *have got*: *haven't you?*"
+- id: m10-tag-request
+  lesson: 10-word-order/02-questions
+  q: "Вежливая просьба через хвостик: «Ты не одолжишь мне зарядку?»"
+  a: "*You couldn't lend me your charger, could you?* Отрицание + положительный хвостик, голос вверх."
+- id: m10-tag-never
+  lesson: 10-word-order/02-questions
+  q: "Допиши хвостик: *You've never been to Rome, ___?*"
+  a: "***have you?*** *never* уже отрицание, поэтому хвостик положительный."
+- id: m10-echo-question
+  lesson: 10-word-order/02a-short-answers
+  q: "— I've just got a new job! — «Правда? Поздравляю!»"
+  a: "***Have you?** Congratulations!* Вопрос-реакция повторяет вспомогательный **с той же полярностью**."
+- id: m10-echo-vs-tag
+  lesson: 10-word-order/02a-short-answers
+  q: "*Lisa isn't well.* — *Isn't she?* Почему не *Is she?*, как в хвостике?"
+  a: "Это реакция на чужую фразу: полярность **сохраняется**. Хвостик говорящий добавляет к своей фразе и **меняет** полярность."
+- id: m10-aux-contrast
+  lesson: 10-word-order/02a-short-answers
+  q: "Переведи: «Я не люблю ужастики, а жена любит»."
+  a: "*I don't like horror films, but my wife **does**.* Вспомогательный вместо повтора глагола."
+- id: m10-as-possible
+  lesson: 10-word-order/03-comparatives
+  q: "Переведи: «Ответь как можно скорее» и «Я бежал так быстро, как мог»."
+  a: "*Reply **as soon as possible**. I ran **as fast as I could**.*"
+- id: m10-as-much-money-as
+  lesson: 10-word-order/03-comparatives
+  q: "Переведи: «Я зарабатываю не так много, как ты»."
+  a: "*I don't earn **as much** (money) **as** you (do).* С исчисляемыми: *as many … as*."
+- id: m10-the-more-noun
+  lesson: 10-word-order/03-comparatives
+  q: "Найди ошибку: *The more I earn money, the more I spend.*"
+  a: "*The more **money** I earn, the more I spend.* Существительное идёт сразу за *the more*."
+- id: m10-further-info
+  lesson: 10-word-order/03-comparatives
+  q: "*further* или *farther*: «дополнительная информация»?"
+  a: "**further** information. *farther* — только о расстоянии, а *further* — и расстояние, и «дальнейший, дополнительный»."

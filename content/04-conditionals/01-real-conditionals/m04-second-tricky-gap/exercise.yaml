@@ -1,0 +1,41 @@
+title: "Тонкости второго типа: if he did, could, would be + -ing"
+type: gap
+intro: "Впиши недостающее. Где в скобках дан глагол, поставь его в нужную форму. Где скобок нет, впиши одно короткое слово, которое заменит уже названное действие (*did*, *could*, *were*)."
+hints:
+  - "Нереальное условие → Past Simple: did, could, were."
+  - "Нереальное действие прямо сейчас → would be + -ing."
+  - "Реальный план → Present Simple в условии, воображаемый → Past Simple."
+items:
+  - q: "I don't think Max will resign. I'd be really surprised if he ___."
+    answers: ["did", "resigned", "did so"]
+    explain: "Нереальное условие → Past Simple. Чтобы не повторять *resign*, достаточно **did**: *I'd be surprised if he did.*"
+  - q: "I'd love to come to your talk, and I would if I ___ — but I'm flying to Oslo that day."
+    answers: ["could"]
+    explain: "*if I **could*** заменяет *if I were able to come*. В части с *if* — прошедшая форма *could*, а не *can*."
+  - q: "She ___ (can) get a much better job if she could speak German."
+    answers: ["could", "would be able to"]
+    explain: "В результате **could** = *would be able to* («смогла бы»). *could* может стоять в обеих частях: в условии оно значит «умела бы»."
+  - q: "If I were you, I ___ (not / sit) here doing nothing — I'd be updating my CV."
+    answers: ["wouldn't be sitting", "would not be sitting", "wouldn't sit", "would not sit"]
+    explain: "Речь о том, что происходит прямо сейчас, поэтому естественнее **would be + -ing**: *I wouldn't be sitting here*. Простое *wouldn't sit* тоже грамматично."
+  - q: "We're not going to sell the house. Even if we ___, we wouldn't get much for it."
+    answers: ["did", "sold it", "sold", "did so"]
+    explain: "Продавать не собираемся → нереальное условие, Past Simple. **did** заменяет *sold the house*."
+  - q: "Why are you still here? If I had a flight at six, I ___ (pack) right now!"
+    answers: ["would be packing", "'d be packing"]
+    explain: "*right now* — действие в процессе в воображаемой ситуации → **would be packing**."
+  - q: "If we ___ (go) to Rome in May — it's just an idea — would you come with us?"
+    answers: ["went"]
+    explain: "«Просто идея», поездка не решена → второй тип: **went** … *would you come*."
+  - q: "We've already booked the flights to Rome. If you ___ (want) to join us, there's a spare bed in the flat."
+    answers: ["want"]
+    explain: "Поездка решена, условие реальное → Present Simple: **want**."
+  - q: "He'd be much happier if he ___ (can) work from home more often."
+    answers: ["could", "was able to", "were able to"]
+    explain: "В условии *can* становится **could** (= *was able to*). *If he can…* сделало бы условие реальным, а результат с *would* требует нереального."
+  - q: "I'm not a morning person. If I ___, I'd go to the gym before work."
+    answers: ["were", "was"]
+    explain: "**were** (или разговорное *was*) заменяет *were a morning person*. Повторять всю фразу не нужно."
+  - q: "If the printer ___ (work), I'd print the tickets, but it's been broken for a week."
+    answers: ["worked", "was working", "were working"]
+    explain: "Принтер сломан — нереальное настоящее → **worked**. *was working* тоже подходит: речь о состоянии «сейчас работает»."

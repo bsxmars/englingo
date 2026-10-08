@@ -158,3 +158,39 @@
   lesson: 07-clauses/01a-prepositions-relative
   q: "Найди ошибку: *That was the moment where I understood everything.*"
   a: "Время → **when**: *the moment **when** I understood*. *where* — для места и ситуаций."
+- id: m07-that-after-everything
+  lesson: 07-clauses/01-defining-relative
+  q: "Найди ошибку: *There's nothing what we can do.*"
+  a: "После *nothing / everything / all / anything* — **that** или ничего: *There's nothing (that) we can do.*"
+- id: m07-superlative-that
+  lesson: 07-clauses/01-defining-relative
+  q: "Можно ли опустить *that*: *It's the best thing that has ever happened to me.*"
+  a: "Нет: *thing* — подлежащее придаточного (она «случилась»). А в *the best film (that) I've ever seen* — можно, там объект."
+- id: m07-half-of-which
+  lesson: 07-clauses/02-non-defining
+  q: "Переведи: «Он выиграл 10 000, половину из которых отдал родителям»."
+  a: "He won 10,000, **half of which** he gave to his parents."
+- id: m07-cause-of-which
+  lesson: 07-clauses/02-non-defining
+  q: "Скажи книжно через *of which*: *a fire whose cause is unknown*."
+  a: "a fire, **the cause of which** is unknown"
+- id: m07-which-is-why
+  lesson: 07-clauses/02-non-defining
+  q: "«Поезда бастовали, поэтому мы приехали на машине» — одним предложением с *which*."
+  a: "The trains were on strike, **which is why** we came by car."
+- id: m07-ing-at-end
+  lesson: 07-clauses/03-participle-clauses
+  q: "Переведи: «Он повредил колено, играя в футбол»."
+  a: "He hurt his knee **(while) playing** football. Не ~~during playing~~: после *during* — существительное."
+- id: m07-there-kids-swimming
+  lesson: 07-clauses/03-participle-clauses
+  q: "Переведи: «В озере купались дети»."
+  a: "**There were some kids swimming** in the lake."
+- id: m07-nothing-left
+  lesson: 07-clauses/03-participle-clauses
+  q: "Как сказать «Молока не осталось»?"
+  a: "There's no milk **left**. (*left* = V3 от *leave*, не ~~leaving~~)"
+- id: m07-someone-called
+  lesson: 07-clauses/03-participle-clauses
+  q: "Что значит *A man called Oleg phoned you*?"
+  a: "Звонил мужчина **по имени** Олег. *called* = *who is called*, а не «позвонивший Олегу»."

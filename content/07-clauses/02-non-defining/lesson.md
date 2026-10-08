@@ -6,6 +6,8 @@ sources:
   - {title: "Perfect English Grammar: Which or That", url: "https://www.perfect-english-grammar.com/which-or-that-exercise.html"}
   - {title: "Perfect English Grammar: Who or Whom", url: "https://www.perfect-english-grammar.com/who-or-whom-exercise.html"}
   - {title: "Perfect English Grammar: Relative Clauses (3)", url: "https://www.perfect-english-grammar.com/relative-clauses-exercise-3.html"}
+  - {title: "Видео Vlad and English: урок 95 — придаточные с дополнительной информацией (1)", url: "https://www.youtube.com/watch?v=1_FACNmXj9M&t=15906s"}
+  - {title: "Видео Vlad and English: урок 96 — придаточные с дополнительной информацией (2)", url: "https://www.youtube.com/watch?v=1_FACNmXj9M&t=17274s"}
 ---
 В русском запятая перед «который» ставится всегда. В английском запятые **меняют смысл**, и это различие проверяют на B2 First и в письменных заданиях.
 
@@ -54,6 +56,13 @@ Non-defining-придаточные стоят после имён собств�
 
 > **Типичная ошибка:** ~~He was late, what annoyed everyone.~~ Русское «что» тянет за собой *what*, но здесь нужен только **which**. И не *that*, и не *it*: ~~…, it annoyed everyone~~ — это уже два предложения, склеенные запятой.
 
+Частые продолжения, которые стоит выучить целиком: *…, **which means** we…*, *…, **which is why** I…* («поэтому»), *…, **which was a shame / a relief***, *…, **which is good news***.
+
+Если глаголу в придаточном нужен предлог, он ведёт себя как обычно: уходит в конец или встаёт перед *which*.
+
+- She was twenty minutes late, **which** she apologised **for**.
+- She was twenty minutes late, **for which** she apologised. (формально)
+
 ## some of whom, most of which
 
 Когда надо сказать «некоторые из которых», «большинство из которых», «оба из которых», английский использует **количественное слово + of + whom / which**:
@@ -72,6 +81,25 @@ Non-defining-придаточные стоят после имён собств�
 
 > **B2-уровень:** конструкция *some of whom / most of which* — сильный маркер уровня в эссе и отчётах. Одна такая фраза в тексте показывает экзаменатору, что ты владеешь сложным синтаксисом.
 
+### half of which, a few of whom, the name of which
+
+Перед *of whom / of which* может стоять любое слово количества, не только из таблицы: **half of which**, **a few of whom**, **each of which**, **several of which**, **the majority of whom**, числа (**two of whom**) и превосходная степень (**the oldest of whom**).
+
+- He earned €3,000 last month, **half of which** went on rent.
+- The course has twelve modules, **each of which** ends with a test.
+- I have four cousins, **the oldest of whom** is a surgeon.
+
+Так же строится **существительное + of which** — книжная замена *whose* для вещей: *the name of which*, *the cause of which*, *the aim of which*.
+
+- There was a fire in the warehouse, **the cause of which** is still unknown. (= *whose cause*)
+- We stayed in a tiny hotel, **the name of which** I've forgotten.
+
+> **Типичная ошибка русскоговорящих:** «половину из которых он отдал родителям» → ~~half of them he gave to his parents~~ или ~~half of what he gave~~. Нужно **half of which** he gave to his parents. В разговоре проще разбить на два предложения или связать союзом: *…, **and** he gave half of it to his parents.*
+
+Не путай с defining без запятых: *Only **a few of the people who** applied had the right experience.* Здесь придаточное уточняет, о каких людях речь, поэтому обычное *who*.
+
+> **B2-уровень:** в живой речи такие конструкции редки: носитель скорее скажет *I've got two brothers, **and both of them** are doctors*. С союзом *and* это нормальное предложение, без него — склейка. Но в эссе и отчёте *both of whom, half of which, the cause of which* — именно то, за что дают баллы за грамматический диапазон.
+
 ## Предлоги в non-defining
 
 В неопределяющих придаточных, особенно письменных, предлог чаще ставится **перед** местоимением:
@@ -80,6 +108,26 @@ Non-defining-придаточные стоят после имён собств�
 - My manager, **to whom** I reported every week, left in May.
 
 В разговоре можно и в конце: *My manager, who I reported to every week, left in May.* Но опустить местоимение нельзя: ~~My manager, I reported to every week, …~~
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 95. Придаточные с дополнительной информацией, часть 1**
+
+- [4:25:06](https://www.youtube.com/watch?v=1_FACNmXj9M&t=15906s) — тип 1: придаточное уточняет, о ком речь, без запятых
+- [4:27:08](https://www.youtube.com/watch?v=1_FACNmXj9M&t=16028s) — тип 2: дополнительная информация, запятые
+- [4:29:46](https://www.youtube.com/watch?v=1_FACNmXj9M&t=16186s) — в типе 2 нельзя *that* и нельзя опустить местоимение
+- [4:32:24](https://www.youtube.com/watch?v=1_FACNmXj9M&t=16344s) — практика
+- [4:43:01](https://www.youtube.com/watch?v=1_FACNmXj9M&t=16981s) — найди ошибку: *that* после запятой
+
+**Урок 96. Придаточные с дополнительной информацией, часть 2**
+
+- [4:47:54](https://www.youtube.com/watch?v=1_FACNmXj9M&t=17274s) — предлог + *whom / which*
+- [4:49:27](https://www.youtube.com/watch?v=1_FACNmXj9M&t=17367s) — *all of whom, most of which, none of which*
+- [4:50:57](https://www.youtube.com/watch?v=1_FACNmXj9M&t=17457s) — *the cause of which, the name of which*
+- [4:51:28](https://www.youtube.com/watch?v=1_FACNmXj9M&t=17488s) — *which* про всё предложение, а не *what*
+- [4:53:30](https://www.youtube.com/watch?v=1_FACNmXj9M&t=17610s) — практика
 
 ## Проверь себя
 
@@ -113,4 +161,9 @@ explain: "Без запятых — **defining**: придаточное выд�
 И напоследок — собери non-defining-предложения сам: местоимение после запятой, *where / when* в добавочной части, *which* про всё предложение.
 
 ```exercise m07-adding-order
+```
+
+Ещё одно упражнение — на *half of which, each of which, the cause of which* и *which* про всё предложение.
+
+```exercise m07-of-which-gap
 ```

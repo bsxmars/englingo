@@ -1,0 +1,44 @@
+title: "as … as possible, as much … as, the more…"
+type: gap
+intro: "Впиши пропущенное слово. Если в скобках дано прилагательное, поставь его в нужную форму."
+hints:
+  - "as … as possible, as many / as much + существительное + as."
+  - "После than / as — подлежащее + вспомогательный: than I do, as he can."
+  - "Притяжательное слово заменяет the: my best friend."
+items:
+  - q: "Please reply as ___ as possible. We need an answer today."
+    answers: ["soon", "quickly"]
+    explain: "Устойчивое **as soon as possible** — «как можно скорее». *as quickly as possible* тоже верно."
+  - q: "We didn't get as ___ visitors as last summer."
+    answers: ["many"]
+    explain: "*visitors* — исчисляемое во множественном числе → **as many … as**."
+  - q: "I don't earn as ___ money as my brother does."
+    answers: ["much"]
+    explain: "*money* — неисчисляемое → **as much … as**."
+  - q: "You know this city much better than I ___."
+    answers: ["do"]
+    explain: "После *than* повторяем вспомогательный: *than I do* (= than I know it). В разговоре — *than me*."
+  - q: "I tried as hard as I ___, but I still failed the test."
+    answers: ["could"]
+    explain: "**as … as I could** — «изо всех сил, насколько мог». В прошлом обычно *could*."
+  - q: "The ___ (expensive) the hotel, the better the service."
+    answers: ["more expensive"]
+    explain: "**The** + сравнительная, **the** + сравнительная. Глагол *is* в такой короткой фразе можно опустить."
+  - q: "The more tired I am, the more difficult ___ is to concentrate."
+    answers: ["it"]
+    explain: "В обычной фразе *it is difficult to concentrate*, и *it is* в конструкции *the more…* сохраняется."
+  - q: "Applications must arrive no ___ than 15 May."
+    answers: ["later"]
+    explain: "**no later than** — «не позднее»."
+  - q: "For ___ information, please contact our office."
+    answers: ["further", "more"]
+    explain: "**further** = «дополнительный»: *further information*. *more information* тоже верно."
+  - q: "This is the ___ (boring) film I've seen this year."
+    answers: ["most boring"]
+    explain: "Прилагательные на *-ing* сравниваются только через *more / most*: *the most boring*."
+  - q: "Anna is my ___ (good) friend. We've known each other since school."
+    answers: ["best"]
+    explain: "Притяжательное *my* заменяет *the*: *my best friend*."
+  - q: "It was the happiest day ___ my life."
+    answers: ["of", "in"]
+    explain: "С периодом времени обычно **of**: *the happiest day of my life*. *in my life* тоже встречается."

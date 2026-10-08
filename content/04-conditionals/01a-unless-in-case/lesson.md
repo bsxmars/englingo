@@ -6,6 +6,8 @@ sources:
   - {title: "Perfect English Grammar: First Conditional", url: "https://www.perfect-english-grammar.com/first-conditional-exercise-1.html"}
   - {title: "Perfect English Grammar: Linking Words of Contrast", url: "https://www.perfect-english-grammar.com/linking-words-contrast-exercise-1.html"}
   - {title: "englisch-hilfen — список грамматических упражнений", url: "https://www.englisch-hilfen.de/en/exercises_list/alle_grammar.htm"}
+  - {title: "Видео Vlad and English: урок 114 — In case", url: "https://www.youtube.com/watch?v=26J1ryERDWo&t=1290s"}
+  - {title: "Видео Vlad and English: урок 115 — Unless, as long as, provided", url: "https://www.youtube.com/watch?v=26J1ryERDWo&t=2343s"}
 ---
 В русском почти любое условие укладывается в «если»: «если не», «только если», «даже если», «на случай, если», «а если…». В английском у каждого оттенка своё слово, и в B2 First их проверяют постоянно — особенно в перефразировании (Part 4) и open cloze (Part 2). Урок «Если: zero, first, second» дал базу; здесь разбираем тонкости: когда *unless* нельзя, чем *even if* отличается от *even though*, почему *in case* не равно *if* и куда деть *otherwise*.
 
@@ -29,6 +31,18 @@ sources:
 | вопрос | *What will you do **if** she **doesn't** call?* | ~~unless she calls~~ звучит странно |
 
 > **Типичная ошибка русскоговорящих:** переводить «если не» механически через *unless*. ~~I'll be surprised unless he wins~~ → *I'll be surprised **if** he **doesn't** win.* Проверка: можно ли сказать «**если только** он не…»? Если нет — бери *if … not*.
+
+### unless: ещё три употребления
+
+| Употребление | Пример | Смысл |
+|---|---|---|
+| оговорка в конце: «если ты, конечно, не…» | *I'll head off now — **unless** you'd like me to stay.* / *Let's take the tram, **unless** you'd rather walk.* | вежливо оставляем собеседнику другой вариант |
+| короткий ответ **Not unless…** | *— Should I call the client? — **Not unless** he emails first.* | «нет, только если…»: отказ с единственным исключением |
+| во втором типе: **unless** + Past Simple | *She'd never ask for help **unless** she **was** desperate.* | сдвиг времён тот же, что после *if* |
+
+Ещё одна удобная проверка: *unless* почти всегда можно заменить на **except if** («кроме случая, когда»): *The doctor won't see you **unless** it's urgent* = *…**except if** it's urgent.*
+
+> **Типичная ошибка русскоговорящих:** путать *unless* и *as long as*, когда в условии стоит «если». ~~I walk to work unless I have plenty of time~~ означает «хожу пешком, кроме случаев, когда времени много», то есть смысл перевёрнут. Нужно *I walk to work **as long as** I have plenty of time* или *…**if** I have plenty of time*. Проверяй: «если не» → *unless*, «при условии что» → *as long as*.
 
 ## as long as, provided, on condition that: строгое условие
 
@@ -64,6 +78,8 @@ sources:
 |---|---|---|
 | **in case** + Present | меры на будущее | *Save a copy **in case** the file **gets** corrupted.* |
 | **in case** + Past Simple | меры, принятые в прошлом | *I took a jumper **in case** it **got** cold.* |
+| **in case** + Present Perfect | вдруг это уже случилось | *I'll remind them about the meeting **in case** they**'ve forgotten**.* |
+| **in case** + Past Perfect | вдруг это уже случилось (в прошлом) | *I knocked again **in case** they **hadn't heard** me.* |
 | **in case** + should | «вдруг всё-таки», формальнее | *Keep the receipt **in case** you **should** need to return it.* |
 | **just in case** | «на всякий случай», в конце фразы | *I'll bring some cash, **just in case**.* |
 | **in case of** + сущ. | официальные надписи | ***In case of** fire, use the stairs.* |
@@ -111,6 +127,26 @@ sources:
 | иначе, а то | otherwise, or (else) |
 | если бы не | but for, without, if it hadn't been for |
 
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 114. In case**
+
+- [0:21:30](https://www.youtube.com/watch?v=26J1ryERDWo&t=1290s) — *in case*: после него нет *will*
+- [0:23:31](https://www.youtube.com/watch?v=26J1ryERDWo&t=1411s) — *just in case* в конце фразы
+- [0:25:03](https://www.youtube.com/watch?v=26J1ryERDWo&t=1503s) — *in case* или *if*: делаем заранее или по факту
+- [0:27:39](https://www.youtube.com/watch?v=26J1ryERDWo&t=1659s) — *in case* + прошедшее, *in case of*
+- [0:29:13](https://www.youtube.com/watch?v=26J1ryERDWo&t=1753s) — практика
+
+**Урок 115. Unless, as long as, provided**
+
+- [0:39:03](https://www.youtube.com/watch?v=26J1ryERDWo&t=2343s) — *unless* = *if … not* = *except if*
+- [0:41:09](https://www.youtube.com/watch?v=26J1ryERDWo&t=2469s) — *Not unless…*, *unless* во втором типе и как оговорка
+- [0:42:11](https://www.youtube.com/watch?v=26J1ryERDWo&t=2531s) — *as long as*, *provided / providing*
+- [0:43:42](https://www.youtube.com/watch?v=26J1ryERDWo&t=2622s) — без *will* после условных союзов
+- [0:45:18](https://www.youtube.com/watch?v=26J1ryERDWo&t=2718s) — практика
+
 ## Проверь себя
 
 ```quiz
@@ -141,4 +177,7 @@ explain: "Результат — эмоция из-за того, что ты **
 ```
 
 ```exercise m04-unless-transform
+```
+
+```exercise m04-unless-order
 ```

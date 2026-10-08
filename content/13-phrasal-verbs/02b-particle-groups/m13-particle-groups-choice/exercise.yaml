@@ -1,0 +1,56 @@
+title: "Выбери фразовый глагол по смыслу"
+type: choice
+intro: "Во всех вариантах один глагол или одна частица. Выбери тот, что подходит по смыслу."
+hints:
+  - "put sb off — отбить желание; tell sb off — отругать; rip sb off — обобрать."
+  - "make up — составлять; take up — занимать (место, время); hold up — задержать."
+  - "work out — получиться; обойтись в сумму; тренироваться."
+items:
+  - q: "I wanted to see the exhibition, but the huge queue ___."
+    options: ["put me off", "told me off", "showed me off"]
+    answer: 0
+    explain: "**put sb off** — отбить желание. Очередь «оттолкнула», и идти расхотелось."
+  - q: "My mum ___ for coming home at three in the morning."
+    options: ["put me off", "told me off", "saw me off"]
+    answer: 1
+    explain: "**tell sb off (for)** — отругать, отчитать. *for* + причина или *-ing*."
+  - q: "They charged us €12 for a small coffee. We were ___!"
+    options: ["ripped off", "shown off", "dropped off"]
+    answer: 0
+    explain: "**be ripped off** — заплатить слишком много, быть обобранным. Существительное: *a rip-off*."
+  - q: "Sorry I'm late — I was ___ in traffic for forty minutes."
+    options: ["held up", "mixed up", "made up"]
+    answer: 0
+    explain: "**hold up** — задержать; в пассиве *be held up*. *mix up* — перепутать, *make up* — выдумать, составлять."
+  - q: "Students ___ about 40% of the town's population."
+    options: ["take up", "make up", "hold up"]
+    answer: 1
+    explain: "**make up** — составлять (долю): *make up 40% of*. *take up* — занимать место или время."
+  - q: "I sold my piano because it ___ too much space."
+    options: ["made up", "took up", "held up"]
+    answer: 1
+    explain: "**take up space / time** — занимать место или время."
+  - q: "I always ___ the two sisters — they look so alike."
+    options: ["mix up", "make up", "do up"]
+    answer: 0
+    explain: "**mix up** — перепутать. Существительное *a mix-up* — путаница."
+  - q: "If we book now, the holiday ___ at about £300 each."
+    options: ["works out", "turns up", "carries out"]
+    answer: 0
+    explain: "**work out at** + сумма — «выходит, обходится в». *turn up* — появиться, *carry out* — провести."
+  - q: "Scientists are ___ a series of experiments on the new vaccine."
+    options: ["carrying out", "trying on", "working out"]
+    answer: 0
+    explain: "Проводить (исследование, эксперимент, ремонт) — **carry out**. *try on* — примерить одежду."
+  - q: "He said he was collecting for a charity, and we were completely ___."
+    options: ["taken in", "taken up", "taken off"]
+    answer: 0
+    explain: "**be taken in** — быть обманутым. *take up* — начать (хобби), *take off* — снять, взлететь."
+  - q: "Look at him doing tricks on his bike — he's just ___."
+    options: ["showing off", "going off", "putting off"]
+    answer: 0
+    explain: "**show off** — выпендриваться, рисоваться. Существительное: *a show-off* — хвастун."
+  - q: "I'm not sure about the dates. I'll check my calendar and ___ you."
+    options: ["get back to", "get away with", "keep away from"]
+    answer: 0
+    explain: "**get back to sb** — ответить позже. *get away with* — избежать наказания, *keep away from* — держаться подальше."

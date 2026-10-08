@@ -1,0 +1,55 @@
+title: "still, yet, already, even: смысл и место"
+type: choice
+intro: "Выбери вариант, который подходит по смыслу и по порядку слов."
+hints:
+  - "still + отрицание — «до сих пор не» с раздражением; yet — нейтральное «ещё не», в конце."
+  - "even — перед тем, что удивляет; перед придаточным — even if / even though."
+items:
+  - q: "I emailed them three weeks ago, and they ___ replied!"
+    options: ["still haven't", "haven't still", "yet haven't"]
+    answer: 0
+    explain: "*still* стоит **перед** отрицанием и передаёт раздражение: прошло слишком много времени."
+  - q: "— Is the report ready? — Not ___. Give me an hour."
+    options: ["yet", "still", "already"]
+    answer: 0
+    explain: "*Not yet* — «ещё нет»: нейтральный ответ, что дело ещё не сделано."
+  - q: "You're leaving ___? The party has only just started!"
+    options: ["already", "yet", "still"]
+    answer: 0
+    explain: "*already* в вопросе выражает удивление: «уже?! так рано?»."
+  - q: "The hotel was far from the beach. ___, it was clean and the staff were lovely."
+    options: ["Still", "Already", "Even"]
+    answer: 0
+    explain: "*Still* в начале предложения значит «тем не менее, всё же»."
+  - q: "Nobody remembered my birthday, ___ my sister."
+    options: ["not even", "even not", "neither even"]
+    answer: 0
+    explain: "Устойчивый порядок: **not even** + то, что удивляет. *even not* не бывает."
+  - q: "It's a tiny village. There isn't ___ a shop."
+    options: ["even", "yet", "still"]
+    answer: 0
+    explain: "*isn't even* — «нет даже»: магазин есть почти везде, поэтому его отсутствие удивляет."
+  - q: "We ___ to fill in this form every month."
+    options: ["always have", "have always", "are always having"]
+    answer: 0
+    explain: "Наречие частоты стоит **перед** *have to*: *always have to*."
+  - q: "He keeps saying he'll stop smoking, but he ___."
+    options: ["never does", "does never", "never"]
+    answer: 0
+    explain: "Смысловой глагол опущен, поэтому наречие стоит **перед** вспомогательным: *never does*."
+  - q: "— Are your parents coming? — Yes, they ___ coming on Sunday."
+    options: ["are both", "both", "both is"]
+    answer: 0
+    explain: "*both* стоит после *be* (или первого вспомогательного): *they are both coming*."
+  - q: "This phone is good, but the new model is ___ better."
+    options: ["even", "very", "more"]
+    answer: 0
+    explain: "С comparative усиливаем через **even** («ещё лучше»). *very better* и *more better* — ошибки."
+  - q: "I'll ___ be at work when you arrive, so take the spare key."
+    options: ["still", "yet", "already"]
+    answer: 0
+    explain: "*still* — «всё ещё»: я буду на работе и в момент твоего приезда. *yet* в утвердительном предложении так не ставится."
+  - q: "We'll go to the beach ___ it rains. It's our last day!"
+    options: ["even if", "even", "if"]
+    answer: 0
+    explain: "«Даже если» — **even if** + придаточное. Одно *even* перед придаточным не ставится, а простое *if* дало бы обратный смысл: пойдём только при дожде."

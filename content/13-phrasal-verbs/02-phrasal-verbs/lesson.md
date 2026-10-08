@@ -6,6 +6,7 @@ sources:
   - {title: "Perfect English Grammar: фразовые глаголы, упражнение 1", url: "https://www.perfect-english-grammar.com/phrasal-verbs-exercise-1.html"}
   - {title: "Perfect English Grammar: фразовые глаголы, упражнение 2", url: "https://www.perfect-english-grammar.com/phrasal-verbs-exercise-2.html"}
   - {title: "Perfect English Grammar: фразовые глаголы, упражнение 3", url: "https://www.perfect-english-grammar.com/phrasal-verbs-exercise-3.html"}
+  - {title: "Видео Vlad and English: урок 137 — фразовые глаголы 1, введение", url: "https://www.youtube.com/watch?v=b9ap7lAe9z4&t=0s"}
 ---
 Носители почти не говорят *postpone*, *continue*, *discover* и *tolerate* — они говорят *put off*, *carry on*, *find out*, *put up with*. Фразовые глаголы — основа живого английского: без них речь звучит как перевод официального письма. Русскоговорящие их избегают, потому что значение не всегда складывается из частей. Но у частиц есть свои значения, а у порядка слов — чёткие правила, и это снимает половину трудностей.
 
@@ -58,6 +59,21 @@ sources:
 
 Бывают и **непереходные** фразовые глаголы — без дополнения вообще: *The plane **took off**. My car **broke down**. Prices **went up**. Don't **give up**!*
 
+### Частица или предлог: in / into, out / out of
+
+Частица *in* или *out* стоит в конце, когда **места не названо**. Как только появляется «куда» или «откуда», нужен предлог: *in* → **into**, *out* → **out of**.
+
+| Без места (частица) | С местом (предлог) |
+|---|---|
+| *The door was open, so we **got in**.* | *We **got into** the car.* |
+| *Thieves **broke in** last night.* | *Thieves **broke into** the office.* |
+| *She swam to the edge and **climbed out**.* | *She **climbed out of** the pool.* |
+| *The driver stopped and **got out**.* | *The driver **got out of** the taxi.* |
+
+> **Типичная ошибка русскоговорящих:** ~~She climbed out the pool~~, ~~Get out the car~~. В британском английском и в письменной речи нужен **out of**: *climb **out of** the pool, get **out of** the car*. (*out the window, out the door* встречается в разговорном американском, но на экзамене пиши *out of*.)
+
+Частицы **on** и **off** могут работать и как прилагательные после *be*: *The light **is on**. The heating **is off**.* А *The match **is off*** значит «матч отменён» (= *has been called off*), *I'm **off** to Paris tomorrow* — «уезжаю в Париж».
+
 ## Значения частиц
 
 Частица — главный ключ к смыслу. Одна частица может иметь несколько значений:
@@ -109,6 +125,18 @@ sources:
 | **take off** | взлететь; снять одежду | *The plane **took off** late.* |
 
 > **Типичная ошибка русскоговорящих:** ~~gave up to smoke~~ → *gave up **smoking***. После *give up, carry on, put off, keep on* глагол идёт в форме **-ing**.
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 137. Фразовые глаголы: введение**
+
+- [0:00:00](https://www.youtube.com/watch?v=b9ap7lAe9z4&t=0s) — что такое фразовый глагол, почему частицу нельзя переводить буквально
+- [0:01:37](https://www.youtube.com/watch?v=b9ap7lAe9z4&t=97s) — глаголы движения: *get on, drive off, come back, turn round*
+- [0:03:10](https://www.youtube.com/watch?v=b9ap7lAe9z4&t=190s) — новый смысл: *break down, find out, take off, give up, get on, get by*
+- [0:11:27](https://www.youtube.com/watch?v=b9ap7lAe9z4&t=687s) — порядок слов: *turn on the light*, *turn the light on*, *turn it on*
+- [0:17:08](https://www.youtube.com/watch?v=b9ap7lAe9z4&t=1028s) — практика
 
 ## Проверь себя
 

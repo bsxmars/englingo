@@ -5,6 +5,8 @@ sources:
   - {title: "Oxford Practice Grammar — просьбы, предложения и приглашения; will, would, shall, should", url: "https://elt.oup.com/catalogue/items/global/grammar_vocabulary/oxford_practice_grammar/"}
   - {title: "Agenda Web — упражнения по грамматике", url: "https://agendaweb.org/"}
   - {title: "English Galaxy — видеокурс (повторить базу модальных)", url: "https://vk.com/video/playlist/-98069659_15"}
+  - {title: "Видео Vlad and English: урок 37 — просьбы и предложения: can, could, would you", url: "https://www.youtube.com/watch?v=V-cRBDeMn6I&t=24791s"}
+  - {title: "Видео Vlad and English: урок 36 — would", url: "https://www.youtube.com/watch?v=V-cRBDeMn6I&t=23252s"}
 ---
 По-русски вполне вежливо сказать коллеге «Скинь мне файл, пожалуйста». Прямой перевод *Send me the file, please* по-английски звучит как приказ — даже с *please*. Англичане и американцы почти всегда оборачивают просьбу в вопрос: *Could you send me the file?* Это не формальность, а норма: без неё ты кажешься грубым, хотя этого не хотел. В этом уроке — готовые формулы для просьб, предложений и приглашений и то, как на них отвечать.
 
@@ -15,6 +17,7 @@ sources:
 | **Can you…?** | обычный, с друзьями и коллегами | *Can you pass me the salt?* |
 | **Could you…?** | вежливее, универсально | *Could you close the door, please?* |
 | **Would you mind + -ing?** | очень вежливо, когда просишь об услуге | *Would you mind waiting a few minutes?* |
+| **Do you think you could…?** | мягко, когда просьба большая или неудобная | *Do you think you could give me a lift to the airport?* |
 | **I wonder if you could…** | максимально мягко, формально | *I wonder if you could help me with this form.* |
 
 ### Would you mind… и как на это отвечать
@@ -32,6 +35,10 @@ sources:
 
 - *Do you mind if I **sit** here?* — *No, go ahead.*
 - *Would you mind if I **opened** the window?*
+
+Ещё одна частая формула — **Is it all right / OK if I…?**: *Is it OK if I leave half an hour early today?* — *Sure, no problem.*
+
+Как отказать: *Actually, I'd rather you didn't.* — «вообще-то, лучше не надо». Ответ *Yes, I do* на *Do you mind…?* значит «да, возражаю» — это прямой и довольно резкий отказ.
 
 > **Типичная ошибка русскоговорящих:** ~~Would you mind to help me?~~ → *Would you mind **helping** me?* И ещё: на *Would you mind…?* хочется ответить «Да, конечно!» — ~~Yes, of course~~. Носитель услышит «Да, конечно, возражаю». Безопасный ответ: ***Not at all*** / ***Sure, no problem***.
 
@@ -53,6 +60,7 @@ sources:
 | **I'll…** | *That bag looks heavy. **I'll** carry it.* |
 | **Shall I…?** | ***Shall I** call a taxi for you?* |
 | **Can I…?** | ***Can I** get you anything?* |
+| **Can I give you a hand?** | *That looks heavy — **can I give you a hand**?* — *No, it's all right, I can manage. Thanks.* |
 
 *I'll* здесь — решение, принятое в момент речи. Не ~~I carry it~~ и не ~~I'm going to carry it~~.
 
@@ -98,11 +106,43 @@ sources:
 - *A holiday in Italy? That **would** be lovely!* — о возможной ситуации.
 - *She worked all night. She knew she **would** be exhausted the next day.* — прогноз из прошлого.
 
+*would* — это английское «бы». Самые частые случаи:
+
+| Функция | Пример |
+|---|---|
+| хотел бы, но не получается | *I**'d** stay longer, but I have to catch a train.* Сравни: *I**'ll** stay longer — I've got plenty of time.* |
+| мягкий совет «я бы на твоём месте» | *I **wouldn't** worry about it.* / *I**'d** talk to your manager first.* |
+| спросить совета | *What **would** you do in my place?* |
+| мечта | *It **would** be nice to have a house by the sea.* / *I**'d love** to work remotely from Lisbon.* |
+| обещание в прошлом | *He promised he **would** call* (не ~~will~~). |
+
+Русское «бы» не меняется со временем, а английское меняется. О прошлом — **would have + V3**: «я бы позвонил вчера» — *I **would have called** yesterday*, а не ~~I would call yesterday~~ (подробнее в уроке 03b).
+
 ### shall и should с I и we
 
 В британском английском с *I* и *we* иногда говорят **shall** вместо *will* и **should** вместо *would*: *We **should** be delighted to come.* Это звучит формально и **только** с *I/we*: ~~My friend should like to…~~.
 
 В повседневной речи *shall* живёт в вопросах: *Shall I…?* (предложение помощи) и *Shall we…?* (предложение вместе). В американском английском чаще *Should I…?* / *Do you want me to…?*
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 37. Просьбы и предложения: can, could, would you**
+
+- [6:53:12](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=24792s) — просьбы: *Can you…? Could you…? Do you think you could…?*
+- [6:55:14](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=24914s) — попросить вещь: *Can I have…? Could we have…?*
+- [6:56:15](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=24975s) — попросить разрешения: *Can I…? May I…?*
+- [6:56:46](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=25006s) — *Do you mind if I…? Is it all right if I…?*; предложения *Can I…? Would you like…?*
+- [6:58:49](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=25129s) — практика
+
+**Урок 36. Would**
+
+- [6:27:32](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=23252s) — *would* — воображаемая ситуация: *It would be nice…*, *I wouldn't say anything*
+- [6:32:40](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=23560s) — *will* или *would*; обещание в прошлом: *He promised he would…*
+- [6:35:13](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=23713s) — *wouldn't* — «отказывался»
+- [6:35:43](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=23743s) — *would* о повторяющихся действиях в прошлом
+- [6:38:18](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=23898s) — практика
 
 ## Проверь себя
 

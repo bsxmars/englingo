@@ -1,0 +1,55 @@
+title: "Have you? Isn't she? и вспомогательный вместо повтора"
+type: choice
+intro: "Выбери естественную реплику."
+hints:
+  - "Вопрос-реакция сохраняет полярность собеседника: I've seen him. — Have you?"
+  - "Чтобы не повторять глагол, оставь только вспомогательный в нужном времени."
+items:
+  - q: "— I've just been promoted! — ___ Congratulations!"
+    options: ["Have you?", "Haven't you?", "Did you?"]
+    answer: 0
+    explain: "Реплика утвердительная, в Present Perfect → реакция ***Have you?*** Полярность не меняем."
+  - q: "— Kate isn't coming tonight. — ___ Is she ill?"
+    options: ["Isn't she?", "Is she?", "Doesn't she?"]
+    answer: 0
+    explain: "Реплика отрицательная → реакция тоже отрицательная: ***Isn't she?***"
+  - q: "— It snowed in Sochi yesterday. — ___ That's unusual."
+    options: ["Did it?", "Didn't it?", "Was it?"]
+    answer: 0
+    explain: "*snowed* — Past Simple, вспомогательный *did*: ***Did it?***"
+  - q: "— I can't drive. — ___ I thought you had a car."
+    options: ["Can't you?", "Can you?", "Don't you?"]
+    answer: 0
+    explain: "Повторяем модальный с той же полярностью: ***Can't you?*** — искреннее удивление."
+  - q: "I don't eat meat, but my husband ___."
+    options: ["does", "eats", "is"]
+    answer: 0
+    explain: "Контраст без повтора глагола: *but my husband **does***."
+  - q: "Mark wasn't at the meeting, but his boss ___."
+    options: ["was", "did", "wasn't"]
+    answer: 0
+    explain: "В первой части *wasn't*, значит, во второй — утвердительное ***was***."
+  - q: "— You forgot my birthday! — No, I ___! I sent you a card."
+    options: ["didn't", "did", "don't"]
+    answer: 0
+    explain: "Возражаем на утверждение в Past Simple: ***No, I didn't!*** — «не забыл»."
+  - q: "— You never help with the dishes. — That's not true, I ___!"
+    options: ["do", "did", "don't"]
+    answer: 0
+    explain: "*never* — отрицание, мы возражаем «помогаю!» → ***I do!*** с ударением."
+  - q: "— Does Simon still live in London? — He ___, but he moved to Leeds last year."
+    options: ["did", "was", "does"]
+    answer: 0
+    explain: "Жил раньше — Past Simple → ***He did***. Время во вспомогательном меняется по смыслу."
+  - q: "— I haven't seen the new Bond film. — I haven't ___."
+    options: ["either", "too", "neither"]
+    answer: 0
+    explain: "Согласие с отрицанием: *I haven't **either*** (= *Neither have I*). *too* — только после утверждения."
+  - q: "— Will the shop be open on Sunday? — I ___. It's usually closed at weekends."
+    options: ["guess not", "don't guess so", "guess no"]
+    answer: 0
+    explain: "С *guess* отрицание через *not*: ***I guess not***."
+  - q: "She could lend us the money, but she ___. She never lends anyone anything."
+    options: ["won't", "doesn't", "can't"]
+    answer: 0
+    explain: "«Могла бы, но не станет» — про будущее: ***won't***. *can't* противоречит *could*."

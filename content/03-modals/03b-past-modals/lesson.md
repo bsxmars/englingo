@@ -6,6 +6,10 @@ sources:
   - {title: "Perfect English Grammar: Negative Modals", url: "https://www.perfect-english-grammar.com/negative-modals-exercise.html"}
   - {title: "Perfect English Grammar: Modal Verbs of Obligation", url: "https://www.perfect-english-grammar.com/modal-verbs-of-obligation-exercise-1.html"}
   - {title: "Agenda Web — упражнения по грамматике", url: "https://agendaweb.org/"}
+  - {title: "Видео Vlad and English: урок 27 — could (do) и could have (done)", url: "https://www.youtube.com/watch?v=V-cRBDeMn6I&t=10360s"}
+  - {title: "Видео Vlad and English: урок 32 — must, mustn't, needn't", url: "https://www.youtube.com/watch?v=V-cRBDeMn6I&t=17751s"}
+  - {title: "Видео Vlad and English: урок 33 — should, часть 1", url: "https://www.youtube.com/watch?v=V-cRBDeMn6I&t=19148s"}
+  - {title: "Видео Vlad and English: урок 36 — would", url: "https://www.youtube.com/watch?v=V-cRBDeMn6I&t=23252s"}
 ---
 В уроке 3 ты научился делать выводы о прошлом: *must have gone*, *can't have seen*. Но у конструкции **модальный + have + V3** есть второе, не менее важное применение: она рассказывает о том, **чего не случилось**. «Надо было предупредить», «мог бы и позвонить», «я бы помог, но…», «зря я так торопился». В разговоре и в письме такие фразы встречаются постоянно, а в экзамене B2 First их проверяют в Part 4.
 
@@ -33,6 +37,8 @@ sources:
 - You **shouldn't have shouted** at him. He was only trying to help.
 - I **ought to have checked** the logs before restarting the server. — то же, но формальнее.
 
+Ещё *should have* бывает несбывшимся ожиданием: *The parcel **should have arrived** by now — I'll call the courier.* / *They **should have been** here an hour ago.*
+
 О себе это сожаление, о другом — упрёк. Значение «сделано наоборот» сохраняется всегда: *should have* → не сделал, *shouldn't have* → сделал.
 
 ## Упущенная возможность: could have, might have
@@ -51,6 +57,16 @@ sources:
 > **Типичная ошибка русскоговорящих:** путать *could have done* с *could do*. ~~Yesterday I could finish the project, but I went to bed~~ — так нельзя. «Мог бы закончить (но не закончил)» — это **could have finished**. А *could* про прошлое — только общее умение: *I could swim when I was five.*
 
 Помни про двойное значение из урока 3: *She **could have taken** the bus* — это и «возможно, она поехала на автобусе», и «могла бы поехать на автобусе (а не поехала)». Решает контекст.
+
+### Лучше некуда: couldn't have + сравнительная степень
+
+**couldn't have been + -er / more…** — «лучше (хуже, удачнее) быть не могло». Так хвалят или жалуются на прошедшее:
+
+- *Our holiday was perfect — it **couldn't have been better**.*
+- *The hotel staff **couldn't have been more helpful**.* — помогали как только могли.
+- *I did everything I could. I **couldn't have prepared** any harder.*
+
+А **could have been worse** — «могло быть и хуже», утешение: *We lost 2–1, but it **could have been worse**.* О настоящем то же самое без *have*: *It couldn't be better* (урок 2).
 
 ## Воображаемое прошлое: would have
 
@@ -102,6 +118,30 @@ sources:
 | needn't have **been** + adj | *We **needn't have been** so worried — everything went fine.* |
 
 > **B2-уровень:** в трансформациях Part 4 типичные пары: *It was a mistake to…* → **shouldn't have**; *It wasn't necessary, but we did* → **needn't have**; *It was wrong of you not to tell me* → **should have told**; *It's a pity I didn't…* → **should have / wish I had**.
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 27. Could (do) и could have (done)**
+
+- [2:59:22](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=10762s) — *could have done* — могло случиться, но не случилось
+- [3:02:27](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=10947s) — *It couldn't have been better*
+- [3:15:26](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=11726s) — практика: *I couldn't have managed without you*, *couldn't have been more helpful*
+
+**Урок 32. Must, mustn't, needn't**
+
+- [4:58:23](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=17903s) — *needn't have done* — сделал, а оказалось зря
+- [5:00:24](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=18024s) — *didn't need to* — не было нужды
+
+**Урок 33. Should, часть 1**
+
+- [5:26:45](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=19605s) — *should have done* и *shouldn't have been doing*
+- [5:35:50](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=20150s) — практика: *should* или *should have*
+
+**Урок 36. Would**
+
+- [6:29:03](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=23343s) — *would have done* — воображаемое прошлое
 
 ## Проверь себя
 

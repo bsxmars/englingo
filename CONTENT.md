@@ -168,9 +168,34 @@ items:
 - Cambridge B2 First (формат экзамена, для уроков чтения и письма): `https://www.cambridgeenglish.org/exams-and-tests/first/`.
 - InstaText (редактор для письма): `https://instatext.io/editor/`.
 
+- Видеокурс Vlad and English «Английский с A2 до B2 за 51 час» — разбор English Grammar in Use (Мёрфи), уроки 1–145, 10 роликов. Расшифровки и таймкоды — см. раздел «Видео в уроке» ниже.
+
 Страницы Perfect English Grammar (выбирай подходящие по теме): `past-simple-present-perfect-1..4`, `present-perfect-present-perfect-continuous-1..3`, `past-perfect-exercise-1..3`, `past-perfect-past-perfect-continuous-exercise-1`, `past-simple-past-continuous-exercise-1..2`, `used-to-exercise-1..3`, `future-tenses-form-mixed-exercise-1`, `future-continuous-exercise-1`, `future-perfect-exercise-4`, `future-perfect-continuous-exercise-4`, `modal-verbs-of-ability-exercise-1`, `modal-verbs-of-obligation-exercise-1`, `modal-verbs-of-probability-exercise-1..2`, `negative-modals-exercise`, `zero-conditional-exercise-1`, `first-conditional-exercise-1`, `second-conditional-exercise-1`, `third-conditional-exercise-1`, `first-second-third-conditionals-exercise`, `passive-exercise-1..5`, `passive-verbs-two-objects-exercise-1`, `passive-subordinate-clauses-exercise-1`, `causatives-exercise-1..2`, `reported-speech-exercise-1`, `reported-speech-exercise-3..12`, `say-or-tell-exercise-1`, `relative-clauses-exercise-1..4`, `relative-pronouns-exercise`, `which-or-that-exercise`, `who-or-whom-exercise`, `dropping-the-relative-pronoun-exercise`, `where-or-that-exercise`, `gerunds-and-infinitives-exercise-1..4`, `let-or-make-exercise-1`, `articles-exercise-1..2`, `bed-home-work-town-exercise-1`, `some-and-any-exercise-1..2`, `a-little-a-few-exercise-1`, `indirect-questions-exercise-1..3`, `embedded-questions-in-statements-exercise-1`, `negative-questions-exercise-1..2`, `comparative-adjectives-exercise-1`, `superlatives-exercise-1`, `adverbs-or-adjectives-exercise-1`, `linking-words-contrast-exercise-1`, `linking-words-reason-exercise-2`, `inversion-exercise-1`, `participle-adjectives-exercise-1..2`, `make-or-do-exercise-1..4`, `phrasal-verbs-exercise-1..3`, `verbs-and-prepositions-exercise-1..2`, `adjectives-and-prepositions-exercise-1`.
 
 Пример ссылки: `https://www.perfect-english-grammar.com/past-simple-present-perfect-1.html`.
+
+## Видео в уроке
+
+Если тема урока разобрана в видеокурсе Vlad and English, урок ссылается на видео с таймкодами:
+
+- Во фронтматтере `sources` — по записи на видеоурок: `{title: "Видео Vlad and English: урок 7 — Present Perfect, часть 1", url: "https://www.youtube.com/watch?v=KHAQFIjPg5E&t=9601s"}`.
+- В теле урока — раздел `## Видео` перед `## Проверь себя` (или перед `## Практика`). На каждый видеоурок жирный заголовок `**Урок N. Тема**` и список из 3–6 таймкодов: начало, ключевые подтемы, практика. Формат строки: `- [2:43:41](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=9821s) — been to и gone to`. Секунды в `&t=` считаются от начала ролика и совпадают с подписью.
+- В `module.yaml` — по записи на часть видеокурса: `{title: "Видео Vlad and English: часть 1 — времена (уроки 1–18)", url: "https://www.youtube.com/watch?v=KHAQFIjPg5E"}`.
+
+Внешние ссылки в уроке открываются в новой вкладке.
+
+| Часть | Ролик | Уроки | Модули |
+|---|---|---|---|
+| 1. Времена | `KHAQFIjPg5E` | 1–18 | 01 |
+| 2. Будущее и модальные | `V-cRBDeMn6I` | 19–37 | 02, 03 |
+| 3. Условные, пассив, косвенная речь, вопросы | `m8pe5CiAVVE` | 38–52 | 04, 05, 06, 10 |
+| 4. Герундий и инфинитив | `0VRFZ_tym2o` | 53–68 | 08, 01, 07, 11 |
+| 5. Артикли и существительные | `eWTY7yqu2lE` | 69–81 | 09 |
+| 6. Местоимения, quantifiers, придаточные | `1_FACNmXj9M` | 82–97 | 14, 09, 07 |
+| 7. Прилагательные и наречия, сравнения, порядок слов | `7EQrZ8CbWkM` | 98–112 | 14, 10 |
+| 8. Союзы и предлоги | `26J1ryERDWo` | 113–128 | 11, 04, 12 |
+| 9. Предлоги после слов | `NvdqoMJlgCg` | 129–136 | 12, 13 |
+| 10. Фразовые глаголы | `b9ap7lAe9z4` | 137–145 | 13 |
 
 ## Авторское право
 

@@ -1,0 +1,55 @@
+title: "quite, pretty, rather, fairly"
+type: choice
+intro: "Выбери вариант, который грамматически верен и подходит по смыслу."
+hints:
+  - "quite + a + сущ., quite + глагол (like, agree, understand) — так умеет только quite."
+  - "rather — обычно для негативной оценки; fairly — самое слабое; pretty — разговорное и не ставится перед a."
+items:
+  - q: "Great talk! I ___ agree with everything you said."
+    options: ["quite", "pretty", "fairly"]
+    answer: 0
+    explain: "**quite agree** = полностью согласен. *pretty* и *fairly* с глаголом *agree* не сочетаются."
+  - q: "Sorry, I don't ___ understand. Could you explain it again?"
+    options: ["quite", "rather", "pretty"]
+    answer: 0
+    explain: "**not quite** = не совсем: *I don't quite understand*. *rather* и *pretty* так не употребляют."
+  - q: "She quit her job and moved to Bali at fifty — that's ___ decision!"
+    options: ["quite a", "pretty a", "a fairly"]
+    answer: 0
+    explain: "**quite a** + существительное = «вот это решение!», усиление. *pretty* перед *a* не ставится, а *a fairly decision* без прилагательного не имеет смысла."
+  - q: "— Are you ready? — Not ___. Give me two more minutes."
+    options: ["quite", "rather", "fairly"]
+    answer: 0
+    explain: "**Not quite** = ещё не совсем. Готовая короткая реплика."
+  - q: "There was ___ traffic, so we were twenty minutes late."
+    options: ["quite a lot of", "quite a lot", "pretty a lot of"]
+    answer: 0
+    explain: "Перед существительным — **quite a lot of** traffic. Без *of* — только в конце: *There was quite a lot*."
+  - q: "There's ___ cold wind today, so take a hat."
+    options: ["quite a", "a quite", "pretty a"]
+    answer: 0
+    explain: "*quite* стоит **перед** артиклем: **quite a cold wind**. С *pretty* наоборот: *a pretty cold wind*."
+  - q: "I ___ like jazz, but I wouldn't buy a ticket to a jazz concert."
+    options: ["quite", "pretty", "very"]
+    answer: 0
+    explain: "**quite like** = в целом нравится, без восторга. ~~pretty like~~ и ~~very like~~ — ошибки."
+  - q: "The hotel was nice, but the walls were ___ thin — we heard every word next door."
+    options: ["rather", "rather a", "quite a"]
+    answer: 0
+    explain: "Негативная оценка → **rather thin**. Перед прилагательным без существительного артикль не нужен."
+  - q: "My Spanish is ___ good — I can chat with people, but I still make lots of mistakes."
+    options: ["fairly", "absolutely", "rather a"]
+    answer: 0
+    explain: "**fairly good** — «вполне неплохо, но не отлично»: самое слабое из наречий степени. *absolutely* с обычным *good* не сочетается."
+  - q: "I'm ___ sure I locked the door — I remember checking it twice."
+    options: ["quite", "rather", "fairly a"]
+    answer: 0
+    explain: "С *sure* слово *quite* значит «совершенно»: **quite sure** = уверен. *rather* — для негативной оценки."
+  - q: "She uses English every day at work, so she speaks it ___."
+    options: ["pretty well", "pretty good", "quite good"]
+    answer: 0
+    explain: "Описываем глагол *speaks* → наречие **well**; *pretty* его смягчает. *good* после *speak* — ошибка."
+  - q: "We haven't known each other long — we met ___ recently, at a conference last spring."
+    options: ["fairly", "rather a", "quite a"]
+    answer: 0
+    explain: "**fairly recently** = сравнительно недавно. *quite a / rather a* требуют существительного."

@@ -36,3 +36,9 @@ items:
   - q: "It's impossible understand his handwriting."
     answers: ["It's impossible to understand his handwriting.", "It is impossible to understand his handwriting.", "His handwriting is impossible to understand."]
     explain: "**It's + прилагательное + to**: *It's impossible to understand*. Или короче: *His handwriting is impossible to understand*."
+  - q: "Our new team lead is really easy to talk."
+    answers: ["Our new team lead is really easy to talk to."]
+    explain: "*It's easy to talk **to** him* → *He's easy to talk **to***. При перестройке предлог остаётся в конце."
+  - q: "That's a really difficult question to answer it."
+    answers: ["That's a really difficult question to answer.", "That is a really difficult question to answer."]
+    explain: "Объект уже назван (*question*), поэтому в конце *it* лишнее: **a difficult question to answer**."

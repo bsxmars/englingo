@@ -5,6 +5,9 @@ sources:
   - {title: "Oxford Practice Grammar — глагол + объект + to-infinitive или ing-form, глагол + предлог + ing-form", url: "https://elt.oup.com/catalogue/items/global/grammar_vocabulary/oxford_practice_grammar/"}
   - {title: "Perfect English Grammar: Gerunds and Infinitives (2)", url: "https://www.perfect-english-grammar.com/gerunds-and-infinitives-exercise-2.html"}
   - {title: "Perfect English Grammar: Gerunds and Infinitives (3)", url: "https://www.perfect-english-grammar.com/gerunds-and-infinitives-exercise-3.html"}
+  - {title: "Видео Vlad and English: урок 55 — Verb + object + to (I want you to…)", url: "https://www.youtube.com/watch?v=0VRFZ_tym2o&t=3350s"}
+  - {title: "Видео Vlad and English: урок 53 — Verb + -ing (stop sb doing, imagine sb doing)", url: "https://www.youtube.com/watch?v=0VRFZ_tym2o&t=462s"}
+  - {title: "Видео Vlad and English: урок 62 — Verb + object + preposition + -ing", url: "https://www.youtube.com/watch?v=0VRFZ_tym2o&t=11830s"}
 ---
 «Хочу, **чтобы ты** посмотрел код», «он уговорил меня **остаться**», «она отговорила нас **от** покупки», «не против, **если я** спрошу?» — в русском здесь то «чтобы», то «если», то «от». В английском почти всё решает **объект между двумя глаголами**: *I want **you to look** at the code. He persuaded **me to stay**. She talked **us out of buying** it. Do you mind **me asking**?* Если выучить модель каждого глагола, исчезает самая узнаваемая русская калька — ~~I want that you…~~.
 
@@ -98,6 +101,26 @@ options: ["They don't permit smoking on the terrace.", "They don't permit guests
 answer: 2
 explain: "С объектом *permit* требует **to**: *permit guests to smoke*. Без объекта — *-ing*: *permit smoking*."
 ```
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 55. Verb + object + to**
+
+- [0:56:20](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=3380s) — *I want you to do*, а не ~~want that~~
+- [0:58:57](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=3537s) — *tell, advise, remind, warn, persuade, get, force, allow, enable*
+- [1:01:07](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=3667s) — пассив *I was warned not to*; *suggest* без объекта + to
+- [1:05:17](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=3917s) — практика
+
+**Урок 53. Verb + -ing** (часть про объект)
+
+- [0:07:42](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=462s) — *stop people doing*, *imagine George riding*, *keep you waiting*
+
+**Урок 62. Verb + preposition + -ing** (часть про объект)
+
+- [3:17:10](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=11830s) — *accuse sb of, prevent sb from, thank sb for*
+- [3:18:46](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=11926s) — *stop sb (from) doing*, отрицание и пассив
 
 ## Практика
 

@@ -1,0 +1,56 @@
+title: "Говорят, якобы, должен был: тонкие места"
+type: choice
+intro: "Выбери вариант, который подходит по смыслу и грамматике."
+hints:
+  - "«Говорят, что есть…» → *there is said to be*."
+  - "*is supposed to have been* — говорят, что так было; *was supposed to be* — так планировали."
+  - "*had to* — пришлось (и сделал); *was supposed to* — должен был по плану (и не сделал)."
+items:
+  - q: "«Говорят, под старой библиотекой есть подземный ход»."
+    options: ["It is said to be a tunnel under the old library.", "There is said to be a tunnel under the old library.", "A tunnel is said that there is under the old library."]
+    answer: 1
+    explain: "«Говорят, что **есть**» → *there* остаётся подлежащим: **There is said to be**. *It is said to be a tunnel* значит «это называют туннелем»."
+  - q: "The former mayor ___ public money for his own house, but the case hasn't reached court yet."
+    options: ["is alleged to have used", "is alleged to use", "alleges to have used"]
+    answer: 0
+    explain: "Вина не доказана, событие в прошлом → **is alleged to have used**. *allege* в этой модели, как *say*, стоит в пассиве."
+  - q: "The cyclist ___ on his phone when he hit the car, according to witnesses."
+    options: ["is thought to have been talking", "is thought to be talking", "thinks to have been talking"]
+    answer: 0
+    explain: "Длительный процесс в прошлом (в момент аварии) → **to have been talking**: перфектный длительный инфинитив."
+  - q: "This old house ___ a school in the 19th century. That's what the locals say, anyway."
+    options: ["was supposed to be", "is supposed to have been", "supposes to have been"]
+    answer: 1
+    explain: "«Говорят, что раньше **был** школой» → **is supposed to have been**. *was supposed to be* значило бы «его задумывали как школу»."
+  - q: "The new stadium ___ ready for the championship, but the builders missed the deadline."
+    options: ["was supposed to be", "is supposed to have been", "had to have been"]
+    answer: 0
+    explain: "План, который не выполнили → **was supposed to be**."
+  - q: "Sorry, I didn't mean to upset you. It ___ a joke."
+    options: ["was supposed to be", "is supposed to have been", "should have been"]
+    answer: 0
+    explain: "«Это задумывалось как шутка» → **was supposed to be**. *should have been* звучало бы как упрёк самому себе: «надо было пошутить»."
+  - q: "My train was cancelled, so I ___ a taxi to the airport. It cost a fortune."
+    options: ["was supposed to take", "had to take", "should have taken"]
+    answer: 1
+    explain: "Вынужденное действие, которое **случилось** → **had to take**. *was supposed to* значило бы, что такси было в плане, но ты его не взял."
+  - q: "Dan ___ the tickets yesterday, but he forgot, and now they're sold out."
+    options: ["had to book", "was supposed to book", "is supposed to have booked"]
+    answer: 1
+    explain: "Договорились, а он не сделал → **was supposed to book**. *had to book* обычно значит, что пришлось и забронировал."
+  - q: "— Can I eat my sandwich here? — Sorry, you ___ eat in the reading room."
+    options: ["aren't supposed to", "don't suppose to", "aren't supposed"]
+    answer: 0
+    explain: "Вежливый запрет по правилам → **aren't supposed to** + глагол. *to* обязателен, *suppose* — только в пассиве."
+  - q: "I can't talk now — I ___ a client in five minutes."
+    options: ["am supposed to be meeting", "was supposed to meet", "am supposed to have met"]
+    answer: 0
+    explain: "По плану **сейчас** / вот-вот → **am supposed to be meeting**. *was supposed to meet* — встреча уже должна была состояться."
+  - q: "I really hate ___ at the dentist's, even though it never hurts."
+    options: ["having my teeth checked", "to check my teeth", "having checked my teeth"]
+    answer: 0
+    explain: "Зубы проверяет врач → *have + объект + V3*; после *hate* *have* принимает *-ing*: **having my teeth checked**."
+  - q: "— Did you paint the flat yourselves? — No way, it would have taken us weeks. We ___ ."
+    options: ["painted it", "had it painted", "had painted it"]
+    answer: 1
+    explain: "Красили мастера → **had it painted**: местоимение *it* стоит между *had* и V3. *had painted it* — это Past Perfect «мы покрасили сами (раньше)»."

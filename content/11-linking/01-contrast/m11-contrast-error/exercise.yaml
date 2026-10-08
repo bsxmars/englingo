@@ -30,3 +30,6 @@ items:
   - q: "Although the fact that it rained, we enjoyed the trip."
     answers: ["Despite the fact that it rained, we enjoyed the trip.", "In spite of the fact that it rained, we enjoyed the trip.", "Although it rained, we enjoyed the trip.", "Even though it rained, we enjoyed the trip.", "Though it rained, we enjoyed the trip."]
     explain: "**the fact that** нужен только после предлогов *despite / in spite of*. После *although* сразу идёт предложение."
+  - q: "Even I was exhausted, I couldn't fall asleep."
+    answers: ["Even though I was exhausted, I couldn't fall asleep.", "Although I was exhausted, I couldn't fall asleep.", "Though I was exhausted, I couldn't fall asleep.", "Despite being exhausted, I couldn't fall asleep.", "In spite of being exhausted, I couldn't fall asleep."]
+    explain: "**even** — «даже», а не союз. Чтобы присоединить предложение, нужно **even though** (или *although*)."

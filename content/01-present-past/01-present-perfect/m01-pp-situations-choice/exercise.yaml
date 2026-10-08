@@ -1,0 +1,51 @@
+title: "Длится или закончилось"
+type: choice
+intro: "Выбери вариант, который подходит к ситуации. Главное — длится ли ситуация сейчас или уже позади, и какой вопрос нужен к ответу."
+hints:
+  - "Ещё в отпуске — It's been a great holiday; уже дома — It was."
+  - "haven't been to the cinema — не ходил; gone — ушёл и ещё не вернулся."
+items:
+  - q: "Last evening of your trip, at dinner in Rome: «___ a wonderful week, hasn't it?»"
+    options: ["It was", "It's been", "It has"]
+    answer: 1
+    explain: "Неделя ещё не закончилась, ты всё ещё в Риме → **It's been**."
+  - q: "Back home, telling a friend about Rome: «___ a wonderful week.»"
+    options: ["It's been", "It has been", "It was"]
+    answer: 2
+    explain: "Поездка позади → Past Simple **It was**."
+  - q: "The rail strike is still going on. There ___ no trains since Monday."
+    options: ["were", "have been", "are"]
+    answer: 1
+    explain: "Ситуация длится + *since* → **have been**."
+  - q: "During last year's strike there ___ no trains for a week."
+    options: ["were", "have been", "had"]
+    answer: 0
+    explain: "Забастовка закончилась → **were**."
+  - q: "— ___ in this company? — Since 2021."
+    options: ["When did you start working", "How long have you worked", "How long did you work"]
+    answer: 1
+    explain: "Ответ *Since 2021* — длительность до сих пор → **How long have you worked…?**"
+  - q: "— ___ in this company? — In 2021."
+    options: ["When did you start working", "How long have you worked", "When have you started working"]
+    answer: 0
+    explain: "Ответ — момент в прошлом → **When did you start…?** С *when* Present Perfect невозможен."
+  - q: "I ___ to the theatre for ages. Shall we go this weekend?"
+    options: ["haven't gone", "haven't been", "didn't go"]
+    answer: 1
+    explain: "«Давно не ходил» → **haven't been**. *haven't gone* звучит как «ещё не ушёл»."
+  - q: "— Somebody's eaten my yoghurt! — ___!"
+    options: ["It hasn't been me", "It wasn't me", "It isn't been me"]
+    answer: 1
+    explain: "Речь о конкретном случае в прошлом → **It wasn't me**."
+  - q: "Breaking news: there ___ an explosion at a chemical plant near Leeds."
+    options: ["has been", "was being", "had been"]
+    answer: 0
+    explain: "Свежая новость → **has been**. Детали дальше пошли бы в Past Simple."
+  - q: "My grandparents have lived in the same house ___."
+    options: ["for all their lives", "all their lives", "since all their lives"]
+    answer: 1
+    explain: "С *all* предлог не нужен: **all their lives**."
+  - q: "Which sentence is natural American English but less typical in British English?"
+    options: ["Did you eat yet?", "Have you eaten yet?", "Did you eat yesterday?"]
+    answer: 0
+    explain: "В AmE Past Simple с *yet / already / just* — разговорная норма: **Did you eat yet?** Британский вариант — *Have you eaten yet?*"

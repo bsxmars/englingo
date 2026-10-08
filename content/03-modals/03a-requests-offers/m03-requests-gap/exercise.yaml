@@ -35,3 +35,9 @@ items:
   - q: "___ (let's — отрицание) argue about this now — we're both tired."
     answers: ["Let's not", "Let us not", "Don't let's"]
     explain: "Отрицание от *Let's* — **Let's not** + инфинитив без *to*. Британский разговорный вариант — *Don't let's*."
+  - q: "Do you think you ___ (give) me a lift to the station? My car's at the garage."
+    answers: ["could give"]
+    explain: "**Do you think you could…?** — мягкая просьба, когда просишь о чём-то большом. После *could* — инфинитив без *to*."
+  - q: "I ___ (not / worry) about it if I were you — everyone makes mistakes in their first week."
+    answers: ["wouldn't worry", "would not worry"]
+    explain: "Мягкий совет «я бы на твоём месте» → **I wouldn't worry**."

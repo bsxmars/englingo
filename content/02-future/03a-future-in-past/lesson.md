@@ -5,6 +5,7 @@ sources:
   - {title: "Oxford Practice Grammar — was going to, will have done и обзор будущего", url: "https://elt.oup.com/catalogue/items/global/grammar_vocabulary/oxford_practice_grammar/"}
   - {title: "Perfect English Grammar: будущие времена, смешанное упражнение", url: "https://www.perfect-english-grammar.com/future-tenses-form-mixed-exercise-1.html"}
   - {title: "englisch-hilfen — список грамматических упражнений", url: "https://www.englisch-hilfen.de/en/exercises_list/alle_grammar.htm"}
+  - {title: "Видео Vlad and English: урок 20 — I'm going to (do)", url: "https://www.youtube.com/watch?v=V-cRBDeMn6I&t=1038s"}
 ---
 В рассказе о прошлом постоянно приходится говорить о том, что **тогда ещё было впереди**: «я знал, что опоздаю», «она обещала, что позвонит», «поезд должен был прийти в шесть», «мы как раз собирались уходить». По-русски мы просто берём будущее время: *Он сказал, что **придёт***. В английском так нельзя: если вся история в прошлом, будущее тоже «сдвигается назад». Вместо *will* — **would**, вместо *am going to* — **was going to**, вместо *is about to* — **was about to**.
 
@@ -98,6 +99,15 @@ sources:
 *be bound to* часто звучит как «так и знал, что так будет»: *It **was bound to** happen sooner or later.* — «рано или поздно это должно было случиться».
 
 > **Типичная ошибка русскоговорящих:** ~~He is sure to win~~ ≠ *He is sure **that** he will win.* Первое — уверен **говорящий** («он непременно победит»), второе — уверен **сам он**. Порядок слов меняет того, кто уверен.
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 20. I'm going to (do)**
+
+- [0:26:51](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=1611s) — *was going to*: собирался, но не сделал; *I thought it was going to rain*
+- [0:35:07](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=2107s) — практика на *was / were going to*
 
 ## Проверь себя
 

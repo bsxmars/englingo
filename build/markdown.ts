@@ -29,6 +29,16 @@ md.core.ruler.after('inline', 'dashes', (state) => {
   }
 });
 
+// External links (videos, exercise sites) open in a new tab, so the course stays open.
+md.renderer.rules.link_open = (tokens, idx, options, _env, self) => {
+  const t = tokens[idx]!;
+  if (/^https?:/.test(String(t.attrGet('href') ?? ''))) {
+    t.attrSet('target', '_blank');
+    t.attrSet('rel', 'noopener');
+  }
+  return self.renderToken(tokens, idx, options);
+};
+
 // ~~text~~ is <del>, as in GFM.
 md.renderer.rules.s_open = () => '<del>';
 md.renderer.rules.s_close = () => '</del>';

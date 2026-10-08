@@ -1,0 +1,44 @@
+title: "Цель: to, for, so that и предлог в конце"
+type: gap
+intro: "Впиши **одно-два** слова: *to, for, so that* или предлог, который остаётся в конце (*on, to, with, in*)."
+hints:
+  - "for + существительное (for petrol); to + глагол (to get petrol)."
+  - "Цель у другого человека — so that + подлежащее."
+  - "sit on, talk to, open with, put in: предлог не теряется — a chair to sit on."
+items:
+  - q: "We pulled into a service station ___ petrol."
+    answers: ["for"]
+    explain: "После пропуска существительное (*petrol*) → **for**. С глаголом было бы *to get petrol*."
+  - q: "We pulled into a service station ___ get some petrol."
+    answers: ["to", "in order to", "so as to"]
+    explain: "Цель выражена глаголом *get* → инфинитив **to** (формальнее *in order to*). ~~for get~~ невозможно."
+  - q: "Is there anything ___ eat in the fridge?"
+    answers: ["to"]
+    explain: "**anything / something / nothing + to + глагол**: *something to eat* — «что-нибудь поесть»."
+  - q: "Since I moved here, I've had nobody to talk ___ about my problems."
+    answers: ["to"]
+    explain: "*talk **to** somebody* → *nobody to talk **to***. Предлог остаётся в конце, хотя по-русски «не с кем» он впереди."
+  - q: "Have you got anything to open this jar ___?"
+    answers: ["with"]
+    explain: "*open the jar **with** something* → *something to open it **with***: инструмент вводит *with*, и он уходит в конец."
+  - q: "There weren't enough chairs for all the guests ___ sit on."
+    answers: ["to"]
+    explain: "**for + кто-то + to + глагол**: *for the guests to sit on*. Исполнитель (*the guests*) вводится через *for*, предлог *on* в конце."
+  - q: "I gave Anna my spare key ___ she could water the plants while I was away."
+    answers: ["so that", "so"]
+    explain: "Поливать будет Анна, а не я, — у цели своё подлежащее (*she could*) → **so that**. *to she could* невозможно."
+  - q: "This app is ___ tracking how much you spend."
+    answers: ["for"]
+    explain: "Назначение предмета → **for + -ing**: *This app is for tracking…* Цель человека была бы *I use it to track…*"
+  - q: "I wish I had more time ___ read for pleasure."
+    answers: ["to"]
+    explain: "**time / money / chance / energy + to do**: *time to read* — «время, чтобы читать»."
+  - q: "— I need a screwdriver. — What ___? — To fix the shelf in the bathroom."
+    answers: ["for"]
+    explain: "**What … for?** = «зачем, для чего». В коротком вопросе *What for?* — тоже *for* в конце."
+  - q: "We'll need a bigger box to put all these books ___."
+    answers: ["in", "into"]
+    explain: "*put books **in** a box* → *a box to put the books **in***. Без предлога предложение неполное."
+  - q: "Let's book the tickets today ___ we don't have to queue at the door."
+    answers: ["so that", "so"]
+    explain: "После пропуска подлежащее и глагол (*we don't have to*) → **so that** (в разговоре просто *so*)."

@@ -1,0 +1,44 @@
+title: "Найди ошибку: nice of you, angry with, reply to"
+type: error
+intro: "В каждом предложении **одна** ошибка в предлоге или в форме после него. Исправь и перепиши предложение целиком."
+hints:
+  - "«С твоей стороны» — of: kind of you. По отношению к кому-то — to: kind to me."
+  - "angry with кем-то, engaged to, crowded with, short of, keen on."
+  - "После предлога — форма на -ing."
+items:
+  - q: "It was very kind from you to drive me to the airport."
+    answers: ["It was very kind of you to drive me to the airport."]
+    explain: "Оценка поступка — **kind of you** to do. «С твоей стороны» по-английски передаёт *of*, а не *from*."
+  - q: "My boss was angry on me for missing the deadline."
+    answers: ["My boss was angry with me for missing the deadline.", "My boss was angry at me for missing the deadline."]
+    explain: "Злиться на человека — **angry with** (амер. также *at*) someone **for** doing. ~~angry on~~ — калька «злиться на»."
+  - q: "She's engaged with a doctor from Kazan."
+    answers: ["She's engaged to a doctor from Kazan.", "She is engaged to a doctor from Kazan."]
+    explain: "Помолвлена и замужем — **to**: *engaged to, married to*."
+  - q: "In July the old town is always crowded of tourists."
+    answers: ["In July the old town is always crowded with tourists."]
+    explain: "**crowded with** — «переполнен». Сравни: *full **of** tourists* — там действительно *of*."
+  - q: "I'm a bit short with money this month."
+    answers: ["I'm a bit short of money this month.", "I am a bit short of money this month."]
+    explain: "Не хватает чего-то — **short of** money / time. *short with* someone — «резок, груб с кем-то»."
+  - q: "What was her reaction on the news?"
+    answers: ["What was her reaction to the news?"]
+    explain: "**reaction to**, как *reply to, answer to, solution to*: реакция направлена на что-то."
+  - q: "I still haven't had a reply on my email."
+    answers: ["I still haven't had a reply to my email.", "I still have not had a reply to my email."]
+    explain: "Ответ на письмо — **reply to**. ~~reply on~~ — калька «ответ на»."
+  - q: "Is there really any need of a new road here?"
+    answers: ["Is there really any need for a new road here?"]
+    explain: "**need for** + существительное. С глаголом — *need to*: *Is there any need to build a new road?*"
+  - q: "One advantage of live alone is that you can do what you like."
+    answers: ["One advantage of living alone is that you can do what you like."]
+    explain: "После предлога (*of*) глагол стоит в форме **-ing**: *the advantage of **living** alone*."
+  - q: "I'm not very keen on go out tonight — I'm exhausted."
+    answers: ["I'm not very keen on going out tonight — I'm exhausted.", "I am not very keen on going out tonight — I am exhausted.", "I'm not very keen on going out tonight - I'm exhausted.", "I'm not very keen on going out tonight. I'm exhausted."]
+    explain: "**keen on** + *-ing*: после предлога только герундий."
+  - q: "My salary rose on 5% last year."
+    answers: ["My salary rose by 5% last year."]
+    explain: "На сколько изменилось — **by**: *rose by 5%*. С существительным — *a rise **of** 5%*."
+  - q: "We argued about it for ages, but at the end we decided to stay at home."
+    answers: ["We argued about it for ages, but in the end we decided to stay at home."]
+    explain: "«В итоге, в конце концов» — **in the end**. *at the end* требует продолжения: *at the end **of** the evening*."

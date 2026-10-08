@@ -5,6 +5,9 @@ sources:
   - {title: "Oxford Practice Grammar — глагол + наречие + предлог", url: "https://elt.oup.com/catalogue/items/global/grammar_vocabulary/oxford_practice_grammar/"}
   - {title: "Perfect English Grammar: фразовые глаголы, упражнение 3", url: "https://www.perfect-english-grammar.com/phrasal-verbs-exercise-3.html"}
   - {title: "Perfect English Grammar: глаголы с предлогами, упражнение 2", url: "https://www.perfect-english-grammar.com/verbs-and-prepositions-exercise-2.html"}
+  - {title: "Видео Vlad and English: урок 137 — фразовые глаголы 1, введение", url: "https://www.youtube.com/watch?v=b9ap7lAe9z4&t=0s"}
+  - {title: "Видео Vlad and English: урок 143 — фразовые глаголы 7: up (1)", url: "https://www.youtube.com/watch?v=b9ap7lAe9z4&t=7743s"}
+  - {title: "Видео Vlad and English: урок 145 — фразовые глаголы 9: away / back", url: "https://www.youtube.com/watch?v=b9ap7lAe9z4&t=9884s"}
 ---
 *I'm looking forward to the weekend. I can't put up with this noise. We've run out of milk.* — это глаголы из трёх частей: **глагол + частица + предлог**. Они встречаются в каждом втором письме и разговоре, а на экзамене B2 First — в Part 1, 2 и 4. Хорошая новость: по поведению они проще обычных фразовых глаголов, потому что **никогда не разделяются**. Плохая: значение почти всегда идиоматическое, и его нужно просто знать.
 
@@ -57,6 +60,17 @@ sources:
 | **watch / look out for** | остерегаться, высматривать | *Watch out for pickpockets.* |
 | **fall back on** | прибегнуть к запасному варианту | *It's good to have savings to fall back on.* |
 | **come up against** | столкнуться (с трудностью) | *We came up against a serious problem.* |
+| **get out of** | отвертеться, увильнуть от | *I'd love to get out of the meeting.* |
+| **keep away from** | держаться подальше от | *Keep away from the edge of the cliff.* |
+| **get back to** | ответить позже; вернуться к (теме, делу) | *I'll get back to you tomorrow.* |
+| **look back on** | вспоминать (о прошлом) | *I look back on my school years with pleasure.* |
+
+### catch up with или keep up with
+
+Оба глагола переводятся «успевать», но ситуация разная:
+
+- **keep up with** — **не отстать**, держать тот же темп: *You walk too fast — I can't keep up with you.*
+- **catch up with** — **догнать**, когда уже отстал: *I was ill for a week, and now I have to catch up with the rest of the class.*
 
 > **B2-уровень:** многие такие глаголы — разговорные синонимы «книжных»: *tolerate = put up with, invent = come up with, reduce = cut down on, compensate for = make up for, respect = look up to*. Это готовый материал для Part 4.
 
@@ -71,6 +85,24 @@ sources:
 Один и тот же глагол может попадать в разные группы: *run out* (закончиться — *Time ran out*) и *run out **of*** (закончилось у кого-то — *We ran out of time*); *get on* (садиться в транспорт; справляться — *How are you getting on?*) и *get on **with*** (ладить; продолжать — *Get on with your work!*).
 
 > **Типичная ошибка русскоговорящих:** ~~We have run out milk~~ → *run out **of** milk*; ~~She came up an idea~~ → *came up **with***. Без предлога глагол меняет смысл или становится неграмматичным.
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 137. Фразовые глаголы: введение**
+
+- [0:06:17](https://www.youtube.com/watch?v=b9ap7lAe9z4&t=377s) — фразовый глагол + предлог: *look up at, run away from, keep up with, look forward to*
+
+**Урок 143. Up (1)**
+
+- [2:09:03](https://www.youtube.com/watch?v=b9ap7lAe9z4&t=7743s) — *come up to*, *catch up with* и *keep up with*
+- [2:16:48](https://www.youtube.com/watch?v=b9ap7lAe9z4&t=8208s) — практика: разница *caught up with* и *couldn't keep up with*
+
+**Урок 145. Away / back**
+
+- [2:47:19](https://www.youtube.com/watch?v=b9ap7lAe9z4&t=10039s) — *get away with*, *keep away from*
+- [2:50:58](https://www.youtube.com/watch?v=b9ap7lAe9z4&t=10258s) — *get back to*, *look back on*
 
 ## Проверь себя
 

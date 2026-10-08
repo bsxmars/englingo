@@ -146,3 +146,39 @@
   lesson: 02-future/03a-future-in-past
   q: "Что значит *The talks were to have taken place in Geneva*?"
   a: "Переговоры **должны были** пройти в Женеве, но **не состоялись**: **was to have + V3**."
+- id: m02-wont-refusal
+  lesson: 02-future/01-will-going-to
+  q: "Переведи: «Машина не заводится» (пытаюсь прямо сейчас)."
+  a: "*The car **won't** start.* — **won't** = отказ, «никак не…», а не будущее."
+- id: m02-will-present-guess
+  lesson: 02-future/01-will-going-to
+  q: "Что значит *Don't call her now — she'll be at work*?"
+  a: "«Она **наверняка** сейчас на работе»: *will be* — уверенная догадка о настоящем."
+- id: m02-shall-advice
+  lesson: 02-future/01-will-going-to
+  q: "Переведи: «Я потерял ключи. Что мне делать?»"
+  a: "*I've lost my keys. What **shall** I do?* — *shall* + вопросительное слово = просьба о совете."
+- id: m02-going-to-be-sick
+  lesson: 02-future/01-will-going-to
+  q: "Что значит *I think I'm going to be sick*?"
+  a: "«Меня сейчас **стошнит**». «Я заболеваю» — *I'm coming down with something*."
+- id: m02-arriving-vs-arrive
+  lesson: 02-future/01-will-going-to
+  q: "Разница: *What time are you arriving?* / *What time does your train arrive?*"
+  a: "Первое — о твоих планах (Present Continuous); второе — о расписании (Present Simple)."
+- id: m02-fp-have-left
+  lesson: 02-future/02-future-continuous-perfect
+  q: "Переведи: «Не звони ему в девять — он уже уйдёт на работу»."
+  a: "*Don't call him at nine — he**'ll have left** for work.* — Future Perfect: «уже успеет»."
+- id: m02-fc-news
+  lesson: 02-future/02-future-continuous-perfect
+  q: "Почему в новостях: *The President will be speaking later today*?"
+  a: "Future Continuous сообщает о **запланированном по ходу событий**, нейтрально, без «решил»."
+- id: m02-if-vs-when
+  lesson: 02-future/03-time-clauses
+  q: "**if** или **when**: *Don't worry ___ I'm late tonight.*"
+  a: "**if** — опоздание лишь возможно. *when* — значит, точно опоздаю."
+- id: m02-when-sure
+  lesson: 02-future/03-time-clauses
+  q: "Разница: *If I go out, I'll buy bread* / *When I go out, I'll buy bread*?"
+  a: "**If** — может, и не пойду; **when** — точно пойду, вопрос только когда."

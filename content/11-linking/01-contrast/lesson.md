@@ -5,6 +5,7 @@ sources:
   - {title: "Oxford Practice Grammar — связки противопоставления (although, in spite of)", url: "https://elt.oup.com/catalogue/items/global/grammar_vocabulary/oxford_practice_grammar/"}
   - {title: "Perfect English Grammar: Linking Words of Contrast", url: "https://www.perfect-english-grammar.com/linking-words-contrast-exercise-1.html"}
   - {title: "Agenda Web — упражнения на связки", url: "https://agendaweb.org/"}
+  - {title: "Видео Vlad and English: урок 113 — although, though, even though, in spite of, despite", url: "https://www.youtube.com/watch?v=26J1ryERDWo&t=0s"}
 ---
 По-русски у нас есть «хотя», «несмотря на», «однако» и «а» — и мы почти не задумываемся, что после них идёт. В английском у каждой связки своя **грамматика**: после одних нужно целое предложение с подлежащим и глаголом, после других — только существительное или *-ing*, третьи вообще стоят в начале нового предложения. На B2 First за это прямо снимают баллы, а в Part 4 (перефразирование) пара *although ↔ despite* встречается почти в каждом варианте.
 
@@ -33,6 +34,19 @@ sources:
 
 > **Типичная ошибка русскоговорящих:** ~~Although he was tired, **but** he kept working.~~ По-русски «хотя…, но…» — норма, а в английском *although* и *but* в одном предложении не ставят. Выбери что-то одно: *Although he was tired, he kept working.* или *He was tired, but he kept working.*
 
+### Even, even though, even if, even so
+
+Само по себе **even** — наречие «даже», а не союз. Предложение к нему не присоединишь:
+
+| Слово | Что это | Пример |
+|---|---|---|
+| **even** | «даже», усиливает одно слово | ***Even** my grandmother uses TikTok.* |
+| **even though** | «хотя (и)»: факт, который мешал, но не помешал | ***Even though** it was raining, we went out.* |
+| **even if** | «даже если»: условие, может, и не случится | *We'll go out **even if** it rains.* |
+| **even so** | «и всё же, тем не менее», начинает новое предложение | *The hotel was old. **Even so**, we loved it.* |
+
+> **Типичная ошибка русскоговорящих:** ~~Even I was tired, I couldn't sleep.~~ Русское «даже хоть я устал» хочется передать одним *even*, но союзом работает только пара: ***Even though** I was tired, I couldn't sleep.*
+
 ## Despite и in spite of
 
 Это **предлоги**, поэтому после них не может стоять подлежащее с глаголом. Три возможных продолжения:
@@ -53,6 +67,27 @@ sources:
  → *Despite **being** tired, she finished the report.* (подлежащее то же → *-ing*)
  → *Despite **her tiredness**, …* (существительное)
  → *Despite **the fact that she was** tired, …*
+
+### Despite this, in spite of what…, despite him being late
+
+После *despite / in spite of* может стоять не только существительное, но и **местоимение** или **придаточное с what**. Это удобно, когда «помеху» уже назвали раньше:
+
+- She had a bad cold. **Despite this**, she gave a brilliant talk. — «несмотря на это».
+- He bought the car **in spite of what** the mechanic told him.
+- **Despite everything**, we're still friends.
+
+Если у *-ing* **своё подлежащее**, его ставят между предлогом и *-ing*: *Despite **the story being** silly, I enjoyed the film.* *We started on time **in spite of Tom being** late.* Это B2-конструкция. Проще и надёжнее сказать *Despite the silly story…* или *Although Tom was late…*
+
+### Хотя или потому что: не перепутай логику
+
+*although / despite* — результат **вопреки** обстоятельству. *because / because of* — результат **из-за** него. Грамматика у пар одинаковая: союз + предложение, предлог + существительное. Поэтому ошибка бывает только в смысле:
+
+| Вопреки | Из-за |
+|---|---|
+| *I slept well **although** it was noisy.* | *I couldn't sleep **because** it was noisy.* |
+| *We went out **despite** the rain.* | *We stayed in **because of** the rain.* |
+
+> **Типичная ошибка русскоговорящих:** ~~I couldn't sleep despite the noise.~~ Грамматически верно, но смысл странный: будто шум помогает спать. Проверяй: результат ожидаемый — нужно *because (of)*, неожиданный — *although / despite*.
 
 ## However и nevertheless
 
@@ -93,6 +128,19 @@ sources:
 
 > **Типичная ошибка русскоговорящих:** путать **in case** и **if**. *Take a map **in case** you get lost* — бери в любом случае, на всякий случай. *Call me **if** you get lost* — звони, только если заблудишься.
 
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 113. Although, though, even though, in spite of, despite**
+
+- [0:00:00](https://www.youtube.com/watch?v=26J1ryERDWo&t=0s) — *although* и *in spite of*: предложение или существительное
+- [0:02:01](https://www.youtube.com/watch?v=26J1ryERDWo&t=121s) — *although* или *because*
+- [0:02:31](https://www.youtube.com/watch?v=26J1ryERDWo&t=151s) — после *despite*: существительное, *this / what*, *-ing*
+- [0:04:02](https://www.youtube.com/watch?v=26J1ryERDWo&t=242s) — *in spite of* или *because of*
+- [0:05:32](https://www.youtube.com/watch?v=26J1ryERDWo&t=332s) — *though* в конце предложения, *even though*
+- [0:07:39](https://www.youtube.com/watch?v=26J1ryERDWo&t=459s) — практика
+
 ## Проверь себя
 
 ```quiz
@@ -126,4 +174,7 @@ explain: "**However** не соединяет предложения через 
 ```
 
 ```exercise m11-contrast-gap
+```
+
+```exercise m11-contrast-logic-gap
 ```

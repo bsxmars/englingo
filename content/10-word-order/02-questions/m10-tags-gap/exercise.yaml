@@ -1,0 +1,44 @@
+title: "Хвостики: have, never, модальные, просьбы"
+type: gap
+intro: "Допиши разделительный вопрос (question tag): вспомогательный глагол и местоимение."
+hints:
+  - "have в значении «иметь» — хвостик с do / does / did; have got — с have."
+  - "never, hardly, nobody уже отрицательные — хвостик положительный."
+  - "Отрицание + положительный хвостик — вежливая просьба."
+items:
+  - q: "She has a beautiful voice, ___?"
+    answers: ["doesn't she"]
+    explain: "*has* здесь смысловой глагол («имеет»), поэтому в хвостике *does*: *doesn't she?*"
+  - q: "You've got a spare umbrella, ___?"
+    answers: ["haven't you"]
+    explain: "В *have got* глагол *have* вспомогательный, его и повторяем: *haven't you?*"
+  - q: "You've never been to Japan, ___?"
+    answers: ["have you"]
+    explain: "*never* уже делает фразу отрицательной, поэтому хвостик положительный: *have you?*"
+  - q: "I shouldn't have said that, ___?"
+    answers: ["should I"]
+    explain: "В хвостике повторяем модальный глагол: *shouldn't have → should I?*"
+  - q: "You couldn't give me a lift to the station, ___?"
+    answers: ["could you"]
+    explain: "Отрицание + положительный хвостик с интонацией вверх — мягкая просьба."
+  - q: "You don't know where the scissors are, ___?"
+    answers: ["do you"]
+    explain: "Вопрос «вдруг ты знаешь»: *You don't know…, do you?*"
+  - q: "They'd already left when you arrived, ___?"
+    answers: ["hadn't they"]
+    explain: "После *'d* стоит причастие *left* → это *had* (Past Perfect): *hadn't they?*"
+  - q: "You'd rather stay in tonight, ___?"
+    answers: ["wouldn't you"]
+    explain: "*'d rather* = *would rather*, поэтому *wouldn't you?*"
+  - q: "There's hardly any milk left, ___?"
+    answers: ["is there"]
+    explain: "*hardly* почти отрицание, поэтому хвостик положительный; *there* повторяется: *is there?*"
+  - q: "Don't forget to call your mum, ___?"
+    answers: ["will you"]
+    explain: "После повелительного *Don't…* хвостик **will you?**"
+  - q: "Everybody enjoyed the trip, ___?"
+    answers: ["didn't they"]
+    explain: "*everybody* в хвостике заменяется на **they**; Past Simple → *didn't they?*"
+  - q: "Your sister works in IT, ___?"
+    answers: ["doesn't she"]
+    explain: "Present Simple, третье лицо → *doesn't she?*"

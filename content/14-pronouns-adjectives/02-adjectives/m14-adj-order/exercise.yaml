@@ -34,3 +34,9 @@ items:
   - q: "«Это чудесный маленький греческий ресторанчик»."
     answers: ["It is a lovely little Greek restaurant"]
     explain: "Мнение (*lovely*) → размер (*little*) → происхождение (*Greek*)."
+  - q: "«Мне становится скучно, когда люди говорят о футболе»."
+    answers: ["I get bored when people talk about football", "When people talk about football I get bored"]
+    explain: "Переход в состояние «заскучать» → **get bored**: *-ed*, потому что скуку чувствую я. ~~I get boring~~ значило бы «я становлюсь занудой»."
+  - q: "«Почему у тебя всегда такой скучающий вид на совещаниях?»"
+    answers: ["Why do you always look so bored at meetings"]
+    explain: "**look bored** = выглядеть так, будто тебе скучно. *look boring* значило бы «выглядеть занудно»."

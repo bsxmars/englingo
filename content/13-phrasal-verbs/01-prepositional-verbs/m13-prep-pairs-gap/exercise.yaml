@@ -1,0 +1,44 @@
+title: "Пары и устойчивые предлоги"
+type: gap
+intro: "Впиши **один** предлог. Подумай, какое значение нужно: *think about* или *think of*, *care about* или *care for*, *live on* или *live off*."
+hints:
+  - "think of — придумать или мнение; think about — обдумывать."
+  - "into — внутрь или в результат: break into, crash into, cut into pieces, translate into."
+  - "take care of — позаботиться, уладить; care about — волновать."
+items:
+  - q: "We need a good excuse for missing the party. Can you think ___ one?"
+    answers: ["of"]
+    explain: "Придумать идею или отговорку — **think of**: *think of an excuse, think of a name*."
+  - q: "Don't worry about the hotel — I'll take care ___ it."
+    answers: ["of"]
+    explain: "**take care of** — позаботиться, уладить. Варианта ~~take care for~~ нет."
+  - q: "He's selfish. He doesn't care ___ anyone except himself."
+    answers: ["about"]
+    explain: "Быть небезразличным, волновать — **care about**. *care for* — ухаживать за кем-то."
+  - q: "Somebody broke ___ my car last night and stole my laptop."
+    answers: ["into"]
+    explain: "Вломиться внутрь (дом, машину) — **break into**. Без дополнения — *break in*: *Thieves broke in last night*."
+  - q: "The driver lost control and crashed ___ a tree."
+    answers: ["into"]
+    explain: "Врезаться во что-то — **crash / drive / bump into**. *into* показывает движение до удара."
+  - q: "Can you cut the pizza ___ eight slices?"
+    answers: ["into"]
+    explain: "Разделить на части — **cut / divide / split sth into** parts. По-русски «на», по-английски *into*."
+  - q: "The bus collided ___ a lorry on the bridge."
+    answers: ["with"]
+    explain: "Столкнуться с чем-то — **collide with**. Но врезаться **в** — *crash into*."
+  - q: "Her salary is so low that it's hard to live ___."
+    answers: ["on"]
+    explain: "Жить на какую-то сумму — **live on**: *It isn't enough to live on*. Предлог стоит в конце, потому что *it* — подлежащее."
+  - q: "He's 30 and still lives ___ his parents — they pay for everything."
+    answers: ["off"]
+    explain: "Жить за счёт кого-то — **live off** sb. **live on** — жить на сумму или еду: *live on rice*."
+  - q: "My grandfather died ___ a heart attack when he was 70."
+    answers: ["of", "from"]
+    explain: "Умереть от болезни или причины — **die of** (чаще с болезнями) или **die from** (чаще с ранами, последствиями). Здесь годятся оба."
+  - q: "The neighbours are making a terrible noise again. We should do something ___ it."
+    answers: ["about"]
+    explain: "Что-то предпринять по поводу проблемы — **do something about** it."
+  - q: "She was suspected ___ stealing from the company."
+    answers: ["of"]
+    explain: "**suspect sb of** doing sth — подозревать в чём-то. Как и *accuse of*, после *of* — форма *-ing*."

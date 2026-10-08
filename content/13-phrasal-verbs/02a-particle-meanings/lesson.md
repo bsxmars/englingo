@@ -5,6 +5,8 @@ sources:
   - {title: "Oxford Practice Grammar — фразовые глаголы: значения частиц", url: "https://elt.oup.com/catalogue/items/global/grammar_vocabulary/oxford_practice_grammar/"}
   - {title: "Perfect English Grammar: фразовые глаголы, упражнение 2", url: "https://www.perfect-english-grammar.com/phrasal-verbs-exercise-2.html"}
   - {title: "Cambridge B2 First — формат экзамена (Use of English, Part 1 и Part 3)", url: "https://www.cambridgeenglish.org/exams-and-tests/first/"}
+  - {title: "Видео Vlad and English: урок 139 — фразовые глаголы 3: out", url: "https://www.youtube.com/watch?v=b9ap7lAe9z4&t=3264s"}
+  - {title: "Видео Vlad and English: урок 144 — фразовые глаголы 8: up (2)", url: "https://www.youtube.com/watch?v=b9ap7lAe9z4&t=8854s"}
 ---
 В прошлом уроке ты увидел, что частица — ключ к смыслу фразового глагола. На B2 этого мало: в текстах и на экзамене постоянно встречаются глаголы, которые ты раньше не видел, — *the effect **wore off***, *the plan **paid off***, *sales **picked up***. Если знаешь, что **off** часто значит «постепенно исчезнуть» или «дать результат», а **up** — «улучшиться, вырасти», смысл угадывается по контексту. Вторая тема урока — **существительные из фразовых глаголов**: *a **breakdown**, a **setback**, the **outcome**, a **check-in***. В русском им соответствуют отдельные слова («поломка», «неудача», «результат», «регистрация»), поэтому их часто не узнают. А в Use of English Part 3 и в деловой переписке они встречаются на каждом шагу.
 
@@ -127,6 +129,18 @@ options: ["Because of the train's break down, we were two hours late.", "Because
 answer: 1
 explain: "После *because of* нужно **существительное**: *a breakdown* (слитно). *break down* — глагол, а *because of the train broke down* — смешение двух конструкций (нужно *because the train broke down*)."
 ```
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам. Остальные глаголы из этих видеоуроков — в уроке «Фразовые глаголы по частицам».
+
+**Урок 139. Out**
+
+- [0:59:02](https://www.youtube.com/watch?v=b9ap7lAe9z4&t=3542s) — *run out of, sort out* и *turn out (to be)* — «оказаться»
+
+**Урок 144. Up (2)**
+
+- [2:27:34](https://www.youtube.com/watch?v=b9ap7lAe9z4&t=8854s) — *come up* — «возникнуть в разговоре», *bring up* — «поднять тему»
 
 ## Практика
 

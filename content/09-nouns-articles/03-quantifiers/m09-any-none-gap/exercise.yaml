@@ -1,0 +1,44 @@
+title: "any, some, no, none, nothing: впиши одно слово"
+type: gap
+intro: "Впиши **одно** слово: *some, any, no, none, nothing, nobody, anyone, someone, something, anything* и т. п."
+hints:
+  - "После without, hardly, refuse и в условиях с if — any-слова."
+  - "В начале предложения — только no / nobody / nothing, не any."
+  - "none заменяет существительное, nothing — «ничто»."
+items:
+  - q: "He went out without ___ money — not even enough for a coffee."
+    answers: ["any", "much"]
+    explain: "*without* уже несёт отрицание, поэтому дальше **any**: *without any money*. ~~without some money~~ — ошибка."
+  - q: "The film was so boring that hardly ___ stayed until the end."
+    answers: ["anyone", "anybody", "any"]
+    explain: "*hardly* = «почти не», это уже отрицание → ***hardly anyone***. ~~hardly nobody~~ — двойное отрицание."
+  - q: "Let me know if you need ___ else for the trip."
+    answers: ["anything", "something"]
+    explain: "После **if** обычно ставят *any*-слова: «если вдруг что-то понадобится». *something* тоже возможно, если ты почти уверен, что что-то понадобится."
+  - q: "___ buses were running because of the strike, so we walked."
+    answers: ["No", "Few"]
+    explain: "В начале предложения отрицание даёт только **no**: ~~Not any buses~~, ~~Any buses weren't~~. *Few buses* («мало автобусов») тоже подходит по смыслу."
+  - q: "___ who parks in front of the gate will be fined."
+    answers: ["Anyone", "Anybody", "Everyone", "Everybody"]
+    explain: "***Anyone who…*** = «всякий, кто, неважно кто». Так обычно пишут на табличках и в правилах. *Everyone who…* тоже верно."
+  - q: "— How much did the museum cost? — ___. Entry is free on Sundays."
+    answers: ["Nothing"]
+    explain: "О цене отвечают ***Nothing*** — «ничего не стоит». *None* заменяло бы существительное из вопроса, а его здесь нет."
+  - q: "— How many tickets are left? — ___, I'm afraid. They sold out in an hour."
+    answers: ["None"]
+    explain: "**None** заменяет существительное из вопроса (*tickets*): «ни одного»."
+  - q: "Excuse me, can I ask you ___? Where's the nearest metro station?"
+    answers: ["something"]
+    explain: "Просим о чём-то конкретном и ждём ответа «да» → **some**-слово в вопросе: *Can I ask you something?*"
+  - q: "Everyone knows they're getting married. It's ___ secret."
+    answers: ["no"]
+    explain: "Устойчивая фраза ***It's no secret*** — «это ни для кого не секрет»."
+  - q: "We're very sorry for ___ inconvenience caused by the delay."
+    answers: ["any", "the"]
+    explain: "*any inconvenience* = «за неудобства, если они были» — стандартная вежливая формула. *the inconvenience* — за конкретные неудобства, тоже верно."
+  - q: "She refused to talk to ___ about it — not even her closest friends."
+    answers: ["anyone", "anybody"]
+    explain: "*refuse* — глагол с отрицательным смыслом («отказаться»), поэтому дальше **any**-слово."
+  - q: "I had ___ choice — the last train had gone, so I took a taxi."
+    answers: ["no", "little"]
+    explain: "***I had no choice*** — «у меня не было выбора». Можно и *little choice* — «почти не было выбора»."

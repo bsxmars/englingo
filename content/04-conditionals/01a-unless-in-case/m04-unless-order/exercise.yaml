@@ -1,0 +1,37 @@
+title: "Собери предложение: unless, in case, as long as"
+type: order
+intro: "Собери английское предложение из слов. Смысл подсказан по-русски."
+hints:
+  - "unless = «если не», «если только не»; оговорка в конце — «если, конечно, не…»."
+  - "in case — заранее, на всякий случай. После него Present, Present Perfect или прошедшее, но не will."
+items:
+  - q: "«Я поеду на такси — если ты, конечно, не хочешь прогуляться»."
+    answers: ["I'll take a taxi unless you'd rather walk", "Unless you'd rather walk I'll take a taxi"]
+    explain: "**unless** в конце — вежливая оговорка: оставляем собеседнику другой вариант. После *unless* можно *you'd rather*: это не будущее, а предпочтение."
+  - q: "«— Мне ей рассказать? — Нет, только если она сама тебя спросит»."
+    answers: ["Not unless she asks you herself"]
+    explain: "**Not unless…** — короткий ответ: «нет, кроме случая, когда…». После *unless* — Present Simple."
+  - q: "«Напомни им о встрече — вдруг они забыли»."
+    answers: ["Remind them about the meeting in case they've forgotten", "In case they've forgotten remind them about the meeting"]
+    explain: "**in case** + **Present Perfect**: «вдруг это уже случилось». Напоминаем заранее, на всякий случай."
+  - q: "«Я постучал ещё раз — вдруг меня не услышали»."
+    answers: ["I knocked again in case they hadn't heard me", "In case they hadn't heard me I knocked again"]
+    explain: "Мера предосторожности в прошлом, а «не услышали» — ещё раньше → **in case** + **Past Perfect**."
+  - q: "«Он бы ни за что не пожаловался, если бы не было совсем плохо»."
+    answers: ["He would never complain unless it was really bad", "Unless it was really bad he would never complain"]
+    explain: "Второй тип с **unless**: сдвиг времён тот же, что после *if* → *unless it **was***."
+  - q: "«Можешь взять мой ноутбук, только верни его к пятнице»."
+    answers: ["You can borrow my laptop as long as you return it by Friday", "As long as you return it by Friday you can borrow my laptop"]
+    explain: "«При условии, что» → **as long as** + Present Simple (*return*, не *will return*)."
+  - q: "«Возьми с собой зарядку на всякий случай»."
+    answers: ["Take a charger with you just in case"]
+    explain: "**just in case** без продолжения ставится в конец фразы: «на всякий случай»."
+  - q: "«Врач тебя не примет, если только это не срочно»."
+    answers: ["The doctor won't see you unless it's urgent", "Unless it's urgent the doctor won't see you"]
+    explain: "**unless** = *except if*: единственное исключение, при котором врач примет. Отрицание уже внутри *unless*, поэтому *it's urgent*, а не *isn't*."
+  - q: "«Я дал ей свой номер на случай, если ей понадобится помощь»."
+    answers: ["I gave her my number in case she needed help", "In case she needed help I gave her my number"]
+    explain: "Мера предосторожности в прошлом → **in case** + **Past Simple** (*needed*)."
+  - q: "«Пойдём пешком вдоль реки, если ты, конечно, не устал»."
+    answers: ["Let's walk along the river unless you're tired", "Unless you're tired let's walk along the river"]
+    explain: "**unless** как оговорка: предлагаем план, но оставляем исключение. «не устал» → *unless you're tired*, без второго *not*."

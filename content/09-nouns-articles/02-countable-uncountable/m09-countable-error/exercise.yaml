@@ -1,0 +1,41 @@
+title: "permission, scenery, plenty of: найди ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка: неисчисляемое существительное или слово количества. Исправь и перепиши предложение целиком."
+hints:
+  - "permission, bread, damage, chaos, scenery — без a/an и без -s."
+  - "plenty of + существительное; plenty to + глагол."
+  - "a few days ago, only a little — с артиклем."
+items:
+  - q: "You need a permission from your manager to work from home."
+    answers: ["You need permission from your manager to work from home.", "You need your manager's permission to work from home.", "You need a permit from your manager to work from home."]
+    explain: "**permission** неисчисляемое: без *a*. Разрешение-документ — *a permit*."
+  - q: "What a beautiful scenery! Let's stop and take some photos."
+    answers: ["What beautiful scenery! Let's stop and take some photos.", "What a beautiful view! Let's stop and take some photos."]
+    explain: "**scenery** неисчисляемое → *What* без *a*. Исчисляемый «напарник» — *a view*: *What a beautiful view!*"
+  - q: "Can you buy a bread on your way home?"
+    answers: ["Can you buy some bread on your way home?", "Can you buy bread on your way home?", "Can you buy a loaf of bread on your way home?"]
+    explain: "**bread** неисчисляемое: *some bread* или *a loaf of bread* (буханка)."
+  - q: "Don't worry, we've got plenty time before the film starts."
+    answers: ["Don't worry, we've got plenty of time before the film starts."]
+    explain: "Перед существительным нужен **of**: *plenty of time, plenty of ideas*."
+  - q: "There's plenty things to do in this city."
+    answers: ["There are plenty of things to do in this city.", "There's plenty to do in this city.", "There is plenty to do in this city."]
+    explain: "С существительным — *plenty **of** things* (и тогда *There are*). Без существительного — *There's plenty **to do***."
+  - q: "The storm caused a lot of damages to the roof."
+    answers: ["The storm caused a lot of damage to the roof."]
+    explain: "**damage** (ущерб) неисчисляемое. *damages* — компенсация по решению суда."
+  - q: "There was few to do in the village, so we went to bed early."
+    answers: ["There was little to do in the village, so we went to bed early.", "There was very little to do in the village, so we went to bed early."]
+    explain: "Без исчисляемого существительного — **little**: *little to do*. С существительным было бы *few things to do*."
+  - q: "I need some papers to print the report on."
+    answers: ["I need some paper to print the report on."]
+    explain: "Бумага как материал — **paper**, неисчисляемое. *papers* — это документы."
+  - q: "I saw her few days ago at the station."
+    answers: ["I saw her a few days ago at the station."]
+    explain: "Устойчивое **a few days ago** — «несколько дней назад». Без *a* смысл «мало дней» здесь не подходит."
+  - q: "We only have little time, so let's get started."
+    answers: ["We only have a little time, so let's get started."]
+    explain: "После **only** нужен артикль: *only a little, only a few*."
+  - q: "When the fire alarm went off, there was a complete chaos."
+    answers: ["When the fire alarm went off, there was complete chaos."]
+    explain: "**chaos** неисчисляемое: *complete chaos, total chaos* — без *a*."

@@ -5,6 +5,10 @@ sources:
   - {title: "Oxford Practice Grammar — verbs with -ing or to-infinitive and a change of meaning", url: "https://elt.oup.com/catalogue/items/global/grammar_vocabulary/oxford_practice_grammar/"}
   - {title: "Perfect English Grammar: Gerunds and Infinitives (3)", url: "https://www.perfect-english-grammar.com/gerunds-and-infinitives-exercise-3.html"}
   - {title: "Perfect English Grammar: Gerunds and Infinitives (4)", url: "https://www.perfect-english-grammar.com/gerunds-and-infinitives-exercise-4.html"}
+  - {title: "Видео Vlad and English: урок 56 — Verb + -ing или to, часть 1 (remember, regret)", url: "https://www.youtube.com/watch?v=0VRFZ_tym2o&t=4370s"}
+  - {title: "Видео Vlad and English: урок 57 — Verb + -ing или to, часть 2 (try, need, help)", url: "https://www.youtube.com/watch?v=0VRFZ_tym2o&t=5716s"}
+  - {title: "Видео Vlad and English: урок 58 — Verb + -ing или to, часть 3 (like, would like)", url: "https://www.youtube.com/watch?v=0VRFZ_tym2o&t=6861s"}
+  - {title: "Видео Vlad and English: урок 59 — Prefer и would rather", url: "https://www.youtube.com/watch?v=0VRFZ_tym2o&t=7869s"}
 ---
 Вчера были глаголы, которые требуют одну конкретную форму. Сегодня — семь глаголов, которые принимают **обе**, но смысл при этом меняется, иногда до противоположного. *He stopped smoking* — он бросил курить. *He stopped to smoke* — он остановился, чтобы покурить. По-русски это разные глаголы, а по-английски — один, и всё решает форма после него.
 
@@ -84,6 +88,37 @@ sources:
 
 > **Типичная ошибка русскоговорящих:** ~~I would like going to the cinema~~. *would like* = «хочу», направлено в будущее → только **to**: *I'**d like to go** to the cinema.*
 
+### would like to have done: жаль, что не случилось
+
+После *would like / would love / would hate / would prefer* можно поставить **перфектный инфинитив** — *to have + V3*. Так говорят о прошлом, которое **не случилось**:
+
+- I**'d like to have seen** the show, but the tickets sold out. — хотел бы посмотреть (а не посмотрел).
+- I**'d love to have met** your grandfather. — жаль, что не довелось.
+- I**'d hate to have been** in her position. — хорошо, что я там не был.
+- We**'d prefer to have travelled** by train. — лучше бы поехали поездом.
+
+Тот же смысл даёт *would have liked to do*: *I **would have liked to see** the show.* Оба варианта правильные.
+
+## prefer, would prefer, would rather
+
+*prefer* — «предпочитать вообще», *would prefer* — «предпочёл бы сейчас, в этой ситуации». Главная трудность — что ставить **после** второго варианта:
+
+| Модель | Пример |
+|---|---|
+| prefer **X to Y** | I **prefer tea to coffee**. |
+| prefer **doing** to **doing** | I **prefer walking to driving**. |
+| prefer **to do** rather than **do** | I **prefer to walk rather than drive**. |
+| would prefer **to do** (rather than **do**) | I**'d prefer to stay** in tonight **rather than go** out. |
+| would rather **do** (than **do**) | I**'d rather stay** in tonight **than go** out. |
+
+Логика: в *prefer X **to** Y* частица *to* — **предлог** («одно по сравнению с другим»), поэтому после неё *-ing* или существительное. Если после *prefer* уже стоит *to*-инфинитив, второе действие вводят через **rather than** и голый инфинитив.
+
+*would rather* + кто-то + Past Simple (*I'd rather **you didn't** smoke here*) подробно разобран в модуле 4, в уроке про *wish*.
+
+> **Типичная ошибка русскоговорящих:** «предпочитаю чай кофе» → ~~I prefer tea than coffee~~. С *prefer* второе слово вводится через **to**: *I prefer tea **to** coffee.* А ~~I prefer to walk than to drive~~ → *I prefer to walk **rather than** drive.*
+
+> **B2-уровень:** в B2 First Part 4 *would rather* и *would prefer* часто перефразируют друг в друга: *I'd rather walk than take the bus* = *I'd **prefer to walk rather than** take the bus*. Обрати внимание: после *would rather* нет *to*, после *would prefer* есть.
+
 ## Глаголы чувств: see / hear + -ing или голый инфинитив
 
 Бонус к теме: после *see, hear, watch, notice* + объект:
@@ -92,6 +127,42 @@ sources:
 - I **saw him crossing** the road. — видел кусок процесса.
 
 Обе формы правильные, разница тонкая, на экзамене за неё не снижают.
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 56. Verb + -ing или to, часть 1**
+
+- [1:15:29](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=4529s) — *remember doing* и *remember to do*
+- [1:17:30](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=4650s) — *regret doing* и *regret to say*
+- [1:18:33](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=4713s) — *go on doing* и *go on to do*
+- [1:20:37](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=4837s) — *begin, start, continue, intend, bother*: без разницы
+- [1:22:09](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=4929s) — практика
+
+**Урок 57. Verb + -ing или to, часть 2**
+
+- [1:35:18](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=5718s) — *try to do* и *try doing*
+- [1:37:51](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=5871s) — *need to do* и *needs doing*
+- [1:39:25](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=5965s) — *help (to) do* и *can't help doing*
+- [1:41:56](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=6116s) — практика
+
+**Урок 58. Verb + -ing или to, часть 3**
+
+- [1:54:52](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=6892s) — *like, love, hate* + -ing или to
+- [1:56:32](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=6992s) — *I like doing* и *I like to do*
+- [1:58:35](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=7115s) — *would like, would love, would prefer* + to
+- [2:00:06](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=7206s) — *would like to have done*
+- [2:02:40](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=7360s) — практика
+
+**Урок 59. Prefer и would rather**
+
+- [2:11:10](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=7870s) — *prefer to do* и *prefer doing*
+- [2:11:40](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=7900s) — *prefer X to Y*, *rather than*
+- [2:14:45](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=8085s) — *would prefer* в конкретной ситуации
+- [2:16:22](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=8182s) — *would rather do than do*
+- [2:17:54](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=8274s) — *I'd rather you did*
+- [2:20:00](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=8400s) — практика
 
 ## Проверь себя
 
@@ -128,4 +199,9 @@ explain: "**stop to** + цель: остановился, **чтобы** пог�
 Проверка на внимательность: найди неверную форму.
 
 ```exercise m08-meaning-error
+```
+
+И последнее: *prefer*, *would prefer*, *would rather* и *would like to have done*.
+
+```exercise m08-prefer-gap
 ```

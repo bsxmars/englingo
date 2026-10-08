@@ -4,6 +4,9 @@ book: [44, 45]
 sources:
   - {title: "Oxford Practice Grammar — can, could, be able to; may и be allowed to", url: "https://elt.oup.com/catalogue/items/global/grammar_vocabulary/oxford_practice_grammar/"}
   - {title: "Perfect English Grammar: Modal Verbs of Ability", url: "https://www.perfect-english-grammar.com/modal-verbs-of-ability-exercise-1.html"}
+  - {title: "Видео Vlad and English: урок 26 — can, could и be able to", url: "https://www.youtube.com/watch?v=V-cRBDeMn6I&t=9179s"}
+  - {title: "Видео Vlad and English: урок 27 — could (do) и could have (done)", url: "https://www.youtube.com/watch?v=V-cRBDeMn6I&t=10360s"}
+  - {title: "Видео Vlad and English: урок 37 — просьбы и разрешения: can, could, may", url: "https://www.youtube.com/watch?v=V-cRBDeMn6I&t=24791s"}
 ---
 Русское «смог» и «мог» отличаются одной буквой, а по-английски это разные конструкции. «В детстве я **мог** пробежать километр» — это *could*. «Вчера я **смог** починить кран» — это уже **не** *could*, а *managed to* или *was able to*. Сегодня разбираемся, как говорить об умениях и разрешениях во всех временах.
 
@@ -23,6 +26,7 @@ sources:
 | Present Perfect | **have been able to** | *I **haven't been able to** sleep lately.* |
 | после другого модального | **might / should be able to** | *You **might be able to** get a refund.* |
 | после глагола или инфинитив | **to be able to** | *I'd love **to be able to** play the piano.* |
+| после *used to* | **used to be able to** | *I **used to be able to** do fifty push-ups. Now I can barely do twenty.* |
 
 В настоящем *be able to* тоже возможен, но звучит формальнее: *She **can** / **is able to** read Chinese.* В обычной речи — *can*.
 
@@ -48,6 +52,31 @@ sources:
 В **отрицании** разницы нет: *I **couldn't** find my keys this morning* — нормально, хотя ситуация разовая.  И в вопросах тоже: *Were you able to / Could you get tickets?*
 
 > **Исключение.** С глаголами восприятия и понимания *could* возможен и для конкретного случая: *I **could see** the sea from my window*, *I **could hear** music next door*, *I **could understand** everything he said*.
+
+## could: «мог бы» сейчас и в будущем
+
+*could* — не только прошлое от *can*. Как и русское «мог бы», оно говорит о возможном **сейчас или потом**.
+
+| Значение | Пример |
+|---|---|
+| идея, вариант | *— What shall we do tonight? — We **could** go to the cinema.* / *When you're in Paris, you **could** stay with Sarah.* |
+| нереальное, с преувеличением | *I'm so tired I **could** sleep for a week.* / *I'm so angry with him I **could** scream.* |
+| «не смог бы», невозможно для меня | *I **couldn't** work night shifts — I'd fall asleep at my desk.* |
+
+В предложении варианта подходит и *can*: *You **can** stay with Sarah* — уверенно, реальный план. *You **could** stay with Sarah* — мягче, «как вариант, подумай».
+
+Устойчивые фразы, которые носители используют постоянно:
+
+| Фраза | Смысл |
+|---|---|
+| *It **couldn't be** better.* | лучше не бывает |
+| *It **could be** worse.* | могло быть и хуже (утешение) |
+| *I **couldn't agree** more.* | полностью согласен |
+| *I **could kick** myself!* | «вот я дурак!» — злюсь на себя |
+
+То же о прошлом — через *could have done*: *The trip **couldn't have been** better* (урок 03b).
+
+> **Типичная ошибка русскоговорящих:** ~~I'm so hungry I can eat a horse~~. *can* — реальная способность, а это преувеличение, фантазия → **could**: *I'm so hungry I **could** eat a horse.*
 
 ## Разрешение: can, could, may, be allowed to
 
@@ -94,6 +123,29 @@ sources:
 
 > **B2-уровень:** *may* в разрешениях звучит официально (*Passengers **may** use the lounge*), а в повседневной речи его почти вытеснили *can* и *be allowed to*. Зато *may* активно живёт в значении «возможно» — об этом в следующем уроке.
 
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 26. Can, could и be able to**
+
+- [2:33:00](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=9180s) — *can* и *be able to*; почему нельзя ~~will can~~
+- [2:36:04](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=9364s) — *have been able to*, *might be able to*
+- [2:38:09](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=9489s) — *could* или *was able to / managed to*
+- [2:40:43](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=9643s) — в отрицании подходит *couldn't*
+- [2:41:14](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=9674s) — практика
+
+**Урок 27. Could (do) и could have (done)**
+
+- [2:52:42](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=10362s) — *could* о будущем: *We could go to the cinema*
+- [2:54:46](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=10486s) — *could* менее уверенно, чем *can*; нереальное: *I could sleep for a week*
+- [3:01:26](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=10886s) — *couldn't* — «не смог бы»
+- [3:05:34](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=11134s) — практика
+
+**Урок 37. Просьбы и разрешения**
+
+- [6:56:15](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=24975s) — спросить разрешения: *Can I…? Could I…? May I…?*
+
 ## Проверь себя
 
 ```quiz
@@ -124,4 +176,7 @@ explain: "У *can* нет будущего времени → **will be able to*
 ```
 
 ```exercise m03-ability-transform
+```
+
+```exercise m03-could-gap
 ```

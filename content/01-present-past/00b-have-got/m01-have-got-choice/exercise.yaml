@@ -1,0 +1,55 @@
+title: "Владение или действие"
+type: choice
+intro: "Выбери вариант, который звучит естественно. Сначала реши: *have* здесь значит «у меня есть» или «я что-то делаю»?"
+hints:
+  - "«У меня есть» — без -ing; в прошлом просто had."
+  - "have breakfast / a shower / a break — действие: можно -ing, нельзя got."
+items:
+  - q: "Can I call you back? I ___ a shower."
+    options: ["'ve got", "'m having", "have got"]
+    answer: 1
+    explain: "*have a shower* — действие, и оно идёт прямо сейчас → **'m having**. С *got* действия не говорят."
+  - q: "My grandfather ___ a long grey beard when I was little."
+    options: ["was having", "had got", "had"]
+    answer: 2
+    explain: "Борода — состояние, а не процесс → **had**. *had got* в значении «у него была» не используют."
+  - q: "— ___ any brothers or sisters? — Yes, one brother."
+    options: ["Have you got", "Are you having", "Do you have got"]
+    answer: 0
+    explain: "Родственники — «у тебя есть» → **Have you got…?** (или *Do you have…?*). Гибрид *Do you have got* — ошибка."
+  - q: "— Do you have a charger? — Sorry, I ___."
+    options: ["haven't", "don't", "haven't got it"]
+    answer: 1
+    explain: "Вопрос через *do* → короткий ответ тоже через *do*: **No, I don't**. На *Have you got…?* ответили бы *No, I haven't*."
+  - q: "I can't eat anything spicy today — I ___ a stomach ache."
+    options: ["'m having", "'ve got", "'ve"]
+    answer: 1
+    explain: "Болезнь и симптомы — «у меня есть» → **'ve got**. Сокращение *I've* без *got* в этом значении невозможно."
+  - q: "We ___ a great time at the festival last summer."
+    options: ["had", "had got", "were having got"]
+    answer: 0
+    explain: "*have a good / great time* — действие («провести время»), в прошлом → **had**. *got* с действиями не бывает."
+  - q: "When I was at school, I ___ my own computer."
+    options: ["hadn't got", "didn't have", "haven't had"]
+    answer: 1
+    explain: "Отрицание в прошлом для «иметь» — **didn't have**. *hadn't got* звучит как Past Perfect от *get*, а *haven't had* не сочетается с «когда я был в школе»."
+  - q: "My sister ___ a baby last week — a little girl!"
+    options: ["had", "had got", "has got"]
+    answer: 0
+    explain: "*have a baby* = «родить» — событие в прошлом → **had**."
+  - q: "Did you ___ any trouble finding our office?"
+    options: ["had", "have got", "have"]
+    answer: 2
+    explain: "После *did* — голый глагол **have**. И заметь: *have trouble* + **-ing** (*finding*)."
+  - q: "— Where's Lena? — She ___ a chat with the new designer in the kitchen."
+    options: ["'s got", "has", "'s having"]
+    answer: 2
+    explain: "*have a chat* — действие, происходит сейчас → **'s having**."
+  - q: "This old phone ___ a headphone jack, unlike my new one."
+    options: ["is having", "has", "has got it"]
+    answer: 1
+    explain: "Свойство вещи — состояние → **has** (или *has got*). *is having* так не говорят."
+  - q: "I ___ difficulty concentrating since I started working from home."
+    options: ["'ve had", "'ve got had", "'ve been having got"]
+    answer: 0
+    explain: "*have difficulty* + **-ing**. С *since* — Present Perfect: **'ve had** (можно и *'ve been having*). *got* сюда не вставляется."

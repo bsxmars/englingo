@@ -138,3 +138,47 @@
   lesson: 12-prepositions/03a-dependent-prepositions
   q: "*tired of* или *tired from*?"
   a: "**tired of** — надоело (*tired of meetings*); **tired from** — физически устал после (*tired from the drive*)."
+- id: m12-at-table-on-table
+  lesson: 12-prepositions/01-place-time
+  q: "**at** / **on** / **in**: We sat ___ the table. The key is ___ the door. There's a sign ___ the door."
+  a: "*at the table* — рядом, за столом; *in the door* — в замке; *on the door* — на поверхности."
+- id: m12-get-in-get-on
+  lesson: 12-prepositions/01-place-time
+  q: "Найди ошибку: *She got off the taxi outside the station.*"
+  a: "*She got **out of** the taxi.* Машина, такси — *get in / out of*; автобус, поезд, самолёт — *get on / off*."
+- id: m12-front-back-corner
+  lesson: 12-prepositions/01-place-time
+  q: "*in the back*, *at the back* или *on the back*: детей в машине, места в зале, подпись на бланке?"
+  a: "*in the back of the car* — внутри; *at the back of the hall* — задняя часть места; *on the back of the form* — поверхность."
+- id: m12-in-hospital-role
+  lesson: 12-prepositions/01-place-time
+  q: "Чем отличаются *He's in hospital* и *I'm at the hospital*?"
+  a: "Без артикля — роль: он пациент. С артиклем — просто место: я пришёл туда (например, навестить)."
+- id: m12-like-this-as-usual
+  lesson: 12-prepositions/02-for-since-during
+  q: "**as** или **like**: Do it ___ this. ___ usual, he was late. It's the same ___ mine."
+  a: "*like this*; *as usual* (и *as always*); *the same as*."
+- id: m12-look-like-as-if
+  lesson: 12-prepositions/02-for-since-during
+  q: "Найди ошибку: *You look like tired.*"
+  a: "*You look tired.* *look* + прилагательное; *look like* + существительное; *look as if* + предложение."
+- id: m12-by-then-until-then
+  lesson: 12-prepositions/02-for-since-during
+  q: "**by then** или **until then**: The flat will be ready in May. ___, I'm staying with a friend."
+  a: "*Until then* — всё время вплоть до мая. *by then* — что-то случится к тому моменту."
+- id: m12-nice-of-you
+  lesson: 12-prepositions/03-prepositional-phrases
+  q: "**of** или **to**: It was nice ___ you to help. She's always nice ___ me."
+  a: "*nice **of** you to help* — оценка поступка, «с твоей стороны»; *nice **to** me* — как она ко мне относится."
+- id: m12-by-difference
+  lesson: 12-prepositions/03-prepositional-phrases
+  q: "Переведи: «Цены выросли на 10 %». И чем ключ отличается от уборщицы: opened ___ a key / ___ the cleaner?"
+  a: "*Prices rose **by** 10%.* Инструмент — *with a key*, исполнитель — *by the cleaner*."
+- id: m12-in-the-rain-mood
+  lesson: 12-prepositions/03-prepositional-phrases
+  q: "Предлог: ___ the rain, ___ English, ___ a bad mood, ___ fire, ___ strike, ___ the age of 16."
+  a: "*in the rain, in English, in a bad mood*; *on fire, on strike*; *at the age of 16*."
+- id: m12-at-first-in-the-end
+  lesson: 12-prepositions/03-prepositional-phrases
+  q: "«Поначалу мы не ладили, но в итоге подружились»."
+  a: "*At first (In the beginning) we didn't get on, but in the end we became friends.* «В конце чего-то» — *at the end of*."

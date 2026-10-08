@@ -1,0 +1,41 @@
+title: "Название с артиклем или без: впиши"
+type: gap
+intro: "Впиши название из скобок **с артиклем the**, если он нужен, или **без него**."
+hints:
+  - "Отели, музеи, театры, газеты, реки, моря, океаны, пустыни, группы островов, горные цепи — с the."
+  - "Улицы, парки, озёра, отдельные горы, компании, магазины с 's — без артикля."
+  - "the University of X, но X University."
+items:
+  - q: "We stayed at ___ (Savoy) — it was expensive, but worth it."
+    answers: ["the Savoy"]
+    explain: "Отели идут с **the**, даже если в названии имя: *the Savoy, the Hilton, the Ritz*."
+  - q: "My daughter is studying law at ___ (University of Edinburgh)."
+    answers: ["the University of Edinburgh"]
+    explain: "Название с **of** → **the**. Можно сказать и без артикля, но по-другому: *Edinburgh University*."
+  - q: "Let's grab a quick lunch at ___ (McDonald's) — we don't have much time."
+    answers: ["McDonald's", "a McDonald's"]
+    explain: "Магазины, кафе и рестораны с именем на **'s** — без артикля: *McDonald's, Harrods, Sainsbury's*. *a McDonald's* — «какой-нибудь ресторан этой сети», тоже возможно."
+  - q: "The ship sailed through ___ (Panama Canal) on its way to Asia."
+    answers: ["the Panama Canal"]
+    explain: "Каналы, как реки и моря, — с **the**: *the Panama Canal, the Suez Canal*."
+  - q: "___ (President) is expected to make a statement this evening."
+    answers: ["The President"]
+    explain: "Титул **без имени** → **the**: *the President, the Queen*. С именем — без: *President Lincoln*."
+  - q: "Every summer they go hiking in ___ (Alps)."
+    answers: ["the Alps"]
+    explain: "Горная цепь (множественное число) → **the**: *the Alps, the Urals*. Одна гора — без: *Mont Blanc*."
+  - q: "The view from the top of ___ (Mount Elbrus) is incredible."
+    answers: ["Mount Elbrus"]
+    explain: "*Mount* + имя одной горы → без артикля, как *Mount Everest, Mount Etna*."
+  - q: "Tourists queue for hours to get into ___ (Louvre)."
+    answers: ["the Louvre"]
+    explain: "Музеи и галереи — с **the**: *the Louvre, the Hermitage, the British Museum*."
+  - q: "The news was first reported by ___ (BBC)."
+    answers: ["the BBC"]
+    explain: "Аббревиатура, которая читается **по буквам**, сохраняет **the**: *the BBC, the EU, the UN*."
+  - q: "It's one of the hottest places in ___ (Middle East)."
+    answers: ["the Middle East"]
+    explain: "Регионы со сторонами света — *the Middle East, the Far East* — с **the**."
+  - q: "Our office is just across the road from ___ (Hyde Park)."
+    answers: ["Hyde Park"]
+    explain: "Парки, улицы и площади — без артикля: *Hyde Park, Central Park, Trafalgar Square*."

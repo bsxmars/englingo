@@ -1,0 +1,56 @@
+title: "Предлог меняет смысл"
+type: choice
+intro: "Выбери вариант, который подходит по смыслу. Во всех парах глагол один и тот же, а смысл решает предлог — или его отсутствие."
+hints:
+  - "ask — спросить, ask for — попросить; leave — уехать из, leave for — уехать в."
+  - "shout / throw at — агрессивно, в кого-то; shout / throw to — чтобы услышал или поймал."
+  - "pay the bill, но pay for the meal; believe sb — поверить словам, believe in — верить в."
+items:
+  - q: "The waiter was busy, so I waved and ___ the bill."
+    options: ["asked", "asked for", "asked about"]
+    answer: 1
+    explain: "Мы **просим** принести счёт → **ask for** the bill. *ask the bill* — «спросить счёт», так не говорят."
+  - q: "I was lost, so I stopped a woman and ___ the way to the station."
+    options: ["asked", "asked for", "asked to"]
+    answer: 0
+    explain: "Здесь мы **задаём вопрос** → **ask the way** без предлога. Так же *ask the time, ask a question*."
+  - q: "Our train ___ Edinburgh at 7:15, so we have to be at the station by seven."
+    options: ["leaves for", "leaves", "leaves to"]
+    answer: 0
+    explain: "Поезд отправляется **в** Эдинбург → **leave for** + пункт назначения. *leave Edinburgh* значило бы «уехать из Эдинбурга»."
+  - q: "My neighbour was furious and started ___ me because of the parking space."
+    options: ["shouting to", "shouting at", "shouting for"]
+    answer: 1
+    explain: "Орать **на** кого-то в гневе — **shout at**. *shout to* — крикнуть кому-то, чтобы тот услышал."
+  - q: "Anna saw me on the other side of the street and ___ me to wait."
+    options: ["shouted at", "shouted to", "shouted on"]
+    answer: 1
+    explain: "Она не злится, а просто кричит издалека, чтобы я услышал → **shout to**."
+  - q: "Catch! I'll ___ the keys ___ you."
+    options: ["throw … at", "throw … to", "throw … on"]
+    answer: 1
+    explain: "Бросаем, чтобы человек **поймал** → **throw sth to sb**. *throw at* — бросить **в** кого-то, чтобы попасть."
+  - q: "The police ___ the whole flat but didn't find the money."
+    options: ["searched for", "searched", "searched about"]
+    answer: 1
+    explain: "Обыскать место — **search** + место без предлога. *search for* — искать то, что пропало: *search for the money*."
+  - q: "She ___ several universities in Canada and got two offers."
+    options: ["applied for", "applied to", "applied on"]
+    answer: 1
+    explain: "Подают документы **в организацию** → **apply to** a university / a company. **apply for** — на должность, визу, грант."
+  - q: "I don't ___ a word he says — he's lied to me too many times."
+    options: ["believe", "believe in", "believe to"]
+    answer: 0
+    explain: "Поверить словам человека → **believe** + дополнение без предлога. **believe in** — верить в существование или ценность чего-то: *believe in ghosts*."
+  - q: "It wasn't my fault! Don't ___ me!"
+    options: ["blame it on", "blame it for", "blame it to"]
+    answer: 0
+    explain: "Свалить вину **на** кого-то → **blame sth on sb**. Другой порядок: *blame **me for** it*."
+  - q: "Have you ___ Tom lately? He hasn't answered my messages."
+    options: ["heard of", "heard about", "heard from"]
+    answer: 2
+    explain: "Получить весточку от человека — **hear from**. *hear of* — знать о существовании, *hear about* — узнать о событии."
+  - q: "The patient ___ chest pains and dizziness."
+    options: ["complained to", "complained of", "complained for"]
+    answer: 1
+    explain: "Жаловаться на **симптом** (врачу) — **complain of**. *complain to* — кому, *complain about* — на что-то (шум, сервис)."

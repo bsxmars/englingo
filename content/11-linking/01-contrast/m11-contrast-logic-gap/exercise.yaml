@@ -1,0 +1,44 @@
+title: "Вопреки или из-за: although, despite, because, even"
+type: gap
+intro: "Впиши связку или недостающее слово. Сначала реши по смыслу: результат **вопреки** обстоятельству или **из-за** него? Потом проверь, что стоит после пропуска."
+hints:
+  - "Неожиданный результат — although / even though / despite; ожидаемый — because / because of."
+  - "even само по себе не союз: even though, even if, even so."
+  - "После despite / in spite of — существительное, this / what…, -ing."
+items:
+  - q: "We had a lovely walk in the park ___ the drizzle."
+    answers: ["despite", "in spite of"]
+    explain: "Мелкий дождь мешал, но прогулка удалась — результат **вопреки**. После пропуска существительное → предлог **despite / in spite of**."
+  - q: "The outdoor concert was called off ___ the storm."
+    answers: ["because of", "due to", "owing to", "on account of"]
+    explain: "Концерт отменили **из-за** грозы — ожидаемый результат, поэтому не *despite*. Перед существительным — **because of / due to / owing to**."
+  - q: "My knee was hurting badly. ___ this, I managed to finish the half marathon."
+    answers: ["Despite", "In spite of"]
+    explain: "**Despite this / In spite of this** — «несмотря на это»: местоимение *this* отсылает к предыдущему предложению."
+  - q: "She quit her job in spite ___ what her parents told her."
+    answers: ["of"]
+    explain: "**in spite of** всегда с *of*. После него может стоять придаточное с *what*: *in spite of what they said*."
+  - q: "I couldn't concentrate on my book ___ the neighbours were having a party."
+    answers: ["because", "as", "since"]
+    explain: "Шум **помешал** читать — это причина, а не уступка. Дальше подлежащее и глагол → **because** (или *as / since*)."
+  - q: "I concentrated perfectly well ___ the neighbours were having a party."
+    answers: ["although", "though", "even though", "while"]
+    explain: "Шум был, а читать получилось — результат **вопреки**. Дальше предложение → союз **although / even though**."
+  - q: "___ though I'd set two alarms, I still overslept."
+    answers: ["Even"]
+    explain: "**Even though** = «хотя (и)», сильнее *although*. Одно *even* союзом не бывает: ~~Even I'd set two alarms~~."
+  - q: "The film was far too long. I really enjoyed it, ___."
+    answers: ["though"]
+    explain: "В конце предложения в значении «впрочем, всё-таки» ставится только **though**. *although* и *even though* туда не встают."
+  - q: "Despite the train ___ forty minutes late, we got to the wedding on time. (be)"
+    answers: ["being"]
+    explain: "После *despite* глагол идёт в *-ing*. У *-ing* своё подлежащее (*the train*), оно стоит перед ним: **despite the train being late**."
+  - q: "The hotel was cheap and a bit shabby. Even ___, we had a wonderful week there."
+    answers: ["so"]
+    explain: "**Even so** = «и всё же, тем не менее». Это наречие: начинает новое предложение, после него запятая."
+  - q: "We're having the barbecue even ___ it rains — we've hired a big tent."
+    answers: ["if"]
+    explain: "Дождя пока нет, это условие → **even if** («даже если»). *Even though* — о факте, который уже есть."
+  - q: "In spite of ___ (not / speak) the language, he made a lot of friends in Lisbon."
+    answers: ["not speaking"]
+    explain: "После предлога *in spite of* — *-ing*, отрицание *not* ставим перед ним: **not speaking**."

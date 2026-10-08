@@ -1,0 +1,57 @@
+title: "Перефразирование: фразовые глаголы по частицам (B2 First)"
+type: transform
+intro: "Перепиши предложение так, чтобы смысл не изменился. Используй слово в скобках, не меняя его, и впиши от двух до пяти слов."
+hints:
+  - "Частица остаётся сразу после глагола и в пассиве: was held up, was carried out."
+  - "Местоимение — между глаголом и частицей: give it away, put it off."
+items:
+  - q: "The team consists of five designers and two developers."
+    key: "MADE"
+    stem: "The team ___ five designers and two developers."
+    answers: ["is made up of"]
+    explain: "**be made up of** = *consist of* — состоять из. В пассиве нужен *is*, а предлог *of* обязателен."
+  - q: "The heavy traffic delayed us for an hour."
+    key: "HELD"
+    stem: "We ___ the heavy traffic for an hour."
+    answers: ["were held up by", "got held up by"]
+    explain: "**hold up** — задержать. Пассив: *we were held up by* the traffic."
+  - q: "The researchers conducted the survey last spring."
+    key: "CARRIED"
+    stem: "The survey ___ last spring."
+    answers: ["was carried out"]
+    explain: "**carry out** a survey = провести опрос. В пассиве частица остаётся сразу после V3: *was carried out*."
+  - q: "I didn't sell my old laptop — I gave it to a friend for free."
+    key: "AWAY"
+    stem: "I didn't sell my old laptop — I ___ to a friend."
+    answers: ["gave it away"]
+    explain: "**give away** — отдать даром. Местоимение *it* стоит между глаголом и частицей."
+  - q: "The price of the course made me lose interest in it."
+    key: "PUT"
+    stem: "I ___ the course by its price."
+    answers: ["was put off"]
+    explain: "**put sb off** — отбить желание. В пассиве: *I was put off by* the price."
+  - q: "The teacher criticised Ben angrily for cheating."
+    key: "TOLD"
+    stem: "The teacher ___ cheating."
+    answers: ["told Ben off for", "told him off for"]
+    explain: "**tell sb off for** doing sth — отругать за что-то. Дополнение стоит между *told* и *off*."
+  - q: "Please don't go near the dog — it bites."
+    key: "AWAY"
+    stem: "Please ___ the dog — it bites."
+    answers: ["keep away from", "stay away from"]
+    explain: "**keep away from** — держаться подальше от. Здесь подходит и *stay away from*."
+  - q: "I'll reply to you as soon as I have the figures."
+    key: "BACK"
+    stem: "I'll ___ as soon as I have the figures."
+    answers: ["get back to you"]
+    explain: "**get back to sb** — ответить позже. Предлог *to* обязателен."
+  - q: "This big wardrobe fills almost half the bedroom."
+    key: "UP"
+    stem: "This big wardrobe ___ half the bedroom."
+    answers: ["takes up almost", "takes up nearly"]
+    explain: "**take up** space — занимать место. *almost* из исходного предложения нужно сохранить."
+  - q: "It's cheaper to travel by coach than by train."
+    key: "WORKS"
+    stem: "Travelling by coach ___ than going by train."
+    answers: ["works out cheaper"]
+    explain: "**work out** + прилагательное — «выходить, обходиться»: *It works out cheaper*."

@@ -1,0 +1,43 @@
+title: "Нужная форма have"
+type: gap
+intro: "Впиши нужную форму *have* (или *have got*) по подсказке в скобках. Если подходят оба варианта, годится любой."
+hints:
+  - "Настоящее, «у меня есть»: have или have got. Прошлое: had / didn't have / did … have."
+  - "Действия (have lunch, have a break) — без got, в процессе — с -ing."
+items:
+  - q: "I ___ (not / have) a car, so I cycle to work."
+    answers: ["don't have", "do not have", "haven't got", "have not got"]
+    explain: "«У меня нет» в настоящем: **don't have** или **haven't got**. Не смешивай: ~~don't have got~~."
+  - q: "___ (you / have) any plans for Saturday?"
+    answers: ["Do you have", "Have you got"]
+    explain: "«У тебя есть планы?» — владение в настоящем → **Do you have** или **Have you got**."
+  - q: "When we were students, we ___ (not / have) much money."
+    answers: ["didn't have", "did not have"]
+    explain: "Прошлое отрицание для «иметь» → **didn't have**. ~~hadn't~~ и ~~hadn't got~~ здесь не используют."
+  - q: "___ (you / have) a good flight? You look tired."
+    answers: ["Did you have"]
+    explain: "*have a good flight* — событие в прошлом → **Did you have**."
+  - q: "Shh! The baby ___ (have) a nap. Please don't wake her."
+    answers: ["is having", "'s having"]
+    explain: "*have a nap* — действие, идёт сейчас → **is having**."
+  - q: "My brother ___ (have) dark hair, but now it's almost grey."
+    answers: ["had", "used to have"]
+    explain: "Внешность в прошлом, состояние → **had** (или *used to have*). Continuous и *got* не нужны."
+  - q: "I usually ___ (have) breakfast at about eight."
+    answers: ["have"]
+    explain: "*have breakfast* — привычное действие → Present Simple **have**. ~~I've got breakfast~~ и ~~I've breakfast~~ — ошибки."
+  - q: "— Has she got a laptop? — No, she ___."
+    answers: ["hasn't", "has not"]
+    explain: "Вопрос через *has … got* → краткий ответ **No, she hasn't**. *No, she doesn't* — ответ на *Does she have…?*"
+  - q: "Sorry I'm late — I ___ (have) trouble finding a parking space."
+    answers: ["had"]
+    explain: "Трудность в прошлом → **had**, а после *have trouble* — **-ing** (*finding*)."
+  - q: "We ___ (have) a meeting when the fire alarm went off."
+    answers: ["were having"]
+    explain: "*have a meeting* — действие в процессе, которое прервали → Past Continuous **were having**."
+  - q: "I can't come to the party — I ___ (have) a terrible cold."
+    answers: ["have got", "'ve got", "have"]
+    explain: "Болезнь — «у меня есть» → **'ve got** или **have**. ~~I'm having a cold~~ так не говорят."
+  - q: "Let me ___ (have) a look at your code — maybe I can spot the bug."
+    answers: ["have"]
+    explain: "После *let me* — инфинитив без *to*: **have** *a look*. *got* в инфинитиве не бывает."

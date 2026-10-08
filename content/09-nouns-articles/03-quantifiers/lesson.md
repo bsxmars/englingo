@@ -5,6 +5,12 @@ sources:
   - {title: "Oxford Practice Grammar — some, any, no, all, both, each, every", url: "https://elt.oup.com/catalogue/items/global/grammar_vocabulary/oxford_practice_grammar/"}
   - {title: "Perfect English Grammar: some и any (1)", url: "https://www.perfect-english-grammar.com/some-and-any-exercise-1.html"}
   - {title: "Perfect English Grammar: some и any (2)", url: "https://www.perfect-english-grammar.com/some-and-any-exercise-2.html"}
+  - {title: "Видео Vlad and English: урок 85 — some и any", url: "https://www.youtube.com/watch?v=1_FACNmXj9M&t=4059s"}
+  - {title: "Видео Vlad and English: урок 86 — no, none, any, nothing, nobody", url: "https://www.youtube.com/watch?v=1_FACNmXj9M&t=5117s"}
+  - {title: "Видео Vlad and English: урок 88 — all / all of, most / most of, no / none of", url: "https://www.youtube.com/watch?v=1_FACNmXj9M&t=7551s"}
+  - {title: "Видео Vlad and English: урок 89 — both, either, neither", url: "https://www.youtube.com/watch?v=1_FACNmXj9M&t=8518s"}
+  - {title: "Видео Vlad and English: урок 90 — all, every, whole", url: "https://www.youtube.com/watch?v=1_FACNmXj9M&t=10067s"}
+  - {title: "Видео Vlad and English: урок 91 — each и every", url: "https://www.youtube.com/watch?v=1_FACNmXj9M&t=11022s"}
 ---
 Слова вроде *some, any, each, neither* называют **quantifiers** — они отвечают на вопрос «сколько» или «какие из». Русскоговорящих здесь подводят три вещи:
 
@@ -24,6 +30,21 @@ sources:
 - **some** в вопросах — когда предлагаем или просим и ждём «да»: *Would you like **some** tea? Can I have **some** water?*
 - **any** в утверждениях — «любой, неважно какой»: ***Any** bus from this stop goes to the centre. Call me **any** time.*
 
+### any там, где смысл отрицательный или условный
+
+**any** ставят не только после *not*, но и после слов с отрицательным смыслом и в условиях:
+
+| Где | Пример |
+|---|---|
+| *without, never, hardly, refuse, deny* | *She left **without any** money. He **refused** to say **anything**. **Hardly anyone** came.* |
+| *if* и «если вдруг» | *Let me know **if** you need **anything**. **If anyone** calls, take a message.* |
+| *anyone who…* = «всякий, кто» | ***Anyone who** parks here will be fined.* |
+| «если что-то было» | *Sorry for **any** inconvenience.* — за неудобства, если они были |
+
+И наоборот, **some** в вопросе — когда ждём ответа «да» или уже уверены: *Are you waiting for **someone**? Can I ask you **something**?*
+
+> **Типичная ошибка русскоговорящих:** ~~He went out without some money~~, ~~Hardly nobody came~~. После *without* — **any**; *hardly* уже отрицание, поэтому ***hardly anybody***.
+
 ### no = not any
 
 **no** + существительное = *not … any*, но звучит категоричнее:
@@ -32,6 +53,15 @@ sources:
 - I have **no** idea. (так говорят чаще, чем *I don't have any idea*)
 
 **no** ставится **перед существительным**, **none** — **вместо** него: *Is there any milk? — No, there's **none** left.*
+
+В **начале предложения** возможны только *no / nobody / nothing*, потому что *any* не может стоять до отрицания:
+
+- ***No** buses were running.* ~~Not any buses were running.~~
+- ***Nobody** came to the meeting.* ~~Anybody didn't come.~~
+
+Устойчивые фразы с **no**, которые лучше запомнить целиком: *It's **no** secret. There's **no** difference. I had **no** choice. **No** problem. There's **no** need to hurry.*
+
+Ответ одним словом: *How much bread did you buy? — **None*** (хлеба — нисколько). Но о цене: *How much did it cost? — **Nothing**. It was free.* *none* заменяет существительное из вопроса, а *nothing* значит «ничто».
 
 ### Производные
 
@@ -63,6 +93,14 @@ sources:
 - She wore a ring on **each** hand. — рук две, поэтому только *each*, не *every*.
 - **Every** day, **every** time, **almost every** — с *almost, nearly* только *every*.
 
+**each** — каждый **по отдельности**, по одному; **every** — все сразу, как группа. Поэтому: *She checked **each** answer carefully* (одно за другим), но *I understood most of it, but **not every** word* (не все слова). После *not* и *almost* — только *every*.
+
+**each** может стоять **один**, без существительного: *The rooms are all different — **each** has its own style* (или ***each one***). *every* один не стоит: ~~Every has its own style~~ → ***Every one** has its own style*.
+
+**each** бывает и в середине предложения или в конце, с ценой: *The students **each** got a certificate. We were **each** given a map. The tickets cost £20 **each***.
+
+**every one** (два слова) — «каждый из них», о людях и вещах: *I've read **every one** of her books.* **everyone** (одно слово) — «все люди»: ***Everyone** loves her.*
+
 **each of / every one of** + **the/my/these** + множественное + глагол в единственном числе:
 
 - **Each of** the players **gets** a medal. **Every one of** them **was** late.
@@ -80,9 +118,37 @@ sources:
 
 > **Типичная ошибка русскоговорящих:** ~~Most of people~~, ~~the most people~~. «Большинство людей» — ***Most people***; «большинство **из этих** людей» — ***Most of the / these people***.
 
+### some of, many of, none of: когда нужен of
+
+Правило одно для всех слов количества (*some, any, many, much, most, a few, a little, none, all, half*):
+
+| Сразу существительное — «вообще» | **of** + *the / my / these / it / them* — «из конкретных» |
+|---|---|
+| ***Some** people work at night.* | ***Some of the** people I work with are night owls.* |
+| *She's been to **most** European countries.* | *She's been to **most of the** countries in the EU.* |
+| *I don't spend **much** time online.* | *I spend **much of my** free time online.* |
+| — | ***None of us** knew the answer. **Some of it** was true.* |
+
+Если существительное уже было, его можно опустить: *A few shops were open, but **most** were closed. Some people loved it, **others** hated it.*
+
+### all или everything / everybody
+
+Само по себе *all* в роли «все» или «всё» почти не используется. Говорим **everybody / everyone** и **everything**:
+
+- ***Everybody** enjoyed the party.* ~~All enjoyed the party.~~
+- *He thinks he knows **everything**.* ~~He knows all.~~
+
+*all* возможно, когда за ним что-то идёт: ***all** the guests*, ***all of** us*, *we **all***, ***all about** computers*, ***All** I want is a holiday* (= единственное, чего я хочу).
+
+**whole** — только с исчисляемым в единственном числе. С неисчисляемым — **all**: ***all the** money, **all the** information* (~~the whole money~~, ~~the whole information~~).
+
 ### all day или every day
 
-**all day** = весь день (один день целиком). **every day** = каждый день. Также *the whole day* = весь день.
+**all day** = весь день (один день целиком). **every day** = каждый день. Также *the whole day* = весь день. Без артикля: ***all day, all week, all morning*** (~~all the day~~).
+
+Похожая пара: **all the time** = постоянно, всё время (*It rains **all the time** here*) и **every time** = каждый раз, когда (***Every time** I call, she's busy*).
+
+**every** + число + **множественное**: *There's a bus **every ten minutes**. The Olympics take place **every four years**.* Также ***every other** day* — через день.
 
 ## both, either, neither — когда речь о двух
 
@@ -101,6 +167,14 @@ sources:
 **neither of + множественное** — в аккуратной речи глагол в единственном числе (*Neither of them **is** ready*), в разговорной встречается и множественное (*Neither of them **are** ready*).
 
 > **Типичная ошибка русскоговорящих:** ~~None of my parents~~. Родителей двое → **neither**. *none* — для трёх и больше.
+
+### Тонкости both, either, neither
+
+- Без *of* — сразу существительное: **both** + множественное, **either / neither** + **единственное**: ***Both** answers are correct. **Neither** answer **is** correct. You can sit at **either** end of the table.*
+- *both … and*, *neither … nor*, *either … or* соединяют не только существительные, но и прилагательные и глаголы: *The film was **both** long **and** boring. He **neither** said hello **nor** smiled.*
+- После *neither … nor* глагол обычно согласуют с **ближайшим** подлежащим: *Neither Tom nor his sisters **are** coming.* Если оба в единственном числе, в аккуратной речи — единственное: *Neither Jo nor Sam **has** a car.*
+- Для двух — *either / neither*, для трёх и больше — *any / none*: *I've got two sisters, but you haven't met **either** of them. I've got four brothers, but you haven't met **any** of them.*
+- *not … either* = *neither*: *I haven't met **either** of them* = *I've met **neither** of them*. После *not* слово *neither* не ставим — будет двойное отрицание.
 
 ## none
 
@@ -141,6 +215,64 @@ sources:
 
 > **Типичная ошибка русскоговорящих:** ~~I raised the hand~~ (по-русски «я поднял руку»). По-английски — *I raised **my** hand*. Русское «свой» почти всегда переводится через *my / his / her*.
 
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 85. Some и any**
+
+- [1:07:39](https://www.youtube.com/watch?v=1_FACNmXj9M&t=4059s) — *some* в утверждениях, *any* в отрицаниях
+- [1:08:42](https://www.youtube.com/watch?v=1_FACNmXj9M&t=4122s) — *any* после *without, refuse, hardly*
+- [1:10:16](https://www.youtube.com/watch?v=1_FACNmXj9M&t=4216s) — *some* в просьбах и предложениях
+- [1:10:49](https://www.youtube.com/watch?v=1_FACNmXj9M&t=4249s) — *any* в вопросах и после *if*
+- [1:12:22](https://www.youtube.com/watch?v=1_FACNmXj9M&t=4342s) — *any* = «любой»: *any bus, anytime*
+- [1:14:56](https://www.youtube.com/watch?v=1_FACNmXj9M&t=4496s) — практика
+
+**Урок 86. No, none, any, nothing, nobody**
+
+- [1:25:17](https://www.youtube.com/watch?v=1_FACNmXj9M&t=5117s) — *no* + существительное = *not a / not any*
+- [1:26:23](https://www.youtube.com/watch?v=1_FACNmXj9M&t=5183s) — *none* без существительного и *none of*
+- [1:27:57](https://www.youtube.com/watch?v=1_FACNmXj9M&t=5277s) — *none of the students was / were*
+- [1:28:57](https://www.youtube.com/watch?v=1_FACNmXj9M&t=5337s) — *nothing, nobody, nowhere* в начале и в ответах
+- [1:30:30](https://www.youtube.com/watch?v=1_FACNmXj9M&t=5430s) — одно отрицание в предложении; *nobody … they*
+- [1:33:34](https://www.youtube.com/watch?v=1_FACNmXj9M&t=5614s) — практика
+
+**Урок 88. All / all of, most / most of, no / none of**
+
+- [2:05:51](https://www.youtube.com/watch?v=1_FACNmXj9M&t=7551s) — *all, some, most* + существительное без *of*
+- [2:06:23](https://www.youtube.com/watch?v=1_FACNmXj9M&t=7583s) — ~~all of cars~~: *of* только перед *the, my, these*
+- [2:06:54](https://www.youtube.com/watch?v=1_FACNmXj9M&t=7614s) — *some of the people, most of my time*
+- [2:09:58](https://www.youtube.com/watch?v=1_FACNmXj9M&t=7798s) — *all of us, some of it, none of them*
+- [2:11:02](https://www.youtube.com/watch?v=1_FACNmXj9M&t=7862s) — *some, most* без существительного
+- [2:12:03](https://www.youtube.com/watch?v=1_FACNmXj9M&t=7923s) — практика
+
+**Урок 89. Both, either, neither**
+
+- [2:21:58](https://www.youtube.com/watch?v=1_FACNmXj9M&t=8518s) — слова для двух предметов
+- [2:22:32](https://www.youtube.com/watch?v=1_FACNmXj9M&t=8552s) — *both restaurants*, но *neither restaurant is*
+- [2:24:34](https://www.youtube.com/watch?v=1_FACNmXj9M&t=8674s) — *both of, neither of, either of* + *the / my / us*
+- [2:27:38](https://www.youtube.com/watch?v=1_FACNmXj9M&t=8858s) — *both … and, neither … nor, either … or*
+- [2:29:41](https://www.youtube.com/watch?v=1_FACNmXj9M&t=8981s) — два предмета или больше: *either / any, neither / none*
+- [2:31:15](https://www.youtube.com/watch?v=1_FACNmXj9M&t=9075s) — практика
+
+**Урок 90. All, every, whole**
+
+- [2:47:47](https://www.youtube.com/watch?v=1_FACNmXj9M&t=10067s) — *everybody, everything* вместо *all*
+- [2:48:19](https://www.youtube.com/watch?v=1_FACNmXj9M&t=10099s) — когда *all* возможно: *all of us, all about, All I've eaten is…*
+- [2:49:21](https://www.youtube.com/watch?v=1_FACNmXj9M&t=10161s) — *whole*: *the whole book*, но *all the money*
+- [2:51:25](https://www.youtube.com/watch?v=1_FACNmXj9M&t=10285s) — *every day* и *all day / the whole day*
+- [2:52:58](https://www.youtube.com/watch?v=1_FACNmXj9M&t=10378s) — *all the time* и *every time*
+- [2:54:32](https://www.youtube.com/watch?v=1_FACNmXj9M&t=10472s) — практика
+
+**Урок 91. Each и every**
+
+- [3:03:42](https://www.youtube.com/watch?v=1_FACNmXj9M&t=11022s) — *each* и *every*: где взаимозаменяемы
+- [3:04:18](https://www.youtube.com/watch?v=1_FACNmXj9M&t=11058s) — *each* — по отдельности, по одному
+- [3:04:50](https://www.youtube.com/watch?v=1_FACNmXj9M&t=11090s) — *every* — все как группа
+- [3:08:28](https://www.youtube.com/watch?v=1_FACNmXj9M&t=11308s) — *each* без существительного, *each of*, *every one of*
+- [3:10:35](https://www.youtube.com/watch?v=1_FACNmXj9M&t=11435s) — *were each given*, *£1 each*; *everyone* и *every one*
+- [3:12:42](https://www.youtube.com/watch?v=1_FACNmXj9M&t=11562s) — практика
+
 ## Проверь себя
 
 ```quiz
@@ -174,4 +306,10 @@ explain: "**each of** + множественное + глагол в **един�
 ```
 
 ```exercise m09-quant-gap
+```
+
+```exercise m09-any-none-gap
+```
+
+```exercise m09-all-each-choice
 ```

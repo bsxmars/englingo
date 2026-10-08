@@ -27,6 +27,11 @@ describe('markdown', () => {
     expect(markdown('~~no~~')).toContain('<del>no</del>');
   });
 
+  it('opens external links in a new tab', () => {
+    expect(markdown('[v](https://youtu.be/x?t=1)')).toContain('<a href="https://youtu.be/x?t=1" target="_blank" rel="noopener">v</a>');
+    expect(markdown('[c](/course)')).toContain('<a href="/course">c</a>');
+  });
+
   it('typesets dashes and ellipsis but not (c)', () => {
     expect(markdown('a -- b --- c... (c)')).toBe('<p>a – b — c… (c)</p>\n');
   });

@@ -45,3 +45,15 @@ items:
     options: ["who", "whose", "who's"]
     answer: 1
     explain: "«Чья собака» → **whose dog**."
+  - q: "Moving to Lisbon was the best decision ___ ."
+    options: ["I've ever made it", "I've ever made", "what I've ever made"]
+    answer: 1
+    explain: "После превосходной степени — *that* или ничего. Решение здесь объект (*I made it*), поэтому местоимение опущено. *it* в конце дублирует объект, *what* после существительного невозможно."
+  - q: "Meeting you is the best thing ___ to me this year."
+    options: ["has happened", "that has happened", "what has happened"]
+    answer: 1
+    explain: "*thing* сама «случилась» → местоимение — подлежащее, опустить нельзя: **that has happened**. После превосходной степени выбираем *that*, а не *what*."
+  - q: "There's nothing ___ we can do about it now."
+    options: ["what", "which", "that"]
+    answer: 2
+    explain: "После *nothing, everything, all, anything* — **that** или ничего. *what* после такого слова — ошибка, *which* носители здесь не используют."

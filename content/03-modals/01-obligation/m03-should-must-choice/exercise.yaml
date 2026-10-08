@@ -1,0 +1,55 @@
+title: "should, must, have to: оттенки"
+type: choice
+intro: "Выбери вариант, который верен и по форме, и по смыслу. Здесь *should* не только совет, но и ожидание, а *must* — правило и рекомендация."
+hints:
+  - "should = «по идее, должно» (ожидание); must = вывод из фактов или правило."
+  - "После insist / recommend / it's essential that — (should) + голая форма глагола."
+items:
+  - q: "Kate has been preparing for the interview for two weeks, so she ___ do well."
+    options: ["should", "must", "has to"]
+    answer: 0
+    explain: "Ожидаемый результат: если всё пойдёт нормально, справится → **should**. *must* прозвучало бы как приказ, *has to* — как обязанность."
+  - q: "It's 9:15. The bank ___ be open by now. Why is the door still locked?"
+    options: ["should", "must", "can"]
+    answer: 0
+    explain: "Так должно быть по расписанию, а на деле иначе → **should**. *must be open* — уверенный вывод, но запертая дверь ему противоречит."
+  - q: "— Do you think I should tell her the truth? — No, ___."
+    options: ["I don't think you should", "I don't think you shouldn't", "I think you not should"]
+    answer: 0
+    explain: "Естественно перенести отрицание в *think*: **I don't think you should**. Двойное отрицание переворачивает смысл, а *not* ставится после модального, не перед ним."
+  - q: "The repair would cost more than the phone is worth, so I ___ buy a new one."
+    options: ["'m going to have to", "'m going to must", "must to"]
+    answer: 0
+    explain: "У *must* нет формы с *going to*, поэтому «придётся» → **'m going to have to**. После *must* частица *to* невозможна."
+  - q: "Hand luggage ___ under the seat in front of you during take-off."
+    options: ["must be stored", "must store", "must be store"]
+    answer: 0
+    explain: "Багаж не убирает сам себя → пассив **must be + V3**: *must be stored*. Так звучат правила и инструкции."
+  - q: "You ___ try the dumplings at that place on the corner — they're the best in town!"
+    options: ["must", "mustn't", "have got to not"]
+    answer: 0
+    explain: "**You must + глагол** в разговоре — горячая рекомендация: «обязательно попробуй». Это не приказ."
+  - q: "The doctor insisted that he ___ in bed for at least three days."
+    options: ["stay", "stays", "to stay"]
+    answer: 0
+    explain: "После **insist that** — (*should*) + голая форма: *that he (should) stay*. Без *-s* и без *to*."
+  - q: "It's essential that every visitor ___ a visitor's badge."
+    options: ["wear", "wears to", "must to wear"]
+    answer: 0
+    explain: "**It's essential that + (should) V**: *that every visitor (should) wear*. Голая форма без *-s* — признак этой конструкции."
+  - q: "That cyclist ___ a helmet — he's going really fast in heavy traffic."
+    options: ["should be wearing", "should wearing", "should wear to"]
+    answer: 0
+    explain: "Говорим о том, что видим прямо сейчас → **should be + -ing**: «сейчас на нём должен быть шлем, а его нет»."
+  - q: "— Should I take a jacket? It looks like rain. — Yes, you ___."
+    options: ["'d better", "'d better to", "better had"]
+    answer: 0
+    explain: "Короткий ответ с **had better** без глагола: *Yes, you'd better.* *to* после *better* невозможно."
+  - q: "The parcel was sent on Monday, so you ___ receive it by Thursday."
+    options: ["should", "must", "ought"]
+    answer: 0
+    explain: "Ожидание по плану → **should** (или *ought to* — но с *to*). *must* звучит как приказ получателю."
+  - q: "It's almost midnight. It's time we ___ home."
+    options: ["went", "go to", "will go"]
+    answer: 0
+    explain: "**It's time + подлежащее + Past Simple** — «давно пора»: *It's time we went*. Можно и *It's time to go home*."

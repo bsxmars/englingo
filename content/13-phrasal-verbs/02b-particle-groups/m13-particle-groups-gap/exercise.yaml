@@ -1,0 +1,44 @@
+title: "Какая частица: in, out, on, off, up, down, away, back?"
+type: gap
+intro: "Впиши частицу (или частицу с предлогом, если она нужна). Опирайся на направление смысла: *out* — наружу или до конца, *off* — прочь, *up* — до результата, *back* — назад или в ответ."
+hints:
+  - "take off — снять одежду; put off — отложить или отбить желание."
+  - "put away — убрать на место; throw away — выбросить; give away — отдать даром."
+  - "close down — закрыться навсегда; blow up — взорвать(ся)."
+items:
+  - q: "It's a mosque, so please take ___ your shoes before you go in."
+    answers: ["off"]
+    explain: "Снять одежду или обувь — **take off**. Не ~~put off~~: *put off* значит «отложить»."
+  - q: "I was sitting in a warm room after lunch and dozed ___ in the middle of the meeting."
+    answers: ["off"]
+    explain: "**doze off** (= *drop off, nod off*) — задремать. *off* — «отключиться»."
+  - q: "My parents came to the station to see me ___."
+    answers: ["off"]
+    explain: "**see sb off** — проводить уезжающего. Местоимение стоит между глаголом и частицей."
+  - q: "When you've finished with the scissors, please put them ___ in the drawer."
+    answers: ["away", "back"]
+    explain: "**put away** — убрать на место, **put back** — положить обратно. Оба подходят: в ящике им и место."
+  - q: "Gary won the lottery and gave most of the money ___ to charity."
+    answers: ["away"]
+    explain: "**give away** — отдать даром, раздать. *give back* значило бы «вернуть»."
+  - q: "I'm sorry, the manager isn't here. Can she call you ___ later?"
+    answers: ["back"]
+    explain: "**call back** (= *ring back*) — перезвонить. *back* — в ответ."
+  - q: "The little bookshop on our street has closed ___ — it couldn't compete with online stores."
+    answers: ["down"]
+    explain: "Закрыться **навсегда** — **close down**. *The shop closes at 8* — закрывается на ночь."
+  - q: "The old cinema burned ___ in 1998, and now there's a car park there."
+    answers: ["down"]
+    explain: "**burn down** — сгореть дотла. *down* — разрушение, «на землю»."
+  - q: "Terrorists tried to blow ___ the bridge, but the bomb didn't go off."
+    answers: ["up"]
+    explain: "Взорвать — **blow up**. *blow down* — повалить ветром: *Trees were blown down in the storm*."
+  - q: "Do ___ your jacket — it's freezing outside."
+    answers: ["up"]
+    explain: "**do up** — застегнуть (куртку, пуговицы, молнию). Противоположное — *undo*."
+  - q: "Can you plug the kettle ___? The socket is behind you."
+    answers: ["in"]
+    explain: "**plug in** — включить в розетку. Обратное — *unplug*."
+  - q: "I had to stay late at work and couldn't get ___ of it, so I missed the concert."
+    answers: ["out"]
+    explain: "**get out of** sth / doing sth — отвертеться, увильнуть. Предлог *of* уже стоит в предложении."

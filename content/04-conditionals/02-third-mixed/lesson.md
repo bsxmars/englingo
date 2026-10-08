@@ -5,6 +5,7 @@ sources:
   - {title: "Oxford Practice Grammar — third conditional и смешанные условные", url: "https://elt.oup.com/catalogue/items/global/grammar_vocabulary/oxford_practice_grammar/"}
   - {title: "Perfect English Grammar: Third Conditional", url: "https://www.perfect-english-grammar.com/third-conditional-exercise-1.html"}
   - {title: "Perfect English Grammar: First, Second and Third Conditionals", url: "https://www.perfect-english-grammar.com/first-second-third-conditionals-exercise.html"}
+  - {title: "Видео Vlad and English: урок 40 — If I had known, I wish I had known", url: "https://www.youtube.com/watch?v=m8pe5CiAVVE&t=2882s"}
 ---
 «Если бы я знал, я бы пришёл» — по-русски эта фраза одинакова и для «сейчас», и для «вчера». Английский различает: *If I **knew**, I **would come*** (сейчас не знаю) и *If I **had known**, I **would have come*** (тогда не знал, и уже ничего не изменить). А когда прошлое влияет на настоящее — «если бы я тогда выучил английский, я бы сейчас жил в Лондоне» — части предложения живут в разных временах. Это и есть смешанные условные.
 
@@ -24,6 +25,24 @@ sources:
 
 - If you'd asked me, I **could have helped**.
 - If we'd taken a taxi, we **might have arrived** on time.
+
+### Процесс в прошлом: had been + -ing
+
+Если в прошлом важен **процесс**, а не факт, в условии ставим **Past Perfect Continuous**:
+
+- If you **had been watching** the road, you **wouldn't have hit** that cyclist. — ты в тот момент смотрел в телефон.
+- If the driver **hadn't been going** so fast, nobody **would have been hurt**.
+
+В результате тоже бывает длительная форма — **would have been + -ing**: *If the alarm had gone off, I **would have been sitting** in my office at eight, not running for the bus.*
+
+### Что сдвигается, а что нет
+
+Past Perfect нужен только **глаголу условия**. Придаточное внутри него, которое описывает факт, сдвигать не обязательно:
+
+- If I **had known** you **were** in hospital, I would have visited you. — *were*, а не обязательно *had been*.
+- If someone **had told** me the shop **closed** at six, I'd have come earlier.
+
+> **Типичная ошибка русскоговорящих:** нагромождать *had* везде, где речь о прошлом: ~~If I had known that you had been being ill…~~ Достаточно одного Past Perfect: *If I had known you **were** ill…*
 
 ### Сокращения: два разных 'd
 
@@ -93,6 +112,19 @@ sources:
 1. О каком времени **условие**? Сейчас / вообще → Past Simple. Прошлое → Past Perfect.
 2. О каком времени **результат**? Сейчас → *would* + V. Прошлое → *would have* + V3.
 3. Есть ли маркеры (*now, yesterday, last year, in 2015*)? Они подсказывают ответ.
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 40. If I had known… I wish I had known…**
+
+- [0:48:02](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=2882s) — нереальное прошлое: *if I knew* и *if I had known*
+- [0:50:07](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=3007s) — *'d* = *had* или *would*: как различить
+- [0:52:47](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=3167s) — *if you had been looking*, *if I had had*
+- [0:57:39](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=3459s) — смешанный тип: *If I had gone…, I would be tired now*
+- [1:05:52](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=3952s) — *would have*, *could have*, *might have*
+- [1:06:55](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=4015s) — практика
 
 ## Проверь себя
 

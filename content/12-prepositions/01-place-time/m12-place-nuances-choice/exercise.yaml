@@ -1,0 +1,56 @@
+title: "at the table или on the table: тонкие случаи места"
+type: choice
+intro: "Выбери предлог. Во всех пунктах верен ровно один вариант."
+hints:
+  - "at — рядом с точкой, on — на поверхности, in — внутри."
+  - "back и front: in — внутри предмета (машины), at — в задней или передней части места, on — на поверхности."
+  - "Машина и такси — get in / out of, автобус, поезд и самолёт — get on / off."
+items:
+  - q: "We were all sitting ___ the table when the lights suddenly went out."
+    options: ["at", "on", "in"]
+    answer: 0
+    explain: "Люди сидят **at the table** — у стола, за столом. *on the table* — сами стояли бы на столешнице."
+  - q: "Who left the keys ___ the door? Anyone could have walked in!"
+    options: ["at", "in", "on"]
+    answer: 1
+    explain: "Ключ вставлен в замок, то есть внутрь двери → **in the door**. *at the door* — человек, который стоит у двери."
+  - q: "The children sat ___ the back of the car and argued all the way to the coast."
+    options: ["at", "on", "in"]
+    answer: 2
+    explain: "Внутри машины, на заднем сиденье → **in the back of the car**. *at the back* говорят о задней части зала, дома, класса."
+  - q: "I couldn't see the slides because I was sitting ___ the back of the hall."
+    options: ["at", "on", "into"]
+    answer: 0
+    explain: "Задняя часть помещения, где сидят люди → **at the back** (of the hall / room / class). *on the back* — на задней поверхности, *into* — движение."
+  - q: "Please write your phone number ___ the back of the form."
+    options: ["on", "at", "in"]
+    answer: 0
+    explain: "Пишут на поверхности листа → **on the back** of the form."
+  - q: "There's a nice little café ___ the corner of our street."
+    options: ["on", "in", "inside"]
+    answer: 0
+    explain: "«На углу» улицы — **on** (или *at*) **the corner of the street**. *in the corner* — в углу комнаты."
+  - q: "My grandmother is ___ hospital — she broke her hip last week."
+    options: ["in", "at", "on"]
+    answer: 0
+    explain: "Она пациентка → **in hospital**, без артикля (брит.). Без артикля слово означает роль: лежит в больнице, а не просто находится в здании."
+  - q: "Does this train stop ___ Reading, or does it go straight to London?"
+    options: ["at", "to", "on"]
+    answer: 0
+    explain: "Город как точка на маршруте → **stop at Reading**. *to* — направление движения, а не остановка."
+  - q: "Get ___ the bus at the third stop and walk from there."
+    options: ["out of", "off", "down"]
+    answer: 1
+    explain: "Автобус, поезд, самолёт — **get on / get off**. *get out of* — из машины или такси."
+  - q: "She paid, got ___ the taxi and ran into the station."
+    options: ["off", "out of", "out"]
+    answer: 1
+    explain: "Из машины и такси выходят — **get out of**. ~~get off the taxi~~ — так не говорят: в такси нет «борта»."
+  - q: "Sorry, Anna can't come to the phone ___ — she's in a meeting."
+    options: ["in the moment", "at the moment", "on the moment"]
+    answer: 1
+    explain: "«Сейчас» — **at the moment**. *in a moment* значит «через минуту»."
+  - q: "Is there anything vegetarian ___ the menu?"
+    options: ["in", "on", "at"]
+    answer: 1
+    explain: "Меню, список, страница, карта — **on**: *on the menu, on the list, on page 7, on the map*."

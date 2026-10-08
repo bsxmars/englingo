@@ -6,6 +6,8 @@ sources:
   - {title: "Perfect English Grammar: Reported Questions", url: "https://www.perfect-english-grammar.com/reported-speech-exercise-5.html"}
   - {title: "Perfect English Grammar: Reported Speech (8)", url: "https://www.perfect-english-grammar.com/reported-speech-exercise-8.html"}
   - {title: "Perfect English Grammar: Indirect Questions", url: "https://www.perfect-english-grammar.com/indirect-questions-exercise-1.html"}
+  - {title: "Видео Vlad and English: урок 48 — косвенная речь, часть 2", url: "https://www.youtube.com/watch?v=m8pe5CiAVVE&t=16698s"}
+  - {title: "Видео Vlad and English: урок 50 — do you know where…? / he asked me where…", url: "https://www.youtube.com/watch?v=m8pe5CiAVVE&t=18665s"}
 ---
 В русском косвенный вопрос строится просто: «Он спросил, **где я живу**» — тот же порядок слов, что и в утверждении, плюс «ли» для вопросов «да/нет»: «спросил, **живу ли** я здесь». В английском логика похожая, но русскоговорящие упорно переносят вопросительный порядок: ~~He asked where did I live~~. Это одна из самых заметных ошибок на B2 First — экзаменаторы её ищут.
 
@@ -29,6 +31,22 @@ sources:
 - "**What** happened?" → She asked **what had happened**.
 
 > **Типичная ошибка русскоговорящих:** ~~She asked me where did I work~~. *did* исчезает, глагол принимает время сам: *She asked me where **I worked***.
+
+### be в конце, предлог в конце, think в середине
+
+Три места, где прямой порядок легко «забыть»:
+
+| Прямой вопрос | Косвенный вопрос | Ошибка |
+|---|---|---|
+| "Who **are** those people?" | She asked who those people **were**. | ~~asked who were those people~~ |
+| "Where **are** you **from**?" | He asked me where I **was from**. | ~~asked where was I from~~, ~~from where I was~~ |
+| "What **is** the film **about**?" | I asked what the film **was about**. | ~~asked what was the film about~~ |
+| "**Do you think** it will rain?" | He asked if I **thought** it **would** rain. | ~~asked do I think it will rain~~ |
+
+- Если после вопросительного слова идёт *be* и длинное подлежащее, *be* уходит **в конец**: *who those people were*, *how old her brother was*.
+- Предлог остаётся на своём месте, после глагола: *where I was from, who she was talking to*.
+- В вопросе с *Do you think…?* сдвигаются **оба** глагола: *think* → *thought*, *will* → *would*.
+- Past Simple в вопросе часто остаётся: "Why **did** you **choose** us?" → They asked why I **chose** / **had chosen** them.
 
 ## Вопросы «да / нет»: if или whether
 
@@ -82,9 +100,34 @@ sources:
 
 > **Типичная ошибка русскоговорящих:** ~~I asked the bill~~ (это «спросил счёт», а не «попросил»). Попросить что-то — **ask for**: *I asked **for** the bill.* И наоборот, перед глаголом *for* не нужен: ~~asked for to see~~ → *asked **to see***.
 
+### said to do / said not to do
+
+В разговорном английском указание часто пересказывают через *say* + инфинитив **без человека**:
+
+- "Don't wait for me." → Kate **said not to wait** for her.
+- "Get some rest." → The doctor **said to get** some rest.
+
+Человека тут не называют. Если он нужен — *told me to* / *asked me to*: ~~The doctor said me to get some rest~~. Нейтральный вариант с придаточным: *The doctor said (that) I **should** get some rest.*
+
 Просьбу можно пересказать и придаточным: *"You have to move your car."* → *The officer told me (that) I **had to** move my car.* *"Would you mind waiting?"* → *She asked if we **would mind waiting**.*
 
 Просьбу разрешения пересказываем через *if*: "**Can I** borrow your pen?" → She asked **if she could** borrow my pen.
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 48. Косвенная речь, часть 2**
+
+- [4:38:18](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=16698s) — *tell / ask sb to do*, *said not to do*
+
+**Урок 50. Do you know where…? / He asked me where…**
+
+- [5:11:05](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=18665s) — вопрос внутри предложения: прямой порядок слов
+- [5:15:48](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=18948s) — *if* и *whether*, когда нет вопросительного слова
+- [5:17:25](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=19045s) — *he asked me where…*: косвенный вопрос в прошлом
+- [5:17:58](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=19078s) — пересказ вопросов с собеседования
+- [5:26:50](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=19610s) — практика: пересказать вопросы
 
 ## Проверь себя
 
@@ -123,4 +166,9 @@ explain: "Отрицательный приказ → **tell sb not to do**."
 И проверка на внимательность: ошибки в косвенных вопросах и просьбах.
 
 ```exercise m06-questions-error
+```
+
+Перефразирование в формате B2 First: *be* и предлог в конце, *Do you think…?*, *said not to*.
+
+```exercise m06-questions-transform
 ```

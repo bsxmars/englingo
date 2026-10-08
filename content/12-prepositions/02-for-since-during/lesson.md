@@ -5,6 +5,11 @@ sources:
   - {title: "Oxford Practice Grammar — for, since, ago; during / while, by / until, as / like", url: "https://elt.oup.com/catalogue/items/global/grammar_vocabulary/oxford_practice_grammar/"}
   - {title: "Perfect English Grammar: Present Perfect и Past Simple (for, since, ago)", url: "https://www.perfect-english-grammar.com/past-simple-present-perfect-2.html"}
   - {title: "englisch-hilfen — упражнения на предлоги времени", url: "https://www.englisch-hilfen.de/en/exercises_list/alle_grammar.htm"}
+  - {title: "Видео Vlad and English: урок 116 — As (as I walked… / as I was…)", url: "https://www.youtube.com/watch?v=26J1ryERDWo&t=3475s"}
+  - {title: "Видео Vlad and English: урок 117 — Like и as", url: "https://www.youtube.com/watch?v=26J1ryERDWo&t=4502s"}
+  - {title: "Видео Vlad and English: урок 118 — Like и as if", url: "https://www.youtube.com/watch?v=26J1ryERDWo&t=5766s"}
+  - {title: "Видео Vlad and English: урок 119 — During, for, while", url: "https://www.youtube.com/watch?v=26J1ryERDWo&t=6794s"}
+  - {title: "Видео Vlad and English: урок 120 — By и until, by the time", url: "https://www.youtube.com/watch?v=26J1ryERDWo&t=7611s"}
 ---
 В этом уроке — четыре пары слов, которые русскоговорящие путают постоянно. Причина одна: в русском на каждую пару приходится одно слово. «Назад» и «до этого» — *ago* и *before*. «Во время» — *during* и *while*. «До» — *by* и *until*. «Как» — *as* и *like*. Разберём каждую пару и поймём, как выбирать.
 
@@ -48,6 +53,8 @@ sources:
 
 **during** — предлог, как *in*. **while** — союз, как *when*. Проверка простая: если дальше стоит глагол с подлежащим — *while*.
 
+После **while**, как после *when* и *if*, будущее передаём через **Present**: *What will you do **while** I'm away?* (не ~~while I will be away~~). Simple или Continuous — оба возможны: *while I sleep / while I'm sleeping*.
+
 > **Не путай с for:** *for* отвечает на вопрос «как долго?», *during* — «когда?». *I slept **for** two hours **during** the flight.*
 
 ## by или until
@@ -64,6 +71,20 @@ sources:
 - **till** — то же, что *until*, но разговорнее: *I slept **till** ten.*
 - Перед предложением: **by the time** (не ~~by we arrived~~) и **until**: *By the time we arrived, the shop had closed. I'll wait until you're ready.*
 - Отрицание + *until* = «только тогда»: *I didn't understand the joke **until** later.*
+- Срок действия, «действует до» — **until**: *My passport is valid **until** 2030.*
+
+### by now, by then, until then
+
+| Фраза | Значение | Пример |
+|---|---|---|
+| **by now** | уже к этому моменту | *He should have called **by now**.* |
+| **by then / by that time** | к тому моменту (в прошлом или будущем) | *We got there at midnight, but **by then** most guests had gone. I'll have left **by then**.* |
+| **until then / till then** | вплоть до того момента | *My flat will be ready next week. **Until then**, I'm staying with a friend.* |
+
+- **by the time** + **Present** для будущего, а в главной части часто Future Perfect: ***By the time** you **read** this, I'**ll have landed**.*
+- **by the time** + **Past** → в главной части Past Perfect: ***By the time** the police **arrived**, the thieves **had disappeared**.*
+
+> **Типичная ошибка русскоговорящих:** ~~By the time we will get there, the shop will be closed~~. После *by the time*, как после *when*, ставим Present: *By the time we **get** there…*
 
 ## as, like, as if
 
@@ -78,6 +99,91 @@ sources:
 - **as if / as though** — «будто, как будто»: *He looks **as if** he hasn't slept for days. She talks to me **as if** I were a child.* В разговорной речи вместо *as if* часто говорят *like*.
 
 > **B2-уровень:** после *as if* для нереальной ситуации можно ставить «прошедшее» время: *He acts **as if** he **owned** the place* (но он не владелец).
+
+### like и as: что надо просто запомнить
+
+| Правильно | Неправильно | Почему |
+|---|---|---|
+| *I hate weather **like this**. Do it **like that**.* | ~~as this~~ | перед *this / that* — только *like* |
+| ***As usual**, he was late. **As always**, Nick complained first.* | ~~like usual~~, ~~like always~~ | устойчивые фразы с *as* |
+| *Your phone is **the same as** mine.* | ~~the same like~~ | после *the same* — всегда *as* |
+| *I love water sports, **such as** / **like** surfing and diving.* | ~~as surfing~~ | примеры — *such as* или *like* |
+| *He gave me a watch **as** a present. The news came **as** a shock.* | ~~like a present~~ | в роли, в качестве |
+| *This floor is so slippery — it's **like** walking on ice.* | ~~as walking~~ | сравнение: *like* + существительное или *-ing* |
+
+- *Do **as** you're told. You can do **as** you like.* — «как сказано», «как хочешь».
+- *I left everything **as** it was* — ровно так, как было.
+- **As you know**, **as I expected**, **as I said** — вводные фразы. ~~Like you know~~ нельзя; *like I said* — разговорный вариант.
+
+### look, sound, feel: прилагательное, like или as if
+
+| Что идёт дальше | Конструкция | Пример |
+|---|---|---|
+| прилагательное | **look / sound / feel** + adj | *You **look tired**. That **sounds great**.* |
+| существительное | **look / sound / feel like** + noun | *You **look like** your dad. It **sounds like** a good plan.* |
+| предложение | **look / sound / feel as if / like** + clause | *You **look as if** you've seen a ghost. It **looks like** it's going to rain.* |
+
+- **as though** = *as if*, звучит книжнее и встречается реже.
+- *as if* не обязательно про нереальное: *It looks **as if** it's going to rain* — так, скорее всего, и будет. Тогда время обычное.
+- Если «будто» относится к событию **раньше** основного — Past Perfect: *He ate **as if** he **hadn't eaten** for a week.*
+
+> **Типичная ошибка русскоговорящих:** ~~You look like tired~~ → *You look tired*. После *look like* — существительное или предложение, а не прилагательное.
+
+### as как союз: «когда» и «так как»
+
+Кроме «как» и «в роли», *as* бывает союзом:
+
+| Значение | Пример |
+|---|---|
+| когда, пока (одновременно) | *I slipped **as** I was getting off the bus.* |
+| в тот самый момент — **just as** | ***Just as** I sat down, the phone rang.* |
+| по мере того как | ***As** the day went on, it got colder.* |
+| так как (причина известна) | ***As** it's late, let's get a taxi.* |
+
+- *as* = «когда» — только для **одновременных** действий. Если одно идёт за другим, нужен *when*: ***When** I got home, I had dinner.*
+- Для периода жизни — тоже *when*: ***When** I was a child, I lived by the sea.* ~~As I was a child~~ прочитается как «так как я был ребёнком».
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 116. As (as I walked… / as I was…)**
+
+- [0:57:55](https://www.youtube.com/watch?v=26J1ryERDWo&t=3475s) — *as* — «когда, пока»: два действия одновременно
+- [1:00:02](https://www.youtube.com/watch?v=26J1ryERDWo&t=3602s) — *just as* — в тот самый момент; *as* — «по мере того как»
+- [1:02:05](https://www.youtube.com/watch?v=26J1ryERDWo&t=3725s) — *as* — «так как»
+
+**Урок 117. Like и as**
+
+- [1:15:02](https://www.youtube.com/watch?v=26J1ryERDWo&t=4502s) — *like* — «словно, похоже на»; *like this*
+- [1:17:54](https://www.youtube.com/watch?v=26J1ryERDWo&t=4674s) — *as / like* + предложение: *as I showed you*
+- [1:19:26](https://www.youtube.com/watch?v=26J1ryERDWo&t=4766s) — *as usual, as always, the same as*
+- [1:19:57](https://www.youtube.com/watch?v=26J1ryERDWo&t=4797s) — *do as you like, as you know, as I expected*
+- [1:21:32](https://www.youtube.com/watch?v=26J1ryERDWo&t=4892s) — *as* + существительное — «в качестве»: *as a taxi driver* и *like a taxi driver*
+- [1:24:06](https://www.youtube.com/watch?v=26J1ryERDWo&t=5046s) — практика
+
+**Урок 118. Like и as if**
+
+- [1:36:06](https://www.youtube.com/watch?v=26J1ryERDWo&t=5766s) — *look / sound / feel like* и *as if*
+- [1:37:36](https://www.youtube.com/watch?v=26J1ryERDWo&t=5856s) — *look tired*, *look like + существительное*, *look as if + предложение*
+- [1:39:52](https://www.youtube.com/watch?v=26J1ryERDWo&t=5992s) — прошедшее после *as if* для нереального: *as if he knew*
+- [1:42:33](https://www.youtube.com/watch?v=26J1ryERDWo&t=6153s) — практика
+
+**Урок 119. During, for, while**
+
+- [1:53:14](https://www.youtube.com/watch?v=26J1ryERDWo&t=6794s) — *during* + существительное
+- [1:54:49](https://www.youtube.com/watch?v=26J1ryERDWo&t=6889s) — *for* — как долго, *during* — когда
+- [1:55:52](https://www.youtube.com/watch?v=26J1ryERDWo&t=6952s) — *while* + подлежащее и глагол
+- [1:57:58](https://www.youtube.com/watch?v=26J1ryERDWo&t=7078s) — *while* + Present для будущего
+- [1:58:59](https://www.youtube.com/watch?v=26J1ryERDWo&t=7139s) — практика
+
+**Урок 120. By и until, by the time**
+
+- [2:06:51](https://www.youtube.com/watch?v=26J1ryERDWo&t=7611s) — *by* — не позже чем
+- [2:08:54](https://www.youtube.com/watch?v=26J1ryERDWo&t=7734s) — *until* и *by*: работать до 11:30 или закончить к 11:30
+- [2:09:55](https://www.youtube.com/watch?v=26J1ryERDWo&t=7795s) — *by the time* + Present для будущего и Past
+- [2:11:59](https://www.youtube.com/watch?v=26J1ryERDWo&t=7919s) — *by then, by that time*
+- [2:14:03](https://www.youtube.com/watch?v=26J1ryERDWo&t=8043s) — практика
 
 ## Проверь себя
 
@@ -107,4 +213,10 @@ explain: "Крайний срок → **by**. *until* значило бы «сд
 ```
 
 ```exercise m12-time-error
+```
+
+```exercise m12-as-like-gap
+```
+
+```exercise m12-by-until-then-choice
 ```

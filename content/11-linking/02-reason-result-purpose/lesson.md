@@ -5,6 +5,8 @@ sources:
   - {title: "Oxford Practice Grammar — связки причины и цели (because of, so that, in order to)", url: "https://elt.oup.com/catalogue/items/global/grammar_vocabulary/oxford_practice_grammar/"}
   - {title: "Perfect English Grammar: Linking Words of Reason", url: "https://www.perfect-english-grammar.com/linking-words-reason-exercise-2.html"}
   - {title: "Agenda Web — упражнения на связки", url: "https://agendaweb.org/"}
+  - {title: "Видео Vlad and English: урок 64 — to…, for… и so that… (цель)", url: "https://www.youtube.com/watch?v=0VRFZ_tym2o&t=13693s"}
+  - {title: "Видео Vlad and English: урок 116 — as (as I walked…, as I was…)", url: "https://www.youtube.com/watch?v=26J1ryERDWo&t=3475s"}
 ---
 «Потому что», «из-за», «поэтому», «чтобы» — русскоговорящий на B1 обычно обходится тремя английскими словами: *because, so* и *to*. Этого хватает для разговора, но не для B2: в эссе и письмах нужны *due to, therefore, as a result, so that*, а главное — нужно знать, **что ставить после** каждой связки. Логика та же, что и в прошлом уроке: одни связки — союзы (после них предложение), другие — предлоги (после них существительное).
 
@@ -22,6 +24,24 @@ sources:
 - *due to* часто стоит после *be*: *The delay **was due to** a technical problem.*
 
 > **Типичная ошибка русскоговорящих:** ~~because the rain~~ и ~~because of it was raining~~. Русское «из-за» и «потому что» различаются так же: **because** + предложение, **because of** + существительное.
+
+### As: «так как» или «когда»
+
+У **as** два частых значения, и оба встречаются в рассказах и письмах:
+
+| Значение | Пример | Перевод |
+|---|---|---|
+| причина = *because* | ***As** we had no food at home, we ordered a pizza.* | так как |
+| одновременно, «в тот момент, когда» | *She waved **as** the train pulled away.* | когда, пока |
+| тот самый момент: **just as** | *The doorbell rang **just as** I sat down.* | ровно в тот момент, когда |
+| постепенное изменение | ***As** the evening went on, it got colder.* | по мере того как |
+
+Для одновременных действий *as* часто стоит с Past Continuous (*I cut myself **as** I was chopping onions*) и почти всегда заменяется на *when / while*. Но в двух случаях **as** нельзя:
+
+- Если одно действие идёт **после** другого: ***When** I got home, I had a shower.* (~~As I got home~~).
+- Если речь о **периоде жизни или состоянии**: ***When** I was a child, we lived by the sea.* (~~As I was a child~~ прочитается как «так как я был ребёнком»).
+
+> **B2-уровень:** *as* бывает двусмысленным: *As I was leaving, I didn't take the call* — «так как я уходил» или «когда я уходил»? В эссе для причины надёжнее **because** или **since**, для времени — **when / while**. *as* в значении причины обычно ставят в начало предложения, когда причина известна или не главная: ***As** it's late, let's get a taxi.*
 
 ## Следствие: so, therefore, as a result, consequently
 
@@ -56,6 +76,41 @@ sources:
 
 - Speak louder **so that** everyone **can** hear you.
 - She wrote it down **so that** she **wouldn't** forget.
+
+### Существительное + to: a place to park, someone to talk to
+
+Инфинитив цели часто стоит прямо после существительного или *something / nothing / anybody*. По-русски тут «чтобы», «где», «с кем» или вообще ничего:
+
+- Is there anywhere **to park** near the office? — Есть где припарковаться?
+- I've got nothing **to wear**. / Would you like something **to drink**?
+- Слова **time, money, chance, opportunity, energy, courage** + *to do*: *I didn't have a **chance to say** goodbye. She hasn't got the **energy to argue**.*
+
+Если глагол требует предлога (*sit **on**, talk **to**, write **with**, live **in**), предлог остаётся **в конце**:
+
+| Глагол с предлогом | Существительное + to … предлог |
+|---|---|
+| sit on a chair | *Is there a chair **to sit on**?* |
+| talk to somebody | *I need someone **to talk to**.* |
+| open it with something | *Have you got something **to open this bottle with**?* |
+| carry things in a bag | *Can you give me a bag **to carry these in**?* |
+
+Если у действия свой исполнитель, его вводят через **for**: *There weren't enough chairs **for us to sit on**.*
+
+> **Типичная ошибка русскоговорящих:** ~~I have nobody to talk.~~ ~~We need a chair to sit.~~ В русском «не с кем поговорить» предлог стоит впереди, и в английском его просто теряют. Правильно: *I have nobody **to talk to**. We need a chair **to sit on**.*
+
+### to или so that: чья это цель
+
+Инфинитив цели (*to, in order to*) подходит, когда цель у того же человека, что делает основное действие. Если цель у **другого** человека, нужен **so that** со своим подлежащим:
+
+- I gave Mark my number **to** stay in touch. — цель моя.
+- I gave Mark my number **so that he could** call me. — звонить будет Марк.
+- We spoke quietly **so that nobody would** hear us.
+
+После *so that* в настоящем, кроме *can / will*, бывает и обычный Present Simple: *Label the boxes **so that** everyone **knows** what's inside.* В разговоре *that* часто опускают: *Come early **so** we can start on time.*
+
+> **Типичная ошибка русскоговорящих:** ~~I gave him my number to he could call me.~~ После *to* — только глагол без подлежащего. Подлежащее есть — значит, **so that**: *so that he could call me* (или *for him to call me*).
+
+> **B2-уровень:** простое *not to* для отрицательной цели звучит неуклюже: ~~I hurried not to miss the bus~~. Говорят ***so as not to** miss* или ***so that** I **wouldn't** miss*. После глаголов вроде *try, decide, promise* *not to* нормально, но там это уже не цель: *I tried **not to** laugh.*
 
 ## So … that и such … that: «настолько …, что»
 
@@ -92,6 +147,28 @@ sources:
 
 > **Типичная ошибка русскоговорящих:** ~~On the other side~~, ~~In other side~~, ~~From the other hand~~. Только ***On the other hand***. И не переводи «кроме того» как ~~except this~~ — это ***Besides*** / ***In addition***.
 
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 64. To…, for… и so that… (цель)**
+
+- [3:48:13](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=13693s) — *to* + инфинитив цели
+- [3:49:49](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=13789s) — предлог в конце: *a chair to sit on, something to open it with*
+- [3:51:55](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=13915s) — *money, time, chance* + *to do*
+- [3:52:25](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=13945s) — *for* + существительное или *to* + глагол
+- [3:54:30](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=14070s) — *so that* + *can / could / would*
+- [3:57:37](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=14257s) — практика
+
+**Урок 116. As (as I walked… / as I was…)**
+
+- [0:57:55](https://www.youtube.com/watch?v=26J1ryERDWo&t=3475s) — *as* = в тот же момент
+- [0:59:32](https://www.youtube.com/watch?v=26J1ryERDWo&t=3572s) — *just as*
+- [1:01:02](https://www.youtube.com/watch?v=26J1ryERDWo&t=3662s) — *as* или *when*
+- [1:02:05](https://www.youtube.com/watch?v=26J1ryERDWo&t=3725s) — *as* = *because*, *since*
+- [1:03:38](https://www.youtube.com/watch?v=26J1ryERDWo&t=3818s) — *as he was on holiday* или *when he was on holiday*
+- [1:05:10](https://www.youtube.com/watch?v=26J1ryERDWo&t=3910s) — практика
+
 ## Проверь себя
 
 ```quiz
@@ -106,6 +183,13 @@ q: "Выбери верное: «Это был настолько жаркий �
 options: ["It was so hot day that we spent all day at the beach.", "It was such a hot day that we spent all day at the beach.", "It was such hot day that we spent all day at the beach."]
 answer: 1
 explain: "Прилагательное + исчисляемое существительное в единственном числе → **such a** hot day."
+```
+
+```quiz
+q: "«Когда я был ребёнком, мы жили у моря»."
+options: ["As I was a child, we lived by the sea.", "When I was a child, we lived by the sea.", "While I was a child, we were living by the sea."]
+answer: 1
+explain: "Период жизни → **when**. *As I was a child* читается как «так как я был ребёнком». *as* = «когда» — только про одновременные действия: *as she drove away*."
 ```
 
 ## Практика
@@ -125,4 +209,10 @@ explain: "Прилагательное + исчисляемое существи
 ```
 
 ```exercise m11-reason-transform
+```
+
+```exercise m11-purpose-noun-gap
+```
+
+```exercise m11-as-choice
 ```

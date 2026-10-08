@@ -49,3 +49,7 @@ items:
     options: ["I'll have", "I want", "I have"]
     answer: 0
     explain: "В кафе заказывают через **I'll have** или *I'd like*. *I want* звучит слишком прямо, а *I have* значит «у меня есть»."
+  - q: "— Is it OK if I bring my dog to the party? — You'd prefer the person not to. You say: ___"
+    options: ["Actually, I'd rather you didn't.", "Yes, it is.", "No, not at all."]
+    answer: 0
+    explain: "Вежливый отказ — **Actually, I'd rather you didn't**. *Yes, it is* и *No, not at all* — согласие (вопрос *Is it OK…?* ждёт *Yes*, а *Do you mind…?* — *No*)."

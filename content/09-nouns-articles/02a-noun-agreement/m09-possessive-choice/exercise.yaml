@@ -1,0 +1,52 @@
+title: "a horse race, Anna and Mark's, people: выбери"
+type: choice
+intro: "Выбери вариант, который звучит правильно и естественно."
+hints:
+  - "В паре существительных главное — второе: a race horse — лошадь, a horse race — скачки."
+  - "Общая вещь — 's на последнем имени; у каждого своя — 's на каждом."
+  - "Длинная группа слов — через of."
+items:
+  - q: "«Скаковая лошадь» по-английски — это…"
+    options: ["a horse race", "a race horse", "a horse of race"]
+    answer: 1
+    explain: "Главное слово — последнее: *horse* (какая? — *race*). *a horse race* — это сами скачки."
+  - q: "Anna and Mark live together. ___ flat is near the river."
+    options: ["Anna's and Mark's", "Anna and Mark's", "Anna and Mark"]
+    answer: 1
+    explain: "Квартира **общая** → 's только на последнем имени: *Anna and Mark's flat*."
+  - q: "Anna and Mark both forgot ___ at home."
+    options: ["Anna and Mark's phone", "Anna's and Mark's phones", "Anna and Marks' phones"]
+    answer: 1
+    explain: "У **каждого свой** телефон → 's на каждом имени и множественное число: *Anna's and Mark's phones*."
+  - q: "This isn't my umbrella — I think it's ___."
+    options: ["my sister", "of my sister", "my sister's"]
+    answer: 2
+    explain: "Существительное после 's можно опустить, если оно понятно: *it's my sister's (umbrella)*."
+  - q: "Have you met ___?"
+    options: ["the woman who lives next door's husband", "the husband of the woman who lives next door", "the woman's husband who lives next door"]
+    answer: 1
+    explain: "Владелец описан длинной группой слов → **of**: *the husband of the woman who lives next door*."
+  - q: "There were about thirty ___ at the presentation."
+    options: ["persons", "people", "peoples"]
+    answer: 1
+    explain: "Множественное от *person* — **people**. *persons* — только в официальных табличках (*Max. 8 persons*)."
+  - q: "I found two ___ notes in my old jacket."
+    options: ["twenty-pound", "twenty-pounds", "twenty pounds'"]
+    answer: 0
+    explain: "Число в составе работает как прилагательное и остаётся в единственном числе: *two twenty-pound notes*."
+  - q: "I've watched every ___ of the new season in one weekend."
+    options: ["series", "episode", "serial"]
+    answer: 1
+    explain: "Одна серия сериала — **an episode**. *series* — весь сериал (*a TV series*)."
+  - q: "My brother works at a car factory. He's a ___."
+    options: ["car factory worker", "worker of car factory", "car's factory worker"]
+    answer: 0
+    explain: "Три существительных подряд, главное — последнее: *worker* (какой? — с автозавода): *a car factory worker*."
+  - q: "Thirty degrees ___ too hot for a run."
+    options: ["is", "are", "were"]
+    answer: 0
+    explain: "Температура, как сумма или расстояние, воспринимается как одно целое → глагол в **единственном** числе."
+  - q: "Could you pass me that ___? It's empty, I want to make tea."
+    options: ["cup of tea", "tea cup", "tea's cup"]
+    answer: 1
+    explain: "Пустая чашка для чая — **a tea cup** (*teacup*). *a cup of tea* — чашка, в которой уже есть чай."

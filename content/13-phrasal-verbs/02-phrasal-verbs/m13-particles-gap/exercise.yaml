@@ -42,3 +42,9 @@ items:
   - q: "The teacher read the names ___ one by one."
     answers: ["out"]
     explain: "Прочитать вслух → **read out**: *out* — вслух, для всех."
+  - q: "She swam to the side and climbed ___ the pool."
+    answers: ["out of"]
+    explain: "Когда названо место, откуда выходят, частица *out* превращается в предлог **out of**: *climb out of the pool*."
+  - q: "Somebody must have left the window open — that's how the burglars got ___."
+    answers: ["in"]
+    explain: "Места после глагола нет, поэтому нужна частица **in**: *get in*. С местом было бы *get **into** the house*."

@@ -134,3 +134,55 @@
   lesson: 14-pronouns-adjectives/03-adverbs-degree
   q: "Найди ошибку: *He isn't enough old to vote.*"
   a: "*He isn't **old enough** to vote.* — *enough* после прилагательного, но перед существительным: *enough money*."
+- id: m14-friend-of-mine
+  lesson: 14-pronouns-adjectives/01-pronouns
+  q: "Найди ошибку: *We went to Italy with some friends of them.*"
+  a: "*…some friends **of theirs**.* — после *of* в этой конструкции притяжательная форма: *of mine, of ours, of theirs*."
+- id: m14-my-own
+  lesson: 14-pronouns-adjectives/01-pronouns
+  q: "Переведи: «Я хочу свою собственную комнату»."
+  a: "*I want **my own** room* / *a room **of my own***. ~~an own room~~ не бывает: *own* только после *my, your, its…*"
+- id: m14-on-my-own
+  lesson: 14-pronouns-adjectives/01-pronouns
+  q: "Найди ошибку: *She travelled around Asia by her own.*"
+  a: "*…**by herself*** или *…**on her own***. **on** + own, **by** + -self."
+- id: m14-there-must-have-been
+  lesson: 14-pronouns-adjectives/01a-there-it-everyone
+  q: "Найди ошибку: *He was so rude. It must have been a reason.*"
+  a: "***There** must have been a reason.* — сообщаем, что причина была → *there*, даже с модальным глаголом."
+- id: m14-there-or-it-modal
+  lesson: 14-pronouns-adjectives/01a-there-it-everyone
+  q: "**there** или **it**: They live by a motorway. ___ must be a lot of noise. ___ must be very noisy."
+  a: "***There** must be a lot of noise* (существительное). ***It** must be very noisy* (прилагательное-оценка)."
+- id: m14-no-noun
+  lesson: 14-pronouns-adjectives/01a-there-it-everyone
+  q: "**no** или **none**: I have ___ time. — How much time do you have? ~ ___."
+  a: "*I have **no** time* (перед существительным). Ответ без существительного — ***None***."
+- id: m14-get-bored
+  lesson: 14-pronouns-adjectives/02-adjectives
+  q: "Переведи: «Не злись из-за таких мелочей» и «Дети быстро начинают скучать»."
+  a: "*Don't **get annoyed** about such little things. Kids **get bored** quickly.* — переход в состояние: **get + -ed**."
+- id: m14-look-bored
+  lesson: 14-pronouns-adjectives/02-adjectives
+  q: "Разница: *You look bored* / *You look boring*?"
+  a: "*look bored* — похоже, тебе скучно. *look boring* — ты выглядишь занудно (так тебя видят другие)."
+- id: m14-well-paid
+  lesson: 14-pronouns-adjectives/03-adverbs-degree
+  q: "Найди ошибку: *She has a good-paid job at a good-known company.*"
+  a: "*a **well-paid** job at a **well-known** company* — перед причастием наречие **well**."
+- id: m14-seriously-injured
+  lesson: 14-pronouns-adjectives/03-adverbs-degree
+  q: "Переведи: «Двое были тяжело ранены, а машина слегка повреждена»."
+  a: "*Two people were **seriously** injured, and the car was **slightly** damaged.* Не ~~strongly injured~~."
+- id: m14-hardly-any
+  lesson: 14-pronouns-adjectives/03-adverbs-degree
+  q: "Переведи: «Почти никто не пришёл» и «Я почти никогда не смотрю ТВ»."
+  a: "***Hardly anyone** came. I **hardly ever** watch TV.* Не ~~hardly nobody~~, ~~hardly never~~."
+- id: m14-no-such
+  lesson: 14-pronouns-adjectives/03-adverbs-degree
+  q: "Найди ошибку: *There's no such a word in English.*"
+  a: "*There's **no such word**.* — после *no such* артикль не ставится."
+- id: m14-quite-agree
+  lesson: 14-pronouns-adjectives/03-adverbs-degree
+  q: "Что значит *quite* в *I quite agree*, *I quite like it*, *I don't quite understand*?"
+  a: "*quite agree* — полностью; *quite like* — в целом нравится; *not quite* — не совсем."

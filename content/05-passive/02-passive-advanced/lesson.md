@@ -6,6 +6,8 @@ sources:
   - {title: "Perfect English Grammar: пассив с глаголами с двумя дополнениями", url: "https://www.perfect-english-grammar.com/passive-verbs-two-objects-exercise-1.html"}
   - {title: "Perfect English Grammar: пассив, упражнение 4", url: "https://www.perfect-english-grammar.com/passive-exercise-4.html"}
   - {title: "Perfect English Grammar: пассив, упражнение 5", url: "https://www.perfect-english-grammar.com/passive-exercise-5.html"}
+  - {title: "Видео Vlad and English: урок 43 — пассив, часть 2 (be done / been done / being done)", url: "https://www.youtube.com/watch?v=m8pe5CiAVVE&t=8348s"}
+  - {title: "Видео Vlad and English: урок 44 — пассив, часть 3 (I was offered, being done, get-passive)", url: "https://www.youtube.com/watch?v=m8pe5CiAVVE&t=10779s"}
 ---
 Базовый пассив — это *The room was cleaned*. Но в живой речи пассив выглядит иначе: *I **was given** a second chance. Nobody likes **being lied to**. She **got fired**.* В русском у таких фраз нет пассивного аналога: «мне дали», «когда тебе врут», «её уволили». Поэтому русскоговорящие их избегают — и звучат менее естественно. Разберём пять конструкций, которые отличают B2 от B1.
 
@@ -100,6 +102,21 @@ get-passive не используют для состояний и общих ф
 - All visitors **are to report** to reception. — Все посетители должны отметиться на ресепшене.
 - You**'re not to** touch anything in the lab. — Тебе нельзя ничего трогать.
 - This issue **is to be given** top priority. — Этому вопросу надлежит дать высший приоритет (пассив).
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 43. Пассив, часть 2**
+
+- [2:20:09](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=8409s) — пассивный инфинитив: *want to be left*, *must be done*
+
+**Урок 44. Пассив, часть 3**
+
+- [3:00:40](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=10840s) — глаголы с двумя дополнениями: *I was offered*, *we were given*
+- [3:03:17](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=10997s) — пассивный герундий: *I don't like being told*
+- [3:07:27](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=11247s) — get-passive: *got hurt*, *didn't get invited*; для состояний не подходит
+- [3:14:11](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=11651s) — практика
 
 ## Проверь себя
 

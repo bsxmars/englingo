@@ -5,6 +5,11 @@ sources:
   - {title: "EasySpeak: порядок слов в английском предложении", url: "https://easyspeak.ru/blog/vsyo-o-grammatike/poryadok-slov-v-anglijskom-yazyke-pravila-postroeniya-predlozhenij"}
   - {title: "Oxford Practice Grammar — порядок слов и место наречий", url: "https://elt.oup.com/catalogue/items/global/grammar_vocabulary/oxford_practice_grammar/"}
   - {title: "Perfect English Grammar: наречие или прилагательное", url: "https://www.perfect-english-grammar.com/adverbs-or-adjectives-exercise-1.html"}
+  - {title: "Видео Vlad and English: урок 99 — порядок прилагательных", url: "https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=1109s"}
+  - {title: "Видео Vlad and English: урок 109 — порядок слов 1: глагол, дополнение, место и время", url: "https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=13282s"}
+  - {title: "Видео Vlad and English: урок 110 — порядок слов 2: наречия с глаголом", url: "https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=14270s"}
+  - {title: "Видео Vlad and English: урок 111 — still, any more, yet, already", url: "https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=15633s"}
+  - {title: "Видео Vlad and English: урок 112 — even", url: "https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=16942s"}
 ---
 В русском порядок слов свободный: «Иван прочитал книгу», «Книгу прочитал Иван», «Прочитал Иван книгу» — кто что сделал, понятно по окончаниям. В английском окончаний почти нет, поэтому **роль слова определяется его местом**. *The dog bit the man* и *The man bit the dog* — совсем разные новости.
 
@@ -51,6 +56,19 @@ sources:
 
 > **Типичная ошибка русскоговорящих:** ~~He always is late~~, ~~I go often to the gym~~. Запомни формулу: **после *be*, перед остальными глаголами**: *He **is always** late. I **often go** to the gym.*
 
+### Особые случаи: have to, all / both, эллипсис
+
+| Случай | Правило | Пример |
+|---|---|---|
+| **have to** | наречие — **перед** *have to*, как перед обычным глаголом | *I **always have to** remind him.* ~~I have always to~~ |
+| **all, both** | тоже середина: после *be* и первого вспомогательного, перед смысловым глаголом | *We **all** agreed. My parents **are both** doctors. They**'ve both** resigned.* |
+| несколько вспомогательных | после **первого** | *It **will probably be** cancelled. We **would never have** met without that app.* |
+| смыслового глагола нет (эллипсис) | наречие — **перед** вспомогательным | *He says he won't be late, but he **always is**. I've never lied to you, and I **never will**.* |
+
+Так же ведут себя *almost, hardly ever, definitely, just*: *I **almost** missed the train. She **hardly ever** complains. Are you **definitely** coming?*
+
+> **Типичная ошибка русскоговорящих:** ~~All we agreed~~ (по русскому «все мы согласились»). *all* и *both* после местоимения-подлежащего: *We **all** agreed. They **both** work from home.* С существительным можно и в начале: ***All the students** agreed. **Both my parents** are retired.*
+
 ## still, already, yet, even, only
 
 | Слово | Позиция | Пример |
@@ -71,6 +89,32 @@ sources:
 - She **doesn't** live here **any longer**.
 
 В вопросах *still* и *already* стоят после подлежащего: *Are you **still** waiting? Has she **already** left?*
+
+### still, yet, already: оттенки
+
+- **still + отрицание** — «до сих пор не», и обычно с раздражением: прошло больше времени, чем должно было. ***yet*** нейтрален: *They haven't paid **yet*** (ну, ещё не заплатили) — *I sent the invoice a month ago and they **still haven't** paid!* (сколько можно?).
+- **still** = «всё равно, тем не менее»: *He earns a fortune, but he's **still** unhappy.* В начале предложения с запятой: *The flat is tiny. **Still**, the location is perfect.*
+- **already** в вопросе — удивление «уже?!»: *Are you leaving **already**? Have you **already** finished?*
+- **yet** работает не только с Present Perfect: *— Where are you going on holiday? — We don't know **yet**.*
+- *any more* (британское) и *anymore* (американское) — одно и то же.
+
+> **Типичная ошибка русскоговорящих:** ~~I'm not still ready~~ («я ещё не готов»). Либо *still* **перед** отрицанием — *I'm **still not** ready*, либо *yet* в конце — *I'm not ready **yet***.
+
+### even: прямо перед тем, что удивляет
+
+*even* ставим перед словом, которое делает ситуацию необычной:
+
+| Что выделяем | Пример |
+|---|---|
+| подлежащее | ***Even** my grandmother has a smartphone now.* |
+| обстоятельство | *He wears shorts **even in** January. I couldn't read it **even with** my glasses.* |
+| действие — середина предложения | *She's travelled everywhere. She's **even** been to Antarctica.* |
+| отрицание: **not even, didn't even, can't even** | *Nobody helped, **not even** her brother. I **can't even** remember his name.* |
+| сравнительная степень | *The sequel is **even** better.* (подробно — в уроке о сравнениях) |
+
+Перед придаточным с подлежащим и глаголом одного *even* мало: нужно **even if** (даже если) или **even though** (хотя): *I can't reach the shelf **even if** I stand on a chair.* ~~even I stand~~. Эти союзы подробно разбираем в модуле о связках.
+
+> **Типичная ошибка русскоговорящих:** ~~He even didn't say goodbye~~. *even* стоит, как и другие наречия середины, **после** вспомогательного: *He **didn't even** say goodbye.*
 
 ### also, too, as well; probably, certainly
 
@@ -118,7 +162,59 @@ sources:
 
 Мнение (*nice, ugly, interesting*) всегда идёт первым, перед «фактами». На практике больше трёх прилагательных подряд почти не встречается.
 
+Ещё две детали:
+
+- Два цвета соединяем через **and**: *a **black and white** photo, a **red and yellow** umbrella*. Порядок *black and white* устойчивый (~~white and black~~ звучит непривычно).
+- *the first / next / last* стоят **перед** числом: ***the first two** days, **the next few** weeks, **the last three** episodes* (~~the two first days~~).
+
 > **B2-уровень:** *very* усиливает прилагательные, но не глаголы. «Я очень люблю» — *I **really** love it* или *I love it **very much***, но не ~~I very love it~~.
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 99. Порядок прилагательных**
+
+- [0:18:30](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=1110s) — начало: *a nice new house*
+- [0:19:34](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=1174s) — мнение раньше фактов
+- [0:21:06](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=1266s) — полный порядок: размер, возраст, форма, цвет, происхождение, материал
+- [0:25:11](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=1511s) — два цвета через *and*
+- [0:30:45](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=1845s) — практика
+- [0:40:57](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=2457s) — *the first two days, the next few weeks*
+
+**Урок 109. Порядок слов 1: глагол, дополнение, место и время**
+
+- [3:41:23](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=13283s) — глагол и дополнение не разрываем
+- [3:43:59](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=13439s) — глагол, дополнение, место
+- [3:45:30](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=13530s) — сначала место, потом время
+- [3:48:06](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=13686s) — практика
+
+**Урок 110. Порядок слов 2: наречия с глаголом**
+
+- [3:57:52](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=14272s) — наречия в середине: *always, also, probably*
+- [4:00:56](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=14456s) — *always have to*; после *be*; после первого вспомогательного
+- [4:03:59](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=14639s) — *probably* перед отрицанием
+- [4:05:02](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=14702s) — *all* и *both*
+- [4:06:03](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=14763s) — *he always is, I never will*
+- [4:07:05](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=14825s) — практика
+
+**Урок 111. Still, any more, yet, already**
+
+- [4:21:35](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=15695s) — *still* — всё ещё, всё равно
+- [4:23:08](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=15788s) — *not any more / any longer, no longer*
+- [4:25:40](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=15940s) — *yet* в отрицаниях и вопросах
+- [4:27:42](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=16062s) — *still* с отрицанием
+- [4:29:13](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=16153s) — *already*
+- [4:31:17](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=16277s) — практика
+
+**Урок 112. Even**
+
+- [4:42:24](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=16944s) — *even* — что-то необычное
+- [4:43:55](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=17035s) — *even* в середине предложения
+- [4:44:27](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=17067s) — *not even, can't even, didn't even*
+- [4:45:29](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=17129s) — *even* + сравнительная
+- [4:46:01](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=17161s) — *even if, even though, even when*
+- [4:49:37](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=17377s) — практика
 
 ## Проверь себя
 
@@ -148,4 +244,10 @@ explain: "Цвет → происхождение → материал: *black I
 ```
 
 ```exercise m10-adverbs-choice
+```
+
+```exercise m10-mid-adverbs-error
+```
+
+```exercise m10-still-even-choice
 ```

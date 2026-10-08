@@ -5,6 +5,8 @@ sources:
   - {title: "Oxford Practice Grammar — наречия степени, quite и rather, too и enough", url: "https://elt.oup.com/catalogue/items/global/grammar_vocabulary/oxford_practice_grammar/"}
   - {title: "Perfect English Grammar: наречие или прилагательное", url: "https://www.perfect-english-grammar.com/adverbs-or-adjectives-exercise-1.html"}
   - {title: "Agenda Web — упражнения на too и enough", url: "https://agendaweb.org/"}
+  - {title: "Видео Vlad and English: урок 103 — enough и too", url: "https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=6125s"}
+  - {title: "Видео Vlad and English: урок 104 — quite, pretty, rather и fairly", url: "https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=7244s"}
 ---
 «Очень», «довольно», «слишком», «достаточно» — в русском мы почти не задумываемся над этими словами. В английском у каждого из них есть **оттенок** и **место**. *The hotel was quite nice* звучит как вежливое «ну, нормально», *The hotel was rather nice* — как приятный сюрприз, а *It's too nice* без продолжения вообще странно: «слишком» требует «для чего». Если перепутать, собеседник поймёт тебя, но услышит не ту оценку — а это важно и в отзывах, и в переговорах, и в эссе.
 
@@ -49,6 +51,21 @@ sources:
 **quite** стоит **перед** артиклем: ***quite a** good idea*, ***quite an** old car*. С **rather** возможны оба варианта: ***a rather** long meeting* или ***rather a** long meeting*.
 
 > **Типичная ошибка русскоговорящих:** ~~a quite good idea~~ по аналогии с *a very good idea*. Правильно: ***quite a** good idea* (но *a **very** good idea*, *a **fairly** good idea*).
+
+### quite с существительным и с глаголом
+
+| Модель | Значение | Пример |
+|---|---|---|
+| **quite a** + существительное (без прилагательного) | «вот это да», что-то необычное | *It was **quite a day**! Getting the visa was **quite a** challenge.* |
+| **quite like / enjoy** | «довольно нравится», умеренно | *I **quite like** jazz, but I wouldn't go to a concert.* |
+| **quite agree** | «полностью согласен» | *— We need more testers. — I **quite agree**.* |
+| **not quite understand / know** | «не совсем» | *I **don't quite understand** the question.* |
+
+### pretty — разговорное «довольно»
+
+**pretty** по силе близко к *rather*, но нейтрально по оттенку и очень разговорно: *The exam was **pretty** easy. We see each other **pretty** often.* В отличие от *quite* оно стоит **после** артикля, как *very*: *a **pretty** good job* (~~pretty a good job~~). И работает только с прилагательными и наречиями: ~~I pretty like it~~, ~~pretty a surprise~~.
+
+> **B2-уровень:** в американском английском *quite* часто звучит как *very*: *quite good* — почти «очень хорошо». В британском — «неплохо, но не более». Если оттенок важен (отзыв, оценка работы), надёжнее *fairly* (слабо), *pretty* (средне) или *really* (сильно).
 
 ## rather: «довольно» с оттенком
 
@@ -109,7 +126,34 @@ sources:
 
 Это классическая трансформация экзамена B2 First: прилагательное меняется на **противоположное**.
 
+### Ещё три детали с too и enough
+
+- **enough** может стоять без прилагательного и существительного — после глагола или в конце: *You don't sleep **enough**. — More cake? — No, thanks, I've had **enough**.*
+- Если глагол после *to* требует предлога, предлог остаётся **в конце**: *The wall is too high **to climb over**. Is this chair strong enough **to stand on**?*
+- Возможен пассивный инфинитив: *These insects are too small **to be seen** without a microscope* (= *too small to see*).
+
 > **Типичная ошибка русскоговорящих:** ~~enough big~~, ~~money enough~~, ~~He isn't enough old~~. Формула: прилагательное + **enough**, **enough** + существительное.
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 103. Enough и too**
+
+- [1:42:07](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=6127s) — *enough* после прилагательного, перед существительным
+- [1:44:10](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=6250s) — *too* и *not … enough*; *too much / too many*
+- [1:44:40](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=6280s) — *enough / too* + *for* кто-то, + *to* глагол
+- [1:46:44](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=6404s) — *too hot to eat*, *too heavy to carry*
+- [1:48:54](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=6534s) — практика
+
+**Урок 104. Quite, pretty, rather и fairly**
+
+- [2:00:45](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=7245s) — *quite* и *pretty*
+- [2:01:47](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=7307s) — *quite a*, но *a pretty*
+- [2:02:50](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=7370s) — *quite a surprise*, *quite a lot*, *quite like*
+- [2:04:29](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=7469s) — *rather*: негатив и удивление
+- [2:08:33](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=7713s) — *quite* = *completely*: *quite sure, not quite*
+- [2:11:15](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=7875s) — практика
 
 ## Проверь себя
 
@@ -141,4 +185,7 @@ explain: "*too young* = **not old enough**. *enough* стоит **после** �
 ```
 
 ```exercise m10-degree-error
+```
+
+```exercise m10-quite-pretty-choice
 ```

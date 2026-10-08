@@ -182,3 +182,79 @@
   lesson: 09-nouns-articles/01a-generic-articles
   q: "Переведи: «Кто изобрёл колесо?»"
   a: "Who invented **the wheel**? Изобретение как тип предмета — **the** + ед. ч."
+- id: m09-platform-5
+  lesson: 09-nouns-articles/01-articles
+  q: "Найди ошибку: *The train leaves from the platform 3. Our seats are in the carriage 7.*"
+  a: "Номер **после** существительного → без артикля: *from **platform 3**, in **carriage 7***. Но *on **the** third platform*."
+- id: m09-go-to-the-bank
+  lesson: 09-nouns-articles/01-articles
+  q: "Переведи: «Мне нужно сходить в банк, а потом к стоматологу»."
+  a: "I need to go to **the bank** and then to **the dentist** (или *the dentist's*). Привычные места — с **the**."
+- id: m09-next-day
+  lesson: 09-nouns-articles/01-articles
+  q: "*next week* или *the next week*: «Мы приехали в понедельник и уехали на следующий день»."
+  a: "We arrived on Monday and left **the next day**. От другого момента — **the next**; от сегодня — *next week* без артикля."
+- id: m09-people-who
+  lesson: 09-nouns-articles/01a-generic-articles
+  q: "Почему *I like working with **people who** say what they think* — без *the*?"
+  a: "Придаточное описывает **тип** людей («любые такие»), мысль общая. Конкретная группа — ***the people** I work with*."
+- id: m09-chinese-person
+  lesson: 09-nouns-articles/01a-generic-articles
+  q: "Как лучше сказать «Он китаец», «Она швейцарка»?"
+  a: "*He's **Chinese**. She's **Swiss**.* — прилагательным. ~~He's a Chinese~~ звучит устаревше; можно *a Chinese **person***."
+- id: m09-dr-smith
+  lesson: 09-nouns-articles/01b-names
+  q: "Артикль или нет: ___ Dr Patel / ___ doctor / ___ Smiths (вся семья) / ___ President Lincoln?"
+  a: "*Dr Patel* — без; ***the** doctor* — титул без имени; ***the** Smiths* — семья; *President Lincoln* — без."
+- id: m09-hilton-oxford-street
+  lesson: 09-nouns-articles/01b-names
+  q: "Найди ошибку: *We stayed at Hilton on the Oxford Street, near British Museum.*"
+  a: "*at **the** Hilton* (отели — с the), *on **Oxford Street*** (улицы — без), *near **the** British Museum* (музеи — с the)."
+- id: m09-university-of
+  lesson: 09-nouns-articles/01b-names
+  q: "*Oxford University* или *the Oxford University*? А с *of*?"
+  a: "***Oxford University*** — первое слово имя, без артикля. С *of* — ***the** University of Oxford*."
+- id: m09-north-northern
+  lesson: 09-nouns-articles/01b-names
+  q: "Переведи двумя способами: «на севере Италии»."
+  a: "*in **the north** of Italy* или *in **northern** Italy* (без артикля). ~~in the northern Italy~~ — ошибка."
+- id: m09-plenty-of
+  lesson: 09-nouns-articles/02-countable-uncountable
+  q: "Найди ошибку: *Relax, we have plenty time. There's plenty things to see here.*"
+  a: "*plenty **of** time*; *There are plenty **of** things to see* или *There's plenty **to** see*."
+- id: m09-scenery-view
+  lesson: 09-nouns-articles/02-countable-uncountable
+  q: "*What a beautiful scenery!* — что не так?"
+  a: "**scenery** неисчисляемое: ***What beautiful scenery!*** С исчисляемым *view* — ***What a beautiful view!***"
+- id: m09-permission-bread
+  lesson: 09-nouns-articles/02-countable-uncountable
+  q: "Найди ошибки: *I asked for a permission to leave early and bought a bread on the way home.*"
+  a: "*asked for **permission***; *bought **some bread*** / ***a loaf of** bread*. Оба слова неисчисляемые."
+- id: m09-race-horse
+  lesson: 09-nouns-articles/02a-noun-agreement
+  q: "В чём разница: *a race horse* / *a horse race*?"
+  a: "Главное слово — **последнее**: *a race horse* — скаковая лошадь, *a horse race* — скачки."
+- id: m09-anna-and-marks
+  lesson: 09-nouns-articles/02a-noun-agreement
+  q: "*Anna and Mark's cars* или *Anna's and Mark's cars* — если у каждого своя машина?"
+  a: "***Anna's and Mark's** cars* — 's на каждом. Общая вещь — 's на последнем: *Anna and Mark's flat*."
+- id: m09-persons-people
+  lesson: 09-nouns-articles/02a-noun-agreement
+  q: "Найди ошибку: *About fifty persons came to the presentation.*"
+  a: "*About fifty **people** came.* *persons* — только в официальных табличках (*Max. 8 persons*)."
+- id: m09-without-any
+  lesson: 09-nouns-articles/03-quantifiers
+  q: "some или any: *She left without ___ money. Hardly ___ came. Let me know if you need ___.*"
+  a: "*without **any** money*, *hardly **anyone** came*, *if you need **anything***: отрицательный смысл и *if* → any."
+- id: m09-no-at-start
+  lesson: 09-nouns-articles/03-quantifiers
+  q: "Найди ошибку: *Anybody didn't come to the meeting.*"
+  a: "***Nobody** came to the meeting.* В начале предложения отрицание — только *no / nobody / nothing*."
+- id: m09-all-everything
+  lesson: 09-nouns-articles/03-quantifiers
+  q: "Найди ошибки: *All enjoyed the trip. He spent the whole money on souvenirs.*"
+  a: "***Everybody** enjoyed the trip* (all в одиночку не ставят); *spent **all the** money* (whole — только с исчисляемым)."
+- id: m09-every-ten-minutes
+  lesson: 09-nouns-articles/03-quantifiers
+  q: "Переведи: «Автобус ходит каждые десять минут, а Олимпиада проходит раз в четыре года»."
+  a: "The bus runs **every ten minutes**, and the Olympics take place **every four years**. every + число + мн. ч."

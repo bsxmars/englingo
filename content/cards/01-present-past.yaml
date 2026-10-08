@@ -174,3 +174,91 @@
   lesson: 01-present-past/00a-past-continuous
   q: "Переведи: «Мы летели в Рим в пятницу, но рейс отменили»."
   a: "*We **were flying** to Rome on Friday, but the flight **was cancelled**.* — план в прошлом, который сорвался."
+- id: m01-have-got-question
+  lesson: 01-present-past/00b-have-got
+  q: "Найди ошибку: *Do you have got a minute?*"
+  a: "*Do you **have** a minute?* или *Have you **got** a minute?* — *do* и *got* не смешивают."
+- id: m01-have-got-past
+  lesson: 01-present-past/00b-have-got
+  q: "Переведи: «У тебя в детстве был велосипед?»"
+  a: "*Did you have a bike when you were a child?* — в прошлом только *had*, вопрос через *did*; ~~had got~~, ~~Had you~~ не нужны."
+- id: m01-have-got-contraction
+  lesson: 01-present-past/00b-have-got
+  q: "Что не так: *I've a meeting at three.*"
+  a: "*I've* в значении «у меня есть» — только с *got*: *I**'ve got** a meeting* или *I **have** a meeting*."
+- id: m01-have-action-continuous
+  lesson: 01-present-past/00b-have-got
+  q: "*I've got a sandwich* или *I'm having a sandwich*?"
+  a: "*I've got* — у меня есть (в сумке); *I'm having* — я его ем. Continuous — только для have-действий."
+- id: m01-have-cold
+  lesson: 01-present-past/00b-have-got
+  q: "Найди ошибку: *I'm having a cold, so I'll stay in.*"
+  a: "*I**'ve got** / I **have** a cold.* — болезнь — «у меня есть», а не действие."
+- id: m01-have-trouble-ing
+  lesson: 01-present-past/00b-have-got
+  q: "Закончи: *Did you have any trouble ___ (find) the office?*"
+  a: "**finding** — после *have trouble / difficulty* идёт *-ing*."
+- id: m01-what-do-you-do
+  lesson: 01-present-past/00-present-tenses
+  q: "*What do you do?* или *What are you doing?*"
+  a: "*What do you do?* — кем работаешь; *What are you doing?* — что делаешь сейчас."
+- id: m01-can-hear
+  lesson: 01-present-past/00-present-tenses
+  q: "Найди ошибку (в созвоне): *Are you hearing me?*"
+  a: "*Can you hear me?* — *hear / see* = «слышу, вижу» — восприятие, без -ing, часто с *can*."
+- id: m01-getting-late
+  lesson: 01-present-past/00-present-tenses
+  q: "Переведи: «Уже поздно становится, я начинаю уставать»."
+  a: "*It's getting late and I'm getting tired.* — перемена сейчас → Continuous; ~~I tired~~ без глагола нельзя."
+- id: m01-ps-be-no-did
+  lesson: 01-present-past/00a-past-continuous
+  q: "Найди ошибку: *Did you be at home yesterday?*"
+  a: "*Were you at home yesterday?* — у *be* вопрос и отрицание без *did*: *were you, I wasn't*."
+- id: m01-ed-pronunciation
+  lesson: 01-present-past/00a-past-continuous
+  q: "Когда *-ed* читается как отдельный слог /ɪd/?"
+  a: "Только после /t/ и /d/: *wanted, needed*. *worked* /t/, *played* /d/ — один слог."
+- id: m01-irregular-traps
+  lesson: 01-present-past/00a-past-continuous
+  q: "Прошедшее: teach, catch, buy, think?"
+  a: "*taught, caught, bought, thought* — ~~teached~~, ~~catched~~."
+- id: m01-be-married-for
+  lesson: 01-present-past/01-present-perfect
+  q: "Найди ошибку: *They are married for twenty years.*"
+  a: "*They**'ve been married** for twenty years.* — *be* + *for / since* → Present Perfect."
+- id: m01-first-time-pp
+  lesson: 01-present-past/01-present-perfect
+  q: "Переведи: «Я впервые веду машину в снег»."
+  a: "*It's the first time I've driven in the snow.* — после *It's the first time* — Present Perfect."
+- id: m01-since-past-simple
+  lesson: 01-present-past/01-present-perfect
+  q: "Найди ошибку: *I've lived here since I have moved from Omsk.*"
+  a: "*…since I **moved** from Omsk.* — после *since* в придаточном — Past Simple."
+- id: m01-when-how-long
+  lesson: 01-present-past/01-present-perfect
+  q: "Ответ: *About five years.* Какой вопрос: *When did you buy your car?* или *How long have you had your car?*"
+  a: "*How long have you had…?* — ответ о длительности. На *When did you buy…?* ответят *Five years ago*."
+- id: m01-always-lived
+  lesson: 01-present-past/02-present-perfect-continuous
+  q: "Найди ошибку: *I've always been living in this town.*"
+  a: "*I've always **lived** in this town.* — с *always* — Present Perfect Simple."
+- id: m01-what-been-doing
+  lesson: 01-present-past/02-present-perfect-continuous
+  q: "*What have you been doing?* или *What have you done?*"
+  a: "*been doing* — чем занимался; *done* — что сделал, результат (часто «что ты натворил?»)."
+- id: m01-been-wanting
+  lesson: 01-present-past/02-present-perfect-continuous
+  q: "Переведи: «Я давно собирался тебе позвонить»."
+  a: "*I've been meaning to call you.* — устойчивая фраза (так же *I've been wanting to…*)."
+- id: m01-no-but-i-used-to
+  lesson: 01-present-past/03-past-perfect-used-to
+  q: "Ответь кратко: *Do you still smoke?* — «Нет, но раньше курил»."
+  a: "*No, but I used to.* — глагол опускается, *to* остаётся."
+- id: m01-used-to-was-doing
+  lesson: 01-present-past/03-past-perfect-used-to
+  q: "Найди ошибку: *I used to watch TV when you called.*"
+  a: "*I **was watching** TV when you called.* — один раз, в процессе. *used to* — только привычка."
+- id: m01-getting-used-to
+  lesson: 01-present-past/03-past-perfect-used-to
+  q: "Три фразы: *I used to live alone / I'm used to living alone / I'm getting used to living alone* — в чём разница?"
+  a: "раньше жил один / привык жить один / привыкаю жить один."

@@ -1,0 +1,43 @@
+title: "could, can или be able to"
+type: gap
+intro: "Впиши *can*, *could* или нужную форму *be able to*. Если в скобках дан глагол, впиши его вместе с модальным. Пиши только то, что вписывается в пропуск."
+hints:
+  - "could — не только прошлое: «мог бы» о настоящем и будущем, в том числе с преувеличением."
+  - "Где can не встаёт (после used to, have, will, to) — be able to."
+items:
+  - q: "I'm so tired I ___ (sleep) for a whole week."
+    answers: ["could sleep"]
+    explain: "Преувеличение, нереальное «мог бы» → **could sleep**. *can sleep* звучало бы как реальная способность."
+  - q: "The weather is perfect, the hotel is great, the food is delicious — it ___ be better!"
+    answers: ["couldn't", "could not"]
+    explain: "**It couldn't be better** — устойчивое «лучше не бывает»."
+  - q: "Our flight was delayed by five hours. Still, it ___ be worse — at least it wasn't cancelled."
+    answers: ["could"]
+    explain: "**It could be worse** — «могло быть и хуже», так утешают. О прошлом можно и *could have been worse*."
+  - q: "When I was a student, I ___ (sleep) anywhere — on buses, in libraries. Now I need total silence."
+    answers: ["used to be able to sleep", "could sleep", "was able to sleep"]
+    explain: "Общее умение в прошлом → **could sleep** или **used to be able to sleep** (*was able to sleep* тоже верно). После *used to* нужен *be able to*: ~~used to can~~ невозможно."
+  - q: "I ___ (not / concentrate) properly since the neighbours started their renovation."
+    answers: ["haven't been able to concentrate", "have not been able to concentrate"]
+    explain: "Present Perfect (*since…*) у *can* нет → **haven't been able to**."
+  - q: "I forgot my best friend's birthday again. I ___ kick myself!"
+    answers: ["could"]
+    explain: "**I could kick myself** — «вот я дурак!»: злость на себя. Это нереальное «мог бы», поэтому *could*."
+  - q: "— What shall we do on Saturday? — We ___ go to the lake if the weather's nice."
+    answers: ["could", "can"]
+    explain: "Предлагаем вариант → **could** (мягче) или **can** (увереннее). Оба естественны."
+  - q: "I'd love ___ (speak) Italian well enough to watch films without subtitles."
+    answers: ["to be able to speak"]
+    explain: "После *would love* нужен инфинитив с *to*, а у *can* его нет → **to be able to speak**."
+  - q: "All applicants ___ (must / use) Excel at an advanced level."
+    answers: ["must be able to use"]
+    explain: "Два модальных подряд нельзя (~~must can~~) → **must be able to use**."
+  - q: "I ___ (not / live) in such a noisy area — I'd go mad within a week."
+    answers: ["couldn't live", "could not live"]
+    explain: "«Я бы не смог», это невозможно для меня → **couldn't live**. Здесь *couldn't* о настоящем, а не о прошлом."
+  - q: "I've known Mark for years, but I ___ (never / understand) his sense of humour."
+    answers: ["have never been able to understand", "'ve never been able to understand"]
+    explain: "Present Perfect с *never* → **have never been able to understand**. ~~have never could~~ невозможно."
+  - q: "— You think remote work is better for most developers? — Absolutely. I ___ agree more."
+    answers: ["couldn't", "could not"]
+    explain: "**I couldn't agree more** — «полностью согласен»: согласиться сильнее невозможно."

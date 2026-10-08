@@ -1,0 +1,44 @@
+title: "for, since, first time, ever"
+type: gap
+intro: "Поставь глагол в скобках в нужную форму: Present Perfect или Past Simple. Смотри на *since*, *for*, *the first time* и превосходную степень."
+hints:
+  - "be + for / since → have been: They've been married for…"
+  - "После since в придаточном — Past Simple: since I moved…"
+  - "It's the first time / the best … ever → Present Perfect."
+items:
+  - q: "My parents ___ (be) married for thirty-five years. They're celebrating next week."
+    answers: ["have been", "'ve been"]
+    explain: "Брак длится до сих пор + *for* → **have been** married. ~~are married for~~ — самая частая ошибка."
+  - q: "I've lived in this flat since I ___ (move) to Kazan."
+    answers: ["moved"]
+    explain: "После *since* в придаточном — момент в прошлом → Past Simple **moved**, а не ~~have moved~~."
+  - q: "It's the first time I ___ (eat) Georgian food. It's delicious!"
+    answers: ["have eaten", "'ve eaten", "have ever eaten", "'ve ever eaten"]
+    explain: "*It's the first time* + **Present Perfect**: *I've eaten*. ~~It's the first time I eat~~ — калька с русского."
+  - q: "This is the most beautiful beach I ___ (ever / see)."
+    answers: ["have ever seen", "'ve ever seen"]
+    explain: "Превосходная степень + опыт за жизнь → **have ever seen**."
+  - q: "Max ___ (be) in hospital since Monday — he broke his leg."
+    answers: ["has been", "'s been"]
+    explain: "Он всё ещё в больнице → *has been **in** hospital since Monday*. *been to hospital* значило бы «побывал»."
+  - q: "— Where ___ (you / be) born? — In Samara."
+    answers: ["were you"]
+    explain: "Рождение — событие в прошлом → **Where were you born?** ~~have you been born~~ не говорят."
+  - q: "I ___ (not / have) a proper holiday in three years. I really need a break."
+    answers: ["haven't had", "have not had"]
+    explain: "Отрицание + срок до сих пор → **haven't had**. *in three years* = *for three years* в отрицании."
+  - q: "— How long ___ (you / have) your bike? — About two years."
+    answers: ["have you had"]
+    explain: "Ответ — длительность до сих пор → **How long have you had…?** (*have* = «владеть», без Continuous)."
+  - q: "— When ___ (you / buy) your bike? — Two years ago."
+    answers: ["did you buy"]
+    explain: "Ответ — момент в прошлом (*ago*) → **When did you buy…?**"
+  - q: "It's been ages since we ___ (talk) properly."
+    answers: ["talked", "last talked"]
+    explain: "*It's been … since* + момент в прошлом → Past Simple **talked**."
+  - q: "She ___ (know) him all her life — they grew up next door to each other."
+    answers: ["has known", "'s known"]
+    explain: "Знает до сих пор → **has known**. И заметь: *all her life* — без *for*."
+  - q: "This is the second time you ___ (forget) my birthday!"
+    answers: ["have forgotten", "'ve forgotten"]
+    explain: "*This is the second time* + **Present Perfect**: *you've forgotten*."

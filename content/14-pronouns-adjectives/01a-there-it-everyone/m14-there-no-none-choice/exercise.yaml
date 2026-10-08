@@ -1,0 +1,55 @@
+title: "there + модальный глагол; no, none, nothing"
+type: choice
+intro: "Выбери вариант, который грамматически верен и подходит по смыслу."
+hints:
+  - "Сообщаем, что что-то есть, было или будет (с любым модальным глаголом) → there. Оцениваем известное прилагательным → it."
+  - "no + существительное; none — без существительного; nothing — «ничего»."
+items:
+  - q: "The lights were on and the TV was loud — ___ someone at home."
+    options: ["there must have been", "it must have been", "there must be"]
+    answer: 0
+    explain: "Вывод о прошлом (*were on*) → **must have been**. Сообщаем, что кто-то **был** дома → *there*."
+  - q: "Nobody told us the flight was cancelled. ___ an announcement!"
+    options: ["It should have been", "There should have been", "There should be"]
+    answer: 1
+    explain: "Объявления не было, а должно было быть → **There should have been**. *there* — потому что речь о существовании объявления."
+  - q: "If the buses ran more often, ___ fewer cars in the city centre."
+    options: ["there would be", "it would be", "there will be"]
+    answer: 0
+    explain: "Воображаемая ситуация (*if … ran*) → **would be**; машины «были бы» → *there*."
+  - q: "Look at those black clouds. ___ a storm tonight."
+    options: ["It's going to be", "There's going to be", "There's going to"]
+    answer: 1
+    explain: "После пропуска существительное *a storm*, которое «будет» → **There's going to be**. С *it* говорят о погоде прилагательным: *It's going to be stormy*."
+  - q: "They live right next to the railway. ___ very noisy."
+    options: ["There must be", "It must be", "It must have"]
+    answer: 1
+    explain: "После пропуска прилагательное *noisy* — оценка известной ситуации → **It must be**. С *there* было бы *There must be a lot of noise*."
+  - q: "___ supposed to be a bus at 7:15, but it never came."
+    options: ["There was", "It was", "There"]
+    answer: 0
+    explain: "Автобус «должен был быть» по расписанию → **There was supposed to be**. Без *be* (*There supposed*) фраза неграмматична."
+  - q: "How do we get to the other side? Is ___ a bridge further down the river?"
+    options: ["it", "there", "this"]
+    answer: 1
+    explain: "Спрашиваем, **существует** ли мост → *Is there a bridge?* *Is it a bridge?* значит «Это мост?» про уже видимое сооружение."
+  - q: "We had to walk home because there were ___ taxis at the station."
+    options: ["no", "not", "none"]
+    answer: 0
+    explain: "Перед существительным → **no** (= *not any*). *not* перед существительным так не ставят, а *none* — без существительного или с *of*."
+  - q: "— How much sugar do you take? — ___. I drink it black."
+    options: ["No", "None", "Nothing"]
+    answer: 1
+    explain: "Ответ без существительного на *how much sugar* → **None**. *No* требует существительного после себя."
+  - q: "___ reason was given for the change of plan."
+    options: ["Not any", "No", "None"]
+    answer: 1
+    explain: "В начале предложения перед существительным — только **No**. ~~Not any reason~~ в начале не говорят."
+  - q: "— How much did the museum cost? — ___. Entry was free."
+    options: ["None", "Nothing", "No"]
+    answer: 1
+    explain: "«Сколько стоит?» — «Ничего не стоит» → **Nothing**. *None* отвечает на вопрос о количестве конкретного вещества или предметов."
+  - q: "Both phones have the same camera and battery, so there's ___ difference between them."
+    options: ["no", "none", "not"]
+    answer: 0
+    explain: "**no difference** = *not any difference*. После *no* артикль не нужен: ~~no a difference~~."

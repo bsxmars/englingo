@@ -6,6 +6,10 @@ sources:
   - {title: "Perfect English Grammar: Zero Conditional", url: "https://www.perfect-english-grammar.com/zero-conditional-exercise-1.html"}
   - {title: "Perfect English Grammar: First Conditional", url: "https://www.perfect-english-grammar.com/first-conditional-exercise-1.html"}
   - {title: "Perfect English Grammar: Second Conditional", url: "https://www.perfect-english-grammar.com/second-conditional-exercise-1.html"}
+  - {title: "Видео Vlad and English: урок 38 — If I do и if I did", url: "https://www.youtube.com/watch?v=m8pe5CiAVVE&t=0s"}
+  - {title: "Видео Vlad and English: урок 39 — If I knew, I wish I knew", url: "https://www.youtube.com/watch?v=m8pe5CiAVVE&t=1291s"}
+  - {title: "Видео Vlad and English: урок 114 — In case", url: "https://www.youtube.com/watch?v=26J1ryERDWo&t=1290s"}
+  - {title: "Видео Vlad and English: урок 115 — Unless, as long as, provided", url: "https://www.youtube.com/watch?v=26J1ryERDWo&t=2343s"}
 ---
 В русском «если» почти не меняет времени глагола: «если пойдёт дождь» — будущее, «если бы у меня были деньги» — частица «бы». В английском всё держится на **сдвиге времён**: после *if* мы не ставим *will*, а нереальность показываем прошедшим временем. Ещё есть слова-ловушки: *unless* — это «если не», а *in case* — вообще не «если», а «на случай, если».
 
@@ -55,6 +59,18 @@ sources:
 
 - If I **get** the job, I'll move to London. — шансы реальные, я на собеседовании.
 - If I **got** the job, I'd move to London. — вряд ли получу, просто фантазирую.
+
+То же в вопросах-приглашениях: *If we **go** to Lisbon in May, **will** you **join** us?* — поездка почти решена. *If we **went** to Lisbon in May, **would** you **join** us?* — пока прощупываем почву.
+
+### Тонкости второго типа
+
+| Приём | Пример | Что важно |
+|---|---|---|
+| **did / could / were** вместо повтора глагола | *I don't think he'll quit. I'd be amazed if he **did**.* / *I'd lend you the money if I **could**.* | Вторую часть не повторяют целиком: *did* заменяет уже названный глагол, *could* и *were* — свою конструкцию. |
+| **could** в обеих частях | *She **could** get a better job if she **could** speak German.* | В результате *could* = *would be able to* («смогла бы»), в условии — *was able to* («умела бы»). |
+| **would be + -ing** в результате | *If I were you, I **wouldn't be sitting** here — I'd be packing.* | Нереальное действие **прямо сейчас**, в процессе. |
+
+> **Типичная ошибка русскоговорящих:** ~~I'd be surprised if he would do it~~ или ~~…if he does~~. В части с *if* для нереальной ситуации — Past Simple, и короткий ответ тоже в прошедшем: *I'd be surprised if he **did**.*
 
 ## Не только Present Simple: другие формы в условии
 
@@ -121,6 +137,35 @@ sources:
 
 > **B2-уровень:** *in case* часто проверяют в B2 First Part 4: *I'll write down my number because you might need it* → *I'll write down my number **in case you need** it.*
 
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 38. If I do и if I did**
+
+- [0:00:00](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=0s) — реальное и воображаемое настоящее: *if we take* / *if we took*
+- [0:05:16](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=316s) — *will* и *would* не ставятся в части с *if*
+- [0:07:21](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=441s) — *could* и *might* вместо *would*
+- [0:08:25](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=505s) — практика
+- [0:10:37](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=637s) — first или second в приглашении; *if he did* вместо повтора глагола
+
+**Урок 39. If I knew… I wish I knew…**
+
+- [0:21:31](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=1291s) — *if I knew*: нереальное настоящее
+- [0:26:07](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=1567s) — *were* вместо *was* после *if*
+- [0:31:19](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=1879s) — *could* = *would be able to*, *could* в обеих частях
+- [0:36:55](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=2215s) — *I wouldn't be waiting*: *would be + -ing*
+- [0:41:32](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=2492s) — Past Continuous в условии
+
+**Урок 114. In case**
+
+- [0:25:03](https://www.youtube.com/watch?v=26J1ryERDWo&t=1503s) — *in case* и *if*: не одно и то же
+
+**Урок 115. Unless, as long as, provided**
+
+- [0:39:03](https://www.youtube.com/watch?v=26J1ryERDWo&t=2343s) — *unless* = *if … not*
+- [0:42:11](https://www.youtube.com/watch?v=26J1ryERDWo&t=2531s) — *as long as*, *provided (that)*
+
 ## Проверь себя
 
 ```quiz
@@ -158,4 +203,7 @@ explain: "Событие точно случится → **when**. *If* озна
 ```
 
 ```exercise m04-real-error
+```
+
+```exercise m04-second-tricky-gap
 ```

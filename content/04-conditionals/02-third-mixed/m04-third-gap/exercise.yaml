@@ -36,5 +36,11 @@ items:
     answers: ["hadn't given up", "hadn't given music up"]
     explain: "Результат сейчас (*'d be … now*), а условие в прошлом (*at eighteen*) → **hadn't given up**. Здесь *'d* = *would*."
   - q: "If it ___ (not / rain) so heavily, the match wouldn't have been cancelled."
-    answers: ["hadn't rained"]
+    answers: ["hadn't rained", "had not rained", "hadn't been raining"]
     explain: "Дождь был в прошлом, матч отменили → third conditional: **hadn't rained**."
+  - q: "If you ___ (pay) attention during the briefing, you wouldn't have missed the new deadline."
+    answers: ["had been paying", "'d been paying", "had paid", "'d paid"]
+    explain: "Нереальное прошлое → Past Perfect. Здесь важен процесс («слушал бы в тот момент»), поэтому естественнее **had been paying**; *had paid attention* тоже верно."
+  - q: "If I had known you ___ (be) in town last week, I'd have invited you to dinner."
+    answers: ["were", "had been", "was"]
+    explain: "Past Perfect нужен глаголу условия (*had known*). Факт внутри него можно не сдвигать: **were** (или *was*) звучит естественно; *had been* тоже верно."

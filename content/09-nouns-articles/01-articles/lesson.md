@@ -6,6 +6,9 @@ sources:
   - {title: "Perfect English Grammar: Articles (1)", url: "https://www.perfect-english-grammar.com/articles-exercise-1.html"}
   - {title: "Perfect English Grammar: Articles (2)", url: "https://www.perfect-english-grammar.com/articles-exercise-2.html"}
   - {title: "Perfect English Grammar: bed, home, work, town без артикля", url: "https://www.perfect-english-grammar.com/bed-home-work-town-exercise-1.html"}
+  - {title: "Видео Vlad and English: урок 72 — a/an и the", url: "https://www.youtube.com/watch?v=eWTY7yqu2lE&t=3706s"}
+  - {title: "Видео Vlad and English: урок 73 — the, часть 1", url: "https://www.youtube.com/watch?v=eWTY7yqu2lE&t=5076s"}
+  - {title: "Видео Vlad and English: урок 74 — school или the school", url: "https://www.youtube.com/watch?v=eWTY7yqu2lE&t=6437s"}
 ---
 В русском артиклей нет, и смысл, который они передают, мы выражаем порядком слов и интонацией. Сравни: «**В комнату вошёл человек**» (какой-то, новый) и «**Человек вошёл в комнату**» (тот, о котором уже говорили). В английском порядок слов жёсткий, поэтому эту работу делает артикль: *A man came into the room* / *The man came into the room*.
 
@@ -67,6 +70,14 @@ sources:
 
 *the sun, the moon, the sky, the world, the internet, the government, the environment, the police*
 
+Ещё несколько слов из этого ряда: *the sea, the ground, the countryside, the equator, the capital (of Peru), the end (of the month)*. И три исключения, на которых спотыкаются:
+
+| Без артикля | С **the** |
+|---|---|
+| **space** — космос: *She dreams of going into **space**.* | **the space** — конкретное место: ***The space** was too small for my car.* |
+| **Earth** — название планеты в ряду других: *Mars is smaller than **Earth**.* | **the earth** — наш мир, земля под ногами: *The earth goes round **the sun**.* |
+| **TV** — телевидение: *What's on **TV**? I saw it on **TV**.* | **the TV** — сам телевизор: *Turn off **the TV**, please.* |
+
 ### Уточнение «какой именно» прямо в предложении
 
 - **The** man in the grey suit is my boss.
@@ -79,6 +90,36 @@ sources:
 - It's **the** best film of the year. We went to **the** same school.
 
 > **Типичная ошибка русскоговорящих:** ~~It's best restaurant in town~~, ~~We live in same building~~. Перед превосходной степенью и *same* артикль **the** обязателен.
+
+### the bank, the doctor, the gym: привычные места
+
+Когда говорим о походе в «типовое» место, куда ходят все, ставим **the**, хотя не уточняем, какое именно: *I need to go to **the bank**. I go to **the gym** three times a week. Have you been to **the dentist** this year?* Так же: *the post office, the station, the airport, the supermarket, the doctor, the hairdresser*. Мы думаем не о конкретном здании, а о привычном месте в нашей жизни, поэтому слушателю «понятно какое».
+
+Сравни с **a**: *Is there **a bank** near here?* — есть ли вообще хоть какой-то банк. *My sister is **a dentist**.* — профессия.
+
+> **B2-уровень:** в британском английском часто говорят ***at the doctor's**, **at the hairdresser's**, **at Tom's*** — «в кабинете врача», «в парикмахерской», «у Тома дома». Существительное после *'s* опускается, потому что и так понятно: *I'm at **the dentist's**.*
+
+> **Типичная ошибка русскоговорящих:** ~~I have to go to doctor~~, ~~I'm going to gym after work~~. Правильно: *to **the** doctor*, *to **the** gym*.
+
+### Номер после существительного: platform 5, room 126
+
+Если существительное **называют номером или буквой**, артикль не нужен: номер и так показывает, какой именно.
+
+| Без артикля: номер **после** слова | С **the**: порядковое числительное **перед** словом |
+|---|---|
+| *Our train leaves from **platform 5**.* | *We live on **the tenth floor**.* |
+| ***Room 126** is on the first floor.* | *It's **the third room** on the left.* |
+| *Open your books at **page 15**.* | *The answer is at **the top of page 15**.* |
+| *I couldn't answer **question 3**.* | ***The last question** was the hardest.* |
+| *size 43, gate 24, vitamin C, section B* | *the first time, the second half* |
+
+> **Типичная ошибка русскоговорящих:** ~~The train leaves from the platform 3~~, ~~Do exercise on the page 20~~. Номер после существительного → без артикля: *from **platform 3**, on **page 20***.
+
+### next week или the next day
+
+*next, last* + время **без артикля**, когда считаем **от сегодняшнего дня**: *See you **next week**. I was ill **last month**.* С **the** — когда считаем **от другого момента**, в прошлом или в рассказе: *We arrived on Monday and left **the next day**. She had moved out **the week before**.*
+
+**the next / the last** без слова времени — «следующий / последний по порядку»: ***The next train** leaves at 9:15. This is **the last chapter**.* А ***the last week*** — «последняя неделя» (чего-то) или «последние семь дней», а не «прошлая неделя»: *I've been really busy **for the last week**.*
 
 ## Нулевой артикль: «вообще»
 
@@ -130,6 +171,8 @@ sources:
 | Отдельные горы и озёра: *Everest, Lake Baikal* | Горные хребты, группы островов, пустыни: **the** Alps, **the** Canaries, **the** Sahara |
 | Аэропорты, вокзалы, университеты с именем: *Heathrow, Oxford University* | Конструкция с *of*: **the** University of Oxford, **the** north **of** England |
 
+Улицы, отели, музеи, газеты, люди с титулами и семьи (*Dr Smith, the Smiths*) разобраны в уроке «Имена и названия».
+
 > **B2-уровень:** *the* с прилагательным обозначает группу людей: **the rich**, **the elderly**, **the unemployed**. И с национальностями: **the British** drink a lot of tea.
 
 ## Ещё несколько случаев, где ошибаются
@@ -165,6 +208,37 @@ sources:
 
 > **Типичная ошибка русскоговорящих:** ~~She plays piano and the volleyball~~. Наоборот: *She plays **the** piano and **volleyball***.
 
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 72. A/an и the**
+
+- [1:01:46](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=3706s) — *a* для «какого-то», *the* для конкретного
+- [1:03:19](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=3799s) — второе упоминание: *a sandwich → the sandwich*
+- [1:06:26](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=3986s) — понятно из ситуации: *the light, the floor*
+- [1:07:28](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=4048s) — *the bank, the post office, the doctor, the gym*
+- [1:10:01](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=4201s) — *once a week, £2 a kilo*
+- [1:10:33](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=4233s) — практика
+
+**Урок 73. The, часть 1**
+
+- [1:24:36](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=5076s) — начало урока, произношение *the*
+- [1:25:40](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=5140s) — единственное в своём роде: *the equator, the capital, the end of*
+- [1:30:51](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=5451s) — *Earth* и *space* без артикля
+- [1:32:57](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=5577s) — *the cinema, the radio*, но *TV*; приёмы пищи
+- [1:35:00](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=5700s) — *platform 5, room 126, size 43* без артикля
+- [1:36:34](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=5794s) — практика
+
+**Урок 74. School или the school**
+
+- [1:47:17](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=6437s) — начало урока
+- [1:48:18](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=6498s) — *go to school* (учиться) и *go to the school* (как в здание)
+- [1:51:24](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=6684s) — *prison, hospital, university, church*
+- [1:53:31](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=6811s) — *go to bed, in bed, on the bed*
+- [1:54:32](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=6872s) — *go to work, go home, at home*
+- [1:56:04](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=6964s) — практика
+
 ## Проверь себя
 
 ```quiz
@@ -195,4 +269,7 @@ explain: "Страна во множественном числе → **the Neth
 ```
 
 ```exercise m09-articles-gap
+```
+
+```exercise m09-articles-places-gap
 ```

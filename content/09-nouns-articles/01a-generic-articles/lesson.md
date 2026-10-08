@@ -5,6 +5,9 @@ sources:
   - {title: "Oxford Practice Grammar — артикли в общих утверждениях; a/an, one и some", url: "https://elt.oup.com/catalogue/items/global/grammar_vocabulary/oxford_practice_grammar/"}
   - {title: "Perfect English Grammar: Articles (2)", url: "https://www.perfect-english-grammar.com/articles-exercise-2.html"}
   - {title: "Agenda Web — упражнения на артикли", url: "https://agendaweb.org/"}
+  - {title: "Видео Vlad and English: урок 71 — исчисляемые с a/an и some", url: "https://www.youtube.com/watch?v=eWTY7yqu2lE&t=2620s"}
+  - {title: "Видео Vlad and English: урок 75 — children или the children", url: "https://www.youtube.com/watch?v=eWTY7yqu2lE&t=7616s"}
+  - {title: "Видео Vlad and English: урок 76 — the giraffe, the telephone, the old", url: "https://www.youtube.com/watch?v=eWTY7yqu2lE&t=8439s"}
 ---
 В прошлом уроке был главный вопрос: знает ли слушатель, **какой именно** предмет я имею в виду. Самые упрямые ошибки на B2 возникают в другом месте — когда мы говорим **о вещах вообще**. По-русски «Я не люблю собак», «Образование должно быть бесплатным», «Люди, с которыми я работаю, — классные» строятся одинаково, без всяких сигналов «вообще» или «конкретно». В английском эти три фразы звучат по-разному: *I don't like **dogs***, ***Education** should be free*, ***The people** I work with are great*.
 
@@ -21,6 +24,8 @@ sources:
 
 - *a/an* в общем смысле работает только там, где утверждение верно для **любого** экземпляра: *A smartphone is a small computer.* Но не ~~A tiger is endangered~~ — под угрозой не отдельный тигр, а вид.
 - **the** + единственное число — для видов животных и растений, изобретений и инструментов: *Who invented **the wheel**? **The smartphone** has changed how we read.*
+- Так же говорят о **валютах**: ***The euro** replaced the Italian lira in 2002. **The dollar** fell against **the yen**.*
+- Исключение — **man** в значении «человечество, человек как вид» идёт **без артикля**: *the origins of **man***. Это книжный стиль; сегодня чаще говорят *humans* или *humankind*: *How did **humans** learn to speak?*
 
 > **Типичная ошибка русскоговорящих:** ~~The cats are independent animals~~ (если речь о кошках вообще). *the cats* — это конкретные кошки, например твои. Общая мысль: ***Cats** are independent animals.*
 
@@ -63,6 +68,18 @@ sources:
 
 > **Типичная ошибка русскоговорящих:** ~~History of Russia is complicated~~. Если есть *of* + конкретное, нужен **the**: ***The history of** Russia is complicated.* Сравни: *I study **Russian history***.
 
+### Придаточное не всегда делает конкретным
+
+Придаточное с *who / that* может описывать не конкретную группу, а **тип** людей или вещей. Тогда мысль остаётся общей, и артикля нет:
+
+| Тип, «любые такие» — без артикля | Конкретная группа — **the** |
+|---|---|
+| *I like working with **people who** say what they think.* | *I like **the people** I work with.* |
+| ***Students who** miss more than three classes fail the course.* | ***The students who** missed the class have to see me.* |
+| ***Apps that** collect your data should be banned.* | ***The app** (that) you recommended is great.* |
+
+Проверка: можно ли вставить «любые, такие»? «Мне нравится работать с **любыми** людьми, которые говорят, что думают» — да → без артикля. «Мне нравятся **те** люди, с которыми я работаю» — конкретные → **the**.
+
 ## most, most of the
 
 «Большинство людей» вообще — **most people**, без артикля и без *of*. Если речь о конкретной группе — **most of the** / **most of my**:
@@ -88,6 +105,8 @@ sources:
 | ***The French** love cheese. **The Japanese** work long hours.* | ***Russians / The Russians** drink a lot of tea.* |
 | один человек: *a Frenchman, a Japanese woman* | один человек: *a Russian, an Italian* |
 
+О человеке из первой колонки проще всего говорить **прилагательным**: *She's **Chinese**. He's **Swiss**.* Форма *a Chinese, a Japanese* звучит устаревше и может показаться невежливой, лучше *a Chinese **person***. Универсальный способ для любой национальности — **прилагательное + people / person**: ***Chinese people** work long hours. I met **a Brazilian person** at the conference.*
+
 ## a/an, one и some
 
 - **a/an** — просто «один какой-то»: *I need **a** pen.*
@@ -96,6 +115,35 @@ sources:
 - Ударное **some** = «какой-то, некоторые» в противопоставлении: ***Some** people love it, others hate it.*
 
 > **B2-уровень:** в эссе выручают **a + единственное** и **plural без артикля** — они звучат естественно. *The + единственное* в общем смысле оставь для видов животных, изобретений и научного стиля: *The internet has transformed **the way** we work* — а *the way* здесь конкретный, его уточняет придаточное.
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 71. Исчисляемые существительные с a/an и some**
+
+- [0:43:40](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=2620s) — единственное и множественное число, *a dog — dogs*
+- [0:47:15](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=2835s) — *a/an*: что это за вещь или человек, профессия
+- [0:49:20](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=2960s) — *some* = несколько; *some* можно опустить
+- [0:49:52](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=2992s) — *some* не ставим, когда говорим «вообще»; *some* = «некоторые»
+- [0:51:27](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=3087s) — практика
+
+**Урок 75. Children или the children**
+
+- [2:06:56](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=7616s) — «вообще» — без артикля: *I'm afraid of dogs*
+- [2:08:02](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=7682s) — *most shops*, а не *the most shops*
+- [2:08:32](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=7712s) — конкретные — с *the*: *We took the children to the zoo*
+- [2:10:35](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=7835s) — граница размыта: *people who say what they think* и *the people I work with*
+- [2:11:36](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=7896s) — практика
+
+**Урок 76. The giraffe, the telephone, the old**
+
+- [2:20:39](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=8439s) — *the giraffe, the bicycle, the dollar*: вид, изобретение, валюта
+- [2:23:46](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=8626s) — *man* без артикля
+- [2:24:18](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=8658s) — *the rich, the homeless*; один человек — *a rich man*
+- [2:25:52](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=8752s) — национальности: *the French, the Chinese, Italians*
+- [2:29:58](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=8998s) — универсальный способ: *French people, Chinese people*
+- [2:30:31](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=9031s) — практика
 
 ## Проверь себя
 

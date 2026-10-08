@@ -190,3 +190,39 @@
   lesson: 08-verb-patterns/01a-verb-object
   q: "Две модели для «Нас предупредили не ходить туда ночью»."
   a: "*They warned us **not to go** there at night.* / *warned us **against going** there at night.*"
+- id: m08-being-done
+  lesson: 08-verb-patterns/01-gerund-infinitive
+  q: "Найди ошибку: *I remember to be bitten by a dog as a child.*"
+  a: "*I remember **being bitten**.* Воспоминание → -ing; действие над тобой → **being + V3**."
+- id: m08-having-done
+  lesson: 08-verb-patterns/01-gerund-infinitive
+  q: "Чем *He denied taking the money* отличается от *He denied having taken the money*?"
+  a: "По смыслу ничем. **having + V3** подчёркивает, что действие было раньше, и звучит книжнее."
+- id: m08-offer-vs-suggest
+  lesson: 08-verb-patterns/01-gerund-infinitive
+  q: "**offer** или **suggest**: «Он предложил подвезти меня» (сам)."
+  a: "*He **offered to drive** me.* **offer to do** — сделаю сам; **suggest doing** — давай сделаем / сделайте."
+- id: m08-trouble-doing
+  lesson: 08-verb-patterns/01-gerund-infinitive
+  q: "Переведи: «Я потратил два часа, чтобы найти баг, и с трудом нашёл его»."
+  a: "*I **spent** two hours **looking for** the bug and **had trouble finding** it.* После *spend time* и *have trouble* — -ing."
+- id: m08-prefer-to
+  lesson: 08-verb-patterns/02-meaning-change
+  q: "Найди ошибку: *I prefer tea than coffee.*"
+  a: "*I prefer tea **to** coffee.* С **prefer** сравнение идёт через **to**: *prefer X to Y*, *prefer doing to doing*."
+- id: m08-prefer-rather-than
+  lesson: 08-verb-patterns/02-meaning-change
+  q: "Закончи: *I prefer to walk rather than ___ (drive).* / *I'd rather walk than ___ (drive).*"
+  a: "**drive** в обоих случаях: после *prefer to do* — *rather than* + голый инфинитив; после *would rather* — без *to*."
+- id: m08-would-like-to-have
+  lesson: 08-verb-patterns/02-meaning-change
+  q: "Переведи: «Жаль, что я не видел этот матч» через *would like*."
+  a: "*I**'d like to have seen** that match.* **would like + to have + V3** — о прошлом, которое не случилось."
+- id: m08-talk-to-end
+  lesson: 08-verb-patterns/03-make-let-allow
+  q: "Найди ошибку: *She's very easy to talk.*"
+  a: "*She's very easy to talk **to**.* При модели *sb is easy to do* предлог остаётся в конце."
+- id: m08-question-to-answer
+  lesson: 08-verb-patterns/03-make-let-allow
+  q: "Переведи: «Это лёгкая ошибка, её все совершают» (одной фразой с *easy*)."
+  a: "*It's **an easy mistake to make**.* Прилагательное + существительное + **to**."

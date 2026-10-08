@@ -1,0 +1,66 @@
+title: "Перефразирование: вопросы и указания"
+type: transform
+intro: |
+  Перескажи прямую речь так, чтобы смысл не изменился. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+
+  Пересказываем позже, поэтому времена и местоимения сдвигаются. Порядок слов в косвенном вопросе — прямой.
+hints:
+  - "be уходит в конец: who those people were. Предлог остаётся после глагола: where I was from."
+  - "Do you think…? → asked if I thought… — сдвигаются оба глагола."
+  - "Указание без человека: said (not) to do."
+items:
+  - q: "\"Who are those people by the door?\" Anna asked me."
+    key: "WERE"
+    stem: "Anna asked me who ___ by the door."
+    answers: ["those people were"]
+    explain: "Прямой порядок: подлежащее *those people*, потом **were**. ~~who were those people~~ — вопросительный порядок, в косвенном вопросе он не нужен."
+  - q: "\"Where are you from?\" the taxi driver asked me."
+    key: "FROM"
+    stem: "The taxi driver asked me ___ ."
+    answers: ["where I was from"]
+    explain: "*are you* → **I was**, а предлог *from* остаётся в конце, как в прямом вопросе."
+  - q: "\"Do you think the plan will work?\" my boss asked me."
+    key: "THOUGHT"
+    stem: "My boss asked me ___ the plan would work."
+    answers: ["if I thought", "whether I thought"]
+    explain: "Вопрос «да / нет» → **if / whether**. *Do you think* → *I thought*, *will* → *would*: сдвигаются оба глагола."
+  - q: "\"Why do you want to leave your current job?\" the interviewer asked me."
+    key: "WANTED"
+    stem: "The interviewer asked me ___ leave my current job."
+    answers: ["why I wanted to"]
+    explain: "*do* исчезает, глагол сам берёт прошедшее время: **why I wanted to**."
+  - q: "\"Don't worry about the deadline,\" said our team lead."
+    key: "NOT"
+    stem: "Our team lead said ___ about the deadline."
+    answers: ["not to worry"]
+    explain: "Отрицательное указание без человека → **said not to do**. *not* стоит перед *to*."
+  - q: "\"Take these tablets twice a day,\" the doctor told me."
+    key: "SAID"
+    stem: "The doctor ___ these tablets twice a day."
+    answers: ["said to take", "said I should take", "said that I should take"]
+    explain: "Разговорный вариант — **said to take** (без человека). Нейтральный — *said (that) I should take*. ~~said me to take~~ — ошибка."
+  - q: "\"What is the book about?\" Lena asked."
+    key: "WHAT"
+    stem: "Lena asked ___ about."
+    answers: ["what the book was"]
+    explain: "*is* уходит после подлежащего и сдвигается: **what the book was** about. Предлог *about* остаётся в конце."
+  - q: "\"Have you got a work permit?\" they asked me."
+    key: "IF"
+    stem: "They asked me ___ a work permit."
+    answers: ["if I had", "if I had got", "if I'd got"]
+    explain: "Вопрос «да / нет» → **if**, потом прямой порядок и сдвиг: *have you got* → *I had (got)*."
+  - q: "\"Where's the nearest cash machine?\" a tourist asked me."
+    key: "WHERE"
+    stem: "A tourist asked me ___ cash machine was."
+    answers: ["where the nearest"]
+    explain: "*is* уходит в конец (**was**), а *where* и подлежащее *the nearest cash machine* идут вперёд."
+  - q: "\"How long have you been working at your company?\" she asked me."
+    key: "HAD"
+    stem: "She asked me how long ___ at my company."
+    answers: ["I had been working", "I had worked"]
+    explain: "Present Perfect Continuous → Past Perfect Continuous: **I had been working**. Порядок прямой: *I* перед глаголом."
+  - q: "\"Are you willing to relocate?\" the recruiter asked me."
+    key: "WHETHER"
+    stem: "The recruiter asked me ___ to relocate."
+    answers: ["whether I was willing"]
+    explain: "Нет вопросительного слова → **whether** (или *if*). *are you* → *I was*."

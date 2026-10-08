@@ -1,0 +1,44 @@
+title: "prefer, would rather, would like to have done"
+type: gap
+intro: "Впиши одно слово или нужную форму глагола в скобках. Впиши только то, что стоит на месте пропуска."
+hints:
+  - "prefer X to Y, prefer doing to doing: to здесь предлог."
+  - "prefer to do rather than do; would rather do than do."
+  - "О прошлом, которое не случилось: would like / hate / prefer + to have + V3."
+items:
+  - q: "I prefer working from home ___ commuting to the office every day."
+    answers: ["to"]
+    explain: "**prefer doing to doing**: второе действие вводится предлогом **to**, поэтому дальше *commuting*."
+  - q: "Most people in my team prefer tea ___ coffee in the afternoon."
+    answers: ["to"]
+    explain: "**prefer X to Y**. Не ~~than~~: с *prefer* сравнение идёт через **to**."
+  - q: "I'd prefer ___ (stay) in tonight, if you don't mind."
+    answers: ["to stay"]
+    explain: "**would prefer** + to-инфинитив: *I'd prefer to stay*."
+  - q: "I prefer to cook at home rather than ___ (eat) out."
+    answers: ["eat"]
+    explain: "После *prefer to do* второе действие — **rather than** + голый инфинитив: *rather than eat*."
+  - q: "I prefer cycling rather than ___ (drive) in the city centre."
+    answers: ["driving"]
+    explain: "Если после *prefer* стоит -ing, после *rather than* тоже -ing: *cycling rather than driving*."
+  - q: "Shall we go now? — I'd rather ___ (wait) a few more minutes."
+    answers: ["wait"]
+    explain: "После **would rather** — голый инфинитив, без *to*."
+  - q: "To be honest, I'd rather walk than ___ (take) a crowded bus."
+    answers: ["take"]
+    explain: "**would rather do than do**: оба глагола без *to*."
+  - q: "Would you prefer ___ (sit) by the window or near the door?"
+    answers: ["to sit"]
+    explain: "Вопрос о конкретной ситуации → **would prefer to do**."
+  - q: "It's a pity I missed your talk. I would like ___ (hear) it."
+    answers: ["to have heard"]
+    explain: "Хотел, но не случилось → перфектный инфинитив: **would like to have heard**."
+  - q: "We should have taken the train instead of driving. I would prefer ___ (travel) by train."
+    answers: ["to have travelled", "to have traveled"]
+    explain: "Сожаление о прошлом выборе → **would prefer to have travelled**."
+  - q: "The whole project was a disaster. I'd hate ___ (be) the manager in charge of it."
+    answers: ["to have been", "to be"]
+    explain: "О прошлом точнее **to have been**: «хорошо, что я им не был». *to be* тоже возможно: так представляют ситуацию вообще."
+  - q: "I'd rather you ___ (not tell) anyone about this until it's official."
+    answers: ["didn't tell"]
+    explain: "**would rather + кто-то + Past Simple**: *I'd rather you didn't tell*. Прошедшее время, но смысл настоящий."

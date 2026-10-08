@@ -41,3 +41,12 @@ items:
   - q: "We need to protect ___ (environment) for future generations."
     answers: ["the environment"]
     explain: "*the environment* (окружающая среда) — единственная в своём роде, как *the sun, the internet* → всегда с **the**."
+  - q: "I enjoy working with ___ (people) who aren't afraid to disagree with me."
+    answers: ["people"]
+    explain: "Придаточное описывает **тип** людей («любые такие»), а не конкретную группу → без артикля."
+  - q: "Do you get on well with ___ (people) you share the flat with?"
+    answers: ["the people"]
+    explain: "Здесь конкретные люди — твои соседи по квартире → **the people**."
+  - q: "___ (euro) has been the currency of Germany since 1999."
+    answers: ["The euro"]
+    explain: "Валюта как целое — **the** + единственное число: *the euro, the dollar, the yen*."

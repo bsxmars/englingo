@@ -1,0 +1,40 @@
+title: "Названия: найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка с артиклем в названии. Исправь её и перепиши предложение целиком."
+hints:
+  - "Имя + тип (Heathrow Airport) — без the; of или обычное первое слово — с the."
+  - "Семья: the + фамилия во множественном числе."
+items:
+  - q: "We had dinner at a nice restaurant on the Oxford Street."
+    answers: ["We had dinner at a nice restaurant on Oxford Street."]
+    explain: "Улицы — без артикля: *on Oxford Street, on Fifth Avenue*."
+  - q: "My cousin works as a guide at Hermitage."
+    answers: ["My cousin works as a guide at the Hermitage."]
+    explain: "Музеи — с **the**: *the Hermitage, the Louvre*."
+  - q: "We're going to visit Petrovs this weekend."
+    answers: ["We're going to visit the Petrovs this weekend.", "We are going to visit the Petrovs this weekend."]
+    explain: "Вся семья = **the** + фамилия во множественном числе: *the Petrovs, the Smiths*."
+  - q: "The Doctor Kim will see you in a few minutes."
+    answers: ["Doctor Kim will see you in a few minutes.", "Dr Kim will see you in a few minutes."]
+    explain: "Титул + имя → без артикля: *Doctor Kim, Dr Kim*. Без имени было бы *The doctor will see you…*"
+  - q: "She has an MBA from the Harvard University."
+    answers: ["She has an MBA from Harvard University.", "She has an MBA from Harvard."]
+    explain: "Первое слово — имя (*Harvard*) → без артикля. С **the** говорят только в конструкции с *of*: *the University of Oxford*."
+  - q: "The Nile is the longest river in the Africa."
+    answers: ["The Nile is the longest river in Africa."]
+    explain: "Континенты — без артикля: *Africa, Europe, Asia*. А река — с **the**: *the Nile*."
+  - q: "Valencia is on the east coast, in the eastern Spain."
+    answers: ["Valencia is on the east coast, in eastern Spain."]
+    explain: "Прилагательное (*eastern*) + название страны → без артикля. Или *in the east of Spain*."
+  - q: "Sahara is the largest hot desert in the world."
+    answers: ["The Sahara is the largest hot desert in the world."]
+    explain: "Пустыни — с **the**, даже без слова *desert*: *the Sahara, the Gobi*."
+  - q: "They spent a week sailing around the Sicily."
+    answers: ["They spent a week sailing around Sicily."]
+    explain: "Один остров — без артикля: *Sicily, Crete*. С **the** — только группы островов: *the Canaries*."
+  - q: "Our hotel was right next to the Paddington Station, which was very convenient."
+    answers: ["Our hotel was right next to Paddington Station, which was very convenient."]
+    explain: "Вокзалы и аэропорты с именем — без артикля: *Paddington Station, Victoria Station, Gatwick Airport*."
+  - q: "He has worked for United Nations for ten years."
+    answers: ["He has worked for the United Nations for ten years.", "He's worked for the United Nations for ten years."]
+    explain: "Организации с обычными словами в названии — с **the**: *the United Nations, the European Union*."

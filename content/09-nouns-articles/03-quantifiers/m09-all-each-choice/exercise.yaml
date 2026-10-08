@@ -1,0 +1,56 @@
+title: "all или everything, each или every, neither + noun"
+type: choice
+intro: "Выбери вариант, который грамматически верен и естественен."
+hints:
+  - "Само по себе «все / всё» — everybody / everything, а не all."
+  - "whole — только с исчисляемым в единственном числе; с неисчисляемым — all."
+  - "either / neither + существительное в единственном числе."
+items:
+  - q: "The party was great. ___ had a really good time."
+    options: ["All", "Everybody", "Every"]
+    answer: 1
+    explain: "«Все» как подлежащее без существительного — **everybody / everyone**. ~~All had…~~ так не говорят."
+  - q: "He's only been here a week, but he thinks he knows ___."
+    options: ["all", "everything", "every"]
+    answer: 1
+    explain: "«Всё» без существительного — **everything**. *all* требует продолжения: *all about it, all the answers*."
+  - q: "I was so tired that ___ I wanted to do was sleep."
+    options: ["all", "everything", "every"]
+    answer: 0
+    explain: "***All I wanted** = единственное, чего я хотел*. Здесь *all* возможно, потому что за ним идёт придаточное."
+  - q: "Did you spend ___ I gave you?"
+    options: ["the whole money", "all the money", "whole the money"]
+    answer: 1
+    explain: "*money* неисчисляемое → **all the money**. *whole* — только с исчисляемым в единственном числе: *the whole day*."
+  - q: "There's a shuttle bus to the airport every ___."
+    options: ["twenty minute", "twenty minutes", "twenty minutes'"]
+    answer: 1
+    explain: "**every** + число + **множественное**: *every twenty minutes, every four years*."
+  - q: "It rains ___ here — I don't know why I moved."
+    options: ["every time", "all the time", "all time"]
+    answer: 1
+    explain: "**all the time** = постоянно. *every time* = каждый раз, когда… — после него нужно придаточное."
+  - q: "I understood most of the lecture, but not ___ word."
+    options: ["each", "every", "all"]
+    answer: 1
+    explain: "После **not** и *almost* — только **every**: *not every word*. *each* здесь не подходит."
+  - q: "The hotel rooms are all decorated differently — ___ has its own theme."
+    options: ["every", "each", "all"]
+    answer: 1
+    explain: "**each** может стоять без существительного. *every* — нет: нужно *every one*."
+  - q: "We tried two cafés, but ___ open."
+    options: ["neither café was", "neither cafés were", "neither of café was"]
+    answer: 0
+    explain: "Без *of* после **neither** — существительное в **единственном** числе и глагол в единственном: *neither café was*."
+  - q: "I've got two cousins in Kazan, but I haven't seen ___ for years."
+    options: ["neither of them", "either of them", "any of them"]
+    answer: 1
+    explain: "Двое → *either / neither*. После *haven't* — **either**, иначе будет двойное отрицание."
+  - q: "Neither the manager nor the developers ___ about the bug."
+    options: ["knows", "know", "is knowing"]
+    answer: 1
+    explain: "После *neither … nor* глагол согласуют с **ближайшим** подлежащим: *the developers* → **know**."
+  - q: "She loves travelling and has been to ___ European countries."
+    options: ["most", "most of", "the most"]
+    answer: 0
+    explain: "Страны вообще, без *the / my* → сразу существительное: **most** European countries. *most of* нужен перед *the*: *most of the countries in Europe*."

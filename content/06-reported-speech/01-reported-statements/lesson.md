@@ -6,6 +6,8 @@ sources:
   - {title: "Perfect English Grammar: Reported Speech (1)", url: "https://www.perfect-english-grammar.com/reported-speech-exercise-1.html"}
   - {title: "Perfect English Grammar: Reported Speech (3)", url: "https://www.perfect-english-grammar.com/reported-speech-exercise-3.html"}
   - {title: "Perfect English Grammar: Say or Tell", url: "https://www.perfect-english-grammar.com/say-or-tell-exercise-1.html"}
+  - {title: "Видео Vlad and English: урок 47 — косвенная речь, часть 1", url: "https://www.youtube.com/watch?v=m8pe5CiAVVE&t=15264s"}
+  - {title: "Видео Vlad and English: урок 48 — косвенная речь, часть 2", url: "https://www.youtube.com/watch?v=m8pe5CiAVVE&t=16256s"}
 ---
 Пересказывать чужие слова приходится постоянно: «Менеджер сказал, что релиз переносится», «Она говорила, что живёт в Лондоне». В русском время глагола в придаточном не меняется: *он сказал, что **устал*** — и «устал» относится к моменту, когда он говорил. В английском после *said* время обычно **сдвигается на шаг назад** — это и называется backshift. Без этого правила пересказ звучит как ошибка или меняет смысл.
 
@@ -21,6 +23,7 @@ sources:
 - *tell* без человека не бывает: ~~She told that she was tired~~.
 - *say* с человеком — только через *to*: ~~She said me~~.
 - Устойчивые выражения с *tell* без человека: *tell the truth, tell a lie, tell a story, tell a joke, tell the time, tell the difference*.
+- Наоборот, *say* — с конкретными словами: *say hello / goodbye / thank you / sorry / something / nothing*. Человек и тут только через **to**: *She **said goodbye to us** and left.* ~~She said us goodbye~~. Вопрос «что ты ему сказал?» — *What did you **say to him**?*, а «скажи ему правду» — *Tell him the truth*.
 
 Слово *that* в разговоре часто опускают: *He told me he was leaving.*
 
@@ -35,6 +38,19 @@ sources:
 - They **announced that** the office would close early. — объявили
 
 > **Типичная ошибка русскоговорящих:** ~~He explained me the problem~~ / ~~She explained us that…~~. *explain*, *mention*, *announce*, *complain* ведут себя как *say*: человек только через **to**: *He **explained to me** that… She **mentioned to us** that…*
+
+### Как оформить прямую речь
+
+Если цитируешь слово в слово, правила пунктуации отличаются от русских:
+
+| | Английский | Русский |
+|---|---|---|
+| Слова автора впереди | *Tom said, "I'm exhausted."* — запятая, кавычки, точка **внутри** кавычек | Том сказал: «Я без сил». — двоеточие, точка снаружи |
+| Слова автора после | *"I'm exhausted," Tom said.* — **запятая** внутри кавычек | «Я без сил», — сказал Том. — запятая и тире |
+| Вопрос | *"Are you OK?" she asked.* — после вопроса запятая не нужна, *she* со строчной | «Ты в порядке?» — спросила она. |
+
+- Кавычки — "…" (в британских текстах часто '…'), «ёлочек» и тире в диалогах нет.
+- После цитаты возможна инверсия с существительным: *"I'm exhausted," **said Tom**.* С местоимением — только прямой порядок: *"…," **he said***, а ~~said he~~ звучит архаично.
 
 Так же пересказывают **мысли**: *I **thought** / **knew** / **realised** / **didn't know** (that)…* + тот же сдвиг времён: *I **didn't know** you **were** vegetarian. We **realised** the shop **had closed**.*
 
@@ -55,6 +71,22 @@ sources:
 
 - "I **would** love to come." → She said she **would** love to come.
 - "You **should** see a doctor." → He said I **should** see a doctor.
+
+### will → would: «будущее в прошедшем»
+
+*would* в пересказе — это *will*, увиденное из прошлого. В русском будущее время в пересказе не меняется: «она сказала, что **вернёт** деньги». И неважно, вернула она их уже или нет. В английском *will* после *said* не остаётся, даже если действие давно случилось:
+
+- "I**'ll pay** you back." → She said she **would pay** me back — and she did. (и вернула)
+- "We**'ll finish** by May." → They promised they **would finish** by May, but they didn't.
+
+Придаточные времени и условия (*when, as soon as, before, until, if*) сдвигаются вместе с главной частью. В прямой речи там настоящее, значит, в пересказе — **прошедшее**, а не *would*:
+
+| Прямая речь | Косвенная речь |
+|---|---|
+| "I'll message you **when I land**." | She said she'd message me **when she landed**. |
+| "I won't leave **until** the build **finishes**." | He said he wouldn't leave **until** the build **finished**. |
+
+> **Типичная ошибка русскоговорящих:** ~~She said she would message me when she would land~~. Правило «после *when* нет *will*» продолжает работать и в косвенной речи: *will* → *would* только в главной части, а в части с *when* — Past Simple.
 
 Past Simple после *said* часто **остаётся** как есть, если порядок событий и так ясен: *He said he **lost** / **had lost** his keys yesterday.* Оба варианта нормальны.
 
@@ -100,6 +132,26 @@ Past Simple после *said* часто **остаётся** как есть, �
 
 > **Типичная ошибка русскоговорящих:** механически менять всё подряд. Если пересказываешь в тот же день — *tomorrow* остаётся *tomorrow*: *Anna said she'd call you **tomorrow**.* Меняй указатели только тогда, когда сдвинулся момент или место.
 
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 47. Косвенная речь, часть 1**
+
+- [4:14:24](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=15264s) — прямая и косвенная речь, сдвиг после *said*
+- [4:15:29](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=15329s) — как оформить прямую речь
+- [4:18:04](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=15484s) — таблица сдвига; *will* → *would*
+- [4:21:42](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=15702s) — Past Simple: оставить или Past Perfect
+- [4:22:44](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=15764s) — практика
+
+**Урок 48. Косвенная речь, часть 2**
+
+- [4:30:56](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=16256s) — когда время можно не сдвигать
+- [4:33:59](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=16439s) — сдвиг, когда сказанное расходится с реальностью
+- [4:35:40](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=16540s) — *say* и *tell*
+- [4:36:44](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=16604s) — *say something to somebody*, *say goodbye to*
+- [4:40:29](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=16829s) — практика
+
 ## Проверь себя
 
 ```quiz
@@ -137,4 +189,9 @@ explain: "**tell a story** — устойчивое выражение, и по�
 Перефразирование в формате B2 First: пересказываем позже и в другом месте.
 
 ```exercise m06-statements-transform
+```
+
+«Будущее в прошедшем», придаточные с *when* и *say goodbye to*.
+
+```exercise m06-future-in-past-gap
 ```

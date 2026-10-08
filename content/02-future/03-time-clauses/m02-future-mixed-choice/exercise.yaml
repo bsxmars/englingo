@@ -45,3 +45,11 @@ items:
     options: ["will be living", "will live", "live"]
     answer: 0
     explain: "Процесс в момент будущего (**this time next month**) → Future Continuous: *will be living*."
+  - q: "I'm going to the supermarket after work. ___ I'm there, I'll pick up some coffee."
+    options: ["When", "If", "Unless"]
+    answer: 0
+    explain: "Поход в магазин уже решён, он точно будет → **when**. *If* означало бы, что ты, может, и не пойдёшь."
+  - q: "Don't worry ___ I'm a bit late tonight — the traffic might be bad."
+    options: ["if", "when", "until"]
+    answer: 0
+    explain: "Опоздание лишь возможно → **if**. *when I'm late* звучит так, будто опоздание гарантировано."

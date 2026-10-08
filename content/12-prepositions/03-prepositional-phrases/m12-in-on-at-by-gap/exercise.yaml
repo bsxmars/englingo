@@ -1,0 +1,44 @@
+title: "in the rain, on strike, at the age of, by 10%"
+type: gap
+intro: "Впиши один предлог: **in**, **on**, **at**, **by** или **with**."
+hints:
+  - "Погода, язык, настроение — in. Пожар, забастовка, диета — on. Возраст, скорость, температура — at."
+  - "В пассиве: кто сделал — by, чем сделали — with."
+  - "На сколько изменилось — by: rose by 10%, won by two votes."
+items:
+  - q: "We sat ___ the shade because it was far too hot in the sun."
+    answers: ["in"]
+    explain: "Погода и свет — **in**: *in the shade, in the sun, in the rain*. ~~under the shade~~ — калька с русского."
+  - q: "The film was ___ Spanish with English subtitles."
+    answers: ["in"]
+    explain: "Язык — **in**: *in Spanish, in English*. ~~on Spanish~~ — калька «на испанском»."
+  - q: "Don't ask him for anything today — he's ___ a terrible mood."
+    answers: ["in"]
+    explain: "Настроение — **in** a good / bad mood."
+  - q: "Half the building was ___ fire when the firefighters arrived."
+    answers: ["on"]
+    explain: "Горит — **on fire**. Устойчивая фраза, без артикля."
+  - q: "Train drivers are ___ strike again, so I'm working from home."
+    answers: ["on"]
+    explain: "Бастовать — **be on strike**, объявить забастовку — *go on strike*."
+  - q: "She wrote her first program ___ the age of twelve."
+    answers: ["at"]
+    explain: "Возраст — **at the age of** twelve (или просто *at twelve*)."
+  - q: "The car was travelling ___ a speed of 160 km/h when it crashed."
+    answers: ["at"]
+    explain: "Скорость, температура, высота — **at**: *at a speed of, at 100 degrees, at 10,000 metres*."
+  - q: "The door had been opened ___ a key — nobody had forced it."
+    answers: ["with"]
+    explain: "Ключ — инструмент → **with**. *by* в пассиве указывает на того, кто сделал: *opened by the cleaner*."
+  - q: "This portrait was painted ___ a little-known Dutch artist."
+    answers: ["by"]
+    explain: "Автор, исполнитель действия в пассиве → **by**."
+  - q: "Our sales increased ___ 15% last year."
+    answers: ["by"]
+    explain: "На сколько изменилось, с глаголом → **by**: *increased by 15%*. С существительным — *an increase **of** 15%*."
+  - q: "I missed the last train ___ two minutes."
+    answers: ["by"]
+    explain: "Разница, «на две минуты» → **by** two minutes."
+  - q: "This sweater has to be washed ___ hand."
+    answers: ["by"]
+    explain: "Способ — **by hand** (вручную), без артикля, как *by post, by card*."

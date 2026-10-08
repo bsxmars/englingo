@@ -38,3 +38,6 @@ items:
   - q: "They ought have checked the contract more carefully."
     answers: ["They ought to have checked the contract more carefully.", "They should have checked the contract more carefully."]
     explain: "**ought to have + V3** — *to* после *ought* обязательно."
+  - q: "Thanks for organising everything last weekend — the trip couldn't be better."
+    answers: ["Thanks for organising everything last weekend — the trip couldn't have been better.", "Thanks for organising everything last weekend — the trip could not have been better."]
+    explain: "Поездка уже прошла → **couldn't have been better**. *couldn't be better* — о том, что происходит сейчас."

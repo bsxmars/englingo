@@ -1,0 +1,52 @@
+title: "As: «так как», «когда» или «по мере того как»"
+type: choice
+intro: "Выбери связку. Подумай, что значит *as* в этом предложении — и можно ли его тут вообще поставить."
+hints:
+  - "as = «так как» (причина) или «в тот же момент» (одновременно)."
+  - "Одно действие после другого или период жизни — when, не as."
+  - "just as — ровно в тот момент; as + изменение — по мере того как."
+items:
+  - q: "We all waved goodbye ___ the ferry left the harbour."
+    options: ["as", "since", "because of"]
+    answer: 0
+    explain: "Махали в тот же момент, когда паром отходил: **as** = «когда, пока» (можно и *when*). *since* здесь значило бы «так как», *because of* требует существительное."
+  - q: "___ I was a teenager, I wanted to be a rock star."
+    options: ["As", "When", "Since"]
+    answer: 1
+    explain: "Период жизни → **When**. *As I was a teenager* звучит как «так как я был подростком». *Since* — «с тех пор как», но тогда нужен Present Perfect: *Since I was a teenager, I've wanted…*"
+  - q: "___ there was nothing in the fridge, we ordered a pizza."
+    options: ["As", "While", "Despite"]
+    answer: 0
+    explain: "Причина: «так как холодильник пустой» → **As** (= *because, since*). *Despite* — уступка, и после него нужно существительное."
+  - q: "The phone rang ___ I sat down to dinner."
+    options: ["just as", "since", "as soon"]
+    answer: 0
+    explain: "**just as** = «ровно в тот момент, когда». *as soon* без второго *as* не бывает: *as soon as*."
+  - q: "___ the evening went on, the music got louder and louder."
+    options: ["As", "During", "Until"]
+    answer: 0
+    explain: "Постепенное изменение: «по мере того как вечер шёл» → **As**. *During* — предлог, после него не бывает подлежащего с глаголом."
+  - q: "___ I got home, I made myself a cup of tea."
+    options: ["As", "When", "While"]
+    answer: 1
+    explain: "Сначала пришёл, **потом** сделал чай — цепочка действий → **When**. *as* и *while* говорят об одновременности."
+  - q: "I burnt my hand ___ I was taking the tray out of the oven."
+    options: ["as", "since", "so"]
+    answer: 0
+    explain: "Короткое событие на фоне процесса (Past Continuous) → **as** (можно *when / while*). *since* значило бы «так как», а смысл не причинный."
+  - q: "___ it's your birthday, you can choose the restaurant."
+    options: ["Since", "While", "Until"]
+    answer: 0
+    explain: "Причина, известная обоим → **Since** («раз уж, так как»), как *as*. Здесь *since* не про время."
+  - q: "She lost her wallet ___ she was on holiday in Rome."
+    options: ["when", "as", "since"]
+    answer: 0
+    explain: "«Когда была в отпуске» — период, на фоне которого что-то случилось → **when**. *as / since she was on holiday* прочитается как «так как она была в отпуске»."
+  - q: "I liked my new colleagues more and more ___ I got to know them."
+    options: ["as", "while", "during"]
+    answer: 0
+    explain: "Отношение менялось вместе со знакомством → **as** («по мере того как»). *during* — предлог, а *while* не передаёт постепенности."
+  - q: "___ you're going to the shop anyway, could you get some milk?"
+    options: ["As", "Although", "So"]
+    answer: 0
+    explain: "«Раз уж ты всё равно идёшь» — причина → **As** (или *Since*). *Although* — уступка, смысл не тот."

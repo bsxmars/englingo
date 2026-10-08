@@ -35,3 +35,9 @@ items:
   - q: "I wish I am on holiday right now."
     answers: ["I wish I was on holiday right now.", "I wish I were on holiday right now."]
     explain: "Нереальное настоящее → **were** или *was*."
+  - q: "I wish you have a wonderful holiday in Greece."
+    answers: ["I hope you have a wonderful holiday in Greece.", "I wish you a wonderful holiday in Greece."]
+    explain: "Реальное пожелание с глаголом → **hope** + Present. Либо формула *wish* + кто-то + существительное без глагола: *I wish you a wonderful holiday*."
+  - q: "It's high time something is done about the noise from that bar."
+    answers: ["It's high time something was done about the noise from that bar.", "It's high time something were done about the noise from that bar."]
+    explain: "После **It's (high) time** + подлежащее — Past Simple, и в пассиве тоже: *something **was** done*."

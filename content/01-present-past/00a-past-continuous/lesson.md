@@ -6,6 +6,8 @@ sources:
   - {title: "Perfect English Grammar: Past Simple или Past Continuous (1)", url: "https://www.perfect-english-grammar.com/past-simple-past-continuous-exercise-1.html"}
   - {title: "Perfect English Grammar: Past Simple или Past Continuous (2)", url: "https://www.perfect-english-grammar.com/past-simple-past-continuous-exercise-2.html"}
   - {title: "englisch-hilfen — упражнения по временам", url: "https://www.englisch-hilfen.de/en/exercises_list/alle_grammar.htm"}
+  - {title: "Видео Vlad and English: урок 5 — Past Simple", url: "https://www.youtube.com/watch?v=KHAQFIjPg5E&t=6649s"}
+  - {title: "Видео Vlad and English: урок 6 — Past Continuous", url: "https://www.youtube.com/watch?v=KHAQFIjPg5E&t=8095s"}
 ---
 В русском у прошедшего времени есть вид: «читал» и «прочитал», «звонил» и «позвонил». Кажется, что Past Continuous — это «несовершенный вид», а Past Simple — «совершенный». Это **не так**, и на этом спотыкаются почти все. *I read a book yesterday* — это и «читал», и «прочитал». А Past Continuous отвечает на другой вопрос: **что было в процессе в конкретный момент прошлого?** Это камера, которая остановила кадр посреди действия.
 
@@ -20,6 +22,37 @@ sources:
 | ? | **Did** you **work**? | **Were** you **working**? |
 
 После *did* / *didn't* глагол всегда в базовой форме: ~~Did you went~~ → *Did you **go**?*
+
+### Past Simple: форма без ошибок
+
+**be — без did.** У *be* свои формы прошедшего: *was / were*. Вопрос и отрицание строятся без *did*:
+
+- **Were** you at work yesterday? — ~~Did you be~~.
+- I **wasn't** hungry. — ~~I didn't be~~.
+- Where **was** the meeting? — ~~Where did the meeting be?~~
+
+**Орфография -ed.**
+
+| Правило | Примеры |
+|---|---|
+| обычно + **-ed** | work → work**ed**, play → play**ed** |
+| на -e → + **-d** | like → like**d**, move → move**d** |
+| согласная + y → **-ied** | study → stud**ied**, try → tr**ied** (но play → play**ed**) |
+| короткий ударный слог «согласная-гласная-согласная» → удвоение | stop → sto**pp**ed, plan → pla**nn**ed, prefer → prefe**rr**ed |
+
+**Произношение -ed** зависит от последнего звука глагола:
+
+| Звук | Когда | Примеры |
+|---|---|---|
+| /ɪd/ — отдельный слог | после /t/ и /d/ | want**ed**, need**ed**, decid**ed** |
+| /t/ | после глухих: /p/, /k/, /s/, /ʃ/, /tʃ/, /f/ | stopp**ed**, work**ed**, watch**ed**, laugh**ed** |
+| /d/ | после звонких и гласных | play**ed**, call**ed**, liv**ed**, open**ed** |
+
+> **Типичная ошибка русскоговорящих:** читать *-ed* всегда как отдельный слог: ~~«ворк-ед»~~, ~~«плей-ед»~~. Слог /ɪd/ появляется только после *t* и *d*: *worked* — /wɜːkt/, один слог.
+
+**Неправильные глаголы-ловушки.** По аналогии хочется добавить *-ed*: ~~teached~~, ~~catched~~, ~~thinked~~, ~~buyed~~. Правильно: *teach → **taught**, catch → **caught**, think → **thought**, buy → **bought**, bring → **brought**, fight → **fought***.
+
+**Формы совпадают** у *cut, put, shut, hit, hurt, cost, let, set, quit, spread*: *I **cut** my finger yesterday. The tickets **cost** 20 euros.* Время понятно по контексту и по *-s* в настоящем: *It **costs*** (сейчас) — *It **cost*** (тогда).
 
 ## Значение: событие или фон
 
@@ -63,6 +96,18 @@ sources:
 - I **worked** all day. — факт: весь день был рабочим.
 - I **was working** all day. — подчёркиваем процесс, часто с эмоцией: «я весь день вкалывал (поэтому и не ответил)».
 
+### Часто верны оба
+
+*all day* — частный случай общего правила: для длительного или повторяющегося действия в прошлом часто подходят **оба** времени. Выбор зависит от того, как говорящий смотрит на событие: как на факт (Simple) или как на процесс, фон (Continuous).
+
+- When she was ill, she **watched** / **was watching** a lot of TV.
+- Last year I **worked** / **was working** in Madrid.
+- What **did** you **do** / **were** you **doing** last weekend?
+
+Ошибкой Continuous становится только там, где действие явно законченное и точечное (*I **found** my keys*) или идёт цепочка событий (*I **got up**, **had** breakfast and **left***).
+
+> **Не верь правилу «после while — всегда Continuous».** Обычно после *while* действительно стоит длинный процесс, но и Simple встречается: *While I **lived** in Kazan, I **learnt** to skate.* Здесь речь о периоде жизни как о факте.
+
 ## Глаголы состояния и в прошлом — в Simple
 
 *know, believe, want, belong, seem, understand, need* не любят Continuous и в прошлом:
@@ -89,6 +134,27 @@ Past Continuous описывает договорённость, которая 
 *I **was wondering** if you could help me* звучит мягче, чем *I wonder…* или *Can you…?*. Прошедшее здесь не про прошлое, а про дистанцию — так вежливее.
 
 > **B2-уровень:** в письме (статья, история) начинай сцену с Past Continuous — это декорации, — а потом переходи к цепочке событий в Past Simple: *It **was getting** dark and I **was walking** along an empty street. Suddenly, a car **stopped** next to me.*
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 5. Past Simple**
+
+- [1:50:49](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=6649s) — значение
+- [1:51:53](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=6713s) — *-ed* и неправильные глаголы
+- [1:54:54](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=6894s) — *did / didn't*
+- [1:56:56](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=7016s) — *was / were* без *did*
+- [1:57:57](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=7077s) — практика
+- [2:02:10](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=7330s) — произношение *-ed*
+
+**Урок 6. Past Continuous**
+
+- [2:14:55](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=8095s) — процесс или законченное действие
+- [2:19:34](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=8374s) — *was doing* и *did*
+- [2:21:08](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=8468s) — *while*, цепочка событий
+- [2:23:10](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=8590s) — глаголы состояния
+- [2:23:40](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=8620s) — практика
 
 ## Проверь себя
 
@@ -117,4 +183,7 @@ explain: "**was always + -ing** — раздражающая привычка в
 ```
 
 ```exercise m01-past-cont-error
+```
+
+```exercise m01-past-simple-form-gap
 ```

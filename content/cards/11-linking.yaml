@@ -26,6 +26,18 @@
   lesson: 11-linking/01-contrast
   q: "Перефразируй с **despite**: *Although she was ill, she went to work.*"
   a: "*Despite **being** ill, she went to work.* (или *Despite her illness…*)"
+- id: m11-even-even-though
+  lesson: 11-linking/01-contrast
+  q: "Найди ошибку: *Even I was tired, I couldn't sleep.*"
+  a: "***Even though** I was tired…* — одно **even** («даже») не союз. Ещё: **even if** — «даже если», **even so** — «и всё же»."
+- id: m11-despite-this
+  lesson: 11-linking/01-contrast
+  q: "Переведи: «Она простудилась. Несмотря на это, она выступила блестяще»."
+  a: "*She had a cold. **Despite this / In spite of this**, she gave a brilliant talk.* После despite — и местоимение: *this, what they said, everything*."
+- id: m11-although-because
+  lesson: 11-linking/01-contrast
+  q: "**despite** или **because of**: *I couldn't sleep ___ the noise.*"
+  a: "**because of** — ожидаемый результат (шум мешает). *despite* — когда результат вопреки: *I slept well despite the noise.*"
 - id: m11-because-of
   lesson: 11-linking/02-reason-result-purpose
   q: "**because** или **because of**: *The game was cancelled ___ the rain.*"
@@ -54,6 +66,22 @@
   lesson: 11-linking/02-reason-result-purpose
   q: "**as a result** или **as a result of**?"
   a: "**as a result, …** — следствие, начинает предложение; **as a result of** + существительное — причина."
+- id: m11-chair-to-sit-on
+  lesson: 11-linking/02-reason-result-purpose
+  q: "Переведи: «Мне не с кем поговорить» и «Есть стул, чтобы сесть?»"
+  a: "*I've got nobody **to talk to**. Is there a chair **to sit on**?* — предлог глагола остаётся в конце."
+- id: m11-so-that-subject
+  lesson: 11-linking/02-reason-result-purpose
+  q: "Найди ошибку: *I gave him my number to he could call me.*"
+  a: "*…**so that he could** call me.* У цели своё подлежащее → **so that**; *to* — только глагол без подлежащего."
+- id: m11-as-two-meanings
+  lesson: 11-linking/02-reason-result-purpose
+  q: "Что значит **as** в *As it was late, we took a taxi* и в *She waved as the train left*?"
+  a: "1) «так как» (= *because*); 2) «в тот момент, когда». Ещё: *as the day went on* — «по мере того как»."
+- id: m11-as-when-period
+  lesson: 11-linking/02-reason-result-purpose
+  q: "**as** или **when**: *___ I was a child, we lived by the sea.*"
+  a: "**When** — период жизни или действие *после* другого. *As I was a child* прочитается как «так как я был ребёнком»."
 - id: m11-what-i-need
   lesson: 11-linking/03-emphasis
   q: "Выдели главное: *I need a holiday.*"

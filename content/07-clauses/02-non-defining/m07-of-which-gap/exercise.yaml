@@ -1,0 +1,44 @@
+title: "half of which, the cause of which, which про всё предложение"
+type: gap
+intro: "Впиши **одно** слово. Все предложения — non-defining: добавочная информация после запятой."
+hints:
+  - "После of — только whom (люди) или which (вещи). Никогда them, who или what."
+  - "Если which относится ко всей предыдущей мысли, его можно перевести как «что»."
+  - "the name / the cause / the aim + of which = whose для вещей."
+items:
+  - q: "He won €10,000 in the lottery, half of ___ he gave to his parents."
+    answers: ["which"]
+    explain: "«Половину из которых» о деньгах → **half of which**. *them* после запятой дало бы склейку двух предложений, а *what* после *of* здесь не работает."
+  - q: "Thirty people applied for the job, only a few of ___ had any real experience."
+    answers: ["whom"]
+    explain: "Речь о людях, и местоимение стоит после *of* → **whom**. *of who* — ошибка."
+  - q: "The course has eight modules, each of ___ ends with a short test."
+    answers: ["which"]
+    explain: "*each of which* — «каждый из которых». Модули — вещи, поэтому **which**."
+  - q: "There was a fire at the factory, the cause of ___ is still unknown."
+    answers: ["which"]
+    explain: "*the cause of which* = *whose cause*: «причина которого». Это книжный вариант *whose* для вещей."
+  - q: "We stayed in a lovely little hotel, the name ___ which I can't remember."
+    answers: ["of"]
+    explain: "Порядок: существительное + **of** + *which*: *the name of which*. Предлог нельзя пропустить."
+  - q: "The company employs 400 people, the majority of ___ work from home."
+    answers: ["whom"]
+    explain: "*the majority of whom* — «большинство из которых» о людях. После *of* — **whom**."
+  - q: "I have three older sisters, the youngest of ___ is a pilot."
+    answers: ["whom"]
+    explain: "Превосходная степень тоже может стоять перед *of whom*: *the youngest of whom* — «младшая из которых»."
+  - q: "She was half an hour late, ___ she apologised for."
+    answers: ["which"]
+    explain: "*which* относится ко всему факту «она опоздала». Предлог глагола *apologise for* уходит в конец, как в любом relative clause."
+  - q: "My flight was cancelled, ___ meant I had to spend the night at the airport."
+    answers: ["which"]
+    explain: "*which* про всю предыдущую мысль — «что означало». *what* и *that* после запятой здесь невозможны."
+  - q: "The trains were on strike, which is ___ we came by car."
+    answers: ["why"]
+    explain: "*which is why* — «поэтому», очень частая связка в эссе и в речи."
+  - q: "The village has two pubs, neither of ___ serves food after nine."
+    answers: ["which"]
+    explain: "Два паба, ни один из них → **neither of which**. Глагол в единственном числе: *neither … serves*."
+  - q: "I invited all my cousins, ___ of whom could come. They were all busy that weekend."
+    answers: ["none"]
+    explain: "Все были заняты → «ни один из которых не смог прийти» → **none of whom**. *neither* — только про двоих."

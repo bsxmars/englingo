@@ -1,0 +1,48 @@
+title: "by now, by then, until then, by the time"
+type: choice
+intro: "Выбери правильный вариант. Во всех пунктах верен ровно один."
+hints:
+  - "by — к сроку, не позже; until — всё время вплоть до."
+  - "by then — к тому моменту; until then — до того момента."
+  - "После by the time и while будущее передаём через Present."
+items:
+  - q: "Tom promised to call at six. It's eight now — he should have called ___."
+    options: ["by now", "until now", "by then"]
+    answer: 0
+    explain: "«Уже к этому моменту» → **by now**. *by then* отсылает к другому моменту, не к «сейчас»."
+  - q: "My new flat won't be ready until May. ___, I'm staying with my sister."
+    options: ["Until then", "By then", "By the time"]
+    answer: 0
+    explain: "Жить у сестры буду **всё время** до мая → **until then**. *by then* — что-то случится к маю."
+  - q: "The party started at nine, but we only got there at midnight. ___, most people had left."
+    options: ["Until then", "By then", "Till then"]
+    answer: 1
+    explain: "К тому моменту гости уже ушли → **by then** (+ Past Perfect). *until then* описывало бы, что длилось до полуночи."
+  - q: "___ you get this message, I'll have landed in Lisbon."
+    options: ["By the time", "Until", "By then"]
+    answer: 0
+    explain: "**by the time** + предложение — «к тому времени, когда». *By then* не присоединяет предложение."
+  - q: "By the time we ___ to the cinema, the film will have started."
+    options: ["will get", "get", "got"]
+    answer: 1
+    explain: "После **by the time**, как после *when*, будущее передаём через Present: *by the time we **get** there*."
+  - q: "By the time the police arrived, the thieves ___."
+    options: ["disappeared", "had disappeared", "have disappeared"]
+    answer: 1
+    explain: "**by the time** + Past → в главной части Past Perfect: воры исчезли **раньше**, чем приехала полиция."
+  - q: "My visa is valid ___ the end of June."
+    options: ["by", "until", "during"]
+    answer: 1
+    explain: "Виза действует непрерывно вплоть до конца июня → **valid until**."
+  - q: "I'll be in meetings ___ lunchtime, so text me instead of calling."
+    options: ["by", "until", "by the time"]
+    answer: 1
+    explain: "Состояние длится до обеда → **until**. *by lunchtime* — «закончу к обеду»."
+  - q: "What are you going to do while I ___ at the doctor's?"
+    options: ["will be", "am", "would be"]
+    answer: 1
+    explain: "После **while**, как после *when* и *if*, будущее передаём через Present: *while I **am** at the doctor's*."
+  - q: "Can you finish the slides ___ Thursday? The client meeting is on Friday."
+    options: ["until", "by", "by the time"]
+    answer: 1
+    explain: "Крайний срок, «не позже четверга» → **by** Thursday."

@@ -6,6 +6,7 @@ sources:
   - {title: "Perfect English Grammar: Future Continuous", url: "https://www.perfect-english-grammar.com/future-continuous-exercise-1.html"}
   - {title: "Perfect English Grammar: Future Perfect", url: "https://www.perfect-english-grammar.com/future-perfect-exercise-4.html"}
   - {title: "Perfect English Grammar: Future Perfect Continuous", url: "https://www.perfect-english-grammar.com/future-perfect-continuous-exercise-4.html"}
+  - {title: "Видео Vlad and English: урок 24 — will be doing и will have done", url: "https://www.youtube.com/watch?v=V-cRBDeMn6I&t=6102s"}
 ---
 По-русски легко сказать «завтра в это время я буду лететь в Стамбул» и «к пятнице я уже закончу». В первом случае — процесс в момент будущего, во втором — результат к сроку. В английском для этого две отдельные формы: **Future Continuous** и **Future Perfect**. Обе часто встречаются в деловой переписке и в экзамене B2 First — особенно в Part 4 (перефразирование).
 
@@ -62,6 +63,14 @@ Future Continuous описывает то, что случится **само с
 
 Здесь часто подходят и *will*, и Present Continuous: *The guests **will be arriving / will arrive / are arriving** at six.*
 
+Отсюда и язык новостей и эфира — так сообщают о запланированном, не подчёркивая, кто и когда это решил:
+
+- The Prime Minister **will be speaking** to journalists later today.
+- **Coming up** after the break, I**'ll be talking** to a top chef.
+- Their captain is injured and **won't be playing** on Saturday.
+
+Иногда *will be + -ing* просто делает сказанное нагляднее: *Don't apply for that job — you**'ll be wasting** your time.* — «будешь только время тратить». *You'll waste your time* значит то же, но без картинки процесса.
+
 > **B2-уровень:** именно этот оттенок «и так будет» делает *Will you be going past the post office?* вежливым: ты не просишь человека менять планы, а лишь узнаёшь, не окажется ли он там сам.
 
 ## Future Perfect: will have + V3
@@ -78,6 +87,17 @@ Future Perfect — действие **закончится до** определ
 - **By the time** you get home, I**'ll have cooked** dinner.
 - **By 2030**, we**'ll have lived** here for ten years. / We**'ll have lived** here for ten years **next March**.
 - **Will** you **have read** the book **by the time** it's due back? — вопрос.
+
+Частый смысл — «уже успеет, не застанешь»:
+
+- Don't call Sam at nine — he**'ll have left** for work by then.
+- Hurry up! By the time we get there, the film **will have started**.
+
+Future Perfect — это Present Perfect, сдвинутый в будущее. Три перфекта отличаются только точкой отсчёта:
+
+| Прошлое | Настоящее | Будущее |
+|---|---|---|
+| *When their son was born, they **had been** married for three years.* | *They**'ve been** married for 24 years.* | *Next year they**'ll have been** married for 25 years.* |
 
 В отрицании Future Perfect часто идёт с **until**: *They **won't have finished until** midnight.* — «не закончат раньше полуночи». В утверждении *until* с Future Perfect не ставят.
 
@@ -105,6 +125,18 @@ Future Perfect — действие **закончится до** определ
 | вежливо спросить о планах | Will you be + -ing? | — |
 | сделаю к моменту X | will have + V3 | by Friday, by the time, by then |
 | сколько буду делать к моменту X | will have been + -ing | by …, for … |
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 24. will be doing и will have done**
+
+- [1:41:42](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=6102s) — процесс в момент будущего и результат к сроку
+- [1:45:52](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=6352s) — *I'll be eating* или *we'll eat*; три Continuous
+- [1:47:54](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=6474s) — запланированное: *will be making a statement*
+- [1:48:55](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=6535s) — Future Perfect: *she'll have gone to work*
+- [1:50:29](https://www.youtube.com/watch?v=V-cRBDeMn6I&t=6629s) — практика
 
 ## Проверь себя
 

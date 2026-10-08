@@ -1,0 +1,41 @@
+title: "the bank, platform 5, next week: впиши слово"
+type: gap
+intro: "Впиши слово из скобок **вместе с артиклем** (*a, an, the*), если он нужен, или **без артикля**."
+hints:
+  - "Привычные места (bank, gym, doctor, post office, station) — обычно с the."
+  - "Номер или буква после существительного — без артикля: platform 5, room 12."
+  - "next week — от сегодня; the next day — от другого момента."
+items:
+  - q: "Hurry up — our train leaves from ___ (platform 9) in five minutes!"
+    answers: ["platform 9"]
+    explain: "Номер стоит **после** существительного и сам показывает, какая платформа, поэтому артикль не нужен: *platform 9, gate 12, room 305*."
+  - q: "My flat is on ___ (fifth floor), and the lift is always broken."
+    answers: ["the fifth floor"]
+    explain: "Порядковое числительное **перед** существительным → **the**: *the fifth floor, the first time*."
+  - q: "I can't meet at lunchtime — I have to go to ___ (bank) to sign some papers."
+    answers: ["the bank"]
+    explain: "Привычное «типовое» место, куда ходят все, → **the**: *go to the bank, the post office, the gym*."
+  - q: "Excuse me, is there ___ (post office) anywhere near here?"
+    answers: ["a post office"]
+    explain: "Спрашиваем, есть ли вообще **какое-нибудь** почтовое отделение → **a**."
+  - q: "You look terrible. Have you been to ___ (doctor)?"
+    answers: ["the doctor", "the doctor's", "a doctor"]
+    explain: "Обычно к врачу «идут» с **the**, хотя врач может быть любой: *go to the doctor*. Британский вариант — *the doctor's* (кабинет врача). *a doctor* тоже верно: «к какому-нибудь врачу»."
+  - q: "The answer to the last exercise is on ___ (page 94)."
+    answers: ["page 94"]
+    explain: "Номер после существительного → без артикля: *on page 94*. Но *at **the** top of page 94*."
+  - q: "The first astronaut went into ___ (space) in 1961."
+    answers: ["space"]
+    explain: "**space** в значении «космос» — без артикля. *the space* — конкретное место: *the space between the desks*."
+  - q: "Can you turn off ___ (TV)? Nobody is watching it."
+    answers: ["the TV", "the television"]
+    explain: "Здесь *TV* — сам прибор, конкретный телевизор в комнате → **the TV**. А «смотреть телевизор» — *watch TV* без артикля."
+  - q: "We got to Lisbon on Friday and flew to Porto ___ (next day)."
+    answers: ["the next day", "the following day"]
+    explain: "Считаем не от сегодня, а от другого момента в рассказе (пятницы) → **the next day**."
+  - q: "I'm busy this week, but I'm free ___ (next week)."
+    answers: ["next week"]
+    explain: "*next week* считаем от сегодня → без артикля. ~~the next week~~ значило бы «следующая неделя после того момента»."
+  - q: "Vitamins are important — oranges are full of ___ (vitamin C)."
+    answers: ["vitamin C"]
+    explain: "Буква после существительного работает как номер → без артикля: *vitamin C, section B, plan A*."

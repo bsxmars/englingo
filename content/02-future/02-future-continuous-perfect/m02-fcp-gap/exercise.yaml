@@ -35,3 +35,9 @@ items:
   - q: "By next June, they ___ (be) married for 25 years."
     answers: ["will have been"]
     explain: "*be* — глагол состояния, поэтому Future Perfect Simple: **will have been married**."
+  - q: "There's no point calling Sam at nine — he ___ (leave) for work by then."
+    answers: ["will have left", "will already have left", "will have already left"]
+    explain: "К девяти он **уже уйдёт** → Future Perfect: *will have left*. «Не застанешь» — типичный смысл этой формы."
+  - q: "(Radio presenter) Later in the programme I ___ (talk) to the Minister of Health about the new hospital."
+    answers: ["will be talking", "am talking", "am going to talk", "will talk"]
+    explain: "Запланированная часть передачи → в эфире чаще всего **will be talking**: так звучит «по ходу программы». Present Continuous и *going to* тоже верны."

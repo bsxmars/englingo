@@ -1,0 +1,44 @@
+title: "well-known, seriously injured, hardly any, no such"
+type: gap
+intro: "Впиши **одно** слово. Если в скобках дано слово, поставь его в нужную форму."
+hints:
+  - "Перед причастием и прилагательным нужно наречие: well-paid, seriously injured, reasonably cheap."
+  - "hardly + any / ever; hardly — перед смысловым глаголом."
+  - "such (a) + существительное, no such + существительное без артикля."
+items:
+  - q: "She comes from a family of ___-known scientists."
+    answers: ["well"]
+    explain: "Перед причастием *known* нужно наречие **well**: *well-known*. ~~good-known~~ — калька с «хорошо известный» через прилагательное."
+  - q: "Nurses work long, difficult hours, but in many countries they are ___ paid."
+    answers: ["badly", "poorly"]
+    explain: "«Им мало платят» → **badly paid** или **poorly paid**. Противоположность — *well-paid*."
+  - q: "Two cyclists were ___ (serious) injured in the crash."
+    answers: ["seriously"]
+    explain: "Причастие *injured* описываем наречием → **seriously**. Не ~~strongly injured~~: «сильно» здесь не *strongly*."
+  - q: "The hotel was ___ (reasonable) cheap, so we stayed an extra night."
+    answers: ["reasonably"]
+    explain: "Наречие **reasonably** усиливает прилагательное *cheap*: «вполне недорогой»."
+  - q: "I'm ___ (terrible) sorry — I didn't mean to wake you up."
+    answers: ["terribly"]
+    explain: "Перед прилагательным *sorry* — наречие **terribly** (= очень). *-le* → *-ly*: *terrible → terribly*."
+  - q: "Our neighbours have three very well-___ (behave) children."
+    answers: ["behaved"]
+    explain: "**well-behaved** = воспитанный, хорошо себя ведущий. *well* + причастие прошедшего времени."
+  - q: "There's ___ any coffee left — could you buy some on your way home?"
+    answers: ["hardly", "barely", "scarcely"]
+    explain: "**hardly any** = почти нет. Не ~~hardly no~~: *hardly* уже отрицательное."
+  - q: "I ___ ever take taxis — I usually walk or cycle."
+    answers: ["hardly", "scarcely"]
+    explain: "**hardly ever** = почти никогда. ~~hardly never~~ — двойное отрицание."
+  - q: "You haven't slept for two days, so it's ___ surprising that you feel awful."
+    answers: ["hardly", "not", "scarcely"]
+    explain: "**hardly surprising** = «вряд ли удивительно», то есть вполне ожидаемо. Подходит и простое *not surprising*."
+  - q: "You won't find 'irregardless' in my dictionary — it says there's no ___ word."
+    answers: ["such"]
+    explain: "**no such** + существительное без артикля: *no such word*, *no such thing*. ~~no such a word~~ — ошибка."
+  - q: "I haven't seen you for ___ a long time! How are you?"
+    answers: ["such"]
+    explain: "Перед *a* + прилагательное + существительное → **such**: *such a long time*. Без существительного было бы *so long*."
+  - q: "Why are you in ___ a hurry? The film doesn't start till eight."
+    answers: ["such"]
+    explain: "Устойчивое **in such a hurry** = «так торопиться». *hurry* — существительное, поэтому *such*, а не *so*."

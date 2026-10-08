@@ -1,0 +1,41 @@
+title: "Найди и исправь ошибку"
+type: error
+intro: "В каждом предложении **одна** ошибка с *have*. Исправь её и отправь предложение целиком."
+hints:
+  - "Не смешивай do и got: Do you have…? или Have you got…?"
+  - "В прошлом — had / didn't have / Did you have…?"
+  - "Действия (have a shower, have lunch) — без got."
+items:
+  - q: "Do you have got a minute?"
+    answers: ["Do you have a minute?", "Have you got a minute?"]
+    explain: "Вопрос строится **либо** через *do* (*Do you have…?*), **либо** через *have … got* (*Have you got…?*). Гибрид — ошибка."
+  - q: "I don't have got any cash on me."
+    answers: ["I don't have any cash on me.", "I haven't got any cash on me."]
+    explain: "Отрицание: **I don't have** или **I haven't got**. *don't* и *got* в одном предложении не встречаются."
+  - q: "I had got a dog when I was a child."
+    answers: ["I had a dog when I was a child."]
+    explain: "«У меня была» в прошлом → просто **had**. *had got* — это Past Perfect от *get* («к тому моменту получил»)."
+  - q: "Had you a smartphone at school?"
+    answers: ["Did you have a smartphone at school?"]
+    explain: "Вопрос о владении в прошлом → **Did you have…?** Форма *Had you…?* устарела."
+  - q: "Will you have got time to help me with the move tomorrow?"
+    answers: ["Will you have time to help me with the move tomorrow?"]
+    explain: "*got* в значении «иметь» живёт только в настоящем. В будущем — просто **will have**: *Will you have time…?*"
+  - q: "He was having a moustache in those days."
+    answers: ["He had a moustache in those days."]
+    explain: "Усы — состояние, а не действие → **had**. Continuous с «владением» не бывает."
+  - q: "I'm having a headache, so I'll stay at home."
+    answers: ["I've got a headache, so I'll stay at home.", "I have a headache, so I'll stay at home.", "I have got a headache, so I'll stay at home."]
+    explain: "Боль и болезнь — «у меня есть» → **I've got / I have a headache**. Continuous здесь не используется."
+  - q: "Did you had a nice weekend?"
+    answers: ["Did you have a nice weekend?"]
+    explain: "После **did** — голый глагол: *Did you **have**…?*"
+  - q: "Every morning I've got a cold shower."
+    answers: ["Every morning I have a cold shower.", "Every morning I take a cold shower."]
+    explain: "*have a shower* — действие, а не владение, *got* с ним не используют → **I have a cold shower**."
+  - q: "We had a lot of trouble to find a hotel in August."
+    answers: ["We had a lot of trouble finding a hotel in August."]
+    explain: "После **have trouble** — **-ing**: *trouble **finding***, а не инфинитив."
+  - q: "If someone asks \"Have you got a pen?\", you can simply answer \"Yes, I do.\""
+    answers: ["If someone asks \"Have you got a pen?\", you can simply answer \"Yes, I have.\"", "If someone asks \"Do you have a pen?\", you can simply answer \"Yes, I do.\""]
+    explain: "Краткий ответ повторяет вспомогательный глагол вопроса: *Have you got…?* — **Yes, I have**; *Do you have…?* — *Yes, I do*."

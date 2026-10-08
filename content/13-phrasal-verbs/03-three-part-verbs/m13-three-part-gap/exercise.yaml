@@ -41,3 +41,9 @@ items:
   - q: "I've always looked ___ my older sister — she's my hero."
     answers: ["up to"]
     explain: "Уважать, равняться на кого-то → **look up to**. Противоположность — *look down on*."
+  - q: "I don't know the answer yet, but I'll get ___ you by the end of the day."
+    answers: ["back to"]
+    explain: "**get back to sb** — ответить позже, вернуться к вопросу. Частица *back* + предлог *to*."
+  - q: "This cable is live — keep ___ it!"
+    answers: ["away from", "back from"]
+    explain: "**keep away from** — держаться подальше от. Частица *away* + предлог *from*."

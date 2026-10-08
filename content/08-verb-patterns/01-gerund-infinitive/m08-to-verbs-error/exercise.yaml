@@ -1,0 +1,44 @@
+title: "Найди ошибку: пары-ловушки и устойчивые обороты"
+type: error
+intro: "В каждом предложении **одна** ошибка в глагольной модели. Исправь её и отправь всё предложение целиком."
+hints:
+  - "offer / refuse / deserve / pretend + to; risk / deny / approve of + -ing."
+  - "have difficulty, spend time, go + -ing."
+  - "remember + -ing о прошлом; если действие совершили над тобой — being + V3."
+items:
+  - q: "I offered taking the kids to school so that she could sleep."
+    answers: ["I offered to take the kids to school so that she could sleep."]
+    explain: "**offer** + to: *offered to take*. Предлагаешь сделать сам → *offer to*, а не *suggest*."
+  - q: "The minister refused answering any questions about the scandal."
+    answers: ["The minister refused to answer any questions about the scandal."]
+    explain: "**refuse** + to: *refused to answer*. С -ing идёт *deny*, но он значит «отрицать»."
+  - q: "The suspect denied to have been at the scene."
+    answers: ["The suspect denied having been at the scene.", "The suspect denied being at the scene."]
+    explain: "**deny** + -ing: *denied having been* или *denied being*. *deny to* не бывает."
+  - q: "You worked really hard, so you deserve getting that promotion."
+    answers: ["You worked really hard, so you deserve to get that promotion."]
+    explain: "**deserve** + to: *deserve to get*."
+  - q: "He pretended not hearing me and kept walking."
+    answers: ["He pretended not to hear me and kept walking."]
+    explain: "**pretend** + to, отрицание перед *to*: *pretended not to hear*."
+  - q: "I don't want to risk to lose all my data."
+    answers: ["I don't want to risk losing all my data."]
+    explain: "**risk** + -ing: *risk losing*. После *want to risk* легко по инерции поставить ещё одно *to*."
+  - q: "I have difficulty to understand his accent."
+    answers: ["I have difficulty understanding his accent.", "I have difficulty in understanding his accent."]
+    explain: "**have difficulty (in) doing**: *difficulty understanding*. Можно и *I find it difficult to understand*, но это уже другая модель."
+  - q: "We spent three hours to look for the bug."
+    answers: ["We spent three hours looking for the bug."]
+    explain: "**spend time doing**: *spent three hours looking*. Не ~~spent … to look~~."
+  - q: "On Sundays we often go to swimming at the local pool."
+    answers: ["On Sundays we often go swimming at the local pool."]
+    explain: "**go + -ing** для спорта и досуга — без *to*: *go swimming*."
+  - q: "I remember to be bitten by a dog when I was four."
+    answers: ["I remember being bitten by a dog when I was four."]
+    explain: "Воспоминание о прошлом → *remember* + -ing. Укусили **тебя** → пассив: **being bitten**."
+  - q: "My boss doesn't approve of people to work from home."
+    answers: ["My boss doesn't approve of people working from home."]
+    explain: "**approve of** + (человек) + -ing: *approve of people working*. После предлога *to*-инфинитива не бывает."
+  - q: "She suggested to help me with the boxes, and she carried two of them herself."
+    answers: ["She offered to help me with the boxes, and she carried two of them herself."]
+    explain: "Она предложила помочь **сама** → **offered to help**. У *suggest* нет модели *to do*."

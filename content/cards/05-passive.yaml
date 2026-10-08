@@ -178,3 +178,31 @@
   lesson: 05-passive/02a-passive-patterns
   q: "Переведи: «Нам сказали принести паспорта»."
   a: "*We **were told to bring** our passports.* — подлежащее — человек, не ~~It was told us~~."
+- id: m05-might-have-been
+  lesson: 05-passive/01-passive-tenses
+  q: "Переведи: «Возможно, посылку отправили на старый адрес»."
+  a: "*The parcel **might / may / could have been sent** to my old address.* Модальный + **have been** + V3."
+- id: m05-had-to-be-carried
+  lesson: 05-passive/01-passive-tenses
+  q: "Найди ошибку: *The injured skier had to have been taken down by helicopter.*"
+  a: "*…**had to be taken** down…* «Пришлось» — просто факт прошлого, *have been* после *had to* не нужен."
+- id: m05-what-is-it-called
+  lesson: 05-passive/01-passive-tenses
+  q: "Переведи: «Как это называется?» и «Для чего это используется?»"
+  a: "***What is it called?*** (не ~~How is it called?~~) · ***What is it used for?*** — предлог в конце."
+- id: m05-there-is-said
+  lesson: 05-passive/03-causative-reporting
+  q: "Перефразируй: *People say there is gold in these hills.* → *There…*"
+  a: "***There is said to be** gold in these hills.*"
+- id: m05-alleged
+  lesson: 05-passive/03-causative-reporting
+  q: "Переведи: «Утверждается, что он украл данные» (вина не доказана)."
+  a: "*He **is alleged to have stolen** the data.* = *He **allegedly** stole the data.*"
+- id: m05-supposed-two-meanings
+  lesson: 05-passive/03-causative-reporting
+  q: "Разница: *It is supposed to have been a hospital.* / *It was supposed to be a hospital.*"
+  a: "Первое — «говорят, раньше здесь была больница». Второе — «это задумывали как больницу» (но вышло иначе)."
+- id: m05-had-to-supposed
+  lesson: 05-passive/03-causative-reporting
+  q: "**had to** или **was supposed to**: I ___ call her, but I forgot."
+  a: "**was supposed to** — договорились, но не сделал. *had to* = пришлось (и сделал)."

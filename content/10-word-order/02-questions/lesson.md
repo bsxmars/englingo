@@ -6,6 +6,9 @@ sources:
   - {title: "Perfect English Grammar: косвенные вопросы (1)", url: "https://www.perfect-english-grammar.com/indirect-questions-exercise-1.html"}
   - {title: "Perfect English Grammar: вопросы внутри утверждений", url: "https://www.perfect-english-grammar.com/embedded-questions-in-statements-exercise-1.html"}
   - {title: "Perfect English Grammar: отрицательные вопросы", url: "https://www.perfect-english-grammar.com/negative-questions-exercise-1.html"}
+  - {title: "Видео Vlad and English: урок 49 — вопросы 1", url: "https://www.youtube.com/watch?v=m8pe5CiAVVE&t=17589s"}
+  - {title: "Видео Vlad and English: урок 50 — вопросы 2 (do you know where…?)", url: "https://www.youtube.com/watch?v=m8pe5CiAVVE&t=18665s"}
+  - {title: "Видео Vlad and English: урок 52 — question tags", url: "https://www.youtube.com/watch?v=m8pe5CiAVVE&t=21694s"}
 ---
 В русском вопрос от утверждения отличает в основном интонация: «Ты придёшь?» — «Ты придёшь». В английском вопрос строится **порядком слов**: вспомогательный глагол встаёт перед подлежащим. Это ты знаешь с Duolingo. На B2 нужны четыре следующих шага: вопрос к подлежащему, предлог в конце, косвенный вопрос и разделительный «хвостик».
 
@@ -49,6 +52,8 @@ sources:
 - Who does this laptop belong **to**?
 
 Варианты *About what are you thinking?* и *With whom do you live?* — либо ошибка, либо очень формальный стиль.
+
+В официальном стиле предлог ставят в начало, и тогда после него — только **whom**: ***To whom** should I address the complaint?* В разговоре то же самое звучит как *Who should I send the complaint **to**?* Сочетание ~~to who~~ в начале — ошибка.
 
 ### What … like? What … for? How …?
 
@@ -94,6 +99,8 @@ sources:
 
 Знак вопроса в конце ставится, только если вступление само вопрос: *Do you know where she lives**?*** но *I wonder where she lives**.***
 
+Тот же порядок утверждения — в пересказе чужих вопросов: *She asked me where **I worked**. He wanted to know if **I had** a driving licence.* Сдвиг времён в таких фразах — в модуле о косвенной речи.
+
 ## Разделительные вопросы (question tags)
 
 «Хвостик» вроде русского «…, да?», «…, не так ли?». Правило: **утверждение → отрицательный хвостик, отрицание → положительный**, и повторяем вспомогательный глагол.
@@ -116,6 +123,28 @@ sources:
 
 Интонация: вниз — ждём согласия («ведь так?»), вверх — действительно спрашиваем.
 
+### Ещё несколько ловушек в хвостиках
+
+| Случай | Пример |
+|---|---|
+| *have* = «иметь» (смысловой глагол) → *do / does / did* | *She has a lovely voice, **doesn't she**?* Но с *have got*: *You've got a car, **haven't you**?* |
+| *never, hardly, rarely* — уже отрицание → хвостик положительный | *You've **never** been to Japan, **have you**?* *He hardly ever calls, **does he**?* |
+| модальный перфект — повторяем модальный | *I shouldn't have said that, **should I**?* |
+| *'d* — смотри, что за ним: *had* или *would* | *You'd already left, **hadn't you**?* *You'd rather stay in, **wouldn't you**?* |
+| *everybody, somebody, nobody* → в хвостике *they* | *Everybody enjoyed it, **didn't they**?* |
+
+### Просьба через хвостик: You couldn't…, could you?
+
+Отрицательное утверждение + положительный хвостик с интонацией **вверх** — мягкая, немного неуверенная просьба или вопрос «вдруг ты знаешь»:
+
+- *You **couldn't** lend me your charger, **could you**?* — Не одолжишь зарядку?
+- *You **don't** know where Sam is, **do you**?* — Ты случайно не знаешь, где Сэм?
+- *You **haven't** seen my keys, **have you**?*
+
+Звучит скромнее, чем прямое *Can you…?*: говорящий заранее допускает отказ.
+
+> **Типичная ошибка русскоговорящих:** ~~Don't you know where Sam is, do you?~~ — вопрос и хвостик сразу. Либо *You **don't** know where Sam is, **do you**?*, либо просто ***Do** you know where Sam is?*
+
 ## Отрицательные вопросы
 
 *Don't you like it? Isn't it beautiful? Haven't we met before?* Они выражают **удивление** (*Don't you know him? Я думал, знаешь*) или ожидание согласия (*Isn't it a lovely day?*).
@@ -127,6 +156,35 @@ sources:
 В русском наоборот: «Ты не любишь кофе?» — «**Нет**, люблю!»
 
 > **Типичная ошибка русскоговорящих:** *Aren't you tired?* — ~~No, I am~~ (имея в виду «Нет, устал»). По-английски: ***Yes**, I am* (устал) или ***No**, I'm not* (не устал).
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 49. Вопросы 1**
+
+- [4:53:09](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=17589s) — порядок слов в вопросе
+- [4:55:41](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=17741s) — вопрос к подлежащему без *did*
+- [4:57:44](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=17864s) — предлог в конце: *Where are you from?*
+- [4:59:18](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=17958s) — *whom* в официальном стиле
+- [5:00:22](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=18022s) — отрицательные вопросы
+- [5:01:24](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=18084s) — практика
+
+**Урок 50. Вопросы 2: do you know where…?**
+
+- [5:12:11](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=18731s) — *Do you know where he lives?*
+- [5:15:18](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=18918s) — *do / does / did* исчезают
+- [5:15:48](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=18948s) — *if / whether* вместо «ли»
+- [5:17:25](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=19045s) — *He asked me where…*
+- [5:19:02](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=19142s) — практика
+
+**Урок 52. Question tags**
+
+- [6:01:35](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=21695s) — хвостик меняет полярность
+- [6:04:41](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=21881s) — интонация вниз и вверх
+- [6:06:49](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=22009s) — *You couldn't…, could you?*
+- [6:08:22](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=22102s) — *Let's…, shall we?*, *Don't…, will you?*, *aren't I?*
+- [6:10:57](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=22257s) — практика
 
 ## Проверь себя
 
@@ -159,4 +217,7 @@ explain: "Внутри косвенного вопроса — порядок у
 ```
 
 ```exercise m10-q-order
+```
+
+```exercise m10-tags-gap
 ```

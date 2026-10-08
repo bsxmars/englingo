@@ -4,6 +4,9 @@ book: [78, 79, 80, 81, 82, 89, 93]
 sources:
   - {title: "Oxford Practice Grammar — согласование, существительные во множественном числе, pair и group nouns", url: "https://elt.oup.com/catalogue/items/global/grammar_vocabulary/oxford_practice_grammar/"}
   - {title: "Agenda Web — упражнения на существительные", url: "https://agendaweb.org/"}
+  - {title: "Видео Vlad and English: урок 79 — единственное и множественное число", url: "https://www.youtube.com/watch?v=eWTY7yqu2lE&t=12428s"}
+  - {title: "Видео Vlad and English: урок 80 — noun + noun (a bus driver, a headache)", url: "https://www.youtube.com/watch?v=eWTY7yqu2lE&t=13949s"}
+  - {title: "Видео Vlad and English: урок 81 — притяжательный падеж: 's и of", url: "https://www.youtube.com/watch?v=eWTY7yqu2lE&t=14994s"}
 ---
 В русском глагол послушно повторяет форму подлежащего: «новости **хорошие**», «полиция **приехала**», «ножницы **лежат**». В английском правило то же — но у многих существительных «число» не совпадает с русским. *News* выглядит как множественное, а это единственное. *Police* похоже на единственное, а это множественное. *Jeans* — всегда множественное, даже если джинсы одни. Из-за этого ошибки в согласовании — одни из самых частых в письменных работах B2.
 
@@ -45,6 +48,7 @@ sources:
 | **every / each** + сущ., *everyone, nothing* | ед. | *Every room **has** Wi-Fi. Everyone **knows** him.* |
 | **any / either / neither / none of** + мн. | ед. или мн. | *None of the shops **is / are** open.* |
 | сумма, расстояние, срок | **ед.** | ***Ten euros is** too much. **Three hours is** a long time to wait.* |
+| температура, вес, объём | **ед.** | ***Thirty degrees is** too hot for me. **Twenty kilos is** a lot to carry.* |
 
 > **Типичная ошибка русскоговорящих:** ~~One of my friends live in Berlin~~. Подлежащее здесь *one*, а не *friends* → *One of my friends **lives** in Berlin.*
 
@@ -67,6 +71,14 @@ sources:
 ### Одна форма на оба числа
 
 **means, series, species, crossroads**: *a means of transport — several means of transport; a new TV series — two TV series*.
+
+*series* — это **весь** сериал или серия событий: *a series of meetings*. Одна серия сериала — **an episode**: *The first season has ten episodes.*
+
+### person — people
+
+Множественное число от *person* — **people**: *one person, five people*. Форма *persons* встречается только в официальных текстах и на табличках: *Lift capacity: 8 persons*. В речи и в письме — *people*.
+
+> **Типичная ошибка русскоговорящих:** ~~There were about twenty persons at the meeting~~. Правильно: *about twenty **people***. И глагол после *people* всегда во множественном: *People **are**…*
 
 ## Pair nouns и group nouns
 
@@ -103,7 +115,24 @@ sources:
 
 Первое существительное обычно **в единственном числе**: *a shoe shop*, *a ticket office* (исключения — *a sports club, a clothes shop*). Это касается и чисел: **a ten-minute walk, a five-year-old girl, a two-day course** — без *-s* и через дефис.
 
-Не путай: **a coffee cup** — чашка для кофе (может быть пустой), **a cup of coffee** — чашка, полная кофе.
+Не путай: **a coffee cup** — чашка для кофе (может быть пустой), **a cup of coffee** — чашка, полная кофе. Так же **a shopping bag** (сумка для покупок) и **a bag of shopping** (сумка, полная покупок).
+
+### Главное слово — последнее
+
+В паре существительных главное — **второе**, а первое только уточняет его. Поменяешь местами — получится другой предмет:
+
+| | Что это |
+|---|---|
+| **a race horse** | лошадь (какая? скаковая) |
+| **a horse race** | скачки (какие? конные) |
+| **a garden flower** | цветок из сада |
+| **a flower garden** | сад с цветами |
+
+Существительных может быть и три: *a **hotel reception desk**, a **car factory worker**, a **table tennis table***. Читай с конца: *worker* — какой? — с автозавода.
+
+Пишутся такие пары по-разному: слитно (*headache, toothpaste, weekend*), раздельно (*car park, road sign, bus stop*) или через дефис. Общего правила нет — проверяй по словарю.
+
+Число в составе остаётся в единственном числе, даже если предметов много: *two **ten-pound** notes, three **five-star** hotels*.
 
 > **Типичная ошибка русскоговорящих:** ~~a shop of shoes~~, ~~a ten-minutes walk~~, ~~a three-years-old boy~~. Правильно: *a shoe shop, a ten-minute walk, a three-year-old boy.*
 
@@ -113,6 +142,15 @@ sources:
 |---|---|---|
 | *my sister's car, the dog's bowl* | *the end **of** the film, the top **of** the page* | *the company's future = the future of the company* |
 | *the children's toys, my parents' house* | ~~the film's end~~ звучит неестественно | *London's parks = the parks of London* |
+
+### Тонкости 's
+
+- **Существительное после 's можно опустить**, если оно понятно: *This isn't my phone, it's **my sister's**.* Так же о местах: *at **the doctor's**, at **Tom's*** — у врача, у Тома дома.
+- **Два владельца**: 's только на последнем, если вещь **общая**: ***Anna and Mark's** flat* (одна квартира на двоих). 's на каждом, если у **каждого своя**: ***Anna's and Mark's** phones*.
+- **Длинная группа слов** — через **of**, а не через 's: *the mother **of the man we met yesterday***, а не ~~the man we met yesterday's mother~~.
+- Имя на **-s**: *James's car* (или *James' car*) — оба варианта верны, первый читается «Джеймсиз».
+
+> **Типичная ошибка русскоговорящих:** *the car of my brother*, *the name of my sister* — по-русски так и хочется, но звучит неестественно. С людьми ставим 's: ***my brother's** car, **my sister's** name*. *of* оставляем для вещей и длинных групп слов.
 
 Время тоже можно ставить в притяжательный падеж: **today's** news, **last week's** meeting, in **two weeks'** time. *a ten-minute walk* = *ten minutes' walk*.
 
@@ -136,6 +174,37 @@ sources:
 - *What lovely flowers! What awful weather! What fun!*
 
 > **Типичная ошибка русскоговорящих:** ~~What a nice weather!~~, ~~What a good news!~~ *weather* и *news* неисчисляемые → *What nice weather! What good news!*
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 79. Единственное и множественное число**
+
+- [3:27:08](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=12428s) — *trousers, pyjamas, glasses, scissors* и *a pair of*
+- [3:30:19](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=12619s) — *physics, economics, news* — единственное число
+- [3:31:21](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=12681s) — *means, series, species*
+- [3:33:29](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=12809s) — *the government, the team*: глагол в единственном или множественном
+- [3:36:05](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=12965s) — *people*, а не *persons*; суммы, сроки, расстояния — единственное число
+- [3:38:38](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=13118s) — практика
+
+**Урок 80. Noun + noun**
+
+- [3:52:29](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=13949s) — первое существительное как прилагательное: *a bus driver, income tax*
+- [3:54:32](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=14072s) — *-ing* в составе и три существительных подряд
+- [3:56:35](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=14195s) — *a coffee cup* и *a cup of coffee*
+- [3:58:37](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=14317s) — *a three-hour journey, a 14-year-old girl*
+- [4:00:08](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=14408s) — практика
+- [4:01:10](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=14470s) — *a race horse* и *a horse race*
+
+**Урок 81. Притяжательный падеж: 's и of**
+
+- [4:09:54](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=14994s) — 's для людей и животных: *Tom's computer*
+- [4:11:30](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=15090s) — *It's my sister's* — без существительного
+- [4:12:01](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=15121s) — длинная группа слов — через *of*; *my sisters'*
+- [4:14:38](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=15278s) — *Jack and Karen's children*: 's на последнем
+- [4:16:12](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=15372s) — *of* для вещей: *the beginning of, the top of*
+- [4:20:19](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=15619s) — практика
 
 ## Проверь себя
 
@@ -167,4 +236,7 @@ explain: "*weather* неисчисляемое → **What** + прилагате
 ```
 
 ```exercise m09-agreement-order
+```
+
+```exercise m09-possessive-choice
 ```

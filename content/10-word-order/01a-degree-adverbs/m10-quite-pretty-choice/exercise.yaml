@@ -1,0 +1,52 @@
+title: "quite, pretty, fairly и детали too / enough"
+type: choice
+intro: "Выбери вариант, который правильно стоит и подходит по смыслу."
+hints:
+  - "quite a + существительное — «вот это да»; quite + agree — «полностью»."
+  - "pretty стоит после артикля и только с прилагательными и наречиями."
+  - "Предлог глагола после too / enough + to остаётся в конце."
+items:
+  - q: "Getting a visa in two weeks was ___ achievement."
+    options: ["quite an", "a quite", "pretty an"]
+    answer: 0
+    explain: "*quite* стоит **перед** артиклем: *quite an achievement* — «настоящее достижение». *pretty* с существительным без прилагательного не работает."
+  - q: "— Do you like the new office? — I ___ like it, but it's far from the metro."
+    options: ["quite", "pretty", "very"]
+    answer: 0
+    explain: "*quite like* — «в целом нравится». С глаголом *like* нельзя ни *pretty*, ни *very*."
+  - q: "Sorry, I don't ___ understand what you mean."
+    options: ["quite", "pretty", "fairly"]
+    answer: 0
+    explain: "*not quite* — «не совсем»: *I don't quite understand*."
+  - q: "She's got ___ job in a bank."
+    options: ["a pretty good", "pretty a good", "a good pretty"]
+    answer: 0
+    explain: "*pretty* стоит **после** артикля, как *very*: *a pretty good job*."
+  - q: "— We should leave before the rush hour. — I ___ agree. The traffic is awful after eight."
+    options: ["quite", "pretty", "fairly"]
+    answer: 0
+    explain: "*quite agree* = «полностью согласен». *pretty* и *fairly* с глаголами не употребляются."
+  - q: "Wow, that was ___ party! I didn't get home till four."
+    options: ["quite a", "a quite", "pretty a"]
+    answer: 0
+    explain: "*quite a party* без прилагательного — «ну и вечеринка!», что-то особенное."
+  - q: "The flat is ___ big, but we'd prefer something bigger."
+    options: ["fairly", "absolutely", "extremely"]
+    answer: 0
+    explain: "*fairly* — самое слабое «довольно»: могло бы быть и лучше. Это и подсказывает вторая часть фразы."
+  - q: "— More cake? — No, thanks, I've had ___."
+    options: ["enough", "enough of", "too enough"]
+    answer: 0
+    explain: "*enough* может стоять одно, без существительного. *enough of* требует продолжения: *enough of this cake*."
+  - q: "The fence was too high ___."
+    options: ["to climb over", "to climb over it", "for climbing over it"]
+    answer: 0
+    explain: "Подлежащее (*the fence*) после *too … to* не повторяем, а предлог глагола *climb over* остаётся в конце."
+  - q: "These insects are too small ___ without a microscope."
+    options: ["to be seen", "to see them", "for seeing"]
+    answer: 0
+    explain: "Пассивный инфинитив: *too small to be seen*. Можно и *too small to see*, но без *them*."
+  - q: "Is this chair strong enough ___?"
+    options: ["to stand on", "to stand", "for standing on it"]
+    answer: 0
+    explain: "Стоят **на** стуле — *stand on*, и предлог остаётся в конце: *strong enough to stand on*."

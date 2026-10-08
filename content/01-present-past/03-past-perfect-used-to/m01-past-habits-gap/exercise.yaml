@@ -1,0 +1,44 @@
+title: "Привычки, привыкание и had had"
+type: gap
+intro: "Впиши нужную форму глагола в скобках. Здесь *used to*, *be / get used to*, Past Continuous и Past Perfect. Если подходят несколько вариантов, годится любой."
+hints:
+  - "used to + глагол — раньше было, теперь нет; be / get used to + -ing — привык / привыкаю."
+  - "Один раз в процессе — was doing, а не used to."
+  - "by the time … → had done."
+items:
+  - q: "— Do you still go climbing? — No, but I ___."
+    answers: ["used to"]
+    explain: "Короткий ответ: **No, but I used to** — глагол опускается, *to* остаётся."
+  - q: "I ___ (watch) a film when the lights suddenly went out."
+    answers: ["was watching"]
+    explain: "Один раз, в процессе, прервано событием → **was watching**. *used to* — только для повторяющегося."
+  - q: "When I was a teenager, I ___ (watch) cartoons every Saturday morning."
+    answers: ["used to watch", "watched", "would watch"]
+    explain: "Повторяющееся действие в прошлом → **used to watch** (или *watched*, *would watch*)."
+  - q: "We weren't hungry because we ___ (just / have) a big lunch."
+    answers: ["had just had", "'d just had"]
+    explain: "Обед был раньше момента в прошлом → Past Perfect от *have*: **had just had**. Два *had* подряд — норма."
+  - q: "By the time we reached the station, the last train ___ (leave)."
+    answers: ["had left", "had already left", "'d left", "'d already left"]
+    explain: "*by the time* + к тому моменту уже произошло → **had left**."
+  - q: "Moving to Norway was hard at first: I ___ (not / be) used to the long dark winters."
+    answers: ["wasn't", "was not"]
+    explain: "Состояние «не был привычен» в прошлом → **wasn't** *used to*."
+  - q: "It's my third week in the new job, and I'm slowly ___ (get) used to the early starts."
+    answers: ["getting"]
+    explain: "Процесс привыкания идёт сейчас → *I'm slowly* **getting** *used to*."
+  - q: "I'm the manager here. I'm not used to ___ (tell) what to do."
+    answers: ["being told"]
+    explain: "«Не привык, чтобы мне говорили» — пассивное *-ing* после *be used to*: **being told**."
+  - q: "I ___ (never / play) golf, but I'd like to try it one day."
+    answers: ["have never played", "'ve never played"]
+    explain: "Перемены нет — не играл и не играю → **have never played**. *I didn't use to play* звучало бы, будто сейчас играешь."
+  - q: "My brother ___ (live) in Berlin for five years before he came back home."
+    answers: ["lived", "had lived", "had been living"]
+    explain: "Законченный срок (*for five years*) → **lived** (или Past Perfect, раз есть «до того как»). *used to* со сроком не употребляют."
+  - q: "She ___ (use) to have long hair, but she cut it all off last summer."
+    answers: ["used"]
+    explain: "Утверждение: **used** *to have*. Без *did* — с *d* на конце."
+  - q: "Did you ___ (use) to walk to school when you were little?"
+    answers: ["use"]
+    explain: "После *did* — **use** без *d*: *Did you use to…?*"

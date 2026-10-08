@@ -170,3 +170,55 @@
   lesson: 04-conditionals/01a-unless-in-case
   q: "Переведи: «А если бы тебе предложили работу в Токио, ты бы поехал?»"
   a: "***Supposing / What if** you **were offered** a job in Tokyo, would you go?*"
+- id: m04-if-he-did
+  lesson: 04-conditionals/01-real-conditionals
+  q: "Закончи без повтора глагола: *I don't think he'll resign. I'd be amazed if he ___.*"
+  a: "**did** — Past Simple заменяет уже названный глагол. Не ~~if he would~~ и не ~~if he does~~."
+- id: m04-could-both-parts
+  lesson: 04-conditionals/01-real-conditionals
+  q: "Что значат два *could*: *She could get a better job if she could speak German*?"
+  a: "В результате *could* = *would be able to* («смогла бы»), в условии — *was able to* («умела бы»)."
+- id: m04-would-be-ing
+  lesson: 04-conditionals/01-real-conditionals
+  q: "Переведи: «На твоём месте я бы сейчас не сидел тут без дела»."
+  a: "*If I were you, I **wouldn't be sitting** here doing nothing.* — *would be + -ing*: воображаемый процесс прямо сейчас."
+- id: m04-unless-afterthought
+  lesson: 04-conditionals/01a-unless-in-case
+  q: "Переведи: «Я поеду на такси — если ты, конечно, не хочешь пройтись»."
+  a: "*I'll take a taxi **unless** you'd rather walk.* — *unless* в конце как вежливая оговорка."
+- id: m04-not-unless
+  lesson: 04-conditionals/01a-unless-in-case
+  q: "Что значит ответ *Not unless she asks you*?"
+  a: "«Нет, только если она сама спросит»: отказ с единственным исключением. *unless* = *except if*."
+- id: m04-in-case-perfect
+  lesson: 04-conditionals/01a-unless-in-case
+  q: "Переведи: «Я постучал ещё раз — вдруг меня не услышали»."
+  a: "*I knocked again **in case** they **hadn't heard** me.* — *in case* + Past Perfect: вдруг это уже случилось раньше."
+- id: m04-unless-as-long-as
+  lesson: 04-conditionals/01a-unless-in-case
+  q: "Найди ошибку: *I walk to work unless I have plenty of time* (хочу сказать «если времени много»)."
+  a: "*I walk to work **as long as** / **if** I have plenty of time.* *unless* = «если не», смысл перевернулся."
+- id: m04-third-continuous
+  lesson: 04-conditionals/02-third-mixed
+  q: "Переведи: «Если бы ты смотрел на дорогу, ты бы не врезался в столб»."
+  a: "*If you **had been watching** the road, you wouldn't have hit the post.* — процесс в прошлом → Past Perfect Continuous."
+- id: m04-third-no-double-shift
+  lesson: 04-conditionals/02-third-mixed
+  q: "Нужно ли сдвигать всё: *If I had known you ___ in hospital, I'd have visited you*?"
+  a: "Нет: достаточно *had known*, дальше естественно **were**. *had been* тоже верно, но не обязательно."
+- id: m04-wish-hope
+  lesson: 04-conditionals/03-wishes
+  q: "Найди ошибку: *I wish you have a great trip!*"
+  a: "*I **hope** you have a great trip!* или *I wish you **a great trip**!* — *wish* с глаголом только о нереальном."
+- id: m04-wish-was-going
+  lesson: 04-conditionals/03-wishes
+  q: "Переведи: «Они едут в Исландию. Жаль, что я не еду с ними»."
+  a: "*I wish I **was going** too.* — чужие планы, которых у меня нет → wish + Past Continuous."
+- id: m04-rather-past-perfect
+  lesson: 04-conditionals/03-wishes
+  q: "Разница: *I'd rather you didn't tell her* / *I'd rather you hadn't told her*?"
+  a: "Первое — просьба на будущее («лучше не говори»). Второе — о прошлом («лучше бы ты не говорил», а ты сказал)."
+- id: m04-time-passive
+  lesson: 04-conditionals/03-wishes
+  q: "Переведи: «Давно пора отремонтировать эту дорогу»."
+  a: "*It's (about / high) time this road **was repaired**.* — *It's time* + Past Simple, в пассиве *was* + V3."

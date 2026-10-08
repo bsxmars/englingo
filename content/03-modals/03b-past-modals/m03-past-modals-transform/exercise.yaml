@@ -62,3 +62,8 @@ items:
     stem: "You ___ on your essay all afternoon."
     answers: ["should have been working", "ought to have been working"]
     explain: "Упрёк о процессе → **should have been working** (модальный + have been + -ing)."
+  - q: "The staff at the hotel were as helpful as it was possible to be."
+    key: "MORE"
+    stem: "The staff at the hotel ___ helpful."
+    answers: ["couldn't have been more", "could not have been more"]
+    explain: "«Помогали как только могли» → **couldn't have been more helpful**: сравнительная степень после *couldn't have been* значит «больше некуда»."

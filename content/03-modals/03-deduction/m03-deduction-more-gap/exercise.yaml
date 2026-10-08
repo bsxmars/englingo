@@ -1,0 +1,44 @@
+title: "Выводы: процесс, привычка, might as well"
+type: gap
+intro: "Впиши модальный глагол или модальный с глаголом из скобок в нужной форме. Пиши только то, что вписывается в пропуск."
+hints:
+  - "Процесс в прошлом: must / can't / might have been + -ing."
+  - "can — «так бывает вообще»; could / might / may — конкретный случай."
+  - "might as well + инфинитив без to — «раз так, почему бы и нет»."
+items:
+  - q: "Max walked straight into a glass door. He ___ (can't / look) where he was going."
+    answers: ["can't have been looking", "couldn't have been looking", "cannot have been looking", "could not have been looking"]
+    explain: "Уверенное «нет» о процессе в прошлом → **can't have been looking**. Вместо *can't* можно *couldn't*."
+  - q: "Your eyes are all red. You ___ (must / cry)."
+    answers: ["must have been crying", "must've been crying"]
+    explain: "Вывод о процессе, который шёл до сих пор и оставил след → **must have been crying**."
+  - q: "Anna has lived in this village all her life, so she ___ (must / know) everybody here."
+    answers: ["must know"]
+    explain: "*know* — глагол состояния, Continuous с ним не нужен → **must know**, не ~~must be knowing~~."
+  - q: "I see that woman jogging in this park every morning. She ___ (must / live) nearby."
+    answers: ["must live"]
+    explain: "Вывод о постоянном положении дел → **must** + простой инфинитив: *must live*."
+  - q: "In the mountains the weather ___ change very quickly, so always take a warm jacket."
+    answers: ["can"]
+    explain: "Так бывает **вообще**, это свойство гор → **can**."
+  - q: "It's sunny right now, but the forecast says it ___ rain this afternoon."
+    answers: ["might", "may", "could"]
+    explain: "Конкретный прогноз на сегодня → **might / may / could**. *can* здесь не подходит: ~~it can rain this afternoon~~."
+  - q: "We've missed the last bus and there are no taxis. We ___ (walk)."
+    answers: ["might as well walk", "may as well walk"]
+    explain: "Лучшего варианта нет → **might as well walk** («ну, пойдём пешком»). *may as well* — тоже верно, но реже."
+  - q: "The repair costs almost as much as a new printer. You ___ (buy) a new one."
+    answers: ["might as well buy", "may as well buy"]
+    explain: "**might as well** + инфинитив без *to*: раз ремонт так дорог, почему бы не купить новый."
+  - q: "___ we should ask someone for directions — I think we're lost."
+    answers: ["Maybe", "Perhaps"]
+    explain: "Наречие «может быть» пишется слитно: **Maybe** (= *Perhaps*). *may be* — это модальный + *be*."
+  - q: "If the company offered me a better salary, I ___ (stay)."
+    answers: ["might stay", "would stay", "could stay"]
+    explain: "Нереальная ситуация (second conditional) → **might stay** («может, и остался бы») или *would stay*. ~~may stay~~ здесь невозможно."
+  - q: "Nothing is booked yet, but we ___ (go) to Portugal in July."
+    answers: ["might be going", "may be going", "might go", "may go"]
+    explain: "Возможный, не решённый план → **might be going** или *might go*. *are going* значило бы, что всё уже решено."
+  - q: "I can't find my umbrella anywhere. I ___ (must / leave) it at the restaurant."
+    answers: ["must have left", "must've left"]
+    explain: "Вывод о прошлом → **must have + V3**. Где оставил вещь — глагол *leave*, а не *forget*."

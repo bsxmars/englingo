@@ -186,3 +186,75 @@
   lesson: 03-modals/03b-past-modals
   q: "Разница: *I could swim at five* / *I could have finished it yesterday*?"
   a: "**could** — общее умение в прошлом; **could have done** — мог бы, но не сделал."
+- id: m03-should-expectation
+  lesson: 03-modals/01-obligation
+  q: "Что значит *should* в *She's been revising for weeks, so she should pass*?"
+  a: "Не совет, а **ожидание**: «по идее, должна сдать». Ср. *must* — уверенный вывод из фактов."
+- id: m03-should-not-as-expected
+  lesson: 03-modals/01-obligation
+  q: "Переведи: «Уже 9:15 — магазин по идее должен быть открыт»."
+  a: "*It's 9:15 — the shop **should** be open by now.* (так должно быть, а на деле иначе)"
+- id: m03-dont-think-should
+  lesson: 03-modals/01-obligation
+  q: "Как естественнее сказать «Думаю, тебе не стоит увольняться»?"
+  a: "*I **don't think** you **should** quit.* — отрицание переносят в *think*."
+- id: m03-going-to-have-to
+  lesson: 03-modals/01-obligation
+  q: "Переведи: «Ноутбук не починят, так что мне придётся купить новый»."
+  a: "*They can't fix my laptop, so I'm **going to have to** buy a new one.* (не ~~going to must~~)"
+- id: m03-must-be-worn
+  lesson: 03-modals/01-obligation
+  q: "Найди ошибку: *Seat belts must wear at all times.*"
+  a: "*Seat belts **must be worn** at all times.* — в правилах must + пассив (be + V3)."
+- id: m03-insist-that-be
+  lesson: 03-modals/01-obligation
+  q: "Закончи: *The doctor insisted that he ___ (stay) in bed.*"
+  a: "**(should) stay** — после *insist / recommend / it's essential that* голая форма или *should*."
+- id: m03-could-exaggerate
+  lesson: 03-modals/02-ability-permission
+  q: "Переведи: «Я так устал, что проспал бы неделю»."
+  a: "*I'm so tired I **could** sleep for a week.* — нереальное, преувеличение → *could*, не *can*."
+- id: m03-couldnt-be-better
+  lesson: 03-modals/02-ability-permission
+  q: "Что значат *It couldn't be better* и *It could be worse*?"
+  a: "«Лучше не бывает» и «могло быть и хуже» (утешение)."
+- id: m03-used-to-be-able
+  lesson: 03-modals/02-ability-permission
+  q: "Переведи: «Раньше я мог подтянуться 30 раз»."
+  a: "*I **used to be able to** do thirty pull-ups.* (~~used to can~~ невозможно)"
+- id: m03-left-not-forgot
+  lesson: 03-modals/03-deduction
+  q: "Найди ошибку: *I must have forgotten my phone in the taxi.*"
+  a: "*I must have **left** my phone in the taxi.* — где оставил вещь → *leave*; *forget* — без места."
+- id: m03-might-as-well
+  lesson: 03-modals/03-deduction
+  q: "Переведи: «Автобус ушёл — ну, раз так, пойдём пешком»."
+  a: "*We've missed the bus. We **might as well** walk.* — might as well + инфинитив без *to*."
+- id: m03-maybe-may-be
+  lesson: 03-modals/03-deduction
+  q: "*Maybe* или *may be*: «___ you're right» / «You ___ right»?"
+  a: "***Maybe** you're right* (= perhaps) / *You **may be** right* (модальный + be)."
+- id: m03-can-general-could-specific
+  lesson: 03-modals/03-deduction
+  q: "*can* или *might*: *It ___ rain tomorrow* / *It ___ be cold here in May*?"
+  a: "Конкретный прогноз → **might** (may, could) rain tomorrow; «так бывает вообще» → **can** be cold."
+- id: m03-do-you-think-you-could
+  lesson: 03-modals/03a-requests-offers
+  q: "Мягко попроси подвезти тебя в аэропорт."
+  a: "***Do you think you could** give me a lift to the airport?* (или *I wonder if you could…*)"
+- id: m03-rather-you-didnt
+  lesson: 03-modals/03a-requests-offers
+  q: "— *Is it OK if I smoke here?* Как вежливо отказать?"
+  a: "*Actually, **I'd rather you didn't**.*"
+- id: m03-wouldnt-worry
+  lesson: 03-modals/03a-requests-offers
+  q: "Переведи мягкий совет: «Я бы на твоём месте не переживал»."
+  a: "*I **wouldn't worry** about it (if I were you).*"
+- id: m03-pm-couldnt-have-been-better
+  lesson: 03-modals/03b-past-modals
+  q: "Переведи: «Отпуск был идеальный — лучше и быть не могло»."
+  a: "*The holiday was perfect — it **couldn't have been better**.*"
+- id: m03-pm-should-have-arrived
+  lesson: 03-modals/03b-past-modals
+  q: "Что значит *The parcel should have arrived by now*?"
+  a: "Несбывшееся ожидание: «посылка уже должна была прийти (а её нет)»."

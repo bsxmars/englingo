@@ -1,0 +1,44 @@
+title: "Оборот в конце, there is + -ing / V3, left, called"
+type: gap
+intro: "Поставь глагол в скобках в нужную форму: **-ing**, **V3** или **having + V3**. Вписывай только причастный оборот, без *who* и без *to be*."
+hints:
+  - "Человек сам делает действие → -ing. Действие совершают над ним → V3."
+  - "«Осталось» → left. «По имени» → called."
+  - "Первое действие закончилось и длилось долго → having + V3."
+items:
+  - q: "He hurt his knee ___ (play) football on Saturday."
+    answers: ["playing", "while playing", "when playing"]
+    explain: "Травма случилась **во время** игры → *playing* (можно *while playing*). Это русское «играя в футбол»."
+  - q: "Kate is in the kitchen ___ (make) dinner."
+    answers: ["making"]
+    explain: "Два действия одновременно: она на кухне и готовит. Вместо *and she is making* — просто **making**."
+  - q: "He ran out of the house ___ (shout) for help."
+    answers: ["shouting"]
+    explain: "Выбежал **крича** — одновременное действие того же человека → **shouting**."
+  - q: "There were a few kids ___ (swim) in the lake."
+    answers: ["swimming"]
+    explain: "*There were kids who were swimming* → *who were* убираем → **swimming**. По-русски: «в озере купались дети»."
+  - q: "The accident wasn't serious. There was nobody ___ (injure)."
+    answers: ["injured"]
+    explain: "Людей не ранили — действие совершают над ними → пассивное **injured**."
+  - q: "We've eaten almost all the pizza. There are only two slices ___ (leave)."
+    answers: ["left"]
+    explain: "«Осталось» по-английски — **left** (V3 от *leave*): *two slices left*. Не *leaving*."
+  - q: "A woman ___ (call) Marta rang while you were out."
+    answers: ["called", "named"]
+    explain: "**called** = «по имени»: *a woman (who is) called Marta*. Это пассив, а не «позвонившая Марте»."
+  - q: "___ (work) at the bank for twenty years, he knew every client by name."
+    answers: ["having worked", "having been working"]
+    explain: "Долгое действие закончилось до момента в прошлом → **Having worked**. *Working* звучало бы как «работая сейчас»."
+  - q: "Don't just stand there ___ (do) nothing. Help me!"
+    answers: ["doing"]
+    explain: "*stand there doing nothing* — «стоять, ничего не делая». Одновременное действие → **-ing**."
+  - q: "She cut her finger while ___ (chop) onions."
+    answers: ["chopping"]
+    explain: "После *while* — **-ing**, подлежащее не повторяем: *while chopping* = *while she was chopping*."
+  - q: "There's a black van ___ (park) outside your house."
+    answers: ["parked"]
+    explain: "Фургон кто-то припарковал → пассивное **parked**: *a van (which is) parked outside*."
+  - q: "___ (be) a vegetarian, Lena never orders the burgers."
+    answers: ["being"]
+    explain: "Причина, которая верна и сейчас: «так как она вегетарианка» → **Being**. *Having been* значило бы, что она была вегетарианкой раньше."

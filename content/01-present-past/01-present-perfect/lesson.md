@@ -6,6 +6,12 @@ sources:
   - {title: "Perfect English Grammar: Past Simple or Present Perfect (1)", url: "https://www.perfect-english-grammar.com/past-simple-present-perfect-1.html"}
   - {title: "Perfect English Grammar: Past Simple or Present Perfect (2)", url: "https://www.perfect-english-grammar.com/past-simple-present-perfect-2.html"}
   - {title: "Perfect English Grammar: Present Perfect, все формы", url: "https://www.perfect-english-grammar.com/present-perfect-exercise-4.html"}
+  - {title: "Видео Vlad and English: урок 7 — Present Perfect, часть 1", url: "https://www.youtube.com/watch?v=KHAQFIjPg5E&t=9601s"}
+  - {title: "Видео Vlad and English: урок 8 — Present Perfect, часть 2", url: "https://www.youtube.com/watch?v=KHAQFIjPg5E&t=10574s"}
+  - {title: "Видео Vlad and English: урок 11 — How long have you been…?", url: "https://www.youtube.com/watch?v=KHAQFIjPg5E&t=14332s"}
+  - {title: "Видео Vlad and English: урок 12 — for и since, when и how long", url: "https://www.youtube.com/watch?v=KHAQFIjPg5E&t=15358s"}
+  - {title: "Видео Vlad and English: урок 13 — Present Perfect и Past, часть 1", url: "https://www.youtube.com/watch?v=KHAQFIjPg5E&t=16245s"}
+  - {title: "Видео Vlad and English: урок 14 — Present Perfect и Past, часть 2", url: "https://www.youtube.com/watch?v=KHAQFIjPg5E&t=17397s"}
 ---
 В русском одно прошедшее время: «я прочитал книгу» — и неважно, вчера это было или «вообще в жизни». В английском это два разных времени, и выбор между ними — самая частая ошибка русскоговорящих на уровне B1. Хорошая новость: правило помещается в один вопрос.
 
@@ -60,6 +66,21 @@ sources:
 
 > **Типичная ошибка русскоговорящих:** ~~I know her for ten years~~. Русское «знаю её десять лет» стоит в настоящем времени, а английское — **в Present Perfect**: *I've known her for ten years.*
 
+Чаще всего эта ошибка случается с **be**: «они женаты двадцать лет» → ~~They are married for 20 years~~ → *They**'ve been married** for 20 years.* Без срока — обычное настоящее: *They **are** married.* Так же: *He**'s been** in hospital **since** Monday* — он **всё ещё** там. Не путай с *been to*: *He**'s been to** hospital* — побывал и вернулся.
+
+### После since — Past Simple
+
+В главной части — Present Perfect, а в придаточном после *since* — **Past Simple**: там называется момент в прошлом.
+
+- I've lived here **since** I **moved** from Omsk. — ~~since I have moved~~.
+- She's played the violin **since** she **was** eight.
+
+### for: когда можно опустить, и in
+
+- В утверждении *for* иногда опускают: *They've been married (for) ten years.*
+- В отрицании — нет: *I haven't seen him **for** ten years.* В отрицании вместо *for* можно сказать **in** — так звучит частая разговорная фраза: *I haven't had a proper holiday **in** ten years.*
+- С *all* предлог не нужен: ~~for all my life~~ → *I've lived here **all my life**.* Так же *all day, all week*.
+
 ### Маркеры Present Perfect
 
 *ever, never, already, yet, just, so far, recently, lately, this week/month/year, today, for, since, how long…?*
@@ -95,6 +116,49 @@ sources:
 
 После *It's … since* и *the last time* — Past Simple: там называется конкретный момент.
 
+Разговорный вариант — с *It's been*: *It**'s been** ages **since** we **talked**.* = *It's ages since we talked.* А вопрос «сколько прошло с тех пор» звучит так: ***How long is it since** you **saw** your parents?* (или *How long has it been since…?*).
+
+### It's the first time и превосходная степень + ever
+
+После *It's / This is the first (second, third…) time* — **Present Perfect**, хотя по-русски — настоящее время:
+
+- **It's the first time** I**'ve driven** a car in the snow. — ~~It's the first time I drive~~.
+- This is **the third time** you**'ve been** late this week.
+
+С превосходной степенью опыт «за всю жизнь» тоже даёт Present Perfect + *ever*:
+
+- It's **the best** pizza I**'ve ever eaten**.
+- That was **the worst** film I**'ve ever seen**.
+
+> **B2-уровень:** если «первый раз» в прошлом — сдвигай на шаг назад: *It **was** the first time I**'d driven** in the snow.* (Past Perfect, см. урок о нём).
+
+### When или how long: смотри на ответ
+
+Вопрос выбирают по тому, какой ответ нужен:
+
+| Ответ | Вопрос |
+|---|---|
+| *Five years ago.* — момент в прошлом | **When did** you **buy** your car? |
+| *About five years.* — длительность до сих пор | **How long have** you **had** your car? |
+
+Заметь: «купить» — точечное действие, его не растянешь на пять лет (~~How long have you bought~~). О длительности спрашивают через состояние: *have, know, be, live*.
+
+### Ситуация закончилась или длится
+
+Present Perfect значит «ещё продолжается», Past Simple — «уже позади». Это особенно заметно в оценках и сообщениях:
+
+- It**'s been** a great holiday! — говорит человек, который ещё в отпуске.
+- It **was** a great holiday. — отпуск закончился, уже дома.
+- There **have been** no buses since the strike started. — забастовка идёт.
+- There **were** no buses during the strike. — забастовка кончилась.
+- **There's been** an accident on the motorway! — новость; детали потом в Past Simple.
+
+### Недавние события и американский английский
+
+Маркеры *just, already, yet, recently* связаны с Present Perfect, но для **недавнего прошлого** часто подходят оба времени: *I've recently changed jobs* / *I recently changed jobs.* Ошибкой Past Simple становится только с периодом, который ещё идёт (*this week, so far, ever*).
+
+В **американском** английском Past Simple вместо Present Perfect в таких фразах — норма разговорной речи: *I **already paid**. **Did** you **eat** yet? He just **left**.* Если слышишь это в сериалах — это не ошибка. Сам на экзамене B2 First держись британского варианта: *I've already paid. Have you eaten yet?*
+
 ### Состояние, которое закончилось
 
 - We**'ve lived** here for ten years. — живём до сих пор.
@@ -127,6 +191,65 @@ sources:
 - ~~When have you arrived?~~ → When **did** you **arrive**?
 
 > **B2-уровень:** *been* vs *gone*. *She**'s been** to Paris* — была и вернулась. *She**'s gone** to Paris* — уехала и сейчас там.
+
+Поэтому о регулярных походах куда-то тоже говорят через *been*: *I **haven't been** to the cinema for ages* — ~~I haven't gone to the cinema~~ (такое *gone* означало бы, что ты «ушёл» и ещё не вернулся).
+
+### Где Present Perfect не нужен, хотя «по-русски» хочется
+
+- **Where were you born?** — ~~Where have you been born?~~ Рождение — одноразовое событие в прошлом. Так же *I **was** born in 1995.*
+- — Who broke the cup? — **It wasn't me!** — ~~It hasn't been me~~: речь о конкретном моменте.
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 7. Present Perfect, часть 1**
+
+- [2:40:01](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=9601s) — результат сейчас: *I've lost my key*
+- [2:41:35](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=9695s) — новость
+- [2:43:41](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=9821s) — *gone to* и *been to*
+- [2:44:44](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=9884s) — *just, already, yet*
+- [2:46:19](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=9979s) — американский Past Simple
+- [2:46:50](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=10010s) — практика
+
+**Урок 8. Present Perfect, часть 2**
+
+- [2:56:14](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=10574s) — до сих пор и опыт
+- [2:58:16](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=10696s) — *ever, never*
+- [2:59:17](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=10757s) — превосходная степень + *ever*
+- [3:01:21](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=10881s) — *today, this year*
+- [3:02:23](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=10943s) — *It's the first time*
+- [3:03:58](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=11038s) — практика
+
+**Урок 11. How long have you been…?**
+
+- [3:58:52](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=14332s) — *are married* и *have been married*
+- [4:00:23](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=14423s) — *He's been in hospital since…*
+
+**Урок 12. for и since, when и how long**
+
+- [4:15:59](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=15359s) — *for* и *since*
+- [4:18:01](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=15481s) — *for* в утверждении и отрицании, *in*
+- [4:20:05](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=15605s) — *when* или *how long*
+- [4:21:10](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=15670s) — *It's … since*
+- [4:21:40](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=15700s) — практика
+
+**Урок 13. Present Perfect и Past Simple, часть 1**
+
+- [4:30:46](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=16246s) — результат сейчас
+- [4:33:21](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=16401s) — когда нужен Past Simple
+- [4:34:57](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=16497s) — давнее прошлое, умершие люди
+- [4:36:29](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=16589s) — новость и подробности
+- [4:38:02](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=16682s) — практика
+
+**Урок 14. Present Perfect и Past Simple, часть 2**
+
+- [4:50:00](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=17400s) — законченное время: *yesterday, ago*
+- [4:51:02](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=17462s) — *when* и *what time*
+- [4:53:37](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=17617s) — незаконченный период: *today, this week*
+- [4:54:08](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=17648s) — *this morning*
+- [4:57:18](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=17838s) — *It's been* / *It was a great holiday*
+- [4:57:49](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=17869s) — практика
 
 ## Проверь себя
 
@@ -161,4 +284,10 @@ explain: "Действие началось в прошлом и продолж�
 ```
 
 ```exercise m01-pp-error
+```
+
+```exercise m01-pp-time-gap
+```
+
+```exercise m01-pp-situations-choice
 ```

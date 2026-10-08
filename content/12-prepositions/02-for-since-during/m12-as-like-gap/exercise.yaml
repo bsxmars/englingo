@@ -1,0 +1,44 @@
+title: "like, as, as if: устойчивые случаи"
+type: gap
+intro: "Впиши **like**, **as**, **as if** или **such as**. Если подходят несколько вариантов, годится любой."
+hints:
+  - "like + существительное, местоимение или -ing — «похоже на, словно»."
+  - "as + существительное — «в роли, в качестве»; as usual, as always, the same as, as you know."
+  - "look / sound + предложение → as if (в разговорной речи и like)."
+items:
+  - q: "Don't hold the knife ___ that — you'll cut yourself."
+    answers: ["like"]
+    explain: "Перед *this / that* — только **like**: *like this, like that*. ~~as that~~ не говорят."
+  - q: "___ usual, the train was ten minutes late."
+    answers: ["As"]
+    explain: "Устойчивая фраза **as usual** («как обычно»). ~~Like usual~~ — ошибка."
+  - q: "Your laptop is exactly the same ___ mine."
+    answers: ["as"]
+    explain: "После **the same** — всегда **as**: *the same as mine*. ~~the same like~~ — калька."
+  - q: "My aunt gave me this vase ___ a wedding present."
+    answers: ["as"]
+    explain: "Ваза была подарком, в роли подарка → **as** a present."
+  - q: "Her flat is full of old maps and clocks — it's ___ a museum."
+    answers: ["like"]
+    explain: "Квартира не музей, а похожа на него → **like** a museum."
+  - q: "___ you know, the office will be closed on Monday."
+    answers: ["As"]
+    explain: "Вводная фраза **as you know** («как вы знаете»). ~~Like you know~~ так не употребляют."
+  - q: "You look ___ you haven't slept for days."
+    answers: ["as if", "as though", "like"]
+    explain: "После *look* идёт целое предложение → **as if / as though**, в разговорной речи — **like**."
+  - q: "That sounds ___ a great idea — let's do it!"
+    answers: ["like"]
+    explain: "После *sound* стоит существительное (*a great idea*) → **sound like**. *as if* ставят перед предложением."
+  - q: "Max looks exactly ___ his father did at his age."
+    answers: ["like", "as"]
+    explain: "«Похож на отца» → **look like**. Здесь после *his father* идёт глагол *did*, поэтому возможно и *as*, но естественнее **like**."
+  - q: "He ate ___ he hadn't eaten for a week."
+    answers: ["as if", "as though", "like"]
+    explain: "«Будто не ел неделю» — нереальное сравнение → **as if / as though**. Past Perfect, потому что голод был раньше еды."
+  - q: "I worked ___ a waiter for two summers when I was a student."
+    answers: ["as"]
+    explain: "Это была его работа, он и был официантом → **as** a waiter. *like a waiter* — вёл себя как официант, хотя им не был."
+  - q: "Many big cities, ___ Tokyo and Seoul, have excellent public transport."
+    answers: ["such as", "like"]
+    explain: "Перечисляем примеры → **such as** или **like**. Одно *as* здесь невозможно."

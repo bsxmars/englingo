@@ -7,6 +7,9 @@ sources:
   - {title: "Perfect English Grammar: Relative Pronouns", url: "https://www.perfect-english-grammar.com/relative-pronouns-exercise.html"}
   - {title: "Perfect English Grammar: Dropping the Relative Pronoun", url: "https://www.perfect-english-grammar.com/dropping-the-relative-pronoun-exercise.html"}
   - {title: "Perfect English Grammar: Where or That", url: "https://www.perfect-english-grammar.com/where-or-that-exercise.html"}
+  - {title: "Видео Vlad and English: урок 92 — придаточные: who, that, which", url: "https://www.youtube.com/watch?v=1_FACNmXj9M&t=12107s"}
+  - {title: "Видео Vlad and English: урок 93 — придаточные с who/that/which и без них", url: "https://www.youtube.com/watch?v=1_FACNmXj9M&t=13157s"}
+  - {title: "Видео Vlad and English: урок 94 — whose, whom, where", url: "https://www.youtube.com/watch?v=1_FACNmXj9M&t=14521s"}
 ---
 Придаточные определительные — это русские «который», «чей», «где», «когда». Без них речь звучит как телеграмма: *I have a colleague. He speaks five languages.* С ними — как речь взрослого: *I have a colleague **who** speaks five languages.*
 
@@ -100,6 +103,24 @@ sources:
 
 > **Типичная ошибка русскоговорящих:** путать два «что». *Everything / all / something* + **that** (или ничего): *Everything **(that)** he said was true* — не ~~everything what~~. А **what** — когда слова-«хозяина» перед ним нет: ***What** he said was true.*
 
+### that после everything, nothing, the only и превосходной степени
+
+После слов *all, everything, something, anything, nothing, much, little, the only* и после **превосходной степени** (*the best, the worst, the most…*) носители берут **that** или опускают местоимение. *Which* здесь не встречается, а *what* — ошибка.
+
+| Слово-«хозяин» | Пример |
+|---|---|
+| all / everything / anything | That's **all (that)** I know. Don't believe **anything (that)** he says. |
+| nothing / something | There's **nothing (that)** we can do. Is there **something (that)** I can help with? |
+| the only | It's **the only thing that** matters. |
+| превосходная степень | It's **the best film (that)** I've ever seen. |
+
+Правило про опускание то же, что и везде: местоимение-объект можно убрать, подлежащее — нет.
+
+- the best decision **I've ever made** — *decision* здесь объект (*I made it*), *that* не нужно.
+- the best thing **that has ever happened** to me — *thing* сама «случилась», это подлежащее, *that* обязательно. ~~the best thing has ever happened to me~~ — ошибка.
+
+Устойчивые фразы: *I'll do **what I can*** = *I'll do **everything I can*** = *I'll do **the best I can*** — «сделаю всё, что смогу».
+
 ## Выделение: What I need is… / It was Tom who…
 
 Относительные конструкции помогают **выделить** главное — как русское «именно», «вот что».
@@ -116,6 +137,32 @@ sources:
 - **It is / was … who / that …** — «Именно…». Для людей *who* или *that*, для всего остального — *that*: *It's the price **that** worries me.*
 
 Если местоимение в такой фразе — объект, его можно опустить: *It's chocolate cake **(that)** I want.* Если подлежащее — нельзя: *It was Tom **who** called.* Подробнее эти конструкции разберём в модуле 11.
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 92. Придаточные: who, that, which**
+
+- [3:21:47](https://www.youtube.com/watch?v=1_FACNmXj9M&t=12107s) — что такое relative clause, *who* для людей
+- [3:23:47](https://www.youtube.com/watch?v=1_FACNmXj9M&t=12227s) — *that* и *which* для вещей, *which* не для людей
+- [3:24:52](https://www.youtube.com/watch?v=1_FACNmXj9M&t=12292s) — *who / that* вместо *he, she, they*
+- [3:25:53](https://www.youtube.com/watch?v=1_FACNmXj9M&t=12353s) — *what* или *that*: *what happened* и *everything that happened*
+- [3:26:24](https://www.youtube.com/watch?v=1_FACNmXj9M&t=12384s) — практика
+
+**Урок 93. Придаточные с who / that / which и без них**
+
+- [3:39:17](https://www.youtube.com/watch?v=1_FACNmXj9M&t=13157s) — местоимение-подлежащее опустить нельзя
+- [3:40:19](https://www.youtube.com/watch?v=1_FACNmXj9M&t=13219s) — местоимение-объект можно опустить
+- [3:43:20](https://www.youtube.com/watch?v=1_FACNmXj9M&t=13400s) — предлог в конце: *the woman Tom is talking to*
+- [3:45:52](https://www.youtube.com/watch?v=1_FACNmXj9M&t=13552s) — *all / everything that* и *what*
+- [3:47:27](https://www.youtube.com/watch?v=1_FACNmXj9M&t=13647s) — практика
+
+**Урок 94. whose, whom, where**
+
+- [4:02:01](https://www.youtube.com/watch?v=1_FACNmXj9M&t=14521s) — *whose* = «чей»
+- [4:04:50](https://www.youtube.com/watch?v=1_FACNmXj9M&t=14690s) — *whose* и *who's*
+- [4:09:34](https://www.youtube.com/watch?v=1_FACNmXj9M&t=14974s) — *the day / the time / the reason* без местоимения
 
 ## Проверь себя
 

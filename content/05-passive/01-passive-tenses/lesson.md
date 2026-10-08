@@ -6,6 +6,8 @@ sources:
   - {title: "Perfect English Grammar: пассив, упражнение 1", url: "https://www.perfect-english-grammar.com/passive-exercise-1.html"}
   - {title: "Perfect English Grammar: пассив, упражнение 2", url: "https://www.perfect-english-grammar.com/passive-exercise-2.html"}
   - {title: "Perfect English Grammar: пассив, упражнение 3", url: "https://www.perfect-english-grammar.com/passive-exercise-3.html"}
+  - {title: "Видео Vlad and English: урок 42 — пассив, часть 1 (is done / was done)", url: "https://www.youtube.com/watch?v=m8pe5CiAVVE&t=6608s"}
+  - {title: "Видео Vlad and English: урок 43 — пассив, часть 2 (be done / been done / being done)", url: "https://www.youtube.com/watch?v=m8pe5CiAVVE&t=8348s"}
 ---
 В русском пассив звучит книжно: «мост был построен», «письмо отправлено». Поэтому мы чаще говорим «мост построили», «письмо отправили» — без подлежащего. В английском так нельзя: у каждого предложения должно быть подлежащее. Когда неважно или неизвестно, **кто** сделал, английский берёт пассив. Поэтому пассив в английском — не канцелярит, а обычный разговорный инструмент: *My bike **was stolen**. The meeting **has been cancelled**.*
 
@@ -112,6 +114,55 @@ Perfect Continuous в пассиве (*has been being built*) почти не у
 
 Пассив чаще встречается в **письменной** речи: учебники, инструкции, отчёты, новости, официальные правила (*Payment **can be made** online. Bikes left here **will be removed**.*). В живом разговоре — чаще *they / people / you*.
 
+## Пассив о прошлом с модальными: *might have been stolen*
+
+В таблице выше есть строка *should have been cleaned*. По той же схеме строится пассив после **любого** модального глагола, когда речь о прошлом: **модальный + have been + V3**. Это перфектный пассивный инфинитив. Звучит громоздко, но в речи встречается постоянно — в догадках, упрёках и в третьем условном.
+
+| Смысл | Актив | Пассив |
+|---|---|---|
+| догадка: возможно | They **might have sent** the email to my old address. | The email **might / may / could have been sent** to my old address. |
+| догадка: точно | Someone **must have moved** the furniture. | The furniture **must have been moved**. |
+| догадка: не может быть | They **can't have locked** the door. | The door **can't have been locked** — it opened at once. |
+| упрёк | Someone **should have fixed** the road. | The road **should have been fixed** years ago. |
+| нереальное прошлое | If you'd updated the antivirus, the virus **wouldn't have deleted** the files. | If you'd updated the antivirus, the files **wouldn't have been deleted**. |
+
+Степень уверенности выбираешь ты сам: *My bike **has been stolen**.* — уверен, факт. *My bike **might have been stolen**.* — не уверен, возможно, его просто переставили.
+
+Та же форма бывает после *seem, appear, be said*: *The bug **seems to have been fixed**.* — кажется (сейчас), что их решили (раньше).
+
+> **Типичная ошибка русскоговорящих:** путать прошлую необходимость и упрёк. «Её пришлось везти в больницу» — это просто факт → *She **had to be taken** to hospital.* Форма ~~had to have been taken~~ здесь не нужна. *have been* после модального ставим, когда модальный сам стоит «в настоящем» (*might, must, should, could, would*), а действие — в прошлом.
+
+### Вопросы в пассиве
+
+Вспомогательный глагол — на первое место, дальше подлежащее и V3: ***When was** the bridge **built**? **Has** the parcel **been delivered**? **Is** the lift **being repaired**?*
+
+- Предлог глагола остаётся в конце: ***What is** this tool **used for**?* (для чего используется), ***Who was** the song **written by**?*
+- «Как это называется?» — ***What is** it **called**?* Активный вариант — *What **do you call** it?* (как вы это называете). ~~How is it called?~~ — калька с русского.
+- «Где ты родился?» — ***Where were** you **born**?* (не ~~Where did you born?~~).
+
+> **Типичная ошибка русскоговорящих:** глагол после *nobody, everybody, everyone* ставить во множественное число: ~~Everybody were evacuated~~. Эти слова грамматически единственного числа: ***Everybody was** evacuated. **Nobody was** hurt.*
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 42. Пассив, часть 1: is done / was done**
+
+- [1:50:08](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=6608s) — что такое пассив и зачем он нужен
+- [1:55:19](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=6919s) — *by* для исполнителя, *with* для инструмента
+- [1:56:20](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=6980s) — формула be + V3 во всех временах
+- [2:02:00](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=7320s) — практика
+- [2:06:44](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=7604s) — вопросы в пассиве
+- [2:08:44](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=7724s) — актив или пассив: *disappeared*, *died*, *was brought up*
+
+**Урок 43. Пассив, часть 2: be done / been done / being done**
+
+- [2:19:08](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=8348s) — начало урока: пассивный инфинитив
+- [2:24:46](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=8686s) — перфектный пассивный инфинитив: *should / might have been done*
+- [2:31:56](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=9116s) — Present Perfect и Past Perfect в пассиве
+- [2:36:01](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=9361s) — Present и Past Continuous в пассиве (*is being done*)
+- [2:39:09](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=9549s) — практика
+
 ## Проверь себя
 
 ```quiz
@@ -149,4 +200,9 @@ explain: "Арестовывает всегда полиция — исполн�
 Перефразирование в формате B2 First, Part 4.
 
 ```exercise m05-tenses-transform
+```
+
+И пассив о прошлом с модальными, вопросы в пассиве.
+
+```exercise m05-modal-past-passive-gap
 ```

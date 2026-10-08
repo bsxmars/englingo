@@ -1,0 +1,44 @@
+title: "wish или hope, it's time, would rather: тонкости"
+type: gap
+intro: "Впиши недостающее. Где в скобках дан глагол, поставь его в нужную форму. Где скобок нет, впиши одно слово. Сокращения засчитываются."
+hints:
+  - "Реальное пожелание с глаголом → hope + Present. Нереальное → wish + Past."
+  - "wish + кто-то + существительное: I wish you luck."
+  - "would rather + другой человек + Past Simple (сейчас и в будущем) или Past Perfect (прошлое)."
+items:
+  - q: "Good luck at the interview tomorrow! I ___ it goes well."
+    answers: ["hope"]
+    explain: "Реальное событие в будущем, после глагола — Present Simple (*goes*) → **hope**. *wish* с таким придаточным не употребляют."
+  - q: "Congratulations on the new job — we all ___ you every success!"
+    answers: ["wish"]
+    explain: "Формула пожелания **wish + кто-то + существительное**: *wish you every success / all the best / luck*."
+  - q: "Before the final, the two captains shook hands and ___ each other luck."
+    answers: ["wished"]
+    explain: "*wish sb luck* — устойчивое пожелание. О прошлом — **wished**."
+  - q: "We're having a barbecue on Saturday, so I really ___ the weather stays dry."
+    answers: ["hope"]
+    explain: "Погода может и не испортиться — это реальная возможность → **hope** + Present (*stays*)."
+  - q: "My colleagues are going to the conference in Lisbon next week. I wish I ___ (go) too."
+    answers: ["was going", "were going"]
+    explain: "Чужие планы на будущее, которых у меня нет → wish + **Past Continuous**: *I wish I was going too.*"
+  - q: "This road has been full of holes for years. It's about time it ___ (repair)."
+    answers: ["was repaired", "were repaired", "got repaired"]
+    explain: "*It's about time* + Past Simple, а дорогу ремонтируют другие → пассив: **was repaired**."
+  - q: "It's late — it's time for us ___ (go)."
+    answers: ["to go"]
+    explain: "**It's time for sb + to-инфинитив**. Вариант с Past Simple звучал бы *It's time we went*."
+  - q: "I can drive us there, or would you rather I ___ (book) a taxi?"
+    answers: ["booked"]
+    explain: "*would rather* + другой человек + **Past Simple**, даже в вопросе и даже о будущем: *would you rather I booked*."
+  - q: "The flat's nice, but I'd rather it ___ (be) a bit closer to the metro."
+    answers: ["was", "were"]
+    explain: "Подлежащее после *would rather* может быть и *it*. Нереальное настоящее → **was** (или *were*)."
+  - q: "Why did you tell Dad about the accident? I'd rather you ___ (not / say) anything."
+    answers: ["hadn't said", "had not said"]
+    explain: "Ты уже рассказал — прошлое не изменить → would rather + **Past Perfect**: *hadn't said*."
+  - q: "— Shall I post the photos from the party? — I'd rather you ___. Some of them are a bit embarrassing."
+    answers: ["didn't"]
+    explain: "Короткий ответ: **I'd rather you didn't** — вежливое «лучше не надо». Past Simple, а не *don't*."
+  - q: "I'd prefer to stay in tonight rather than ___ (go) to another party."
+    answers: ["go"]
+    explain: "После *would prefer to* … *rather than* — глагол **без to**: *prefer to stay rather than go*."

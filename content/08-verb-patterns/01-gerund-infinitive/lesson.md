@@ -6,6 +6,11 @@ sources:
   - {title: "Perfect English Grammar: Gerunds and Infinitives (1)", url: "https://www.perfect-english-grammar.com/gerunds-and-infinitives-exercise-1.html"}
   - {title: "Perfect English Grammar: Gerunds and Infinitives (2)", url: "https://www.perfect-english-grammar.com/gerunds-and-infinitives-exercise-2.html"}
   - {title: "Perfect English Grammar: Verbs and Prepositions (1)", url: "https://www.perfect-english-grammar.com/verbs-and-prepositions-exercise-1.html"}
+  - {title: "Видео Vlad and English: урок 53 — Verb + -ing", url: "https://www.youtube.com/watch?v=0VRFZ_tym2o&t=0s"}
+  - {title: "Видео Vlad and English: урок 54 — Verb + to", url: "https://www.youtube.com/watch?v=0VRFZ_tym2o&t=1600s"}
+  - {title: "Видео Vlad and English: урок 60 — Preposition + -ing", url: "https://www.youtube.com/watch?v=0VRFZ_tym2o&t=9290s"}
+  - {title: "Видео Vlad and English: урок 62 — Verb + preposition + -ing", url: "https://www.youtube.com/watch?v=0VRFZ_tym2o&t=11639s"}
+  - {title: "Видео Vlad and English: урок 63 — There's no point in -ing, it's worth -ing", url: "https://www.youtube.com/watch?v=0VRFZ_tym2o&t=12806s"}
 ---
 В русском после глагола почти всегда стоит инфинитив: «люблю **готовить**», «решил **уехать**», «избегаю **встречаться**». В английском второй глагол может быть **-ing** (*enjoy cooking*) или **to + глагол** (*decide to leave*), и выбор зависит от первого глагола. Логика есть, но в основном это вопрос привычки: такие пары надо запоминать, как слова.
 
@@ -30,6 +35,25 @@ sources:
 - **keep (on) doing / carry on doing** — продолжать или делать снова и снова: *He **keeps interrupting** me.*
 
 **Do you mind…?** — вежливая просьба: *Do you mind **opening** the window?* (дословно «Ты не против открыть…?»).
+
+### Отрицательный, перфектный и пассивный -ing
+
+У *-ing*-формы, как у инфинитива, есть несколько вариантов. Глагол перед ней остаётся тем же, меняется только сама форма:
+
+| Форма | Когда нужна | Пример |
+|---|---|---|
+| **not** + -ing | отрицание относится ко второму действию | On holiday I enjoy **not having to** set an alarm. |
+| **having + V3** | подчеркнуть, что действие уже **было** раньше | He **admitted having copied** the code from Stack Overflow. |
+| **being + V3** | пассив: действие совершают **над** подлежащим | I hate **being interrupted** when I'm explaining something. |
+| **having been + V3** | пассив + раньше | She denied **having been told** about the changes. |
+
+После *admit, deny, regret, remember* обычный *-ing* и так указывает на прошлое: *He denied **taking** the money* = *He denied **having taken** the money*. Вариант с *having* точнее и звучит книжнее, поэтому в разговоре чаще берут простой.
+
+Пассивный *-ing* нужен и после предлогов: *She left the office **without being noticed**. I'm tired **of being treated** like a junior.*
+
+У *admit, deny, suggest, recommend* есть и полная модель с *that*: *He **denied that he had taken** the money. I **recommend that you book** early.* Смысл тот же, но *-ing* короче.
+
+> **Типичная ошибка русскоговорящих:** ~~I remember to be bitten by a dog when I was four~~. Воспоминание о прошлом → *remember* + *-ing*, а действие совершили над тобой → **being + V3**: *I remember **being bitten** by a dog.* Так же ~~without be noticed~~ → *without **being noticed***.
 
 ## Глагол + to
 
@@ -59,6 +83,34 @@ sources:
 - They **seem to have left** already. — похоже, уже ушли (раньше)
 
 > **Типичная ошибка русскоговорящих:** ~~It seems that he to know~~ / ~~He seems knowing~~. Либо *It seems **that** he knows*, либо *He **seems to know***.
+
+### pretend, claim, threaten, deserve, dare
+
+Ещё несколько частых глаголов с *to*:
+
+| Глагол | Значение | Пример |
+|---|---|---|
+| **pretend** | притворяться | She **pretended not to see** me. |
+| **claim** | утверждать (о себе) | He **claims to speak** five languages. |
+| **threaten** | угрожать | The client **threatened to cancel** the contract. |
+| **deserve** | заслуживать | After this release, the team **deserves to rest**. |
+| **arrange** | договориться, устроить | We**'ve arranged to meet** at six. |
+| **offer** | предложить сделать **самому** | She **offered to drive** me home. |
+
+*pretend* и *claim*, как и *seem*, принимают все формы инфинитива: *The kids **pretended to be sleeping**. The startup **claims to have solved** the problem* (= утверждает, что уже решил).
+
+**dare** — «осмелиться» — бывает и с *to*, и без: *Nobody **dared (to) say** a word. I **didn't dare (to) tell** him.* Разговорное *Don't you dare!* — «Только попробуй!».
+
+### Пары-ловушки: offer или suggest, refuse или deny
+
+| + to | + -ing |
+|---|---|
+| **offer to do** — предлагаю сделать **сам** | **suggest doing** — предлагаю, чтобы сделали мы или вы |
+| *He **offered to pay** for dinner.* | *He **suggested splitting** the bill.* |
+| **refuse to do** — отказываюсь делать | **deny doing** — отрицаю, что сделал |
+| *She **refused to sign** the contract.* | *She **denied signing** the contract.* |
+
+> **Типичная ошибка русскоговорящих:** «предложить» и «отказаться» переводят первым глаголом, который вспомнился. ~~I suggested to help her~~ — если помогать собираешься сам, это ***offered to help***. ~~He denied to answer~~ — если не стал отвечать, это ***refused to answer***; *deny* значит «отрицать».
 
 ### Отрицание и два глагола подряд
 
@@ -128,6 +180,16 @@ sources:
 
 > **Типичная ошибка русскоговорящих:** ~~I succeeded to fix it~~ («мне удалось…»). *succeed* всегда с **in + -ing**: *I **succeeded in fixing** it.* Или проще: *I **managed to fix** it.*
 
+Ещё несколько пар, которые русскому уху непривычны:
+
+- **approve of** doing — одобрять: *My parents don't **approve of** me **working** at night.*
+- **decide against** doing — решить не делать: *We **decided against moving** to Berlin.*
+- **dream of** doing — мечтать; *I **wouldn't dream of** doing* — «мне бы и в голову не пришло»: *I **wouldn't dream of asking** him for money.*
+- **suspect** sb **of** doing — подозревать: *He was **suspected of leaking** the data.*
+- **have no intention of** doing — не собираться: *I **have no intention of resigning**.*
+
+Между предлогом и *-ing* может стоять человек, который выполняет действие: *We're all looking forward to **Anna coming** back. I don't approve of **people smoking** indoors.*
+
 Особая ловушка — частица *to*, которая на самом деле **предлог**:
 
 - I **look forward to hearing** from you. — не ~~to hear~~
@@ -137,6 +199,65 @@ sources:
 Проверка: если после *to* можно поставить существительное (*look forward **to the weekend***), значит, *to* — предлог, и глагол будет с -ing.
 
 > **B2-уровень:** глаголы **like, love, hate, prefer, start, begin, continue** принимают обе формы почти без разницы в смысле: *I love **cooking** / **to cook**.* А вот *would like / would love / would prefer* — только с *to*: *I'**d love to come**.*
+
+## Устойчивые выражения с -ing
+
+Есть несколько оборотов, после которых всегда идёт *-ing*. В русском там инфинитив («трудно найти», «потратил час, чтобы починить»), поэтому здесь часто ошибаются:
+
+| Выражение | Значение | Пример |
+|---|---|---|
+| **have trouble / difficulty / a problem (in)** doing | с трудом что-то делать | I **had trouble finding** a parking space. |
+| **spend / waste** time, money **doing** | тратить на что-то | I **spent** the weekend **fixing** bugs. Don't **waste** time **arguing**. |
+| **be busy doing** | быть занятым | She's **busy preparing** for the demo. |
+| **go** + -ing | спорт и досуг | **go swimming / skiing / hiking / fishing / camping / shopping** |
+| **it's (not) worth** doing, **there's no point (in)** doing | стоит, нет смысла | подробно в модуле 14 |
+
+После *have trouble* и *have difficulty* предлог *in* можно опустить: *I have difficulty (in) remembering names.* Артикль: *have **trouble*** и *have **difficulty*** — без *a*, а *have **a problem***.
+
+> **Типичная ошибка русскоговорящих:** ~~I have difficulty to understand him~~, ~~We spent two hours to fix it~~, ~~Let's go to swimming~~. Правильно: *I have difficulty **understanding** him. We spent two hours **fixing** it. Let's **go swimming**.* После *go* в этих выражениях нет ни *to*, ни артикля.
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 53. Verb + -ing**
+
+- [0:01:00](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=60s) — *enjoy, mind, suggest* и другие глаголы с -ing
+- [0:06:07](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=367s) — *give up, put off, carry on, keep*
+- [0:08:43](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=523s) — *having done* после *admit, regret*
+- [0:11:50](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=710s) — *deny that*, *suggest that*
+- [0:13:23](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=803s) — практика
+
+**Урок 54. Verb + to**
+
+- [0:27:11](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=1631s) — *decide, offer, refuse, manage, threaten, deserve, tend*
+- [0:32:28](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=1948s) — *dare* с *to* и без
+- [0:34:31](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=2071s) — *seem, pretend, claim* + *to be doing*, *to have done*
+- [0:42:11](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=2531s) — практика
+
+**Урок 60. Preposition + -ing**
+
+- [2:35:25](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=9325s) — после предлога -ing: *interested in, good at, fed up with*
+- [2:37:59](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=9479s) — *before, after, by* + -ing
+- [2:41:36](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=9696s) — *without* + -ing, *without being disturbed*
+- [2:42:38](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=9758s) — *look forward to doing*: *to* как предлог
+- [2:44:44](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=9884s) — практика
+
+**Урок 62. Verb + preposition + -ing**
+
+- [3:14:04](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=11644s) — *approve of, decide against, dream of, insist on, succeed in*
+- [3:16:39](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=11799s) — *looking forward to Andy coming*: человек перед -ing
+- [3:17:10](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=11830s) — *accuse of, congratulate on, prevent from, suspect of*
+- [3:21:51](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=12111s) — практика
+
+**Урок 63. There's no point in -ing, it's worth -ing**
+
+- [3:33:26](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=12806s) — *there's no point in doing*
+- [3:34:27](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=12867s) — *the point of*, *it's worth doing*
+- [3:36:37](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=12997s) — *have trouble / a problem doing*
+- [3:37:10](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=13030s) — *spend / waste time doing*, *busy doing*
+- [3:37:41](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=13061s) — *go swimming, go skiing*
+- [3:38:11](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=13091s) — практика
 
 ## Проверь себя
 
@@ -168,4 +289,14 @@ explain: "В *look forward to* частица *to* — предлог, посл�
 И напоследок — *seem to have done*, *can't help*, *fancy*, *prevent from* и другие модели.
 
 ```exercise m08-patterns-choice
+```
+
+Формы *being done* и *having done*, *have trouble doing*, *spend time doing*, *pretend*, *claim* и *threaten*.
+
+```exercise m08-ing-forms-gap
+```
+
+Пары-ловушки: *offer* и *suggest*, *refuse* и *deny*, *risk*, *approve of*, *go swimming*.
+
+```exercise m08-to-verbs-error
 ```

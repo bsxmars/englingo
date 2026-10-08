@@ -1,0 +1,44 @@
+title: "a friend of mine, my own, on my own"
+type: gap
+intro: "Впиши **одно** слово: *mine, ours, theirs…*, *own*, притяжательное (*my, his, its…*), возвратное местоимение или имя с *'s*."
+hints:
+  - "a friend of + mine / yours / his / hers / ours / theirs — не me, them."
+  - "own всегда после притяжательного: my own, its own, a room of my own."
+  - "on + own, by + -self: on my own = by myself."
+items:
+  - q: "Anna is a colleague of ___ — we work in the same team."
+    answers: ["mine"]
+    explain: "Одна из моих коллег → **a colleague of mine**. После *of* в этой конструкции — притяжательная форма *mine*, а не *me*."
+  - q: "We're going camping with some friends of ___ this weekend."
+    answers: ["ours"]
+    explain: "«Несколько наших друзей» → **some friends of ours**. ~~of us~~ здесь не говорят."
+  - q: "My parents have gone to Spain with some old friends of ___."
+    answers: ["theirs"]
+    explain: "Друзья родителей → **friends of theirs**. ~~friends of them~~ — частая калька."
+  - q: "The mechanic who fixed our car is a cousin of ___ (Tom), so he didn't charge us."
+    answers: ["Tom's", "Tom"]
+    explain: "С именем обычно **of Tom's** (как *of mine*), но *a cousin of Tom* тоже встречается и не ошибка."
+  - q: "I'm tired of sharing a flat. I want a place of my ___."
+    answers: ["own"]
+    explain: "**a place of my own** = свой собственный угол. Так говорят, когда перед существительным уже стоит *a*."
+  - q: "Paul can't help you — he's got enough problems of ___ own."
+    answers: ["his"]
+    explain: "**problems of his own** — у него своих проблем хватает. *own* всегда идёт после притяжательного слова."
+  - q: "Please don't use my laptop. Why don't you use your ___?"
+    answers: ["own"]
+    explain: "*your own (laptop)* — существительное опускаем, раз оно понятно. *own* без *your* стоять не может."
+  - q: "The resort is fantastic: it even has ___ own private beach."
+    answers: ["its"]
+    explain: "Пляж принадлежит курорту → **its own**. Не путай с *it's* (= it is)."
+  - q: "We don't buy jam in the shop — we make our ___."
+    answers: ["own"]
+    explain: "**make our own** = делаем сами для себя. Слово *jam* не повторяем."
+  - q: "No need to give me a lift, thanks. I can get home on my ___."
+    answers: ["own"]
+    explain: "**on my own** = сам, без помощи. С предлогом *on* — только *own*; ~~on myself~~ не говорят."
+  - q: "She spent six months travelling around Asia by ___."
+    answers: ["herself"]
+    explain: "**by herself** = одна, без компании. С *by* — возвратное местоимение; ~~by her own~~ — ошибка."
+  - q: "Children under ten should never swim by ___."
+    answers: ["themselves"]
+    explain: "**by themselves** = одни, без взрослых. То же значение — *on their own*."

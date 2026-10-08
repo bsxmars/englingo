@@ -5,6 +5,7 @@ sources:
   - {title: "Oxford Practice Grammar — короткие ответы, отрицания, So do I и I think so", url: "https://elt.oup.com/catalogue/items/global/grammar_vocabulary/oxford_practice_grammar/"}
   - {title: "Perfect English Grammar: отрицательные вопросы (1)", url: "https://www.perfect-english-grammar.com/negative-questions-exercise-1.html"}
   - {title: "Perfect English Grammar: отрицательные вопросы (2)", url: "https://www.perfect-english-grammar.com/negative-questions-exercise-2.html"}
+  - {title: "Видео Vlad and English: урок 51 — вспомогательные глаголы, I think so / I hope so", url: "https://www.youtube.com/watch?v=m8pe5CiAVVE&t=19914s"}
 ---
 Живой разговор на 80% состоит не из длинных предложений, а из коротких реакций: «Да, был», «Я тоже», «А я нет», «Думаю, да», «Надеюсь, что нет». В русском это одно-два слова, и мы переносим эту привычку в английский: *— Do you like jazz? — ~~Yes, I like.~~* или просто *— Yes.* Первое — ошибка, второе звучит сухо, почти грубо.
 
@@ -37,6 +38,35 @@ sources:
 | Просьба: *Could you help me?* | **Sure. / Of course.** | *I'm afraid I'm a bit busy right now.* |
 | Предложение помощи: *Can I help?* | **Yes, please. That's very kind of you.** | *It's OK, thanks. I can manage.* |
 | Приглашение: *Would you like to come?* | **I'd love to.** | *I'd love to, but I'm away that weekend.* |
+
+## Вспомогательный вместо повтора
+
+Тот же приём, что в коротких ответах, работает внутри фразы: смысловой глагол не повторяем, оставляем только вспомогательный.
+
+| Зачем | Пример |
+|---|---|
+| Контраст «а он — нет / а она — да» | *I don't like horror films, but my wife **does**. Gary wasn't working, but Laura **was**.* |
+| Модальный «мог бы, но не будет» | *She could lend us the money, but she **won't**.* |
+| Возражение (ударение на вспомогательном) | *— You didn't lock the door. — I **did**! — You never listen to me. — I **do**!* |
+| Время меняется по смыслу | *— Does Simon live in London? — He **did**, but he **doesn't** any more.* |
+
+> **Типичная ошибка русскоговорящих:** ~~I like cats, but she not~~ или ~~but she doesn't like~~. «Голое» *not* без вспомогательного невозможно, а повторять глагол не нужно: *but she **doesn't***.
+
+## Вопросы-реакции: Have you? Isn't she?
+
+Чтобы показать интерес или удивление («Да ты что?», «Правда?»), отвечаем коротким вопросом из вспомогательного и местоимения. Полярность **та же**, что у собеседника:
+
+| Реплика | Реакция |
+|---|---|
+| I've just seen Mark. | **Have you?** How is he? |
+| Lisa isn't very well today. | **Isn't she?** What's wrong? |
+| It rained all week in Sochi. | **Did it?** What a shame. |
+| We're moving to Kazan. | **Are you?** That's great! |
+| I can't swim. | **Can't you?** I had no idea. |
+
+Не путай с question tag. Хвостик говорящий добавляет к **своей** фразе, и полярность меняется: *It's cold, **isn't it**?* Вопрос-реакция — ответ на **чужую** фразу, полярность сохраняется: *— It's cold. — **Is it**? I'm fine.*
+
+> **Типичная ошибка русскоговорящих:** на *I've just got a new job!* ответить ~~Haven't you?~~ (по привычке менять полярность, как в tags) или ~~Really you have?~~. Правильно: ***Have you?** Congratulations!* или просто *Really?*
 
 ## Отрицание: not после первого вспомогательного
 
@@ -75,6 +105,8 @@ sources:
 
 Подлежащее — **в конце**: ~~So I do~~, ~~Neither I did~~. В разговоре можно проще: ***Me too*** и ***Me neither***.
 
+Третий способ сказать «я тоже нет» — подлежащее + отрицательный вспомогательный + **either**: *— I don't eat meat. — I don't **either**.* (~~I don't too~~: *too* — только после утверждения).
+
 Если хочешь **не согласиться** — просто подлежащее + вспомогательный с ударением:
 
 - *I love horror films. — Oh, I **don't**.*
@@ -98,7 +130,22 @@ sources:
 
 С *think* и *expect* — обычно **don't … so**; с *hope* и *be afraid* — только **… not**: ~~I don't hope so~~.
 
+С **guess** (разговорное, особенно американское) — *I guess so* / ***I guess not***.
+
 После **know** и **be sure** *so* не ставится: *— The shop's closed. — Yes, I **know**.* (~~I know so~~) *— Are you sure? — Yes, I'm **sure**.* (~~I'm sure so~~)
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 51. Вспомогательные глаголы, I think so / I hope so**
+
+- [5:31:55](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=19915s) — вспомогательный и смысловой глагол
+- [5:33:28](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=20008s) — короткие ответы и *…, but Laura was*
+- [5:37:32](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=20252s) — возражение *Yes, I did* и реакции *Have you? Isn't she?*
+- [5:39:35](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=20375s) — *So am I, Neither do I*, *I don't either*
+- [5:45:42](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=20742s) — *I think so, I hope not, I'm afraid so*
+- [5:48:18](https://www.youtube.com/watch?v=m8pe5CiAVVE&t=20898s) — практика
 
 ## Проверь себя
 
@@ -130,4 +177,7 @@ explain: "С **hope** отрицание только через *not*: *I hope 
 ```
 
 ```exercise m10-reactions-transform
+```
+
+```exercise m10-echo-aux-choice
 ```

@@ -1,0 +1,59 @@
+title: "Причастные обороты (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "There is / there are + существительное + -ing или V3."
+  - "left = «осталось», called = «по имени»."
+  - "Подлежащее оборота и главного предложения должно совпадать."
+items:
+  - q: "Nobody was hurt in the crash."
+    key: "INJURED"
+    stem: "There ___ in the crash."
+    answers: ["was nobody injured", "was no one injured", "was no-one injured", "were no people injured", "was not anyone injured", "wasn't anyone injured", "wasn't anybody injured", "was not anybody injured"]
+    explain: "*There was nobody injured* — пассивное V3 после *there was*: людей никто не ранил."
+  - q: "Is anyone waiting to see the dentist?"
+    key: "THERE"
+    stem: "___ to see the dentist?"
+    answers: ["Is there anyone waiting", "Is there anybody waiting", "Is there someone waiting", "Is there somebody waiting"]
+    explain: "*Is there anyone waiting?* — вопрос с *there is* + существительное + **-ing**."
+  - q: "A man whose name was Oleg phoned you this morning."
+    key: "CALLED"
+    stem: "A man ___ phoned you this morning."
+    answers: ["called Oleg"]
+    explain: "**called** = «по имени»: *a man called Oleg*. Сокращение от *a man who was called Oleg*."
+  - q: "She was lifting a heavy box and she hurt her back."
+    key: "LIFTING"
+    stem: "She hurt her back ___ ."
+    answers: ["lifting a heavy box", "while lifting a heavy box", "when lifting a heavy box"]
+    explain: "Травма во время другого действия → -ing в конце: *hurt her back **lifting** a heavy box*, можно с *while*."
+  - q: "After he had read the contract twice, he signed it."
+    key: "HAVING"
+    stem: "___ twice, he signed it."
+    answers: ["Having read the contract", "Having read it", "After having read the contract", "After having read it"]
+    explain: "Первое действие закончилось до второго → **Having + V3**: *Having read the contract twice, he signed it*."
+  - q: "Some children were playing football in the street."
+    key: "THERE"
+    stem: "___ football in the street."
+    answers: ["There were some children playing", "There were children playing", "There were some kids playing", "There were kids playing"]
+    explain: "*There were* + существительное + **-ing** — естественный способ сказать «на улице играли дети»."
+  - q: "He doesn't have a car, so he cycles everywhere."
+    key: "NOT"
+    stem: "___, he cycles everywhere."
+    answers: ["Not having a car"]
+    explain: "Причина + отрицание → **Not having** a car. *Not* стоит перед причастием."
+  - q: "Kate was in the kitchen. She was making a cake."
+    key: "MAKING"
+    stem: "Kate was in the kitchen ___ ."
+    answers: ["making a cake"]
+    explain: "Два одновременных действия одного человека: второе превращается в **-ing**-оборот в конце."
+  - q: "He left the room. He was laughing loudly."
+    key: "LAUGHING"
+    stem: "He left the room ___ ."
+    answers: ["laughing loudly", "loudly laughing"]
+    explain: "Вышел, громко смеясь → *left the room **laughing** loudly*. Подлежащее у обеих частей одно — *he*."
+  - q: "There's only one biscuit in the box. We've eaten the rest."
+    key: "LEFT"
+    stem: "There's ___ in the box."
+    answers: ["only one biscuit left", "just one biscuit left", "one biscuit left", "only one left", "just one left"]
+    explain: "«Осталось» → **left** после существительного: *only one biscuit left*."

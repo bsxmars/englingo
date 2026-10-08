@@ -1,0 +1,52 @@
+title: "Тонкости будущего: Present, have got, will, shall"
+type: choice
+intro: "Выбери самый естественный вариант. Здесь нюансы: настоящее время для будущего, *have got* для встреч, *will* о настоящем, *won't* в обещаниях, *What shall I do?* и прогноз по признакам."
+hints:
+  - "Действие вот-вот начнётся (иду, ухожу) → Present Continuous."
+  - "Жёсткий график, даже личный → Present Simple."
+  - "Видно по ситуации сейчас → going to; догадка о настоящем → will be."
+items:
+  - q: "— Kids, dinner's on the table! — ___!"
+    options: ["I come", "I'm coming", "I'm going to come"]
+    answer: 1
+    explain: "Действие начнётся через секунду → Present Continuous **I'm coming** («иду!»). *I'm going to come* звучит как план на потом."
+  - q: "Right, it's nearly midnight. I ___. See you all on Monday!"
+    options: ["'m off", "go off", "off"]
+    answer: 0
+    explain: "**I'm off** — разговорное «ну, я пошёл»: Present Continuous смысла «вот-вот ухожу», только с *off* вместо глагола."
+  - q: "I'm a bit nervous — my new job ___ on Monday."
+    options: ["starts", "will have started", "is start"]
+    answer: 0
+    explain: "Дата начала работы — жёсткий график → Present Simple **starts**. *will have started* значило бы «к какому-то сроку уже начнётся»."
+  - q: "Sorry, I can't make Thursday — I ___ a job interview at two."
+    options: ["'ve got", "will have got", "get"]
+    answer: 0
+    explain: "Про встречи, экзамены, приёмы у врача в будущем говорят **have / have got**: *I've got an interview on Thursday*."
+  - q: "It's 8:55, and the meeting starts at nine on the other side of town. We ___ late!"
+    options: ["'re going to be", "are", "'ll have been"]
+    answer: 0
+    explain: "Опоздание видно по часам прямо сейчас → прогноз по признакам: **we're going to be** late."
+  - q: "Don't call Tom now — he ___ at the gym. He always goes on Tuesday evenings."
+    options: ["'ll be", "'s going to be", "'ll have been"]
+    answer: 0
+    explain: "Это догадка о **настоящем**: «он наверняка в зале» → **he'll be**. *He's going to be* говорит о будущем, а не о «сейчас»."
+  - q: "I really hope the weather ___ nice for your wedding on Saturday."
+    options: ["is", "would be", "has been"]
+    answer: 0
+    explain: "После **I hope** будущее часто выражают Present Simple: *I hope the weather **is** nice*. *will be* тоже было бы верно."
+  - q: "«I feel awful. I think I'm going to be sick.» Что имеет в виду говорящий?"
+    options: ["Меня сейчас стошнит.", "Я скоро заболею, простужусь.", "Я уже давно болею."]
+    answer: 0
+    explain: "**be sick** в этой фразе — «вырвать», а *going to* — «вот-вот, по ощущениям». «Я заболеваю» — *I'm coming down with something*."
+  - q: "— I've missed the last train! What ___ I do? — Call a taxi, I suppose."
+    options: ["shall", "will", "am"]
+    answer: 0
+    explain: "**What shall I do?** — просьба подсказать, как поступить. *What will I do?* звучит как вопрос о будущем, а не о совете."
+  - q: "— Please remember to feed the cat while I'm away. — Don't worry, I ___."
+    options: ["won't forget", "don't forget", "'m not forgetting"]
+    answer: 0
+    explain: "Обещание → **won't forget**. *I don't forget* — «я вообще не забываю», общее свойство, а не обещание."
+  - q: "— I'll drive you to the airport tomorrow. — That's kind, but Mike ___ me. We arranged it last week."
+    options: ["is taking", "will take", "takes"]
+    answer: 0
+    explain: "Договорились заранее → Present Continuous **is taking** (или *is going to take*). *will take* звучало бы как решение, принятое только что."

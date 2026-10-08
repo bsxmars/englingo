@@ -5,6 +5,8 @@ sources:
   - {title: "Oxford Practice Grammar — verb + object + infinitive, adjective + to-infinitive", url: "https://elt.oup.com/catalogue/items/global/grammar_vocabulary/oxford_practice_grammar/"}
   - {title: "Perfect English Grammar: Let or Make", url: "https://www.perfect-english-grammar.com/let-or-make-exercise-1.html"}
   - {title: "Perfect English Grammar: Gerunds and Infinitives (2)", url: "https://www.perfect-english-grammar.com/gerunds-and-infinitives-exercise-2.html"}
+  - {title: "Видео Vlad and English: урок 55 — Verb + object + to (make, let)", url: "https://www.youtube.com/watch?v=0VRFZ_tym2o&t=3760s"}
+  - {title: "Видео Vlad and English: урок 65 — Adjective + to", url: "https://www.youtube.com/watch?v=0VRFZ_tym2o&t=14936s"}
 ---
 «Заставить», «разрешить», «помочь» — в русском после них просто инфинитив. В английском у каждого глагола своя модель, и главная ловушка — **make** и **let**, после которых *to* не ставится. Ещё сегодня разберём *easy to use*, *too expensive to buy* и *old enough to vote* — короткие конструкции, которые делают речь естественной.
 
@@ -77,6 +79,13 @@ sources:
 
 Две модели с одним смыслом: ***It's** easy **to use** this app* = ***This app is** easy **to use***. Вторая короче и естественнее. Так работают *easy, hard, difficult, impossible, safe, dangerous, cheap, expensive, nice, interesting, fascinating*: *This car is **cheap to run**. The film was **fascinating to watch**.*
 
+Две детали этой модели:
+
+- **Предлог остаётся в конце.** *It's interesting to talk **to** her* → *She's interesting to talk **to***. *It's comfortable to sit **on** this chair* → *This chair is comfortable to sit **on***. Без предлога фраза ломается.
+- **Между прилагательным и to может стоять существительное:** *It's **a difficult question to answer**. That's **an easy mistake to make**. Kazan is **a nice city to live in**.*
+
+> **Типичная ошибка русскоговорящих:** ~~She's very easy to talk~~ — в русском «с ней легко говорить» предлог стоит в начале и при перестройке теряется. В английском он остаётся после глагола: *She's very easy to talk **to***.
+
 ### sure / certain / likely + to
 
 - **be sure / certain to do** — «точно»: *It's **sure to rain** at the weekend.*
@@ -102,6 +111,23 @@ sources:
 Порядок важен: *enough* стоит **после** прилагательного, но **перед** существительным: *big **enough***, но ***enough** money*.
 
 > **B2-уровень:** *too* и *not enough* часто перефразируют друг в друга: *The box is too heavy for me to lift* = *I'm not strong enough to lift the box*. Это типичное задание B2 First Part 4.
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 55. Verb + object + to** (часть про *make* и *let*)
+
+- [1:02:40](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=3760s) — *make sb do*, *let sb do*: без *to*
+- [1:03:44](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=3824s) — пассив *be made to do*
+
+**Урок 65. Adjective + to**
+
+- [4:08:57](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=14937s) — *it's hard to understand him* = *he's hard to understand*
+- [4:11:34](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=15094s) — *interesting to talk to*, *a difficult question to answer*
+- [4:13:15](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=15195s) — *sorry / glad / relieved to hear*
+- [4:14:46](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=15286s) — *be sure / likely / bound to*
+- [4:16:19](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=15379s) — практика
 
 ## Проверь себя
 

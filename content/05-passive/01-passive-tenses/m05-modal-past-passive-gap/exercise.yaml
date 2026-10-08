@@ -1,0 +1,44 @@
+title: "Могли украсть, должны были починить: пассив о прошлом"
+type: gap
+intro: "Впиши пассив в нужной форме. В скобках — слова в нужном порядке. Сокращения засчитываются."
+hints:
+  - "Модальный + **have been + V3** — догадка, упрёк или нереальное прошлое."
+  - "Уверен — Present Perfect или Past Simple пассив; не уверен — *might / may / could have been*."
+  - "В вопросе вспомогательный глагол — на первое место, предлог глагола — в конце."
+items:
+  - q: "I can't find my scarf anywhere. It ___ (might / leave) on the bus."
+    answers: ["might have been left"]
+    explain: "Догадка о прошлом, шарф ничего не делал сам → **might have been left**: модальный + *have been* + V3."
+  - q: "The flat looks completely different. The walls ___ (must / repaint) while we were away."
+    answers: ["must have been repainted"]
+    explain: "Уверенный вывод о прошлом → **must have been**. Стены не красят сами → пассив."
+  - q: "This report is full of mistakes. It ___ (should / check) before it was sent to the client."
+    answers: ["should have been checked"]
+    explain: "Упрёк: надо было, но не сделали → **should have been checked**."
+  - q: "The window ___ (can't / break) from the outside — all the glass is on the street."
+    answers: ["can't have been broken", "cannot have been broken", "couldn't have been broken", "could not have been broken"]
+    explain: "«Не может быть, чтобы…» о прошлом → **can't / couldn't have been broken**. Осколки снаружи — значит, разбили изнутри."
+  - q: "If the driver had been more careful, nobody ___ (would / injure)."
+    answers: ["would have been injured"]
+    explain: "Третий условный в пассиве: **would have been** + V3. *nobody* сам по себе уже даёт отрицание, *not* не нужно."
+  - q: "My laptop isn't where I left it. I'm not sure, but it ___ (may / take) by mistake."
+    answers: ["may have been taken", "might have been taken", "could have been taken"]
+    explain: "Говорящий не уверен → **may / might / could have been taken**. Если бы был уверен — *has been taken*."
+  - q: "The lift was broken, so the piano ___ (have to / carry) up five floors."
+    answers: ["had to be carried"]
+    explain: "Просто факт прошлой необходимости → **had to be carried**. *have been* после *had to* здесь не нужен."
+  - q: "The old files seem ___ (delete) during the update — they're all gone."
+    answers: ["to have been deleted"]
+    explain: "Кажется сейчас, а удалили раньше → перфектный пассивный инфинитив **to have been deleted**."
+  - q: "___ (what / this button / use) for? Nothing happens when I press it."
+    answers: ["What is this button used", "What's this button used"]
+    explain: "Вопрос в Present Simple пассиве: **What is** + подлежащее + **used**, а предлог *for* остаётся в конце."
+  - q: "I've never seen this fruit before. What ___ (it / call) in English?"
+    answers: ["is it called"]
+    explain: "«Как это называется?» → **What is it called?** Вариант ~~How is it called~~ — калька с русского."
+  - q: "There was a fire at the factory, but luckily everybody ___ (evacuate) in time."
+    answers: ["was evacuated", "had been evacuated", "got evacuated"]
+    explain: "*everybody* — единственное число → **was**, а не ~~were~~. Past Simple пассив: эвакуировали люди извне."
+  - q: "___ (the problem with the heating / fix) yet? It's still freezing in here."
+    answers: ["Has the problem with the heating been fixed"]
+    explain: "*yet* → Present Perfect пассив. В вопросе *has* выходит вперёд: **Has** + подлежащее + **been fixed**?"

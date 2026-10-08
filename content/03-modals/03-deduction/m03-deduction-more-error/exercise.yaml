@@ -1,0 +1,38 @@
+title: "Найди ошибку в выводах"
+type: error
+intro: "В каждом предложении одна ошибка. Исправь её и запиши предложение целиком."
+hints:
+  - "Где оставил вещь — leave, а не forget."
+  - "maybe (слитно) = perhaps; may be — модальный + be."
+  - "Нереальное — might, а не may."
+items:
+  - q: "I must have forgotten my wallet in the car."
+    answers: ["I must have left my wallet in the car."]
+    explain: "Когда называешь место, где осталась вещь, нужен **leave**: *I must have left it in the car*. *forget* — без места."
+  - q: "He must be knowing the answer — he's a maths teacher."
+    answers: ["He must know the answer — he's a maths teacher."]
+    explain: "*know* — глагол состояния, в Continuous не ставится → **must know**."
+  - q: "May be we should leave a bit earlier to avoid the traffic."
+    answers: ["Maybe we should leave a bit earlier to avoid the traffic.", "Perhaps we should leave a bit earlier to avoid the traffic."]
+    explain: "«Может быть» в начале фразы — наречие **Maybe** (слитно), его можно заменить на *Perhaps*."
+  - q: "Take an umbrella — it can rain this evening."
+    answers: ["Take an umbrella — it might rain this evening.", "Take an umbrella — it may rain this evening.", "Take an umbrella — it could rain this evening."]
+    explain: "Конкретный прогноз → **might / may / could**. *can* — только «так вообще бывает»."
+  - q: "If I had more free time, I may learn to play the guitar."
+    answers: ["If I had more free time, I might learn to play the guitar.", "If I had more free time, I would learn to play the guitar.", "If I had more free time, I could learn to play the guitar."]
+    explain: "Нереальное условие (second conditional) → **might** (или *would / could*). *may* в нереальных ситуациях не используют."
+  - q: "The next train is in two hours. We might better take a taxi."
+    answers: ["The next train is in two hours. We might as well take a taxi.", "The next train is in two hours. We may as well take a taxi.", "The next train is in two hours. We'd better take a taxi.", "The next train is in two hours. We had better take a taxi."]
+    explain: "Устойчивое **might as well** («раз так, почему бы и нет») или **had better** («лучше бы, иначе…»). ~~might better~~ не существует."
+  - q: "She can't have been listened to the instructions — she did everything wrong."
+    answers: ["She can't have been listening to the instructions — she did everything wrong.", "She can't have listened to the instructions — she did everything wrong."]
+    explain: "Процесс — **have been + -ing**: *can't have been listening*. Или просто *can't have listened*. ~~have been listened~~ — это пассив."
+  - q: "His light was on at 3 a.m. He must have been work all night."
+    answers: ["His light was on at 3 a.m. He must have been working all night."]
+    explain: "После **have been** для процесса нужна форма на **-ing**: *must have been working*."
+  - q: "The road is closed. There must have an accident."
+    answers: ["The road is closed. There must have been an accident."]
+    explain: "Вывод о прошлом с *there is* → **there must have been**. Пропущено *been*."
+  - q: "You might as well to take the car — it's pouring outside."
+    answers: ["You might as well take the car — it's pouring outside.", "You may as well take the car — it's pouring outside."]
+    explain: "После **might as well** — инфинитив **без to**, как после любого модального."

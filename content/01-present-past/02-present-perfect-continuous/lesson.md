@@ -6,6 +6,10 @@ sources:
   - {title: "Perfect English Grammar: Present Perfect или Continuous (1)", url: "https://www.perfect-english-grammar.com/present-perfect-present-perfect-continuous-1.html"}
   - {title: "Perfect English Grammar: Present Perfect или Continuous (2)", url: "https://www.perfect-english-grammar.com/present-perfect-present-perfect-continuous-2.html"}
   - {title: "Perfect English Grammar: Present Perfect или Continuous (3)", url: "https://www.perfect-english-grammar.com/present-perfect-present-perfect-continuous-3.html"}
+  - {title: "Видео Vlad and English: урок 9 — Present Perfect Continuous", url: "https://www.youtube.com/watch?v=KHAQFIjPg5E&t=11548s"}
+  - {title: "Видео Vlad and English: урок 10 — Present Perfect Continuous и Simple", url: "https://www.youtube.com/watch?v=KHAQFIjPg5E&t=13132s"}
+  - {title: "Видео Vlad and English: урок 11 — How long have you been…?", url: "https://www.youtube.com/watch?v=KHAQFIjPg5E&t=14332s"}
+  - {title: "Видео Vlad and English: урок 12 — for и since, when и how long", url: "https://www.youtube.com/watch?v=KHAQFIjPg5E&t=15358s"}
 ---
 Вчера ты разобрался, что «я живу здесь пять лет» по-английски — Present Perfect. Сегодня второй шаг: у Present Perfect есть «длинная» версия — **Present Perfect Continuous**. В русском такого различия нет: «я писал отчёт» может значить и «написал», и «сидел над ним всё утро». В английском это два разных сообщения:
 
@@ -61,6 +65,22 @@ Present Perfect Continuous отвечает на вопросы **чем зан�
 
 > **Типичная ошибка русскоговорящих:** ~~How long do you wait?~~ ~~I wait for twenty minutes.~~ Русское «Ты давно ждёшь? — Двадцать минут жду» — в настоящем времени, а английское — **в Present Perfect Continuous**: *How long have you been waiting? — I've been waiting for twenty minutes.*
 
+Короткий разговорный вариант — **Have you been waiting long?** Здесь *long* стоит без *for*. И не забывай предлог: *wait **for** me* — ~~wait me~~.
+
+### always — с Simple
+
+С *always* («всегда, всю жизнь») бери Present Perfect **Simple**, даже если речь о длительном:
+
+- I**'ve always lived** in this town. — ~~I've always been living~~.
+- She**'s always wanted** to visit Japan.
+
+### Нет срока — нет перфекта
+
+Обратная ошибка: увидев «давно» в голове, ставить перфект туда, где срока нет. Если в предложении нет *for, since, how long* (или подразумеваемого «до сих пор»), нужно обычное настоящее:
+
+- I **know** him well. — но *I've known him **for years***.
+- We**'re living** on the fifth floor now. — но *We've been living here **since May***.
+
 ## Видимые следы недавнего действия
 
 Continuous — ещё и время для «улик». Действие только что закончилось (или почти), и мы видим его последствия:
@@ -104,6 +124,24 @@ Continuous подходит не только для одного длинног
 - I**'ve been tidying** my room. — вот чем я занимался (может, ещё не закончил).
 - I**'ve tidied** my room. — всё, порядок.
 
+### Вопросы: чем занимался или что сделал
+
+| Вопрос | О чём спрашиваем |
+|---|---|
+| **What have you been doing?** | чем ты занимался (последнее время, только что) |
+| **What have you done?** | что ты сделал — результат (часто с упрёком: «Что ты натворил?») |
+| **Have you been playing** football? | видны следы: ты грязный, в форме |
+| **Have you ever played** football? | опыт за жизнь |
+
+### Отрицание: длительность или количество
+
+- I **haven't been learning** Spanish very **long**. — недолго учу.
+- I **haven't learnt** very **much** yet. — выучил немного.
+
+### «Я тебя искал!»
+
+Действие, которое длилось до самого момента речи и **только что** закончилось, — тоже Continuous: *There you are! I**'ve been looking** for you everywhere!* (искал и вот нашёл).
+
 ## Глаголы состояния: только Simple
 
 Некоторые глаголы описывают **состояние**, а не действие. Они почти никогда не бывают в Continuous — ни в Present, ни в Present Perfect:
@@ -121,6 +159,8 @@ Continuous подходит не только для одного длинног
 
 > **B2-уровень:** *have* бывает и действием: *have lunch, have a shower, have a good time*. Тогда Continuous возможен: *We've been having problems with the server all week.* А вот *have* = «владеть» — только Simple.
 
+> **B2-уровень:** *want* и *mean* иногда ставят в Continuous, чтобы показать, что желание или намерение копилось давно: *I**'ve been wanting** to tell you something. I**'ve been meaning** to call you for weeks.* Это устойчивые разговорные фразы, а не правило для всех глаголов состояния.
+
 ## Короткий итог
 
 | Хочу сказать | Время |
@@ -129,6 +169,39 @@ Continuous подходит не только для одного длинног
 | чем занимался, как долго | Present Perfect Continuous |
 | почему у меня такой вид | Present Perfect Continuous |
 | глагол состояния (know, own…) | только Simple |
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 9. Present Perfect Continuous**
+
+- [3:12:28](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=11548s) — смысл времени
+- [3:14:01](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=11641s) — форма
+- [3:15:03](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=11703s) — следы действия: *Have you been crying?*
+- [3:17:05](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=11825s) — действие продолжается: *how long*
+- [3:20:11](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=12011s) — повторяющиеся действия
+- [3:25:12](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=12312s) — практика
+
+**Урок 10. Present Perfect Continuous и Simple**
+
+- [3:38:53](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=13133s) — *have been painting* и *have painted*
+- [3:43:33](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=13413s) — *What have you been doing / done?*
+- [3:44:03](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=13443s) — *how long* и *how many*
+- [3:46:06](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=13566s) — глаголы состояния
+- [3:48:22](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=13702s) — практика
+
+**Урок 11. How long have you been…?**
+
+- [3:58:52](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=14332s) — *are married* и *have been married*
+- [4:01:55](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=14515s) — *how long* + Continuous
+- [4:03:29](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=14609s) — *live, work* в обеих формах
+- [4:04:00](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=14640s) — *always* + Simple
+- [4:04:31](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=14671s) — практика
+
+**Урок 12. for и since**
+
+- [4:15:59](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=15359s) — *for* и *since*
 
 ## Проверь себя
 
@@ -167,4 +240,7 @@ explain: "*know* — глагол состояния, Continuous с ним не�
 ```
 
 ```exercise m01-ppc-transform
+```
+
+```exercise m01-ppc-nuances-choice
 ```

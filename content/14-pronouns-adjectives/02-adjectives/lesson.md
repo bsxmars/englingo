@@ -5,6 +5,7 @@ sources:
   - {title: "Oxford Practice Grammar — прилагательные: позиция, порядок, the + adjective, -ed / -ing", url: "https://elt.oup.com/catalogue/items/global/grammar_vocabulary/oxford_practice_grammar/"}
   - {title: "Perfect English Grammar: прилагательные на -ed и -ing, упражнение 1", url: "https://www.perfect-english-grammar.com/participle-adjectives-exercise-1.html"}
   - {title: "Perfect English Grammar: прилагательные на -ed и -ing, упражнение 2", url: "https://www.perfect-english-grammar.com/participle-adjectives-exercise-2.html"}
+  - {title: "Видео Vlad and English: урок 98 — прилагательные на -ing и -ed", url: "https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=0s"}
 ---
 Русскому прилагательному всё равно, где стоять: «интересная книга», «книга интересная». Английское прилагательное капризнее: у него две позиции, некоторые слова живут только в одной из них, а пара *bored / boring* — источник, наверное, самой частой ошибки русскоговорящих: ~~I am boring~~ («я скучный») вместо *I am bored* («мне скучно»).
 
@@ -73,6 +74,43 @@ sources:
 > **Типичная ошибка русскоговорящих:** ~~I'm very interesting in history~~ → *I'm very **interested** in history.* ~~The film was bored~~ → *The film was **boring**.* Проверка: «он сам чувствует» → *-ed*; «он вызывает чувство» → *-ing*.
 
 > **B2-уровень:** в эссе и отзывах *-ing* прилагательные — готовый инструмент оценки: *a **thought-provoking** exhibition, a **rewarding** experience, **disappointing** results, a **compelling** argument*.
+
+### get + -ed: «заскучать», «разозлиться», «смутиться»
+
+Русские глаголы на *-ся* со значением «перейти в состояние» часто переводятся как **get + прилагательное на -ed**:
+
+| По-русски | По-английски |
+|---|---|
+| заскучать | **get bored** |
+| разозлиться, начать раздражаться | **get annoyed** (а также *get angry*) |
+| смутиться | **get embarrassed** |
+| разволноваться, обрадоваться в предвкушении | **get excited** |
+| запутаться | **get confused** |
+| расстроиться, разочароваться | **get upset**, **get disappointed** |
+
+*Don't **get annoyed** about such small things. Kids **get bored** on long car journeys.* Здесь всегда *-ed*: человек сам переходит в состояние. ~~I get boring at work~~ значило бы «я становлюсь занудой».
+
+### look bored или look boring
+
+После *look, seem, sound* выбор тот же, что после *be*:
+
+- *You **look bored**.* — похоже, тебе скучно (так выглядит твоё лицо).
+- *You **look boring** in that grey suit.* — ты выглядишь скучно (так тебя видят другие).
+- *The new project **sounds exciting**.* — проект вызывает интерес → *-ing*.
+
+> **B2-уровень:** многие *-ing / -ed* прилагательные «предельные»: *exhausted, terrified, fascinating, amazing*. Им не нужно *very*. Подробнее о том, чем их усиливать (*absolutely exhausted*), — в следующем уроке.
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 98. Прилагательные на -ing и -ed (boring / bored)**
+
+- [0:00:01](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=1s) — *boring* — свойство, *bored* — чувство
+- [0:01:37](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=97s) — *Jane is boring* или *Jane is bored*
+- [0:04:12](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=252s) — практика
+- [0:05:15](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=315s) — *get depressed, get disappointed*: переход в состояние
+- [0:08:54](https://www.youtube.com/watch?v=7EQrZ8CbWkM&t=534s) — *look bored* или *look boring*
 
 ## Проверь себя
 

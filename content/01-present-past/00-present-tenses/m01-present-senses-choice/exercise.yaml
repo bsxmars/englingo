@@ -1,0 +1,56 @@
+title: "Чувства, перемены и «чем занимаешься»"
+type: choice
+intro: "Выбери вариант, который звучит естественно. Тут глаголы восприятия, глаголы изменения и вопросы *What do you do? / What are you doing?*"
+hints:
+  - "see / hear = «вижу, слышу» — без -ing, часто с can."
+  - "smell / taste / look / feel: «пахнет, на вкус, выглядит» — состояние; «нюхает, пробует, смотрит на» — действие."
+  - "Перемена прямо сейчас (getting late, getting worse) — Continuous."
+items:
+  - q: "— ___? — I'm a nurse. I work at the children's hospital."
+    options: ["What are you doing", "What do you do", "What you do"]
+    answer: 1
+    explain: "Вопрос о профессии → **What do you do?** *What are you doing?* — «что делаешь сейчас»."
+  - q: "— You're very quiet. ___? — Just reading the news."
+    options: ["What do you do", "What are you doing", "What you are doing"]
+    answer: 1
+    explain: "Что происходит прямо сейчас → **What are you doing?**"
+  - q: "Sorry, you're breaking up. ___ me?"
+    options: ["Are you hearing", "Can you hear", "Do you listen"]
+    answer: 1
+    explain: "*hear* = «слышу» — восприятие, а не действие → **Can you hear me?** В Continuous так не говорят."
+  - q: "Mm, something ___ delicious! Are you baking?"
+    options: ["smells", "is smelling", "smell"]
+    answer: 0
+    explain: "«Пахнет» — состояние → **smells**. *is smelling* значило бы «нюхает»."
+  - q: "Why ___ the milk? Is it off?"
+    options: ["do you smell", "are you smelling", "can you smell"]
+    answer: 1
+    explain: "«Нюхаешь» — намеренное действие, идёт сейчас → **are you smelling**."
+  - q: "— I've never tried durian. What does it ___ like? — Sweet, but a bit like onions."
+    options: ["taste", "tasting", "tastes"]
+    answer: 0
+    explain: "Вопрос о впечатлении: **What does it taste like?** После *does* — голый глагол."
+  - q: "Turn on the light — it ___ dark."
+    options: ["gets", "'s getting", "is get"]
+    answer: 1
+    explain: "Перемена происходит прямо сейчас → **'s getting** dark. *It gets dark* — общий факт («обычно темнеет»)."
+  - q: "I've been on my feet all day and I ___ really tired."
+    options: ["tired", "'m", "'m tiring"]
+    answer: 1
+    explain: "*tired* — прилагательное, нужен глагол *be*: **I'm** *tired*. ~~I tired~~ — калька с «я устал»."
+  - q: "Kate ___ this week — she's on holiday in Turkey."
+    options: ["doesn't work", "isn't working", "don't work"]
+    answer: 1
+    explain: "Временно, только на этой неделе → **isn't working**. *doesn't work* значило бы, что у неё вообще нет работы."
+  - q: "You ___ worried. Is everything OK?"
+    options: ["look", "are looking at", "look at"]
+    answer: 0
+    explain: "*look* + прилагательное = «выглядеть» → **look** *worried*. *look at* = «смотреть на»."
+  - q: "This jacket doesn't ___ me any more — it's too small."
+    options: ["fitting", "fit", "fits"]
+    answer: 1
+    explain: "*fit* («подходить по размеру») — глагол состояния; после *doesn't* — голый глагол **fit**."
+  - q: "I ___ on the hill from my window — the view is amazing."
+    options: ["can see the castle", "am seeing the castle", "see at the castle"]
+    answer: 0
+    explain: "«Вижу» — восприятие → **can see**. *I'm seeing* значит «встречаюсь», а *see at* не бывает."

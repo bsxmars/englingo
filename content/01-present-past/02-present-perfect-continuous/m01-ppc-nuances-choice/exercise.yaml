@@ -1,0 +1,56 @@
+title: "Тонкости Present Perfect Continuous"
+type: choice
+intro: "Выбери вариант, который звучит естественно. Подумай: есть ли срок, что важнее — процесс или результат, и не нужен ли тут вовсе не перфект."
+hints:
+  - "always + Present Perfect Simple: I've always lived here."
+  - "Нет for / since / how long — обычно нет и перфекта."
+  - "What have you been doing? — занятие; What have you done? — результат."
+items:
+  - q: "I ___ in this city — I was born here."
+    options: ["'ve always been living", "'ve always lived", "always live"]
+    answer: 1
+    explain: "С *always* («всю жизнь») — Present Perfect **Simple**: *I've always lived*."
+  - q: "She ___ to learn the guitar, and now she's finally taking lessons."
+    options: ["'s always wanted", "always wants", "'s always been wanting"]
+    answer: 0
+    explain: "*always* + Present Perfect Simple: **'s always wanted**."
+  - q: "I ___ Oleg very well — we sit next to each other at work."
+    options: ["'ve known", "know", "'ve been knowing"]
+    answer: 1
+    explain: "Срока нет (*for, since*), просто факт сейчас → **know**. *I've known him for years* — уже с длительностью."
+  - q: "— Sorry I'm late. ___ long? — No, only five minutes."
+    options: ["Have you been waiting", "Are you waiting", "Did you wait"]
+    answer: 0
+    explain: "Ожидание до сих пор → **Have you been waiting long?** *long* здесь без *for*."
+  - q: "Your trainers are covered in mud! ___ football?"
+    options: ["Have you ever played", "Have you been playing", "Do you play"]
+    answer: 1
+    explain: "Видны следы недавнего занятия → **Have you been playing…?** *Have you ever played* — вопрос об опыте."
+  - q: "— I haven't seen you for weeks! What ___? — Oh, working mostly."
+    options: ["have you done", "have you been doing", "did you do"]
+    answer: 1
+    explain: "Чем занимался всё это время → **have you been doing**."
+  - q: "The vase is broken! What ___?"
+    options: ["have you been doing", "have you done", "are you doing"]
+    answer: 1
+    explain: "Вопрос о результате («что ты натворил?») → **have you done**."
+  - q: "I ___ Italian very long, so I can't say much yet."
+    options: ["haven't been learning", "haven't learnt", "don't learn"]
+    answer: 0
+    explain: "*very long* — о длительности → Continuous: **haven't been learning**."
+  - q: "I've been studying for a month, but I ___ very much."
+    options: ["haven't been learning", "haven't learnt", "didn't learn"]
+    answer: 1
+    explain: "*very much* — о количестве, результате → Simple: **haven't learnt**."
+  - q: "There you are! I ___ for you all over the building!"
+    options: ["'ve looked", "'ve been looking", "'m looking"]
+    answer: 1
+    explain: "Искал до этого момента и вот нашёл → **'ve been looking**."
+  - q: "I ___ to ask you — how did the interview go?"
+    options: ["'ve been meaning", "mean", "'ve meant"]
+    answer: 0
+    explain: "Устойчивая фраза: **I've been meaning to…** — «давно собирался». Так же *I've been wanting to…*"
+  - q: "Could you wait ___ me outside? I'll be two minutes."
+    options: ["at", "for", "to"]
+    answer: 1
+    explain: "*wait **for** somebody* — ~~wait me~~ без предлога нельзя."

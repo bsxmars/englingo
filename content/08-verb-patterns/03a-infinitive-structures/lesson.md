@@ -5,6 +5,10 @@ sources:
   - {title: "Oxford Practice Grammar — question word + to-infinitive, for + to-infinitive, see it happen, ing-form structures", url: "https://elt.oup.com/catalogue/items/global/grammar_vocabulary/oxford_practice_grammar/"}
   - {title: "Perfect English Grammar: Gerunds and Infinitives (3)", url: "https://www.perfect-english-grammar.com/gerunds-and-infinitives-exercise-3.html"}
   - {title: "Perfect English Grammar: Gerunds and Infinitives (4)", url: "https://www.perfect-english-grammar.com/gerunds-and-infinitives-exercise-4.html"}
+  - {title: "Видео Vlad and English: урок 54 — Verb + question word + to", url: "https://www.youtube.com/watch?v=0VRFZ_tym2o&t=2347s"}
+  - {title: "Видео Vlad and English: урок 65 — Adjective + to (nice of you to…)", url: "https://www.youtube.com/watch?v=0VRFZ_tym2o&t=15094s"}
+  - {title: "Видео Vlad and English: урок 66 — Afraid to do и afraid of -ing", url: "https://www.youtube.com/watch?v=0VRFZ_tym2o&t=16056s"}
+  - {title: "Видео Vlad and English: урок 67 — See somebody do и see somebody doing", url: "https://www.youtube.com/watch?v=0VRFZ_tym2o&t=17148s"}
 ---
 В прошлых уроках мы выбирали форму **после глагола**: *enjoy doing*, *decide to do*. Но инфинитив и *-ing* живут и в других местах: после вопросительных слов (*I don't know what to say*), после *for* (*It's hard for me to explain*), после предлогов и союзов (*instead of waiting*, *before leaving*), после *see / hear* (*I saw him leave*). Русский в этих местах использует придаточные: «не знаю, **что сказать**», «трудно, **чтобы я** объяснил», «**вместо того чтобы** ждать». Отсюда кальки, которые выдают русскоговорящего. Разберём шесть конструкций.
 
@@ -101,6 +105,32 @@ sources:
 - **Причина:** ***Not knowing** the way, I took a taxi.*
 
 Последние два случая подробно разобраны в модуле 7 (participle clauses). Здесь главное — первые два: в русском там деепричастие («сидела, читая») или «когда», а в английском — просто *-ing*.
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 54. Verb + to** (часть про вопросительные слова)
+
+- [0:39:07](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=2347s) — *what to do, how to get, whether to apply*; *show / tell sb what to do*
+
+**Урок 65. Adjective + to** (часть про *of*)
+
+- [4:11:34](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=15094s) — *it was nice / kind / stupid of you to…*
+
+**Урок 66. Afraid to do и afraid of -ing**
+
+- [4:27:36](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=16056s) — *afraid to do* и *afraid of doing*
+- [4:29:13](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=16153s) — *interested in doing* и *interested to hear*
+- [4:30:15](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=16215s) — *sorry for doing* и *sorry to hear*
+- [4:32:51](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=16371s) — практика
+
+**Урок 67. See somebody do и see somebody doing**
+
+- [4:45:49](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=17149s) — *see sb do*: всё действие целиком
+- [4:47:54](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=17274s) — *see sb doing*: в процессе; *smell something burning*
+- [4:48:57](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=17337s) — в чём разница и когда она неважна
+- [4:50:31](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=17431s) — практика
 
 ## Проверь себя
 

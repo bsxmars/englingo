@@ -162,3 +162,35 @@
   lesson: 06-reported-speech/01a-reported-modals
   q: "Перескажи одним глаголом: *\"Would you like to join us?\" they asked me.*"
   a: "*They **invited me to join** them.*"
+- id: m06-would-when-got
+  lesson: 06-reported-speech/01-reported-statements
+  q: "Перескажи: *\"I'll ring you when I get home,\" Ann said.*"
+  a: "*Ann said she **would ring** me when she **got** home.* После *when* — Past Simple, не *would*."
+- id: m06-would-already-happened
+  lesson: 06-reported-speech/01-reported-statements
+  q: "Переведи: «Он сказал, что вернёт деньги, и вернул»."
+  a: "*He said he **would pay** me back, and he did.* *will* → *would*, даже если действие уже случилось."
+- id: m06-say-goodbye-to
+  lesson: 06-reported-speech/01-reported-statements
+  q: "Найди ошибку: *She said us goodbye and left.*"
+  a: "*She said goodbye **to us** and left.* У *say* человек только через **to**."
+- id: m06-direct-speech-punctuation
+  lesson: 06-reported-speech/01-reported-statements
+  q: "Расставь знаки: *I'm late Tom said*"
+  a: "*\"I'm late,\" Tom said.* — запятая **внутри** кавычек, без тире."
+- id: m06-who-they-were
+  lesson: 06-reported-speech/02-reported-questions
+  q: "Найди ошибку: *She asked me who were those people.*"
+  a: "*She asked me who those people **were**.* В косвенном вопросе *be* уходит после подлежащего."
+- id: m06-where-i-was-from
+  lesson: 06-reported-speech/02-reported-questions
+  q: "Перескажи: *\"Where are you from?\" he asked me.*"
+  a: "*He asked me where I **was from**.* Предлог остаётся в конце."
+- id: m06-asked-if-thought
+  lesson: 06-reported-speech/02-reported-questions
+  q: "Перескажи: *\"Do you think it will snow?\" Mum asked me.*"
+  a: "*Mum asked me if I **thought** it **would** snow.* Сдвигаются оба глагола."
+- id: m06-said-not-to
+  lesson: 06-reported-speech/02-reported-questions
+  q: "Перескажи без «me»: *\"Don't call after ten,\" she said.*"
+  a: "*She **said not to call** after ten.* Человека нет — *say (not) to do*; с человеком — *told me not to*."

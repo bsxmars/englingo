@@ -5,6 +5,7 @@ sources:
   - {title: "Oxford Practice Grammar — существительное + предлог, прилагательное + предлог", url: "https://elt.oup.com/catalogue/items/global/grammar_vocabulary/oxford_practice_grammar/"}
   - {title: "Perfect English Grammar: прилагательные с предлогами, упражнение 1", url: "https://www.perfect-english-grammar.com/adjectives-and-prepositions-exercise-1.html"}
   - {title: "Cambridge B2 First — формат экзамена (Use of English, Part 1 и Part 2)", url: "https://www.cambridgeenglish.org/exams-and-tests/first/"}
+  - {title: "Видео Vlad and English: урок 130 — Прилагательное + предлог, часть 1", url: "https://www.youtube.com/watch?v=NvdqoMJlgCg&t=1241s"}
 ---
 В прошлом уроке ты выучил базовые пары вроде *proud **of*** и *reason **for***. На уровне B2 этого мало: экзамен любит слова, у которых **несколько** предлогов, и каждый даёт свой смысл. *I'm concerned **about** the budget* — «я беспокоюсь о бюджете», а *This report is concerned **with** the budget* — «отчёт посвящён бюджету». Ошибка здесь не просто звучит странно — она меняет смысл.
 
@@ -114,6 +115,15 @@ explain: "Перед *that*-предложением предлог выпада
 1. Записывай сочетания **с примером**, а не голым словом: не *concerned*, а *concerned about the cost* и *concerned with the cost*.
 2. Учи пары с разными предлогами вместе — так мозг запоминает контраст.
 3. Если видишь пропуск после прилагательного или существительного в Part 2, сначала спроси себя: **есть ли у этого слова «свой» предлог?** Если есть — почти наверняка проверяют именно его.
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 130. Прилагательное + предлог, часть 1**
+
+- [0:20:41](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=1241s) — *angry with* человек и *angry about* ситуация
+- [0:25:51](https://www.youtube.com/watch?v=NvdqoMJlgCg&t=1551s) — *sorry about* и *sorry for*
 
 ## Практика
 

@@ -1,0 +1,64 @@
+title: "won't, shall, will be: перефразирование (B2 First)"
+type: transform
+intro: |
+  Закончи второе предложение так, чтобы оно значило то же, что и первое. Используй **ключевое слово**, не меняя его формы, и впиши от **двух до пяти слов** (включая ключевое).
+hints:
+  - "«отказывается», «никак не…» → won't + глагол."
+  - "«мне…?», «что нам…?» → Shall I / Shall we."
+  - "«наверняка сейчас…» → will be."
+items:
+  - q: "The car refuses to start, so I'll have to take a taxi."
+    key: "WON'T"
+    stem: "The car ___, so I'll have to take a taxi."
+    answers: ["won't start"]
+    explain: "Вещь «не слушается» прямо сейчас → **won't start**. Это не будущее, а отказ."
+  - q: "Kate refuses to tell me what happened at the party."
+    key: "WON'T"
+    stem: "Kate ___ what happened at the party."
+    answers: ["won't tell me"]
+    explain: "Человек отказывается что-то делать → **won't** + глагол: *She won't tell me*."
+  - q: "Do you want me to carry your suitcase?"
+    key: "SHALL"
+    stem: "___ your suitcase?"
+    answers: ["Shall I carry", "Shall I take"]
+    explain: "Предлагаешь помощь вопросом → **Shall I…?** («мне понести?»)."
+  - q: "What do you suggest we do this evening?"
+    key: "SHALL"
+    stem: "What ___ this evening?"
+    answers: ["shall we do"]
+    explain: "Просим подсказать решение → **What shall we do?** — «что будем делать?»"
+  - q: "I'm sure Anna is at work right now, so don't ring her."
+    key: "BE"
+    stem: "Don't ring Anna — she ___ at work right now."
+    answers: ["will be", "'ll be", "will definitely be", "'ll definitely be"]
+    explain: "Уверенная догадка о настоящем → **she'll be** at work: «она наверняка на работе»."
+  - q: "Someone is ringing the bell. I'm sure it's Max — he said he'd come at eight."
+    key: "THAT"
+    stem: "Someone's ringing the bell. ___ Max — he said he'd come at eight."
+    answers: ["That will be", "That'll be", "That must be"]
+    explain: "**That'll be Max** — «это, должно быть, Макс»: *will* как вывод о настоящем. *That must be* — тот же смысл через модальный глагол."
+  - q: "I promise to remember your birthday this year."
+    key: "FORGET"
+    stem: "I ___ your birthday this year, I promise."
+    answers: ["won't forget", "will not forget"]
+    explain: "Обещание → **won't forget**. *I don't forget* — общее свойство, а не обещание."
+  - q: "Tom has already offered to drive me to the airport — it's all arranged."
+    key: "GOING"
+    stem: "Thanks, but Tom ___ me to the airport."
+    answers: ["is going to drive", "is going to take", "is going to give"]
+    explain: "Решение принято заранее → **is going to drive**. Present Continuous (*is driving me*) тоже передал бы смысл, но ключевое слово — GOING."
+  - q: "According to the timetable, our train departs at 6:40 tomorrow."
+    key: "LEAVES"
+    stem: "Our train ___ 6:40 tomorrow."
+    answers: ["leaves at"]
+    explain: "Расписание → Present Simple даже о будущем: **leaves at** 6:40."
+  - q: "I have a dentist's appointment on Thursday."
+    key: "GOT"
+    stem: "I ___ with the dentist on Thursday."
+    answers: ["have got an appointment", "'ve got an appointment"]
+    explain: "Про приёмы и экзамены в будущем — **have got**: *I've got an appointment on Thursday*."
+  - q: "I'm about to go to bed. Good night!"
+    key: "OFF"
+    stem: "I'm ___. Good night!"
+    answers: ["off to bed"]
+    explain: "**I'm off to bed** — «я спать»: Present Continuous смысла «прямо сейчас ухожу»."

@@ -4,6 +4,9 @@ book: [76, 77, 95]
 sources:
   - {title: "Oxford Practice Grammar — исчисляемые и неисчисляемые существительные", url: "https://elt.oup.com/catalogue/items/global/grammar_vocabulary/oxford_practice_grammar/"}
   - {title: "Perfect English Grammar: a little или a few", url: "https://www.perfect-english-grammar.com/a-little-a-few-exercise-1.html"}
+  - {title: "Видео Vlad and English: урок 69 — исчисляемые и неисчисляемые, часть 1", url: "https://www.youtube.com/watch?v=eWTY7yqu2lE&t=0s"}
+  - {title: "Видео Vlad and English: урок 70 — исчисляемые и неисчисляемые, часть 2", url: "https://www.youtube.com/watch?v=eWTY7yqu2lE&t=1133s"}
+  - {title: "Видео Vlad and English: урок 87 — much, many, little, few, a lot, plenty", url: "https://www.youtube.com/watch?v=1_FACNmXj9M&t=6430s"}
 ---
 От того, исчисляемое существительное или нет, зависит почти всё вокруг него: нужен ли *a/an*, бывает ли множественное число, какой глагол (*is* или *are*), что ставить — *many* или *much*, *few* или *little*.
 
@@ -47,6 +50,19 @@ sources:
 > **Типичная ошибка русскоговорящих:** ~~an advice~~, ~~informations~~, ~~a good news~~, ~~new furnitures~~, ~~a big progress~~. Правильно: *some advice / a piece of advice*, *information*, *good news*, *new furniture*, *a lot of progress*.
 
 В тот же список: **behaviour** (поведение), **fun** (*We had great fun*, не ~~a great fun~~), **luck** (*Good luck!*), **rubbish / litter** (мусор), **scenery** (пейзажи), **housework** (работа по дому).
+
+И ещё несколько слов, которые русскоговорящие часто «считают»:
+
+| Неисчисляемое | Как сказать иначе |
+|---|---|
+| **permission** — разрешение: *You need **permission** to park here.* | *a permit* — разрешение-документ: *a work permit* |
+| **bread** — хлеб: *I'll buy some **bread**.* ~~a bread~~ | *a loaf of bread, a roll* (булочка) |
+| **damage** — ущерб: *The storm caused a lot of **damage**.* ~~damages~~ | — |
+| **chaos** — хаос: *There was complete **chaos**.* ~~a chaos~~ | — |
+| **scenery** — пейзажи, природа вокруг: *What beautiful **scenery**!* | *a view* — вид: *What **a** beautiful **view**!* |
+| **paper** — бумага: *I need some **paper**.* | **papers** — документы: *Have your **papers** ready.* |
+
+**fruit** обычно неисчисляемое: *Do you eat much **fruit**? I bought some **fruit**.* Форма *fruits* встречается, когда говорят о **видах** фруктов: *tropical fruits like mango and papaya*.
 
 Ещё два коварных слова: **hair** (волосы на голове — неисчисляемое: *She has long hair*, а *a hair* — один волосок, например в супе) и **money** (*The money **is** on the table*; считаем не деньги, а *dollars, roubles*).
 
@@ -113,6 +129,46 @@ sources:
 
 > **Типичная ошибка русскоговорящих:** ~~a few money~~, ~~a little friends~~. *few* — только с тем, что можно посчитать; *little* — с тем, что нельзя.
 
+### plenty of и little to do
+
+**plenty of** = «полно, более чем достаточно» — с любыми существительными: *Don't rush, we've got **plenty of** time. There are **plenty of** cafés nearby.* Без существительного — **plenty**, а с глаголом — **plenty to** + глагол: *Have some more cake, there's **plenty**. There's **plenty to** see in Kazan.*
+
+**little / few** тоже работают без существительного: *There's **little to do** in this village* = очень мало занятий. С исчисляемым словом — **few**: *There are **few things** to do.*
+
+Устойчивые фразы с **a few**: ***a few days ago*** (несколько дней назад), ***a few** minutes later*, ***in a few** weeks*. Без *a* здесь нельзя: ~~few days ago~~ значит «мало дней назад» и звучит странно.
+
+> **Типичная ошибка русскоговорящих:** ~~We have plenty time~~, ~~There's plenty things to do~~. С существительным нужен **of**: *plenty **of** time*, *There are plenty **of** things to do*. Или без существительного: *There's plenty **to do***.
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 69. Исчисляемые и неисчисляемые, часть 1**
+
+- [0:00:00](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=0s) — что можно посчитать, а что нет: *bananas* и *rice*
+- [0:03:35](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=215s) — исчисляемое в единственном числе не бывает «голым»
+- [0:05:07](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=307s) — неисчисляемые без артикля, *some rice, a bowl of rice*
+- [0:07:43](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=463s) — *many / much*, *a few / few*, *a little / little*
+- [0:10:17](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=617s) — практика
+
+**Урок 70. Исчисляемые и неисчисляемые, часть 2**
+
+- [0:18:53](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=1133s) — начало урока
+- [0:19:24](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=1164s) — слова с двумя значениями: *a noise / noise, a paper / paper, a hair / hair*
+- [0:21:29](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=1289s) — напитки: *coffee* и *two coffees*
+- [0:22:01](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=1321s) — список неисчисляемых: *advice, bread, chaos, damage, news, scenery…*
+- [0:26:42](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=1602s) — *travel* и *a trip*, *work* и *a job*, *scenery* и *a view*
+- [0:29:46](https://www.youtube.com/watch?v=eWTY7yqu2lE&t=1786s) — практика
+
+**Урок 87. Much, many, little, few, a lot, plenty**
+
+- [1:47:10](https://www.youtube.com/watch?v=1_FACNmXj9M&t=6430s) — начало урока: обзор всех слов
+- [1:50:11](https://www.youtube.com/watch?v=1_FACNmXj9M&t=6611s) — *plenty of* и *plenty to do*
+- [1:50:42](https://www.youtube.com/watch?v=1_FACNmXj9M&t=6642s) — *much* в утверждениях звучит книжно; *too much, so much*
+- [1:52:15](https://www.youtube.com/watch?v=1_FACNmXj9M&t=6735s) — *little* = not much, *few* = not many
+- [1:55:22](https://www.youtube.com/watch?v=1_FACNmXj9M&t=6922s) — *only a few, only a little*
+- [1:56:26](https://www.youtube.com/watch?v=1_FACNmXj9M&t=6986s) — практика
+
 ## Проверь себя
 
 ```quiz
@@ -141,4 +197,7 @@ explain: "**few** без артикля — «мало, почти никто».
 ```
 
 ```exercise m09-countable-transform
+```
+
+```exercise m09-countable-error
 ```

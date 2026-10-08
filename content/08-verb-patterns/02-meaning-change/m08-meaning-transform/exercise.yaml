@@ -51,3 +51,13 @@ items:
     stem: "He ___ even though nobody was listening."
     answers: ["went on talking", "went on speaking"]
     explain: "*continued doing* = **went on doing** — продолжал то же самое."
+  - q: "I'd rather walk than take the bus."
+    key: "PREFER"
+    stem: "I'd ___ than take the bus."
+    answers: ["prefer to walk rather"]
+    explain: "*would rather do than do* = **would prefer to do rather than do**. После *prefer* нужен *to*, а второе действие вводится через *rather than*."
+  - q: "I like playing football more than watching it."
+    key: "TO"
+    stem: "I prefer playing football ___ it."
+    answers: ["to watching"]
+    explain: "**prefer doing to doing**: *to* здесь предлог, поэтому после него *watching*."

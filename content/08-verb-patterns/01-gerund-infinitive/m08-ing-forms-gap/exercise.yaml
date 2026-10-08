@@ -1,0 +1,44 @@
+title: "being done, having done, have trouble doing"
+type: gap
+intro: "Поставь глагол в скобках в нужную форму: *-ing*, *being + V3*, *having + V3*, *to do*, *to be doing* или *to have done*. Впиши только то, что стоит на месте пропуска."
+hints:
+  - "Действие совершают над подлежащим → being + V3."
+  - "have trouble, spend time, be busy, go + -ing."
+  - "pretend / claim + to be doing (процесс) или to have done (уже было)."
+items:
+  - q: "He finally admitted ___ (take) the company laptop home without permission."
+    answers: ["taking", "having taken"]
+    explain: "**admit** + -ing. *having taken* подчёркивает, что это уже случилось, но простой *taking* тоже говорит о прошлом."
+  - q: "I really hate ___ (interrupt) when I'm explaining something."
+    answers: ["being interrupted"]
+    explain: "Перебивают **тебя** → пассивный -ing: **being interrupted**."
+  - q: "We got into the building without ___ (see) by the security guard."
+    answers: ["being seen"]
+    explain: "После предлога *without* — -ing, а видели **нас** → **being seen**."
+  - q: "I had real trouble ___ (find) a flat near the office."
+    answers: ["finding"]
+    explain: "**have trouble (in) doing** — с трудом что-то сделать. Не ~~trouble to find~~."
+  - q: "She spent the whole weekend ___ (rewrite) her CV."
+    answers: ["rewriting"]
+    explain: "**spend time doing**: *spent the weekend rewriting*. Русское «потратила, чтобы переписать» не переводится через *to*."
+  - q: "Sorry, I can't talk now. I'm busy ___ (prepare) for tomorrow's demo."
+    answers: ["preparing"]
+    explain: "**be busy doing** — быть занятым чем-то."
+  - q: "If the weather's good on Saturday, let's go ___ (hike) in the hills."
+    answers: ["hiking"]
+    explain: "Досуг и спорт: **go + -ing**: *go hiking, go swimming*. Без *to* и без артикля."
+  - q: "The client threatened ___ (cancel) the contract if we missed another deadline."
+    answers: ["to cancel"]
+    explain: "**threaten** + to: *threatened to cancel*."
+  - q: "He claims ___ (meet) Elon Musk at a conference last year."
+    answers: ["to have met"]
+    explain: "Утверждает **сейчас** о том, что было **раньше** → перфектный инфинитив: **claims to have met**."
+  - q: "When I came in, the kids pretended ___ (sleep), but I could hear them giggling."
+    answers: ["to be sleeping", "to sleep"]
+    explain: "**pretend** + to. *to be sleeping* подчёркивает процесс («будто спят прямо сейчас»), *to sleep* тоже допустимо."
+  - q: "We thought about the offer for a week but in the end decided against ___ (accept) it."
+    answers: ["accepting"]
+    explain: "**decide against doing** — решить не делать. После предлога *against* — -ing."
+  - q: "I wouldn't dream of ___ (ask) my parents for money at my age."
+    answers: ["asking"]
+    explain: "**wouldn't dream of doing** — «мне бы и в голову не пришло». После *of* — -ing."

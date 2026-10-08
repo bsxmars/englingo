@@ -1,0 +1,44 @@
+title: "Past Simple: форма без ошибок"
+type: gap
+intro: "Поставь глагол в скобках в Past Simple. Следи за *was / were*, орфографией *-ed* и неправильными глаголами."
+hints:
+  - "be: was / were; вопрос и отрицание — без did."
+  - "study → studied, stop → stopped, plan → planned."
+  - "teach → taught, catch → caught; cut, put, cost, hurt не меняются."
+items:
+  - q: "___ (you / be) at the office on Friday? I didn't see you."
+    answers: ["Were you"]
+    explain: "У *be* свой вопрос: **Were you…?** ~~Did you be~~ не бывает."
+  - q: "Sorry I didn't answer — I ___ (not / be) near my phone."
+    answers: ["wasn't", "was not"]
+    explain: "Отрицание с *be* — тоже без *did*: **wasn't**."
+  - q: "My first English teacher ___ (teach) us lots of songs."
+    answers: ["taught"]
+    explain: "*teach* — неправильный глагол: **taught**. ~~teached~~ — ошибка по аналогии."
+  - q: "The cat ___ (catch) a mouse last night and left it by the door."
+    answers: ["caught"]
+    explain: "*catch → **caught***, а не ~~catched~~."
+  - q: "I ___ (study) French at school, but I've forgotten most of it."
+    answers: ["studied"]
+    explain: "Согласная + *y* → **-ied**: *studied*."
+  - q: "The bus ___ (stop) right outside our house."
+    answers: ["stopped"]
+    explain: "Короткий слог «согласная-гласная-согласная» → удвоение: **stopped**."
+  - q: "We ___ (plan) everything carefully, but it still went wrong."
+    answers: ["planned"]
+    explain: "*plan → **planned***: последняя *n* удваивается."
+  - q: "Our tickets ___ (cost) only 15 pounds because we booked early."
+    answers: ["cost"]
+    explain: "*cost* — форма не меняется: **cost**. Без *-s* — значит, прошедшее."
+  - q: "I ___ (hurt) my back when I was moving the sofa."
+    answers: ["hurt"]
+    explain: "*hurt — hurt — hurt*: прошедшее совпадает с настоящим → **hurt**."
+  - q: "— Where ___ (the keys / be)? — They were in my coat pocket."
+    answers: ["were the keys"]
+    explain: "Вопрос с *be* — инверсия без *did*: *Where **were the keys**?* (*keys* — множественное → *were*)."
+  - q: "She ___ (not / enjoy) the film, so she left early."
+    answers: ["didn't enjoy", "did not enjoy"]
+    explain: "Обычный глагол: отрицание **didn't** + голая форма *enjoy*. ~~didn't enjoyed~~ — ошибка."
+  - q: "My dad ___ (buy) his first car when he was forty."
+    answers: ["bought"]
+    explain: "*buy → **bought***, а не ~~buyed~~."

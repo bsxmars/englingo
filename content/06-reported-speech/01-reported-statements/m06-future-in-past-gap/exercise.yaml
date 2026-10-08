@@ -1,0 +1,44 @@
+title: "would, when she got back и say goodbye to"
+type: gap
+intro: "Впиши недостающие слова. В скобках — глагол в начальной форме. Где скобок нет, впиши одно слово по смыслу. Пересказываем позже, поэтому времена сдвигаются. Сокращения засчитываются."
+hints:
+  - "will → would в главной части, даже если обещание уже выполнено."
+  - "После when, as soon as, before, until в пересказе — прошедшее время, а не would."
+  - "say goodbye / thank you / something **to** sb; tell sb the truth."
+items:
+  - q: "\"I'll pay you back on Friday.\" → Mia said she ___ (pay) me back on Friday — and she did."
+    answers: ["would pay", "'d pay"]
+    explain: "*will* после *said* превращается в **would**. Это «будущее, увиденное из прошлого», и неважно, что деньги уже вернули."
+  - q: "\"I'll text you when I get home.\" → Sam said he would text me when he ___ (get) home."
+    answers: ["got"]
+    explain: "В прямой речи после *when* стоит Present Simple, в пересказе он сдвигается в Past Simple: **got**. ~~when he would get~~ — ошибка."
+  - q: "\"We'll start as soon as everyone arrives.\" → The host said they would start as soon as everyone ___ (arrive)."
+    answers: ["arrived", "had arrived"]
+    explain: "*as soon as* — союз времени: *would* только в главной части, а здесь Past Simple **arrived** (или *had arrived*, чтобы подчеркнуть завершённость)."
+  - q: "\"I won't leave until the build finishes.\" → Pavel said he wouldn't leave until the build ___ (finish)."
+    answers: ["finished", "had finished"]
+    explain: "После *until* будущее выражается настоящим, а в пересказе — прошедшим: **finished**."
+  - q: "Last spring Oleg promised he ___ (fix) the fence, but he never did."
+    answers: ["would fix", "'d fix"]
+    explain: "Обещание из прошлого о будущем → **would fix**. В русском «пообещал, что починит» — будущее время, в английском — *would*."
+  - q: "\"I'll call you before I leave.\" → Nina said she'd call me before she ___ (leave)."
+    answers: ["left"]
+    explain: "*before* — союз времени, поэтому Past Simple **left**, а не *would leave*."
+  - q: "\"I won't be late.\" → Last night Max promised he ___ (not / be) late."
+    answers: ["wouldn't be", "would not be"]
+    explain: "*won't* = *will not* → **wouldn't**. Сдвигается только первое слово: *be* остаётся."
+  - q: "\"I'm going away for a week, and I'll be back on the 10th.\" → Last month Kate told me she was going away for a week and ___ (be) back on the 10th."
+    answers: ["would be", "'d be"]
+    explain: "Обе части сдвигаются: *I'm going* → *was going*, *I'll be* → **would be**."
+  - q: "Lena said goodbye ___ everyone and left the office."
+    answers: ["to"]
+    explain: "**say goodbye to sb**: у *say* человек всегда через *to*. ~~said everyone goodbye~~ — ошибка."
+  - q: "What did you ___ to the police?"
+    answers: ["say"]
+    explain: "Есть *to the police*, значит, нужен **say**: *say sth to sb*. С *tell* было бы *What did you tell the police?* без *to*."
+  - q: "Why didn't you ___ the police the truth?"
+    answers: ["tell"]
+    explain: "**tell sb the truth**: человек сразу после глагола, без предлога. Это возможно только с *tell*."
+  - q: "Don't forget to say thank you ___ your grandmother for the present."
+    answers: ["to"]
+    explain: "**say thank you to sb** — как *say goodbye to*. ~~say your grandmother thank you~~ — ошибка."

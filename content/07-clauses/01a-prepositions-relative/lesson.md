@@ -6,6 +6,9 @@ sources:
   - {title: "Perfect English Grammar: who или whom", url: "https://www.perfect-english-grammar.com/who-or-whom-exercise.html"}
   - {title: "Perfect English Grammar: where или that", url: "https://www.perfect-english-grammar.com/where-or-that-exercise.html"}
   - {title: "Perfect English Grammar: когда местоимение опускается", url: "https://www.perfect-english-grammar.com/dropping-the-relative-pronoun-exercise.html"}
+  - {title: "Видео Vlad and English: урок 93 — придаточные с who/that/which и без них", url: "https://www.youtube.com/watch?v=1_FACNmXj9M&t=13157s"}
+  - {title: "Видео Vlad and English: урок 94 — whose, whom, where", url: "https://www.youtube.com/watch?v=1_FACNmXj9M&t=14521s"}
+  - {title: "Видео Vlad and English: урок 96 — предлог + whom / which, all of whom", url: "https://www.youtube.com/watch?v=1_FACNmXj9M&t=17274s"}
 ---
 В русском предлог всегда стоит **перед** «который»: «друг, **с которым** я живу», «тема, **о которой** все спорят», «город, **в котором** я вырос». Поэтому русскоговорящий автоматически пишет *the friend with whom I live* — грамматически верно, но в разговоре так звучит лектор XIX века. Носитель скажет *the friend I live **with***. В этом уроке разберём, где ставить предлог, когда нужен *whom*, чем *where* отличается от *which* и как обойтись без *how* в *the way*.
 
@@ -104,6 +107,27 @@ options: ["I remember a time where we had no internet.", "I remember a time when
 answer: 1
 explain: "Время → **when** (или *that*). *where* — для места и абстрактных «ситуаций», *in where* не бывает."
 ```
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 93. Придаточные с who / that / which и без них**
+
+- [3:43:20](https://www.youtube.com/watch?v=1_FACNmXj9M&t=13400s) — предлог остаётся при глаголе: *the books you were looking for*
+
+**Урок 94. whose, whom, where**
+
+- [4:05:52](https://www.youtube.com/watch?v=1_FACNmXj9M&t=14752s) — *whom* как объект и после предлога
+- [4:07:58](https://www.youtube.com/watch?v=1_FACNmXj9M&t=14878s) — *where* для места
+- [4:09:34](https://www.youtube.com/watch?v=1_FACNmXj9M&t=14974s) — *the day, the time, the reason*
+- [4:11:11](https://www.youtube.com/watch?v=1_FACNmXj9M&t=15071s) — практика
+
+**Урок 96. Предлог + whom / which**
+
+- [4:47:54](https://www.youtube.com/watch?v=1_FACNmXj9M&t=17274s) — *to whom, with whom, without which*
+- [4:48:56](https://www.youtube.com/watch?v=1_FACNmXj9M&t=17336s) — разговорный вариант: предлог после глагола
+- [4:53:30](https://www.youtube.com/watch?v=1_FACNmXj9M&t=17610s) — практика: предлог + *whom / which*
 
 ## Практика
 

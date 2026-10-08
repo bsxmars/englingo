@@ -1,0 +1,55 @@
+title: "the или без артикля: имена и названия"
+type: choice
+intro: "Выбери вариант. «—» значит, что артикль не нужен."
+hints:
+  - "Первое слово — имя (Heathrow, Harvard) → обычно без the. Есть of или первое слово обычное → the."
+  - "Отели, театры, музеи, газеты, реки, моря — с the. Улицы, парки, компании, озёра — без."
+items:
+  - q: "We're meeting outside ___ National Gallery at two."
+    options: ["the", "—"]
+    answer: 0
+    explain: "Первое слово — прилагательное *National*, а не имя, и это музей → **the National Gallery**."
+  - q: "My flight lands at ___ Gatwick Airport at 6 a.m."
+    options: ["the", "—"]
+    answer: 1
+    explain: "Имя + тип здания (*Gatwick* + *Airport*) → без артикля, как *Heathrow Airport, Victoria Station*."
+  - q: "They live in a small flat just off ___ Baker Street."
+    options: ["the", "—"]
+    answer: 1
+    explain: "Улицы, площади и парки — без артикля: *Baker Street, Red Square, Hyde Park*."
+  - q: "Is ___ Dr Ahmed available this afternoon?"
+    options: ["the", "—"]
+    answer: 1
+    explain: "Титул + имя → без артикля: *Dr Ahmed, Mr Brown*. С артиклем — только без имени: *Is **the** doctor available?*"
+  - q: "___ Wilsons have just bought a house in the country."
+    options: ["The", "—"]
+    answer: 0
+    explain: "Фамилия во множественном числе = вся семья → **the Wilsons**, глагол во множественном (*have*)."
+  - q: "We spent our honeymoon in ___ Maldives."
+    options: ["the", "—"]
+    answer: 0
+    explain: "Группа островов → **the**: *the Maldives, the Canaries*. Один остров — без: *Bali, Sicily*."
+  - q: "The city is in ___ north of Portugal."
+    options: ["the", "—"]
+    answer: 0
+    explain: "Сторона света как часть территории → **the north**. Без артикля было бы *in northern Portugal*."
+  - q: "Most of the country's wine comes from ___ southern France."
+    options: ["the", "—"]
+    answer: 1
+    explain: "Прилагательное *southern* + название → без артикля: *southern France, eastern Europe*."
+  - q: "She works as a journalist for ___ Guardian."
+    options: ["the", "—"]
+    answer: 0
+    explain: "Названия газет идут с **the**: *the Guardian, the Times, the Financial Times*."
+  - q: "My brother got a job at ___ Google last year."
+    options: ["the", "—"]
+    answer: 1
+    explain: "Компании и бренды — без артикля: *Google, Toyota, Lufthansa*."
+  - q: "Have you ever been to ___ Lake Como?"
+    options: ["the", "—"]
+    answer: 1
+    explain: "*Lake* + имя → без артикля: *Lake Como, Lake Baikal*. Но реки и моря — с **the**."
+  - q: "NASA is working with ___ European Space Agency on the mission."
+    options: ["the", "—"]
+    answer: 0
+    explain: "Организация с обычными словами в названии → **the European Space Agency**. *NASA* читается как слово, поэтому без артикля."

@@ -1,0 +1,43 @@
+title: "Наречия в середине: have to, all, even, still"
+type: error
+intro: "В каждом предложении **одна** ошибка: наречие или другое слово стоит не на своём месте либо пропущено. Исправь предложение целиком."
+hints:
+  - "Наречия середины: после be и первого вспомогательного, перед смысловым глаголом и перед have to."
+  - "Если смыслового глагола нет, наречие стоит перед вспомогательным: he always is."
+items:
+  - q: "I have always to explain everything twice."
+    answers: ["I always have to explain everything twice."]
+    explain: "*have to* ведёт себя как обычный глагол, поэтому наречие частоты стоит **перед** ним: *always have to*."
+  - q: "All we agreed to postpone the release."
+    answers: ["We all agreed to postpone the release.", "All of us agreed to postpone the release."]
+    explain: "*all* после местоимения-подлежащего, перед глаголом: *We all agreed*. Русское «все мы» дословно не переносим."
+  - q: "She promised not to be late, but she is always."
+    answers: ["She promised not to be late, but she always is."]
+    explain: "Смысловая часть (*late*) опущена, поэтому наречие стоит **перед** вспомогательным: *she always is*."
+  - q: "I won't probably have time to call you tonight."
+    answers: ["I probably won't have time to call you tonight.", "I will probably not have time to call you tonight."]
+    explain: "*probably* стоит **перед** отрицательной формой *won't*: *I probably won't*."
+  - q: "It will be probably cancelled because of the storm."
+    answers: ["It will probably be cancelled because of the storm."]
+    explain: "При нескольких вспомогательных наречие ставим после **первого**: *will probably be cancelled*."
+  - q: "He even didn't say thank you."
+    answers: ["He didn't even say thank you.", "He did not even say thank you."]
+    explain: "*even* — наречие середины: после вспомогательного *didn't*, перед смысловым *say*."
+  - q: "I'm not still ready, so start without me."
+    answers: ["I'm still not ready, so start without me.", "I'm not ready yet, so start without me."]
+    explain: "*still* стоит **перед** отрицанием (*still not*), а *yet* — в конце (*not ready yet*)."
+  - q: "Even I stand on a chair, I can't reach the top shelf."
+    answers: ["Even if I stand on a chair, I can't reach the top shelf."]
+    explain: "Перед придаточным с подлежащим и глаголом нужен союз **even if**. Одно *even* ставится только перед словом или фразой."
+  - q: "We spent the two first days of the trip in Rome."
+    answers: ["We spent the first two days of the trip in Rome."]
+    explain: "*the first / next / last* идут **перед** числом: *the first two days*."
+  - q: "She was wearing a red yellow scarf."
+    answers: ["She was wearing a red and yellow scarf."]
+    explain: "Два цвета соединяем через **and**: *a red and yellow scarf*."
+  - q: "Lucy works no longer here."
+    answers: ["Lucy no longer works here.", "Lucy doesn't work here any more.", "Lucy doesn't work here anymore.", "Lucy doesn't work here any longer."]
+    explain: "*no longer* стоит в середине, перед смысловым глаголом. Разговорный вариант — *not … any more* в конце."
+  - q: "My parents have retired both, so they travel a lot."
+    answers: ["My parents have both retired, so they travel a lot.", "Both my parents have retired, so they travel a lot."]
+    explain: "*both* — после первого вспомогательного, перед причастием: *have both retired*. Или в начале с существительным: *Both my parents*."

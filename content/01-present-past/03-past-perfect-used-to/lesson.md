@@ -8,6 +8,10 @@ sources:
   - {title: "Perfect English Grammar: Past Perfect или Past Perfect Continuous", url: "https://www.perfect-english-grammar.com/past-perfect-past-perfect-continuous-exercise-1.html"}
   - {title: "Perfect English Grammar: used to", url: "https://www.perfect-english-grammar.com/used-to-exercise-1.html"}
   - {title: "Perfect English Grammar: used to / be used to", url: "https://www.perfect-english-grammar.com/used-to-exercise-3.html"}
+  - {title: "Видео Vlad and English: урок 15 — Past Perfect", url: "https://www.youtube.com/watch?v=KHAQFIjPg5E&t=18656s"}
+  - {title: "Видео Vlad and English: урок 16 — Past Perfect Continuous", url: "https://www.youtube.com/watch?v=KHAQFIjPg5E&t=20026s"}
+  - {title: "Видео Vlad and English: урок 18 — used to", url: "https://www.youtube.com/watch?v=KHAQFIjPg5E&t=22420s"}
+  - {title: "Видео Vlad and English: урок 61 — be used to и get used to", url: "https://www.youtube.com/watch?v=0VRFZ_tym2o&t=10624s"}
 ---
 Когда ты рассказываешь историю по-русски, тебе хватает одного прошедшего времени и слов вроде «уже», «до этого», «как раз». В английском для рассказа есть целый набор — **narrative tenses**. Каждое время отвечает за свой «слой» истории: что произошло, что было фоном, что случилось ещё раньше. Освоишь его — и любая история (на собеседовании, в письме, на экзамене) зазвучит по-взрослому.
 
@@ -53,6 +57,8 @@ Past Perfect нужен, когда ты уже стоишь в прошлом �
 - When I arrived, the meeting **started**. — пришёл, и тогда началось.
 - When I arrived, the meeting **had started**. — пришёл, а оно уже идёт.
 
+**had had** — не опечатка, а нормальная форма: Past Perfect от *have*. *They weren't hungry — they **had** just **had** lunch.* В речи обычно сокращают: *they'd had*.
+
 > **Типичная ошибка русскоговорящих:** ставить Past Perfect просто «для давнего прошлого». ~~I had been to Spain in 2015~~ → *I **went** to Spain in 2015.* Past Perfect нужен только когда есть **другой, более поздний момент в прошлом**, относительно которого мы смотрим назад.
 
 ### Past Perfect Continuous: как долго до того
@@ -92,7 +98,16 @@ Past Perfect — это Present Perfect, перенесённый в прошл�
 - **After** she **had checked** / **After** she **checked** the figures, she sent the report.
 - I didn't leave **until** I **had finished** / **until** I **finished** the task.
 
+**by the time** («к тому времени как») почти всегда тянет Past Perfect в главной части: к моменту X действие уже завершилось.
+
+- **By the time** we **got** to the cinema, the film **had** already **started**.
+- **By the time** I **found** a charger, my phone **had died**.
+
 А вот после *when* выбор меняет смысл: *When the guests **arrived**, we **ate**.* — сначала пришли, потом ели. *When the guests **arrived**, we **had eaten**.* — мы поели до их прихода. Если одно короткое действие сразу следует за другим, оба — в Past Simple: *When the alarm **rang**, everyone **left** the building.*
+
+### Past Perfect часто необязателен
+
+Past Perfect нужен, чтобы **показать порядок**, если иначе он неясен. Когда порядок и так понятен — по союзу или по логике рассказа, — носители часто обходятся Past Simple: *I **lost** the pen that you **gave** me.* В американском английском так говорят ещё чаще, чем в британском. Поэтому Past Perfect — не обязательная «грамматика давнего», а инструмент ясности. Но если без него смысл меняется (*When I arrived, the meeting **had started*** / ***started***), он обязателен.
 
 ## used to и would: привычки в прошлом
 
@@ -105,6 +120,28 @@ Past Perfect — это Present Perfect, перенесённый в прошл�
 | ? | **Did** you **use to** live here? |
 
 Обрати внимание: после *did / didn't* пишется **use** без *d*. Вместо *didn't use to* можно сказать **never used to**: *We **never used to** lock the door.*
+
+В коротком ответе глагол после *used to* опускают, *to* остаётся: — *Do you play chess?* — ***No, but I used to.*** (= раньше играл).
+
+Произношение: *used to* читается слитно, /ˈjuːstə/ — с глухим /s/, в отличие от *used* «использовал» /juːzd/.
+
+### used to = было, а теперь не так
+
+*used to* всегда подразумевает **перемену**: раньше было, сейчас нет. Если ничего не менялось, *used to* не нужен:
+
+- I **used to play** tennis. — раньше играл, теперь нет.
+- I**'ve never played** tennis. — никогда не играл (и не играю). ~~I didn't use to play tennis~~ здесь звучит так, будто сейчас играешь.
+
+Для одного законченного факта или срока *used to* не подходит: ~~I used to live in Rome for three years~~ → *I **lived** in Rome for three years.* Привычку в прошлом можно сказать и простым Past Simple (*She **travelled** a lot when she was young*), но *used to* яснее подчёркивает «раньше — а теперь нет».
+
+### used to или was doing
+
+По-русски и то и другое — «смотрел», «играл», но смысл разный:
+
+- I **used to watch** cartoons every morning. — много раз, привычка.
+- I **was watching** cartoons when the phone rang. — один раз, в процессе.
+
+~~I used to watch TV when you called~~ — ошибка: звонок был один, а *used to* — про повторяющееся.
 
 **used to** работает и для действий, и для **состояний**:
 
@@ -135,7 +172,51 @@ Past Perfect — это Present Perfect, перенесённый в прошл�
 - She **isn't used to driving** on the left.
 - You'll soon **get used to** the new office.
 
+После *be / get used to* может стоять и просто существительное или местоимение: *I'm used to **him** now. We'll get used to **the noise**.* А «я не привык, чтобы мне…» — пассивное *-ing*: *I'm not used to **being told** what to do.*
+
+**be used to** — состояние («я привычен к этому»), **get used to** — процесс («привыкаю, привык, привыкну»). Поэтому процесс часто стоит в Continuous: *I**'m** slowly **getting used to** the time difference.*
+
+> **Типичная ошибка русскоговорящих:** путать три конструкции. *I used to live alone* — раньше жил один. *I'm used to living alone* — я привык жить один. *I'm getting used to living alone* — я привыкаю жить один.
+
 > **B2-уровень:** *be used to* и *get used to* работают во всех временах: *I**'ve got used to** it*, *I**'ll never get used to** this weather*, *I **wasn't used to** such long days.* А *used to* (привычка в прошлом) — только про прошлое: «I use to» в настоящем не бывает.
+
+## Видео
+
+Тот же материал в видеокурсе Vlad and English по учебнику Мёрфи. Смотри теорию, а на практике ставь на паузу и отвечай сам.
+
+**Урок 15. Past Perfect**
+
+- [5:10:57](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=18657s) — идея времени
+- [5:13:02](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=18782s) — форма
+- [5:14:34](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=18874s) — когда хватает Past Simple
+- [5:17:06](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=19026s) — *before, after, by the time, already*
+- [5:17:38](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=19058s) — Present Perfect и Past Perfect
+- [5:20:39](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=19239s) — практика
+
+**Урок 16. Past Perfect Continuous**
+
+- [5:33:46](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=20026s) — идея и форма
+- [5:36:30](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=20190s) — сравнение с Present Perfect Continuous
+- [5:37:00](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=20220s) — сравнение с Past Continuous
+- [5:37:30](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=20250s) — глаголы состояния
+- [5:38:31](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=20311s) — практика
+
+**Урок 18. used to**
+
+- [6:14:10](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=22450s) — *used to*: раньше было, теперь нет
+- [6:16:41](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=22601s) — *No, but I used to*
+- [6:18:51](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=22731s) — вопросы и отрицания
+- [6:20:25](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=22825s) — *used to* и *was doing*
+- [6:20:56](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=22856s) — *used to* и *be used to*
+- [6:22:29](https://www.youtube.com/watch?v=KHAQFIjPg5E&t=22949s) — практика
+
+**Урок 61. be used to и get used to**
+
+- [2:57:04](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=10624s) — *be / get used to* + -ing
+- [2:59:12](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=10752s) — + -ing или существительное
+- [3:01:14](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=10874s) — *be* и *get*: состояние и процесс
+- [3:02:46](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=10966s) — *used to do* и *be used to doing*
+- [3:03:46](https://www.youtube.com/watch?v=0VRFZ_tym2o&t=11026s) — практика
 
 ## Проверь себя
 
@@ -177,4 +258,7 @@ explain: "«Привык» = **be used to + -ing**. *I used to get up early* з�
 ```
 
 ```exercise m01-past-transform
+```
+
+```exercise m01-past-habits-gap
 ```
