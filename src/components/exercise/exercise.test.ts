@@ -16,7 +16,7 @@ beforeEach(async () => {
 });
 
 it('checks typed answers and saves the attempt', async () => {
-  const w = mount(ItemsForm, { props: { ex: ex('gap1') } });
+  const w = mount(ItemsForm, { props: { ex: ex('gap1'), base: '/' } });
   const inputs = w.findAll('input.answer');
   await inputs[0]!.setValue('has lived');
   await inputs[1]!.setValue('met');
@@ -39,7 +39,7 @@ it('checks typed answers and saves the attempt', async () => {
 });
 
 it('builds an order answer from the word chips', async () => {
-  const w = mount(ItemsForm, { props: { ex: ex('ord1') } });
+  const w = mount(ItemsForm, { props: { ex: ex('ord1'), base: '/' } });
   const words = ex('ord1').items[0]!.words;
   for (const word of ['I', 'am', 'at', 'the', 'station']) {
     await w.findAll('button.word')[words.indexOf(word)]!.trigger('click');
@@ -52,7 +52,7 @@ it('builds an order answer from the word chips', async () => {
 
 it('restores answers from the draft', async () => {
   useProgress().saveDraft('gap1', JSON.stringify(['abc', '']));
-  const w = mount(ItemsForm, { props: { ex: ex('gap1') } });
+  const w = mount(ItemsForm, { props: { ex: ex('gap1'), base: '/' } });
   expect((w.findAll('input.answer')[0]!.element as HTMLInputElement).value).toBe('abc');
 });
 

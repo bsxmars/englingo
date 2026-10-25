@@ -1,0 +1,2 @@
+# rate: -5%
+A: Could you tell me where the nearest station is?

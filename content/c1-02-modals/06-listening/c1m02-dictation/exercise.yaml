@@ -1,0 +1,47 @@
+title: "Диктант: модальные глаголы на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения (can't / cannot, you'd / you had) засчитываются в обе стороны."
+hints:
+  - "После модального глагола have звучит слабо, как [əv]: must've, could've, needn't've."
+  - "can't и can различай по ударению: в отрицании гласная долгая и ударная."
+items:
+  - audio: audio/tts/c1-02/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-LibbyNeural", license: "TTS"}
+    answers: ["You could at least have warned us that the meeting had been moved."]
+    explain: "«Могли бы хотя бы предупредить, что встречу перенесли». *could have done* — упрёк: возможность была, но ею не воспользовались."
+  - audio: audio/tts/c1-02/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-ThomasNeural", license: "TTS"}
+    answers: ["He can't have been driving, because his car was in the garage all week.", "He cannot have been driving, because his car was in the garage all week."]
+    explain: "«Он не мог быть за рулём: машина всю неделю стояла в гараже». *can't have been doing* — уверенный отрицательный вывод о прошлом процессе."
+  - audio: audio/tts/c1-02/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-JennyNeural", license: "TTS"}
+    answers: ["We were supposed to have been told about the changes before the meeting."]
+    explain: "«Нам должны были сообщить об изменениях до встречи». *be supposed to have been done* — пассивный перфектный инфинитив: ожидалось, но не произошло."
+  - audio: audio/tts/c1-02/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural", license: "TTS"}
+    answers: ["She simply won't listen to anyone who disagrees with her.", "She simply will not listen to anyone who disagrees with her."]
+    explain: "«Она просто не желает слушать тех, кто с ней не согласен». *won't* — не будущее, а нежелание (willingness)."
+  - audio: audio/tts/c1-02/s5.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-SoniaNeural", license: "TTS"}
+    answers: ["You'd better not mention the price until they've seen the house.", "You had better not mention the price until they have seen the house."]
+    explain: "«Лучше не называй цену, пока они не посмотрят дом». *had better not* + глагол — настойчивый совет; *'d* здесь — *had*."
+  - audio: audio/tatoeba/961976.mp3
+    audio_source: {title: "Tatoeba #16523", url: "https://tatoeba.org/en/sentences/show/16523", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["You needn't have taken a taxi.", "You need not have taken a taxi."]
+    explain: "«Не нужно было брать такси». *needn't have done* — такси взяли, но зря; *didn't need to take* не говорит, взяли ли."
+  - audio: audio/tatoeba/1063437.mp3
+    audio_source: {title: "Tatoeba #273950", url: "https://tatoeba.org/en/sentences/show/273950", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["What a nice car you have! You must have paid a lot for it."]
+    explain: "«Какая классная машина! Наверное, за неё пришлось отдать кучу денег». *must have done* — уверенный вывод о прошлом."
+  - audio: audio/tatoeba/956351.mp3
+    audio_source: {title: "Tatoeba #293133", url: "https://tatoeba.org/en/sentences/show/293133", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["He consoled himself with the thought that it might have been worse.", "He consoled himself with the thought that it could have been worse."]
+    explain: "«Он утешал себя мыслью, что могло быть и хуже». *might have been* — нереализованная возможность в прошлом."
+  - audio: audio/tatoeba/942450.mp3
+    audio_source: {title: "Tatoeba #608916", url: "https://tatoeba.org/en/sentences/show/608916", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["Tokyo is supposed to be a very safe city."]
+    explain: "«Токио считается очень безопасным городом». *be supposed to* здесь — не обязанность, а «говорят, что» (= *is said to be*)."
+  - audio: audio/tatoeba/1047699.mp3
+    audio_source: {title: "Tatoeba #312216", url: "https://tatoeba.org/en/sentences/show/312216", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["She hasn't come here yet. I am afraid she may have lost her way.", "She has not come here yet. I'm afraid she may have lost her way."]
+    explain: "«Её ещё нет. Боюсь, она заблудилась». *may have lost* — предположение о прошлом с долей неуверенности."

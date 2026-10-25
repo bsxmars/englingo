@@ -1,0 +1,47 @@
+title: "Диктант: косвенная речь на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения (she'd / she had) засчитываются в обе стороны."
+hints:
+  - "После said, told, asked время обычно сдвигается назад: am → was, have done → had done, will → would."
+  - "В косвенном вопросе порядок слов прямой: where I had bought, не where had I bought."
+items:
+  - audio: audio/tts/06/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-LibbyNeural", license: "TTS"}
+    answers: ["She told me she had never been to Scotland before.", "She told me that she had never been to Scotland before."]
+    explain: "«Она сказала мне, что никогда раньше не была в Шотландии». *I've never been* → *she had never been*; *tell* + кому (*me*)."
+  - audio: audio/tts/06/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-ThomasNeural", license: "TTS"}
+    answers: ["He asked me where I had bought my jacket."]
+    explain: "«Он спросил, где я купил куртку». Косвенный вопрос: прямой порядок *where I had bought*, Past Simple сдвинулся в Past Perfect."
+  - audio: audio/tts/06/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-AU-NatashaNeural", license: "TTS"}
+    answers: ["They wanted to know whether we would be staying for dinner.", "They wanted to know if we would be staying for dinner."]
+    explain: "«Они хотели знать, останемся ли мы на ужин». Общий вопрос → *whether / if*; *will be staying* → *would be staying*."
+  - audio: audio/tts/06/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-AndrewNeural", license: "TTS"}
+    answers: ["My manager suggested that I should take a few days off.", "My manager suggested I should take a few days off."]
+    explain: "«Начальник предложил мне взять несколько выходных». *suggest that* + *should* (или просто *that I take*), но не *suggested me to*."
+  - audio: audio/tts/06/s5.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural", license: "TTS"}
+    answers: ["The driver apologised for being late and offered to carry our bags.", "The driver apologized for being late and offered to carry our bags."]
+    explain: "«Водитель извинился за опоздание и предложил донести наши сумки». *apologise for* + **-ing**, *offer* + **to**-инфинитив."
+  - audio: audio/tatoeba/1073707.mp3
+    audio_source: {title: "Tatoeba #260367", url: "https://tatoeba.org/en/sentences/show/260367", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["I advised him to give up smoking, but he would not listen to me.", "I advised him to give up smoking, but he wouldn't listen to me."]
+    explain: "«Я советовал ему бросить курить, но он не слушал». *advise somebody to do*; *would not* здесь — упорный отказ."
+  - audio: audio/tatoeba/1063434.mp3
+    audio_source: {title: "Tatoeba #272990", url: "https://tatoeba.org/en/sentences/show/272990", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["The teacher pointed her finger at me and asked me to come with her."]
+    explain: "«Учительница показала на меня пальцем и попросила пойти с ней». Просьба в косвенной речи: *ask somebody to do*."
+  - audio: audio/tatoeba/1055392.mp3
+    audio_source: {title: "Tatoeba #278897", url: "https://tatoeba.org/en/sentences/show/278897", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["The weather forecast said that it would rain this afternoon, but it didn't.", "The weather forecast said that it would rain this afternoon, but it did not.", "The weather forecast said it would rain this afternoon, but it didn't."]
+    explain: "«Прогноз обещал дождь после обеда, но его не было». *will rain* → *would rain*; *this afternoon* остаётся — сегодня тот же день."
+  - audio: audio/tatoeba/962152.mp3
+    audio_source: {title: "Tatoeba #297327", url: "https://tatoeba.org/en/sentences/show/297327", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["He accused us of wronging him."]
+    explain: "«Он обвинил нас в том, что мы с ним несправедливо обошлись». *accuse somebody of* + **-ing**; *wrong somebody* — обидеть, поступить несправедливо."
+  - audio: audio/tatoeba/1285384.mp3
+    audio_source: {title: "Tatoeba #8745294", url: "https://tatoeba.org/en/sentences/show/8745294", author: "rul", license: "CC BY 4.0"}
+    answers: ["Tom said that he would consult a lawyer.", "Tom said that he'd consult a lawyer.", "Tom said he would consult a lawyer."]
+    explain: "«Том сказал, что посоветуется с юристом». *I will consult* → *he would consult*."

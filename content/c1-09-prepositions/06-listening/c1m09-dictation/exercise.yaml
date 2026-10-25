@@ -1,0 +1,47 @@
+title: "Диктант: предлоги на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения (didn't / did not) засчитываются в обе стороны."
+hints:
+  - "Предлоги безударны и сливаются с соседними словами: along the, past the, by the end."
+  - "by и until звучат по-разному и значат разное: by — «не позже», until — «вплоть до»."
+items:
+  - audio: audio/tts/c1-09/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-SoniaNeural", license: "TTS"}
+    answers: ["The shop is open until eight, but the parcel must be collected by six.", "The shop is open until 8, but the parcel must be collected by 6."]
+    explain: "«Магазин работает до восьми, но посылку нужно забрать не позже шести». *until* — состояние длится до момента, *by* — крайний срок действия."
+  - audio: audio/tts/c1-09/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-JennyNeural", license: "TTS"}
+    answers: ["Apart from a few minor delays, the journey went exactly as planned."]
+    explain: "«Если не считать пары небольших задержек, поездка прошла точно по плану». *apart from* = *except for*: исключение из общей картины."
+  - audio: audio/tts/c1-09/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural", license: "TTS"}
+    answers: ["We walked along the river, past the old mill and across the bridge."]
+    explain: "«Мы прошли вдоль реки, мимо старой мельницы и через мост». *along* — вдоль линии, *past* — мимо точки, *across* — с одной стороны на другую."
+  - audio: audio/tts/c1-09/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-LibbyNeural", license: "TTS"}
+    answers: ["The decision was fraught with risk, but nobody objected to it at the time."]
+    explain: "«Решение было сопряжено с риском, но тогда никто не возражал». Зависимые предлоги: *fraught with*, *object to*."
+  - audio: audio/tts/c1-09/s5.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-AndrewNeural", license: "TTS"}
+    answers: ["Divided among the four of them, the prize money did not amount to much.", "Divided among the four of them, the prize money didn't amount to much."]
+    explain: "«Поделённые на четверых, призовые оказались не такими уж большими». *among* — больше двух; *amount to* — «составлять, сводиться к»."
+  - audio: audio/tatoeba/1073628.mp3
+    audio_source: {title: "Tatoeba #242091", url: "https://tatoeba.org/en/sentences/show/242091", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["You are supposed to hand in the homework by the end of the week.", "You're supposed to hand in the homework by the end of the week."]
+    explain: "«Домашнее задание нужно сдать до конца недели». *by the end of* — не позже конца; *hand in* — сдавать работу."
+  - audio: audio/tatoeba/956325.mp3
+    audio_source: {title: "Tatoeba #282344", url: "https://tatoeba.org/en/sentences/show/282344", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["Nothing was to be heard except the sound of the waves."]
+    explain: "«Не было слышно ничего, кроме шума волн». После отрицания (*nothing*) — *except*, а не *except for*; *was to be heard* — книжное «можно было услышать»."
+  - audio: audio/tatoeba/951197.mp3
+    audio_source: {title: "Tatoeba #269472", url: "https://tatoeba.org/en/sentences/show/269472", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["A beautiful lake lay just beyond the forest."]
+    explain: "«Сразу за лесом лежало красивое озеро». *beyond* — «по ту сторону, дальше чем»; *lay* — прошедшее от *lie*."
+  - audio: audio/tatoeba/956141.mp3
+    audio_source: {title: "Tatoeba #35674", url: "https://tatoeba.org/en/sentences/show/35674", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["Among the guests invited to the party were two foreign ladies."]
+    explain: "«Среди приглашённых на вечеринку гостей были две иностранки». Фраза с *among* вынесена вперёд, и подлежащее (*two foreign ladies*) встало после глагола."
+  - audio: audio/tatoeba/1285233.mp3
+    audio_source: {title: "Tatoeba #59285", url: "https://tatoeba.org/en/sentences/show/59285", author: "rul", license: "CC BY 4.0"}
+    answers: ["They cannot do without camels in this country.", "They can't do without camels in this country."]
+    explain: "«В этой стране не обойтись без верблюдов». *do without* — фразовый глагол «обходиться без»."

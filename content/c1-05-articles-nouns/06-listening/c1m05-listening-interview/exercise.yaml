@@ -1,0 +1,63 @@
+title: "Part 3: A chef in a hospital kitchen"
+type: listening
+intro: "Послушай интервью с шеф-поваром Рейчел Лоу, которая ушла из ресторана на больничную кухню, и выбери лучший ответ. Вопросы идут по порядку записи."
+hints:
+  - "Вопросы — о причинах, взглядах и выводах. Ответ обычно складывается из двух-трёх фраз."
+  - "Обобщения вроде a meal was something to be delivered часто описывают чужую позицию, с которой говорящий спорит."
+audio: audio/tts/c1-05/interview.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural, en-US-JennyNeural", license: "TTS"}
+transcript: |
+  **Presenter:** My guest today is Rachel Lowe, who left a successful restaurant career to run the kitchen at a large hospital in the north of England. Rachel, hospital food has a terrible reputation. Was that part of the attraction?
+
+  **Rachel:** Honestly, yes. I'd spent fifteen years cooking for people who could afford a ninety-pound tasting menu, and I'd started to feel that the food was the least important thing in the room. People came for the experience, the view, the wine list. Then my mother was in hospital for a few weeks, and I watched her push away tray after tray. She wasn't fussy. The food was just joyless. And I thought, that's a problem a chef could actually solve.
+
+  **Presenter:** What did you find when you arrived?
+
+  **Rachel:** A team that was far better than its reputation. People assume hospital cooks don't care. The staff here care enormously. What they didn't have was time, or a budget, or anyone asking for their opinion. The kitchen had been run for years on the assumption that a meal was something to be delivered, like a parcel. Nobody had asked whether it was actually eaten.
+
+  **Presenter:** So what changed first?
+
+  **Rachel:** We started weighing what came back. That was the turning point. On some wards almost half the food was going in the bin. Once you've seen the figures, you can't ignore them. It was costing the hospital a fortune, and the patients weren't getting the nutrition they needed. You can't recover properly from an operation on a diet of tea and biscuits.
+
+  **Presenter:** Is it really about money, then, rather than taste?
+
+  **Rachel:** It's both, and I don't think you can separate them. Waste is money. But the bigger shift was in how we thought about the people we were feeding. An elderly patient who's lost her appetite doesn't need a large plate. She needs a small one, with something on it she recognises and actually wants. So we introduced smaller portions, more choice, and a soup that's available all day. The soup alone cut waste on the older wards by about a third.
+
+  **Presenter:** You've talked before about dignity. What do you mean by that?
+
+  **Rachel:** Eating is one of the few things in hospital that you still get to decide for yourself. You don't choose your bed, or your doctor, or the person in the next bed. So the menu matters far more than people think. If someone who grew up on spicy food has been eating plain mashed potato for three weeks, that's not a medical decision. That's just a failure of imagination.
+
+  **Presenter:** What's been the hardest part?
+
+  **Rachel:** Persuading people that a hospital kitchen can be a place of ambition. The government guidelines are a minimum, not a target. Some managers still see us as a cost to be cut, and I understand the pressure they're under, I really do. But a cheap meal that nobody eats isn't cheap.
+
+  **Presenter:** Would you ever go back to restaurants?
+
+  **Rachel:** I get asked that a lot, usually in a slightly pitying tone. No, I don't think so. I miss the adrenaline sometimes. But last month a man who'd been on the ward for six weeks asked if he could have my recipe for the fish pie. Nobody ever asked me for a recipe at the restaurant. They just took photos.
+
+  **Presenter:** Rachel Lowe, thank you.
+items:
+  - q: "What made Rachel decide to work in a hospital?"
+    options: ["She was tired of the long hours in restaurants.", "Her mother's stay in hospital revealed a problem she could solve.", "The hospital offered her a much larger budget.", "She wanted to cook for people who could not afford restaurants."]
+    answer: 1
+    explain: "*my mother was in hospital… I watched her push away tray after tray… that's a problem a chef could actually solve.* *in hospital* без артикля — пациенткой."
+  - q: "What does Rachel say about the kitchen staff she found?"
+    options: ["They were committed but lacked support.", "They were unwilling to accept change.", "They did not really care about the patients.", "They had too little experience of cooking."]
+    answer: 0
+    explain: "*The staff here care enormously. What they didn't have was time, or a budget, or anyone asking for their opinion.* *The staff* с глаголом во множественном — группа людей."
+  - q: "What does Rachel describe as the turning point?"
+    options: ["Reducing the size of the kitchen budget.", "Introducing soup on the older wards.", "Measuring how much food was not eaten.", "Asking the patients to fill in questionnaires."]
+    answer: 2
+    explain: "*We started weighing what came back. That was the turning point.* Суп появился позже, как одно из решений."
+  - q: "What point does Rachel make about elderly patients?"
+    options: ["They need larger meals in order to recover.", "They respond best to small amounts of food they find appealing.", "They tend to refuse unfamiliar dishes such as soup.", "They should be given special meals by doctors."]
+    answer: 1
+    explain: "*doesn't need a large plate. She needs a small one, with something on it she recognises and actually wants.* *An elderly patient* — обобщение через неопределённый артикль: «любой такой пациент»."
+  - q: "What does Rachel mean by dignity?"
+    options: ["Patients should be allowed to choose their own doctor.", "Hospital food should follow medical advice more closely.", "Food is one of the few areas where patients keep some control.", "Patients should be able to eat with their families."]
+    answer: 2
+    explain: "*Eating is one of the few things in hospital that you still get to decide for yourself. You don't choose your bed, or your doctor…* — выбор еды как остаток самостоятельности."
+  - q: "What does the story about the fish pie suggest?"
+    options: ["She now finds her work more personally rewarding.", "She has learnt to cook simpler dishes.", "Patients generally prefer traditional food.", "She is planning to publish her recipes."]
+    answer: 0
+    explain: "*Nobody ever asked me for a recipe at the restaurant. They just took photos.* — контраст: в больнице её еду ценят по-настоящему. Адреналин ресторана она вспоминает, но возвращаться не хочет."

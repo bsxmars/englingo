@@ -1,0 +1,83 @@
+title: "Итоговый тест C1: Listening, Part 4"
+type: listening
+intro: |
+  Запись в формате C1 Advanced Part 4: пять человек рассказывают о переезде из города в деревню. В **Task 1** выбери причину переезда каждого, в **Task 2** — что каждому даётся труднее всего. В каждой задаче три варианта лишние. Прослушай запись дважды. Для зачёта нужно **60 %**.
+hints:
+  - "За первое прослушивание реши Task 1, за второе — Task 2."
+  - "Каждый говорящий упоминает и лишний вариант — с оговоркой или отрицанием."
+pass: 60
+audio: audio/tts/c1-18/part4.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-SoniaNeural, en-US-AndrewNeural, en-GB-LibbyNeural, en-GB-RyanNeural, en-US-JennyNeural, en-IE-ConnorNeural", license: "TTS"}
+transcript: |
+  *Part four. You will hear five short extracts in which people talk about moving from a city to the countryside.*
+
+  *Speaker one.*
+
+  People assume we left for the peace and quiet, but honestly, it was the rent. We were paying well over half of what we earned just to live in a two-bedroom flat, and saving was out of the question. Out here we pay about a third of that for a house with a garden. The thing nobody warns you about is how long it takes to be accepted. It wasn't until our second winter, when our car broke down in the snow and three neighbours turned up with shovels, that I felt we actually belonged.
+
+  *Speaker two.*
+
+  My doctor had been urging me for years to cut down on stress, and in the end she told me quite bluntly that if I stayed in my job in London, she couldn't answer for the consequences. So I left. I'd worried that I'd be bored to death in the country. As it turns out, I needn't have worried about boredom at all. What I should have worried about was the silence. For the first few months, I'd lie awake at night, listening for traffic that never came.
+
+  *Speaker three.*
+
+  I was offered a post at an agricultural research station, which happens to be about forty miles from the nearest town, so moving wasn't really a choice. The house is lovely, there's plenty of room, and I don't mind the driving. But I do miss the theatre terribly. In the city I'd go two or three times a month. If I'd known how much I'd miss it, I might have thought twice about accepting the job, though I'd probably still have taken it in the end.
+
+  *Speaker four.*
+
+  Our main reason was the kids. The school they'd have gone to in the city had been heavily criticised in an inspection, and it was said to be struggling to keep its teachers. The village school here is tiny, and they love it. The weather doesn't bother me, and I've got used to the quiet. What drives me up the wall is the internet. Fast broadband is something people in cities simply take for granted. Out here, a connection that lasts a whole video call is a luxury.
+
+  *Speaker five.*
+
+  My wife and I had been meaning to open a bakery for years, and property in the city was just too expensive to even think about it. So we bought an old farmhouse with an outbuilding we could turn into a shop. Business has been better than we hoped, and the locals have been very welcoming. The heating bills, though, came as a real shock. Our first winter, they were eye-watering. I regret not having had the roof properly insulated before we moved in. We've had to tighten our belts considerably.
+items:
+  - q: "Task 1 (why each speaker moved). Speaker 1"
+    options: ["to be closer to family", "to save money", "for their children's education", "because of a new job", "to start a business", "for health reasons", "to have more space", "to get away from noise"]
+    answer: 1
+    topic: "c1-06-determiners"
+    explain: "*it was the rent. We were paying **well over half of** what we earned… Out here we pay **about a third of** that* — дроби и доли. Тишина — ловушка: *People assume we left for the peace and quiet, but…*"
+  - q: "Task 1 (why each speaker moved). Speaker 2"
+    options: ["to be closer to family", "to save money", "for their children's education", "because of a new job", "to start a business", "for health reasons", "to have more space", "to get away from noise"]
+    answer: 5
+    topic: "c1-11-reporting"
+    explain: "*My doctor had been **urging me** for years **to cut down** on stress… she told me quite bluntly…* — *urge sb to do*: врач настаивал из-за здоровья."
+  - q: "Task 1 (why each speaker moved). Speaker 3"
+    options: ["to be closer to family", "to save money", "for their children's education", "because of a new job", "to start a business", "for health reasons", "to have more space", "to get away from noise"]
+    answer: 3
+    topic: "c1-13-relative-clauses"
+    explain: "*I was offered a post at an agricultural research station, **which** happens to be about forty miles from the nearest town* — переезд из-за работы. *plenty of room* — плюс дома, а не причина."
+  - q: "Task 1 (why each speaker moved). Speaker 4"
+    options: ["to be closer to family", "to save money", "for their children's education", "because of a new job", "to start a business", "for health reasons", "to have more space", "to get away from noise"]
+    answer: 2
+    topic: "c1-04-passive"
+    explain: "*Our main reason was the kids. The school… **had been heavily criticised**… and it **was said to be struggling*** — пассив и *be said to be doing*."
+  - q: "Task 1 (why each speaker moved). Speaker 5"
+    options: ["to be closer to family", "to save money", "for their children's education", "because of a new job", "to start a business", "for health reasons", "to have more space", "to get away from noise"]
+    answer: 4
+    topic: "c1-01-sentences-tenses"
+    explain: "*My wife and I **had been meaning to** open a bakery for years* — Past Perfect Continuous: давнее намерение до переезда."
+  - q: "Task 2 (what each speaker has found hardest). Speaker 1"
+    options: ["getting used to the quiet", "the lack of public transport", "feeling accepted by local people", "an unreliable internet connection", "the cost of heating", "the weather", "missing cultural life", "finding work"]
+    answer: 2
+    topic: "c1-16-connectors-focus"
+    explain: "*The thing nobody warns you about is how long it takes to be accepted. **It wasn't until** our second winter… **that** I felt we actually belonged.* — cleft выделяет момент."
+  - q: "Task 2 (what each speaker has found hardest). Speaker 2"
+    options: ["getting used to the quiet", "the lack of public transport", "feeling accepted by local people", "an unreliable internet connection", "the cost of heating", "the weather", "missing cultural life", "finding work"]
+    answer: 0
+    topic: "c1-02-modals"
+    explain: "*I **needn't have worried** about boredom… What I **should have worried** about was the silence* — *needn't have* (зря беспокоилась) против *should have* (стоило бы)."
+  - q: "Task 2 (what each speaker has found hardest). Speaker 3"
+    options: ["getting used to the quiet", "the lack of public transport", "feeling accepted by local people", "an unreliable internet connection", "the cost of heating", "the weather", "missing cultural life", "finding work"]
+    answer: 6
+    topic: "c1-14-conditionals"
+    explain: "*I do miss the theatre terribly… **If I'd known** how much I'd miss it, I **might have thought twice**.* Дорога — ловушка: *I don't mind the driving*."
+  - q: "Task 2 (what each speaker has found hardest). Speaker 4"
+    options: ["getting used to the quiet", "the lack of public transport", "feeling accepted by local people", "an unreliable internet connection", "the cost of heating", "the weather", "missing cultural life", "finding work"]
+    answer: 3
+    topic: "c1-05-articles-nouns"
+    explain: "*What drives me up the wall is **the internet**. **Fast broadband** is something people… take for granted. Out here, **a connection** that lasts a whole video call is **a luxury**.* Обобщение без артикля и *a* в значении «любой такой». Погода и тишина — ловушки."
+  - q: "Task 2 (what each speaker has found hardest). Speaker 5"
+    options: ["getting used to the quiet", "the lack of public transport", "feeling accepted by local people", "an unreliable internet connection", "the cost of heating", "the weather", "missing cultural life", "finding work"]
+    answer: 4
+    topic: "c1-17-use-of-english"
+    explain: "*The heating bills, though, **came as a real shock**… **eye-watering**… We've had to **tighten our belts*** — коллокации и идиомы. Местные, наоборот, *very welcoming*."

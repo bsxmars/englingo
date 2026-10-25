@@ -1,0 +1,71 @@
+title: "Part 4: The quiz writer"
+type: listening
+intro: "Послушай радиоинтервью с Меган Росс, автором вопросов для телевикторины, и выбери ответ. Вопросы идут по порядку записи."
+hints:
+  - "Мнение «других людей» в записи — частая ловушка: ответ обычно после but."
+  - "hardly ever, rarely, never — отрицание без not."
+audio: audio/tts/10/interview.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural, en-US-JennyNeural", license: "TTS"}
+transcript: |
+  **Presenter:** You're listening to *Working Lives*. My guest today writes questions for one of the country's most popular TV quiz shows. Megan Ross, welcome.
+
+  **Megan:** Thanks for having me.
+
+  **Presenter:** So, how exactly does somebody become a quiz writer? It's not something you can study at university, is it?
+
+  **Megan:** No, it isn't! I was actually a librarian. A friend of mine worked for a TV company, and one day she asked me whether I'd ever thought about writing questions. I said no, but I sent her twenty anyway, and they used three of them. That's how it started.
+
+  **Presenter:** What makes a good question?
+
+  **Megan:** People often think the hardest questions are the best ones, but that's not true at all. A good question is one that you feel you should know. If the people at home shout out the answer a second too late, that's perfect. If nobody has a clue, it's just frustrating.
+
+  **Presenter:** How do you check that your answers are right?
+
+  **Megan:** Very carefully! Every fact has to come from at least two reliable sources. And we always ask ourselves whether there could be a second correct answer. Years ago, before I joined, the show had to give a contestant his money back because a question had two possible answers. Nobody's forgotten that.
+
+  **Presenter:** Do viewers ever complain?
+
+  **Megan:** Not often, but they do write to us. My favourite letter was from a man who wanted to know why we never asked any questions about fishing. So I wrote a whole round about fishing, and he watched it, and he didn't get a single one right.
+
+  **Presenter:** Is the job harder than it used to be?
+
+  **Megan:** In some ways, yes. Everyone has a phone now, so people can check facts instantly, and they're much quicker to tell you you're wrong. But it's also far easier to find information. When I started, I spent hours in the library. Now I rarely leave my desk.
+
+  **Presenter:** Do you ever take part in quizzes yourself?
+
+  **Megan:** Hardly ever, actually. My husband loves pub quizzes, but his team won't let me join. They say it wouldn't be fair, which is funny, because I'm terrible at sport and geography.
+
+  **Presenter:** And finally, which question are you proudest of?
+
+  **Megan:** Oh, that's difficult. There's one about which animal sleeps the most. But no, I'm not going to tell you the answer. You might hear it on the show one day.
+
+  **Presenter:** Megan Ross, thank you.
+items:
+  - q: "How did Megan start writing quiz questions?"
+    options: ["She studied quiz writing at university.", "A friend suggested she should try it.", "She applied for a job at a TV company."]
+    answer: 1
+    explain: "*she asked me whether I'd ever thought about writing questions* — косвенный вопрос с *whether*, порядок слов прямой. Учиться этому негде: *No, it isn't!* — согласие с ведущим."
+  - q: "According to Megan, a good quiz question is one that"
+    options: ["very few people can answer.", "viewers feel they ought to know.", "the audience can answer immediately."]
+    answer: 1
+    explain: "*A good question is one that you feel you should know.* Самые трудные вопросы — мнение других: *but that's not true at all*."
+  - q: "What does Megan say about checking facts?"
+    options: ["One trusted source is usually enough.", "Viewers often find mistakes in the answers.", "A mistake on the show in the past is still remembered."]
+    answer: 2
+    explain: "*the show had to give a contestant his money back… Nobody's forgotten that.* Источников нужно *at least two*."
+  - q: "What happened after the man wrote to the show about fishing?"
+    options: ["He couldn't answer the questions he had asked for.", "He was invited to take part in the show.", "He wrote again to complain about the questions."]
+    answer: 0
+    explain: "*he wanted to know why we never asked any questions about fishing* — косвенный вопрос без *did*. Итог: *he didn't get a single one right*."
+  - q: "How has Megan's job changed since she started?"
+    options: ["It has become harder in every way.", "It is harder in some ways and easier in others.", "She now spends more time doing research in libraries."]
+    answer: 1
+    explain: "*In some ways, yes… But it's also far easier to find information.* *far easier* — усиленное сравнение. В библиотеке она теперь *rarely*."
+  - q: "Why doesn't Megan play in her husband's quiz team?"
+    options: ["She doesn't enjoy quizzes.", "She knows very little about sport and geography.", "The team think it would give them an unfair advantage."]
+    answer: 2
+    explain: "*his team won't let me join. They say it wouldn't be fair.* Спорт и география — ловушка: она шутит, что как раз в них слаба."
+  - q: "What does Megan do when she is asked about her favourite question?"
+    options: ["She says she can't remember it.", "She refuses to give the answer.", "She explains why animals sleep so much."]
+    answer: 1
+    explain: "*I'm not going to tell you the answer. You might hear it on the show one day.* *that's difficult* — заминка, а не «не помню»."

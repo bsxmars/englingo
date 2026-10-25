@@ -1,0 +1,39 @@
+title: "Part 3: Living with less"
+type: listening
+intro: "Пять человек рассказывают, как избавились от большей части вещей. Для каждого говорящего выбери утверждение A–F. Одно утверждение лишнее."
+hints:
+  - "Каждый говорящий упоминает детали из двух-трёх утверждений — ищи то, что верно целиком."
+  - "Следи за отрицаниями без not: none, hardly, never, very little."
+audio: audio/tts/09/speakers.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-SoniaNeural, en-IE-ConnorNeural, en-US-JennyNeural, en-GB-ThomasNeural, en-AU-NatashaNeural, en-GB-LibbyNeural", license: "TTS"}
+transcript: |
+  **Speaker 1:** For me it wasn't really a choice. When I moved to London for work, the only flat I could afford was about the size of a garage. There simply wasn't enough room for all my furniture, so the sofa, the bookcase and most of the kitchen stuff had to go. I sold a few things online and gave the rest to a charity shop. Do I miss any of it? Honestly, no. I can clean the whole place in twenty minutes.
+
+  **Speaker 2:** Everyone told me I'd save a fortune by owning less, which hasn't really been true, because I still spend money, just on trips instead of things. I got rid of almost everything: clothes, books, a lot of old equipment. And on the whole it was the right decision. The one thing I do wish I'd kept is my record collection. I had over three hundred records, and I sold the lot to a dealer for very little. Every time I hear one of those albums on the radio, I feel a bit sick.
+
+  **Speaker 3:** My sister, who's a professional organiser, gave me a piece of advice: one room every weekend, and never more than that. I thought that was ridiculous. We have plenty of space, and I was sure I could do the whole house in a day. So I started on a Saturday morning, and by the evening every room was a disaster and I'd thrown away almost nothing. In the end I did it her way, and it took two months, but it actually worked.
+
+  **Speaker 4:** After my father died, my brother and I had to clear his house. Most of it was easy, to be honest: old newspapers, broken chairs, that kind of thing. What I found really hard was his workshop. He'd spent forty years collecting tools, and each one had a story. In the end I kept a small box of them, and I use them more than I expected. My brother took none of it. He says he hasn't got the time for that sort of thing.
+
+  **Speaker 5:** I'm not saving much money, if that's what you're asking. But I've noticed a huge difference in how I spend my weekends. When you have fewer things, there's less to clean, less to repair, less to worry about. I used to spend every Saturday tidying up. Now I have people round for dinner, or I meet a few friends at the beach. I've got to know my neighbours, too, which never happened in my old house.
+items:
+  - q: "Speaker 1"
+    options: ["A. It was hardest to part with things that had belonged to a relative.", "B. The speaker was surprised how much money they saved.", "C. The speaker ignored some advice at first.", "D. The speaker had no choice because of a lack of space.", "E. The speaker now spends more time with other people.", "F. The speaker regrets getting rid of one particular thing."]
+    answer: 3
+    explain: "*There simply wasn't enough room for all my furniture.* *furniture* неисчисляемое — *all my furniture*, а не *furnitures*. Ловушка — F: *Do I miss any of it? Honestly, no.*"
+  - q: "Speaker 2"
+    options: ["A. It was hardest to part with things that had belonged to a relative.", "B. The speaker was surprised how much money they saved.", "C. The speaker ignored some advice at first.", "D. The speaker had no choice because of a lack of space.", "E. The speaker now spends more time with other people.", "F. The speaker regrets getting rid of one particular thing."]
+    answer: 5
+    explain: "*The one thing I do wish I'd kept is my record collection.* Ловушка — B: экономия *hasn't really been true*, а *for very little* — продал почти даром."
+  - q: "Speaker 3"
+    options: ["A. It was hardest to part with things that had belonged to a relative.", "B. The speaker was surprised how much money they saved.", "C. The speaker ignored some advice at first.", "D. The speaker had no choice because of a lack of space.", "E. The speaker now spends more time with other people.", "F. The speaker regrets getting rid of one particular thing."]
+    answer: 2
+    explain: "*gave me a piece of advice… I thought that was ridiculous… In the end I did it her way.* *advice* неисчисляемое: «один совет» — *a piece of advice*. Ловушка — D: *We have plenty of space*."
+  - q: "Speaker 4"
+    options: ["A. It was hardest to part with things that had belonged to a relative.", "B. The speaker was surprised how much money they saved.", "C. The speaker ignored some advice at first.", "D. The speaker had no choice because of a lack of space.", "E. The speaker now spends more time with other people.", "F. The speaker regrets getting rid of one particular thing."]
+    answer: 0
+    explain: "*What I found really hard was his workshop… each one had a story* — инструменты отца. *each one* — каждый по отдельности; *none of it* — о брате, который ничего не взял."
+  - q: "Speaker 5"
+    options: ["A. It was hardest to part with things that had belonged to a relative.", "B. The speaker was surprised how much money they saved.", "C. The speaker ignored some advice at first.", "D. The speaker had no choice because of a lack of space.", "E. The speaker now spends more time with other people.", "F. The speaker regrets getting rid of one particular thing."]
+    answer: 4
+    explain: "*Now I have people round for dinner, or I meet a few friends… I've got to know my neighbours.* Ловушка — B: *I'm not saving much money*. *fewer things* (исчисляемое) против *less to clean*."

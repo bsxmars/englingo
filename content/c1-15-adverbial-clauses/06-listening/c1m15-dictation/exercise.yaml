@@ -1,0 +1,43 @@
+title: "Диктант: обстоятельственные придаточные на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения засчитываются в обе стороны."
+hints:
+  - "Сокращённый оборот начинается без подлежащего: Once submitted…, While cleaning…, The meeting over…"
+  - "Уступка с as ставит прилагательное в начало: Tired as she was… = Although she was tired…"
+items:
+  - audio: audio/tts/c1-15/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-JennyNeural", license: "TTS"}
+    answers: ["Tired as she was, she stayed up until the last guest had left."]
+    explain: "«Как она ни устала, она не ложилась, пока не ушёл последний гость». **Tired as she was** = *Although she was tired*; *until … had left* — Past Perfect подчёркивает, что гость ушёл раньше."
+  - audio: audio/tts/c1-15/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-AndrewNeural", license: "TTS"}
+    answers: ["He spoke slowly and clearly so that everyone at the back could follow him."]
+    explain: "«Он говорил медленно и чётко, чтобы задние ряды могли за ним следить». **so that** + *could* — цель в прошлом."
+  - audio: audio/tts/c1-15/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-LibbyNeural", license: "TTS"}
+    answers: ["Once submitted, the application cannot be changed, so check it carefully.", "Once submitted, the application can't be changed, so check it carefully."]
+    explain: "«После отправки заявку изменить нельзя, так что проверьте её внимательно». **Once submitted** = *Once it has been submitted* — сокращённое придаточное с причастием прошедшего времени."
+  - audio: audio/tts/c1-15/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-AU-NatashaNeural", license: "TTS"}
+    answers: ["The meeting over, we walked down to the river and had lunch in the sun."]
+    explain: "«Когда совещание закончилось, мы спустились к реке и пообедали на солнце». **The meeting over** — абсолютный оборот: своё подлежащее, глагол *being* опущен."
+  - audio: audio/tatoeba/978111.mp3
+    audio_source: {title: "Tatoeba #241061", url: "https://tatoeba.org/en/sentences/show/241061", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["Much as I'd like to come, I'm afraid I'll be too busy.", "Much as I would like to come, I'm afraid I'll be too busy."]
+    explain: "«Как бы мне ни хотелось прийти, боюсь, я буду слишком занят». **Much as** = *although … very much* — вежливая уступка перед отказом."
+  - audio: audio/tatoeba/1063509.mp3
+    audio_source: {title: "Tatoeba #266398", url: "https://tatoeba.org/en/sentences/show/266398", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["His English is not bad, seeing that he has studied for only two years.", "His English is not bad, seeing that he has studied for only 2 years.", "His English isn't bad, seeing that he has studied for only two years."]
+    explain: "«Для человека, который учит язык всего два года, у него неплохой английский». **seeing that** — «учитывая, что»: причина, известная собеседнику."
+  - audio: audio/tatoeba/1055372.mp3
+    audio_source: {title: "Tatoeba #279972", url: "https://tatoeba.org/en/sentences/show/279972", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["Once elected, I will do my best for all of you who supported me."]
+    explain: "«Если меня изберут, я сделаю всё возможное для всех, кто меня поддержал». **Once elected** = *Once I am elected*: подлежащее оборота совпадает с подлежащим главной части (*I*)."
+  - audio: audio/tatoeba/990459.mp3
+    audio_source: {title: "Tatoeba #257968", url: "https://tatoeba.org/en/sentences/show/257968", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["I'm not a child, but sometimes you talk to me as if I were a child.", "I'm not a child, but sometimes you talk to me as if I was a child."]
+    explain: "«Я не ребёнок, а ты иногда разговариваешь со мной, будто я ребёнок». **as if I were** — нереальное сравнение: на деле это не так."
+  - audio: audio/tatoeba/1041087.mp3
+    audio_source: {title: "Tatoeba #244770", url: "https://tatoeba.org/en/sentences/show/244770", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["While cleaning my room yesterday evening, I happened to find an old photograph of my mother."]
+    explain: "«Вчера вечером, убирая комнату, я случайно нашёл старую фотографию мамы». **While cleaning** = *While I was cleaning*; *happened to find* — «случайно нашёл»."

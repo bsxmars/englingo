@@ -1,0 +1,63 @@
+title: "Part 4: From banker to mountain guide"
+type: listening
+intro: "Послушай радиоинтервью с Кёрсти Белл и выбери ответ. Вопросы идут по порядку записи."
+hints:
+  - "Неверные варианты тоже звучат — но с поворотом: «так думают другие», «почти, но не совсем»."
+  - "Следи за формой после глагола: regret not learning, stopped to look, let me take."
+audio: audio/tts/08/interview.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural, en-AU-NatashaNeural", license: "TTS"}
+transcript: |
+  **Presenter:** Hello and welcome to *Second Chances*, the programme about people who've changed direction. My guest today is Kirsty Bell, who spent eleven years working for a bank in Sydney before becoming a mountain guide in New Zealand. Kirsty, what made you decide to leave?
+
+  **Kirsty:** Well, people expect me to say I hated the job, but I didn't, really. I quite enjoyed working with numbers. What I couldn't stand was spending ten hours a day without seeing the sky. Then one winter my sister persuaded me to come on a climbing trip with her, and I remember standing on top of a mountain and thinking, I want to do this every day.
+
+  **Presenter:** Did you resign straight away?
+
+  **Kirsty:** Oh no, I'm far too careful for that. I kept working for another two years and saved as much as I could. My manager actually let me take unpaid leave to do the first guiding course, which was really generous of him.
+
+  **Presenter:** What was the training like?
+
+  **Kirsty:** Tough. The instructors made us carry thirty-kilo packs up steep slopes in the rain, and they refused to let anyone skip a session. A lot of people gave up. I nearly did too, during a navigation exercise when I got completely lost. But I tried thinking of it as a puzzle rather than a test, and somehow that helped.
+
+  **Presenter:** Is there anything you regret?
+
+  **Kirsty:** Not leaving, no. I do regret not learning to ski properly as a child, because now I have to work twice as hard in winter. And I miss being able to afford nice restaurants! Guides don't earn much.
+
+  **Presenter:** What's the best part of the job?
+
+  **Kirsty:** Watching people do something they thought they were too scared to do. Last month I took a group of retired teachers up a glacier. One of them, who'd avoided heights her whole life, stopped to look at the view and just started crying. Happy tears, I mean.
+
+  **Presenter:** And what would you say to someone who's thinking about a change like yours?
+
+  **Kirsty:** Don't wait to feel ready, because you never will. But do make a plan. I'd never advise anyone to quit a job without some savings.
+
+  **Presenter:** Kirsty Bell, thank you very much.
+items:
+  - q: "What does Kirsty say about her job at the bank?"
+    options: ["She disliked working with numbers.", "She hated being indoors all day.", "She found it too stressful."]
+    answer: 1
+    explain: "*What I couldn't stand was spending ten hours a day without seeing the sky.* *can't stand* + **-ing**. Числа, наоборот, ей нравились: *I quite enjoyed working with numbers*."
+  - q: "How did Kirsty first become interested in climbing?"
+    options: ["Her sister talked her into joining a trip.", "Her manager suggested a guiding course.", "She went climbing alone one winter."]
+    answer: 0
+    explain: "*My sister persuaded me to come on a climbing trip with her* — *persuade* + объект + **to**. Начальник появился позже: отпустил на курс."
+  - q: "What did Kirsty's manager do?"
+    options: ["He tried to persuade her to stay at the bank.", "He paid for her first guiding course.", "He allowed her to take time off to train."]
+    answer: 2
+    explain: "*My manager actually let me take unpaid leave to do the first guiding course* — *let* + объект + глагол без *to*. Отпуск неоплачиваемый, так что за курс он не платил."
+  - q: "What helped Kirsty get through the training?"
+    options: ["Changing the way she thought about a difficult task.", "Being allowed to miss the hardest sessions.", "Getting extra help with navigation."]
+    answer: 0
+    explain: "*I tried thinking of it as a puzzle rather than a test* — *try* + **-ing**: попробовать способ. Пропускать занятия как раз не разрешали: *they refused to let anyone skip a session*."
+  - q: "What does Kirsty regret?"
+    options: ["Leaving her well-paid job.", "Not learning a skill when she was young.", "Not saving more money before she left."]
+    answer: 1
+    explain: "*I do regret not learning to ski properly as a child.* *regret not* + **-ing** — жалеет о том, чего не сделала. Об уходе с работы — *Not leaving, no*."
+  - q: "What happened during the glacier trip?"
+    options: ["One woman was too frightened to go on.", "Kirsty had to stop because of the weather.", "One woman became emotional because she was so happy."]
+    answer: 2
+    explain: "*stopped to look at the view and just started crying. Happy tears* — *stop* + **to**: остановилась, чтобы посмотреть, а не перестала смотреть."
+  - q: "What is Kirsty's advice to people who want to change careers?"
+    options: ["Wait until you feel completely ready.", "Make sure you have some money saved first.", "Leave your job as soon as you can."]
+    answer: 1
+    explain: "*I'd never advise anyone to quit a job without some savings.* Ждать готовности она как раз не советует: *Don't wait to feel ready*."

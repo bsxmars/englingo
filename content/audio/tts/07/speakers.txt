@@ -1,0 +1,11 @@
+# pause: 1500
+E: Speaker one.
+E: The person who taught me most about my job was actually an intern. I'd been a designer for twelve years when Maya joined our team. She was barely twenty, fifteen years younger than me, and she'd taught herself everything from online videos. I liked her straight away, but honestly, I didn't take her seriously. Then I watched her rebuild a project that I'd been stuck on for weeks, in two days. Working next to someone who isn't afraid of breaking things made me braver.
+B: Speaker two.
+B: My first manager, whose name was Alan, changed my career, although at the time I wanted to kill him. I'd always hated speaking in public. I was the kind of person who'd stay silent in meetings rather than say something stupid. So Alan put my name on the list of speakers for the annual conference, without asking me. I was terrified. But I did it, and I knew that same evening that something had changed. These days I give talks all the time.
+G: Speaker three.
+G: I was backpacking around Chile after university, and I got stuck at a bus station where nothing had left for six hours. The woman sitting next to me, who was old enough to be my grandmother, turned out to be a retired engineer. She'd built bridges in places I'd never heard of. We talked for the whole six hours. I'd been planning to study law, but by the time my bus came, I'd decided on engineering. I never even got her email address.
+F: Speaker four.
+F: My grandfather, who repaired clocks in a tiny shop in Ohio, used to take me along on Saturdays. I'd sit there for hours, watching him take apart watches that other people had thrown away. As a kid, I found it pretty boring, to be honest. It's only now, twenty years later, working as a software developer, that I see where my patience comes from. Fixing a bug is exactly what he was doing, just with smaller screws.
+C: Speaker five.
+C: The teacher I remember best is my piano teacher, Mrs Hale, which might surprise people who knew me then. For the first year I couldn't stand her. She was strict, she never smiled, and she made me play the same four bars again and again. She never forced me to perform in concerts, which I was grateful for, because I was painfully shy. But slowly I realised that the woman I'd thought was cold was the only adult who really listened to me play.

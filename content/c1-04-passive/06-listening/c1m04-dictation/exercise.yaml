@@ -1,0 +1,47 @@
+title: "Диктант: пассив на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения засчитываются в обе стороны."
+hints:
+  - "Слабые формы: been звучит как [bɪn], to have — как [təv]. Их легко потерять."
+  - "В каузативе дополнение стоит между have и причастием: had my phone stolen."
+items:
+  - audio: audio/tts/c1-04/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-JennyNeural", license: "TTS"}
+    answers: ["The results are expected to have been published by the end of the month."]
+    explain: "«Ожидается, что к концу месяца результаты будут опубликованы». Перфектный пассивный инфинитив *to have been published* — результат к сроку."
+  - audio: audio/tts/c1-04/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-AndrewNeural", license: "TTS"}
+    answers: ["I had my phone stolen on the very first day of the trip."]
+    explain: "«У меня украли телефон в первый же день поездки». *have something done* о неприятности, которая случилась с нами."
+  - audio: audio/tts/c1-04/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-AU-NatashaNeural", license: "TTS"}
+    answers: ["The bridge is said to have been designed by a student."]
+    explain: "«Говорят, мост спроектировал студент». *be said to have been done* — reporting passive о прошлом событии."
+  - audio: audio/tts/c1-04/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural", license: "TTS"}
+    answers: ["None of this would have happened if the warning had been taken seriously."]
+    explain: "«Ничего этого не случилось бы, если бы к предупреждению отнеслись серьёзно». Пассив в третьем условном: *had been taken*."
+  - audio: audio/tts/c1-04/s5.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural", license: "TTS"}
+    answers: ["The windows really need cleaning before the guests arrive.", "The windows really need to be cleaned before the guests arrive."]
+    explain: "«Окна обязательно надо помыть до прихода гостей». *need* + **-ing** — пассивное значение, как *need to be cleaned*."
+  - audio: audio/tatoeba/956180.mp3
+    audio_source: {title: "Tatoeba #59023", url: "https://tatoeba.org/en/sentences/show/59023", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["It is questionable whether this data can be relied on.", "It's questionable whether this data can be relied on.", "It is questionable whether these data can be relied on."]
+    explain: "«Ещё вопрос, можно ли доверять этим данным». Пассив предложного глагола *rely on*: предлог остаётся в конце — *be relied on*."
+  - audio: audio/tatoeba/1285258.mp3
+    audio_source: {title: "Tatoeba #284158", url: "https://tatoeba.org/en/sentences/show/284158", author: "rul", license: "CC BY 4.0"}
+    answers: ["He was seen to enter the room."]
+    explain: "«Видели, как он вошёл в комнату». В активе *saw him enter*, в пассиве появляется *to*: *was seen to enter*."
+  - audio: audio/tatoeba/1247139.mp3
+    audio_source: {title: "Tatoeba #1214430", url: "https://tatoeba.org/en/sentences/show/1214430", author: "rul", license: "CC BY 4.0"}
+    answers: ["It was once thought that there was intelligent life on Mars."]
+    explain: "«Когда-то считалось, что на Марсе есть разумная жизнь». Безличный пассив *It was thought that…* — типичный оборот научпопа."
+  - audio: audio/tatoeba/1115327.mp3
+    audio_source: {title: "Tatoeba #4157305", url: "https://tatoeba.org/en/sentences/show/4157305", author: "Them", license: "CC BY 4.0"}
+    answers: ["He is considered to be a highly qualified employee.", "He's considered to be a highly qualified employee."]
+    explain: "«Его считают высококвалифицированным сотрудником». *be considered (to be)* + оценка — личный reporting passive."
+  - audio: audio/tatoeba/956324.mp3
+    audio_source: {title: "Tatoeba #279850", url: "https://tatoeba.org/en/sentences/show/279850", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["The stolen jewels must be recovered at any cost."]
+    explain: "«Украденные драгоценности нужно вернуть любой ценой». Модальный пассив *must be recovered*; *stolen* — причастие-определение."

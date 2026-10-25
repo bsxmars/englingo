@@ -1,0 +1,47 @@
+title: "Диктант: -ing или to на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения (wouldn't / would not) засчитываются в обе стороны."
+hints:
+  - "После глагола слушай, что идёт: -ing, to или голый глагол (make / let)."
+  - "to перед глаголом звучит очень коротко, как [tə]."
+items:
+  - audio: audio/tts/08/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural", license: "TTS"}
+    answers: ["I'll never forget meeting her for the first time.", "I will never forget meeting her for the first time."]
+    explain: "«Никогда не забуду, как впервые её встретил». *forget* + **-ing** — о том, что уже было."
+  - audio: audio/tts/08/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-JennyNeural", license: "TTS"}
+    answers: ["Would you mind closing the window, please?", "Would you mind closing the window please?"]
+    explain: "«Не могли бы вы закрыть окно?» После *mind* — только **-ing**."
+  - audio: audio/tts/08/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-AndrewNeural", license: "TTS"}
+    answers: ["My parents wouldn't let me stay out after ten.", "My parents wouldn't let me stay out after 10."]
+    explain: "«Родители не разрешали мне гулять после десяти». *let* + объект + глагол **без to**; *wouldn't* — упорный отказ в прошлом."
+  - audio: audio/tts/08/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-LibbyNeural", license: "TTS"}
+    answers: ["We stopped to have lunch at a little café by the river.", "We stopped to have lunch at a little cafe by the river."]
+    explain: "«Мы остановились пообедать в маленьком кафе у реки». *stop* + **to** — остановиться ради другого действия."
+  - audio: audio/tts/08/s5.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural", license: "TTS"}
+    answers: ["He tried to apologise, but she refused to listen.", "He tried to apologize, but she refused to listen."]
+    explain: "«Он пытался извиниться, но она не стала слушать». *try* + **to** — попытка; *refuse* + **to**."
+  - audio: audio/tatoeba/1047778.mp3
+    audio_source: {title: "Tatoeba #297689", url: "https://tatoeba.org/en/sentences/show/297689", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["He keeps on phoning me, and I really don't want to talk to him."]
+    explain: "«Он всё звонит и звонит, а я совсем не хочу с ним разговаривать». *keep (on)* + **-ing** — повторяющееся действие; *want* + **to**."
+  - audio: audio/tatoeba/1158050.mp3
+    audio_source: {title: "Tatoeba #1142187", url: "https://tatoeba.org/en/sentences/show/1142187", author: "Them", license: "CC BY 4.0"}
+    answers: ["I remember having heard a similar sound in my dreams."]
+    explain: "«Помню, что слышал похожий звук во сне». *remember having heard* — перфектный герундий подчёркивает, что действие было раньше; *remember hearing* значит то же."
+  - audio: audio/tatoeba/1247237.mp3
+    audio_source: {title: "Tatoeba #9771010", url: "https://tatoeba.org/en/sentences/show/9771010", author: "rul", license: "CC BY 4.0"}
+    answers: ["Watching gameplay videos online made me want to play it for myself."]
+    explain: "«Из-за роликов с прохождением мне самому захотелось поиграть». *made me want* — *make* + объект + глагол **без to**; подлежащее — герундий *Watching*."
+  - audio: audio/tatoeba/1063560.mp3
+    audio_source: {title: "Tatoeba #269209", url: "https://tatoeba.org/en/sentences/show/269209", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["He didn't want to disappoint his wife by giving up his new position."]
+    explain: "«Он не хотел огорчать жену, уходя с новой должности». После предлога *by* — **-ing**: *by giving up*."
+  - audio: audio/tatoeba/1123703.mp3
+    audio_source: {title: "Tatoeba #9593201", url: "https://tatoeba.org/en/sentences/show/9593201", author: "Them", license: "CC BY 4.0"}
+    answers: ["I wish you would stop making fun of me."]
+    explain: "«Хватит уже надо мной смеяться». *stop* + **-ing** — прекратить; *I wish you would* — раздражение чужим поведением."

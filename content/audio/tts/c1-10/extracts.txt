@@ -1,0 +1,25 @@
+# pause: 700
+B: Extract one. You hear two friends talking about learning to drive.
+G: I can't believe you've finally booked a driving test! What made you decide?
+F: Mostly being sick of asking people for lifts, I think. And my sister offered to lend me her car to practise in, which was too good a chance to miss.
+G: I keep meaning to learn, but I'm terrified of failing. I'd hate to be seen stalling at the traffic lights by some teenager.
+F: Honestly, that's the least of it. What I found hardest was learning not to trust other drivers. My instructor kept telling me to assume that everyone around me was about to do something stupid.
+G: That sounds exhausting.
+F: It is, at first. But I'd rather have been taught that than learn it the hard way. Anyway, you should give it a go. If I can manage it at thirty-eight, you certainly can.
+G: Maybe. Remind me to ask you again once you've passed.
+B: Extract two. You hear two colleagues discussing a decision made by their company.
+D: Did you hear they're closing the Leeds office?
+E: I did. I'm not surprised, to be honest. They've been talking about it for ages. What surprises me is that nobody seems to have been consulted.
+D: Well, they claim to have consulted the managers.
+E: Claiming to have consulted people and actually listening to them aren't the same thing. Sarah in Leeds told me she'd found out from the local paper.
+D: That can't be right.
+E: That's what she said. Anyway, the bigger question is what happens to the staff. They're being offered the chance to relocate, but most of them have families up there. Moving isn't really an option.
+D: I suppose they could always work from home.
+E: That would make sense, wouldn't it? Which is probably why nobody's suggested it.
+B: Extract three. You hear two friends talking about a pottery course.
+A: So how's the pottery course going? You were dreading it, weren't you?
+H: I was. I only signed up because my daughter had bought it for my birthday, and it seemed rude not to go. But I'm actually enjoying it. There's something about having your hands covered in clay that stops you thinking about work.
+A: Have you made anything yet?
+H: A bowl, if you can call it that. It was meant to have been a vase. The teacher says it's not worth trying to make anything perfect in the first few weeks. You're supposed to get used to the feel of the clay first.
+A: So you'll keep going?
+H: I'm going to try to. The next course starts in March, and I've already put my name down. My daughter is far too pleased with herself, mind you.

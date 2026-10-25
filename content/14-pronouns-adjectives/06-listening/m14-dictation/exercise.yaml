@@ -1,0 +1,47 @@
+title: "Диктант: местоимения и оценки на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения (it's / it is) засчитываются в обе стороны."
+hints:
+  - "there's и it's в быстрой речи похожи — решай по смыслу: «есть» или «это»."
+  - "so + прилагательное, such a + прилагательное + существительное."
+items:
+  - audio: audio/tts/14/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-ThomasNeural", license: "TTS"}
+    answers: ["There is no point in waiting. It is too late to catch the last bus.", "There's no point in waiting. It's too late to catch the last bus.", "There is no point in waiting. It's too late to catch the last bus.", "There's no point in waiting. It is too late to catch the last bus."]
+    explain: "«Ждать бессмысленно: на последний автобус уже не успеть». *There's no point in* + **-ing**; *it's too late to* — *it* как формальное подлежащее."
+  - audio: audio/tts/14/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-AU-NatashaNeural", license: "TTS"}
+    answers: ["The lecture was so boring that half the students fell asleep."]
+    explain: "«Лекция была такой скучной, что половина студентов уснула». *boring* — свойство лекции; студенты были бы *bored*."
+  - audio: audio/tts/14/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-AndrewNeural", license: "TTS"}
+    answers: ["It was such a long journey that we hardly spoke to each other."]
+    explain: "«Дорога была такой долгой, что мы почти не разговаривали друг с другом». *such a* + прилагательное + существительное; *hardly* — «почти не»."
+  - audio: audio/tts/14/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-LibbyNeural", license: "TTS"}
+    answers: ["These shoes are too small. Have you got any bigger ones?"]
+    explain: "«Эти туфли малы. Есть размер побольше?» *ones* заменяет *shoes*, чтобы не повторять слово."
+  - audio: audio/tts/14/s5.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural", license: "TTS"}
+    answers: ["Everyone was talking about the match, but none of us had actually seen it."]
+    explain: "«Все обсуждали матч, но никто из нас его на самом деле не видел». *everyone* + глагол в ед. ч. (*was*), *none of us* — «никто из нас»."
+  - audio: audio/tatoeba/1129371.mp3
+    audio_source: {title: "Tatoeba #288206", url: "https://tatoeba.org/en/sentences/show/288206", author: "Them", license: "CC BY 4.0"}
+    answers: ["He lives by himself in the woods."]
+    explain: "«Он живёт в лесу один». *by himself* = *on his own* — «в одиночку, сам по себе»."
+  - audio: audio/tatoeba/956327.mp3
+    audio_source: {title: "Tatoeba #283229", url: "https://tatoeba.org/en/sentences/show/283229", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["He told us such a funny story that we all laughed."]
+    explain: "«Он рассказал нам такую смешную историю, что мы все рассмеялись». *such a funny story that…* — сильная оценка и результат."
+  - audio: audio/tatoeba/1247739.mp3
+    audio_source: {title: "Tatoeba #12400692", url: "https://tatoeba.org/en/sentences/show/12400692", author: "rul", license: "CC BY 4.0"}
+    answers: ["You're old enough to understand that.", "You are old enough to understand that."]
+    explain: "«Ты уже достаточно взрослый человек, чтобы это понимать». *enough* стоит **после** прилагательного: *old enough to*."
+  - audio: audio/tatoeba/1073631.mp3
+    audio_source: {title: "Tatoeba #244849", url: "https://tatoeba.org/en/sentences/show/244849", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["Last night, I was so tired that I fell asleep with the TV on.", "Last night I was so tired that I fell asleep with the TV on."]
+    explain: "«Вчера вечером я так устал(а), что уснул(а) с включённым телевизором». *so* + прилагательное + *that*; *tired* — состояние человека (-ed)."
+  - audio: audio/tatoeba/962083.mp3
+    audio_source: {title: "Tatoeba #286819", url: "https://tatoeba.org/en/sentences/show/286819", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["His new film is disappointing."]
+    explain: "«Его новый фильм разочаровывает». *-ing* — свойство фильма; зрители при этом *disappointed*."

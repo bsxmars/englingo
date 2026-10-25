@@ -175,6 +175,8 @@ body {
 .item.ok .fb-head { color: var(--success-text, var(--success)); }
 .item.bad .fb-head { color: var(--danger-text, var(--danger)); }
 .fb-explain { color: var(--text-muted); }
+.player { width: 100%; }
+.audio-source a { color: inherit; }
 .reading-text { font-size: 16px; line-height: 1.75; }
 .reading-text p { margin: 0 0 .9em; }
 

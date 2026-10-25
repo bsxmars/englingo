@@ -1,0 +1,2 @@
+# rate: -5%
+G: The meeting is due to start at nine, but Anna is likely to be late.

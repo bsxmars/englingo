@@ -1,0 +1,93 @@
+title: "Part 1: Three short extracts"
+type: listening
+intro: "Послушай три коротких отрывка. К каждому — два вопроса; выбери ответ, который лучше всего соответствует тому, что услышано. Перед каждым отрывком звучит фраза о том, кто говорит."
+hints:
+  - "Вопросы об отношении и намерении: ищи не факты, а оценку и планы говорящего."
+  - "was to have done, was going to, was about to — план или почти совершённое действие, которое не состоялось."
+audio: audio/tts/c1-01/extracts.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural, en-GB-SoniaNeural, en-US-AndrewNeural, en-US-JennyNeural, en-GB-ThomasNeural, en-GB-LibbyNeural, en-IE-ConnorNeural", license: "TTS"}
+transcript: |
+  ### Extract one
+
+  *You hear two colleagues talking about a project that has been postponed.*
+
+  **Woman:** So, the move to the new building. Is it still happening, or has it quietly died?
+
+  **Man:** Well, officially it's "under review". We were to have moved in March, then it was going to be June, and now nobody seems prepared to commit to a date at all.
+
+  **Woman:** That's a shame. I'd actually come round to the idea. I was dreading it at first, because the commute's longer for me, but the plans looked genuinely good.
+
+  **Man:** They were good. The problem is the budget. The contractor's costs have gone up by a third since we signed, and finance are digging their heels in.
+
+  **Woman:** So what happens to the people who've already given notice on their flats? I know Marta had found somewhere near the new site.
+
+  **Man:** That's exactly what worries me. Some of them were on the point of moving house. I'm meeting the director on Thursday, and I'm going to push for a straight answer, even if it's a no.
+
+  **Woman:** Good luck. Though, if I'm honest, I suspect a straight answer is the one thing you won't get.
+
+  **Man:** Probably not. But at least nobody will be able to say we didn't ask.
+
+  ### Extract two
+
+  *You hear a writer talking about his first novel.*
+
+  **Interviewer:** Your first novel came out when you were fifty-three. Had you always intended to write?
+
+  **Writer:** Not at all. For most of my career I was an engineer, and I'd have laughed at anyone who suggested otherwise. Fiction seemed a slightly frivolous thing to me, if I'm honest. Something other people did at weekends.
+
+  **Interviewer:** So what changed?
+
+  **Writer:** Nothing dramatic. I was stuck in a hotel in Aberdeen for a week, because a storm had closed the airport, and I started writing down the stories my grandfather used to tell. By the end of the week I had forty pages, and I'd grown rather attached to them.
+
+  **Interviewer:** And the novel grew out of those forty pages?
+
+  **Writer:** Eventually. It took another six years. What surprised me was how useful engineering turned out to be. You learn that a structure has to bear weight, that every part has to earn its place. A chapter is no different, really.
+
+  **Interviewer:** Some critics have called the book old-fashioned.
+
+  **Writer:** Well, they're not wrong. It has a beginning, a middle and an end, in that order. I've come to think that's rather a radical choice these days.
+
+  ### Extract three
+
+  *You hear two friends talking about a charity cycling event.*
+
+  **Woman:** So this time next week you'll be cycling across the Pyrenees. Are you nervous?
+
+  **Man:** Nervous isn't quite the word. Terrified, maybe. By Saturday night I'll have ridden further in three days than I have in the whole of the last year.
+
+  **Woman:** But you've been training, haven't you? Every time I look out of the window, you seem to be heading off somewhere on that bike.
+
+  **Man:** I have, but mostly on the flat. The organisers sent round the route last night, and the second day is nothing but climbing. I was about to write back and ask whether there's a bus option.
+
+  **Woman:** You were not!
+
+  **Man:** I was, honestly. Then I remembered I'd already collected nearly two thousand euros from people at work, and they're hardly going to sponsor me to sit on a bus.
+
+  **Woman:** Well, I think you'll surprise yourself. And if it all goes wrong, you'll at least have a good story to tell.
+
+  **Man:** That's what my wife said. Though she also said she'd be waiting at the finish line with a camera, which sounds more like a threat than a promise.
+items:
+  - q: "Extract 1. How does the woman feel about the move now?"
+    options: ["She would be relieved if it did not go ahead.", "She had begun to see its advantages.", "She still objects to it because of her journey to work."]
+    answer: 1
+    explain: "*I'd actually come round to the idea* — *come round to* значит «постепенно согласиться». Длинная дорога — это то, что пугало её *at first*, то есть раньше."
+  - q: "Extract 1. What does the man intend to do?"
+    options: ["Persuade the finance department to increase the budget.", "Help colleagues who have given notice on their flats.", "Get a definite decision from the director."]
+    answer: 2
+    explain: "*I'm going to push for a straight answer, even if it's a no* — *going to* передаёт уже принятое решение. Финансы и коллеги упомянуты, но действовать он собирается не там."
+  - q: "Extract 2. What does the writer say about his earlier attitude to fiction?"
+    options: ["He did not take it entirely seriously.", "He had secretly hoped to write one day.", "He was too busy at work to read much of it."]
+    answer: 0
+    explain: "*Fiction seemed a slightly frivolous thing to me* — linking verb *seem* + оценка: «несерьёзное занятие». *I'd have laughed at anyone who suggested otherwise* исключает тайную мечту."
+  - q: "Extract 2. How does the writer react to the critics' comment?"
+    options: ["He feels it misrepresents his book.", "He accepts it, but sees it as a strength.", "He is clearly hurt by it."]
+    answer: 1
+    explain: "*They're not wrong… I've come to think that's rather a radical choice* — соглашается, но с иронией переворачивает упрёк в достоинство. *come to think* — «со временем прийти к мнению»."
+  - q: "Extract 3. What is the man's main concern about the event?"
+    options: ["The amount of climbing on the route.", "The distance he will cover on the first day.", "Whether he has trained for long enough."]
+    answer: 0
+    explain: "*The second day is nothing but climbing* — тренировался он *mostly on the flat*, поэтому пугают подъёмы, а не срок подготовки. Future Perfect *I'll have ridden further* — про весь маршрут, а не про первый день."
+  - q: "Extract 3. Why did the man decide not to ask about an easier option?"
+    options: ["His friend convinced him that he could finish.", "He realised his sponsors expected him to ride.", "His wife promised to meet him at the finish."]
+    answer: 1
+    explain: "*I was about to write back… Then I remembered I'd already collected nearly two thousand euros* — *was about to* «уже собирался», Past Perfect *I'd collected* — деньги собраны раньше, и спонсоры ждут, что он поедет."

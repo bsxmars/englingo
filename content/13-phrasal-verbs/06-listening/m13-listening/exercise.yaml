@@ -1,0 +1,67 @@
+title: "Part 4: From runner to Channel swimmer"
+type: listening
+intro: "Послушай радиоинтервью с Рейчел Мур, которая переплыла Ла-Манш, и выбери ответ. Вопросы идут по порядку записи."
+hints:
+  - "В вариантах — синонимы фразовых глаголов из записи: talked me into → persuaded."
+  - "Следи, кто что сказал: врач, подруга, муж, дочь и тренер говорят разное."
+audio: audio/tts/13/interview.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-AndrewNeural, en-GB-LibbyNeural", license: "TTS"}
+transcript: |
+  **Presenter:** Hello and welcome to *Second Wind*, the programme about people who took up something new later in life. My guest today is Rachel Moore, who started swimming in the sea at forty-five, and last summer swam the twenty-one miles across the English Channel. Rachel, how did it all start?
+
+  **Rachel:** With a bad knee, actually. I'd been a runner for years, and when the doctor told me to give it up, I was devastated. A friend kept going on about how good cold water was for you, so in the end I gave in and went with her one morning in March.
+
+  **Presenter:** In March! What was that like?
+
+  **Rachel:** Awful, to be honest. I lasted about ninety seconds. But I came out feeling more awake than I had in months, and I couldn't stop smiling. So I went back the next day, and the day after that.
+
+  **Presenter:** Did your family support you?
+
+  **Rachel:** My husband thought it was a phase and that I'd get over it by the summer. It was my daughter who talked me into joining a club. She said if I was going to do something that dangerous, I should at least do it with people who knew what they were doing.
+
+  **Presenter:** So when did the Channel come into it?
+
+  **Rachel:** Not for a long time. Someone at the club brought it up as a joke, and I just laughed it off. But the idea stayed with me. It took me three years to build up to it. I had to cut down on sugar, put on a bit of weight, which you need for the cold, and get used to swimming for ten hours at a time.
+
+  **Presenter:** Was there a moment when you nearly gave up?
+
+  **Rachel:** Oh, plenty. The worst was two months before the swim, when I picked up a shoulder injury. I seriously thought about calling the whole thing off. My coach was brilliant, though. She worked out a completely new training plan and wouldn't let me feel sorry for myself.
+
+  **Presenter:** And the swim itself?
+
+  **Rachel:** Fifteen hours and twelve minutes. The first half went fine, but around hour nine the tide turned and I hardly moved for an hour. What kept me going was my daughter on the boat. Every thirty minutes she held up a sign with a terrible joke on it.
+
+  **Presenter:** What would you say to listeners who'd like to try something like this?
+
+  **Rachel:** Don't put it off until you feel ready, because you never will. Find people who'll look out for you, start small, and don't compare yourself with anyone else.
+
+  **Presenter:** Rachel Moore, thank you so much.
+items:
+  - q: "Why did Rachel first go swimming in the sea?"
+    options: ["Her doctor told her that cold water would help her knee.", "A friend persuaded her after she had to stop running.", "She wanted to train for a long-distance swim."]
+    answer: 1
+    explain: "*A friend kept going on about how good cold water was… so in the end I **gave in*** — уступила уговорам. Врач велел бросить бег (*give it up*), а про холодную воду говорила подруга."
+  - q: "How did Rachel feel after her first swim?"
+    options: ["Disappointed that she had stayed in for such a short time.", "Full of energy and happy.", "Too cold to want to try again soon."]
+    answer: 1
+    explain: "*I came out feeling more awake than I had in months, and I couldn't stop smiling.* Девяносто секунд — правда, но расстройства нет: она пошла снова на следующий день."
+  - q: "What part did Rachel's daughter play at the start?"
+    options: ["She thought swimming was just a phase.", "She persuaded her mother to swim with a group.", "She taught her mother how to swim safely."]
+    answer: 1
+    explain: "*It was my daughter who **talked me into** joining a club* — talk sb into = уговорить. «Временное увлечение» — мнение мужа (*get over it* — «переболеет»)."
+  - q: "How did Rachel react when someone first mentioned swimming the Channel?"
+    options: ["She started planning it immediately.", "She didn't take the idea seriously.", "She felt that people were laughing at her."]
+    answer: 1
+    explain: "*Someone… **brought it up** as a joke, and I just **laughed it off**.* bring up — упомянуть, laugh off — отшутиться. Смеялась она сама, а не над ней."
+  - q: "What does Rachel say about her preparation?"
+    options: ["It took her about three years.", "She had to lose weight.", "She stopped eating sugar completely."]
+    answer: 0
+    explain: "*It took me three years to **build up to** it.* Вес она, наоборот, набирала (*put on*), а сахар сократила (*cut down on*), но не бросила."
+  - q: "What happened two months before the swim?"
+    options: ["She decided to cancel the swim.", "She hurt her shoulder and her coach changed her training.", "Her coach told her to stop feeling sorry for herself and rest."]
+    answer: 1
+    explain: "*I **picked up** a shoulder injury… She **worked out** a completely new training plan.* Отменить (*call off*) она только думала."
+  - q: "What helped Rachel most during the hardest part of the swim?"
+    options: ["The tide changing direction.", "Her daughter's signs from the boat.", "Remembering her coach's advice."]
+    answer: 1
+    explain: "*What **kept me going** was my daughter on the boat.* Смена течения (*the tide turned*) — как раз то, что ей мешало."

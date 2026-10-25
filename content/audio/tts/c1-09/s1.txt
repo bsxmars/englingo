@@ -1,0 +1,2 @@
+# rate: -5%
+A: The shop is open until eight, but the parcel must be collected by six.

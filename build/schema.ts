@@ -52,6 +52,13 @@ export const lessonSchema = z.object({
     .transform((v) => v ?? {}),
 });
 
+export const audioSourceSchema = z.strictObject({
+  title: str,
+  url: str,
+  author: str,
+  license: str,
+});
+
 export const itemSchema = z.strictObject({
   q: str,
   key: str,
@@ -61,6 +68,8 @@ export const itemSchema = z.strictObject({
   answers: strs,
   explain: str,
   topic: str,
+  audio: str,
+  audio_source: audioSourceSchema.nullish().transform((v) => v ?? null),
 });
 
 export const exerciseSchema = z.strictObject({
@@ -69,6 +78,10 @@ export const exerciseSchema = z.strictObject({
   intro: str,
   hints: strs,
   text: str,
+  audio: str,
+  link: str,
+  transcript: str,
+  audio_source: audioSourceSchema.nullish().transform((v) => v ?? null),
   items: z.array(itemSchema).nullish().transform((v) => v ?? []),
   pass: int,
   prompt: str,
@@ -88,6 +101,7 @@ export type Unit = z.infer<typeof unitSchema>;
 export type BookFile = z.infer<typeof bookSchema>;
 export type ModuleFile = z.infer<typeof moduleSchema>;
 export type LessonFront = z.infer<typeof lessonSchema>;
+export type AudioSource = z.infer<typeof audioSourceSchema>;
 export type ItemFile = z.infer<typeof itemSchema>;
 export type ExerciseFile = z.infer<typeof exerciseSchema>;
 export type CardFile = z.infer<typeof cardSchema>;

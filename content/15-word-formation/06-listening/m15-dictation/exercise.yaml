@@ -1,0 +1,47 @@
+title: "Диктант: длинные слова на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения засчитываются в обе стороны. Внимательно проверь написание приставок и суффиксов."
+hints:
+  - "Разбери длинное слово на части: приставка + корень + суффикс."
+  - "Отрицательные приставки un-, im-, dis- безударные — их легко пропустить."
+items:
+  - audio: audio/tts/15/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-SoniaNeural", license: "TTS"}
+    answers: ["Her explanation was clear, but the instructions were completely unreadable."]
+    explain: "«Её объяснение было понятным, но инструкцию прочитать было невозможно». *explain → explanation* (буква *i* выпадает), *un-read-able*."
+  - audio: audio/tts/15/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-ThomasNeural", license: "TTS"}
+    answers: ["Unemployment has fallen, but many young people are still unhappy with their salaries."]
+    explain: "«Безработица снизилась, но многие молодые люди всё ещё недовольны зарплатой». *un-employ-ment* и *un-happy* — одна приставка, разные части речи."
+  - audio: audio/tts/15/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-AndrewNeural", license: "TTS"}
+    answers: ["It is impossible to predict how successful the product will be.", "It's impossible to predict how successful the product will be."]
+    explain: "«Невозможно предсказать, насколько успешным будет продукт». *im-* перед *p*; *success → successful* (одна *l* в конце)."
+  - audio: audio/tts/15/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-AU-NatashaNeural", license: "TTS"}
+    answers: ["We need to strengthen our relationship with local businesses."]
+    explain: "«Нам нужно укрепить отношения с местным бизнесом». *strong → strength → strengthen*; *relation + -ship*."
+  - audio: audio/tts/15/s5.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-LibbyNeural", license: "TTS"}
+    answers: ["The staff were extremely helpful, and the rooms were spotless."]
+    explain: "«Персонал был очень отзывчивым, а номера — безупречно чистыми». *help + -ful*, *spot + -less* — «без единого пятнышка»."
+  - audio: audio/tatoeba/1158637.mp3
+    audio_source: {title: "Tatoeba #19138", url: "https://tatoeba.org/en/sentences/show/19138", author: "Them", license: "CC BY 4.0"}
+    answers: ["Teaching demands a lot of patience."]
+    explain: "«Преподавание требует большого терпения». *patient → patience*: существительное на *-ence*."
+  - audio: audio/tatoeba/951130.mp3
+    audio_source: {title: "Tatoeba #48130", url: "https://tatoeba.org/en/sentences/show/48130", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["The beauty of the lake is beyond description."]
+    explain: "«Красота озера не поддаётся описанию». *describe → description* (b меняется на p); *beauty → beautiful*."
+  - audio: audio/tatoeba/1115318.mp3
+    audio_source: {title: "Tatoeba #10471879", url: "https://tatoeba.org/en/sentences/show/10471879", author: "Them", license: "CC BY 4.0"}
+    answers: ["My disappointment is immeasurable, and my day is ruined."]
+    explain: "«Моё разочарование безмерно, и день испорчен» — шутливо-пафосная фраза. *dis-appoint-ment*, *im-measur-able*."
+  - audio: audio/tatoeba/951135.mp3
+    audio_source: {title: "Tatoeba #54614", url: "https://tatoeba.org/en/sentences/show/54614", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["What did they add this needless function for?"]
+    explain: "«Зачем они вообще добавили эту ненужную функцию?» *need + -less* — «ненужный»; *What… for?* — «зачем»."
+  - audio: audio/tatoeba/962035.mp3
+    audio_source: {title: "Tatoeba #245842", url: "https://tatoeba.org/en/sentences/show/245842", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["I always got up early in my childhood."]
+    explain: "«В детстве я всегда вставал(а) рано». *child + -hood* — период жизни (как *adulthood*, *neighbourhood*)."

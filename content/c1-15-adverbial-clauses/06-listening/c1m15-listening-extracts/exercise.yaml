@@ -1,0 +1,81 @@
+title: "Part 1: Three short extracts"
+type: listening
+intro: "Ты услышишь три отрывка с разными говорящими. К каждому — два вопроса; выбери лучший из трёх вариантов."
+hints:
+  - "Перед отрывком звучит, кто говорит и о чём: это ключ к ситуации."
+  - "Обстоятельственные союзы показывают логику: whereas — контраст, in that — уточнение, so that — цель."
+audio: audio/tts/c1-15/extracts.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-SoniaNeural, en-GB-LibbyNeural, en-US-AndrewNeural, en-US-JennyNeural, en-GB-ThomasNeural, en-GB-RyanNeural, en-IE-ConnorNeural", license: "TTS"}
+transcript: |
+  *Extract one. You hear two friends talking about a race.*
+
+  **Woman:** So how was the half marathon? You look as if you've been run over.
+
+  **Man:** Thanks. It was, well, an experience. I'd trained so hard that I honestly thought I'd do it in under two hours.
+
+  **Woman:** And?
+
+  **Man:** Two hours twenty. The first ten kilometres were great. I went off far too fast, though, just as everyone tells you not to. Once the adrenaline wore off, my legs simply stopped cooperating.
+
+  **Woman:** Still, you finished. Plenty of people don't.
+
+  **Man:** True. And the crowd were amazing. Tired as I was, every time someone shouted my name, I sort of found another gear. They print it on your number so that complete strangers can cheer for you.
+
+  **Woman:** That's lovely. So, next year?
+
+  **Man:** Ask me again when I can walk downstairs. Although, now that I know what the second half feels like, I'd pace it completely differently.
+
+  *Extract two. You hear two colleagues talking about their new office.*
+
+  **Woman:** How are you finding the new office?
+
+  **Man:** It's fine, in that it's bright and the coffee's better. But it's so noisy that I've started working from home on Thursdays, just to get anything written.
+
+  **Woman:** Really? I find it's the opposite. Whereas the old place felt like a library, here you actually overhear useful things. Yesterday I solved a problem simply because I heard two people from finance arguing about it.
+
+  **Man:** Well, that's the theory, isn't it? The architects designed it so that people would keep bumping into each other.
+
+  **Woman:** And it works! Seeing that we're supposed to be one team, I'd say it's about time.
+
+  **Man:** Maybe. I just wish they'd put in a few quiet rooms. As it is, you have to book one days in advance, as though you were reserving a table at a restaurant.
+
+  **Woman:** OK, I'll give you that. There should definitely be more of those.
+
+  *Extract three. You hear part of a radio interview with a theatre director.*
+
+  **Interviewer:** Your production of The Tempest is being staged on a beach this summer. Why take Shakespeare outdoors?
+
+  **Director:** Partly so that people who'd never set foot in a theatre would come across it by chance. You'd be amazed how many families stop on their way back from the ice-cream van and stay for the whole second half.
+
+  **Interviewer:** But surely the weather's a risk.
+
+  **Director:** Oh, a huge one. Weather permitting, we perform every evening at seven. If it pours, we move into a tent, which only holds about a third of the audience. On the first night there was such a strong wind that the actors had to shout every line, which, for a play that opens with a storm, was almost too appropriate.
+
+  **Interviewer:** Did the actors mind?
+
+  **Director:** Some did at first. But once they'd got used to the seagulls and the waves, most of them said they'd never felt so free on stage. As soon as you take away the walls, the audience stops behaving as if it were in church. People laugh, they answer back, children wander right up to the edge of the stage.
+items:
+  - q: "Extract 1. What does the man say went wrong in the race?"
+    options: ["He had not trained hard enough.", "He started much too fast.", "The crowd put him off his rhythm."]
+    answer: 1
+    explain: "*I went off far too fast, though, **just as** everyone tells you not to.* Тренировался он, наоборот, *so hard that…*; толпа ему помогала."
+  - q: "Extract 1. How does the man feel about running the race again?"
+    options: ["He has ruled it out completely.", "He is undecided, but knows what he would change.", "He is determined to finish in under two hours."]
+    answer: 1
+    explain: "*Ask me again when I can walk downstairs* — уклончивый ответ, но *now that I know what the second half feels like, I'd pace it completely differently.*"
+  - q: "Extract 2. What is the man's main complaint about the new office?"
+    options: ["It is hard to concentrate there.", "It is too much like a library.", "People from different departments argue there."]
+    answer: 0
+    explain: "*it's so noisy that I've started working from home… just to get anything written* — *so… that* выражает следствие. С библиотекой женщина сравнивает **старый** офис."
+  - q: "Extract 2. What do the speakers agree about?"
+    options: ["Open-plan offices help teams to solve problems.", "The building needs more spaces for quiet work.", "Staff should be allowed to work from home."]
+    answer: 1
+    explain: "*I just wish they'd put in a few quiet rooms.* — *OK, I'll give you that. There should definitely be more of those.* В пользе open space они не сходятся."
+  - q: "Extract 3. Why did the director decide to perform on a beach?"
+    options: ["To attract people who do not usually go to the theatre.", "To match the setting of the play.", "To avoid the cost of renting a theatre."]
+    answer: 0
+    explain: "*Partly **so that** people who'd never set foot in a theatre would come across it by chance.* Шторм в пьесе он упоминает как шутку о ветре, а не как причину."
+  - q: "Extract 3. What does the director say about audiences outdoors?"
+    options: ["They find it harder to hear the actors.", "They behave in a more relaxed and lively way.", "They tend to leave before the second half."]
+    answer: 1
+    explain: "*the audience stops behaving **as if it were in church**. People laugh, they answer back…* Кричать актёрам пришлось только в ветреную первую ночь; а семьи, наоборот, остаются на весь второй акт."

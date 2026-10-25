@@ -1,0 +1,55 @@
+title: "Part 2: A summer on a farm"
+type: listening
+intro: "Послушай рассказ волонтёра и впиши в каждый пропуск одно–три слова, которые прозвучали в записи."
+hints:
+  - "Слово для пропуска звучит дословно; предложения задания — перефразированы."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/01/talk.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-LibbyNeural", license: "TTS"}
+transcript: |
+  Hello everyone. I'd like to tell you about the summer I spent as a volunteer at a small farm in Wales.
+
+  I had never worked outside before. For six years I had been sitting in an office in London, so the first week was a real shock.
+
+  We got up at half past five every morning. The first job of the day was always feeding the goats, and there were thirty-two of them.
+
+  The farmer, a woman called Gwen, had been running the place on her own since her husband died. She used to say that the animals were better company than most people.
+
+  The thing I found hardest wasn't the physical work. It was the silence. In the evenings there was no internet and no traffic, only the wind.
+
+  By August, though, I'd got used to it. I had learnt to make cheese, and I had even started to understand a little Welsh.
+
+  I've been back in London for two years now, but I still go to the farm every spring to help with the lambs.
+
+  If you're thinking about volunteering, my advice is simple: choose something completely different from your normal life.
+items:
+  - q: "The speaker spent the summer at a small farm in ___."
+    answers: ["Wales"]
+    explain: "*a small farm in **Wales***."
+  - q: "Before the farm, she had worked in an office for ___ years."
+    answers: ["six", "6"]
+    explain: "*For **six** years I had been sitting in an office* — Past Perfect Continuous: долгое действие до лета на ферме."
+  - q: "The volunteers got up at ___ every morning."
+    answers: ["half past five", "5:30", "five thirty", "5.30"]
+    explain: "*We got up at **half past five** every morning.*"
+  - q: "The first job every day was feeding the ___."
+    answers: ["goats", "the goats"]
+    explain: "*feeding the **goats**, and there were thirty-two of them.*"
+  - q: "There were ___ goats on the farm."
+    answers: ["thirty-two", "32", "thirty two"]
+    explain: "*there were **thirty-two** of them.*"
+  - q: "Gwen had run the farm alone since her ___ died."
+    answers: ["husband"]
+    explain: "*had been running the place on her own since her **husband** died.*"
+  - q: "What the speaker found hardest was the ___."
+    answers: ["silence", "the silence"]
+    explain: "*The thing I found hardest wasn't the physical work. It was the **silence**.* Физическая работа — ловушка."
+  - q: "By August she had learnt to make ___."
+    answers: ["cheese"]
+    explain: "*I had learnt to make **cheese***."
+  - q: "She goes back to the farm every ___ to help with the lambs."
+    answers: ["spring"]
+    explain: "*I still go to the farm every **spring** to help with the lambs.*"
+  - q: "Her advice is to choose something completely different from your ___."
+    answers: ["normal life"]
+    explain: "*choose something completely different from your **normal life**.*"

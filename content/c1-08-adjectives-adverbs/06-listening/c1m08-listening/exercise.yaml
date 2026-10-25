@@ -1,0 +1,56 @@
+title: "Part 2: Recording the sounds of nature"
+type: listening
+intro: "Послушай выступление звукорежиссёра природных документальных фильмов и впиши в каждый пропуск одно–три слова, которые прозвучали в записи."
+hints:
+  - "Слово для пропуска звучит дословно; предложения задания — перефразированы."
+  - "Сначала часто звучит неверная догадка: ответ — после actually, by far, in fact."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/c1-08/talk.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-SoniaNeural", license: "TTS"}
+transcript: |
+  Hello, everyone, and thanks for having me. My name's Dana Whitfield, and for the last twelve years I've been recording sounds for nature documentaries. Frankly, it's a job most people have never heard of, and those who have usually assume it's rather glamorous. Admittedly, there are moments that are. But mostly it involves sitting perfectly still in a cold, wet hide for hours on end, hoping that something interesting will happen.
+
+  I got into it almost by accident. I'd trained as a classical violinist, and I was working, fairly unhappily, in an orchestra pit in Manchester. A friend who worked in television needed someone with a good ear to help clean up some old recordings of birdsong, and I said yes without really knowing what I was agreeing to. Within a year I'd given up the violin entirely.
+
+  People often ask me what the hardest sound to record is. You'd think it would be something rare, a particular species of owl, say. Actually, the hardest thing by far is silence. Genuine, natural silence is nowhere near as easy to find as you'd imagine. Even in the most remote places, there's almost always a plane somewhere overhead. On one project in northern Canada, we waited eleven days for a single uninterrupted hour.
+
+  The equipment has changed enormously. When I started, a decent microphone weighed nearly two kilos, and I carried a heavy, old-fashioned tape machine on my back. These days, everything fits into a small waterproof bag. Technically, the recordings are far better too, but, oddly enough, I'm not sure they're more beautiful. There was something about the slightly imperfect sound of tape.
+
+  The recording I'm proudest of is surprisingly ordinary: a dawn chorus in a small wood in Shropshire. I'd been going there every morning for a fortnight, and on the very last day the wind dropped completely just before five. For about twenty minutes, every bird in the wood seemed to be singing at once. I've listened to it hundreds of times, and it still makes the hairs on my arms stand up. It's nowhere near as dramatic as a lion or a thunderstorm, but it's by far the most beautiful thing I've ever recorded.
+
+  What surprises audiences most is how much of what they hear in a documentary isn't recorded on location at all. The footsteps of a bear in snow, for instance, are quite often created later in a studio. My personal favourite trick is a bag of cornflour. Squeeze it gently, and it sounds remarkably like someone walking through fresh snow. Is that dishonest? Arguably, yes. But the camera is usually hundreds of metres away, and a microphone that far away simply can't pick up those sounds. The more natural you want a scene to feel, the more work goes into it afterwards.
+
+  I'm often asked for advice by young people who'd like to do what I do. My answer is always the same: don't spend a fortune on equipment. A reasonably cheap recorder and a pair of decent headphones are perfectly adequate to start with. What really matters is patience, and that's something no shop can sell you.
+
+  If there's one thing I'd like you to take away from this talk, it's to listen more carefully. Next time you're in a park, close your eyes for two minutes and count how many different sounds you can hear. Most people stop at about five. A good recordist will hear thirty.
+items:
+  - q: "Dana has been recording sounds for nature documentaries for ___ years."
+    answers: ["twelve", "12"]
+    explain: "*for the last **twelve** years I've been recording sounds* — Present Perfect Continuous с *for the last…*: работает до сих пор."
+  - q: "Most of her working time is spent waiting in a cold, wet ___."
+    answers: ["hide"]
+    explain: "*sitting perfectly still in a cold, wet **hide*** — *hide* — укрытие для наблюдения за животными. Прилагательные одного типа (*cold, wet*) разделяются запятой."
+  - q: "Before this career, she had trained as a classical ___."
+    answers: ["violinist"]
+    explain: "*I'd trained as a classical **violinist*** — *classical* здесь классифицирующее прилагательное, оно стоит вплотную к существительному."
+  - q: "Her first job in sound was helping to clean up old recordings of ___."
+    answers: ["birdsong", "bird song", "bird-song"]
+    explain: "*help clean up some old recordings of **birdsong*** — пение птиц, неисчисляемое."
+  - q: "She says the hardest thing to record is ___."
+    answers: ["silence", "natural silence", "genuine natural silence", "genuine, natural silence"]
+    explain: "*You'd think it would be something rare… Actually, the hardest thing by far is **silence**.* Сова — догадка слушателей, ответ — после *Actually… by far*."
+  - q: "In northern Canada, the team waited ___ days for one uninterrupted hour."
+    answers: ["eleven", "11"]
+    explain: "*we waited **eleven** days for a single uninterrupted hour* — так трудно найти тишину без самолётов."
+  - q: "When she started, a decent microphone weighed nearly ___."
+    answers: ["two kilos", "2 kilos", "two kilograms", "2 kilograms", "2 kg", "2kg"]
+    explain: "*a decent microphone weighed nearly **two kilos*** — *nearly* = почти; *decent* — «приличный, вполне хороший»."
+  - q: "Her proudest recording is of a dawn chorus in a small wood in ___."
+    answers: ["Shropshire"]
+    explain: "*a dawn chorus in a small wood in **Shropshire*** — *dawn chorus* — птичий хор на рассвете. *surprisingly ordinary* — «на удивление обычная»: наречие оценивает прилагательное."
+  - q: "To create the sound of footsteps in snow, she squeezes a bag of ___."
+    answers: ["cornflour", "corn flour", "cornstarch"]
+    explain: "*a bag of **cornflour**. Squeeze it gently* — британское *cornflour* = американское *cornstarch*. *remarkably like* — наречие степени перед сравнением."
+  - q: "She tells beginners that a cheap recorder and some decent ___ are enough to start with."
+    answers: ["headphones"]
+    explain: "*a pair of decent **headphones** are perfectly adequate* — *perfectly adequate*: *perfectly* здесь не «идеально», а «вполне»."

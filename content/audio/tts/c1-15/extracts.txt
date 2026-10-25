@@ -1,0 +1,25 @@
+# pause: 600
+A: Extract one. You hear two friends talking about a race.
+C: So how was the half marathon? You look as if you've been run over.
+F: Thanks. It was, well, an experience. I'd trained so hard that I honestly thought I'd do it in under two hours.
+C: And?
+F: Two hours twenty. The first ten kilometres were great. I went off far too fast, though, just as everyone tells you not to. Once the adrenaline wore off, my legs simply stopped cooperating.
+C: Still, you finished. Plenty of people don't.
+F: True. And the crowd were amazing. Tired as I was, every time someone shouted my name, I sort of found another gear. They print it on your number so that complete strangers can cheer for you.
+C: That's lovely. So, next year?
+F: Ask me again when I can walk downstairs. Although, now that I know what the second half feels like, I'd pace it completely differently.
+A: Extract two. You hear two colleagues talking about their new office.
+E: How are you finding the new office?
+D: It's fine, in that it's bright and the coffee's better. But it's so noisy that I've started working from home on Thursdays, just to get anything written.
+E: Really? I find it's the opposite. Whereas the old place felt like a library, here you actually overhear useful things. Yesterday I solved a problem simply because I heard two people from finance arguing about it.
+D: Well, that's the theory, isn't it? The architects designed it so that people would keep bumping into each other.
+E: And it works! Seeing that we're supposed to be one team, I'd say it's about time.
+D: Maybe. I just wish they'd put in a few quiet rooms. As it is, you have to book one days in advance, as though you were reserving a table at a restaurant.
+E: OK, I'll give you that. There should definitely be more of those.
+A: Extract three. You hear part of a radio interview with a theatre director.
+B: Your production of The Tempest is being staged on a beach this summer. Why take Shakespeare outdoors?
+H: Partly so that people who'd never set foot in a theatre would come across it by chance. You'd be amazed how many families stop on their way back from the ice-cream van and stay for the whole second half.
+B: But surely the weather's a risk.
+H: Oh, a huge one. Weather permitting, we perform every evening at seven. If it pours, we move into a tent, which only holds about a third of the audience. On the first night there was such a strong wind that the actors had to shout every line, which, for a play that opens with a storm, was almost too appropriate.
+B: Did the actors mind?
+H: Some did at first. But once they'd got used to the seagulls and the waves, most of them said they'd never felt so free on stage. As soon as you take away the walls, the audience stops behaving as if it were in church. People laugh, they answer back, children wander right up to the edge of the stage.

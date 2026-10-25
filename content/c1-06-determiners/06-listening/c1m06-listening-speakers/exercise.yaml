@@ -1,0 +1,59 @@
+title: "Part 4: Living with less"
+type: listening
+intro: "Пять человек рассказывают, как избавились от большей части вещей. **Задание 1** (пункты 1–5): с чего это началось? **Задание 2** (пункты 6–10): что каждого удивило? В каждом задании три варианта лишние."
+hints:
+  - "Удивление вводится словами What I hadn't expected…, The odd thing is…, I'd assumed…"
+  - "Варианты обобщают: a relative вместо grandmother, a challenge вместо a bet."
+audio: audio/tts/c1-06/speakers.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-LibbyNeural, en-GB-SoniaNeural, en-US-AndrewNeural, en-AU-NatashaNeural, en-GB-ThomasNeural, en-US-JennyNeural", license: "TTS"}
+transcript: |
+  **Speaker 1:** When my grandmother died, my mother and I spent the whole of one summer clearing her house. Every drawer and every cupboard was full, and most of it, honestly, she hadn't touched in decades. I came home, looked round my own flat and thought, I'm doing exactly the same thing. So I started. I gave away about two-thirds of my clothes and nearly all of my books. What I hadn't expected was the reaction at work. A couple of colleagues seemed almost offended, as if I were judging them. One of them still makes little comments about it.
+
+  **Speaker 2:** Our landlord sold the house, and the only place we could find near the kids' school was an apartment about half the size. So it wasn't a choice. There simply wasn't room for most of what we owned. I was dreading it. But a year later, I can't name more than a handful of things we got rid of. All those boxes, and I couldn't tell you what was in any of them. I'd assumed I'd miss far more than I do. Much less, really, than I'd miss a single afternoon at the beach.
+
+  **Speaker 3:** Mine started as a bet. A friend of mine said I couldn't go a whole year without buying any new clothes, and I said I could do better than that. I'd get rid of everything I hadn't worn in the past twelve months as well. Neither of us thought I'd stick to it. The odd thing is how much time it's given me. I used to spend half of every Saturday in shops, and most evenings scrolling through websites. Now I've got whole weekends free, and I've taken up climbing. Each of those hours had been going somewhere, and I'd never even noticed.
+
+  **Speaker 4:** We were burgled two years ago. They took very little, as it turned out, because there was very little worth taking. But the police asked us to list everything we owned, and we couldn't. That shook me. So I went through every room and sold whatever had any value at all. I'd assumed I'd make a few hundred pounds. In the end it came to over four thousand, which paid for a family holiday. I'm still slightly embarrassed by how much money we'd had sitting in the loft.
+
+  **Speaker 5:** I'd been reading a lot about waste, how much of what we buy ends up in landfill within a year, and I felt I had to do something rather than just worry about it. So I gave most of my things to thrift stores, and these days I repair what I've got instead of replacing it. I thought it would be a rather lonely sort of project. But my teenage daughter, of all people, got involved. She now sells her old clothes online and lectures me about fast fashion. And my husband, who has never thrown anything away in his life, has cleared out half the garage.
+items:
+  - q: "Task 1 · Speaker 1: what started the process?"
+    options: &t1 ["a burglary", "a challenge from a friend", "the birth of a child", "moving to a smaller home", "concern about the environment", "a documentary", "clearing a relative's house", "financial difficulties"]
+    answer: 6
+    explain: "*my mother and I spent the whole of one summer clearing her house* — *the whole of* + существительное с *the*: всё лето целиком ушло на дом бабушки."
+  - q: "Task 1 · Speaker 2: what started the process?"
+    options: *t1
+    answer: 3
+    explain: "*the only place we could find… was an apartment about half the size* — *half the size* без *of*: переезд в жильё вдвое меньше. О деньгах речи нет."
+  - q: "Task 1 · Speaker 3: what started the process?"
+    options: *t1
+    answer: 1
+    explain: "*Mine started as a bet. A friend of mine said I couldn't go a whole year without buying any new clothes* — всё началось с пари."
+  - q: "Task 1 · Speaker 4: what started the process?"
+    options: *t1
+    answer: 0
+    explain: "*We were burgled two years ago… the police asked us to list everything we owned, and we couldn't.*"
+  - q: "Task 1 · Speaker 5: what started the process?"
+    options: *t1
+    answer: 4
+    explain: "*I'd been reading a lot about waste, how much of what we buy ends up in landfill* — забота об экологии. Документального фильма не было — она читала."
+  - q: "Task 2 · Speaker 1: what surprised the speaker?"
+    options: &t2 ["how much time they gained", "how much money they made", "how hard it was to part with gifts", "how other family members joined in", "how little they missed what had gone", "how quickly they started buying again", "how some people reacted negatively", "how much better they slept"]
+    answer: 6
+    explain: "*What I hadn't expected was the reaction at work. A couple of colleagues seemed almost offended.*"
+  - q: "Task 2 · Speaker 2: what surprised the speaker?"
+    options: *t2
+    answer: 4
+    explain: "*I can't name more than a handful of things we got rid of… I'd assumed I'd miss far more than I do.* *a handful* — «горстка», считанные вещи."
+  - q: "Task 2 · Speaker 3: what surprised the speaker?"
+    options: *t2
+    answer: 0
+    explain: "*The odd thing is how much time it's given me… Now I've got whole weekends free.* *Each of those hours had been going somewhere* — каждый час раньше на что-то уходил, просто незаметно."
+  - q: "Task 2 · Speaker 4: what surprised the speaker?"
+    options: *t2
+    answer: 1
+    explain: "*I'd assumed I'd make a few hundred pounds. In the end it came to over four thousand* — *a few hundred* «несколько сотен» против реальной суммы."
+  - q: "Task 2 · Speaker 5: what surprised the speaker?"
+    options: *t2
+    answer: 3
+    explain: "*I thought it would be a rather lonely sort of project. But my teenage daughter, of all people, got involved… my husband… has cleared out half the garage.* — присоединилась семья."

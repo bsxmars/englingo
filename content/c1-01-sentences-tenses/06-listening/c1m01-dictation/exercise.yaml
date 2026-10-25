@@ -1,0 +1,47 @@
+title: "Диктант: времена и структура предложения на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения (I'd / I had) засчитываются в обе стороны."
+hints:
+  - "Сначала поймай вспомогательный глагол: had, will have, was to have — он определяет время."
+  - "В связной речи have после модального звучит как [əv]: will've, would've."
+items:
+  - audio: audio/tts/c1-01/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural", license: "TTS"}
+    answers: ["The minister was to have opened the bridge, but the ceremony was cancelled at the last minute.", "The minister was to have opened the bridge, but the ceremony was canceled at the last minute."]
+    explain: "«Мост должен был открыть министр, но церемонию отменили в последний момент». *was to have done* — официальный план, который не осуществился."
+  - audio: audio/tts/c1-01/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-JennyNeural", license: "TTS"}
+    answers: ["By the time the report comes out, the figures will have changed completely."]
+    explain: "«К тому времени, как выйдет отчёт, цифры полностью изменятся». После *by the time* — Present Simple, в главной части — Future Perfect."
+  - audio: audio/tts/c1-01/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-AU-NatashaNeural", license: "TTS"}
+    answers: ["Neither the manager nor her assistants were aware of the problem."]
+    explain: "«Ни начальница, ни её помощники не знали о проблеме». После *neither… nor* глагол согласуется с ближайшим подлежащим: *assistants* → *were*."
+  - audio: audio/tts/c1-01/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural", license: "TTS"}
+    answers: ["I was on the point of giving up when the phone finally rang."]
+    explain: "«Я уже был готов сдаться, когда наконец зазвонил телефон». *be on the point of* + **-ing** — «вот-вот», ещё ближе, чем *be about to*."
+  - audio: audio/tts/c1-01/s5.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-SoniaNeural", license: "TTS"}
+    answers: ["The longer I lived abroad, the more I came to appreciate the place where I grew up."]
+    explain: "«Чем дольше я жила за границей, тем больше ценила место, где выросла». *come to* + глагол — «со временем начать»; *the longer…, the more…* — парная конструкция."
+  - audio: audio/tatoeba/1073721.mp3
+    audio_source: {title: "Tatoeba #251712", url: "https://tatoeba.org/en/sentences/show/251712", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["By the time my father retires, he will have worked for almost thirty years.", "By the time my father retires, he will have worked for almost 30 years."]
+    explain: "«К выходу на пенсию отец проработает почти тридцать лет». Future Perfect: итог к моменту в будущем; в придаточном времени — *retires*, не *will retire*."
+  - audio: audio/tatoeba/1038892.mp3
+    audio_source: {title: "Tatoeba #50637", url: "https://tatoeba.org/en/sentences/show/50637", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["The rumor turned out to be groundless.", "The rumour turned out to be groundless."]
+    explain: "«Слух оказался беспочвенным». *turn out* + to be / прилагательное — linking verb «оказаться»."
+  - audio: audio/tatoeba/942430.mp3
+    audio_source: {title: "Tatoeba #313830", url: "https://tatoeba.org/en/sentences/show/313830", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["She seems to have left for Tokyo yesterday."]
+    explain: "«Она, похоже, вчера уехала в Токио». *seem* + перфектный инфинитив *to have left*: сейчас кажется, что действие уже было."
+  - audio: audio/tatoeba/956233.mp3
+    audio_source: {title: "Tatoeba #246323", url: "https://tatoeba.org/en/sentences/show/246323", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["The thought flashed through her mind that she was going to die."]
+    explain: "«У неё мелькнула мысль, что она умрёт». *was going to* — будущее в прошедшем: так ей казалось тогда."
+  - audio: audio/tatoeba/956389.mp3
+    audio_source: {title: "Tatoeba #312059", url: "https://tatoeba.org/en/sentences/show/312059", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["She was indignant at the way she had been treated."]
+    explain: "«Её возмутило то, как с ней обошлись». Past Perfect passive *had been treated* — обращение было раньше возмущения."

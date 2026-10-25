@@ -1,0 +1,78 @@
+title: "Listening Part 4: A life in weather forecasting"
+type: listening
+pass: 60
+intro: |
+  **Part 4** (вопросы 14–20): радиоинтервью с телеведущим прогноза погоды Томом Бейли. Выбери лучший ответ. Вопросы идут по порядку записи.
+
+  Прослушай запись дважды и только потом проверяй. Для зачёта нужно **60 %**.
+hints:
+  - "Неверные варианты звучат в записи, но с поворотом: «так думают другие», «так было раньше»."
+  - "Следи за связками although, while, until: они меняют смысл фразы."
+audio: audio/tts/16/interview.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-AU-NatashaNeural, en-US-AndrewNeural", license: "TTS"}
+transcript: |
+  **Presenter:** My guest today is Tom Bailey, who has presented the weather on national television for fifteen years. Tom, what's a normal day like for you?
+
+  **Tom:** It starts early. I'm at the office by half past four, and I don't leave until after the evening news. Although people think I just stand in front of a map, I actually spend most of the day with the forecasting team, going through the data.
+
+  **Presenter:** How accurate are forecasts these days?
+
+  **Tom:** Far more accurate than when I started. A five-day forecast today is about as reliable as a two-day forecast was in the 1990s. And the more data we get from satellites, the better our computer models become.
+
+  **Presenter:** Is there anything that's still hard to predict?
+
+  **Tom:** Thunderstorms. They're incredibly local. One street can get flooded while the next one stays completely dry. So when I say there's a chance of storms in the afternoon, I'm not being vague on purpose. They're genuinely unpredictable.
+
+  **Presenter:** What do viewers ask you most?
+
+  **Tom:** Oh, whether it'll rain on their wedding day! People stop me in the supermarket and ask if I could tell them what the weather will be like in August. I always say I have no idea, which disappoints them.
+
+  **Presenter:** Have you ever got a forecast badly wrong?
+
+  **Tom:** Once, early in my career. I said it would be a lovely sunny day, and a storm hit the coast that afternoon. Hundreds of people had to be helped off the beach. I must have received a thousand angry letters. My boss told me I should have checked the latest data before going on air, and he was right. I'd been looking at the morning figures.
+
+  **Presenter:** How long will you carry on?
+
+  **Tom:** My contract runs until the end of next year. By then I'll have been doing this for seventeen years, and I'd like to spend more time teaching. So that will probably be the end of my time on screen.
+
+  **Presenter:** And what would you say to young people who'd like to do your job?
+
+  **Tom:** Don't try to become famous. Learn the science first, properly. I'd also recommend getting used to speaking without notes. And remember to smile, even when the news is bad.
+
+  **Presenter:** Tom Bailey, thank you.
+items:
+  - q: "14. What does Tom say about his working day?"
+    options: ["He spends most of it presenting in front of a map.", "Most of it is spent studying data with other forecasters.", "It finishes before the evening news."]
+    answer: 1
+    topic: "11-linking"
+    explain: "***Although** people think I just stand in front of a map, I actually spend most of the day with the forecasting team.* После *although* — чужое мнение, главное — во второй части. Уходит он *until after* новостей, а не до них."
+  - q: "15. How have weather forecasts changed since the 1990s?"
+    options: ["A five-day forecast is now about as reliable as a two-day forecast used to be.", "Two-day forecasts are less reliable than they used to be.", "They are no more accurate than before, despite the satellites."]
+    answer: 0
+    topic: "10-word-order"
+    explain: "*A five-day forecast today is about **as reliable as** a two-day forecast was…* и *the more data…, **the better** our models* — точность выросла."
+  - q: "16. Why does Tom give only general forecasts for thunderstorms?"
+    options: ["Viewers find detailed forecasts unhelpful.", "Storms rarely cause serious flooding.", "It is impossible to say exactly where they will happen."]
+    answer: 2
+    topic: "15-word-formation"
+    explain: "*They're incredibly local… They're genuinely **unpredictable**.* un- + predict + -able: «невозможно предсказать». *vague on purpose* — нарочно расплывчато, а он говорит, что это не так."
+  - q: "17. What do people often ask Tom?"
+    options: ["Why his forecast was wrong.", "To tell them the weather months in advance.", "To mention their wedding on television."]
+    answer: 1
+    topic: "10-word-order"
+    explain: "*ask **if I could tell them what the weather will be like** in August* — косвенный вопрос: прямой порядок слов после *what*. Август — несколько месяцев вперёд."
+  - q: "18. What does Tom say about his biggest mistake?"
+    options: ["He had not used the most recent information.", "His boss had given him the wrong figures.", "Few people noticed it at the time."]
+    answer: 0
+    topic: "03-modals"
+    explain: "*I **should have checked** the latest data… I'd been looking at the morning figures.* *must have received a thousand angry letters* — заметили все, а данные он смотрел сам."
+  - q: "19. What does Tom say about his future?"
+    options: ["He has to decide by the end of this year.", "He will probably stop presenting when his contract ends.", "He wants to present for another seventeen years."]
+    answer: 1
+    topic: "12-prepositions"
+    explain: "*My contract runs **until** the end of next year… that will probably be the end of my time on screen.* until — срок действия контракта; семнадцать лет — общий стаж к этому моменту (*by then*)."
+  - q: "20. What advice does Tom give to young people?"
+    options: ["Try to become well known as early as possible.", "Study the science before anything else.", "Prepare detailed notes before speaking."]
+    answer: 1
+    topic: "08-verb-patterns"
+    explain: "*Learn the science first, properly.* Дальше — *recommend **getting used to** speaking without notes* (recommend + -ing, get used to + -ing), то есть говорить без записок."

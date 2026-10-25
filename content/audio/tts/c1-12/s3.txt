@@ -1,0 +1,2 @@
+# rate: -5%
+F: Whether the plan will work depends on how much funding we receive.

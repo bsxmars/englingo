@@ -1,0 +1,39 @@
+title: "Part 3: A decision I almost didn't make"
+type: listening
+intro: "Пять человек рассказывают о решении, которое они чуть не приняли иначе. Для каждого выбери утверждение A–F. Одно утверждение лишнее."
+hints:
+  - "Утверждения перефразированы: provided / as long as в записи — on condition that в задании."
+  - "Каждый говорящий задевает несколько утверждений — подходит одно."
+audio: audio/tts/04/decisions.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-ThomasNeural, en-GB-RyanNeural, en-AU-NatashaNeural, en-IE-ConnorNeural, en-US-JennyNeural, en-GB-SoniaNeural", license: "TTS"}
+transcript: |
+  **Speaker 1:** Three years ago I was applying for jobs in finance, and I sent my CV to about forty companies. With one of them, I typed the email address wrong, and it went to a games studio with an almost identical name. I'd never even heard of them. Two days later they rang me and said, "If you can do spreadsheets like this, come and work for us." If I hadn't made that typo, I'd be sitting in a bank right now, probably bored to death.
+
+  **Speaker 2:** I couldn't swim until I was forty-one. I'd always told myself I'd learn when I had more time. In the end a friend said she'd sign up for lessons with me, but she dropped out after the first week, so I carried on alone. Now I swim in the sea every morning, even in winter. Honestly, if only I'd started at twenty! Think of all the summers I spent sitting on the beach, watching everyone else.
+
+  **Speaker 3:** When my cousin invited me to his wedding in Japan, my first answer was no. The flights cost more than I earn in a month, and I'd just bought a car. Then my girlfriend said, "You'll regret it forever unless you go." So I sold the car. Well, I'd hardly driven it. It rained for most of the trip, but it was still the best two weeks of my life. I'd go back tomorrow, provided I could afford it.
+
+  **Speaker 4:** My brother had been asking me to climb Kilimanjaro with him for years, and I kept saying no. I'm not very fit, and I'm scared of heights. In the end I told him I'd do it as long as our cousin Mia, who's a doctor, came along too. I was sure she'd refuse! But she said yes, and suddenly I had no excuse. If she hadn't been there, I'd have turned back on the second day.
+
+  **Speaker 5:** I was flying to my best friend's wedding in Dublin, and I'd left my passport on the kitchen table. I only realised at the airport. I was standing outside the terminal in tears when a taxi driver who'd just dropped someone off asked what was wrong. He drove me home and back in forty minutes. I'd have missed the flight if he hadn't stopped, and I wouldn't have been her bridesmaid. I still send him a card every Christmas.
+items:
+  - q: "Speaker 1"
+    options: &opts ["A. I wouldn't have managed without help from a stranger.", "B. I wish I had done it much earlier in life.", "C. I only agreed on condition that someone else came.", "D. I nearly said no because of the cost.", "E. It didn't turn out quite as well as I'd hoped.", "F. A small mistake completely changed my life."]
+    answer: 5
+    explain: "*I typed the email address wrong… If I hadn't made that typo, I'd be sitting in a bank right now* — F. Смешанное условное: ошибка в прошлом, результат — сейчас."
+  - q: "Speaker 2"
+    options: *opts
+    answer: 1
+    explain: "*If only I'd started at twenty!* — B: сожаление о прошлом, *if only* + Past Perfect. Подруга обещала ходить с ней, но бросила — это не C."
+  - q: "Speaker 3"
+    options: *opts
+    answer: 3
+    explain: "*my first answer was no. The flights cost more than I earn in a month* — D. Дождь — ловушка для E: поездка всё равно *the best two weeks of my life*."
+  - q: "Speaker 4"
+    options: *opts
+    answer: 2
+    explain: "*I told him I'd do it **as long as** our cousin Mia… came along too* — C: *as long as* = *on condition that*."
+  - q: "Speaker 5"
+    options: *opts
+    answer: 0
+    explain: "*a taxi driver… drove me home and back… I'd have missed the flight if he hadn't stopped* — A. Третий тип: он остановился, и рейс она не пропустила. E лишнее."

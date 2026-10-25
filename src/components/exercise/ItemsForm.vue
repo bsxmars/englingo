@@ -1,5 +1,5 @@
 <script setup lang="ts">
-// An auto-checked exercise: gap, choice, transform, error, order, reading.
+// An auto-checked exercise: gap, choice, transform, error, order, reading, listening, dictation.
 import { Alert } from '@ilomee/aura-vue';
 import { nextTick, ref } from 'vue';
 import { grade, type ItemResult } from '../../course/grade.ts';
@@ -7,10 +7,12 @@ import { plural } from '../../course/text.ts';
 import type { Exercise } from '../../course/types.ts';
 import { useDraft } from '../../composables/useDraft.ts';
 import { useProgress } from '../../stores/progress.ts';
+import AudioSource from '../AudioSource.vue';
 
 // Both task kinds get the same props and slots from ExerciseView; each uses what it needs.
 defineOptions({ inheritAttrs: false });
-const props = defineProps<{ ex: Exercise }>();
+const props = defineProps<{ ex: Exercise; base: string }>();
+const emit = defineEmits<{ checked: [] }>();
 const progress = useProgress();
 
 const fresh = () => props.ex.items.map((it) => it.prefill);
@@ -64,6 +66,7 @@ async function check() {
         : 'Разбери ошибки ниже — объяснение под каждым пунктом.'
       : `Для зачёта нужно ещё ${left} ${plural(left, 'правильный ответ', 'правильных ответа', 'правильных ответов')}. Исправь отмеченные пункты и проверь снова.`,
   };
+  emit('checked');
   await nextTick();
   const firstBad = form.value?.querySelector('.item.bad');
   (firstBad ?? resultEl.value)?.scrollIntoView({ behavior: 'smooth', block: 'center' });
@@ -108,6 +111,9 @@ defineExpose({ check, reset });
       <div class="item-row">
         <span class="item-n" aria-hidden="true">{{ it.n }}</span>
         <div class="item-body aura-stack" style="--aura-gap: var(--space-2)">
+          <audio v-if="it.audio" class="player" controls preload="none" :src="base + it.audio" />
+          <AudioSource v-if="it.source" :source="it.source" />
+
           <fieldset v-if="it.choice" class="item-choice" role="radiogroup">
             <legend class="item-q" lang="ru" v-html="it.q" />
             <label v-for="(o, oi) in it.options" :key="oi" class="aura-check">

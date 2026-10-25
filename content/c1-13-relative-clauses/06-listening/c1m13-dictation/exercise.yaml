@@ -1,0 +1,43 @@
+title: "Диктант: относительные придаточные на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения засчитываются в обе стороны."
+hints:
+  - "Предлог перед whom / which легко проглотить: at which, with whom, to whom звучат слитно."
+  - "whose и who's звучат одинаково — выбирай по смыслу: «чей» или «кто есть»."
+items:
+  - audio: audio/tts/c1-13/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-SoniaNeural", license: "TTS"}
+    answers: ["The committee, most of whose members had never met the author, rejected the proposal outright."]
+    explain: "«Комитет, большинство членов которого ни разу не встречались с автором, сразу отклонил предложение». **most of whose** + существительное — квантор перед *whose* в non-defining придаточном."
+  - audio: audio/tts/c1-13/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural", license: "TTS"}
+    answers: ["Whoever wrote that report clearly had no idea of the extent to which the project had changed."]
+    explain: "«Кто бы ни написал этот отчёт, он явно не представлял, насколько изменился проект». **Whoever** — «тот, кто (неважно кто)»; **the extent to which** — формальное «насколько»."
+  - audio: audio/tts/c1-13/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-JennyNeural", license: "TTS"}
+    answers: ["She was the first person in her family to go to university, which made her parents extremely proud."]
+    explain: "«Она первой в семье поступила в университет, чем родители очень гордились». **the first … to go** — сокращённое придаточное с инфинитивом; **which** относится ко всему предыдущему предложению."
+  - audio: audio/tts/c1-13/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-AU-NatashaNeural", license: "TTS"}
+    answers: ["The hotel at which we had been planning to stay turned out to be fully booked."]
+    explain: "«Гостиница, в которой мы собирались остановиться, оказалась полностью занята». **at which** — формальный вариант; разговорно было бы *the hotel we'd been planning to stay at*."
+  - audio: audio/tatoeba/1055405.mp3
+    audio_source: {title: "Tatoeba #284335", url: "https://tatoeba.org/en/sentences/show/284335", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["The girl with whom he fell in love left him after a few months."]
+    explain: "«Девушка, в которую он влюбился, бросила его через несколько месяцев». **with whom** — предлог впереди требует *whom*, а не *who* или *that*; разговорно — *the girl he fell in love with*."
+  - audio: audio/tatoeba/990425.mp3
+    audio_source: {title: "Tatoeba #63294", url: "https://tatoeba.org/en/sentences/show/63294", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["Yesterday I saw a girl whom I had met in the library a month before."]
+    explain: "«Вчера мне встретилась девушка, с которой мы познакомились в библиотеке месяцем раньше». **whom** — дополнение в придаточном; в речи его обычно опускают: *a girl I had met*."
+  - audio: audio/tatoeba/1042438.mp3
+    audio_source: {title: "Tatoeba #44271", url: "https://tatoeba.org/en/sentences/show/44271", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["The ladies are looking after the children whose parents are employed in factories during the daytime."]
+    explain: "«Женщины присматривают за детьми, чьи родители днём работают на фабриках». **whose** + существительное — «чей»; на слух не путай с *who's*."
+  - audio: audio/tatoeba/951112.mp3
+    audio_source: {title: "Tatoeba #37883", url: "https://tatoeba.org/en/sentences/show/37883", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["Whichever you choose, you will be satisfied."]
+    explain: "«Что бы вы ни выбрали, останетесь довольны». **Whichever** — «любой из ограниченного набора, неважно какой»."
+  - audio: audio/tatoeba/972183.mp3
+    audio_source: {title: "Tatoeba #270557", url: "https://tatoeba.org/en/sentences/show/270557", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["The secret of success in life is known only to those who have not succeeded."]
+    explain: "«Секрет успеха в жизни известен только тем, кто его не добился». **those who** — «те, кто»: местоимение *those* + defining придаточное."

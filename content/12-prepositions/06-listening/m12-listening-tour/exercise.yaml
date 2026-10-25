@@ -1,0 +1,59 @@
+title: "Part 2: The Underground City tour"
+type: listening
+intro: "Послушай экскурсовода перед подземной экскурсией и впиши в каждый пропуск одно–три слова, которые прозвучали в записи."
+hints:
+  - "Слова вокруг пропуска — next to, in front of, during — помогут найти место в записи."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/12/talk.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-AU-NatashaNeural", license: "TTS"}
+transcript: |
+  Good morning, everyone, and welcome to the Underground City tour. My name's Kate, and I'll be with you for the next ninety minutes.
+
+  Before we go down, a few practical things. The tunnels are about fifteen metres below the street, and it's cold down there all year round, around ten degrees, so do keep your jackets on.
+
+  The tunnels were dug in the 1780s, during the building of the Market Bridge. At first they were used as workshops by the shopkeepers above. But within thirty years the damp had got into everything, and the businesses moved out.
+
+  After that, the poorest families in the city moved in. Some of them lived in a single room without windows for years. By the end of the century the tunnels had been filled with rubbish and forgotten.
+
+  They were only found again in 1985, by a student who climbed through a hole in a cellar wall, completely by accident. He was actually looking for his cat!
+
+  Now, the route. We'll go in through the door on your left, next to the souvenir shop, and walk down forty-two steps. Please hold on to the rail. At the bottom we'll stop in what we call the Cobbler's Room, because a shoemaker worked there for over twenty years.
+
+  Halfway through the tour there's a short break in the Wine Vault, where you can sit on the old barrels.
+
+  Photos are fine, but please don't use the flash, as it damages the walls.
+
+  We'll come out on the opposite side of the street, in front of the library, at about half past eleven. If you lose the group at any point, don't panic. Just stay where you are until one of us comes back for you.
+
+  Right, any questions? No? Then follow me, and mind your head!
+items:
+  - q: "The tour lasts ___."
+    answers: ["ninety minutes", "90 minutes", "the next ninety minutes", "the next 90 minutes", "an hour and a half"]
+    explain: "*I'll be with you **for** the next **ninety minutes**.* for + срок."
+  - q: "In the tunnels it is around ___ all year round."
+    answers: ["ten degrees", "10 degrees", "10°", "10 °C", "ten"]
+    explain: "*it's cold down there all year round, around **ten degrees***. Пятнадцать метров — глубина, не температура."
+  - q: "The tunnels were dug during the building of the ___."
+    answers: ["Market Bridge", "the Market Bridge"]
+    explain: "*during the building of the **Market Bridge*** — during + существительное."
+  - q: "The shopkeepers left the tunnels because of the ___."
+    answers: ["damp", "the damp"]
+    explain: "*within thirty years the **damp** had got into everything, and the businesses moved out.*"
+  - q: "In 1985 a student found the tunnels while he was looking for his ___."
+    answers: ["cat"]
+    explain: "*completely by accident. He was actually looking for his **cat**!* by accident = случайно."
+  - q: "The entrance is next to the ___."
+    answers: ["souvenir shop", "the souvenir shop"]
+    explain: "*through the door on your left, next to the **souvenir shop***."
+  - q: "There are ___ steps down to the tunnels."
+    answers: ["forty-two", "42", "forty two"]
+    explain: "*walk down **forty-two** steps*."
+  - q: "A shoemaker worked in the first room for over ___."
+    answers: ["twenty years", "20 years"]
+    explain: "*a shoemaker worked there **for** over **twenty years***."
+  - q: "At the end, the group comes out in front of the ___."
+    answers: ["library", "the library"]
+    explain: "*We'll come out on the opposite side of the street, in front of the **library***."
+  - q: "The tour finishes at about ___."
+    answers: ["half past eleven", "11:30", "11.30", "eleven thirty", "half eleven"]
+    explain: "*at about **half past eleven***: at + точное время."

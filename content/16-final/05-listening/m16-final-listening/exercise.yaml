@@ -1,0 +1,138 @@
+title: "Listening Parts 1 and 3"
+type: listening
+pass: 60
+intro: |
+  Одна запись, две части экзамена. **Part 1** (вопросы 1–8): восемь коротких отрывков, к каждому выбери лучший ответ. **Part 3** (вопросы 9–13): пять человек рассказывают, как учатся играть на музыкальном инструменте; для каждого выбери утверждение A–F, одно лишнее.
+
+  Прослушай запись дважды, как на экзамене, и только потом проверяй. Для зачёта нужно **60 %**.
+hints:
+  - "Неверные варианты звучат в записи — но в другом времени, с отрицанием или о другом человеке."
+  - "В Part 3 каждый говорящий упоминает несколько тем: ищи главную мысль."
+audio: audio/tts/16/short.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural, en-GB-LibbyNeural, en-IE-ConnorNeural, en-GB-SoniaNeural, en-US-AndrewNeural, en-US-JennyNeural, en-AU-NatashaNeural, en-GB-ThomasNeural", license: "TTS"}
+transcript: |
+  ### Part 1
+
+  **One.** *You hear a woman talking about learning a language.*
+
+  **Woman:** I used to speak Spanish quite well, actually. I lived in Seville for two years when I was in my twenties. But I haven't used it since then, and last month, when I tried to order dinner in Madrid, I realised I'd forgotten nearly everything. So I've signed up for a refresher course.
+
+  **Two.** *You hear two colleagues talking about a meeting.*
+
+  **Man:** Sorry I missed the meeting. The trains were a disaster.
+
+  **Woman:** These things happen. You couldn't have known about the strike. But you should have sent someone a message. We waited for twenty minutes.
+
+  **Man:** My phone was dead.
+
+  **Woman:** Then you could have borrowed someone else's.
+
+  **Three.** *You hear a man talking about a job offer.*
+
+  **Man:** If they'd offered me a bit more money, I might have said yes, but honestly, it wasn't really about the money. And I wouldn't have minded working Saturdays. The job was in Singapore, and I'd only take it if my family could come with me. My wife's just started a business here, so I'd have had to go on my own.
+
+  **Four.** *You hear a woman talking about her car.*
+
+  **Woman:** You won't believe what happened. I'd parked outside the gym, and when I came out, it was gone. I assumed it had been towed away, but no, it had been stolen. It was found two days later on the other side of town. The police say it's being checked for fingerprints. I'm having the locks changed anyway.
+
+  **Five.** *You hear a man talking about a conversation with his landlord.*
+
+  **Man:** I asked him when he was going to fix the heating, and he said he'd send someone the following week. Then he told me, quite casually, that the rent was going up by ten percent from January. I asked whether that included bills, and he said it didn't.
+
+  **Six.** *You hear two friends talking about a new neighbour.*
+
+  **Woman:** Have you met the new neighbour yet?
+
+  **Man:** The woman whose dog keeps barking?
+
+  **Woman:** No, that's number twelve. I mean the one who's moved into the flat above you. She runs the bakery on the corner. Her husband teaches at the school your kids go to, actually.
+
+  **Man:** Oh, her! She's lovely. She gave me free croissants on Saturday.
+
+  **Seven.** *You hear a woman talking about learning to drive.*
+
+  **Woman:** My parents offered to pay for lessons when I was seventeen, and I refused. I said I'd never need to drive. I really regret saying that now. I started taking lessons at thirty, and it's much harder. I keep forgetting to check the mirror, and my instructor has stopped trying to be polite about it!
+
+  **Eight.** *You hear a man giving advice about a trip.*
+
+  **Man:** My one piece of advice? Take as little luggage as you can. You can buy almost everything there. A few T-shirts, a jumper and a bit of cash for the first day, that's all. And don't bother with a guidebook. The information in them is usually out of date.
+
+  ### Part 3
+
+  *You will hear five people talking about learning to play a musical instrument as an adult.*
+
+  **Speaker 1:** I've been having piano lessons for a year now, and I love them, but every time I sit down to practise, I think of my parents. They offered me lessons when I was eight, and I said no. If I'd started then, I'd be playing properly by now. I wish they'd made me do it, honestly.
+
+  **Speaker 2:** I took up the guitar at forty, and after six months I gave it up. My fingers hurt, and I couldn't see any progress at all. Then last spring my son left his old guitar at my place, and I picked it up again, just for fun. This time it's stuck. I play every evening now.
+
+  **Speaker 3:** I've got a very clear plan. By this time next year I'll have taken my grade five exam, and in June I'm going to play the violin at my sister's wedding. I watch videos online too, but my teacher is the main thing. She keeps me focused on what I'm aiming for.
+
+  **Speaker 4:** Nobody warned me how exhausting it would be. I'd imagined the cello as a relaxing hobby. After half an hour of practice I'm as tired as if I'd been running. It's not boring at all, it's just so demanding, physically and mentally. I've had to learn to practise in short sessions.
+
+  **Speaker 5:** At my first lesson, my teacher asked me whether I'd ever played the drums before. I said no, and she told me I had a natural sense of rhythm. She said that if I kept going, I'd be ready to play in front of people within a year. I didn't believe her, but she was right.
+items:
+  - q: "1. You hear a woman talking about learning a language. What does she say about her Spanish?"
+    options: ["She has been studying it for two years.", "She could speak it well in the past but has lost most of it.", "She learnt it recently on a short course."]
+    answer: 1
+    topic: "01-present-past"
+    explain: "*I **used to** speak Spanish quite well… I **haven't used** it since then… I realised **I'd forgotten** nearly everything.* *for two years* — сколько она жила в Севилье, а курс только впереди (*I've signed up*)."
+  - q: "2. You hear two colleagues talking about a meeting. What does the woman criticise the man for?"
+    options: ["Not letting anyone know he would be late.", "Not leaving home earlier because of the strike.", "Not joining the meeting by phone."]
+    answer: 0
+    explain: "*you **should have** sent someone a message* — упрёк за несделанное. Про забастовку: *You **couldn't have** known* — его вины тут нет."
+    topic: "03-modals"
+  - q: "3. You hear a man talking about a job offer. Why did he turn it down?"
+    options: ["The salary was too low.", "He didn't want to work at weekends.", "He would have had to leave his family behind."]
+    answer: 2
+    topic: "04-conditionals"
+    explain: "*I'd only take it if my family could come with me… I'd have had to go on my own.* *If they'd offered more money, I might have…* — но *it wasn't really about the money*; *wouldn't have minded* Saturdays — работа по субботам его устраивала."
+  - q: "4. You hear a woman talking about her car. What happened to it?"
+    options: ["It was towed away for parking illegally.", "It was stolen and later found.", "It is being repaired after an accident."]
+    answer: 1
+    topic: "05-passive"
+    explain: "*I assumed it **had been towed away**, but no, it **had been stolen**. It **was found** two days later.* *is being checked* — проверяют на отпечатки, а не ремонтируют."
+  - q: "5. You hear a man talking about his landlord. What news did the landlord give him?"
+    options: ["The rent is going to increase.", "The heating can't be repaired until January.", "Bills will now be included in the rent."]
+    answer: 0
+    topic: "06-reported-speech"
+    explain: "*he told me… that the rent **was going up** by ten percent from January.* Отопление обещали починить *the following week*, а счета в аренду *didn't* входят."
+  - q: "6. You hear two friends talking about a new neighbour. Who is the new neighbour?"
+    options: ["The owner of a dog that barks a lot.", "A teacher at the man's children's school.", "The woman who runs a local bakery."]
+    answer: 2
+    topic: "07-clauses"
+    explain: "*the one **who**'s moved into the flat above you. She runs the bakery on the corner.* Женщина, *whose dog keeps barking*, живёт в двенадцатом номере, а в школе преподаёт её муж."
+  - q: "7. You hear a woman talking about learning to drive. What does she regret?"
+    options: ["Refusing lessons when she was younger.", "Stopping her lessons at thirty.", "Choosing an impolite instructor."]
+    answer: 0
+    topic: "08-verb-patterns"
+    explain: "*I really **regret saying** that now* — regret + -ing: жалеет о сделанном в прошлом (об отказе в 17 лет). *has stopped trying to be polite* — это инструктор перестал церемониться."
+  - q: "8. You hear a man giving advice about a trip. What does he recommend?"
+    options: ["Taking very little luggage.", "Taking plenty of cash.", "Buying a good guidebook."]
+    answer: 0
+    topic: "09-nouns-articles"
+    explain: "*Take as **little luggage** as you can.* *luggage* — неисчисляемое, поэтому *little*, а не *few*. Денег — *a bit of cash*, путеводитель — *don't bother*."
+  - q: "9. Part 3 — Speaker 1"
+    options: ["A. I wish I had started as a child.", "B. I stopped for a while and then returned to it.", "C. I have a clear goal I am working towards.", "D. I find online videos more useful than lessons.", "E. I hadn't expected it to be so tiring.", "F. My teacher thought I had a natural talent."]
+    answer: 0
+    topic: "04-conditionals"
+    explain: "*If I'd started then, I'd be playing properly by now. I **wish** they'd made me do it* — смешанное условное и *wish* + Past Perfect: сожаление о прошлом."
+  - q: "10. Part 3 — Speaker 2"
+    options: ["A. I wish I had started as a child.", "B. I stopped for a while and then returned to it.", "C. I have a clear goal I am working towards.", "D. I find online videos more useful than lessons.", "E. I hadn't expected it to be so tiring.", "F. My teacher thought I had a natural talent."]
+    answer: 1
+    topic: "13-phrasal-verbs"
+    explain: "*I **took up** the guitar… after six months I **gave it up**… I **picked it up** again.* — начал, бросил, снова взялся."
+  - q: "11. Part 3 — Speaker 3"
+    options: ["A. I wish I had started as a child.", "B. I stopped for a while and then returned to it.", "C. I have a clear goal I am working towards.", "D. I find online videos more useful than lessons.", "E. I hadn't expected it to be so tiring.", "F. My teacher thought I had a natural talent."]
+    answer: 2
+    topic: "02-future"
+    explain: "*By this time next year **I'll have taken** my grade five exam, and in June **I'm going to play**…* — Future Perfect и *going to*: чёткий план. Видео она смотрит, но *my teacher is the main thing* — поэтому D лишнее."
+  - q: "12. Part 3 — Speaker 4"
+    options: ["A. I wish I had started as a child.", "B. I stopped for a while and then returned to it.", "C. I have a clear goal I am working towards.", "D. I find online videos more useful than lessons.", "E. I hadn't expected it to be so tiring.", "F. My teacher thought I had a natural talent."]
+    answer: 4
+    topic: "14-pronouns-adjectives"
+    explain: "*Nobody warned me how **exhausting** it would be… I'm as **tired** as if I'd been running.* -ing — свойство занятия, -ed — состояние человека; *not boring at all*."
+  - q: "13. Part 3 — Speaker 5"
+    options: ["A. I wish I had started as a child.", "B. I stopped for a while and then returned to it.", "C. I have a clear goal I am working towards.", "D. I find online videos more useful than lessons.", "E. I hadn't expected it to be so tiring.", "F. My teacher thought I had a natural talent."]
+    answer: 5
+    topic: "06-reported-speech"
+    explain: "*she **told me I had** a natural sense of rhythm. She **said that** if I kept going, **I'd be** ready…* — косвенная речь со сдвигом времён передаёт мнение учительницы."

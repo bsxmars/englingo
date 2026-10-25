@@ -1,0 +1,59 @@
+title: "Part 3: Why we put things off"
+type: listening
+intro: "Послушай радиоинтервью с психологом Хелен Марш о прокрастинации и выбери ответ. Вопросы идут по порядку записи."
+hints:
+  - "Неверные варианты используют слова из записи, но приписывают им другую роль."
+  - "Ищи поворот: But what really…, The problem is…, I'd go so far as to say…"
+audio: audio/tts/c1-10/interview.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural, en-GB-LibbyNeural", license: "TTS"}
+transcript: |
+  **Presenter:** On today's programme, we're talking about putting things off. My guest is Dr Helen Marsh, who has spent fifteen years studying why we procrastinate. Helen, is it true that you started researching this because of your own habits?
+
+  **Helen:** Guilty, I'm afraid. I remember being told by my PhD supervisor that I was the most organised person she'd ever met at avoiding work. I'd clean the kitchen, reorganise my bookshelves, anything rather than write. So in a sense, yes. But what really got me interested was noticing that it wasn't laziness. I was working extremely hard, just on the wrong things.
+
+  **Presenter:** So if it isn't laziness, what is it?
+
+  **Helen:** Most researchers now see it as a problem of managing emotions rather than time. We put off tasks that make us feel anxious, or bored, or not good enough. Delaying gives you instant relief. The trouble is, the relief doesn't last, and the task is still there, only now with added guilt. Interestingly, people who are afraid of being judged are far more likely to procrastinate than people who simply find a task dull.
+
+  **Presenter:** There are endless apps and planners that promise to cure it. Are they worth using?
+
+  **Helen:** Some are, some aren't. The problem with most planners is that they assume the difficulty is not knowing what to do. People usually know perfectly well what to do. I'd go so far as to say that making an elaborate plan can itself become a way of avoiding the work. I've seen students spend a whole afternoon colour-coding a revision timetable without opening a single book.
+
+  **Presenter:** So what does work?
+
+  **Helen:** The most effective technique we've found is surprisingly simple: agree to work on the task for just ten minutes. Not to finish it, just to start it. Once you've started, the anxiety tends to fade, and most people go on working well beyond the ten minutes. The other thing is to stop expecting to feel motivated before you begin. Motivation usually comes after starting, not before.
+
+  **Presenter:** You've also written about the role of self-forgiveness. Some listeners might feel that sounds a little soft.
+
+  **Helen:** People often react that way. But in one study, students who'd forgiven themselves for having procrastinated before their first exam were significantly less likely to do it again before the second. Being hard on yourself feels responsible, but it actually makes the task even more unpleasant to think about, and so you're more likely to avoid it next time.
+
+  **Presenter:** Finally, has studying procrastination cured you of it?
+
+  **Helen:** I'd love to say it had. I finished my latest book three months later than I'd promised to, and my editor was remarkably patient. But I do notice it sooner now. I catch myself tidying my desk and think, "Ah, there you are." That's not a cure, but it's a start.
+
+  **Presenter:** Dr Helen Marsh, thank you.
+items:
+  - q: "What made Helen interested in studying procrastination?"
+    options: ["Her supervisor suggested it as a research topic.", "She wanted to become better organised herself.", "She realised her own avoidance was not caused by laziness.", "She felt embarrassed after being criticised."]
+    answer: 2
+    explain: "*What really got me interested was noticing that it wasn't laziness. I was working extremely hard, just on the wrong things.* *I remember being told by my supervisor* — пассивный герундий: ей сказали, а не она предложила тему."
+  - q: "According to Helen, people procrastinate mainly because they want to"
+    options: ["escape unpleasant feelings about a task.", "save their energy for more important work.", "show others how much pressure they are under.", "make the task more interesting by delaying it."]
+    answer: 0
+    explain: "*A problem of managing emotions rather than time. We put off tasks that make us feel anxious, or bored, or not good enough. Delaying gives you instant relief.*"
+  - q: "What does Helen say about planners?"
+    options: ["They help most students to start revising.", "They work best when they are colour-coded.", "They are less effective than apps.", "Making one can become another way of avoiding work."]
+    answer: 3
+    explain: "*Making an elaborate plan can itself become a way of avoiding the work* — пример: полдня раскрашивать расписание *without opening a single book*. *I'd go so far as to say* — сильное утверждение говорящей."
+  - q: "Why does Helen recommend working on a task for just ten minutes?"
+    options: ["It allows people to finish small tasks quickly.", "Getting started tends to reduce the anxiety.", "It helps people decide whether they feel motivated.", "It is easier to plan than a longer session."]
+    answer: 1
+    explain: "*Once you've started, the anxiety tends to fade, and most people go on working well beyond the ten minutes.* *go on working* — продолжать то же самое; мотивация приходит *after starting, not before*."
+  - q: "What point does Helen make about forgiving yourself?"
+    options: ["It is often used as an excuse for poor results.", "It makes people feel more responsible.", "It makes people less likely to procrastinate again.", "It works better before a first exam than a second."]
+    answer: 2
+    explain: "*Students who'd forgiven themselves for having procrastinated… were significantly less likely to do it again.* Перфектный герундий *having procrastinated* — прокрастинация была раньше прощения. «Ответственным» только кажется быть строгим к себе."
+  - q: "How does Helen describe her own procrastination now?"
+    options: ["She has finally managed to overcome it.", "She recognises it more quickly than before.", "She is ashamed that it still affects her work.", "She relies on her editor to control it."]
+    answer: 1
+    explain: "*But I do notice it sooner now… That's not a cure, but it's a start.* Ударное *do* подчёркивает изменение; излечения нет, а терпение редактора — просто факт."

@@ -1,0 +1,59 @@
+title: "Part 4: Sharing a home"
+type: listening
+intro: "Ты услышишь пять коротких монологов о том, каково жить с людьми, которые не родственники. Задание 1: почему каждый начал жить с соседями? Задание 2: чему это его научило? В каждом задании восемь вариантов, три лишние."
+hints:
+  - "На первом прослушивании держи в голове задание 1, на втором — задание 2."
+  - "Говорящие часто называют сначала очевидную причину, а потом настоящую: but, actually, what I've discovered is…"
+audio: audio/tts/c1-07/speakers.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural, en-US-JennyNeural, en-IE-ConnorNeural, en-AU-NatashaNeural, en-GB-LibbyNeural", license: "TTS"}
+transcript: |
+  **Speaker 1:** I'd been freelancing from home for years, which was fine until the work dried up and I took a contract in the city. Suddenly I needed a room near the office four nights a week, and a whole flat to myself would've been absurd. So I answered an ad. People assume it was about the money, and to some extent it was, but mainly it was about the commute. What took me a while to learn was speaking up. For months, one of the others kept leaving his bike in the hall, and I'd squeeze past it every morning, muttering to myself. When I finally mentioned it, he said, "Oh, sorry, nobody told me." And nobody had. Since then, if something bothers me, I say so. Politely, but I say so.
+
+  **Speaker 2:** My neighbor, an elderly widow, had a spare room, and her kids were worried about her being on her own. I was between apartments anyway, so I offered to move in for a few months. That was three years ago. I'd always thought of myself as someone who needed people around. I'd had roommates all through college, and I loved it. But what I've discovered is that I actually need a door I can close. She goes to bed at nine, and those quiet evenings have become the best part of my day. I'd never have guessed that about myself.
+
+  **Speaker 3:** After my marriage broke up, I couldn't face an empty house, so when an old school friend of mine said he had a room going, I jumped at it. Everyone warned us that living with a mate is the quickest way to lose one, and we've had our moments, but we're still friends. What it's done is show me how much I'd left to my wife over the years. Cooking, bills, remembering birthdays. I'd assumed they just happened. Living with Declan, who's even worse at that sort of thing than I am, I've had to do it all myself, and, to be honest, I'm a bit ashamed it took me forty-five years to notice.
+
+  **Speaker 4:** I'm saving for a deposit on a place of my own, and in Sydney that means either sharing or moving back in with my parents, and I wasn't going to do that again. There are five of us in the house. The first thing we did was draw up a cleaning rota, with colour-coded columns and everything. It lasted about a fortnight. Then someone went on holiday, someone else had exams, and nobody's looked at it since. What actually keeps the place clean is that each of us just does a bit when we notice it needs doing. Rules look good on the fridge, but that's about all they do.
+
+  **Speaker 5:** I'd never have considered it myself, but my best friend Priya was moving to Bristol, and she kept on at me until I agreed to come too. I was nervous, because I'm quite particular about how things are done, and Priya isn't. She leaves half-empty cups everywhere. At first it drove me mad. But I've come to realise that her standards aren't lower than mine; they're just different. She'd never leave a bill unpaid, for instance, which I sometimes do. So I've relaxed about the cups. Mostly.
+items:
+  - q: "Task 1. Speaker 1: why did this speaker start sharing a home?"
+    options: ["A. To save money for a particular goal", "B. Because of a change in their work", "C. To help somebody else", "D. After a relationship ended", "E. To avoid living alone in an unfamiliar city", "F. Because a friend persuaded them", "G. To be closer to their family", "H. Because their previous home had been sold"]
+    answer: 1
+    explain: "*I took a contract in the city. Suddenly I needed a room near the office* — сменилась работа. Деньги — ловушка: *People assume it was about the money… but mainly it was about the commute*."
+  - q: "Task 1. Speaker 2: why did this speaker start sharing a home?"
+    options: ["A. To save money for a particular goal", "B. Because of a change in their work", "C. To help somebody else", "D. After a relationship ended", "E. To avoid living alone in an unfamiliar city", "F. Because a friend persuaded them", "G. To be closer to their family", "H. Because their previous home had been sold"]
+    answer: 2
+    explain: "*Her kids were worried about her being on her own… I offered to move in* — она переехала, чтобы помочь соседке. Одиночества боялась не она, а родственники соседки."
+  - q: "Task 1. Speaker 3: why did this speaker start sharing a home?"
+    options: ["A. To save money for a particular goal", "B. Because of a change in their work", "C. To help somebody else", "D. After a relationship ended", "E. To avoid living alone in an unfamiliar city", "F. Because a friend persuaded them", "G. To be closer to their family", "H. Because their previous home had been sold"]
+    answer: 3
+    explain: "*After my marriage broke up, I couldn't face an empty house.* Друг лишь предложил комнату (*said he had a room going*), уговаривать не пришлось: *I jumped at it*."
+  - q: "Task 1. Speaker 4: why did this speaker start sharing a home?"
+    options: ["A. To save money for a particular goal", "B. Because of a change in their work", "C. To help somebody else", "D. After a relationship ended", "E. To avoid living alone in an unfamiliar city", "F. Because a friend persuaded them", "G. To be closer to their family", "H. Because their previous home had been sold"]
+    answer: 0
+    explain: "*I'm saving for a deposit on a place of my own* — копит на конкретную цель. К родителям возвращаться она не хотела: *I wasn't going to do that again* (= move back in)."
+  - q: "Task 1. Speaker 5: why did this speaker start sharing a home?"
+    options: ["A. To save money for a particular goal", "B. Because of a change in their work", "C. To help somebody else", "D. After a relationship ended", "E. To avoid living alone in an unfamiliar city", "F. Because a friend persuaded them", "G. To be closer to their family", "H. Because their previous home had been sold"]
+    answer: 5
+    explain: "*She kept on at me until I agreed to come too* — *keep on at sb* = упрашивать, донимать. Переезд в Бристоль — идея подруги, сама она *would never have considered it*."
+  - q: "Task 2. Speaker 1: what has this speaker learnt?"
+    options: ["A. To be more direct about problems", "B. That shared rules rarely work in practice", "C. To value time on their own", "D. How much they had relied on someone else", "E. That friends should not live together", "F. That other people's standards are not necessarily lower", "G. That they prefer living with strangers", "H. How to manage their money better"]
+    answer: 0
+    explain: "*If something bothers me, I say so* — *so* заменяет придаточное (I say that it bothers me). Раньше он молча протискивался мимо велосипеда."
+  - q: "Task 2. Speaker 2: what has this speaker learnt?"
+    options: ["A. To be more direct about problems", "B. That shared rules rarely work in practice", "C. To value time on their own", "D. How much they had relied on someone else", "E. That friends should not live together", "F. That other people's standards are not necessarily lower", "G. That they prefer living with strangers", "H. How to manage their money better"]
+    answer: 2
+    explain: "*I actually need a door I can close… those quiet evenings have become the best part of my day.* Раньше она думала, что ей нужны люди вокруг."
+  - q: "Task 2. Speaker 3: what has this speaker learnt?"
+    options: ["A. To be more direct about problems", "B. That shared rules rarely work in practice", "C. To value time on their own", "D. How much they had relied on someone else", "E. That friends should not live together", "F. That other people's standards are not necessarily lower", "G. That they prefer living with strangers", "H. How to manage their money better"]
+    answer: 3
+    explain: "*How much I'd left to my wife over the years… I'd assumed they just happened.* Предупреждение про дружбу (вариант E) не подтвердилось: *we're still friends*."
+  - q: "Task 2. Speaker 4: what has this speaker learnt?"
+    options: ["A. To be more direct about problems", "B. That shared rules rarely work in practice", "C. To value time on their own", "D. How much they had relied on someone else", "E. That friends should not live together", "F. That other people's standards are not necessarily lower", "G. That they prefer living with strangers", "H. How to manage their money better"]
+    answer: 1
+    explain: "*Rules look good on the fridge, but that's about all they do* — график уборки продержался две недели. Порядок держится на том, что *each of us just does a bit*."
+  - q: "Task 2. Speaker 5: what has this speaker learnt?"
+    options: ["A. To be more direct about problems", "B. That shared rules rarely work in practice", "C. To value time on their own", "D. How much they had relied on someone else", "E. That friends should not live together", "F. That other people's standards are not necessarily lower", "G. That they prefer living with strangers", "H. How to manage their money better"]
+    answer: 5
+    explain: "*Her standards aren't lower than mine; they're just different.* Прямота (вариант A) тут ни при чём: она просто перестала злиться из-за чашек."

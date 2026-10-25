@@ -1,0 +1,47 @@
+title: "Диктант: предлоги на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения (he's / he is) засчитываются в обе стороны."
+hints:
+  - "Предлоги безударные: at, for, to звучат как /ət/, /fə/, /tə/ — восстанавливай их по смыслу."
+  - "by или until? Подумай, срок это или действие, которое длится."
+items:
+  - audio: audio/tts/12/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-AndrewNeural", license: "TTS"}
+    answers: ["The shop is open from nine until six, but you have to collect your order by five.", "The shop is open from 9 until 6, but you have to collect your order by 5."]
+    explain: "«Магазин работает с девяти до шести, но забрать заказ нужно до пяти». *from… until* — всё время работы, *by five* — крайний срок."
+  - audio: audio/tts/12/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-LibbyNeural", license: "TTS"}
+    answers: ["She worked as a nurse for ten years before she moved to Canada.", "She worked as a nurse for 10 years before she moved to Canada."]
+    explain: "«Она десять лет работала медсестрой, пока не переехала в Канаду». *as a nurse* — профессия (не *like*), *for ten years* — срок."
+  - audio: audio/tts/12/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-JennyNeural", license: "TTS"}
+    answers: ["I fell asleep during the film, while everyone else was laughing."]
+    explain: "«Я уснул(а) во время фильма, пока все остальные смеялись». *during* + существительное, *while* + подлежащее и глагол."
+  - audio: audio/tts/12/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-ThomasNeural", license: "TTS"}
+    answers: ["We arrived at the airport on time, but our flight had already been cancelled.", "We arrived at the airport on time, but our flight had already been canceled."]
+    explain: "«Мы приехали в аэропорт вовремя, но рейс уже отменили». *arrive at* (не *to*) для здания или пункта, *on time* — по расписанию."
+  - audio: audio/tts/12/s5.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural", license: "TTS"}
+    answers: ["He is very proud of his daughter, although he is not very good at showing it.", "He's very proud of his daughter, although he's not very good at showing it.", "He is very proud of his daughter, although he isn't very good at showing it.", "He's very proud of his daughter, although he isn't very good at showing it."]
+    explain: "«Он очень гордится дочерью, хотя показывать это не умеет». *proud of*, *good at* + **-ing**."
+  - audio: audio/tatoeba/942633.mp3
+    audio_source: {title: "Tatoeba #279756", url: "https://tatoeba.org/en/sentences/show/279756", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["During the rush hours in Tokyo, traffic is heavy."]
+    explain: "«В часы пик в Токио плотное движение». *during* + существительное: *during the rush hours*. *Heavy traffic* — устойчивое сочетание."
+  - audio: audio/tatoeba/1073719.mp3
+    audio_source: {title: "Tatoeba #247736", url: "https://tatoeba.org/en/sentences/show/247736", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["We played baseball until it was too dark to see the ball any more.", "We played baseball until it was too dark to see the ball anymore."]
+    explain: "«Мы играли в бейсбол, пока не стемнело так, что мяча стало не видно». *until* — действие длилось до этого момента."
+  - audio: audio/tatoeba/956258.mp3
+    audio_source: {title: "Tatoeba #256671", url: "https://tatoeba.org/en/sentences/show/256671", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["I am proud of never being late for school.", "I'm proud of never being late for school."]
+    explain: "«Я горжусь тем, что ни разу не опоздал(а) в школу». *proud of* + **-ing**; *late for* — опоздать куда-то."
+  - audio: audio/tatoeba/956307.mp3
+    audio_source: {title: "Tatoeba #275819", url: "https://tatoeba.org/en/sentences/show/275819", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["The heavy snow stopped the train from running on time."]
+    explain: "«Из-за сильного снегопада поезд не смог идти по расписанию». *on time* — точно по графику; *stop sb from doing* — помешать."
+  - audio: audio/tatoeba/1247100.mp3
+    audio_source: {title: "Tatoeba #12796335", url: "https://tatoeba.org/en/sentences/show/12796335", author: "rul", license: "CC BY 4.0"}
+    answers: ["Do you think we'll make it in time?", "Do you think we will make it in time?"]
+    explain: "«Думаешь, успеем?» *in time* — «успеть, не опоздать», в отличие от *on time* — «точно по расписанию»."

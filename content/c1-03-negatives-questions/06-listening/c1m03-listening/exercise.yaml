@@ -1,0 +1,85 @@
+title: "Part 1: Three short extracts"
+type: listening
+intro: "Послушай три коротких отрывка. К каждому — два вопроса; выбери ответ, который лучше всего соответствует тому, что услышано."
+hints:
+  - "Литота и hardly смягчают оценку: hardly a disaster = вполне успешно."
+  - "Тег и отрицательный вопрос часто выражают упрёк или ожидание, а не вопрос."
+audio: audio/tts/c1-03/extracts.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-ThomasNeural, en-US-JennyNeural, en-IE-ConnorNeural, en-GB-LibbyNeural, en-US-AndrewNeural, en-GB-SoniaNeural", license: "TTS"}
+transcript: |
+  ### Extract one
+
+  *You hear two neighbours talking about building work next door.*
+
+  **Woman:** Did you hear that drilling this morning? It started at seven. Seven o'clock! On a Saturday.
+
+  **Man:** Hear it? I could hardly not hear it. I was going to go round and say something, but I didn't really know what to say.
+
+  **Woman:** Well, isn't it obvious? They're not allowed to start before eight at weekends. It's in the council rules. You did read the letter the council sent round, didn't you?
+
+  **Man:** I skimmed it, I'll admit. Look, I'm not saying they're in the right. But they're not unreasonable people. They brought us a bottle of wine when they moved in, remember?
+
+  **Woman:** A bottle of wine doesn't give anyone the right to wake up the whole street. Not once have they asked whether the noise bothers anybody.
+
+  **Man:** True. Fair enough. So what do you want me to do? Shall I go round now?
+
+  **Woman:** Not on your own, no. Let's both go this afternoon and be polite about it. If that doesn't work, then we'll ring the council. But I'd rather not start with that, wouldn't you?
+
+  **Man:** No, definitely not. Neither of us wants a war with the neighbours.
+
+  ### Extract two
+
+  *You hear a football coach talking about her team's season.*
+
+  **Coach:** People keep asking me whether I'm disappointed. And, well, it's not as if we expected to win the league. Nobody did. At the start of the season the bookmakers had us finishing ninth, and we came fourth, so it's hardly been a disaster.
+
+  **Coach:** What I won't accept, though, is the idea that we were unlucky. We weren't. Not until the last ten minutes of the semi-final did we actually play the way we'd trained, and by then we were two goals down. No sooner had we pulled one back than the referee blew the final whistle. That isn't bad luck. That's starting too slowly, and it's something we've been doing all year.
+
+  **Coach:** So no, I'm not disappointed, exactly. I'm frustrated, because I know how good this group could be. Under no circumstances am I going to let them believe that fourth place is the best they can do. When we come back in July, the very first thing we'll be working on is the opening fifteen minutes of every match.
+
+  ### Extract three
+
+  *You hear two friends talking about a job interview.*
+
+  **Man:** So how did it go? Don't tell me they asked you that question again, the one about where you see yourself in five years.
+
+  **Woman:** Worse. They asked me what my least favourite colour was.
+
+  **Man:** They asked you what?
+
+  **Woman:** My least favourite colour. I've no idea whether it was some sort of psychological test or whether they'd simply run out of questions.
+
+  **Man:** And what did you say?
+
+  **Woman:** I said beige, because it was the first thing that came into my head, and then I spent about ten minutes trying to justify it. Hardly my finest moment.
+
+  **Man:** Well, isn't that exactly what they wanted, though? To see how you cope with something you can't possibly have prepared for? Whatever you said, it can't have been that bad.
+
+  **Woman:** Maybe. The rest of it went fine, actually. Better than fine. The manager seemed genuinely interested in my portfolio, and she asked me when I'd be able to start, which is a good sign, isn't it?
+
+  **Man:** Not necessarily. Some people ask everyone that. But it's certainly not a bad one.
+items:
+  - q: "Extract 1. What does the woman criticise the neighbours for?"
+    options: ["Showing no concern for the people around them.", "Failing to read the letter from the council.", "Being unfriendly when they first moved in."]
+    answer: 0
+    explain: "*Not once have they asked whether the noise bothers anybody* — инверсия после *not once* подчёркивает упрёк. Письмо не прочитал как раз сосед-мужчина, а вино говорит о дружелюбии."
+  - q: "Extract 1. What do the two neighbours agree to do?"
+    options: ["Report the noise to the council straight away.", "Speak to the neighbours together.", "Let the man deal with the problem alone."]
+    answer: 1
+    explain: "*Let's both go this afternoon and be polite about it* — в совет позвонят, только *if that doesn't work*. *Not on your own* отвергает третий вариант."
+  - q: "Extract 2. What does the coach say about the team's season?"
+    options: ["It was spoiled by bad luck.", "It was a serious disappointment.", "It went better than had been expected."]
+    answer: 2
+    explain: "*the bookmakers had us finishing ninth, and we came fourth, so it's hardly been a disaster* — литота: «очень неплохо». Невезение она прямо отвергает: *We weren't.*"
+  - q: "Extract 2. What is the coach doing when she talks about the semi-final?"
+    options: ["Identifying a weakness the team must work on.", "Blaming the referee for ending the game early.", "Praising the team's fighting spirit at the end."]
+    answer: 0
+    explain: "*Not until the last ten minutes… did we actually play the way we'd trained… That's starting too slowly* — инверсия после *not until* выделяет проблему, которую будут исправлять в июле."
+  - q: "Extract 3. How does the woman feel about her answer to the unusual question?"
+    options: ["Proud of how quickly she thought of something.", "Embarrassed by the way she handled it.", "Annoyed that the interviewers wasted her time."]
+    answer: 1
+    explain: "*I spent about ten minutes trying to justify it. Hardly my finest moment.* — *hardly* + похвала = самоирония: «не лучший момент», то есть неловко."
+  - q: "Extract 3. What does the man suggest about the manager's question about a start date?"
+    options: ["It shows the manager has already made her decision.", "It is probably a sign that the interview went badly.", "It may mean less than the woman hopes."]
+    answer: 2
+    explain: "На *which is a good sign, isn't it?* он отвечает *Not necessarily. Some people ask everyone that* — частичное отрицание: «не обязательно хороший», но *certainly not a bad one*."

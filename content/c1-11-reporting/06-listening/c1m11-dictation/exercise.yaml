@@ -1,0 +1,47 @@
+title: "Диктант: косвенная речь на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения (don't / do not) засчитываются в обе стороны."
+hints:
+  - "В косвенной речи время сдвигается назад: will → would, has done → had done."
+  - "Слушай модель глагола: urge sb to do, deny doing, accuse sb of doing, recommend that sb (should) do."
+items:
+  - audio: audio/tts/c1-11/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural", license: "TTS"}
+    answers: ["He told me he had already sent the invoice, but it never arrived.", "He told me he'd already sent the invoice, but it never arrived."]
+    explain: "«Он сказал, что уже отправил счёт, но тот так и не пришёл». *told me (that) he had sent* — сдвиг Present Perfect → Past Perfect; *tell* требует дополнения (*me*)."
+  - audio: audio/tts/c1-11/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-LibbyNeural", license: "TTS"}
+    answers: ["She asked whether we would be able to finish the work by the following week.", "She asked whether we'd be able to finish the work by the following week."]
+    explain: "«Она спросила, сможем ли мы закончить работу к следующей неделе». Косвенный вопрос: *whether* + прямой порядок слов; *next week* → *the following week*."
+  - audio: audio/tts/c1-11/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-JennyNeural", license: "TTS"}
+    answers: ["The manager urged us not to discuss the matter with anyone outside the team."]
+    explain: "«Руководитель настоятельно просил нас не обсуждать это ни с кем вне команды». *urge sb not to do* — отрицание перед инфинитивом; *discuss* без предлога."
+  - audio: audio/tts/c1-11/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-AU-NatashaNeural", license: "TTS"}
+    answers: ["He denied having taken the money and accused his partner of lying."]
+    explain: "«Он отрицал, что взял деньги, и обвинил партнёра во лжи». *deny having done* — перфектный герундий; *accuse sb **of** doing*."
+  - audio: audio/tts/c1-11/s5.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-ThomasNeural", license: "TTS"}
+    answers: ["The committee recommended that every member of staff be given extra training.", "The committee recommended that every member of staff should be given extra training."]
+    explain: "«Комиссия рекомендовала дать каждому сотруднику дополнительное обучение». *recommend that sb **be** given* — сослагательное наклонение: базовая форма без *-s* и без сдвига времени."
+  - audio: audio/tatoeba/1285385.mp3
+    audio_source: {title: "Tatoeba #8746173", url: "https://tatoeba.org/en/sentences/show/8746173", author: "rul", license: "CC BY 4.0"}
+    answers: ["Tom said he would consult a lawyer.", "Tom said he'd consult a lawyer."]
+    explain: "«Том сказал, что посоветуется с юристом». *will* → *would* в косвенной речи; *consult sb* — без предлога."
+  - audio: audio/tatoeba/946528.mp3
+    audio_source: {title: "Tatoeba #6272368", url: "https://tatoeba.org/en/sentences/show/6272368", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["Tom advised Mary to learn karate."]
+    explain: "«Том посоветовал Мэри заняться карате». *advise sb to do* — модель «объект + инфинитив», как у *urge*, *warn*, *encourage*."
+  - audio: audio/tatoeba/946429.mp3
+    audio_source: {title: "Tatoeba #297671", url: "https://tatoeba.org/en/sentences/show/297671", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["He told me where to buy origami."]
+    explain: "«Он сказал мне, где купить бумагу для оригами». *tell sb where to do* — wh-слово + инфинитив: сжатый косвенный вопрос (*where I could buy*)."
+  - audio: audio/tatoeba/972195.mp3
+    audio_source: {title: "Tatoeba #281731", url: "https://tatoeba.org/en/sentences/show/281731", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["It is said that Japanese people don't celebrate Christmas the way Americans do.", "It's said that Japanese people don't celebrate Christmas the way Americans do.", "It is said that Japanese people do not celebrate Christmas the way Americans do."]
+    explain: "«Говорят, что японцы празднуют Рождество не так, как американцы». *It is said that…* — безличный пересказ; *the way Americans do* — эллипсис (*do* = celebrate it)."
+  - audio: audio/tatoeba/1063559.mp3
+    audio_source: {title: "Tatoeba #272991", url: "https://tatoeba.org/en/sentences/show/272991", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["The teacher pointed her finger at me and asked me to go with her."]
+    explain: "«Учительница указала на меня пальцем и попросила пойти с ней». Просьба в косвенной речи: *ask sb to do*."

@@ -1,0 +1,75 @@
+title: "Part 1: Six short situations"
+type: listening
+intro: "Ты услышишь шесть коротких отрывков. Перед каждым прозвучит ситуация, она же написана в вопросе. Выбери лучший ответ."
+hints:
+  - "Вопрос часто о чужих словах: что сказал врач, что спросил клиент. Ищи reporting verb: advised, asked, promised, accused."
+  - "Ловушка — то, чего человек ожидал: I thought she'd tell me…, but no."
+audio: audio/tts/06/situations.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural, en-GB-ThomasNeural, en-AU-NatashaNeural, en-US-AndrewNeural, en-GB-LibbyNeural, en-GB-SoniaNeural, en-GB-RyanNeural, en-US-JennyNeural", license: "TTS"}
+transcript: |
+  **1. You hear a woman telling a colleague about a phone call.**
+
+  **Man:** Who was that on the phone?
+
+  **Woman:** Mr Harris, again. He said the printer we'd delivered on Monday still wasn't working, and he wanted to know when someone could come and look at it. I told him an engineer would be there tomorrow morning.
+
+  **Man:** Did he ask for his money back?
+
+  **Woman:** Not this time. He just asked us to ring before we come.
+
+  **2. You hear a man talking about a visit to his doctor.**
+
+  **Man:** So I finally went to the doctor about my back. I thought she'd tell me to stop running, but no. She said running wasn't the problem. It was the eight hours a day at my desk. She advised me to get up every half an hour and walk around, and she suggested trying yoga as well, but only once the pain had gone.
+
+  **3. You hear a girl talking to her mother about a school trip.**
+
+  **Girl:** Mum, Mr Evans told us today that the trip to France has been cancelled.
+
+  **Mother:** Cancelled? Why?
+
+  **Girl:** He said not enough people had paid. But he promised we'd go to London in June instead, and he said it would be a lot cheaper.
+
+  **Mother:** Well, that's something, I suppose.
+
+  **4. You hear a man leaving a message for a friend.**
+
+  **Man:** Hi, Tom, it's Sam. I've just bumped into Kate, and she asked if you were still coming to her party on Friday. I said I thought you were, but that I'd check with you. Oh, and she told me not to bring anything, because her mum's doing all the food. Give me a ring when you get this.
+
+  **5. You hear two friends talking about a job interview.**
+
+  **Woman:** So how did the interview go?
+
+  **Man:** Weird. At the end, the manager asked me why I'd left my last job after only six months. I explained that the company had closed down. Then she asked whether I'd be willing to work weekends. I said no, and she just went quiet.
+
+  **Woman:** Did she say when they'd let you know?
+
+  **Man:** She said she'd call by Friday. I'm not holding my breath.
+
+  **6. You hear a woman talking about her neighbour.**
+
+  **Woman:** My neighbour knocked on the door last night and accused me of parking in his space. I told him I hadn't even taken the car out all week! Then he said he'd seen a red car there, and I pointed out that half the street drives red cars. In the end he apologised for shouting, and to be fair, he offered to buy me a coffee.
+items:
+  - q: "1. You hear a woman telling a colleague about a phone call. What did the customer want?"
+    options: ["His money back.", "Someone to come and repair the printer.", "A different printer."]
+    answer: 1
+    explain: "*he wanted to know when someone could come and look at it* — косвенный вопрос с прямым порядком слов. Деньги назад он на этот раз не просил."
+  - q: "2. You hear a man talking about a visit to his doctor. What did the doctor advise him to do?"
+    options: ["Stop running for a while.", "Move around regularly during his working day.", "Start doing yoga straight away."]
+    answer: 1
+    explain: "*She **advised** me to get up every half an hour and walk around.* Бросить бег — то, чего он ожидал. Йогу она предложила, но только когда пройдёт боль."
+  - q: "3. You hear a girl talking to her mother about a school trip. What did the teacher say?"
+    options: ["The trip was cancelled because it was too expensive.", "The class would go to a different place instead.", "Parents would get their money back."]
+    answer: 1
+    explain: "*he **promised** we'd go to London in June instead* — *promise* + *would*. Причина отмены — мало кто заплатил (*not enough people had paid*), а не цена."
+  - q: "4. You hear a man leaving a message for a friend. Why is he calling?"
+    options: ["To invite Tom to a party.", "To find out whether Tom is going to a party.", "To ask Tom to help with the food."]
+    answer: 1
+    explain: "*she asked if you were still coming… I said… I'd check with you* — он выясняет, придёт ли Том. Приглашала Кейт раньше; еду приносить не нужно: *told me not to bring anything*."
+  - q: "5. You hear two friends talking about a job interview. How does the man feel about it?"
+    options: ["Hopeful that he will get the job.", "Doubtful that he will get the job.", "Angry about the questions he was asked."]
+    answer: 1
+    explain: "*I'm not holding my breath* — «не особо надеюсь». Начальница замолчала после его отказа работать в выходные."
+  - q: "6. You hear a woman talking about her neighbour. How did the conversation end?"
+    options: ["The neighbour said sorry.", "The woman agreed to park somewhere else.", "The woman bought the neighbour a coffee."]
+    answer: 0
+    explain: "*In the end he **apologised** for shouting* — *apologise for* + **-ing**. Кофе предложил купить он: *offered to buy me a coffee*."

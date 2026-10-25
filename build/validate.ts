@@ -33,7 +33,7 @@ try {
   for (const l of lessons.values()) {
     unrendered(l.id, l.theory + l.practice);
     for (const ex of l.exercises) {
-      unrendered(ex.id, ex.intro + ex.text + ex.prompt + ex.modelAnswer);
+      unrendered(ex.id, ex.intro + ex.text + ex.transcript + ex.prompt + ex.modelAnswer);
       for (const it of ex.items) {
         unrendered(`${ex.id} item ${it.n}`, it.q + it.before + it.after + it.options.join('') + it.explain);
       }

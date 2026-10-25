@@ -1,0 +1,59 @@
+title: "Part 4: Having the builders in"
+type: listening
+intro: "Пять человек рассказывают о ремонте, который им делали дома. **Задание 1** (пункты 1–5): какая проблема возникла у каждого? **Задание 2** (пункты 6–10): что каждый сделал бы по-другому? В каждом задании три варианта лишние."
+hints:
+  - "Каузатив (had the kitchen redone) — работу делал кто-то другой."
+  - "Урок звучит в конце монолога, часто в условном: Next time, I'd…"
+audio: audio/tts/c1-04/speakers.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-SoniaNeural, en-US-JennyNeural, en-GB-RyanNeural, en-AU-NatashaNeural, en-IE-ConnorNeural, en-GB-LibbyNeural", license: "TTS"}
+transcript: |
+  **Speaker 1:** We had the kitchen redone last year. It was supposed to have been finished in six weeks, and in the end it took five months. Every time I rang, I was told the units were being delivered next week. Always next week. To be fair, the work itself is beautiful. It's been admired by everyone who's seen it. But if I were doing it again, I'd want every single date written into the contract, with a penalty if it's missed. A handshake and a promise just aren't enough. Not when people are being paid as much as that.
+
+  **Speaker 2:** Our roof needed replacing, so we got three builders round to give us a price and went with the middle one. The price never changed, which I'd been warned it might. The problem was next door. Scaffolding was put up against our neighbour's wall without anyone asking her, and a couple of her roof tiles got broken in the process. The builders paid for the repair, eventually, but she's barely spoken to us since. Next time, I'd knock on her door before a single pole went up. It would have cost me five minutes and a cup of tea.
+
+  **Speaker 3:** We'd been told the bathroom would cost about eight thousand pounds. By the time it was finished, we'd been charged nearly fourteen. Every extra was explained very reasonably. The floor turned out to be rotten, the pipes had to be moved, and so on. I don't think we were cheated, exactly. But we hadn't put anything aside for surprises, and we had to borrow from my parents. Honestly, I'd add a third to whatever figure you're given. Old houses keep secrets, and they're always revealed at the worst possible moment.
+
+  **Speaker 4:** I had an extension built while I was working abroad, which, looking back, was asking for trouble. Photos were sent to me every week, and everything looked fine on a screen. It was only when I got home that I saw the tiling was crooked and the plastering was frankly amateur. Half of it has had to be redone. The firm had been recommended by a friend, so I hadn't bothered checking. If I ever have work done again, I'll be there in person, even if it means taking unpaid leave. Things get done differently when someone's watching.
+
+  **Speaker 5:** Our builder was charming, quick and cheap, and halfway through the job he simply stopped answering his phone. We later found out he'd been taken to court by two other clients. If we'd looked him up online, or asked to see a job he'd finished, we'd have known in five minutes. We ended up getting another firm in to finish the work, and it cost us far more than it should have. I'm not a suspicious person by nature, but I've learnt to be. These days I'd want to be shown references before anyone so much as picked up a hammer.
+items:
+  - q: "Task 1 · Speaker 1: what problem did the speaker have?"
+    options: &t1 ["the builder abandoned the job", "the work damaged someone else's property", "the job took far longer than agreed", "planning permission was refused", "the final bill was much higher than expected", "the wrong materials were delivered", "the work was of poor quality", "the speaker was blamed for a delay"]
+    answer: 2
+    explain: "*It was supposed to have been finished in six weeks, and in the end it took five months* — *be supposed to have been done*: план не выполнен. Качество, наоборот, *beautiful*."
+  - q: "Task 1 · Speaker 2: what problem did the speaker have?"
+    options: *t1
+    answer: 1
+    explain: "*a couple of her roof tiles got broken in the process* — get-passive о случайном повреждении у соседки. Цена не менялась, так что счёт — ловушка."
+  - q: "Task 1 · Speaker 3: what problem did the speaker have?"
+    options: *t1
+    answer: 4
+    explain: "*We'd been told the bathroom would cost about eight thousand… we'd been charged nearly fourteen* — два Past Perfect passive: ожидание и реальность."
+  - q: "Task 1 · Speaker 4: what problem did the speaker have?"
+    options: *t1
+    answer: 6
+    explain: "*the tiling was crooked and the plastering was frankly amateur. Half of it has had to be redone* — низкое качество."
+  - q: "Task 1 · Speaker 5: what problem did the speaker have?"
+    options: *t1
+    answer: 0
+    explain: "*halfway through the job he simply stopped answering his phone* — строитель бросил работу. Переплата (*cost us far more*) — следствие, а не сама проблема."
+  - q: "Task 2 · Speaker 1: what would the speaker do differently?"
+    options: &t2 ["get quotes from several firms", "be on site while the work is done", "check a builder's record before hiring", "talk to the neighbours beforehand", "do some of the work personally", "put every deadline in the contract", "set aside extra money", "only use a builder that friends recommend"]
+    answer: 5
+    explain: "*I'd want every single date written into the contract, with a penalty if it's missed* — каузатив с *want*: *want something written*."
+  - q: "Task 2 · Speaker 2: what would the speaker do differently?"
+    options: *t2
+    answer: 3
+    explain: "*Next time, I'd knock on her door before a single pole went up.* Несколько смет они уже собирали (*got three builders round*), поэтому это не урок."
+  - q: "Task 2 · Speaker 3: what would the speaker do differently?"
+    options: *t2
+    answer: 6
+    explain: "*we hadn't put anything aside for surprises… I'd add a third to whatever figure you're given* — нужен запас денег."
+  - q: "Task 2 · Speaker 4: what would the speaker do differently?"
+    options: *t2
+    answer: 1
+    explain: "*If I ever have work done again, I'll be there in person* — каузатив *have work done*. Рекомендация друга — ловушка: именно она его подвела."
+  - q: "Task 2 · Speaker 5: what would the speaker do differently?"
+    options: *t2
+    answer: 2
+    explain: "*If we'd looked him up online, or asked to see a job he'd finished… I'd want to be shown references* — проверить репутацию строителя."

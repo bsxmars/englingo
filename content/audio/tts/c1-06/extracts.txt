@@ -1,0 +1,23 @@
+# pause: 700
+C: Extract one. You hear two flatmates talking about their household bills.
+B: Have you seen the electricity bill? It's nearly twice as much as it was last winter.
+G: I know. I nearly dropped it. Though, to be fair, we're both at home far more than we were. Neither of us was working from home this time last year.
+B: True. But it isn't just the heating. Every single light in this flat seems to be on whenever I come in.
+G: Is that aimed at me?
+B: Not entirely. Well, partly. Look, I'm not trying to start an argument. I just think we could use a lot less without really noticing the difference.
+G: Fine. But then can we talk about the hot water? Some of us take twenty-minute showers.
+B: That's fair. Okay, how about this. We each pay half, as usual, but we both agree to cut back, and if next month's bill isn't any lower, we'll look into getting one of those smart meters.
+G: Deal. Though I'd rather have the meter now, to be honest. At least then neither of us can blame the other.
+C: Extract two. You hear a man talking on the radio about a community garden.
+H: When we took over the site, it was a car park that nobody had used for years. Some thirty families signed up in the first month, which was far more than we'd expected, and the whole of that first spring was spent breaking up concrete. Not much fun, I can tell you.
+H: These days there are forty-two plots, and every one of them is taken. There's a waiting list, too, which I'm a bit uneasy about, because the whole point was that anyone could join. Most of the gardeners are retired, but we've got a good few young families now, and a couple of local schools come in once a week.
+H: What I'm proudest of, oddly enough, isn't the vegetables. It's that people who'd lived on the same street for twenty years without exchanging a word now know each other's names. Many a friendship has started with an argument about whose tomatoes are bigger. And if the council ever does decide to sell the land, as it keeps hinting it might, there'll be a great many very angry gardeners at the town hall.
+C: Extract three. You hear two colleagues talking about a conference.
+E: So, was it worth it? Two whole days, and the company paid for the hotel.
+D: Honestly? Mixed. Few of the talks told me anything I couldn't have read online. But a few were excellent, and one of them, on data privacy, was worth the whole trip on its own.
+E: Well, that's something, I suppose. Were there many people there?
+D: Fewer than last year, I'd say. Maybe half as many. The organisers blamed the train strike, but I think a lot of people have simply stopped going. You can watch most of the sessions online afterwards anyway.
+E: So would you go again?
+D: I'd go for one day, not both. Either day would do, really. What I wouldn't do is spend the whole of Saturday in the exhibition hall being handed leaflets. I came back with about forty of them, and I haven't read any.
+E: I'll tell the boss you found it inspiring, then.
+D: Please don't. She'll make me write a report.

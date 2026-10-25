@@ -6,3 +6,6 @@ node_modules/
 test-results/
 playwright-report/
 englingo-progress.json
+scripts/.cache/
+scripts/.venv/
+__pycache__/

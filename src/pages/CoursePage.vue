@@ -17,7 +17,7 @@ const due = computed(() => dueCards(course, progress.data, level.value.level.cod
     <h1 class="aura-text aura-text--display">Английский: от B1 к C1</h1>
     <p class="aura-text aura-text--bodyL muted">
       Две ступени: B1 → B2 (Oxford Practice Grammar Intermediate, экзамен B2 First) и B2 → C1 (OPG Advanced, C1
-      Advanced). Модуль — это неделя: 3–4 урока грамматики, текст для чтения и задание на письмо; упражнения из учебника
+      Advanced). Модуль — это неделя: 3–4 урока грамматики, текст для чтения, задание на письмо и аудирование; упражнения из учебника
       — в конце каждого урока. Каждый день — 10 минут карточек. Ступень выбирается вверху, в шапке.
     </p>
   </section>

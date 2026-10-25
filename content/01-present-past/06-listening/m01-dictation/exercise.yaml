@@ -1,0 +1,47 @@
+title: "Диктант: времена на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения (I've / I have) засчитываются в обе стороны."
+hints:
+  - "Сначала услышь вспомогательный глагол: have / had / used to — он подскажет время."
+  - "В быстрой речи have сливается с местоимением: I've, he's, they'd."
+items:
+  - audio: audio/tts/01/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural", license: "TTS"}
+    answers: ["I have been waiting for you since six o'clock."]
+    explain: "«Я жду тебя с шести часов». Present Perfect Continuous + *since*: ждёт до сих пор."
+  - audio: audio/tts/01/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-JennyNeural", license: "TTS"}
+    answers: ["She had already left when we arrived at the station."]
+    explain: "«Когда мы приехали на вокзал, она уже ушла». Past Perfect — раньше другого прошлого действия."
+  - audio: audio/tts/01/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-AU-NatashaNeural", license: "TTS"}
+    answers: ["We used to spend every summer at our grandparents' house."]
+    explain: "«Раньше мы каждое лето проводили у бабушки с дедушкой». *used to* — привычка в прошлом, которой больше нет."
+  - audio: audio/tts/01/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural", license: "TTS"}
+    answers: ["Have you ever been to a country where you didn't speak the language?"]
+    explain: "«Случалось ли тебе бывать в стране, языка которой ты не знаешь?» *Have you ever been* — опыт за всю жизнь."
+  - audio: audio/tatoeba/1247327.mp3
+    audio_source: {title: "Tatoeba #253673", url: "https://tatoeba.org/en/sentences/show/253673", author: "rul", license: "CC BY 4.0"}
+    answers: ["I have been working for this newspaper for 4 years.", "I have been working for this newspaper for four years."]
+    explain: "«Я уже четыре года работаю в этой газете». Present Perfect Continuous + *for*: работает до сих пор."
+  - audio: audio/tatoeba/942545.mp3
+    audio_source: {title: "Tatoeba #251515", url: "https://tatoeba.org/en/sentences/show/251515", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["My brother soon got used to living alone in Tokyo."]
+    explain: "«Мой брат быстро привык жить один в Токио». *get used to* + **-ing** — привыкнуть, не путай с *used to* + глагол."
+  - audio: audio/tatoeba/962102.mp3
+    audio_source: {title: "Tatoeba #289825", url: "https://tatoeba.org/en/sentences/show/289825", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["He has been living here these ten years.", "He has been living here these 10 years."]
+    explain: "«Он живёт здесь последние десять лет». *these ten years* — книжный вариант *for the last ten years*."
+  - audio: audio/tatoeba/946432.mp3
+    audio_source: {title: "Tatoeba #319071", url: "https://tatoeba.org/en/sentences/show/319071", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["My father used to drink beer, but now he drinks sake."]
+    explain: "«Раньше отец пил пиво, а теперь пьёт саке». *used to* против Present Simple *now he drinks*."
+  - audio: audio/tatoeba/942427.mp3
+    audio_source: {title: "Tatoeba #307235", url: "https://tatoeba.org/en/sentences/show/307235", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["They had lived there until they came to Tokyo."]
+    explain: "«Они жили там, пока не переехали в Токио». Past Perfect: жизнь там — до переезда."
+  - audio: audio/tatoeba/1247046.mp3
+    audio_source: {title: "Tatoeba #3926945", url: "https://tatoeba.org/en/sentences/show/3926945", author: "rul", license: "CC BY 4.0"}
+    answers: ["He's not used to it.", "He is not used to it.", "He isn't used to it."]
+    explain: "«Он к этому не привык». *be used to* — быть привычным к чему-то."

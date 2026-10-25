@@ -1,0 +1,47 @@
+title: "Диктант: будущее на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения (I'll / I will) засчитываются в обе стороны."
+hints:
+  - "'ll почти сливается с местоимением: I'll, we'll, he'll. Если по смыслу это будущее, оно там есть."
+  - "После when, as soon as, by the time, next time будущее выражается настоящим временем."
+items:
+  - audio: audio/tts/02/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-AndrewNeural", license: "TTS"}
+    answers: ["This time tomorrow I will be flying over the Atlantic."]
+    explain: "«Завтра в это время я буду лететь над Атлантикой». Future Continuous: действие в процессе в конкретный момент будущего."
+  - audio: audio/tts/02/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-SoniaNeural", license: "TTS"}
+    answers: ["By the end of the year, we'll have moved into our new flat."]
+    explain: "«К концу года мы уже переедем в новую квартиру». Future Perfect + *by*: действие завершится к сроку."
+  - audio: audio/tts/02/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural", license: "TTS"}
+    answers: ["I'll call you as soon as I get to the hotel."]
+    explain: "«Позвоню, как только доберусь до отеля». После *as soon as* — Present Simple, не *will get*."
+  - audio: audio/tts/02/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-AU-NatashaNeural", license: "TTS"}
+    answers: ["The meeting is due to start at nine, but Anna is likely to be late.", "The meeting is due to start at 9, but Anna is likely to be late."]
+    explain: "«Совещание должно начаться в девять, но Анна, скорее всего, опоздает». *be due to* — по расписанию, *be likely to* — вероятно."
+  - audio: audio/tts/02/s5.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-LibbyNeural", license: "TTS"}
+    answers: ["I was going to phone you last night, but my battery died."]
+    explain: "«Я собиралась позвонить вчера вечером, но сел телефон». *was going to* — намерение, которое не сбылось."
+  - audio: audio/tatoeba/1073610.mp3
+    audio_source: {title: "Tatoeba #251620", url: "https://tatoeba.org/en/sentences/show/251620", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["By the time he retires, my father will have worked for almost thirty years.", "By the time he retires, my father will have worked for almost 30 years."]
+    explain: "«К тому времени, как отец выйдет на пенсию, он проработает почти тридцать лет». После *by the time* — Present Simple (*retires*), в главной части — Future Perfect."
+  - audio: audio/tatoeba/942616.mp3
+    audio_source: {title: "Tatoeba #279734", url: "https://tatoeba.org/en/sentences/show/279734", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["I hope to see you the next time you are in Tokyo.", "I hope to see you the next time you're in Tokyo."]
+    explain: "«Надеюсь увидеться, когда ты в следующий раз будешь в Токио». *the next time* работает как *when*: после него Present Simple."
+  - audio: audio/tatoeba/942448.mp3
+    audio_source: {title: "Tatoeba #579603", url: "https://tatoeba.org/en/sentences/show/579603", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["He's leaving for Tokyo tomorrow.", "He is leaving for Tokyo tomorrow."]
+    explain: "«Завтра он уезжает в Токио». Present Continuous для договорённости: билеты, скорее всего, уже куплены."
+  - audio: audio/tatoeba/1055466.mp3
+    audio_source: {title: "Tatoeba #278856", url: "https://tatoeba.org/en/sentences/show/278856", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["Weather permitting, we are going to get to the top of the mountain tomorrow.", "Weather permitting, we're going to get to the top of the mountain tomorrow."]
+    explain: "«Если позволит погода, завтра мы поднимемся на вершину». *going to* — намерение; *weather permitting* — устойчивое «если позволит погода»."
+  - audio: audio/tatoeba/1047744.mp3
+    audio_source: {title: "Tatoeba #288487", url: "https://tatoeba.org/en/sentences/show/288487", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["He'll be back in two hours. In the meantime, let's prepare dinner.", "He will be back in two hours. In the meantime, let's prepare dinner.", "He'll be back in 2 hours. In the meantime, let's prepare dinner.", "He will be back in 2 hours. In the meantime, let's prepare dinner."]
+    explain: "«Он вернётся через два часа. А пока давай приготовим ужин». *will* для простого прогноза; *in two hours* — «через два часа», не «за»."

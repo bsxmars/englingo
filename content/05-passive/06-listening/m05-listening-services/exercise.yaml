@@ -1,0 +1,39 @@
+title: "Part 3: Paying to have it done"
+type: listening
+intro: "Пять человек рассказывают, как платили кому-то за работу. Для каждого выбери утверждение A–F. Одно утверждение лишнее."
+hints:
+  - "Утверждения обобщают сказанное: ищи смысл, а не то же слово."
+  - "Каждый говорящий задевает два-три утверждения — подходит одно."
+audio: audio/tts/05/services.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-SoniaNeural, en-US-JennyNeural, en-GB-ThomasNeural, en-AU-NatashaNeural, en-US-AndrewNeural, en-GB-LibbyNeural", license: "TTS"}
+transcript: |
+  **Speaker 1:** I'd never had my hair dyed before. My sister kept telling me the grey made me look ten years older, and in the end I booked an appointment, mostly to stop her going on about it. And you know what? I actually love it. It took about an hour, which is what the salon had said it would. Now I'm being asked by friends where I had it done, so I suppose she was right.
+
+  **Speaker 2:** Last spring we had the kitchen painted. I was quoted two thousand pounds, which seemed a lot, but I'd always been told that professionals are much quicker. Well, the job was supposed to take three days, and it took nine. Paint was left on the floor, and one wall had to be done twice. Honestly, I'm not bad with a brush. I should have bought the paint and spent a weekend on it myself.
+
+  **Speaker 3:** After that big storm in March, I had the roof checked. I was half expecting a huge bill. The man spent about two hours up there, and the good news is that none of the tiles were damaged. The bad news is that the gutters are so old they'll have to be replaced within a year or two, he reckons. So it's only been put off, really. I've started saving already.
+
+  **Speaker 4:** I got my first tattoo in July, a small bird on my arm. When the bandage was taken off, I nearly cried. It was red and swollen, and the lines looked thick and messy. I was told it would heal, but I didn't believe it. I kept thinking, what have I done? A month later, though, it looks beautiful. I'm already planning the next one.
+
+  **Speaker 5:** My wedding dress was my grandmother's, so it had to be altered quite a lot. It wasn't cheap, I'll admit. The shop told me it would take at least four weeks, because they were so busy, and I was getting really nervous. Then two days later they rang to say it was ready. It had been taken in, shortened, and even cleaned. I couldn't believe it.
+items:
+  - q: "Speaker 1"
+    options: &opts ["A. The work was finished much sooner than I'd been told.", "B. I was talked into it by someone else.", "C. I should have done the job myself.", "D. More work will need to be done before long.", "E. At first I was unhappy with the result.", "F. It cost far less than I had expected."]
+    answer: 1
+    explain: "*My sister kept telling me… I booked an appointment, mostly to stop her going on about it* — B. Час — ровно столько, сколько обещали, так что A не подходит."
+  - q: "Speaker 2"
+    options: *opts
+    answer: 2
+    explain: "*I should have bought the paint and spent a weekend on it myself* — C. *had the kitchen painted* — красили мастера, а не он. Работа заняла девять дней вместо трёх — это против A."
+  - q: "Speaker 3"
+    options: *opts
+    answer: 3
+    explain: "*the gutters… will have to be replaced within a year or two* — D: пассив с модальным о будущей работе. Счёт она ждала большой, но о цене дальше не говорит, поэтому F не подходит."
+  - q: "Speaker 4"
+    options: *opts
+    answer: 4
+    explain: "*When the bandage was taken off, I nearly cried… A month later, though, it looks beautiful* — E: сначала расстроился, потом результат понравился."
+  - q: "Speaker 5"
+    options: *opts
+    answer: 0
+    explain: "*it would take at least four weeks… two days later they rang to say it was ready* — A. *It wasn't cheap* — ловушка для F. *had been taken in, shortened* — Past Perfect Passive."

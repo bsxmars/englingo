@@ -1,0 +1,70 @@
+title: "Part 4: Changing careers"
+type: listening
+intro: |
+  Пять человек рассказывают, как сменили профессию. Задание из двух частей, как на экзамене: в **Task 1** выбери, что подтолкнуло каждого к переменам, в **Task 2** — что каждый говорит о своём решении сейчас. В каждой задаче три варианта лишние.
+hints:
+  - "Слушай запись целиком дважды: в первый раз реши Task 1, во второй — Task 2."
+  - "Каждый говорящий упоминает и лишний вариант — с оговоркой: It wasn't that…, that came later, not really."
+audio: audio/tts/c1-14/speakers.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-SoniaNeural, en-GB-ThomasNeural, en-US-JennyNeural, en-IE-ConnorNeural, en-GB-LibbyNeural, en-US-AndrewNeural", license: "TTS"}
+transcript: |
+  *Speaker one.*
+
+  I'd been an accountant for nearly twenty years, and if the firm hadn't merged with a bigger one, I'd probably still be there. When they announced the job cuts, my name was one of the first on the list. At the time it felt like the end of the world, but looking back, it was the push I needed. I'd always made furniture at weekends, so I signed up for a carpentry course. What I hadn't bargained for was how long it would take before anyone paid me properly. I'd assumed six months; it was nearer three years. Had I known that, I'd have put a lot more money aside beforehand.
+
+  *Speaker two.*
+
+  I was a corporate lawyer, and I'd never seriously thought about leaving. Then, on a train to Manchester, an elderly woman sitting opposite asked me what I'd do if money were no object. I said "teach", without even thinking, and that answer stayed with me for weeks. Now I teach eight-year-olds. Of course I earn a fraction of what I used to, but I genuinely don't miss it. What amazes me is how much of my old job I use. Unless you've had to keep a jury's attention for an hour, you can't imagine how handy that is with thirty children on a wet Friday afternoon.
+
+  *Speaker three.*
+
+  I worked in IT support for twelve years. Then I injured my back quite badly playing football and spent the best part of three months in and out of hospital. If I hadn't been lying there day after day, watching the nurses, I'd never have considered it. So at thirty-eight I went back to college and trained as a nurse. People ask whether I miss the salary or the regular hours. Not really. If only I'd done it at twenty-five, when I first thought about it. I'd have had another thirteen years doing something that actually matters to me.
+
+  *Speaker four.*
+
+  I was in marketing, and a colleague of mine, Jo, left to open a café. I remember thinking, if she can do it, so can I, and six months later I'd handed in my notice and signed the lease on a little bakery. My grandmother did leave me some money, but that came later, and it went on a new oven. I love being my own boss, I really do. But supposing I'd sat down with an accountant before I signed anything, I'd have saved myself an absolute fortune. Nobody tells you about business rates. I'd tell anyone thinking of doing the same: get proper advice first.
+
+  *Speaker five.*
+
+  I was a bank manager. It wasn't that I was bored; I actually quite liked the routine. But I'd been passed over for promotion twice, and the second time, I just thought, enough. I applied to be a park ranger, mostly out of frustration, and to my surprise they took me. Now, some days I think, had I stayed, I'd be a regional director by now, with a pension to match. Ask me on a sunny day in June and I'll say it was the best decision of my life. Ask me in February, in the rain, and, well, I'm honestly not sure I'd give you the same answer.
+items:
+  - q: "Task 1 (why each speaker changed career). Speaker 1"
+    options: ["A health problem", "A conversation with a stranger", "Losing a job", "A family responsibility", "Boredom with routine", "An inheritance", "A colleague's example", "Being refused promotion"]
+    answer: 2
+    explain: "*When they announced the job cuts, my name was one of the first on the list* — сокращение. *if the firm hadn't merged…, I'd probably still be there* — смешанное условие: прошлое → настоящее."
+  - q: "Task 1 (why each speaker changed career). Speaker 2"
+    options: ["A health problem", "A conversation with a stranger", "Losing a job", "A family responsibility", "Boredom with routine", "An inheritance", "A colleague's example", "Being refused promotion"]
+    answer: 1
+    explain: "*an elderly woman sitting opposite asked me what I'd do if money were no object* — случайная попутчица. *were* — второй тип в косвенном вопросе."
+  - q: "Task 1 (why each speaker changed career). Speaker 3"
+    options: ["A health problem", "A conversation with a stranger", "Losing a job", "A family responsibility", "Boredom with routine", "An inheritance", "A colleague's example", "Being refused promotion"]
+    answer: 0
+    explain: "*I injured my back… spent… three months in and out of hospital. If I hadn't been lying there…, I'd never have considered it.*"
+  - q: "Task 1 (why each speaker changed career). Speaker 4"
+    options: ["A health problem", "A conversation with a stranger", "Losing a job", "A family responsibility", "Boredom with routine", "An inheritance", "A colleague's example", "Being refused promotion"]
+    answer: 6
+    explain: "*a colleague of mine, Jo, left to open a café… if she can do it, so can I.* Наследство — ловушка: *that came later*."
+  - q: "Task 1 (why each speaker changed career). Speaker 5"
+    options: ["A health problem", "A conversation with a stranger", "Losing a job", "A family responsibility", "Boredom with routine", "An inheritance", "A colleague's example", "Being refused promotion"]
+    answer: 7
+    explain: "*I'd been passed over for promotion twice.* Скука — ловушка: *It wasn't that I was bored*."
+  - q: "Task 2 (what each speaker says now). Speaker 1"
+    options: ["regrets not changing career sooner", "misses the money they used to earn", "is surprised how useful old skills are", "wishes they had got expert advice first", "has more time for family now", "is not sure the decision was right", "underestimated how long it would take to earn a living", "most enjoys being their own boss"]
+    answer: 6
+    explain: "*I'd assumed six months; it was nearer three years.* *Had I known that, I'd have put more money aside* — инверсия третьего типа описывает, чего он не знал."
+  - q: "Task 2 (what each speaker says now). Speaker 2"
+    options: ["regrets not changing career sooner", "misses the money they used to earn", "is surprised how useful old skills are", "wishes they had got expert advice first", "has more time for family now", "is not sure the decision was right", "underestimated how long it would take to earn a living", "most enjoys being their own boss"]
+    answer: 2
+    explain: "*What amazes me is how much of my old job I use. **Unless** you've had to keep a jury's attention…* По деньгам — ловушка: *I genuinely don't miss it*."
+  - q: "Task 2 (what each speaker says now). Speaker 3"
+    options: ["regrets not changing career sooner", "misses the money they used to earn", "is surprised how useful old skills are", "wishes they had got expert advice first", "has more time for family now", "is not sure the decision was right", "underestimated how long it would take to earn a living", "most enjoys being their own boss"]
+    answer: 0
+    explain: "*If only I'd done it at twenty-five* — сожаление о прошлом. О зарплате: *Not really* — это дистрактор B."
+  - q: "Task 2 (what each speaker says now). Speaker 4"
+    options: ["regrets not changing career sooner", "misses the money they used to earn", "is surprised how useful old skills are", "wishes they had got expert advice first", "has more time for family now", "is not sure the decision was right", "underestimated how long it would take to earn a living", "most enjoys being their own boss"]
+    answer: 3
+    explain: "*supposing I'd sat down with an accountant…, I'd have saved myself a fortune… get proper advice first.* *I love being my own boss* звучит, но вывод — про совет специалиста."
+  - q: "Task 2 (what each speaker says now). Speaker 5"
+    options: ["regrets not changing career sooner", "misses the money they used to earn", "is surprised how useful old skills are", "wishes they had got expert advice first", "has more time for family now", "is not sure the decision was right", "underestimated how long it would take to earn a living", "most enjoys being their own boss"]
+    answer: 5
+    explain: "*Ask me on a sunny day… Ask me in February… I'm honestly not sure I'd give you the same answer.* *had I stayed, I'd be a regional director by now* — смешанное условие с инверсией."

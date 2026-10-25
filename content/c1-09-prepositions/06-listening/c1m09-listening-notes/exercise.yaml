@@ -1,0 +1,57 @@
+title: "Part 2: The Lost Property Office"
+type: listening
+intro: "Послушай экскурсию по бюро находок и впиши в каждый пропуск одно–три слова, которые прозвучали в записи."
+hints:
+  - "Предлог перед пропуском подсказывает, что нужно: on the top ___ of a bus — существительное."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/c1-09/talk.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-ThomasNeural", license: "TTS"}
+transcript: |
+  Good afternoon, and welcome to the Lost Property Office. I'm Martin, and I'll be showing you round for the next forty minutes or so. Before we start, could I ask you to keep your bags with you at all times? It would be rather embarrassing if any of them ended up on our shelves.
+
+  This office first opened in nineteen thirty-three, and it's been here, underneath the main station, since the nineteen fifties. Every year we receive around three hundred thousand items, mostly left on trains and buses and in taxis. Apart from umbrellas, which arrive by the hundred every wet Monday, the most common item is, perhaps unsurprisingly, mobile phones. They overtook keys about fifteen years ago.
+
+  Everything that comes in is logged on our database within twenty-four hours, and we hold it for three months. If nobody has claimed it by then, it's either given to charity or, in the case of electronics, sold at auction. People often ask why we don't keep things for longer. The simple answer is space. Even with the shelves going right up to the ceiling, we'd run out of room within a matter of weeks.
+
+  Now, as we walk along this corridor, you'll see some of the stranger things we've had in over the years. Among my favourites are a full-size stuffed bear, a set of false teeth and, believe it or not, a wedding dress, still in its bag, which was handed in by a taxi driver one Saturday morning. Somebody did come for the dress, by the way, though not until the following Thursday. We never found out whether the wedding went ahead.
+
+  We do get living things occasionally, too. Last spring, a tortoise was found on the top deck of a bus, and a couple of years ago someone left a parrot in a cage on platform four. Animals don't stay with us, of course. They go straight to a shelter across the road, and, I'm pleased to say, the parrot was back with its owner within the week. Apparently it had been shouting its own address at everyone.
+
+  The busiest time of year for us is the week between Christmas and New Year. People are travelling with presents, they're tired, and they've often had a drink or two. During that week alone, we can take in more than ten thousand items.
+
+  I'm sometimes asked what the secret is to getting your property back. In my experience, it's being specific. "A black bag" is no use to us at all. We've got four hundred of those. "A black bag with a broken zip and a library card in the front pocket"? That, we can find in minutes.
+
+  For me, though, the best part of the job is the reunions. A few months ago, an elderly gentleman came in looking for an accordion he'd left on a train. He'd owned it since he was a boy. We found it on the third shelf from the bottom, and he played a few bars right there at the counter. Half the office stopped what they were doing to listen.
+
+  Right, if you'd like to follow me through this door, we'll go down to the storeroom. Mind the step on your way in.
+items:
+  - q: "The Lost Property Office first opened in ___."
+    answers: ["1933", "nineteen thirty-three", "nineteen thirty three"]
+    explain: "*This office first opened in **nineteen thirty-three**, and it's been here… since the nineteen fifties* — *in* + год, *since* + точка отсчёта."
+  - q: "Apart from umbrellas, the most common item handed in is ___."
+    answers: ["mobile phones", "phones", "mobiles"]
+    explain: "*Apart from umbrellas… the most common item is, perhaps unsurprisingly, **mobile phones**.* *apart from* = «кроме» (исключение из общего правила)."
+  - q: "Every item is entered on the database within ___."
+    answers: ["twenty-four hours", "24 hours", "twenty four hours", "a day"]
+    explain: "*logged on our database **within twenty-four hours*** — *within* = «не позже чем через», рамка срока."
+  - q: "Unclaimed items are kept for ___."
+    answers: ["three months", "3 months"]
+    explain: "*we hold it for **three months**. If nobody has claimed it by then…* — *by then* = к тому моменту."
+  - q: "Electronic items that nobody claims are sold at ___."
+    answers: ["auction", "an auction", "auctions"]
+    explain: "*in the case of electronics, sold at **auction*** — устойчивое сочетание *at auction*, без артикля."
+  - q: "The wedding dress was brought in by a ___."
+    answers: ["taxi driver", "taxi-driver", "cab driver"]
+    explain: "*which was handed in by a **taxi driver** one Saturday morning* — *by* вводит деятеля в пассиве."
+  - q: "The owner of the dress did not collect it until the following ___."
+    answers: ["Thursday"]
+    explain: "*though not until the following **Thursday*** — *not until* = «только в»: раньше четверга никто не пришёл."
+  - q: "Last spring, a tortoise was found on the top ___ of a bus."
+    answers: ["deck"]
+    explain: "*found on the top **deck** of a bus* — верхний этаж двухэтажного автобуса; *on* — поверхность, «на палубе»."
+  - q: "During the week between Christmas and New Year, the office can receive over ___ items."
+    answers: ["ten thousand", "10,000", "10000", "10 000"]
+    explain: "*During that week alone, we can take in more than **ten thousand** items.* *more than* в записи = *over* в задании."
+  - q: "According to Martin, the secret of getting your property back is being ___."
+    answers: ["specific"]
+    explain: "*In my experience, it's being **specific**.* Пример: не просто *a black bag*, а *with a broken zip and a library card in the front pocket*."

@@ -1,0 +1,61 @@
+title: "Part 4: A year without a smartphone"
+type: listening
+intro: "Послушай радиоинтервью с Дэниелом Прайсом и выбери ответ. Вопросы идут по порядку записи."
+hints:
+  - "Неверные варианты тоже звучат — но относятся к другому человеку или другому времени."
+  - "Past Perfect (I'd tried, I'd read) рассказывает о том, что было раньше главного события."
+audio: audio/tts/01/interview.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-SoniaNeural, en-GB-ThomasNeural", license: "TTS"}
+transcript: |
+  **Presenter:** Welcome back to *Weekend Lives*. My guest today is Daniel Price, who spent a whole year without a smartphone. Daniel, what made you do it?
+
+  **Daniel:** Well, it wasn't a big plan. I'd been working as a sales manager for about ten years, and I used to check my phone the moment I woke up. One morning I realised I'd read forty messages before I'd even had a coffee. That was the moment.
+
+  **Presenter:** So you just switched it off?
+
+  **Daniel:** Not straight away. I'd tried to cut down before, several times, and it had never worked. This time I gave the phone to my sister and bought a really old mobile that could only make calls.
+
+  **Presenter:** How did the people around you react?
+
+  **Daniel:** My colleagues thought I'd gone mad! My boss was worried at first, because clients used to text me late at night. But after a month or so he admitted that I'd been answering emails much more carefully.
+
+  **Presenter:** What was the hardest part?
+
+  **Daniel:** Honestly, maps. I've never had a good sense of direction. In the first week I got lost three times. These days I actually look at street names, and I've started to enjoy finding my way.
+
+  **Presenter:** And what has changed most?
+
+  **Daniel:** Sleep, definitely. I've been sleeping about an hour longer every night. And I read again. When I was a teenager I would read a book a week, and then I just stopped. This year I've finished twenty-two novels.
+
+  **Presenter:** The year is over now. Have you gone back to a smartphone?
+
+  **Daniel:** I have, but with rules. It stays in the kitchen at night, and I've deleted every social media app. I'm not against technology. I just don't want it to decide how I spend my mornings.
+items:
+  - q: "What made Daniel decide to give up his smartphone?"
+    options: ["His boss asked him to spend less time online.", "He noticed how much he used it first thing in the morning.", "He had been ill because of stress at work."]
+    answer: 1
+    explain: "*One morning I realised I'd read forty messages before I'd even had a coffee.* Начальник ничего не просил — он, наоборот, сначала волновался."
+  - q: "What do we learn about Daniel's earlier attempts?"
+    options: ["He had tried several times without success.", "His sister had helped him before.", "He had never tried to use his phone less."]
+    answer: 0
+    explain: "*I'd tried to cut down before, several times, and it had never worked.* Past Perfect — попытки были **до** этого года."
+  - q: "How did Daniel's boss feel about the experiment in the end?"
+    options: ["He was still worried about the clients.", "He thought Daniel had gone mad.", "He saw that Daniel's work had improved."]
+    answer: 2
+    explain: "*He admitted that I'd been answering emails much more carefully.* «Сошёл с ума» думали коллеги, а беспокойство было только *at first*."
+  - q: "What was the most difficult thing for Daniel?"
+    options: ["Finding his way around without a map app.", "Answering clients late at night.", "Being unable to send messages."]
+    answer: 0
+    explain: "*Honestly, maps. I've never had a good sense of direction.* Клиенты писали поздно раньше — *used to text*."
+  - q: "What does Daniel say about reading?"
+    options: ["He has always read a book a week.", "He has started reading again after a long break.", "He reads only in the kitchen at night."]
+    answer: 1
+    explain: "*When I was a teenager I **would** read a book a week, and then I just stopped. This year I've finished twenty-two novels.* — привычка прошлого (would) и результат (Present Perfect)."
+  - q: "How has Daniel's sleep changed?"
+    options: ["He sleeps about an hour longer.", "He goes to bed an hour earlier.", "He wakes up an hour earlier."]
+    answer: 0
+    explain: "*I've been sleeping about an hour longer every night* — Present Perfect Continuous: так продолжается до сих пор."
+  - q: "How does Daniel use a smartphone now?"
+    options: ["He doesn't — he still has the old mobile.", "He uses it again, but with clear limits.", "He uses it only for social media."]
+    answer: 1
+    explain: "*I have, but with rules. It stays in the kitchen at night, and I've deleted every social media app.*"

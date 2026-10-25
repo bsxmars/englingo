@@ -1,0 +1,96 @@
+title: "Part 1: Seven short extracts"
+type: listening
+intro: "Ты услышишь семь коротких несвязанных отрывков. Перед каждым звучит вопрос — выбери ответ."
+hints:
+  - "Вопрос звучит до отрывка: слушай под него."
+  - "Обычно звучат все три варианта, но два отбрасываются по ходу разговора."
+  - "stop / remember / try + -ing и + to — разный смысл."
+audio: audio/tts/08/extracts.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-LibbyNeural, en-US-JennyNeural, en-US-AndrewNeural, en-AU-NatashaNeural, en-GB-RyanNeural, en-IE-ConnorNeural, en-GB-ThomasNeural, en-GB-SoniaNeural", license: "TTS"}
+transcript: |
+  **1. You hear two colleagues talking about a meeting. What has the man forgotten to do?**
+
+  **Woman:** Is everyone coming to the ten o'clock meeting? Nobody's replied to me.
+
+  **Man:** Really? I'm sure I sent the invitations. I definitely remember booking the room, and I remember writing the email…
+
+  **Woman:** Let me check. Hmm. It's still sitting in your drafts.
+
+  **Man:** Oh no. I'll send it now and apologise for the short notice.
+
+  **2. You hear two friends talking about coffee. What does the man say?**
+
+  **Woman:** You look exhausted. Weren't you going to give up coffee?
+
+  **Man:** I did stop drinking it, for a whole week. Then on Monday I stopped to buy one on the way to work. Just one, I told myself, and that was it.
+
+  **Woman:** So you're back to four a day?
+
+  **Man:** Two, actually. That's progress, isn't it?
+
+  **3. You hear two parents talking about a teenager. What does the woman say about her son?**
+
+  **Man:** Does Leo still spend every evening gaming?
+
+  **Woman:** Not any more. We don't let him play on school nights now. At weekends he's allowed to play as long as he likes, but only once his homework's done.
+
+  **Man:** And he accepts that?
+
+  **Woman:** Mostly. We also make him wash up after dinner, and he hates that far more than the rules about games.
+
+  **4. You hear a man talking to a friend about his laptop. Why hasn't he taken it to the repair shop?**
+
+  **Man:** My laptop keeps freezing. I've tried restarting it, I've tried deleting old files, nothing works.
+
+  **Woman:** Have you tried taking it to that shop on Mill Road?
+
+  **Man:** I tried to get an appointment, but they're fully booked until next month. And I'm not going to pay someone else twice as much.
+
+  **Woman:** Then you'd better back up your files tonight.
+
+  **5. You hear a woman leaving a phone message for a friend. Why is she calling?**
+
+  **Woman:** Hi Kate, it's Lucy. I just wanted to say sorry about last night. I really regret saying those things about your new job. I didn't mean to upset you, honestly. I was tired, and I suppose I was a bit jealous. Anyway, would you mind calling me back when you get a chance? I'd love to take you out for lunch.
+
+  **6. You hear two friends talking about guitar lessons. What is the woman planning to do?**
+
+  **Man:** Are you still having guitar lessons?
+
+  **Woman:** No, I gave up in March. I meant to practise every day, but I never managed to find the time.
+
+  **Man:** That's a shame.
+
+  **Woman:** Well, my teacher suggested joining a group class instead, so I'm going to try that in September. Playing with other people might make me take it more seriously.
+
+  **7. You hear a man talking about a holiday. What did he enjoy most?**
+
+  **Man:** I'd been looking forward to lying on the beach all week, but it turns out I can't stand doing nothing for long. What I really loved was getting up early and walking along the cliffs before anyone else was awake. My wife wanted to go on a boat trip, so I agreed to go, but I spent the whole time trying not to be sick.
+items:
+  - q: "1. What has the man forgotten to do?"
+    options: ["Book a meeting room.", "Send an email.", "Write the invitations."]
+    answer: 1
+    explain: "*I remember booking the room, and I remember writing the email* — *remember* + **-ing**: это он сделал. А письмо *still sitting in your drafts* — не отправлено."
+  - q: "2. What does the man say about coffee?"
+    options: ["He has given it up completely.", "He started drinking it again after a short break.", "He still drinks four cups a day."]
+    answer: 1
+    explain: "*I did stop drinking it, for a whole week. Then… I stopped to buy one* — сначала **stop + -ing** (бросил), потом **stop + to** (остановился, чтобы купить). Четыре чашки — догадка подруги, он поправляет: *Two, actually*."
+  - q: "3. What does the woman say about her son?"
+    options: ["He can play games at weekends after doing his homework.", "He is allowed to play for a short time on school nights.", "He would rather wash up than do his homework."]
+    answer: 0
+    explain: "*At weekends he's allowed to play… but only once his homework's done.* *be allowed to* — пассив от *allow*. По будням — *We don't let him play*."
+  - q: "4. Why hasn't the man taken his laptop to the repair shop?"
+    options: ["He thinks he can repair it himself.", "He couldn't get an appointment.", "He has already backed up his files."]
+    answer: 1
+    explain: "*I tried to get an appointment, but they're fully booked* — *try* + **to**: пытался, но не вышло. Копию файлов ему только советуют сделать."
+  - q: "5. Why is the woman calling her friend?"
+    options: ["To congratulate her on a new job.", "To apologise for something she said.", "To cancel their lunch."]
+    answer: 1
+    explain: "*I really regret saying those things about your new job* — *regret* + **-ing**: жалеет о сказанном. Обед она, наоборот, предлагает."
+  - q: "6. What is the woman planning to do?"
+    options: ["Go back to her private lessons.", "Practise on her own every day.", "Start playing in a group."]
+    answer: 2
+    explain: "*my teacher suggested joining a group class… I'm going to try that* — *suggest* + **-ing**. *I meant to practise every day* — намерение, которое не сбылось."
+  - q: "7. What did the man enjoy most about his holiday?"
+    options: ["Relaxing on the beach.", "Walking early in the morning.", "Going on a boat trip."]
+    answer: 1
+    explain: "*What I really loved was getting up early and walking along the cliffs.* Пляж — *I can't stand doing nothing*, а на лодке он *trying not to be sick*."

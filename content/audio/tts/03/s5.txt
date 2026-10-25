@@ -1,0 +1,2 @@
+# rate: -5%
+F: Would you mind closing the window? It might rain later.

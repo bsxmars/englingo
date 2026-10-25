@@ -1,0 +1,47 @@
+title: "Диктант: придаточные на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения (there's / there is) засчитываются в обе стороны."
+hints:
+  - "who, which, whose, where звучат быстро и слабо — ищи их сразу после существительного."
+  - "Местоимение часто опущено: the report you were looking for = the report that you were looking for."
+items:
+  - audio: audio/tts/07/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-SoniaNeural", license: "TTS"}
+    answers: ["The woman whose car was stolen has finally got it back."]
+    explain: "«Женщина, у которой угнали машину, наконец её вернула». *whose* + существительное — «чей, у которого»."
+  - audio: audio/tts/07/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-ThomasNeural", license: "TTS"}
+    answers: ["The hotel where we stayed last summer has closed down."]
+    explain: "«Гостиница, в которой мы жили прошлым летом, закрылась». *where* = *in which*; главный глагол *has closed* — после придаточного."
+  - audio: audio/tts/07/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-JennyNeural", license: "TTS"}
+    answers: ["Anyone who wants to join the trip should sign up by Friday."]
+    explain: "«Все, кто хочет поехать, должны записаться до пятницы». *anyone who* — defining clause без запятых; глагол *wants* в ед. числе."
+  - audio: audio/tts/07/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural", license: "TTS"}
+    answers: ["Having missed the last train, we had to take a taxi home."]
+    explain: "«Опоздав на последний поезд, мы были вынуждены взять такси». *Having missed* — действие раньше главного; подлежащее оборота — *we*."
+  - audio: audio/tts/07/s5.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-AU-NatashaNeural", license: "TTS"}
+    answers: ["Is this the report you were looking for?", "Is this the report that you were looking for?", "Is this the report which you were looking for?"]
+    explain: "«Это тот отчёт, который вы искали?» Местоимение опущено, предлог *for* — в конце придаточного."
+  - audio: audio/tatoeba/1110122.mp3
+    audio_source: {title: "Tatoeba #19288", url: "https://tatoeba.org/en/sentences/show/19288", author: "Them", license: "CC BY 4.0"}
+    answers: ["You should visit Kyoto, which is famous for its old temples and shrines."]
+    explain: "«Обязательно съезди в Киото — он славится старинными храмами и святилищами». Non-defining clause с запятой: *which* добавляет сведения о городе."
+  - audio: audio/tatoeba/1004941.mp3
+    audio_source: {title: "Tatoeba #252376", url: "https://tatoeba.org/en/sentences/show/252376", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["I was deceived by a person who I had thought was a friend of mine.", "I was deceived by a person whom I had thought was a friend of mine."]
+    explain: "«Меня обманул человек, которого я считал другом». *who I had thought was…* — вставка *I had thought* внутри придаточного; *who* — подлежащее для *was*."
+  - audio: audio/tatoeba/1112844.mp3
+    audio_source: {title: "Tatoeba #10697303", url: "https://tatoeba.org/en/sentences/show/10697303", author: "Them", license: "CC BY 4.0"}
+    answers: ["Do you have any family or friends who you could stay with?", "Do you have any family or friends whom you could stay with?"]
+    explain: "«Есть ли у тебя родственники или друзья, у которых можно остановиться?» Предлог *with* в конце — естественно для разговорной речи (формально: *with whom*)."
+  - audio: audio/tatoeba/956119.mp3
+    audio_source: {title: "Tatoeba #28373", url: "https://tatoeba.org/en/sentences/show/28373", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["Not having seen her before, I did not know her."]
+    explain: "«Я никогда раньше её не видел, поэтому не узнал». *Not having seen* — отрицание ставится перед причастием."
+  - audio: audio/tatoeba/1123699.mp3
+    audio_source: {title: "Tatoeba #9330113", url: "https://tatoeba.org/en/sentences/show/9330113", author: "Them", license: "CC BY 4.0"}
+    answers: ["There's no greater thief than sleep, which takes half our life from us.", "There is no greater thief than sleep, which takes half our life from us."]
+    explain: "«Нет вора больше, чем сон: он забирает у нас полжизни». *which* после запятой относится к *sleep*."

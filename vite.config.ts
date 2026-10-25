@@ -26,7 +26,7 @@ export default defineConfig({
       manifest: {
         name: 'Englingo — курс английского',
         short_name: 'Englingo',
-        description: 'Английский от B1 до C1: грамматика, чтение, письмо, карточки.',
+        description: 'Английский от B1 до C1: грамматика, чтение, письмо, аудирование, карточки.',
         lang: 'ru',
         display: 'standalone',
         orientation: 'portrait',
@@ -45,6 +45,19 @@ export default defineConfig({
         maximumFileSizeToCacheInBytes: 4 * 1024 * 1024,
         navigateFallback: 'index.html',
         cleanupOutdatedCaches: true,
+        runtimeCaching: [
+          {
+            // Recordings are cached once played; <audio> asks for ranges.
+            urlPattern: ({ url }) => url.pathname.includes('/audio/'),
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'englingo-audio',
+              expiration: { maxEntries: 500 },
+              cacheableResponse: { statuses: [0, 200] },
+              rangeRequests: true,
+            },
+          },
+        ],
       },
     }),
     spaFallback(),

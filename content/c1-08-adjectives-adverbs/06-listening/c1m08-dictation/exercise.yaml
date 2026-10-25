@@ -1,0 +1,47 @@
+title: "Диктант: прилагательные и наречия на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения (it's / it is) засчитываются в обе стороны."
+hints:
+  - "Наречие-комментарий (admittedly, frankly, presumably) обычно стоит в начале фразы и отделено паузой."
+  - "Несколько прилагательных подряд идут в порядке: мнение → размер → возраст → происхождение / тип."
+items:
+  - audio: audio/tts/c1-08/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural", license: "TTS"}
+    answers: ["Admittedly, the hotel was nowhere near as comfortable as the photos suggested."]
+    explain: "«Надо признать, отель был далеко не так удобен, как обещали фотографии». *Admittedly* — уступка; *nowhere near as… as* — сильное «далеко не так»."
+  - audio: audio/tts/c1-08/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-LibbyNeural", license: "TTS"}
+    answers: ["They live in a lovely little eighteenth-century cottage by the sea.", "They live in a lovely little eighteenth century cottage by the sea.", "They live in a lovely little 18th-century cottage by the sea.", "They live in a lovely little 18th century cottage by the sea."]
+    explain: "«Они живут в чудесном маленьком домике XVIII века у моря». Порядок: мнение (*lovely*) → размер (*little*) → возраст (*eighteenth-century*); запятых между ними нет."
+  - audio: audio/tts/c1-08/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-JennyNeural", license: "TTS"}
+    answers: ["The more I read about the project, the less convinced I became."]
+    explain: "«Чем больше я читала о проекте, тем меньше была уверена». *the more…, the less…* — двойное сравнение; прилагательное *convinced* идёт сразу за *the less*."
+  - audio: audio/tts/c1-08/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural", license: "TTS"}
+    answers: ["We were bitterly disappointed, but frankly, nobody was surprised."]
+    explain: "«Мы были горько разочарованы, но, честно говоря, никто не удивился». *bitterly disappointed* — устойчивая коллокация; *frankly* — наречие-комментарий говорящего."
+  - audio: audio/tts/c1-08/s5.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-AndrewNeural", license: "TTS"}
+    answers: ["Presumably, the people concerned will be informed in due course."]
+    explain: "«Надо полагать, тех, кого это касается, своевременно известят». *the people concerned* — прилагательное после существительного меняет смысл: «причастные», а не «обеспокоенные»."
+  - audio: audio/tatoeba/942641.mp3
+    audio_source: {title: "Tatoeba #279775", url: "https://tatoeba.org/en/sentences/show/279775", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["Tokyo is by far the largest city in Japan."]
+    explain: "«Токио — безусловно, самый большой город Японии». *by far* усиливает превосходную степень и стоит перед *the*."
+  - audio: audio/tatoeba/1073697.mp3
+    audio_source: {title: "Tatoeba #242894", url: "https://tatoeba.org/en/sentences/show/242894", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["It's rather cold today, but I think it'll be fairly warm tomorrow.", "It is rather cold today, but I think it will be fairly warm tomorrow."]
+    explain: "«Сегодня холодновато, но завтра, думаю, будет довольно тепло». *rather* — с оттенком неудовольствия, *fairly* — нейтрально-положительно."
+  - audio: audio/tatoeba/1247227.mp3
+    audio_source: {title: "Tatoeba #9279923", url: "https://tatoeba.org/en/sentences/show/9279923", author: "rul", license: "CC BY 4.0"}
+    answers: ["Even native speakers make grammar mistakes all the time."]
+    explain: "«Даже носители языка постоянно делают грамматические ошибки». Наречие фокуса *even* стоит прямо перед словом, к которому относится."
+  - audio: audio/tatoeba/1152971.mp3
+    audio_source: {title: "Tatoeba #12012152", url: "https://tatoeba.org/en/sentences/show/12012152", author: "Them", license: "CC BY 4.0"}
+    answers: ["Do you think the lake is frozen solid enough to skate on?"]
+    explain: "«Как думаешь, озеро достаточно промёрзло, чтобы кататься на коньках?» *enough* стоит **после** прилагательного (*solid enough*); предлог *on* остаётся в конце."
+  - audio: audio/tatoeba/946495.mp3
+    audio_source: {title: "Tatoeba #2807284", url: "https://tatoeba.org/en/sentences/show/2807284", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["She does not speak English as fluently as you.", "She doesn't speak English as fluently as you."]
+    explain: "«Она говорит по-английски не так бегло, как ты». В сравнении *as… as* — наречие *fluently*, потому что описывает глагол *speak*."

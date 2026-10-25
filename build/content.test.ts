@@ -124,3 +124,34 @@ describe('lessons', () => {
     }
   });
 });
+
+describe('listening and dictation', () => {
+  const src = 'audio_source: {title: "T", url: "https://tatoeba.org/x", author: "a", license: "CC BY-SA 4.0"}';
+  const tts = 'audio_source: {title: edge-tts, url: "https://github.com/rany2/edge-tts", author: en-GB-SoniaNeural, license: TTS}';
+  const item = 'items:\n  - q: "Who?"\n    options: [a, b]\n    answer: 0\n    explain: x\n';
+  const loads = (exercise: string) => () =>
+    load(mapFS({
+      'm/module.yaml': 'title: M\n',
+      'm/l/lesson.md': '---\ntitle: L\n---\n```exercise e\n```\n',
+      'm/l/e/exercise.yaml': exercise,
+      'audio/tts/1.mp3': 'ID3',
+    }));
+  const cases: [string, string, boolean][] = [
+    ['local audio', 'title: L\ntype: listening\naudio: audio/tts/1.mp3\n' + tts + '\n' + item, true],
+    ['link', 'title: L\ntype: listening\nlink: https://www.bbc.co.uk/learningenglish/x\naudio_source: {title: BBC, url: "https://www.bbc.co.uk/learningenglish", license: "©"}\n' + item, true],
+    ['missing file', 'title: L\ntype: listening\naudio: audio/tts/2.mp3\n' + tts + '\n' + item, false],
+    ['outside audio dir', 'title: L\ntype: listening\naudio: m/x.mp3\n' + tts + '\n' + item, false],
+    ['closed license', 'title: L\ntype: listening\naudio: audio/tts/1.mp3\naudio_source: {title: T, url: "https://x", author: a, license: "CC BY-NC-ND 3.0"}\n' + item, false],
+    ['TTS without voice', 'title: L\ntype: listening\naudio: audio/tts/1.mp3\naudio_source: {title: T, url: "https://x", license: TTS}\n' + item, false],
+    ['CC BY without author', 'title: L\ntype: listening\naudio: audio/tts/1.mp3\naudio_source: {title: T, url: "https://x", license: "CC BY 4.0"}\n' + item, false],
+    ['unknown link host', 'title: L\ntype: listening\nlink: https://example.com/a\naudio_source: {title: T, url: "https://x", license: "©"}\n' + item, false],
+    ['audio and link', 'title: L\ntype: listening\naudio: audio/tts/1.mp3\nlink: https://www.bbc.co.uk/a\n' + tts + '\n' + item, false],
+    ['audio on reading', 'title: R\ntype: reading\ntext: T\naudio: audio/tts/1.mp3\n' + item, false],
+    ['dictation', 'title: D\ntype: dictation\nitems:\n  - audio: audio/tts/1.mp3\n    ' + src + '\n    answers: ["I have never been there."]\n    explain: x\n', true],
+    ['dictation choice', 'title: D\ntype: dictation\nitems:\n  - audio: audio/tts/1.mp3\n    ' + tts + '\n    q: "Which word?"\n    options: ["ship", "sheep"]\n    answer: 0\n    explain: x\n', true],
+    ['dictation without audio', 'title: D\ntype: dictation\nitems:\n  - answers: ["Yes."]\n    explain: x\n', false],
+  ];
+  for (const [name, yaml, ok] of cases) {
+    it(name, () => (ok ? expect(loads(yaml)).not.toThrow() : expect(loads(yaml)).toThrow()));
+  }
+});

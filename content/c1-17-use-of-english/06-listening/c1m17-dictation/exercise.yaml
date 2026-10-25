@@ -1,0 +1,43 @@
+title: "Диктант: коллокации и предлоги на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения засчитываются в обе стороны."
+hints:
+  - "Предлоги в устойчивых сочетаниях безударные: on the verge of, at odds with, in favour of — ищи их по смыслу."
+  - "Сильные коллокации запоминай парами: raise concerns, draw conclusions, bitterly disappointed."
+items:
+  - audio: audio/tts/c1-17/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural", license: "TTS"}
+    answers: ["The new policy has raised serious concerns among parents and teachers alike."]
+    explain: "«Новые правила вызвали серьёзную обеспокоенность и у родителей, и у учителей». **raise concerns** — «вызывать опасения»; **alike** после пары — «в равной мере»."
+  - audio: audio/tts/c1-17/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-JennyNeural", license: "TTS"}
+    answers: ["She was bitterly disappointed with the result, but she took it in her stride."]
+    explain: "«Она была горько разочарована результатом, но восприняла это спокойно». **bitterly disappointed** — сильная коллокация (не *strongly*); **take it in one's stride** — «принять спокойно»."
+  - audio: audio/tts/c1-17/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-AU-NatashaNeural", license: "TTS"}
+    answers: ["We're at odds with the council over the plans for the old cinema.", "We are at odds with the council over the plans for the old cinema."]
+    explain: "«Мы расходимся с городским советом во взглядах на планы по старому кинотеатру». **at odds with** кем-то **over** чем-то — «в разногласии»."
+  - audio: audio/tts/c1-17/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-AndrewNeural", license: "TTS"}
+    answers: ["It's too early to draw any firm conclusions from such a small sample.", "It is too early to draw any firm conclusions from such a small sample."]
+    explain: "«Делать твёрдые выводы по такой маленькой выборке пока рано». **draw a conclusion from** — «сделать вывод из» (не *make*); *firm* — типичное прилагательное к *conclusions*."
+  - audio: audio/tatoeba/1158628.mp3
+    audio_source: {title: "Tatoeba #2183", url: "https://tatoeba.org/en/sentences/show/2183", author: "Them", license: "CC BY 4.0"}
+    answers: ["She is on the verge of a nervous breakdown.", "She's on the verge of a nervous breakdown."]
+    explain: "«Она на грани нервного срыва». **on the verge of** + существительное или *-ing* — «на грани, вот-вот»."
+  - audio: audio/tatoeba/1038900.mp3
+    audio_source: {title: "Tatoeba #59833", url: "https://tatoeba.org/en/sentences/show/59833", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["I'd like to take advantage of this opportunity to thank you all for your cooperation.", "I would like to take advantage of this opportunity to thank you all for your cooperation.", "I'd like to take advantage of this opportunity to thank you all for your co-operation."]
+    explain: "«Пользуясь случаем, хочу поблагодарить всех за сотрудничество». **take advantage of** + **thank sb for** — два зависимых предлога в одной фразе."
+  - audio: audio/tatoeba/1001672.mp3
+    audio_source: {title: "Tatoeba #266311", url: "https://tatoeba.org/en/sentences/show/266311", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["My mother's religion helped her to come to terms with my father's death.", "My mother's religion helped her come to terms with my father's death."]
+    explain: "«Вера помогла маме смириться со смертью отца». **come to terms with** — «смириться, примириться с»; после *help* инфинитив с *to* и без него."
+  - audio: audio/tatoeba/1038889.mp3
+    audio_source: {title: "Tatoeba #45942", url: "https://tatoeba.org/en/sentences/show/45942", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["The politician said he was deeply indebted to everyone for their support in the election."]
+    explain: "«Политик сказал, что глубоко признателен всем за поддержку на выборах». **deeply indebted to sb for sth** — наречие-усилитель и два предлога."
+  - audio: audio/tatoeba/1038903.mp3
+    audio_source: {title: "Tatoeba #62929", url: "https://tatoeba.org/en/sentences/show/62929", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["Almost everyone in the class voted in favor of having a thank-you party for the teachers.", "Almost everyone in the class voted in favour of having a thank-you party for the teachers.", "Almost everyone in the class voted in favor of having a thank you party for the teachers.", "Almost everyone in the class voted in favour of having a thank you party for the teachers."]
+    explain: "«Почти весь класс проголосовал за праздник в благодарность учителям». **vote in favour of** + *-ing* (американское написание — *favor*)."

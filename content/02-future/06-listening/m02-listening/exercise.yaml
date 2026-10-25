@@ -1,0 +1,79 @@
+title: "Part 1: Six short situations"
+type: listening
+intro: "Ты услышишь шесть коротких отрывков. Перед каждым прозвучит ситуация, она же написана в вопросе. Выбери лучший ответ."
+hints:
+  - "Все три варианта обычно звучат. Отличай то, что человек сделает, от того, что он собирался сделать."
+  - "I was going to… — план, который не состоялся."
+audio: audio/tts/02/situations.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural, en-US-JennyNeural, en-US-AndrewNeural, en-AU-NatashaNeural, en-GB-SoniaNeural, en-GB-ThomasNeural, en-IE-ConnorNeural, en-GB-LibbyNeural", license: "TTS"}
+transcript: |
+  **1. You hear two friends talking about the weekend.**
+
+  **Woman:** Are you coming to Laura's barbecue on Saturday?
+
+  **Man:** Yeah, I'll be there. I was going to go hiking, actually, but it's going to pour all day, so we've called it off.
+
+  **Woman:** Lucky you. I'd love to come, but my sister's flying in from Chicago that morning and I'm picking her up from the airport.
+
+  **2. You hear a woman leaving a voicemail message.**
+
+  **Woman:** Hi, Mark, it's Kate from Riverside Dental, about your appointment tomorrow at ten. I'm afraid Dr Lewis will be away at a conference all week, so we've put you in with Dr Patel instead, same time. If that doesn't suit you, give us a ring before five today and we'll find you another day. Otherwise, see you tomorrow.
+
+  **3. You hear two colleagues talking about a report.**
+
+  **Man:** So, are we going to have the report ready by Friday?
+
+  **Woman:** Honestly? Not all of it. By Friday we'll have finished the figures, but the design team won't even have started on the charts.
+
+  **Man:** The client's expecting it on Friday, though.
+
+  **Woman:** I know. I'll ring them this afternoon and explain. Better now than on Friday.
+
+  **4. You hear a man talking about his new job.**
+
+  **Man:** I start on Monday, and I'm a bit nervous. Not about the work itself, I've been doing that for six years. No, it's the journey. This time next week I'll be sitting on a train for an hour and a half each way, and I've never done that in my life. Everyone says I'll get used to it.
+
+  **5. You hear two friends at a bus stop.**
+
+  **Woman:** The train's due to leave at twenty to seven, and it's already twenty past. We're not going to make it.
+
+  **Man:** We will if we get a taxi right now.
+
+  **Woman:** In this traffic? By the time a taxi gets here, the train will have left. Look, there's another one at half past seven. Let's grab something to eat and catch that one.
+
+  **Man:** Fine. But if we miss that one too, I'm going home.
+
+  **6. You hear two friends talking about the woman's plans.**
+
+  **Man:** So what's the plan after you graduate? Still thinking about the master's?
+
+  **Woman:** Well, I was going to do one, yes, but I've changed my mind. I've been offered a job at an architecture firm in Bristol, and I'm starting in September. I might do the master's part-time later on.
+
+  **Man:** That's brilliant! So you'll be moving to Bristol?
+
+  **Woman:** Not straight away. I'm staying with my aunt in Bath for the first few months.
+items:
+  - q: "1. You hear two friends talking about the weekend. What is the man going to do on Saturday?"
+    options: ["Go hiking with friends.", "Go to a barbecue.", "Meet someone at the airport."]
+    answer: 1
+    explain: "*I'll be there* — он придёт на барбекю. Поход был планом, но *I **was going to** go hiking… we've called it off*. В аэропорт едет женщина."
+  - q: "2. You hear a woman leaving a voicemail message. Why is she calling?"
+    options: ["To cancel Mark's appointment.", "To tell Mark that a different dentist will see him.", "To move Mark's appointment to another day."]
+    answer: 1
+    explain: "*We've put you in with Dr Patel instead, same time* — время то же, меняется врач. Другой день предложат, только если Марку неудобно."
+  - q: "3. You hear two colleagues talking about a report. What does the woman say about it?"
+    options: ["Only part of it will be ready by Friday.", "The design team has already finished the charts.", "The client has agreed to wait until next week."]
+    answer: 0
+    explain: "*By Friday we'll have finished the figures, but the design team won't even have started* — Future Perfect: к пятнице готова только часть. Клиенту она ещё только позвонит."
+  - q: "4. You hear a man talking about his new job. What is he worried about?"
+    options: ["Doing a type of work he hasn't done before.", "Spending a long time travelling.", "Getting on with his new colleagues."]
+    answer: 1
+    explain: "*This time next week I'll be sitting on a train for an hour and a half each way* — Future Continuous: процесс в момент в будущем. Работу он делает шесть лет, о коллегах не говорит."
+  - q: "5. You hear two friends at a bus stop. What do they decide to do?"
+    options: ["Take a taxi to the station.", "Catch a later train.", "Go home and travel another day."]
+    answer: 1
+    explain: "*By the time a taxi gets here, the train will have left… there's another one at half past seven.* После *by the time* — Present Simple, в главной части — Future Perfect."
+  - q: "6. You hear two friends talking about the woman's plans. What is she going to do in September?"
+    options: ["Start a master's course.", "Start a new job.", "Move into a flat in Bristol."]
+    answer: 1
+    explain: "*I'm starting in September* — Present Continuous для решённого дела. Магистратура — *I was going to*, а жить она пока будет у тёти в Бате."

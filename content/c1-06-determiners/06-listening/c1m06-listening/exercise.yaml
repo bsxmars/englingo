@@ -1,0 +1,83 @@
+title: "Part 1: Three short extracts"
+type: listening
+intro: "Послушай три коротких отрывка. К каждому — два вопроса; выбери ответ, который лучше всего соответствует тому, что услышано."
+hints:
+  - "few — мало, почти нет; a few — несколько. Общая оценка складывается из обоих."
+  - "Мнение говорящего часто идёт после but I think — до этого звучит чужая версия."
+audio: audio/tts/c1-06/extracts.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-LibbyNeural, en-GB-RyanNeural, en-AU-NatashaNeural, en-IE-ConnorNeural, en-US-JennyNeural, en-GB-ThomasNeural", license: "TTS"}
+transcript: |
+  ### Extract one
+
+  *You hear two flatmates talking about their household bills.*
+
+  **Man:** Have you seen the electricity bill? It's nearly twice as much as it was last winter.
+
+  **Woman:** I know. I nearly dropped it. Though, to be fair, we're both at home far more than we were. Neither of us was working from home this time last year.
+
+  **Man:** True. But it isn't just the heating. Every single light in this flat seems to be on whenever I come in.
+
+  **Woman:** Is that aimed at me?
+
+  **Man:** Not entirely. Well, partly. Look, I'm not trying to start an argument. I just think we could use a lot less without really noticing the difference.
+
+  **Woman:** Fine. But then can we talk about the hot water? Some of us take twenty-minute showers.
+
+  **Man:** That's fair. Okay, how about this. We each pay half, as usual, but we both agree to cut back, and if next month's bill isn't any lower, we'll look into getting one of those smart meters.
+
+  **Woman:** Deal. Though I'd rather have the meter now, to be honest. At least then neither of us can blame the other.
+
+  ### Extract two
+
+  *You hear a man talking on the radio about a community garden.*
+
+  **Speaker:** When we took over the site, it was a car park that nobody had used for years. Some thirty families signed up in the first month, which was far more than we'd expected, and the whole of that first spring was spent breaking up concrete. Not much fun, I can tell you.
+
+  **Speaker:** These days there are forty-two plots, and every one of them is taken. There's a waiting list, too, which I'm a bit uneasy about, because the whole point was that anyone could join. Most of the gardeners are retired, but we've got a good few young families now, and a couple of local schools come in once a week.
+
+  **Speaker:** What I'm proudest of, oddly enough, isn't the vegetables. It's that people who'd lived on the same street for twenty years without exchanging a word now know each other's names. Many a friendship has started with an argument about whose tomatoes are bigger. And if the council ever does decide to sell the land, as it keeps hinting it might, there'll be a great many very angry gardeners at the town hall.
+
+  ### Extract three
+
+  *You hear two colleagues talking about a conference.*
+
+  **Woman:** So, was it worth it? Two whole days, and the company paid for the hotel.
+
+  **Man:** Honestly? Mixed. Few of the talks told me anything I couldn't have read online. But a few were excellent, and one of them, on data privacy, was worth the whole trip on its own.
+
+  **Woman:** Well, that's something, I suppose. Were there many people there?
+
+  **Man:** Fewer than last year, I'd say. Maybe half as many. The organisers blamed the train strike, but I think a lot of people have simply stopped going. You can watch most of the sessions online afterwards anyway.
+
+  **Woman:** So would you go again?
+
+  **Man:** I'd go for one day, not both. Either day would do, really. What I wouldn't do is spend the whole of Saturday in the exhibition hall being handed leaflets. I came back with about forty of them, and I haven't read any.
+
+  **Woman:** I'll tell the boss you found it inspiring, then.
+
+  **Man:** Please don't. She'll make me write a report.
+items:
+  - q: "Extract 1. What is the man implying when he mentions the lights?"
+    options: ["The woman is partly to blame for the higher bill.", "The lights in the flat need to be replaced.", "He has been careless about energy himself."]
+    answer: 0
+    explain: "*Every single light… seems to be on whenever I come in* → *Is that aimed at me?* → *Not entirely. Well, partly.* — намёк на соседку."
+  - q: "Extract 1. What would the woman prefer to do?"
+    options: ["Divide the bill according to how much each person uses.", "Get a smart meter without waiting.", "Wait a month and then compare the bills."]
+    answer: 1
+    explain: "*I'd rather have the meter now… At least then neither of us can blame the other.* Подождать месяц предлагает он, а платить поровну (*We each pay half*) они продолжат."
+  - q: "Extract 2. What concerns the man about the garden now?"
+    options: ["It is no longer open to everyone who wants to join.", "Too few young people are getting involved.", "The council has already decided to sell the land."]
+    answer: 0
+    explain: "*There's a waiting list, too, which I'm a bit uneasy about, because the whole point was that anyone could join.* Молодых семей уже *a good few* — немало, а совет пока только *keeps hinting*."
+  - q: "Extract 2. What does the man value most about the project?"
+    options: ["The quality of the vegetables people grow.", "The way it has brought neighbours together.", "The involvement of local schools."]
+    answer: 1
+    explain: "*What I'm proudest of… isn't the vegetables. It's that people… now know each other's names.* *Many a friendship* — книжное «не одна дружба»."
+  - q: "Extract 3. What is the man's overall opinion of the conference?"
+    options: ["It was a complete waste of the company's money.", "Most of it was disappointing, but parts of it were very valuable.", "The talks were better than in the previous year."]
+    answer: 1
+    explain: "*Few of the talks told me anything… But a few were excellent* — *few* «почти ни один», *a few* «несколько»: в целом слабо, но с ценными исключениями."
+  - q: "Extract 3. Why does the man think fewer people attended?"
+    options: ["A train strike prevented many from travelling.", "The tickets had become too expensive.", "People can now see the sessions without attending."]
+    answer: 2
+    explain: "*The organisers blamed the train strike, but I think… You can watch most of the sessions online afterwards* — забастовка — версия организаторов, а не его."

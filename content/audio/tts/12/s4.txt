@@ -1,0 +1,2 @@
+# rate: -5%
+D: We arrived at the airport on time, but our flight had already been cancelled.

@@ -1,0 +1,47 @@
+title: "Диктант: связки на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения (wasn't / was not) засчитываются в обе стороны."
+hints:
+  - "despite + -ing или существительное, although + целое предложение."
+  - "После Not only / Never в начале — вспомогательный глагол, как в вопросе."
+items:
+  - audio: audio/tts/11/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-JennyNeural", license: "TTS"}
+    answers: ["Although it was raining, we decided to walk home."]
+    explain: "«Хотя шёл дождь, мы решили идти домой пешком». *although* + целое предложение с подлежащим и глаголом."
+  - audio: audio/tts/11/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural", license: "TTS"}
+    answers: ["Despite feeling tired, she stayed until the end of the meeting."]
+    explain: "«Несмотря на усталость, она осталась до конца собрания». *despite* + **-ing**, без *of*."
+  - audio: audio/tts/11/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-ThomasNeural", license: "TTS"}
+    answers: ["Not only did he forget my birthday, but he also lost the tickets."]
+    explain: "«Он не только забыл о моём дне рождения, но ещё и потерял билеты». *Not only* в начале → инверсия *did he forget*."
+  - audio: audio/tts/11/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-AU-NatashaNeural", license: "TTS"}
+    answers: ["What I really need is a long holiday."]
+    explain: "«Что мне действительно нужно — так это долгий отпуск». Cleft sentence: *What I need is…* выделяет главное."
+  - audio: audio/tts/11/s5.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural", license: "TTS"}
+    answers: ["I left early so that I wouldn't miss the train.", "I left early so I wouldn't miss the train."]
+    explain: "«Я вышел пораньше, чтобы не опоздать на поезд». *so that* + *wouldn't* — цель в прошлом."
+  - audio: audio/tatoeba/1073739.mp3
+    audio_source: {title: "Tatoeba #256684", url: "https://tatoeba.org/en/sentences/show/256684", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["It wasn't until I left school that I realized the importance of study.", "It wasn't until I left school that I realised the importance of study."]
+    explain: "«Только окончив школу, я понял, как важна учёба». *It wasn't until… that* — «только когда»; *realized / realised* — американское и британское написание."
+  - audio: audio/tatoeba/956151.mp3
+    audio_source: {title: "Tatoeba #41050", url: "https://tatoeba.org/en/sentences/show/41050", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["Although he had many toys, his greed made him want more."]
+    explain: "«Хотя игрушек у него было много, из жадности ему хотелось ещё». *although* — уступка; главная мысль — после запятой."
+  - audio: audio/tatoeba/1041093.mp3
+    audio_source: {title: "Tatoeba #259617", url: "https://tatoeba.org/en/sentences/show/259617", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["I was late as a result of the train delay."]
+    explain: "«Я опоздал из-за задержки поезда». *as a result of* + существительное = *because of*."
+  - audio: audio/tatoeba/1073733.mp3
+    audio_source: {title: "Tatoeba #247051", url: "https://tatoeba.org/en/sentences/show/247051", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["It is not so much the heat as the humidity that makes me tired.", "It's not so much the heat as the humidity that makes me tired."]
+    explain: "«Меня утомляет не столько жара, сколько влажность». Cleft sentence *It is… that* + *not so much… as* — «не столько…, сколько»."
+  - audio: audio/tatoeba/1073692.mp3
+    audio_source: {title: "Tatoeba #261586", url: "https://tatoeba.org/en/sentences/show/261586", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["I caught a cold. That is why I could not attend the meeting yesterday.", "I caught a cold. That's why I could not attend the meeting yesterday."]
+    explain: "«Я простудился. Поэтому вчера не смог прийти на собрание». *That is why* — связка-следствие между предложениями."

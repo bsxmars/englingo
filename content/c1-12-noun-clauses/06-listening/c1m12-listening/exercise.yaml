@@ -1,0 +1,83 @@
+title: "Part 1: Three short extracts"
+type: listening
+intro: "Ты услышишь три коротких диалога. К каждому — два вопроса; выбери ответ, который лучше всего соответствует услышанному."
+hints:
+  - "Прочитай оба вопроса к отрывку до того, как он начнётся."
+  - "После рамок What… is / The fact that… / What matters is… звучит главное."
+audio: audio/tts/c1-12/extracts.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural, en-GB-LibbyNeural, en-US-AndrewNeural, en-GB-RyanNeural, en-AU-NatashaNeural, en-GB-ThomasNeural, en-US-JennyNeural", license: "TTS"}
+transcript: |
+  **Extract one.** You hear two friends talking about a job offer.
+
+  **Woman:** So, have you decided whether you're taking the Berlin job?
+
+  **Man:** Not yet. What's holding me back isn't the job itself. It's the fact that I'd have to start in three weeks.
+
+  **Woman:** Three weeks? That's ridiculous. Did they say why?
+
+  **Man:** Apparently their current manager is leaving, and they insist that whoever replaces her be there for the handover. Which I understand, in theory.
+
+  **Woman:** But?
+
+  **Man:** But I've got a lease on my flat until March, and my landlord's already told me he won't let me leave early. Whether I can find someone to take it over in time is anyone's guess.
+
+  **Woman:** Have you asked whether they'd let you start remotely?
+
+  **Man:** That's what I'm going to suggest tomorrow. And if they say no, well, I suppose that tells me something about what it would be like to work for them.
+
+  **Extract two.** You hear two neighbours discussing plans for a local park.
+
+  **Man:** Did you go to the council meeting about the park in the end?
+
+  **Woman:** I did. They're proposing that the old bandstand be knocked down and replaced with a café.
+
+  **Man:** A café? There are already three on the high street.
+
+  **Woman:** That was my point exactly. But what struck me was how few people had turned up. There were maybe twenty of us. The council will say that proves nobody cares.
+
+  **Man:** Well, I care. I just didn't know the meeting was happening.
+
+  **Woman:** Nobody did. That's the problem. It was announced on page twelve of the newsletter. I'm going to request that they hold another one, and that it be advertised properly this time.
+
+  **Man:** Count me in. I'll put a notice up in the shop window, if you like.
+
+  **Extract three.** You hear a student talking to her tutor about her dissertation.
+
+  **Tutor:** So, how's the dissertation coming along?
+
+  **Student:** Slowly. I've collected all the data, but I'm not sure what it shows. Half the results suggest that the programme worked, and the other half suggest it made no difference at all.
+
+  **Tutor:** That's not necessarily a problem. Whether a programme works often depends on who it's for. Have you looked at the age groups separately?
+
+  **Student:** No. I hadn't thought of that.
+
+  **Tutor:** I'd suggest you start there. And it's essential that you state clearly in your introduction what you're not claiming. Examiners are far more impressed by a modest conclusion that's well supported than by an ambitious one that isn't.
+
+  **Student:** That's a relief, honestly. I thought I'd have to prove something dramatic.
+
+  **Tutor:** Very few dissertations do. What matters is that you show you understand the limits of your data.
+items:
+  - q: "Extract 1. What is the man's main concern about the job offer?"
+    options: ["The job is different from what he expected.", "He would have to start too soon.", "His future manager is about to leave."]
+    answer: 1
+    explain: "*What's holding me back isn't the job itself. It's the fact that I'd have to start in three weeks.* Уход менеджера — причина спешки компании, а не его опасение."
+  - q: "Extract 1. What does the man suggest about the company?"
+    options: ["Its answer to his request will show what it is like as an employer.", "It has treated its current manager unfairly.", "It will probably agree to let him work remotely."]
+    answer: 0
+    explain: "*If they say no, well, I suppose that tells me something about what it would be like to work for them.* Придаточное *what it would be like* — дополнение к *about*."
+  - q: "Extract 2. What does the woman think about the low attendance at the meeting?"
+    options: ["It shows that residents are not interested in the park.", "It will persuade the council to change its plans.", "It was the result of the meeting being badly publicised."]
+    answer: 2
+    explain: "*It was announced on page twelve of the newsletter.* «Никому не интересно» — это то, что **скажет совет** (*The council will say that proves nobody cares*), а не её мнение."
+  - q: "Extract 2. What does the man offer to do?"
+    options: ["Help to advertise the next meeting.", "Speak against the café at the next meeting.", "Collect signatures from the shop's customers."]
+    answer: 0
+    explain: "*Count me in. I'll put a notice up in the shop window.* Она требует, *that it be advertised properly this time*, — он предлагает помочь именно с этим."
+  - q: "Extract 3. What problem does the student have with her dissertation?"
+    options: ["She has not collected enough data.", "Her results appear to contradict each other.", "She cannot decide which age group to study."]
+    answer: 1
+    explain: "*Half the results suggest that the programme worked, and the other half suggest it made no difference.* Данные собраны все (*I've collected all the data*); возрастные группы — совет преподавателя."
+  - q: "Extract 3. What does the tutor say about conclusions?"
+    options: ["They should be as ambitious as the data allows.", "They matter less than the quality of the data.", "A limited but well-supported one is more convincing."]
+    answer: 2
+    explain: "*Examiners are far more impressed by a modest conclusion that's well supported than by an ambitious one that isn't.* *What matters is that you show…* — придаточное-подлежащее выделяет главное."

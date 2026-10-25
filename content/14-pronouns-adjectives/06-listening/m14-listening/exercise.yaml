@@ -1,0 +1,101 @@
+title: "Part 1: Eight short extracts"
+type: listening
+intro: "Ты услышишь восемь коротких отрывков. К каждому — один вопрос: выбери лучший ответ. Отрывки идут по порядку."
+hints:
+  - "В вопросах об отношении дослушай до конца: после but обычно идёт главная оценка."
+  - "too / not enough — «больше / меньше нужного»: это минус, даже если слово звучит хорошо."
+audio: audio/tts/14/extracts.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-ThomasNeural, en-GB-SoniaNeural, en-IE-ConnorNeural, en-US-JennyNeural, en-GB-RyanNeural, en-AU-NatashaNeural, en-GB-LibbyNeural", license: "TTS"}
+transcript: |
+  **One.** *You hear a couple in a furniture shop.*
+
+  **Woman:** What about this one? The grey leather one.
+
+  **Man:** It's comfortable, but it's far too big for our living room.
+
+  **Woman:** The blue ones over there are smaller.
+
+  **Man:** They are, but they're not soft enough. I'll be sitting on it every evening, remember.
+
+  **Woman:** OK, so what about the green one by the window? It's quite small, but it's really comfortable, and it's half price.
+
+  **Man:** Fine. Let's get that one before someone else does.
+
+  **Two.** *You hear a woman talking about a film she has seen.*
+
+  **Woman:** Everyone told me it was such an exciting film, so maybe I expected too much. The first hour was rather slow, and to be honest, I was quite bored. But the ending was absolutely amazing. I was so surprised that I actually said "Oh!" out loud in the cinema.
+
+  **Three.** *You hear a man phoning about a flat to rent.*
+
+  **Man:** Hi, I'm calling about the flat on Mill Road. Is it still available?
+
+  **Woman:** It is, yes. There's a brand new kitchen, and it's only five minutes from the station.
+
+  **Man:** Great. And is there a washing machine?
+
+  **Woman:** Yes, there is. I should mention, though, there's a bar downstairs, and it can get rather loud at weekends.
+
+  **Man:** Ah. Right. Thanks for telling me.
+
+  **Four.** *You hear two friends talking about a cooking class.*
+
+  **Man:** So how was the cooking class?
+
+  **Woman:** Well, the teacher didn't show us much. We basically had to teach ourselves from a recipe card.
+
+  **Man:** That sounds annoying.
+
+  **Woman:** It was, a bit. But we worked in pairs, and my partner and I kept helping each other, and we ended up laughing all evening. We're meeting for coffee next week, actually. The food? Honestly, it was nothing special.
+
+  **Five.** *You hear a man talking about his son.*
+
+  **Man:** My son's been working really hard lately. He's got exams in June. The trouble is, he hardly sleeps. He stays up late every night, and then he's so tired in the morning that he can hardly get out of bed. I keep telling him that working longer isn't the same as working well.
+
+  **Six.** *You hear a woman talking about a hotel she stayed in.*
+
+  **Woman:** What a view! Honestly, we had such a beautiful room, right above the harbour. The staff were friendly enough, but the restaurant was so expensive that we only ate there once. Would I go back? For the view alone, yes.
+
+  **Seven.** *You hear a manager talking to her team.*
+
+  **Manager:** Right, I know everyone is busy this week, but nobody has replied to my email about Friday. None of you has to give a presentation. I just need each of you to bring one idea. If no one can make Friday, we'll move it to Monday.
+
+  **Eight.** *You hear two neighbours talking about a dog.*
+
+  **Woman:** Have you seen next door's new dog? It looks really fierce.
+
+  **Man:** I know, but it's actually quite friendly. It came over to me yesterday and sat on my feet.
+
+  **Woman:** Rather you than me! I'd have run.
+items:
+  - q: "1. You hear a couple in a furniture shop. Which sofa do they decide to buy?"
+    options: ["The grey leather one.", "One of the blue ones.", "The green one."]
+    answer: 2
+    explain: "*what about the green one by the window?… Let's get that one.* Серый — *too big*, синие — *not soft enough*. **one / ones** заменяют слово *sofa*."
+  - q: "2. You hear a woman talking about a film. What does she say about it?"
+    options: ["It was exciting from beginning to end.", "It started slowly, but the ending was excellent.", "The ending was disappointing."]
+    answer: 1
+    explain: "*The first hour was **rather** slow… But the ending was **absolutely amazing**.* «Захватывающим» фильм называли другие (*Everyone told me*)."
+  - q: "3. You hear a man phoning about a flat. What does the woman warn him about?"
+    options: ["There is no washing machine.", "It can be noisy at weekends.", "It is a long way from the station."]
+    answer: 1
+    explain: "*there's a bar downstairs, and **it** can get rather loud at weekends.* Стиральная машина есть (*Yes, there is*), до станции пять минут."
+  - q: "4. You hear two friends talking about a cooking class. What did the woman enjoy most?"
+    options: ["Learning to cook without help.", "Getting to know her partner.", "The food they cooked."]
+    answer: 1
+    explain: "*my partner and I kept helping **each other**… We're meeting for coffee next week.* *teach ourselves* — это скорее минус (*annoying*), еда — *nothing special*."
+  - q: "5. You hear a man talking about his son. What is he worried about?"
+    options: ["His son isn't working hard enough.", "His son isn't getting enough sleep.", "His son's exams are too late in the year."]
+    answer: 1
+    explain: "*he **hardly** sleeps* — «почти не спит». *working really **hard*** — «очень усердно», то есть с усилиями всё в порядке."
+  - q: "6. You hear a woman talking about a hotel. What did she like most?"
+    options: ["The friendly staff.", "The view from the room.", "The restaurant."]
+    answer: 1
+    explain: "*What a view!… For the view alone, yes.* *friendly **enough*** — сдержанная оценка, ресторан — *so expensive*."
+  - q: "7. You hear a manager talking to her team. What does she want them to do?"
+    options: ["Prepare a presentation for Friday.", "Bring an idea to the meeting.", "Agree to move the meeting to Monday."]
+    answer: 1
+    explain: "*I just need **each** of you to bring one idea.* *None of you has to give a presentation* — презентация не нужна; понедельник — только запасной вариант."
+  - q: "8. You hear two neighbours talking about a dog. What does the man say about it?"
+    options: ["It is friendlier than it looks.", "It looks friendly, but it isn't.", "It frightened him yesterday."]
+    answer: 0
+    explain: "*It **looks** really fierce* (look + прилагательное) — *but it's actually **quite friendly***. Испугалась бы женщина: *I'd have run*."

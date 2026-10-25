@@ -1,0 +1,59 @@
+title: "Part 4: A teacher I remember"
+type: listening
+intro: "Ты услышишь пять коротких монологов об учителях, которых говорящие запомнили со школы. Задание 1: что каждый больше всего ценил в учителе? Задание 2: что говорящий чувствует сейчас? В каждом задании восемь вариантов, три лишние."
+hints:
+  - "На первом прослушивании держи в голове задание 1, на втором — задание 2."
+  - "Фразы вроде wasn't especially patient или She wasn't perfect отсекают вариант, а не подтверждают его."
+audio: audio/tts/c1-08/speakers.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-ThomasNeural, en-US-JennyNeural, en-US-AndrewNeural, en-AU-NatashaNeural, en-IE-ConnorNeural", license: "TTS"}
+transcript: |
+  **Speaker 1:** Mr Hale taught us physics, and he was, frankly, not a particularly warm man. He wasn't especially patient either. If you hadn't done the reading, he'd let you know. But he had this extraordinary gift. He could take something hopelessly abstract, like magnetic fields, and explain it with a bicycle wheel and a bit of string until it seemed almost obvious. I swore I'd never go into teaching myself. Well, I've been teaching chemistry for nine years now, and only last week I caught myself reaching for a bicycle wheel. My students probably find it just as odd as we did.
+
+  **Speaker 2:** Ms Alvarez was the first adult who seemed to genuinely care what I thought. Not what the textbook said. What I thought. She'd ask a question, and then she'd wait, really wait, and if you said something half-formed, she'd say, "Interesting. Keep going." She wasn't perfect. She'd be the first to admit she got dates wrong all the time. But she made a painfully shy fifteen-year-old feel that her opinions were worth hearing. I meant to write to her after I graduated, and I kept putting it off. By the time I got around to it, she'd retired and moved away, and nobody had an address. I still regret that, honestly.
+
+  **Speaker 3:** Mr Brennan taught music, and you never knew what you'd walk into. One week we'd be singing old sea songs, the next he'd have us recording the school boiler and calling it a symphony. Some kids found him utterly exhausting. I loved it. Looking back, though, I'm not convinced he'd last five minutes in a school nowadays. There was no lesson plan, no clear objective, and he certainly didn't do any paperwork. Whether that kind of teaching could survive a modern inspection, I really don't know. Probably not, sadly.
+
+  **Speaker 4:** I was hopeless at maths, genuinely hopeless, and most teachers had more or less given up on me by the time I got to Ms Cole. She never did. She'd explain the same thing four or five different ways, incredibly calmly, until one of them finally made sense. She wasn't a soft touch, mind you. Homework was homework, and there were no excuses. Anyway, I ended up becoming an accountant, of all things, which she finds absolutely hilarious. We meet for coffee every couple of months, and she still asks to check my sums.
+
+  **Speaker 5:** What I remember most about Mr Doyle is that he'd hand back our essays and then read out one of his own from when he was at university, red marks and all. "Look how badly I wrote at twenty," he'd say. Somehow it made getting better seem possible. He told me once that I ought to read more poetry, and I thought it was the most ridiculous suggestion I'd ever heard. Naturally, I didn't. It took me another fifteen years to pick up a book of poems, and now I read them almost every day. He was right, annoyingly. I'm grateful, even if I wasn't listening at the time.
+items:
+  - q: "Task 1. Speaker 1: what did this speaker value most about the teacher?"
+    options: ["A. A refusal to accept excuses", "B. An ability to make difficult ideas seem simple", "C. A genuine interest in students' opinions", "D. Unpredictable teaching methods", "E. Honesty about their own weaknesses", "F. Patience with students who struggled", "G. Strict control of the classroom", "H. A good sense of humour"]
+    answer: 1
+    explain: "*He could take something hopelessly abstract… and explain it with a bicycle wheel and a bit of string until it seemed almost obvious.* Терпение отсечено сразу: *He wasn't especially patient either*."
+  - q: "Task 1. Speaker 2: what did this speaker value most about the teacher?"
+    options: ["A. A refusal to accept excuses", "B. An ability to make difficult ideas seem simple", "C. A genuine interest in students' opinions", "D. Unpredictable teaching methods", "E. Honesty about their own weaknesses", "F. Patience with students who struggled", "G. Strict control of the classroom", "H. A good sense of humour"]
+    answer: 2
+    explain: "*The first adult who seemed to genuinely care what I thought. Not what the textbook said.* Ошибки с датами — мимоходом и с оговоркой *She wasn't perfect*, это не то, за что её ценили."
+  - q: "Task 1. Speaker 3: what did this speaker value most about the teacher?"
+    options: ["A. A refusal to accept excuses", "B. An ability to make difficult ideas seem simple", "C. A genuine interest in students' opinions", "D. Unpredictable teaching methods", "E. Honesty about their own weaknesses", "F. Patience with students who struggled", "G. Strict control of the classroom", "H. A good sense of humour"]
+    answer: 3
+    explain: "*You never knew what you'd walk into* — сегодня морские песни, завтра «симфония» из звуков котельной. *utterly exhausting* — так считали другие дети."
+  - q: "Task 1. Speaker 4: what did this speaker value most about the teacher?"
+    options: ["A. A refusal to accept excuses", "B. An ability to make difficult ideas seem simple", "C. A genuine interest in students' opinions", "D. Unpredictable teaching methods", "E. Honesty about their own weaknesses", "F. Patience with students who struggled", "G. Strict control of the classroom", "H. A good sense of humour"]
+    answer: 5
+    explain: "*She'd explain the same thing four or five different ways, incredibly calmly.* *no excuses* звучит как оговорка (*She wasn't a soft touch, mind you*), а не как главное качество."
+  - q: "Task 1. Speaker 5: what did this speaker value most about the teacher?"
+    options: ["A. A refusal to accept excuses", "B. An ability to make difficult ideas seem simple", "C. A genuine interest in students' opinions", "D. Unpredictable teaching methods", "E. Honesty about their own weaknesses", "F. Patience with students who struggled", "G. Strict control of the classroom", "H. A good sense of humour"]
+    answer: 4
+    explain: "*He'd… read out one of his own [essays]… red marks and all. «Look how badly I wrote at twenty».* Учитель честно показывал свои слабые тексты."
+  - q: "Task 2. Speaker 1: how does this speaker feel about the teacher now?"
+    options: ["A. Grateful for advice they ignored at the time", "B. Sorry they never thanked the teacher", "C. Amused by how old-fashioned the teacher was", "D. Surprised to have become similar to the teacher", "E. Doubtful whether the teacher's methods would work today", "F. Glad to still be in regular contact", "G. Disappointed that the teacher has changed", "H. Embarrassed by how they behaved in class"]
+    answer: 3
+    explain: "*I swore I'd never go into teaching… only last week I caught myself reaching for a bicycle wheel.* Он сам стал учителем и повторяет приёмы Хейла."
+  - q: "Task 2. Speaker 2: how does this speaker feel about the teacher now?"
+    options: ["A. Grateful for advice they ignored at the time", "B. Sorry they never thanked the teacher", "C. Amused by how old-fashioned the teacher was", "D. Surprised to have become similar to the teacher", "E. Doubtful whether the teacher's methods would work today", "F. Glad to still be in regular contact", "G. Disappointed that the teacher has changed", "H. Embarrassed by how they behaved in class"]
+    answer: 1
+    explain: "*I meant to write to her… and I kept putting it off… I still regret that.* Совета от неё в рассказе нет — есть несказанное спасибо."
+  - q: "Task 2. Speaker 3: how does this speaker feel about the teacher now?"
+    options: ["A. Grateful for advice they ignored at the time", "B. Sorry they never thanked the teacher", "C. Amused by how old-fashioned the teacher was", "D. Surprised to have become similar to the teacher", "E. Doubtful whether the teacher's methods would work today", "F. Glad to still be in regular contact", "G. Disappointed that the teacher has changed", "H. Embarrassed by how they behaved in class"]
+    answer: 4
+    explain: "*I'm not convinced he'd last five minutes in a school nowadays… Probably not, sadly.* *sadly* — отношение: ей жаль, но она сомневается."
+  - q: "Task 2. Speaker 4: how does this speaker feel about the teacher now?"
+    options: ["A. Grateful for advice they ignored at the time", "B. Sorry they never thanked the teacher", "C. Amused by how old-fashioned the teacher was", "D. Surprised to have become similar to the teacher", "E. Doubtful whether the teacher's methods would work today", "F. Glad to still be in regular contact", "G. Disappointed that the teacher has changed", "H. Embarrassed by how they behaved in class"]
+    answer: 5
+    explain: "*We meet for coffee every couple of months.* Смешным она считает не учительницу, а свой выбор профессии: *which she finds absolutely hilarious*."
+  - q: "Task 2. Speaker 5: how does this speaker feel about the teacher now?"
+    options: ["A. Grateful for advice they ignored at the time", "B. Sorry they never thanked the teacher", "C. Amused by how old-fashioned the teacher was", "D. Surprised to have become similar to the teacher", "E. Doubtful whether the teacher's methods would work today", "F. Glad to still be in regular contact", "G. Disappointed that the teacher has changed", "H. Embarrassed by how they behaved in class"]
+    answer: 0
+    explain: "*He told me once that I ought to read more poetry… Naturally, I didn't… He was right, annoyingly. I'm grateful.* *annoyingly* — признаёт правоту с досадой."

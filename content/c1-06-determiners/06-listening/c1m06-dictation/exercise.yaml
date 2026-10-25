@@ -1,0 +1,47 @@
+title: "Диктант: определители и количество на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; дроби и числа можно писать словами или цифрами там, где это указано в ответах."
+hints:
+  - "a few и few, a little и little различаются одним безударным звуком [ə]."
+  - "Проверь согласование: neither of, none of, each — обычно с единственным числом."
+items:
+  - audio: audio/tts/c1-06/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural", license: "TTS"}
+    answers: ["Some forty people were waiting outside the building when the doors opened.", "Some 40 people were waiting outside the building when the doors opened."]
+    explain: "«Когда открылись двери, у здания ждали человек сорок». *some* + число — «около», формальный оборот."
+  - audio: audio/tts/c1-06/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-LibbyNeural", license: "TTS"}
+    answers: ["Neither of the proposals has been approved yet.", "Neither of the proposals have been approved yet."]
+    explain: "«Ни одно из двух предложений пока не одобрено». В формальной речи *neither of* + единственное *has*; в разговорной встречается и *have*."
+  - audio: audio/tts/c1-06/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural", license: "TTS"}
+    answers: ["Two-thirds of the money was spent in the first month.", "Two thirds of the money was spent in the first month.", "2/3 of the money was spent in the first month."]
+    explain: "«Две трети денег ушли в первый же месяц». После дроби глагол согласуется с существительным: *money* — неисчисляемое → *was*."
+  - audio: audio/tts/c1-06/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-AndrewNeural", license: "TTS"}
+    answers: ["Many a traveller has been caught out by the weather on this road.", "Many a traveler has been caught out by the weather on this road."]
+    explain: "«Не одного путника на этой дороге застигала непогода». *many a* + единственное число и глагол в единственном — книжный стиль."
+  - audio: audio/tts/c1-06/s5.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-SoniaNeural", license: "TTS"}
+    answers: ["Hardly any of the students had read the whole of the book."]
+    explain: "«Почти никто из студентов не прочитал книгу целиком». *hardly any* — «почти никто»; *the whole of the book* = *the whole book*."
+  - audio: audio/tatoeba/942492.mp3
+    audio_source: {title: "Tatoeba #23405", url: "https://tatoeba.org/en/sentences/show/23405", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["Our city has one third as many people as Tokyo.", "Our city has one-third as many people as Tokyo.", "Our city has a third as many people as Tokyo."]
+    explain: "«Население нашего города — треть населения Токио». Дробь + *as many… as* — сравнение в разах."
+  - audio: audio/tatoeba/1055438.mp3
+    audio_source: {title: "Tatoeba #279245", url: "https://tatoeba.org/en/sentences/show/279245", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["The popularity of the telephone has led to fewer people writing letters these days."]
+    explain: "«Из-за популярности телефона сейчас меньше людей пишут письма». *fewer* — с исчисляемыми (*people*), *less* — с неисчисляемыми."
+  - audio: audio/tatoeba/1115342.mp3
+    audio_source: {title: "Tatoeba #3865180", url: "https://tatoeba.org/en/sentences/show/3865180", author: "Them", license: "CC BY 4.0"}
+    answers: ["None of them knows French.", "None of them know French."]
+    explain: "«Никто из них не знает французского». После *none of* формально — единственное (*knows*), в речи часто множественное."
+  - audio: audio/tatoeba/1158653.mp3
+    audio_source: {title: "Tatoeba #573999", url: "https://tatoeba.org/en/sentences/show/573999", author: "Them", license: "CC BY 4.0"}
+    answers: ["Each student has their own computer."]
+    explain: "«У каждого студента свой компьютер». *each* + единственное (*has*), но местоимение *their* — нейтральное по роду."
+  - audio: audio/tatoeba/1099804.mp3
+    audio_source: {title: "Tatoeba #4375352", url: "https://tatoeba.org/en/sentences/show/4375352", author: "Them", license: "CC BY 4.0"}
+    answers: ["I read that story in some book."]
+    explain: "«Я читал(а) этот рассказ в какой-то книге». *some* + единственное исчисляемое — «какой-то, не помню какой»."

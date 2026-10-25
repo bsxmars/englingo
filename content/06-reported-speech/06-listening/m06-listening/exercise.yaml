@@ -1,0 +1,63 @@
+title: "Part 4: The invisible author"
+type: listening
+intro: "Послушай радиоинтервью с Лорой Кент, которая пишет книги за других, и выбери ответ. Вопросы идут по порядку записи."
+hints:
+  - "Лора пересказывает чужие слова. Следи, кто говорит: она сама, клиент или редактор."
+  - "admitted, refused, accused, warned — глагол уже подсказывает смысл."
+audio: audio/tts/06/interview.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural, en-US-JennyNeural", license: "TTS"}
+transcript: |
+  **Presenter:** My guest today is Laura Kent, who has written fourteen autobiographies, none of them her own. Laura is a ghostwriter. Laura, how did you get into this?
+
+  **Laura:** Completely by chance. I was working as a sports journalist, and a footballer I'd interviewed rang me and said he'd been offered a book deal. He asked whether I'd help him write it. I told him I'd never written a book, and he said that was fine, because he'd never read one!
+
+  **Presenter:** So what's the first thing you do with a new client?
+
+  **Laura:** I just listen. For the first few weeks I don't write anything at all. I ask them what their earliest memory is, who they were afraid of as a child, that kind of thing. People usually tell me they've got nothing interesting to say, and then three hours later they're still talking.
+
+  **Presenter:** Do clients ever lie to you?
+
+  **Laura:** Oh, all the time. Though not always deliberately. One singer insisted that she'd grown up very poor. Then her brother told me they'd had a swimming pool in the garden. When I asked her about it, she admitted it had been, quote, "quite a small pool".
+
+  **Presenter:** Have you ever refused to work with someone?
+
+  **Laura:** Once. A businessman wanted me to say that he'd invented a product which, as far as I knew, his business partner had designed. I told him I wouldn't write it. He accused me of being disloyal, and we never spoke again.
+
+  **Presenter:** Is it hard not to get any credit?
+
+  **Laura:** People always assume it must be. Honestly, I don't mind. My mother used to ask me when I was going to write a real book, and I'd tell her that I already had, fourteen times. What I do find hard is when a client reads the finished book and says it doesn't sound like them. Usually that means it sounds exactly like them, and they don't like it.
+
+  **Presenter:** Any advice for someone who'd like to do your job?
+
+  **Laura:** Learn to keep quiet. My first editor warned me that a ghostwriter who talks about her clients won't have any clients for long. And she was absolutely right.
+
+  **Presenter:** Laura Kent, thank you so much.
+items:
+  - q: "How did Laura become a ghostwriter?"
+    options: ["A publisher offered her a book deal.", "A sportsman she had met asked for her help.", "She had always wanted to write a book."]
+    answer: 1
+    explain: "*a footballer I'd interviewed… said he'd been offered a book deal. He asked whether I'd help him* — сделку предложили ему, а он попросил её помочь. *asked whether* — косвенный общий вопрос."
+  - q: "What does Laura do at the start of working with a client?"
+    options: ["She writes a first chapter to show them.", "She asks them personal questions and listens.", "She explains what makes a life story interesting."]
+    answer: 1
+    explain: "*I just listen… I ask them what their earliest memory is* — порядок слов прямой: *what their earliest memory **is***, не *what is*."
+  - q: "What happened with the singer?"
+    options: ["Her brother refused to talk to Laura.", "She admitted that she had exaggerated her story.", "She asked Laura not to mention the swimming pool."]
+    answer: 1
+    explain: "*she **admitted** it had been \"quite a small pool\"* — *admit* = неохотно признать. Её *insisted that she'd grown up very poor* оказалось преувеличением."
+  - q: "Why did Laura stop working with the businessman?"
+    options: ["He refused to pay her for the book.", "He wanted her to write something she believed was untrue.", "He accused his business partner of copying his idea."]
+    answer: 1
+    explain: "*he wanted me to say that he'd invented a product which… his business partner had designed* — она считала это неправдой. Обвинил он её саму: *accused me of being disloyal*."
+  - q: "How does Laura feel about not getting any credit for her books?"
+    options: ["It doesn't really bother her.", "She finds it the hardest part of the job.", "She wishes her mother knew about her work."]
+    answer: 0
+    explain: "*People always assume it must be. Honestly, I don't mind.* Трудно ей другое: *What I do find hard is when a client…*"
+  - q: "What does Laura think when a client says the book doesn't sound like them?"
+    options: ["That she has misunderstood the client.", "That the client doesn't like seeing an honest picture of themselves.", "That the client would prefer a more famous writer."]
+    answer: 1
+    explain: "*Usually that means it sounds exactly like them, and they don't like it.* Клиент узнаёт себя — и ему не нравится."
+  - q: "What did Laura's first editor warn her about?"
+    options: ["Discussing her clients with other people.", "Speaking too much during interviews with clients.", "Working without a written agreement."]
+    answer: 0
+    explain: "*My first editor **warned** me that a ghostwriter who talks about her clients won't have any clients for long.* *won't* в пересказе не сдвинулось: правило верно и сейчас."

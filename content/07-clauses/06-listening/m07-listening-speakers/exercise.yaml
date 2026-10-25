@@ -1,0 +1,39 @@
+title: "Part 3: Someone who changed my life"
+type: listening
+intro: "Пять человек рассказывают о том, кто на них повлиял. Для каждого говорящего выбери утверждение A–F. Одно утверждение лишнее."
+hints:
+  - "Каждый говорящий упоминает детали из двух-трёх утверждений — ищи то, что верно целиком."
+  - "Слушай, о ком именно говорит придаточное: who, whose, which."
+audio: audio/tts/07/speakers.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-JennyNeural, en-GB-RyanNeural, en-AU-NatashaNeural, en-US-AndrewNeural, en-GB-LibbyNeural", license: "TTS"}
+transcript: |
+  **Speaker 1:** The person who taught me most about my job was actually an intern. I'd been a designer for twelve years when Maya joined our team. She was barely twenty, fifteen years younger than me, and she'd taught herself everything from online videos. I liked her straight away, but honestly, I didn't take her seriously. Then I watched her rebuild a project that I'd been stuck on for weeks, in two days. Working next to someone who isn't afraid of breaking things made me braver.
+
+  **Speaker 2:** My first manager, whose name was Alan, changed my career, although at the time I wanted to kill him. I'd always hated speaking in public. I was the kind of person who'd stay silent in meetings rather than say something stupid. So Alan put my name on the list of speakers for the annual conference, without asking me. I was terrified. But I did it, and I knew that same evening that something had changed. These days I give talks all the time.
+
+  **Speaker 3:** I was backpacking around Chile after university, and I got stuck at a bus station where nothing had left for six hours. The woman sitting next to me, who was old enough to be my grandmother, turned out to be a retired engineer. She'd built bridges in places I'd never heard of. We talked for the whole six hours. I'd been planning to study law, but by the time my bus came, I'd decided on engineering. I never even got her email address.
+
+  **Speaker 4:** My grandfather, who repaired clocks in a tiny shop in Ohio, used to take me along on Saturdays. I'd sit there for hours, watching him take apart watches that other people had thrown away. As a kid, I found it pretty boring, to be honest. It's only now, twenty years later, working as a software developer, that I see where my patience comes from. Fixing a bug is exactly what he was doing, just with smaller screws.
+
+  **Speaker 5:** The teacher I remember best is my piano teacher, Mrs Hale, which might surprise people who knew me then. For the first year I couldn't stand her. She was strict, she never smiled, and she made me play the same four bars again and again. She never forced me to perform in concerts, which I was grateful for, because I was painfully shy. But slowly I realised that the woman I'd thought was cold was the only adult who really listened to me play.
+items:
+  - q: "Speaker 1"
+    options: ["A. The person was someone the speaker didn't like at first.", "B. The person never gave the speaker any advice.", "C. The speaker only understood the person's influence many years later.", "D. The person made the speaker do something frightening.", "E. The speaker met the person by chance on a journey.", "F. The person was much younger than the speaker."]
+    answer: 5
+    explain: "*She was barely twenty, fifteen years younger than me.* Ловушка — A: *I didn't take her seriously* («не воспринимала всерьёз»), но *I liked her straight away*."
+  - q: "Speaker 2"
+    options: ["A. The person was someone the speaker didn't like at first.", "B. The person never gave the speaker any advice.", "C. The speaker only understood the person's influence many years later.", "D. The person made the speaker do something frightening.", "E. The speaker met the person by chance on a journey.", "F. The person was much younger than the speaker."]
+    answer: 3
+    explain: "*Alan put my name on the list of speakers… without asking me. I was terrified.* Ловушка — C: он понял всё *that same evening*, а не через годы."
+  - q: "Speaker 3"
+    options: ["A. The person was someone the speaker didn't like at first.", "B. The person never gave the speaker any advice.", "C. The speaker only understood the person's influence many years later.", "D. The person made the speaker do something frightening.", "E. The speaker met the person by chance on a journey.", "F. The person was much younger than the speaker."]
+    answer: 4
+    explain: "*I got stuck at a bus station where nothing had left for six hours. The woman sitting next to me…* — случайная встреча в поездке. Ловушка — F: *old enough to be my grandmother* значит «намного старше»."
+  - q: "Speaker 4"
+    options: ["A. The person was someone the speaker didn't like at first.", "B. The person never gave the speaker any advice.", "C. The speaker only understood the person's influence many years later.", "D. The person made the speaker do something frightening.", "E. The speaker met the person by chance on a journey.", "F. The person was much younger than the speaker."]
+    answer: 2
+    explain: "*It's only now, twenty years later… that I see where my patience comes from.* Ловушка — A: скучно было в мастерской, а не с дедушкой."
+  - q: "Speaker 5"
+    options: ["A. The person was someone the speaker didn't like at first.", "B. The person never gave the speaker any advice.", "C. The speaker only understood the person's influence many years later.", "D. The person made the speaker do something frightening.", "E. The speaker met the person by chance on a journey.", "F. The person was much younger than the speaker."]
+    answer: 0
+    explain: "*For the first year I couldn't stand her.* Ловушка — D: *She never forced me to perform in concerts*. *the woman I'd thought was cold* — опущенное *who*: «женщина, которую я считала холодной»."

@@ -1,0 +1,39 @@
+title: "Part 3: Moving to a new city"
+type: listening
+intro: "Пять человек рассказывают о переезде в новый город. Для каждого говорящего выбери, что он или она говорит (A–F). Одно утверждение лишнее. Говорящих различай по голосу: между ними пауза."
+hints:
+  - "Каждый говорящий упоминает несколько тем — деньги, жильё, людей. Ищи главную мысль."
+  - "Утверждения перефразируют фразовые глаголы: talked me out of it → не дала уехать."
+audio: audio/tts/13/speakers.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-SoniaNeural, en-IE-ConnorNeural, en-US-JennyNeural, en-GB-ThomasNeural, en-AU-NatashaNeural", license: "TTS"}
+transcript: |
+  **Speaker 1:** When I got the job in Edinburgh, I had about three weeks to sort everything out. I'd read up on the different areas, so I knew exactly where I wanted to live, but every flat I looked at had been taken by the time I rang up. So I ended up sleeping on a colleague's sofa for two months. It was cramped, and her cat kept waking me up at five, but I just had to put up with it. I've got my own place now, thank goodness.
+
+  **Speaker 2:** I moved to Berlin with a lot of confidence. I'd done Spanish at school, and I just assumed I'd pick up German in a few months by chatting to people. It didn't work out like that at all. Everyone switched to English the moment they heard my accent, so I never got any practice. In the end I signed up for evening classes, and that's when things finally started to take off. I wish I'd done it from day one.
+
+  **Speaker 3:** Everyone warned me that London was expensive, and they were right, but I'd saved up for a whole year, so money wasn't really the issue. What I hadn't counted on was how much I'd miss my family. Back home, my sister and I would drop in on our parents every Sunday. Here, I'd sit in my room on a Sunday afternoon and just feel low. I've cut down on the video calls now, actually, because they used to make it worse.
+
+  **Speaker 4:** I'd always been a city person, so moving to a village of three hundred people was a big step. I was worried I'd be seen as an outsider. But the week I arrived, my car broke down outside the pub, and two men I'd never met came out and helped me push it home. After that, people kept dropping by with cakes and advice. I'd never have settled in so quickly without them.
+
+  **Speaker 5:** The first six months in Toronto were tough. The job I'd been promised fell through a week after I landed, and I was running out of savings fast. I remember looking up flights home one night and thinking, that's it, I'm done. My flatmate talked me out of it. She said, give it until Christmas. Two weeks later I found work in a design studio, and I've never looked back.
+items:
+  - q: "Speaker 1"
+    options: ["A. I came close to giving up and going home.", "B. I was surprised by how homesick I felt.", "C. I wish I had found out more about the place before moving.", "D. I had to cope with uncomfortable living conditions at first.", "E. Local people made it easy for me to fit in.", "F. I overestimated how fast I would learn something."]
+    answer: 3
+    explain: "*I ended up sleeping on a colleague's sofa for two months… I just had to **put up with** it* — терпеть неудобное жильё. Про районы она как раз всё прочитала заранее (*read up on*), так что C не подходит."
+  - q: "Speaker 2"
+    options: ["A. I came close to giving up and going home.", "B. I was surprised by how homesick I felt.", "C. I wish I had found out more about the place before moving.", "D. I had to cope with uncomfortable living conditions at first.", "E. Local people made it easy for me to fit in.", "F. I overestimated how fast I would learn something."]
+    answer: 5
+    explain: "*I just assumed I'd **pick up** German in a few months… It didn't **work out** like that at all.* Он жалеет (*I wish I'd done it*), но о курсах, а не о том, что мало узнал о городе."
+  - q: "Speaker 3"
+    options: ["A. I came close to giving up and going home.", "B. I was surprised by how homesick I felt.", "C. I wish I had found out more about the place before moving.", "D. I had to cope with uncomfortable living conditions at first.", "E. Local people made it easy for me to fit in.", "F. I overestimated how fast I would learn something."]
+    answer: 1
+    explain: "*What I hadn't **counted on** was how much I'd miss my family.* count on — рассчитывать; деньги она прямо называет «не проблемой»."
+  - q: "Speaker 4"
+    options: ["A. I came close to giving up and going home.", "B. I was surprised by how homesick I felt.", "C. I wish I had found out more about the place before moving.", "D. I had to cope with uncomfortable living conditions at first.", "E. Local people made it easy for me to fit in.", "F. I overestimated how fast I would learn something."]
+    answer: 4
+    explain: "*people kept **dropping by** with cakes and advice. I'd never have **settled in** so quickly without them.* Сломанная машина — только повод познакомиться."
+  - q: "Speaker 5"
+    options: ["A. I came close to giving up and going home.", "B. I was surprised by how homesick I felt.", "C. I wish I had found out more about the place before moving.", "D. I had to cope with uncomfortable living conditions at first.", "E. Local people made it easy for me to fit in.", "F. I overestimated how fast I would learn something."]
+    answer: 0
+    explain: "*looking up flights home… My flatmate **talked me out of** it* — соседка отговорила её уезжать. Работа сорвалась (*fell through*), но главное — она чуть не вернулась домой."

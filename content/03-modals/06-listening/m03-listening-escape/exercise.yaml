@@ -1,0 +1,51 @@
+title: "Part 2: Designing escape rooms"
+type: listening
+intro: "Послушай рассказ дизайнера квест-комнат и впиши в каждый пропуск одно–три слова, которые прозвучали в записи."
+hints:
+  - "Слово для пропуска звучит дословно; предложения задания — перефразированы."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/03/talk.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-AU-NatashaNeural", license: "TTS"}
+transcript: |
+  Hi, everyone. I'm Jess, and for the last four years I've been designing escape rooms here in Melbourne. If you've never tried one, here's how it works. A group of three to six people is locked in a themed room, and you have exactly sixty minutes to get out by solving puzzles.
+
+  People always ask me if the door is really locked. Well, it is, but you don't have to panic. There's an emergency button by the door, and you're allowed to leave at any time. What you mustn't do is climb on the furniture. You'd be amazed how many players think the answer must be hidden in the ceiling. It never is.
+
+  Our most popular room at the moment is called The Lighthouse. The story is that a lighthouse keeper disappeared in 1952, and the players have to work out what happened to him. The first clue is a broken compass. Players usually decide straight away that someone must have dropped it, but actually, it's pointing towards the answer.
+
+  Designing a room takes about five months. The hardest part isn't inventing the puzzles, it's the testing. We have to watch at least twenty groups play before we can open a room to the public. We also check that every puzzle can be solved in more than one way, because no two groups think alike. If a puzzle's too hard, people get frustrated. If it's too easy, they feel they needn't have paid.
+
+  And you don't need to be a genius to escape. In fact, the groups who do best are usually families, because they actually listen to each other. Engineers, on the other hand, often struggle. They just can't accept that a clue might be simpler than it looks.
+
+  So, my advice? Talk all the time, share everything you find, and if you're stuck, ask for a hint. You're allowed three, and using one isn't cheating. The worst groups are the ones who sit in silence for ten minutes. Most of them could easily have escaped if they'd just talked to each other.
+items:
+  - q: "Jess designs escape rooms in the city of ___."
+    answers: ["Melbourne"]
+    explain: "*designing escape rooms here in **Melbourne***. *I've been designing* — Present Perfect Continuous: занимается этим до сих пор."
+  - q: "Players have ___ minutes to get out of the room."
+    answers: ["sixty", "60", "exactly sixty", "exactly 60"]
+    explain: "*you have exactly **sixty** minutes to get out*."
+  - q: "Players can leave at any time by using the ___ by the door."
+    answers: ["emergency button", "button"]
+    explain: "*There's an **emergency button** by the door, and you're allowed to leave at any time.* *be allowed to* — разрешение."
+  - q: "Players must not climb on the ___."
+    answers: ["furniture", "the furniture"]
+    explain: "*What you **mustn't** do is climb on the **furniture**.* Потолок — ловушка: туда смотрят игроки, но ответа там нет."
+  - q: "In the story of The Lighthouse, the keeper disappeared in ___."
+    answers: ["1952", "nineteen fifty-two", "nineteen fifty two"]
+    explain: "*a lighthouse keeper disappeared in **1952***."
+  - q: "The first clue in The Lighthouse is a broken ___."
+    answers: ["compass"]
+    explain: "*The first clue is a broken **compass**.* Игроки решают, что его *must have dropped*, — а он указывает на ответ."
+  - q: "At least ___ groups test a room before it opens to the public."
+    answers: ["twenty", "20"]
+    explain: "*We **have to** watch at least **twenty** groups play* — обязанность по правилам студии."
+  - q: "According to Jess, the most successful groups are usually ___."
+    answers: ["families"]
+    explain: "*the groups who do best are usually **families**, because they actually listen to each other.*"
+  - q: "Jess says that ___ often find escape rooms difficult."
+    answers: ["engineers"]
+    explain: "***Engineers**, on the other hand, often struggle.* *struggle* перефразировано как *find difficult*."
+  - q: "Each group is allowed ___ hints."
+    answers: ["three", "3"]
+    explain: "*You're allowed **three**, and using one isn't cheating.*"

@@ -1,0 +1,83 @@
+title: "Part 1: Three short extracts"
+type: listening
+intro: "Ты услышишь три коротких диалога. К каждому — два вопроса; выбери ответ, который лучше всего соответствует услышанному. Вопросы идут по порядку записи."
+hints:
+  - "Прочитай оба вопроса к отрывку до того, как он начнётся."
+  - "Короткие реплики вроде He would. или So I didn't. — полные мысли: восстанови, что пропущено."
+audio: audio/tts/c1-07/extracts.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-ThomasNeural, en-IE-ConnorNeural, en-GB-SoniaNeural, en-GB-RyanNeural, en-US-JennyNeural, en-US-AndrewNeural, en-GB-LibbyNeural", license: "TTS"}
+transcript: |
+  **Extract one.** You hear two colleagues talking about a training weekend.
+
+  **Man:** So, are you going to the leadership weekend in the Lake District?
+
+  **Woman:** I've been told I have to. Have you?
+
+  **Man:** Not yet, but I imagine I will be. Apparently everyone in middle management is expected to.
+
+  **Woman:** Well, I went to the one they ran last year, and honestly, it's no use pretending it changed anyone's life. There seemed to be a lot of standing around in the rain and very little actual leadership.
+
+  **Man:** That's not what Martin said. He told me it was the best thing he'd done all year.
+
+  **Woman:** He would. He organised it. Look, I'm not saying don't go. Go, by all means. Just don't expect to come back a different person. I didn't, and neither did anyone else, as far as I could tell.
+
+  **Extract two.** You hear two friends discussing a novel.
+
+  **Man:** Did you finish the Harper novel in the end?
+
+  **Woman:** I did, finally. Did you?
+
+  **Man:** I meant to, but I gave up about halfway. I kept losing track of who was who. Everyone seemed to have the same name.
+
+  **Woman:** Well, two of them actually do. That's sort of the point. The daughter's named after her aunt, and the whole book is about whether she'll turn out like her.
+
+  **Man:** Oh. Nobody told me that.
+
+  **Woman:** Nobody's supposed to tell you. You're supposed to work it out! But I know what you mean about the first half. It's slower than it needs to be. I almost gave up myself.
+
+  **Man:** So what made you keep going?
+
+  **Woman:** My sister. She'd read it twice, and she said that if I stopped before the last chapter, she'd never lend me another book. So I didn't. And I'm glad I didn't, because the ending changes everything. You go back over the early chapters in your head, and they mean something completely different.
+
+  **Extract three.** You hear two students talking about a presentation they have just given.
+
+  **Man:** So, how do you think it went?
+
+  **Woman:** Better than I'd feared, actually. Better than Professor Lane expected, too, judging by her face.
+
+  **Man:** I thought the questions at the end were a bit brutal.
+
+  **Woman:** They were meant to be. She does that to everyone. What I'm annoyed about is that Jake didn't turn up to the rehearsal. He said he would, and then he didn't, and we had to guess what he was going to say.
+
+  **Man:** He did apologise.
+
+  **Woman:** He always does. That's not the same as being reliable.
+
+  **Man:** True. Still, his section was the strongest part. Whatever he was doing instead of rehearsing, it seems to have worked.
+
+  **Woman:** That's what annoys me most! Next time, I'm going to suggest we each record our part beforehand and send it round. If necessary, I'll do the editing myself.
+items:
+  - q: "Extract 1. What is the woman's opinion of last year's weekend?"
+    options: ["It was badly organised.", "It achieved less than it was supposed to.", "It was too physically demanding."]
+    answer: 1
+    explain: "*It's no use pretending it changed anyone's life… very little actual leadership* — пользы меньше, чем обещали. Дождь упомянут мимоходом, об организации речи нет: претензия к результату."
+  - q: "Extract 1. When the woman says \"He would\", she suggests that Martin"
+    options: ["is not a neutral judge of the event.", "usually exaggerates when he talks about work.", "was too busy to notice what went wrong."]
+    answer: 0
+    explain: "*He would. He organised it.* = He would say that — ещё бы, ведь это его мероприятие. Ударный *would* после эллипсиса выражает отношение, а не согласие."
+  - q: "Extract 2. Why did the man stop reading the novel?"
+    options: ["He found the characters hard to tell apart.", "He thought the first half was too slow.", "Someone had told him how it ended."]
+    answer: 0
+    explain: "*I kept losing track of who was who. Everyone seemed to have the same name.* Про медленную первую половину говорит женщина, а *Nobody told me that* — как раз о том, что ему ничего не рассказали."
+  - q: "Extract 2. The woman kept reading mainly because"
+    options: ["she wanted to find out how the story ended.", "someone close to her insisted.", "she had agreed to discuss the book with the man."]
+    answer: 1
+    explain: "*My sister… said that if I stopped before the last chapter, she'd never lend me another book. So I didn't.* — *So I didn't* = so I didn't stop. Концовка ей понравилась уже потом."
+  - q: "Extract 3. How does the woman feel about the presentation?"
+    options: ["It went better than she had expected.", "The questions at the end were unfair.", "The professor was disappointed with it."]
+    answer: 0
+    explain: "*Better than I'd feared* = it went better than I had feared it would go. Вопросы назвал жёсткими мужчина, а она отвечает *They were meant to be* — так и задумано."
+  - q: "Extract 3. What is the woman's main complaint about Jake?"
+    options: ["He didn't apologise for missing the rehearsal.", "His part of the presentation was the weakest.", "He didn't do what he had promised."]
+    answer: 2
+    explain: "*He said he would, and then he didn't* = he said he would come to the rehearsal, and then he didn't come. Он извинился (*He did apologise*), а его часть была лучшей."

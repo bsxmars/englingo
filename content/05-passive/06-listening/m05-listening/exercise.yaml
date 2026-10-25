@@ -1,0 +1,57 @@
+title: "Part 2: Castlebridge Mill"
+type: listening
+intro: "Послушай экскурсовода и впиши в каждый пропуск одно–три слова, которые прозвучали в записи."
+hints:
+  - "Слово для пропуска звучит дословно; предложения задания — перефразированы, часто через актив вместо пассива."
+  - "Годы и числа можно писать цифрами или словами."
+audio: audio/tts/05/tour.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural", license: "TTS"}
+transcript: |
+  Good afternoon, and welcome to Castlebridge Mill. My name's Kieran, and I'll be your guide for the next hour. Before we go in, let me tell you a little about the building.
+
+  The mill was built in 1847 by a local merchant called Thomas Byrne, and for almost a century it was used to grind wheat into flour. At its busiest, around ninety people were employed here, most of them women and children.
+
+  In 1931 the mill was badly damaged by a fire, which is believed to have started in the drying room. Nobody was killed, thankfully, but the roof was completely destroyed, and the mill was never used for flour again.
+
+  For the next fifty years the building was simply left empty. It's said that local teenagers used it as a place to meet, and if you look closely at the walls upstairs, you'll still see names that were carved into the stone in the 1960s.
+
+  In 1985 the mill was bought by the county council, and the restoration began. The new roof was made from oak, using the same methods as the original. Each of the sixty-four windows had to be made by hand. The whole project took eleven years, and the mill was finally opened to the public in 1996.
+
+  The restoration cost around four million euros, and a surprising amount of that money was raised by local people, through concerts, quiz nights, even a sponsored swim across the river. Every person who gave something has had their name written on a board by the entrance, so do have a look on your way out.
+
+  Today the building is used in three different ways. The ground floor is a museum, the first floor is rented out to local artists, and the top floor can be hired for weddings. In fact, over two hundred couples have been married here.
+
+  Oh, and one more thing. The great water wheel outside is being repaired at the moment, so I'm afraid you won't see it turning today. It's expected to be working again by the spring.
+
+  Right. Photos are allowed everywhere except the museum, and please don't touch the machines. Some of them are still being cleaned. Follow me.
+items:
+  - q: "Castlebridge Mill was built in ___."
+    answers: ["1847", "eighteen forty-seven", "eighteen forty seven"]
+    explain: "*The mill **was built** in **1847***. Past Simple Passive: важно, когда построили, а не кто."
+  - q: "The man who built the mill was a local ___."
+    answers: ["merchant"]
+    explain: "*by a local **merchant** called Thomas Byrne* — исполнитель в пассиве вводится через *by*."
+  - q: "At its busiest, about ___ people worked at the mill."
+    answers: ["ninety", "90", "around ninety", "around 90"]
+    explain: "*around **ninety** people were employed here*. В задании пассив *were employed* заменён активом *worked*."
+  - q: "The fire probably began in the ___."
+    answers: ["drying room", "the drying room"]
+    explain: "*a fire, which **is believed to have started** in the **drying room*** — «считается, что начался». *probably* в задании передаёт эту неуверенность."
+  - q: "The names carved into the walls upstairs date from the ___."
+    answers: ["1960s", "sixties", "the 1960s", "the sixties", "1960's", "60s", "the 60s"]
+    explain: "*names that **were carved** into the stone in the **1960s***. Десятилетие, а не год: *sixties*."
+  - q: "The new roof is made of ___."
+    answers: ["oak"]
+    explain: "*The new roof **was made from** oak, using the same methods as the original.*"
+  - q: "There are ___ windows, and each one was made by hand."
+    answers: ["sixty-four", "64", "sixty four"]
+    explain: "*Each of the **sixty-four** windows **had to be made** by hand* — пассив с модальным *had to*."
+  - q: "Visitors were first allowed into the mill in ___."
+    answers: ["1996", "nineteen ninety-six", "nineteen ninety six"]
+    explain: "*the mill was finally **opened to the public** in **1996***. 1985 — год покупки, а не открытия."
+  - q: "The first floor is used by local ___."
+    answers: ["artists"]
+    explain: "*the first floor **is rented out** to local **artists***. Британский *first floor* — по-русски второй этаж; музей — на *ground floor*, свадьбы — на верхнем."
+  - q: "Visitors can't see the ___ turning today because it is being repaired."
+    answers: ["water wheel", "great water wheel", "wheel"]
+    explain: "*The great **water wheel** outside **is being repaired** at the moment* — Present Continuous Passive: ремонт идёт сейчас."

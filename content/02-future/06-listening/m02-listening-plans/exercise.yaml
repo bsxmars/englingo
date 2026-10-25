@@ -1,0 +1,39 @@
+title: "Part 3: A big change next year"
+type: listening
+intro: "Пять человек рассказывают о больших переменах, которые планируют в следующем году. Для каждого выбери утверждение A–F. Одно утверждение лишнее."
+hints:
+  - "Каждый говорящий задевает несколько утверждений — ищи то, что он говорит о главном."
+  - "Утверждения перефразированы: слова из записи в них почти не повторяются."
+audio: audio/tts/02/plans.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural, en-AU-NatashaNeural, en-US-AndrewNeural, en-GB-SoniaNeural, en-IE-ConnorNeural, en-GB-ThomasNeural", license: "TTS"}
+transcript: |
+  **Speaker 1:** Next spring I'm moving to Lisbon. I'll be working for the same company, just from a different country. Funnily enough, it wasn't my idea at all. My cousin did exactly the same thing three years ago, and every time she sent me photos of her balcony I thought, why am I still here? My parents are fine with it, by the way. Mum's already planning her first visit. I haven't found a flat yet, but I'm sure something will turn up once I'm there.
+
+  **Speaker 2:** In January I'm leaving my job in banking to train as a nurse. People think I'm crazy. And yes, money's going to be tight for a while. But what really scares me is that I'll be starting from zero. I've never given anyone an injection in my life! By this time next year I'll have done my first hospital placement, and I'll either love it or hate it. My wife's been amazing about it, so that's one thing I don't have to worry about.
+
+  **Speaker 3:** We're selling the car in March. The kids will be cycling to school, and I'll be taking the bus to work. Is it going to be easy? Probably not, especially in February, when it's pouring with rain. But we've worked it out: we'll save about three thousand pounds a year. I'm not pretending it's forever, though. When the twins are bigger and start doing sports at weekends, I expect we'll buy another one. For now, it's an experiment.
+
+  **Speaker 4:** I'm opening a bakery on the first of March. And honestly, I'm not one of those people who leave everything till the last minute. The lease is signed, the oven's being delivered on the third of February, and the bank approved the loan last week. By the time we open, I'll have tested every recipe at least ten times. The only thing I can't plan is whether people will actually come. But that's the same for everyone, isn't it?
+
+  **Speaker 5:** I'm going to take a year off and travel round South America. I've saved enough, I've got a rough route, Peru first, then Bolivia, and I'm not going to plan every single day. The tricky part is that I haven't told my parents yet. My dad's going to say I'm throwing away my career, and my mum will worry every time I don't answer my phone. I'm telling them on Sunday, when we all have lunch together. Wish me luck.
+items:
+  - q: "Speaker 1"
+    options: &opts ["A. I'm anxious about how my family will react.", "B. I've already sorted out the practical details.", "C. I'm going to take things one small step at a time.", "D. Someone else's experience gave me the idea.", "E. I don't expect the change to be permanent.", "F. I'll have to learn skills I've never had."]
+    answer: 3
+    explain: "*It wasn't my idea at all. My cousin did exactly the same thing* — это D. Семья не против (*My parents are fine with it*), а квартиры ещё нет, так что A и B не подходят."
+  - q: "Speaker 2"
+    options: *opts
+    answer: 5
+    explain: "*What really scares me is that I'll be starting from zero. I've never given anyone an injection* — F. Деньги его тревожат меньше, а жена его поддерживает."
+  - q: "Speaker 3"
+    options: *opts
+    answer: 4
+    explain: "*I'm not pretending it's forever… I expect we'll buy another one. For now, it's an experiment* — E. После *when* — Present Simple: *When the twins are bigger*."
+  - q: "Speaker 4"
+    options: *opts
+    answer: 1
+    explain: "*The lease is signed, the oven's being delivered… the bank approved the loan* — всё уже организовано, B. *By the time we open, I'll have tested* — Future Perfect к сроку."
+  - q: "Speaker 5"
+    options: *opts
+    answer: 0
+    explain: "*I haven't told my parents yet. My dad's going to say…, my mum will worry* — A. Деньги собраны, маршрут есть, но это мимоходом. C никому не подходит: *not going to plan every single day* — не о маленьких шагах."

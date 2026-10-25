@@ -1,0 +1,47 @@
+title: "Диктант: артикли и quantifiers на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения (there's / there is) засчитываются в обе стороны."
+hints:
+  - "Артикль [ə] и the [ðə] звучат коротко и сливаются с соседним словом — проверь, есть ли он."
+  - "advice, information, news, stuff — неисчисляемые: без a и без -s."
+items:
+  - audio: audio/tts/09/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-LibbyNeural", license: "TTS"}
+    answers: ["Could you give me some advice about buying a used car?"]
+    explain: "«Не дадите совет, как выбрать подержанную машину?» *some advice* — неисчисляемое, без *a* и *-s*."
+  - audio: audio/tts/09/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-AndrewNeural", license: "TTS"}
+    answers: ["There's hardly any milk left, so I'll get some on the way home.", "There is hardly any milk left, so I will get some on the way home.", "There's hardly any milk left, so I will get some on the way home.", "There is hardly any milk left, so I'll get some on the way home."]
+    explain: "«Молока почти не осталось, куплю по дороге домой». *hardly any* — «почти нет»; *on the way home* — без предлога перед *home*."
+  - audio: audio/tts/09/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural", license: "TTS"}
+    answers: ["The news was so bad that none of us could speak."]
+    explain: "«Новости были такие плохие, что никто из нас не мог говорить». *news* — единственное число: *the news was*."
+  - audio: audio/tts/09/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-AU-NatashaNeural", license: "TTS"}
+    answers: ["Neither of my brothers lives in the city where we grew up."]
+    explain: "«Ни один из моих братьев не живёт в городе, где мы выросли». *neither of* + мн. ч., но глагол обычно в ед. ч.: *lives*."
+  - audio: audio/tts/09/s5.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-SoniaNeural", license: "TTS"}
+    answers: ["Most people I know go to work by bike."]
+    explain: "«Большинство моих знакомых ездят на работу на велосипеде». *most people* — без *the* и *of*; *go to work*, *by bike* — без артиклей."
+  - audio: audio/tatoeba/1055468.mp3
+    audio_source: {title: "Tatoeba #285846", url: "https://tatoeba.org/en/sentences/show/285846", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["There was so much stuff on his desk that he had nowhere to write."]
+    explain: "«На столе у него было столько всего, что негде было писать». *stuff* неисчисляемое → *so much stuff*, *was*."
+  - audio: audio/tatoeba/943810.mp3
+    audio_source: {title: "Tatoeba #270914", url: "https://tatoeba.org/en/sentences/show/270914", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["There is little water left in the canteen.", "There's little water left in the canteen."]
+    explain: "«Во фляге почти не осталось воды». *little* без *a* — «мало», почти нет; *a little water* было бы «немного есть». *canteen* здесь — фляга."
+  - audio: audio/tatoeba/951216.mp3
+    audio_source: {title: "Tatoeba #277714", url: "https://tatoeba.org/en/sentences/show/277714", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["None of the money was left in the money box."]
+    explain: "«В копилке не осталось ни копейки». *none of* + неисчисляемое *money* → глагол в ед. ч. *was*."
+  - audio: audio/tatoeba/1063422.mp3
+    audio_source: {title: "Tatoeba #271060", url: "https://tatoeba.org/en/sentences/show/271060", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["It was not until a few days later that we heard the sad news."]
+    explain: "«Печальную новость мы услышали только через несколько дней». *a few days* — «несколько»; *the sad news* — конкретная новость, без *a*."
+  - audio: audio/tatoeba/1055473.mp3
+    audio_source: {title: "Tatoeba #285058", url: "https://tatoeba.org/en/sentences/show/285058", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["I would be grateful if you could give him some information on local conditions.", "I'd be grateful if you could give him some information on local conditions."]
+    explain: "«Будьте добры, расскажите ему о местных условиях». *some information* — неисчисляемое, без *-s*; *I would be grateful if* — вежливая просьба."

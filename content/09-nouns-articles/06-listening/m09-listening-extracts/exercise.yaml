@@ -1,0 +1,89 @@
+title: "Part 1: Seven short extracts"
+type: listening
+intro: "Ты услышишь семь коротких несвязанных отрывков. Перед каждым звучит вопрос — выбери ответ."
+hints:
+  - "Вопрос звучит до отрывка: слушай под него."
+  - "Короткие слова решают: a few или few, any или none, in hospital или the hospital."
+audio: audio/tts/09/extracts.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural, en-US-AndrewNeural, en-GB-LibbyNeural, en-AU-NatashaNeural, en-GB-SoniaNeural, en-IE-ConnorNeural, en-US-JennyNeural", license: "TTS"}
+transcript: |
+  **1. You hear a man phoning a hotel. What does he want to do?**
+
+  **Man:** Hi, I'm checking out of the hotel on Friday morning, but my flight isn't until the evening. Is there anywhere I could leave my luggage for a few hours? It's only one suitcase and a small bag.
+
+  **Receptionist:** Of course. We have a storage room next to reception, and there's no charge for guests.
+
+  **Man:** Great. And would you have any information about buses to the airport?
+
+  **Receptionist:** There's a leaflet at the desk. The bus leaves every half hour.
+
+  **2. You hear a woman talking about her new job. What does she say about her colleagues?**
+
+  **Woman:** It's a small office, so there are only a few people in my team, and to be honest, few of them are my age. Most of them have children at university! But each of them has been really kind. Someone even brought me a cake on my first day.
+
+  **3. You hear an announcement about a music festival. What has changed?**
+
+  **Announcer:** This is an announcement for everyone with tickets for this weekend's festival. Because of the heavy rain, all of the concerts will now take place in the castle grounds instead of in Riverside Park. None of the times have changed, and every ticket is still valid.
+
+  **4. You hear two friends talking. Why did the woman go to the hospital today?**
+
+  **Man:** How's your dad? Is he still in hospital?
+
+  **Woman:** No, he came home on Tuesday, thank goodness. I went to the hospital this morning, though, because he'd left his glasses and his phone by the bed.
+
+  **Man:** Typical!
+
+  **Woman:** I know. He'd lose his head if it wasn't screwed on.
+
+  **5. You hear two flatmates talking about a party. What do they still need to buy?**
+
+  **Woman:** Right, have we got everything for tonight?
+
+  **Man:** We've got plenty of cheese, and there's a lot of juice left from last time.
+
+  **Woman:** What about bread?
+
+  **Man:** Hmm, there's hardly any. A couple of slices. I'll pick some up on the way back from the gym.
+
+  **6. You hear a woman talking about a holiday. Where did she spend most of her time?**
+
+  **Woman:** The plan was to fly to Geneva and then spend the week walking in the Alps. But the weather in the mountains was awful, so we only managed one day up there. In the end we stayed by Lake Geneva for the rest of the week, swimming and eating far too much chocolate. We hardly saw the city at all.
+
+  **7. You hear two students talking about a reading list. Why haven't they got the books?**
+
+  **Man:** Have you managed to get either of the books Dr Lewis recommended?
+
+  **Woman:** Neither, I'm afraid. The library has both of them, but someone's already borrowed them.
+
+  **Man:** Can't we just buy them?
+
+  **Woman:** The bookshop wants forty pounds each. I've put my name on the waiting list instead.
+items:
+  - q: "1. What does the man want to do?"
+    options: ["Stay an extra night at the hotel.", "Leave his bags at the hotel after checking out.", "Book a bus to the airport."]
+    answer: 1
+    explain: "*Is there anywhere I could leave my luggage for a few hours?* *luggage* неисчисляемое: *my luggage*, но *one suitcase*. Про автобус он только спрашивает *information*."
+  - q: "2. What does the woman say about her colleagues?"
+    options: ["Most of them are about her age.", "There aren't many of them, but they are friendly.", "She hasn't made friends with any of them yet."]
+    answer: 1
+    explain: "*only a few people in my team… few of them are my age… But each of them has been really kind.* *few* без *a* — «мало кто»: сверстников почти нет."
+  - q: "3. What has changed about the festival?"
+    options: ["Where the concerts will be held.", "What time the concerts start.", "Which tickets can be used."]
+    answer: 0
+    explain: "*in the castle grounds instead of in Riverside Park.* *None of the times have changed, and every ticket is still valid* — время и билеты прежние."
+  - q: "4. Why did the woman go to the hospital today?"
+    options: ["To visit her father.", "To have a check-up herself.", "To collect some of her father's things."]
+    answer: 2
+    explain: "*Is he still in hospital?* — без артикля: лежит ли он там как пациент. *I went to the hospital… because he'd left his glasses and his phone* — с артиклем: конкретное здание, зашла забрать вещи."
+  - q: "5. What do the flatmates still need to buy?"
+    options: ["Cheese.", "Juice.", "Bread."]
+    answer: 2
+    explain: "*there's hardly any* — «почти нет» хлеба. Сыра — *plenty of*, сока — *a lot of*."
+  - q: "6. Where did the woman spend most of her holiday?"
+    options: ["In the mountains.", "By a lake.", "In the city."]
+    answer: 1
+    explain: "*we stayed by Lake Geneva for the rest of the week.* Озеро с *Lake* — без артикля, а горные цепи — с ним: *the Alps*. В горах был только один день, город *hardly saw*."
+  - q: "7. Why haven't the students got the books?"
+    options: ["The library doesn't own them.", "Another reader has borrowed them.", "The bookshop has sold out."]
+    answer: 1
+    explain: "*Neither, I'm afraid. The library has both of them, but someone's already borrowed them.* *neither* — «ни одной из двух»; *both* — обе в библиотеке есть."

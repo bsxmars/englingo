@@ -1,0 +1,38 @@
+# pause: 550
+C: Extract one. You hear two friends talking about a holiday that was cancelled.
+E: So, did the airline ever give you your money back?
+B: Not a penny. And the annoying thing is, if I'd booked through the agency like I normally do, I'd be lying on a beach right now. Or at least I'd have a refund.
+E: Hang on, you didn't take out insurance?
+B: I was going to. But it was an extra forty pounds, and I thought, well, unless a volcano actually erupts, what could possibly go wrong?
+E: And then a volcano actually erupted.
+B: Not exactly. The airline went bust. Which, to be fair, nobody saw coming.
+E: Well, I'm not sure that's true. There were rumours for months. Had you been reading the business pages instead of football forums, you might have noticed.
+B: Thanks, Kate. That's very helpful.
+E: Sorry. Look, if it's any consolation, even if you'd bought the insurance, a lot of those policies don't cover the airline going under.
+B: Really? So I'd have been forty pounds poorer and still sitting at home.
+E: Possibly. Supposing you'd paid by credit card, though, you could claim it back from the card company.
+B: I paid by debit card.
+E: Ah. Well, I'd still have a quiet word with your bank. Provided you're polite and persistent, they sometimes help.
+C: Extract two. You hear two colleagues discussing a proposal for a four-day working week.
+A: Have you had a chance to look at the four-day week proposal?
+H: I have. And I'll be honest, I'm in two minds. If it worked the way it does on paper, it'd be wonderful.
+A: But?
+H: But it'll only work if the clients go along with it. If a client rings on a Friday and nobody picks up, we'll lose them, and then it won't matter how rested everyone feels.
+A: That's why there's a rota. Half the team off on Mondays, half on Fridays.
+H: Oh. Well, if so, my main objection more or less disappears. I must have skipped that bit.
+A: Page six. Look, were we to try it for, say, three months, we'd at least have some real figures instead of arguing about it in the abstract.
+H: And if the figures are bad?
+A: Then we go back to five days, no harm done. Whether or not it sticks, people will appreciate being asked.
+H: Hmm. I'd support a trial, as long as it's a proper one, with targets agreed in advance. Otherwise everyone will just declare it a success at the end.
+A: That's fair. Will you say that at the meeting?
+H: Only if you promise not to make me chair it.
+C: Extract three. You hear two podcast presenters discussing a listener's email.
+G: Our next email comes from Priya, who's in the second year of an engineering degree and has been offered funding to start her own company. She asks: should I leave university? Matt?
+F: Well, my gut reaction is, if the money's real, take it. Opportunities like that don't come round twice.
+G: See, I'd be far more cautious. Suppose she leaves and the company folds within a year, which, statistically, most of them do. Then she's got no degree and no business.
+F: But she could go back, couldn't she? Lots of universities let you pause your studies. If I were her, that's the first thing I'd check.
+G: OK, that's actually a fair point. If she can suspend her course rather than drop out, the whole thing looks very different. I'd be a lot happier with that.
+F: And honestly, but for my aunt lending me money when I was twenty-two, I'd never have started anything. I'd probably be in an office somewhere, wondering what might have been.
+G: You'd be a lot calmer, though.
+F: Calmer, maybe. Happier, I doubt it.
+G: So, Priya, here's our advice. Talk to your department first, and keep your options open in case things don't go to plan. And whatever you decide, don't let anyone, including us, make the decision for you.

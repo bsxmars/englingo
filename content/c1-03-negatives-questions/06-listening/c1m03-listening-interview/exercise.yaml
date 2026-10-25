@@ -1,0 +1,59 @@
+title: "Part 3: The forgery hunter"
+type: listening
+intro: "Послушай интервью с искусствоведом Клэр Уитлок, которая разоблачает подделки, и выбери лучший ответ. Вопросы идут по порядку записи."
+hints:
+  - "Инверсия после little, never, no sooner выделяет главное в реплике."
+  - "far from useless, by no means convinced — ослабленное или усиленное отрицание, а не прямой ответ «да» или «нет»."
+audio: audio/tts/c1-03/interview.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural, en-AU-NatashaNeural", license: "TTS"}
+transcript: |
+  **Presenter:** My guest today is Doctor Clare Whitlock, an art historian who has spent much of her career exposing forgeries. Clare, how did you get into this rather unusual field?
+
+  **Clare:** Entirely by accident. I was writing my doctorate on Dutch landscape painting, and I'd been staring at one particular picture in a regional museum for weeks. Little did I know that it had been painted in the nineteen fifties, not the sixteen fifties. It was a technician cleaning the frame who noticed something odd about the nails. And I remember thinking, how could I not have seen that? I'd been so focused on the brushwork that I hadn't once looked at the back of the canvas. It was humbling, and I suppose I've been looking at the backs of paintings ever since.
+
+  **Presenter:** Isn't it embarrassing for a museum when that sort of thing comes out?
+
+  **Clare:** Hugely. Which is precisely why so many of them would rather it didn't come out at all. There's a strong temptation to quietly move a doubtful picture into storage and say nothing, and I do understand why. But I'm by no means convinced it's the right approach. If anything, a museum that's honest about a fake earns more trust, not less.
+
+  **Presenter:** How do forgers actually get away with it? You'd think modern science would catch them every time.
+
+  **Clare:** You would, wouldn't you? And scientific analysis is far from useless. It can tell you whether a pigment existed at the time a picture was supposedly painted. What it can't tell you is who held the brush. And the best forgers know exactly which tests are going to be done. No sooner does a new technique appear than someone works out how to get round it. But the real weakness, in my experience, isn't technical at all. It's psychological. Nobody wants to be the person who announces that the exciting discovery is a fake.
+
+  **Presenter:** Do you ever feel any admiration for the forgers themselves?
+
+  **Clare:** That's the question everyone asks, and people always seem slightly disappointed by my answer. Not really, no. Some of them are extraordinarily skilled, I wouldn't deny that for a moment. But they're not artists in any sense I'd recognise. They have nothing of their own to say. Their whole talent lies in persuading you that someone else said it.
+
+  **Presenter:** Has the internet made your job easier or harder?
+
+  **Clare:** Both, I'd say. On the one hand, I can compare a painting with thousands of others in an afternoon, which would have taken months twenty years ago. On the other, there are far more sales online now, and buyers rarely see the object before they pay for it. Never have so many doubtful pictures changed hands so quickly. Whether the law will ever catch up, I honestly don't know.
+
+  **Presenter:** Finally, what would you say to someone who's just inherited a painting that they suspect might be valuable?
+
+  **Clare:** Don't clean it, whatever you do. You wouldn't believe how much damage well-meaning people do with a damp cloth. And don't assume an auction house will tell you what you want to hear. Get an independent opinion. And be prepared for disappointment, because it isn't often that somebody's attic produces a masterpiece. Although it does happen. Not often. But it does.
+
+  **Presenter:** Doctor Clare Whitlock, thank you very much.
+items:
+  - q: "What does Clare say about the painting she studied for her doctorate?"
+    options: ["She was the first person to suspect it was a fake.", "Scientific tests on the paint revealed its true age.", "She was surprised she had missed such an obvious clue.", "She realised the brushwork was not from the period."]
+    answer: 2
+    explain: "*how could I not have seen that? I'd been so focused on the brushwork that I hadn't once looked at the back* — отрицательный вопрос-упрёк себе. Заметил подделку техник, а не она."
+  - q: "What is Clare's view of museums that hide forgeries?"
+    options: ["She understands their motives but thinks they are wrong.", "She believes they are right to protect their reputation.", "She thinks they should face legal consequences.", "She doubts that many museums actually do this."]
+    answer: 0
+    explain: "*I do understand why. But I'm by no means convinced it's the right approach* — понимание + усиленное отрицание (*by no means* = «ничуть»)."
+  - q: "According to Clare, why do forgeries often go undetected?"
+    options: ["Scientific tests are too expensive for most museums.", "Experts are reluctant to spoil an exciting discovery.", "Forgers use paints that cannot be dated.", "New techniques take years to be accepted."]
+    answer: 1
+    explain: "*the real weakness… isn't technical at all. It's psychological. Nobody wants to be the person who announces that the exciting discovery is a fake.* Наука, по её словам, *far from useless*."
+  - q: "What is Clare's attitude towards forgers?"
+    options: ["She secretly admires their creativity.", "She thinks they are less skilled than people assume.", "She finds them more interesting than the artists they copy.", "She accepts they are skilful but denies they are real artists."]
+    answer: 3
+    explain: "*Some of them are extraordinarily skilled, I wouldn't deny that… But they're not artists in any sense I'd recognise.* *I wouldn't deny* — признание через отрицание."
+  - q: "What concern does Clare express about online sales?"
+    options: ["Auction houses are losing business to websites.", "Online databases of paintings are often inaccurate.", "Large numbers of questionable works are being sold very fast.", "Buyers usually pay far more than paintings are worth."]
+    answer: 2
+    explain: "*Never have so many doubtful pictures changed hands so quickly* — инверсия после *never* выделяет главную тревогу. Сравнение по базам — плюс интернета, а не проблема."
+  - q: "What does Clare imply in her final piece of advice?"
+    options: ["Most inherited paintings have no value at all.", "Auction houses are generally dishonest.", "Valuable discoveries are possible, but unlikely.", "Owners should clean a painting before it is valued."]
+    answer: 2
+    explain: "*it isn't often that somebody's attic produces a masterpiece. Although it does happen. Not often.* — эмфатическое *does*: бывает, но редко. Аукционам она советует не доверять слепо, а не называет их нечестными."

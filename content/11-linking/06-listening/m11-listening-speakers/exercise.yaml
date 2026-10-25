@@ -1,0 +1,39 @@
+title: "Part 3: Learning a language as an adult"
+type: listening
+intro: "Пять человек рассказывают, как начали учить иностранный язык уже взрослыми. Для каждого говорящего выбери утверждение A–F. Одно утверждение лишнее."
+hints:
+  - "Говорящие упоминают и чужие утверждения — часто чтобы их опровергнуть."
+  - "Слушай, что идёт после although, whereas, despite: главное — там."
+audio: audio/tts/11/speakers.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-ThomasNeural, en-GB-RyanNeural, en-AU-NatashaNeural, en-US-AndrewNeural, en-GB-LibbyNeural, en-IE-ConnorNeural", license: "TTS"}
+transcript: |
+  **Speaker 1:** I started Japanese three years ago, and people always ask how I find the time. The answer is, I don't, really. Although I work about sixty hours a week, I do twenty minutes on the train every morning, and that's it. It doesn't sound like much. However, twenty minutes a day adds up, and last spring I passed my second exam. People keep asking whether I'll try Korean next. Not a chance. One language is quite enough.
+
+  **Speaker 2:** My grandmother came to Melbourne from Sicily when she was nineteen, and she never really learnt English. Whereas my mum grew up speaking both languages, I only knew a few words of Italian, so I could never talk to my nonna properly. It certainly wasn't for practical reasons that I started. Italian isn't much use in my job. But last Christmas I told her a long, terrible joke in Italian, and she laughed so much that she cried.
+
+  **Speaker 3:** For me it was purely a career decision. My company opened an office in Mexico City, and I wanted to be the person they sent there, so I started Spanish in order to have a better chance. I took evening classes twice a week, and to be honest, they helped a lot, because I needed the grammar. Six months later I got the job. These days I'm in meetings in Spanish most mornings, though I still make plenty of mistakes.
+
+  **Speaker 4:** I'd done German at school and loved it, so when I moved to Berlin I signed up for a conversation class. Little did I know what I was getting into. On the first evening the teacher made fun of my accent in front of everyone, and I walked out. It wasn't until a year later that I went back to a different school. Despite that start, I'm now almost fluent, and I've even started teaching English to German speakers.
+
+  **Speaker 5:** I moved to Lisbon for the weather, not the language, and I did a three-month Portuguese course as soon as I arrived. It was fine, but what really made the difference wasn't the course. It was my neighbours. They're a retired couple, and they speak no English whatsoever, so every coffee with them was a lesson. People back home keep telling me I should learn Irish properly now, too, but honestly, I've no plans to.
+items:
+  - q: "Speaker 1"
+    options: ["A. The speaker has made progress despite having very little free time.", "B. The speaker chose the language for practical reasons.", "C. The speaker found conversation more useful than lessons.", "D. The speaker was motivated by a family connection.", "E. The speaker stopped for a while after a bad experience.", "F. The speaker is now planning to learn another language."]
+    answer: 0
+    explain: "*Although I work about sixty hours a week, I do twenty minutes on the train… However, twenty minutes a day adds up.* Ловушка — F: *whether I'll try Korean next. Not a chance.*"
+  - q: "Speaker 2"
+    options: ["A. The speaker has made progress despite having very little free time.", "B. The speaker chose the language for practical reasons.", "C. The speaker found conversation more useful than lessons.", "D. The speaker was motivated by a family connection.", "E. The speaker stopped for a while after a bad experience.", "F. The speaker is now planning to learn another language."]
+    answer: 3
+    explain: "*I could never talk to my nonna properly* — бабушка с Сицилии. Ловушка — B: *It certainly wasn't for practical reasons that I started* — cleft sentence прямо отрицает этот вариант."
+  - q: "Speaker 3"
+    options: ["A. The speaker has made progress despite having very little free time.", "B. The speaker chose the language for practical reasons.", "C. The speaker found conversation more useful than lessons.", "D. The speaker was motivated by a family connection.", "E. The speaker stopped for a while after a bad experience.", "F. The speaker is now planning to learn another language."]
+    answer: 1
+    explain: "*it was purely a career decision… I started Spanish in order to have a better chance* — *in order to* называет цель. Ловушка — C: занятия *helped a lot*."
+  - q: "Speaker 4"
+    options: ["A. The speaker has made progress despite having very little free time.", "B. The speaker chose the language for practical reasons.", "C. The speaker found conversation more useful than lessons.", "D. The speaker was motivated by a family connection.", "E. The speaker stopped for a while after a bad experience.", "F. The speaker is now planning to learn another language."]
+    answer: 4
+    explain: "*the teacher made fun of my accent… and I walked out. It wasn't until a year later that I went back.* *Little did I know* — инверсия: «я и не подозревала». *Despite that start* — о плохом начале, а не о нехватке времени."
+  - q: "Speaker 5"
+    options: ["A. The speaker has made progress despite having very little free time.", "B. The speaker chose the language for practical reasons.", "C. The speaker found conversation more useful than lessons.", "D. The speaker was motivated by a family connection.", "E. The speaker stopped for a while after a bad experience.", "F. The speaker is now planning to learn another language."]
+    answer: 2
+    explain: "*what really made the difference wasn't the course. It was my neighbours.* Cleft sentence выделяет главное. Ловушка — F: *learn Irish… I've no plans to*."

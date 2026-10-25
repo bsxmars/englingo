@@ -1,0 +1,47 @@
+title: "Диктант: сложные формы инфинитива и герундия"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения (isn't / is not) засчитываются в обе стороны."
+hints:
+  - "Слабые have и been внутри инфинитива и герундия легко пропустить: to have been, having been, being kept."
+  - "После предлога — всегда -ing: without acknowledging, of asking."
+items:
+  - audio: audio/tts/c1-10/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-JennyNeural", license: "TTS"}
+    answers: ["She seems to have been working on that novel for years."]
+    explain: "«Похоже, она уже много лет работает над этим романом». Перфектный длительный инфинитив *to have been working*: действие началось давно и длится."
+  - audio: audio/tts/c1-10/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-ThomasNeural", license: "TTS"}
+    answers: ["I regret not having taken the job when it was offered to me."]
+    explain: "«Жалею, что не согласился на ту работу, когда мне её предлагали». *regret not having done* — перфектный герундий с отрицанием: *not* стоит перед ним."
+  - audio: audio/tts/c1-10/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-AU-NatashaNeural", license: "TTS"}
+    answers: ["Nobody likes being kept waiting, especially without an explanation."]
+    explain: "«Никто не любит, когда его заставляют ждать, особенно без объяснений». Пассивный герундий *being kept waiting*: ждать заставляют другие."
+  - audio: audio/tts/c1-10/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural", license: "TTS"}
+    answers: ["It was very kind of you to have waited for us."]
+    explain: "«Очень мило с вашей стороны, что вы нас подождали». *It is kind **of** you to…* — оценка человека (*of*, а не *for*); перфектный инфинитив — действие уже совершено."
+  - audio: audio/tts/c1-10/s5.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-AndrewNeural", license: "TTS"}
+    answers: ["Having been warned about the traffic, we left an hour early.", "Having been warned about the traffic, we left 1 hour early."]
+    explain: "«Нас предупредили о пробках, и мы выехали на час раньше». *Having been warned* — перфектный пассивный герундий в роли причастного оборота: предупредили до отъезда."
+  - audio: audio/tatoeba/956390.mp3
+    audio_source: {title: "Tatoeba #312708", url: "https://tatoeba.org/en/sentences/show/312708", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["She hurried to the station only to miss the train."]
+    explain: "«Она спешила на вокзал — и всё равно опоздала на поезд». *only to do* — не цель, а неожиданный и досадный результат."
+  - audio: audio/tatoeba/1285474.mp3
+    audio_source: {title: "Tatoeba #12328433", url: "https://tatoeba.org/en/sentences/show/12328433", author: "rul", license: "CC BY 4.0"}
+    answers: ["Being introverted isn't a defect.", "Being introverted is not a defect."]
+    explain: "«Быть интровертом — не недостаток». Герундий *Being introverted* — подлежащее; глагол после него в единственном числе."
+  - audio: audio/tatoeba/1285286.mp3
+    audio_source: {title: "Tatoeba #314245", url: "https://tatoeba.org/en/sentences/show/314245", author: "rul", license: "CC BY 4.0"}
+    answers: ["She walked away without acknowledging me."]
+    explain: "«Она ушла, даже не поздоровавшись со мной». *without + -ing*; *acknowledge sb* — подать знак, что заметил человека."
+  - audio: audio/tatoeba/943795.mp3
+    audio_source: {title: "Tatoeba #58465", url: "https://tatoeba.org/en/sentences/show/58465", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["You cannot read this novel without crying.", "You can't read this novel without crying."]
+    explain: "«Этот роман невозможно читать без слёз». Обобщённое *you* + *without crying* — «не плача»."
+  - audio: audio/tatoeba/978121.mp3
+    audio_source: {title: "Tatoeba #249826", url: "https://tatoeba.org/en/sentences/show/249826", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["I couldn't afford it. In other words, I was too poor to buy it.", "I could not afford it. In other words, I was too poor to buy it."]
+    explain: "«Мне это было не по карману. Иначе говоря, я был слишком беден, чтобы это купить». *too + прилагательное + to do*; после *afford* — тоже инфинитив (*afford to buy*)."

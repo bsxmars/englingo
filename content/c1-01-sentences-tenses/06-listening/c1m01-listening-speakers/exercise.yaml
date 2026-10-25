@@ -1,0 +1,59 @@
+title: "Part 4: Changing course"
+type: listening
+intro: "Пять человек рассказывают о том, как сменили профессию во взрослом возрасте. **Задание 1** (пункты 1–5): что подтолкнуло каждого к переменам? **Задание 2** (пункты 6–10): что каждый чувствует сейчас? В каждом задании три варианта лишние."
+hints:
+  - "Каждый говорящий упоминает несколько вариантов — ищи причину, а не фон."
+  - "Чувство «сейчас» звучит в настоящих временах и выводах в конце монолога."
+audio: audio/tts/c1-01/speakers.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural, en-AU-NatashaNeural, en-GB-ThomasNeural, en-US-JennyNeural, en-IE-ConnorNeural, en-GB-LibbyNeural", license: "TTS"}
+transcript: |
+  **Speaker 1:** I'd been working as an accountant for nearly twenty years, and I wouldn't have said I was unhappy. Then, at a friend's wedding, I was seated next to a woman who restored old boats for a living. We talked for about three hours, and by the end of the evening I'd more or less made up my mind. It still seems slightly absurd that one dinner should have changed everything. These days I spend my mornings sanding wood in a cold workshop, and what's caught me off guard is how much I love the sameness of it. I always used to think routine was the enemy. It turns out it was just the wrong routine.
+
+  **Speaker 2:** When the bank closed our regional office, I was offered a transfer to London, and I turned it down. My father had been unwell for some time, and I didn't want to be four hours away from him, so that more or less settled it. I retrained as a maths teacher, which at forty-six felt rather like going back to school myself. The salary is a fraction of what it was, and I won't pretend that hasn't been hard. But I'm about to finish my second year, and I've just been asked to run the department's exam preparation. Nobody had asked me to run anything for years. I'm rather pleased with myself, to be honest.
+
+  **Speaker 3:** I'd always assumed I would be a lawyer until I retired. It simply never occurred to me that there was a choice. Then I spent ten days in hospital after a cycling accident. Nothing life-threatening, as it turned out, but it gave me a lot of time to think, and to watch the nurses at work. I started my nursing degree eighteen months later. People expect me to say it's exhausting, and it is. But mostly I keep thinking about all those years I spent drafting contracts I didn't care about. If I'd been braver at twenty-five, I'd have been doing this for two decades by now.
+
+  **Speaker 4:** Our company was taken over, and within a year the new owners had turned a place I'd loved into one where nobody could make a decision without three meetings first. I'd been cooking for friends for years, so I signed up for a course at a catering college, partly out of spite, if I'm honest. Three years on, I'm a junior chef in a busy restaurant in Cork. I'm the oldest person in the kitchen by about fifteen years, and the head chef still has me peeling vegetables half the day. I know you've got to put the time in, but I'll be fifty next spring, and I've no intention of still peeling carrots at fifty-five.
+
+  **Speaker 5:** Ever since I was a child I'd wanted to work outdoors, and for years I kept telling myself I'd do it one day. In the end there was no single moment. I just ran out of reasons not to. I now lead walking tours in the Lake District. My friends think it's wonderfully romantic, and on a clear day in June it is. On a wet Tuesday in November, with a group who'd clearly rather be in the pub, I'm less sure. I don't regret it, exactly. I just haven't decided yet whether I've found the right life or simply a different one.
+items:
+  - q: "Task 1 · Speaker 1: what prompted the change?"
+    options: &t1 ["frustration with how a company was being run", "a stay in hospital", "being made redundant", "a long-held ambition", "a chance conversation", "a hobby that had become hard to ignore", "the needs of a family member", "an offer from a former colleague"]
+    answer: 4
+    explain: "*at a friend's wedding, I was seated next to a woman who restored old boats… by the end of the evening I'd more or less made up my mind* — случайный разговор за ужином. Past Perfect *I'd made up my mind* — решение созрело к концу вечера."
+  - q: "Task 1 · Speaker 2: what prompted the change?"
+    options: *t1
+    answer: 6
+    explain: "*My father had been unwell for some time, and I didn't want to be four hours away from him* — причина в отце. Сокращения не было: ему **предложили перевод**, и он отказался, так что *being made redundant* — ловушка."
+  - q: "Task 1 · Speaker 3: what prompted the change?"
+    options: *t1
+    answer: 1
+    explain: "*I spent ten days in hospital… it gave me a lot of time to think, and to watch the nurses* — перемену запустило пребывание в больнице."
+  - q: "Task 1 · Speaker 4: what prompted the change?"
+    options: *t1
+    answer: 0
+    explain: "*the new owners had turned a place I'd loved into one where nobody could make a decision* — недовольство новым руководством. Готовка для друзей — фон (*I'd been cooking for friends for years*), а не причина."
+  - q: "Task 1 · Speaker 5: what prompted the change?"
+    options: *t1
+    answer: 3
+    explain: "*Ever since I was a child I'd wanted to work outdoors* — давняя мечта; *there was no single moment* исключает внешний толчок."
+  - q: "Task 2 · Speaker 1: how does the speaker feel now?"
+    options: &t2 ["impatient to make faster progress", "worried about money", "surprised to enjoy a regular routine", "unsure whether the change was the right one", "amused by how others have reacted", "sorry not to have made the change earlier", "proud to have been trusted with responsibility", "grateful for the support of family"]
+    answer: 2
+    explain: "*what's caught me off guard is how much I love the sameness of it… It turns out it was just the wrong routine* — *catch off guard* «застать врасплох»: удивлена, что рутина нравится."
+  - q: "Task 2 · Speaker 2: how does the speaker feel now?"
+    options: *t2
+    answer: 6
+    explain: "*I've just been asked to run the department's exam preparation… I'm rather pleased with myself* — гордится доверием. Деньги упомянуты (*hasn't been hard*), но это не главное чувство."
+  - q: "Task 2 · Speaker 3: how does the speaker feel now?"
+    options: *t2
+    answer: 5
+    explain: "*If I'd been braver at twenty-five, I'd have been doing this for two decades by now* — смешанное условное: жалеет, что не решилась раньше."
+  - q: "Task 2 · Speaker 4: how does the speaker feel now?"
+    options: *t2
+    answer: 0
+    explain: "*I'll be fifty next spring, and I've no intention of still peeling carrots at fifty-five* — нетерпение: хочет расти быстрее, чем позволяет кухня."
+  - q: "Task 2 · Speaker 5: how does the speaker feel now?"
+    options: *t2
+    answer: 3
+    explain: "*I just haven't decided yet whether I've found the right life or simply a different one* — сомнение. Реакция друзей (*wonderfully romantic*) упомянута, но не забавляет её — ловушка."

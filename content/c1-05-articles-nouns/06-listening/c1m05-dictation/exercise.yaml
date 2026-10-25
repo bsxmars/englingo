@@ -1,0 +1,47 @@
+title: "Диктант: артикли и существительные на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения засчитываются в обе стороны."
+hints:
+  - "Артикли безударны: a звучит как [ə], the — как [ðə] или [ði] перед гласной. Не пропускай их."
+  - "Проверь согласование: family, police, staff могут требовать глагол во множественном."
+items:
+  - audio: audio/tts/c1-05/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-SoniaNeural", license: "TTS"}
+    answers: ["My family are all coming over for dinner on Sunday."]
+    explain: "«В воскресенье вся моя семья приедет на ужин». В британском *family* как группа людей — с глаголом во множественном, особенно с *all*."
+  - audio: audio/tts/c1-05/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural", license: "TTS"}
+    answers: ["She was taken to hospital after a two-hour wait for an ambulance.", "She was taken to hospital after a 2-hour wait for an ambulance."]
+    explain: "«Её увезли в больницу после двухчасового ожидания скорой». *to hospital* — как пациентку, без артикля; *a two-hour wait* — составное определение, *hour* без *-s*."
+  - audio: audio/tts/c1-05/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-LibbyNeural", license: "TTS"}
+    answers: ["The rich don't always pay their fair share of tax.", "The rich do not always pay their fair share of tax."]
+    explain: "«Богатые не всегда платят свою справедливую долю налогов». *the* + прилагательное — группа людей, глагол во множественном."
+  - audio: audio/tts/c1-05/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-ThomasNeural", license: "TTS"}
+    answers: ["We took the night train across the Alps and arrived in Milan at dawn."]
+    explain: "«Мы поехали ночным поездом через Альпы и на рассвете были в Милане». *the Alps* — горная цепь с *the*, *Milan* — город без артикля, *at dawn* — устойчивое без артикля."
+  - audio: audio/tts/c1-05/s5.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-AndrewNeural", license: "TTS"}
+    answers: ["Life in the city isn't as peaceful as the life my grandparents described.", "Life in the city is not as peaceful as the life my grandparents described."]
+    explain: "«Жизнь в городе не так спокойна, как та жизнь, о которой рассказывали бабушка с дедушкой». *Life* в общем — без артикля, *the life* + придаточное — конкретная."
+  - audio: audio/tatoeba/962026.mp3
+    audio_source: {title: "Tatoeba #238248", url: "https://tatoeba.org/en/sentences/show/238248", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["The police usually close their eyes to cars parked on the street."]
+    explain: "«Полиция обычно закрывает глаза на машины, припаркованные на улице». *The police* — всегда множественное: *close*, *their*."
+  - audio: audio/tatoeba/1099958.mp3
+    audio_source: {title: "Tatoeba #60744", url: "https://tatoeba.org/en/sentences/show/60744", author: "Them", license: "CC BY 4.0"}
+    answers: ["This news is new to me."]
+    explain: "«Это для меня новость». *news* — неисчисляемое, несмотря на *-s*: *this news is*, а не *these news are*."
+  - audio: audio/tatoeba/1123750.mp3
+    audio_source: {title: "Tatoeba #819891", url: "https://tatoeba.org/en/sentences/show/819891", author: "Them", license: "CC BY 4.0"}
+    answers: ["He was a friend of mine."]
+    explain: "«Это был мой друг» (один из друзей). Double possessive *a friend of mine* — не *a my friend* и не *a friend of me*."
+  - audio: audio/tatoeba/1115353.mp3
+    audio_source: {title: "Tatoeba #7976264", url: "https://tatoeba.org/en/sentences/show/7976264", author: "Them", license: "CC BY 4.0"}
+    answers: ["Her father was a policeman."]
+    explain: "«Её отец был полицейским». Профессия после *be* — с *a/an*: классификация, к какой группе относится человек."
+  - audio: audio/tatoeba/951207.mp3
+    audio_source: {title: "Tatoeba #274825", url: "https://tatoeba.org/en/sentences/show/274825", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["A lot of clients come to the lawyer for advice."]
+    explain: "«Многие клиенты приходят к этому юристу за советом». *advice* — неисчисляемое, без *an*; *the lawyer* — известный из контекста."

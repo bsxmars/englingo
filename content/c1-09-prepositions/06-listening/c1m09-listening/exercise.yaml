@@ -1,0 +1,63 @@
+title: "Part 3: A night on the mountain"
+type: listening
+intro: "Послушай радиоинтервью с Кирсти Роу, волонтёром горноспасательной службы, и выбери ответ. Вопросы идут по порядку записи."
+hints:
+  - "Все четыре варианта звучат правдоподобно: ищи тот, что совпадает с позицией самой Кирсти, а не с тем, что «думают все»."
+  - "I wouldn't go that far — частичное несогласие: говорящий принимает идею, но с оговоркой."
+audio: audio/tts/c1-09/interview.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural, en-AU-NatashaNeural", license: "TTS"}
+transcript: |
+  **Presenter:** My guest today is Kirsty Rowe, who has been a volunteer with a mountain rescue team in the Scottish Highlands for almost a decade. Kirsty, you grew up in Australia. How did you end up on a Scottish mountain at three in the morning?
+
+  **Kirsty:** Well, it certainly wasn't part of a plan. I came over on a working holiday, and I was only meant to stay for a year. I got a job in a hotel at the foot of a mountain, and one night a couple of walkers came off the hill soaking wet, well after dark. The rescue team had brought them down, and I made everyone tea in the kitchen. I got talking to the team leader, and by the end of the night I'd more or less signed up.
+
+  **Presenter:** Just like that?
+
+  **Kirsty:** Not quite. The training takes about eighteen months, and you're on probation throughout. There's navigation, first aid, rope work. But what struck me that first night was that none of them were being paid. They'd come straight from their day jobs: a plumber, a teacher, a vet. I found that extraordinary, and I still do.
+
+  **Presenter:** People might imagine that most of your call-outs involve dramatic rescues off cliffs.
+
+  **Kirsty:** That's what everyone assumes. In reality, the majority are people who've simply lost their way. They've set off along a path in good weather, the cloud has come down, and suddenly they can't see more than ten metres in front of them. And very often they're relying on a phone, which runs out of battery just when they need it most.
+
+  **Presenter:** So is technology the problem?
+
+  **Kirsty:** I wouldn't go that far. Phones save lives, there's no doubt about that. A walker who can send us their location saves us hours of searching. The problem is that people use them instead of a map rather than as well as one. If you can't read the ground around you, a blue dot on a screen won't tell you there's a river between you and the car park.
+
+  **Presenter:** Tell me about a rescue that's stayed with you.
+
+  **Kirsty:** There was one, about four years ago, in the middle of January. A man had gone out alone, and his wife reported him missing when he hadn't come back by six. We searched through the night. By about four in the morning, most of us had privately given up hope, though nobody said so out loud. And then one of our dogs found him, curled up under a rock, about two hundred metres off the path. He was very cold, but he was talking. What I remember most isn't the moment we found him, though. It's his wife at the hospital, thanking every single one of us, one by one, including the dog.
+
+  **Presenter:** Does the work take its toll on you personally?
+
+  **Kirsty:** It does, sometimes. Not every story ends like that one. The team's very good about talking things through afterwards, and we look out for each other. But I'd be lying if I said I never lie awake after a bad call-out. My partner has got used to me jumping out of bed in the middle of the night, though I'm not sure he'd say he's ever got used to waiting up for me.
+
+  **Presenter:** Finally, what advice would you give to anyone heading into the hills this weekend?
+
+  **Kirsty:** Three things. Tell someone where you're going and when you'll be back. Take a paper map and a compass, and know how to use them. And, above all, be prepared to turn back. The mountain will still be there next week. A lot of the people we bring down got into trouble because they pressed on when every sign was telling them not to. Turning back isn't a failure. It's a decision.
+
+  **Presenter:** Kirsty Rowe, thank you.
+items:
+  - q: "What first attracted Kirsty to mountain rescue?"
+    options: ["She wanted a job that would keep her outdoors.", "She was impressed that the team worked without pay.", "The hotel asked her to help the rescue team.", "She had been rescued from the mountain herself."]
+    answer: 1
+    explain: "*What struck me that first night was that none of them were being paid… I found that extraordinary.* Спасали не её, а других туристов; в отеле она просто готовила чай."
+  - q: "According to Kirsty, most call-outs involve walkers who"
+    options: ["have fallen from steep cliffs.", "became lost when visibility suddenly got worse.", "set off without telling anyone where they were going.", "were injured on the way down."]
+    answer: 1
+    explain: "*The majority are people who've simply lost their way… the cloud has come down.* Падения со скал — *what everyone assumes*, то есть распространённое заблуждение."
+  - q: "What is Kirsty's view of mobile phones in the mountains?"
+    options: ["They have made rescue work more difficult.", "They are helpful as long as they do not replace a map.", "Walkers would be safer leaving them at home.", "They are too unreliable to be worth carrying."]
+    answer: 1
+    explain: "*People use them instead of a map rather than as well as one.* Предлоги — суть мнения: *instead of* (вместо) — плохо, *as well as* (вместе с) — хорошо. *I wouldn't go that far* отвергает идею, что телефоны — проблема."
+  - q: "What does Kirsty remember most clearly about the January rescue?"
+    options: ["The moment the dog found the missing man.", "How close the team came to giving up.", "The way the man's wife thanked the team.", "The poor physical state the man was in."]
+    answer: 2
+    explain: "*What I remember most isn't the moment we found him, though. It's his wife at the hospital, thanking every single one of us.* Момент находки прямо отвергнут."
+  - q: "What does Kirsty suggest about her partner?"
+    options: ["He finds the nights she is away hard to cope with.", "He would like her to give up rescue work.", "He has learnt to sleep through her call-outs.", "He has started helping the team himself."]
+    answer: 0
+    explain: "*I'm not sure he'd say he's ever got used to waiting up for me.* Привык он только к тому, что она вскакивает ночью; ждать её — по-прежнему тяжело. *wait up for sb* — не ложиться, дожидаясь."
+  - q: "What does Kirsty consider the most important piece of advice?"
+    options: ["Let someone know your route and return time.", "Carry a paper map and a compass.", "Be willing to abandon a walk if necessary.", "Check the weather forecast before setting off."]
+    answer: 2
+    explain: "*And, above all, be prepared to turn back.* *above all* выделяет главный совет из трёх. *pressed on* — упорно шли дальше, *turn back* — повернуть назад."

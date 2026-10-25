@@ -1,0 +1,30 @@
+# pause: 500
+E: Part one. You will hear people talking in six different situations.
+E: Number one. You hear a couple talking about some keys.
+B: I can't find the car keys anywhere. I had them when we got back from the shops.
+G: Then they must be in the house somewhere. Have you checked your coat?
+B: Twice. You can't have taken them by mistake, can you?
+G: No, I haven't been near the car all day. Oh, hang on. What's that on top of the fridge?
+B: You're joking. I must have put them down while I was unpacking the shopping.
+E: Number two. You hear a man telling a colleague about a training course.
+A: So how was the safety course?
+F: A total waste of a Saturday. I needn't have gone at all. It turns out that if you've already got the certificate, you don't have to do it again for another two years.
+A: Didn't anyone tell you?
+F: Well, HR said everyone had to go. They should have checked the list first.
+E: Number three. You hear a girl asking her father about a party.
+C: Dad, can I go to Emma's party on Saturday? Everyone's allowed to stay till midnight.
+D: Everyone? I doubt it. You can go, but you have to be home by eleven, and you mustn't walk back on your own.
+C: Emma's mum could drive me.
+D: Fine. If she drives you, half past eleven. That's my final offer.
+E: Number four. You hear a man talking about a job interview.
+H: It went OK, I suppose. They asked about my last project, and I managed to explain it quite clearly. But then they asked why I wanted to leave my current job, and I just froze. I should have prepared something for that. It's the most obvious question in the world! I could have said I wanted a bigger team. Oh well.
+E: Number five. You hear two friends deciding where to eat.
+G: Shall we try that new Thai place on Bridge Street?
+F: We could, but we'd never get a table. It's Friday night. It must be packed by now.
+G: Not necessarily. It only opened on Tuesday, so not many people can know about it yet.
+F: Maybe. Why don't we ring them first? If they can't fit us in, we'll go for a pizza.
+E: Number six. You hear a woman telling a friend about her driving test.
+H: So, did you pass in the end?
+A: I did! Third time lucky. The first time I couldn't even get out of the car park. The second time I was fine until the parking. This time I managed to park perfectly, first go.
+H: What changed?
+A: My instructor made me practise parking in every lesson for a month. I hated it, but it worked.

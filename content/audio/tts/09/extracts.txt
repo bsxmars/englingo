@@ -1,0 +1,27 @@
+# pause: 650
+B: One. You hear a man phoning a hotel. What does he want to do?
+F: Hi, I'm checking out of the hotel on Friday morning, but my flight isn't until the evening. Is there anywhere I could leave my luggage for a few hours? It's only one suitcase and a small bag.
+C: Of course. We have a storage room next to reception, and there's no charge for guests.
+F: Great. And would you have any information about buses to the airport?
+C: There's a leaflet at the desk. The bus leaves every half hour.
+B: Two. You hear a woman talking about her new job. What does she say about her colleagues?
+G: It's a small office, so there are only a few people in my team, and to be honest, few of them are my age. Most of them have children at university! But each of them has been really kind. Someone even brought me a cake on my first day.
+B: Three. You hear an announcement about a music festival. What has changed?
+A: This is an announcement for everyone with tickets for this weekend's festival. Because of the heavy rain, all of the concerts will now take place in the castle grounds instead of in Riverside Park. None of the times have changed, and every ticket is still valid.
+B: Four. You hear two friends talking. Why did the woman go to the hospital today?
+H: How's your dad? Is he still in hospital?
+C: No, he came home on Tuesday, thank goodness. I went to the hospital this morning, though, because he'd left his glasses and his phone by the bed.
+H: Typical!
+C: I know. He'd lose his head if it wasn't screwed on.
+B: Five. You hear two flatmates talking about a party. What do they still need to buy?
+E: Right, have we got everything for tonight?
+F: We've got plenty of cheese, and there's a lot of juice left from last time.
+E: What about bread?
+F: Hmm, there's hardly any. A couple of slices. I'll pick some up on the way back from the gym.
+B: Six. You hear a woman talking about a holiday. Where did she spend most of her time?
+A: The plan was to fly to Geneva and then spend the week walking in the Alps. But the weather in the mountains was awful, so we only managed one day up there. In the end we stayed by Lake Geneva for the rest of the week, swimming and eating far too much chocolate. We hardly saw the city at all.
+B: Seven. You hear two students talking about a reading list. Why haven't they got the books?
+H: Have you managed to get either of the books Dr Lewis recommended?
+E: Neither, I'm afraid. The library has both of them, but someone's already borrowed them.
+H: Can't we just buy them?
+E: The bookshop wants forty pounds each. I've put my name on the waiting list instead.

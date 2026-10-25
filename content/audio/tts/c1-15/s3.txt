@@ -1,0 +1,2 @@
+# rate: -5%
+C: Once submitted, the application cannot be changed, so check it carefully.

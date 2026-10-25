@@ -1,0 +1,47 @@
+title: "Диктант: модальные на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения (can't / cannot) засчитываются в обе стороны."
+hints:
+  - "В быстрой речи have после модального звучит как [əv]: must've, should've, can't've. Пиши have."
+  - "mustn't и needn't: t в середине почти не слышно."
+items:
+  - audio: audio/tts/03/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural", license: "TTS"}
+    answers: ["You don't have to come to the meeting, but you mustn't miss the deadline."]
+    explain: "«Приходить на совещание не обязательно, но пропускать срок нельзя». *don't have to* — нет необходимости, *mustn't* — запрет."
+  - audio: audio/tts/03/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-JennyNeural", license: "TTS"}
+    answers: ["She can't have forgotten about the party. I reminded her this morning."]
+    explain: "«Не может быть, чтобы она забыла о вечеринке: я напомнила ей утром». *can't have* + V3 — уверенный отрицательный вывод о прошлом."
+  - audio: audio/tts/03/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural", license: "TTS"}
+    answers: ["In the end we managed to get the last two tickets.", "In the end we managed to get the last 2 tickets."]
+    explain: "«В итоге нам удалось достать два последних билета». Удалось в конкретной ситуации — *managed to*, а не *could*."
+  - audio: audio/tts/03/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-LibbyNeural", license: "TTS"}
+    answers: ["You should have told me you were coming."]
+    explain: "«Надо было сказать мне, что ты приедешь». *should have* + V3 — упрёк: не сказал, а следовало."
+  - audio: audio/tts/03/s5.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-AndrewNeural", license: "TTS"}
+    answers: ["Would you mind closing the window? It might rain later."]
+    explain: "«Не могли бы вы закрыть окно? Позже может пойти дождь». *Would you mind* + **-ing** — вежливая просьба; *might* — возможность."
+  - audio: audio/tatoeba/962022.mp3
+    audio_source: {title: "Tatoeba #69370", url: "https://tatoeba.org/en/sentences/show/69370", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["You needn't have taken an umbrella with you.", "You need not have taken an umbrella with you."]
+    explain: "«Зря ты взял зонт: он был не нужен». *needn't have* + V3 — зонт взяли, но напрасно; *didn't need to take* значило бы, что, скорее всего, не брали."
+  - audio: audio/tatoeba/1285339.mp3
+    audio_source: {title: "Tatoeba #7023619", url: "https://tatoeba.org/en/sentences/show/7023619", author: "rul", license: "CC BY 4.0"}
+    answers: ["I might have forgotten my keys."]
+    explain: "«Возможно, я забыл ключи». *might have* + V3 — неуверенное предположение о прошлом; *must have* было бы «наверняка забыл»."
+  - audio: audio/tatoeba/1099910.mp3
+    audio_source: {title: "Tatoeba #53166", url: "https://tatoeba.org/en/sentences/show/53166", author: "Them", license: "CC BY 4.0"}
+    answers: ["Jack isn't here. He may have missed his usual bus.", "Jack is not here. He may have missed his usual bus."]
+    explain: "«Джека нет. Возможно, он опоздал на свой обычный автобус». *may have* + V3 — неуверенное предположение о прошлом."
+  - audio: audio/tatoeba/1285229.mp3
+    audio_source: {title: "Tatoeba #51562", url: "https://tatoeba.org/en/sentences/show/51562", author: "rul", license: "CC BY 4.0"}
+    answers: ["Mr. Smith should have told the truth.", "Mr Smith should have told the truth."]
+    explain: "«Мистеру Смиту следовало сказать правду». *should have told* — не сказал, а надо было."
+  - audio: audio/tatoeba/1073690.mp3
+    audio_source: {title: "Tatoeba #242261", url: "https://tatoeba.org/en/sentences/show/242261", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["This morning the weather was so bad that I had to take a taxi."]
+    explain: "«Утром погода была такая плохая, что пришлось взять такси». *had to* — прошедшее от *must / have to*: вынужденность в прошлом."

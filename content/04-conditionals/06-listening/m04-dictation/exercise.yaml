@@ -1,0 +1,47 @@
+title: "Диктант: условные на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения (I'd / I would, hadn't / had not) засчитываются в обе стороны."
+hints:
+  - "'d — это had или would. После 'd идёт V3 — значит had; глагол в начальной форме или have — значит would."
+  - "would have в быстрой речи звучит как [wʊdəv] или даже [ədəv]."
+items:
+  - audio: audio/tts/04/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-ThomasNeural", license: "TTS"}
+    answers: ["If I had known about the traffic, I would have left earlier."]
+    explain: "«Если бы я знал о пробках, выехал бы раньше». Третий тип: *If* + Past Perfect, *would have* + V3 — о прошлом, которого не изменить."
+  - audio: audio/tts/04/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-AU-NatashaNeural", license: "TTS"}
+    answers: ["Unless you book a table, you won't get in on a Saturday night."]
+    explain: "«Если не забронировать столик, в субботу вечером туда не попасть». *unless* = *if… not*; после него Present Simple, не *will*."
+  - audio: audio/tts/04/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-JennyNeural", license: "TTS"}
+    answers: ["I wish I didn't have to work this weekend."]
+    explain: "«Жаль, что в эти выходные мне надо работать». *wish* + Past Simple — недовольство настоящим."
+  - audio: audio/tts/04/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural", license: "TTS"}
+    answers: ["Take an umbrella with you in case it starts raining.", "Take an umbrella with you in case it starts to rain."]
+    explain: "«Возьми зонт на случай, если пойдёт дождь». *in case* — на всякий случай, заранее; *if* значило бы «возьми, только когда пойдёт»."
+  - audio: audio/tts/04/s5.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural", license: "TTS"}
+    answers: ["If she hadn't missed the bus, she wouldn't be stuck here now.", "If she had not missed the bus, she would not be stuck here now."]
+    explain: "«Если бы она не опоздала на автобус, не застряла бы здесь сейчас». Смешанное условное: прошлое (*hadn't missed*) → настоящее (*wouldn't be… now*)."
+  - audio: audio/tatoeba/1055394.mp3
+    audio_source: {title: "Tatoeba #283301", url: "https://tatoeba.org/en/sentences/show/283301", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["If he had been a little more careful, the accident would have been avoided."]
+    explain: "«Будь он чуть осторожнее, аварии удалось бы избежать». Третий тип с пассивом в главной части: *would have been avoided*."
+  - audio: audio/tatoeba/978059.mp3
+    audio_source: {title: "Tatoeba #24822", url: "https://tatoeba.org/en/sentences/show/24822", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["You can wear my scarf as long as you don't spill anything on it.", "You can wear my scarf as long as you do not spill anything on it."]
+    explain: "«Можешь надеть мой шарф, только ничего на него не пролей». *as long as* — «при условии, что»."
+  - audio: audio/tatoeba/997125.mp3
+    audio_source: {title: "Tatoeba #66917", url: "https://tatoeba.org/en/sentences/show/66917", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["He'll have an accident one of these days if he keeps driving like that.", "He will have an accident one of these days if he keeps driving like that."]
+    explain: "«Если он и дальше будет так ездить, однажды попадёт в аварию». Первый тип: *will* в главной части, Present Simple после *if*."
+  - audio: audio/tatoeba/1285256.mp3
+    audio_source: {title: "Tatoeba #282882", url: "https://tatoeba.org/en/sentences/show/282882", author: "rul", license: "CC BY 4.0"}
+    answers: ["If only he had been there."]
+    explain: "«Если бы только он был там». *If only* + Past Perfect — сожаление о прошлом, сильнее, чем *I wish*."
+  - audio: audio/tatoeba/1249344.mp3
+    audio_source: {title: "Tatoeba #10246669", url: "https://tatoeba.org/en/sentences/show/10246669", author: "rul", license: "CC BY 4.0"}
+    answers: ["If I were you, I would beg for her forgiveness.", "If I were you, I'd beg for her forgiveness.", "If I was you, I would beg for her forgiveness."]
+    explain: "«На твоём месте я бы попросил у неё прощения». Совет через второй тип: *If I were you* — *were* для всех лиц."

@@ -1,0 +1,47 @@
+title: "Диктант: замена и эллипсис на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения (I'm / I am) засчитываются в обе стороны."
+hints:
+  - "Фраза часто заканчивается вспомогательным глаголом без смыслового: but he isn't, and she did — не жди продолжения."
+  - "one, so, do so заменяют уже сказанное: они звучат безударно и легко теряются."
+items:
+  - audio: audio/tts/c1-07/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-SoniaNeural", license: "TTS"}
+    answers: ["I would love to come to the party, but I am afraid I can't.", "I would love to come to the party, but I'm afraid I cannot."]
+    explain: "«С радостью пришла бы на вечеринку, но, боюсь, не смогу». После *can't* пропущено *come to the party* — эллипсис после модального."
+  - audio: audio/tts/c1-07/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-AndrewNeural", license: "TTS"}
+    answers: ["She said she would finish the report by Friday, and she did."]
+    explain: "«Она сказала, что закончит отчёт к пятнице, и закончила». *and she did* = and she finished it: вспомогательный *did* заменяет всю глагольную группу."
+  - audio: audio/tts/c1-07/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-AU-NatashaNeural", license: "TTS"}
+    answers: ["If you need a bigger box, I can probably find you one."]
+    explain: "«Если нужна коробка побольше, я, наверное, смогу найти». *one* = a bigger box: заменяет исчисляемое существительное в единственном числе."
+  - audio: audio/tts/c1-07/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural", license: "TTS"}
+    answers: ["There seems to be some confusion about who is paying for what.", "There seems to be some confusion about who's paying for what."]
+    explain: "«Похоже, есть путаница, кто за что платит». *There seems to be* — пустое *there* с *seem*: глагол согласуется с *confusion* (ед. число)."
+  - audio: audio/tts/c1-07/s5.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-ThomasNeural", license: "TTS"}
+    answers: ["Fewer people turned up than had been expected."]
+    explain: "«Пришло меньше людей, чем ожидалось». *than had been expected* — эллипсис подлежащего после *than*; без *it* (не *than it had been expected*)."
+  - audio: audio/tatoeba/1158062.mp3
+    audio_source: {title: "Tatoeba #2675072", url: "https://tatoeba.org/en/sentences/show/2675072", author: "Them", license: "CC BY 4.0"}
+    answers: ["I'm a student, but he isn't.", "I am a student, but he is not.", "I'm a student, but he's not."]
+    explain: "«Я студент, а он нет». *he isn't* = he isn't a student: после вспомогательного опущена вся именная часть."
+  - audio: audio/tatoeba/956285.mp3
+    audio_source: {title: "Tatoeba #271171", url: "https://tatoeba.org/en/sentences/show/271171", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["The world history exam proved to be easier than I had expected.", "The world history exam proved to be easier than I'd expected."]
+    explain: "«Экзамен по всемирной истории оказался легче, чем я ожидал». После *expected* опущено *it to be* — сравнительный эллипсис."
+  - audio: audio/tatoeba/1073660.mp3
+    audio_source: {title: "Tatoeba #247635", url: "https://tatoeba.org/en/sentences/show/247635", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["Can you name anyone that we know who is as talented as he is?", "Can you name anyone that we know who's as talented as he is?"]
+    explain: "«Можешь назвать кого-нибудь из знакомых, кто так же талантлив, как он?» В конце *as he is* — *is* нельзя сократить до *'s*: после эллипсиса вспомогательный всегда полный."
+  - audio: audio/tatoeba/1247875.mp3
+    audio_source: {title: "Tatoeba #12993719", url: "https://tatoeba.org/en/sentences/show/12993719", author: "rul", license: "CC BY 4.0"}
+    answers: ["Our dog and cat get on well with each other."]
+    explain: "«Наши собака и кошка прекрасно ладят друг с другом». *each other* — взаимное местоимение; *get on well with* — ладить."
+  - audio: audio/tatoeba/1004939.mp3
+    audio_source: {title: "Tatoeba #250029", url: "https://tatoeba.org/en/sentences/show/250029", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["I've had my ups and downs, but I've always managed to pull myself together.", "I have had my ups and downs, but I have always managed to pull myself together."]
+    explain: "«У меня бывали взлёты и падения, но мне всегда удавалось взять себя в руки». *pull oneself together* — устойчивое выражение с возвратным местоимением."

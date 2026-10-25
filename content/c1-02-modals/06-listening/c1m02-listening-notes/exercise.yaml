@@ -1,0 +1,59 @@
+title: "Part 2: A winter in Antarctica"
+type: listening
+intro: "Послушай рассказ гляциолога о зимовке на антарктической станции и впиши в каждый пропуск одно–три слова, которые прозвучали в записи."
+hints:
+  - "Слово для пропуска звучит дословно; модальные глаголы в задании перефразированы."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/c1-02/talk.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-AndrewNeural", license: "TTS"}
+transcript: |
+  Hi, everyone, and thanks for having me. I'm going to talk about what it's actually like to spend a winter at a research station in Antarctica, because I think most people have a slightly romantic picture of it. I certainly did before I went.
+
+  I was there as a glaciologist, which means I was supposed to spend most of my time measuring how the ice moves. In practice, I spent at least half of it doing jobs that had nothing to do with science. On a station with only twenty-six people over the winter, everyone has to take a turn at everything, including cleaning the kitchen and, yes, the bathrooms.
+
+  Before you're allowed to go, you have to pass a medical and a psychological assessment. The medical I'd expected. The psychological one surprised me at first, but it makes sense. Once the last plane leaves in February, nobody can get in or out until October, so if you can't get along with people, you'd better find out before you go, not after.
+
+  There's also a month of training before you leave. Because there's no fire service, every single person has to be able to fight a fire, and we spent a whole week on that alone. We also learnt basic first aid and how to drive the snow vehicles. I'd never driven anything bigger than a hatchback, so I must have been the slowest learner they'd had in years. The instructor was very patient, or at least he managed to look patient.
+
+  The rules are strict, and they have to be. You mustn't leave the main building on your own, ever, and you must tell the radio operator where you're going and when you expect to be back. If you're more than thirty minutes late, a search team will go out. I was once twenty minutes late because I'd stopped to photograph the aurora, and I can tell you, nobody found that charming.
+
+  People always ask about the cold. It's real, but honestly, you needn't worry about it as much as you'd think. The clothing is excellent. What you do need to worry about is the dark. For about three months the sun doesn't rise at all, and that can do strange things to your sleep. The station doctor recommended that we keep strict meal times, and I'd say that was the single most useful piece of advice I got.
+
+  We could phone home once a week, for fifteen minutes. That might sound like very little, and at first I thought I wouldn't be able to bear it. But it meant that every call really mattered. My partner and I used to write lists beforehand so we wouldn't forget anything.
+
+  Food is another thing people ask about. The fresh fruit and vegetables run out within a few weeks, and after that it's mostly frozen and tinned. We had a small greenhouse, though, and growing lettuce under lamps turned out to be one of the most popular jobs on the station. You might think nobody could get excited about a lettuce. You'd be wrong. When the first salad of the winter appeared, people actually applauded.
+
+  And then, in October, the first plane comes in, and suddenly there are new faces and fresh oranges and noise. You'd think everyone would be desperate to leave. Some of us were. But I remember standing on the ice watching that plane land and feeling something close to resentment, as if strangers were walking into my home.
+
+  So, would I go back? I've been asked to, actually, for next year, and I haven't decided yet. My partner says I ought to go, which may or may not be a hint. But if you're thinking about it yourself, my advice would be this. Don't go for the ice. Go for the people. They're what you'll remember.
+items:
+  - q: "The speaker went to the station to work as a ___."
+    answers: ["glaciologist", "a glaciologist"]
+    explain: "*I was there as a **glaciologist**, which means I was supposed to spend most of my time measuring how the ice moves* — *was supposed to* намекает, что на деле вышло иначе."
+  - q: "Over the winter, the station has a team of only ___ people."
+    answers: ["twenty-six", "26", "twenty six"]
+    explain: "*On a station with only **twenty-six** people over the winter, everyone has to take a turn at everything.*"
+  - q: "Applicants have to pass both a medical and a ___ assessment."
+    answers: ["psychological"]
+    explain: "*you have to pass a medical and a **psychological** assessment* — *have to* — внешнее требование."
+  - q: "Nobody can arrive at or leave the station between February and ___."
+    answers: ["October"]
+    explain: "*Once the last plane leaves in February, nobody can get in or out until **October**.*"
+  - q: "Before going outside, staff must inform the ___."
+    answers: ["radio operator", "the radio operator"]
+    explain: "*you must tell the **radio operator** where you're going* — *must* и *mustn't* здесь — правила станции."
+  - q: "A search team is sent out if someone is more than ___ late."
+    answers: ["thirty minutes", "30 minutes", "thirty", "30", "30 min", "30 mins"]
+    explain: "*If you're more than **thirty minutes** late, a search team will go out.* *Twenty minutes* — ловушка: столько опоздал сам рассказчик."
+  - q: "The speaker was once late after stopping to photograph the ___."
+    answers: ["aurora", "the aurora"]
+    explain: "*I'd stopped to photograph the **aurora**, and… nobody found that charming.*"
+  - q: "According to the speaker, the real problem is not the cold but the ___."
+    answers: ["dark", "the dark"]
+    explain: "*you needn't worry about it as much as you'd think… What you do need to worry about is the **dark**.* *needn't* — нет необходимости, *do need to* — эмфатическое «а вот это нужно»."
+  - q: "The doctor advised everyone to keep strict ___."
+    answers: ["meal times", "mealtimes", "meal-times"]
+    explain: "*The station doctor recommended that we keep strict **meal times*** — после *recommend that* глагол в базовой форме (subjunctive)."
+  - q: "Each phone call home could last ___."
+    answers: ["fifteen minutes", "15 minutes", "15 min", "15 mins"]
+    explain: "*We could phone home once a week, for **fifteen minutes**.* *could* — разрешённая возможность в прошлом."

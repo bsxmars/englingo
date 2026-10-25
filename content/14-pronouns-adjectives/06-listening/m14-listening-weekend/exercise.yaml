@@ -1,0 +1,39 @@
+title: "Part 3: A team-building weekend"
+type: listening
+intro: "Пятеро сотрудников рассказывают о выходных на природе, которые устроила их компания. Для каждого говорящего выбери, что он или она говорит (A–F). Одно утверждение лишнее. Говорящих различай по голосу: между ними пауза."
+hints:
+  - "Почти все упоминают погоду, еду или отель — ищи то, о чём человек говорит с главным чувством."
+  - "too / enough / rather — подсказки к оценке."
+audio: audio/tts/14/speakers.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-JennyNeural, en-GB-LibbyNeural, en-AU-NatashaNeural, en-US-AndrewNeural, en-GB-SoniaNeural", license: "TTS"}
+transcript: |
+  **Speaker 1:** I'm not an outdoor person at all, so when I heard we'd be spending a weekend in the forest with the whole department, I was dreading it. It was freezing on the first night, and I hardly slept. But honestly, I had such a good time. I tried things I'd never have tried by myself, like kayaking, and I came home tired but really pleased with myself.
+
+  **Speaker 2:** The idea was great, but whoever planned it hadn't thought it through. There weren't enough tents, the minibus was two hours late, and it was nearly dark by the time we got there. Then we found out there was no hot water. The activities themselves were fun enough, but by then most of us were too annoyed to enjoy them.
+
+  **Speaker 3:** I've worked with Tom for six years, and I thought I knew him pretty well. He's the quiet one in the corner who fixes everyone's laptop. But at the campfire on Saturday he told us he'd sailed round the world on his own when he was nineteen. Completely by himself! Nobody had any idea. I've looked at him rather differently since, and so has everyone else.
+
+  **Speaker 4:** They'd told us it would be really challenging, so I was quite excited. But the climbing wall was so low that you could almost step over it, and the survival task was making sandwiches. By lunchtime I was bored. My kids would have loved it, to be fair, but they're eight and ten. I'd like something a bit more demanding next time.
+
+  **Speaker 5:** It was a perfectly nice weekend, and the hotel was lovely. Even the rain didn't bother me much. But it was my daughter's birthday on the Saturday, and I would much rather have been at home with her. Nobody asked us whether the date suited us. I'm sure the managers meant well, but it's something they should think about next year.
+items:
+  - q: "Speaker 1"
+    options: ["A. The activities were not challenging enough.", "B. I was surprised to have a good time.", "C. The weather spoiled the weekend.", "D. I found out something unexpected about a colleague.", "E. It was badly organised.", "F. I would rather have been somewhere else."]
+    answer: 1
+    explain: "*I was dreading it… But honestly, I had **such** a good time.* Холод и бессонная ночь — деталь, а главное — неожиданное удовольствие (*pleased with myself*)."
+  - q: "Speaker 2"
+    options: ["A. The activities were not challenging enough.", "B. I was surprised to have a good time.", "C. The weather spoiled the weekend.", "D. I found out something unexpected about a colleague.", "E. It was badly organised.", "F. I would rather have been somewhere else."]
+    answer: 4
+    explain: "*whoever planned it hadn't thought it through. There weren't **enough** tents, the minibus was two hours late…* Сами занятия — *fun enough*, к ним претензий нет."
+  - q: "Speaker 3"
+    options: ["A. The activities were not challenging enough.", "B. I was surprised to have a good time.", "C. The weather spoiled the weekend.", "D. I found out something unexpected about a colleague.", "E. It was badly organised.", "F. I would rather have been somewhere else."]
+    answer: 3
+    explain: "*he'd sailed round the world on his own… Completely **by himself**! Nobody had any idea.* — неожиданный факт о коллеге."
+  - q: "Speaker 4"
+    options: ["A. The activities were not challenging enough.", "B. I was surprised to have a good time.", "C. The weather spoiled the weekend.", "D. I found out something unexpected about a colleague.", "E. It was badly organised.", "F. I would rather have been somewhere else."]
+    answer: 0
+    explain: "*the climbing wall was **so** low that you could almost step over it… By lunchtime I was **bored**.* Дети — не желание быть с ними, а сравнение: задания были на уровне восьмилеток."
+  - q: "Speaker 5"
+    options: ["A. The activities were not challenging enough.", "B. I was surprised to have a good time.", "C. The weather spoiled the weekend.", "D. I found out something unexpected about a colleague.", "E. It was badly organised.", "F. I would rather have been somewhere else."]
+    answer: 5
+    explain: "*I would much **rather** have been at home with her.* Дождь упоминается, но *didn't bother me much* — поэтому C лишнее."

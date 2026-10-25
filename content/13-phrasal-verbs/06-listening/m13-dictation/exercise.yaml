@@ -1,0 +1,47 @@
+title: "Диктант: фразовые глаголы на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения (I'm / I am) засчитываются в обе стороны."
+hints:
+  - "Частица в конце фразы звучит ударно: turn it down, pick it up."
+  - "После to в look forward to и put up with идёт существительное или -ing."
+items:
+  - audio: audio/tts/13/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural", license: "TTS"}
+    answers: ["Could you turn the music down, please? I am trying to work.", "Could you turn the music down please? I'm trying to work."]
+    explain: "«Сделай музыку потише, пожалуйста, я пытаюсь работать». *turn down* — убавить; дополнение-существительное может стоять и между глаголом и частицей."
+  - audio: audio/tts/13/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-AU-NatashaNeural", license: "TTS"}
+    answers: ["We have run out of milk, so I will pick some up on the way home.", "We've run out of milk, so I'll pick some up on the way home."]
+    explain: "«У нас кончилось молоко, по дороге домой куплю». *run out of* — закончиться; *pick some up* — местоимение *some* стоит между глаголом и частицей."
+  - audio: audio/tts/13/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-JennyNeural", license: "TTS"}
+    answers: ["She looks after her little brother while their parents are at work."]
+    explain: "«Она присматривает за младшим братом, пока родители на работе». *look after* — предложный глагол: дополнение всегда после предлога."
+  - audio: audio/tts/13/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural", license: "TTS"}
+    answers: ["He finally gave up trying to fix the car and called a mechanic."]
+    explain: "«В конце концов он перестал чинить машину сам и вызвал механика». *give up* + **-ing** — бросить, перестать пытаться."
+  - audio: audio/tts/13/s5.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-SoniaNeural", license: "TTS"}
+    answers: ["I do not know how you put up with all that noise.", "I don't know how you put up with all that noise."]
+    explain: "«Не понимаю, как ты терпишь весь этот шум». *put up with* — глагол + частица + предлог, три слова не разделяются."
+  - audio: audio/tatoeba/1073632.mp3
+    audio_source: {title: "Tatoeba #262050", url: "https://tatoeba.org/en/sentences/show/262050", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["I waited half an hour for my friend, but he didn't turn up.", "I waited half an hour for my friend, but he did not turn up."]
+    explain: "«Я полчаса ждал(а) друга, но он так и не пришёл». *turn up* — появиться, прийти; *wait for* — ждать кого-то."
+  - audio: audio/tatoeba/1055450.mp3
+    audio_source: {title: "Tatoeba #278825", url: "https://tatoeba.org/en/sentences/show/278825", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["We will have to put off the soccer game because of the bad weather.", "We'll have to put off the soccer game because of the bad weather."]
+    explain: "«Из-за плохой погоды придётся перенести футбольный матч». *put off* — отложить (= *postpone*), не отменить."
+  - audio: audio/tatoeba/951186.mp3
+    audio_source: {title: "Tatoeba #260726", url: "https://tatoeba.org/en/sentences/show/260726", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["I politely turned down his offer and hung up."]
+    explain: "«Я вежливо отказался(-ась) от его предложения и повесил(а) трубку». *turn down* — отклонить, *hang up* — положить трубку (*hung* — прошедшее)."
+  - audio: audio/tatoeba/1001658.mp3
+    audio_source: {title: "Tatoeba #242275", url: "https://tatoeba.org/en/sentences/show/242275", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["I'm looking forward to meeting with you the next time I visit your town.", "I am looking forward to meeting with you the next time I visit your town."]
+    explain: "«Жду встречи, когда в следующий раз приеду в твой город». *look forward to* + **-ing**: *to* здесь предлог, поэтому *meeting*, а не *meet*."
+  - audio: audio/tatoeba/962197.mp3
+    audio_source: {title: "Tatoeba #303570", url: "https://tatoeba.org/en/sentences/show/303570", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["He is the man you can rely on.", "He's the man you can rely on."]
+    explain: "«Это человек, на которого можно положиться». *rely on* — предложный глагол; предлог остаётся в конце придаточного."

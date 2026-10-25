@@ -1,0 +1,43 @@
+title: "Диктант: связки, инверсия и cleft на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения засчитываются в обе стороны."
+hints:
+  - "После отрицательного начала (Never, Not until, No sooner) идёт вспомогательный глагол: did we, had I."
+  - "Cleft-предложение делится на две части: It was … that… или What … was…"
+items:
+  - audio: audio/tts/c1-16/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-SoniaNeural", license: "TTS"}
+    answers: ["Not until the results came in did we realise how close the vote had been.", "Not until the results came in did we realize how close the vote had been."]
+    explain: "«Только когда пришли результаты, мы поняли, насколько близким было голосование». **Not until … did we realise** — инверсия стоит в главной части, а не в придаточном с *until*."
+  - audio: audio/tts/c1-16/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-ThomasNeural", license: "TTS"}
+    answers: ["What really annoyed me was the fact that nobody had bothered to tell us."]
+    explain: "«Больше всего меня раздражало то, что никто не потрудился нам сообщить». **What … was** — pseudo-cleft выносит главное в конец фразы."
+  - audio: audio/tts/c1-16/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural", license: "TTS"}
+    answers: ["The plan was cheap; moreover, it could be put into practice almost immediately.", "The plan was cheap. Moreover, it could be put into practice almost immediately."]
+    explain: "«План был дешёвым; более того, его можно было воплотить почти сразу». **moreover** добавляет более сильный довод; на письме — после точки с запятой или точки и с запятой после себя."
+  - audio: audio/tts/c1-16/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-JennyNeural", license: "TTS"}
+    answers: ["It was only when I moved abroad that I began to appreciate my own language."]
+    explain: "«Только переехав за границу, я начал ценить родной язык». **It was only when … that…** — cleft выделяет момент; без инверсии, в отличие от *Only when I moved abroad did I begin…*"
+  - audio: audio/tatoeba/951182.mp3
+    audio_source: {title: "Tatoeba #254881", url: "https://tatoeba.org/en/sentences/show/254881", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["Never did I expect to see her in such a place."]
+    explain: "«Никак не ожидал увидеть её в таком месте». **Never did I expect** — инверсия с *did* после отрицательного наречия в начале; нейтрально — *I never expected*."
+  - audio: audio/tatoeba/956238.mp3
+    audio_source: {title: "Tatoeba #246996", url: "https://tatoeba.org/en/sentences/show/246996", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["No sooner had I opened the box than a frog jumped out."]
+    explain: "«Не успел я открыть коробку, как оттуда выпрыгнула лягушка». **No sooner had I … than** — Past Perfect с инверсией и обязательное *than* (не *when*)."
+  - audio: audio/tatoeba/1037053.mp3
+    audio_source: {title: "Tatoeba #51952", url: "https://tatoeba.org/en/sentences/show/51952", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["It was only much later that I came to understand the importance of child education."]
+    explain: "«Лишь гораздо позже я понял, как важно воспитание детей». **It was only much later that** — cleft выделяет время; *came to understand* — «со временем понял»."
+  - audio: audio/tatoeba/951235.mp3
+    audio_source: {title: "Tatoeba #285165", url: "https://tatoeba.org/en/sentences/show/285165", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["It was gambling that brought about his ruin."]
+    explain: "«Именно азартные игры его разорили». **It was X that** выделяет причину; *bring about* — «вызвать, привести к»."
+  - audio: audio/tatoeba/997164.mp3
+    audio_source: {title: "Tatoeba #266571", url: "https://tatoeba.org/en/sentences/show/266571", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["In spite of the heavy traffic, I managed to get to the airport in time."]
+    explain: "«Несмотря на плотное движение, я успел в аэропорт вовремя». **In spite of** + существительное (без *of* нельзя); с придаточным — *although the traffic was heavy*."

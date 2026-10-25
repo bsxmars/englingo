@@ -1,0 +1,47 @@
+title: "Диктант: отрицания и вопросы на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения (wasn't / was not) засчитываются в обе стороны."
+hints:
+  - "После отрицательного обстоятельства в начале фразы жди инверсию: did we, should you."
+  - "В косвенном вопросе порядок слов прямой: what time the last train leaves."
+items:
+  - audio: audio/tts/c1-03/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural", license: "TTS"}
+    answers: ["Not until the last guest had left did we realise how late it was.", "Not until the last guest had left did we realize how late it was."]
+    explain: "«Только когда ушёл последний гость, мы поняли, как поздно». После *Not until…* инверсия переносится в главную часть: *did we realise*."
+  - audio: audio/tts/c1-03/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-SoniaNeural", license: "TTS"}
+    answers: ["Under no circumstances should you open the door to anyone you don't know.", "Under no circumstances should you open the door to anyone you do not know."]
+    explain: "«Ни в коем случае не открывай дверь незнакомым». *Under no circumstances* + инверсия *should you* — сильный формальный запрет."
+  - audio: audio/tts/c1-03/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-AndrewNeural", license: "TTS"}
+    answers: ["Wasn't it you who said we'd never find a parking space here?", "Was it not you who said we would never find a parking space here?"]
+    explain: "«Разве не ты говорил, что мы здесь никогда не найдём парковку?» Отрицательный вопрос — не вопрос, а напоминание с подколкой."
+  - audio: audio/tts/c1-03/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-LibbyNeural", license: "TTS"}
+    answers: ["Nobody called while I was out, did they?"]
+    explain: "«Никто не звонил, пока меня не было?» *Nobody* — отрицание, поэтому тег положительный, а местоимение — *they*."
+  - audio: audio/tts/c1-03/s5.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural", license: "TTS"}
+    answers: ["Do you happen to know what time the last train leaves?"]
+    explain: "«Вы случайно не знаете, во сколько уходит последний поезд?» Косвенный вопрос — прямой порядок слов, без *does*."
+  - audio: audio/tatoeba/1285284.mp3
+    audio_source: {title: "Tatoeba #313833", url: "https://tatoeba.org/en/sentences/show/313833", author: "rul", license: "CC BY 4.0"}
+    answers: ["She didn't go shopping yesterday, did she?", "She did not go shopping yesterday, did she?"]
+    explain: "«Она ведь вчера не ходила по магазинам?» Отрицательная часть → положительный тег *did she?*."
+  - audio: audio/tatoeba/1247110.mp3
+    audio_source: {title: "Tatoeba #245079", url: "https://tatoeba.org/en/sentences/show/245079", author: "rul", license: "CC BY 4.0"}
+    answers: ["Mountains are not necessarily green.", "Mountains aren't necessarily green."]
+    explain: "«Горы не обязательно зелёные». *not necessarily* — частичное отрицание: бывают и зелёные, но не всегда."
+  - audio: audio/tatoeba/1134383.mp3
+    audio_source: {title: "Tatoeba #261258", url: "https://tatoeba.org/en/sentences/show/261258", author: "Them", license: "CC BY 4.0"}
+    answers: ["I can hardly understand what she says."]
+    explain: "«Я с трудом понимаю, что она говорит». *hardly* уже отрицание — второе *not* не нужно; *what she says* — прямой порядок слов."
+  - audio: audio/tatoeba/1121380.mp3
+    audio_source: {title: "Tatoeba #39320", url: "https://tatoeba.org/en/sentences/show/39320", author: "Them", license: "CC BY 4.0"}
+    answers: ["But you will write, won't you?", "But you will write, will you not?"]
+    explain: "«Но писать-то ты будешь, правда?» Тег *won't you?* с падающим тоном — просьба подтвердить ожидаемое."
+  - audio: audio/tatoeba/946392.mp3
+    audio_source: {title: "Tatoeba #38772", url: "https://tatoeba.org/en/sentences/show/38772", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["I wonder why karaoke is so popular."]
+    explain: "«Интересно, почему караоке так популярно». После *I wonder why* — прямой порядок: *karaoke is*, а не *is karaoke*."

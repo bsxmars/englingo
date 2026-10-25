@@ -1,0 +1,55 @@
+title: "Part 2: Inside a dictionary"
+type: listening
+intro: "Послушай выступление лексикографа Ричарда Хейла и впиши в каждый пропуск одно–три слова, которые прозвучали в записи."
+hints:
+  - "Слово для пропуска звучит дословно; предложения задания перефразированы — часто другой коллокацией."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/c1-17/talk.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-ThomasNeural", license: "TTS"}
+transcript: |
+  Good afternoon. My name's Richard Hale, and I've spent the last twenty-two years working as a lexicographer, which, for those of you who've never met one, means I write dictionaries for a living. I'm often asked how a word gets into the dictionary, as though there were a committee that votes on it. In reality, the process is a great deal less glamorous and, I'd argue, a great deal more democratic.
+
+  Our starting point is something called a corpus: an enormous collection of real English, currently around twenty billion words, taken from newspapers, novels, websites and recorded conversations. When a new word starts to crop up, the software flags it, and one of us takes a closer look.
+
+  What we're looking for is evidence of three things. First, frequency: is the word being used widely, or only by a handful of enthusiasts? Second, spread: does it appear in different kinds of sources, or is it confined to, say, technology blogs? And third, and this is the one people tend to overlook, staying power. As a rule of thumb, we want to see a word in steady use for at least five years before it earns a full entry. A great many words that seemed to be on the verge of becoming permanent simply vanish within a couple of years.
+
+  Of course, a dictionary isn't just a list of words. Much of my working day is spent on collocations, the words that a given word tends to keep company with. Learners, in particular, rely heavily on these. It's one thing to know what concern means; it's quite another to know that you raise a concern, voice a concern or address a concern, but you don't make one. Our corpus tells us, for example, that heavy goes with rain, traffic and smoker, but almost never with wind, where we say strong.
+
+  We also pay close attention to dependent prepositions, which change more often than you might expect. Thirty years ago, different to was frowned upon in some style guides; today our data show it's perfectly standard in British English, though different from remains the safer choice in formal writing. Meanwhile, bored of, which many of my older colleagues still object to, is now more common than bored with among speakers under thirty.
+
+  People sometimes accuse us of lowering standards by including informal words. I take the opposite view. A dictionary that ignored how people actually speak would be of little use to anyone. Our job isn't to pass judgement on the language; it's to describe it accurately, and that includes labelling words as informal, offensive or dated, so that readers can make their own choices.
+
+  The hardest part of the job, believe it or not, is writing definitions for the simplest words. The entry for the verb set, which has well over four hundred senses, took one of my colleagues the best part of nine months. By comparison, defining a technical term is a holiday.
+
+  If any of you are thinking about lexicography as a career, I'd say the most valuable quality isn't a love of rare words. It's curiosity about ordinary ones. Right, I'm happy to take questions.
+items:
+  - q: "Richard has been a lexicographer for ___ years."
+    answers: ["twenty-two", "22", "twenty two"]
+    explain: "*I've spent the last **twenty-two** years working as a lexicographer.*"
+  - q: "The corpus contains approximately ___ words at present."
+    answers: ["twenty billion", "20 billion", "20,000,000,000", "20bn"]
+    explain: "*currently around **twenty billion** words*. *approximately* перефразирует *around*, *at present* — *currently*."
+  - q: "The second thing lexicographers check is a new word's ___."
+    answers: ["spread"]
+    explain: "*First, frequency… Second, **spread**… And third… staying power.* Перечисление по порядку: нужно второе."
+  - q: "A word normally has to be in steady use for at least ___ before it gets a full entry."
+    answers: ["five years", "5 years"]
+    explain: "*we want to see a word in steady use for at least **five years** before it earns a full entry* — коллокация *earn an entry*."
+  - q: "Learners depend particularly on information about ___."
+    answers: ["collocations"]
+    explain: "*Much of my working day is spent on **collocations**… Learners, in particular, rely heavily on these.* *rely heavily on* = *depend particularly on*."
+  - q: "According to the corpus, heavy is hardly ever used with the word ___."
+    answers: ["wind"]
+    explain: "*heavy goes with rain, traffic and smoker, but almost never with **wind**, where we say strong* — *strong wind*, но *heavy rain*."
+  - q: "Bored of is now more common than bored with among people under ___."
+    answers: ["thirty", "30"]
+    explain: "*more common than bored with among speakers under **thirty***. Тридцать лет назад упоминалось про *different to* — другая цифра, ловушка."
+  - q: "Dictionaries label some words as informal, offensive or ___."
+    answers: ["dated"]
+    explain: "*labelling words as informal, offensive or **dated**, so that readers can make their own choices*. *pass judgement on* — устойчивое сочетание из той же реплики."
+  - q: "The verb set has more than ___ different senses."
+    answers: ["four hundred", "400"]
+    explain: "*which has **well over** four hundred senses* — *well over* = «значительно больше»."
+  - q: "Writing the entry for set took a colleague almost ___."
+    answers: ["nine months", "9 months"]
+    explain: "*took one of my colleagues **the best part of** nine months* — *the best part of* = «почти, бо́льшую часть»."

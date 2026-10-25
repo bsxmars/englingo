@@ -12,6 +12,13 @@ export interface Source {
   url: string;
 }
 
+export interface AudioSource {
+  title: string;
+  url: string;
+  author: string;
+  license: string;
+}
+
 export type ExerciseType =
   | 'gap'
   | 'choice'
@@ -19,7 +26,9 @@ export type ExerciseType =
   | 'error'
   | 'order'
   | 'reading'
-  | 'writing';
+  | 'writing'
+  | 'listening'
+  | 'dictation';
 
 /** What the course map and progress need to know about an exercise. */
 export interface ExerciseMeta {
@@ -33,7 +42,7 @@ export interface ExerciseMeta {
 export interface LessonMeta {
   id: string; // "<module>/<lesson>"
   title: string;
-  kind: string; // grammar (""), reading, writing or test
+  kind: string; // grammar (""), reading, writing, listening or test
   module: string;
   prev: string | null;
   next: string | null;
@@ -94,6 +103,8 @@ export interface Item {
   options: string[];
   prefill: string; // error: the sentence to correct
   words: string[]; // order: the words, shuffled
+  audio: string; // dictation: path of the recording under the site base
+  source: AudioSource | null;
   // Checking.
   answer: number; // choice: index of the right option
   answers: string[]; // typed: every accepted answer
@@ -109,6 +120,10 @@ export interface Exercise {
   intro: string;
   hints: string[];
   text: string; // reading passage
+  audio: string; // listening: recording under the site base
+  link: string; // listening: a page on another site
+  transcript: string;
+  source: AudioSource | null;
   items: Item[];
   /** How many items must be right for the exercise to count as solved. */
   pass: number;

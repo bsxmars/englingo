@@ -1,0 +1,67 @@
+title: "Part 4: A second chance"
+type: listening
+intro: "Послушай радиоинтервью с Рэйчел Мур, бывшей велогонщицей, и выбери ответ. Вопросы идут по порядку записи."
+hints:
+  - "Условное предложение говорит о том, чего не было. Сначала пойми, что произошло на самом деле."
+  - "Вопросы о чувствах: дослушай реплику до конца — мнение часто поворачивается после mind you, but, to be honest."
+audio: audio/tts/04/interview.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-AndrewNeural, en-GB-LibbyNeural", license: "TTS"}
+transcript: |
+  **Presenter:** Today on *Second Chances* I'm talking to Rachel Moore, who was a professional cyclist until a crash eight years ago. She's now the author of eleven children's books. Rachel, does it still hurt to talk about the accident?
+
+  **Rachel:** Not any more. People expect me to say, "if only it hadn't happened". But honestly, if I hadn't crashed, I wouldn't be doing a job I love. I'd probably still be training six hours a day, and my knees would be in a terrible state.
+
+  **Presenter:** What do you remember about that day?
+
+  **Rachel:** It was raining, and the road was covered in leaves. My coach had told me that morning that if the weather got any worse, I should pull out of the race. I wish I'd listened to him. But I was twenty-four, and I thought nothing could happen to me.
+
+  **Presenter:** So how did the books start?
+
+  **Rachel:** By accident, really. I was in hospital for two months, and my nephew used to visit every Sunday. He was six and always bored, so I started making up stories about a cat who rides a bicycle. If he hadn't kept asking what happened next, I'd never have written any of it down.
+
+  **Presenter:** Was it easy to find a publisher?
+
+  **Rachel:** Not at all. Nine publishers turned me down. The tenth said they'd take the book provided I changed the ending. In my version, the cat lost the race, you see. They said children wouldn't buy it unless the cat won.
+
+  **Presenter:** And did you change it?
+
+  **Rachel:** I did, and I'm still slightly annoyed about it, to be honest. Mind you, the book sold forty thousand copies in its first year, so maybe they had a point.
+
+  **Presenter:** You visit a lot of schools. What do the children ask you?
+
+  **Rachel:** Mostly whether the cat is real! But the older ones sometimes ask what they should do if their dream doesn't work out. And I tell them, as long as you stay curious, you'll find something else to love. It might not be the thing you planned, that's all.
+
+  **Presenter:** And do you still cycle?
+
+  **Rachel:** Every day, but slowly, and only on cycle paths. And I always carry a notebook in case I get an idea on the way. Half of my stories have started on a bike.
+
+  **Presenter:** Rachel Moore, thank you very much.
+items:
+  - q: "How does Rachel feel about her accident now?"
+    options: ["She wishes it had never happened.", "She thinks it led her to a life she prefers.", "She still finds it painful to talk about."]
+    answer: 1
+    explain: "*If I hadn't crashed, I wouldn't be doing a job I love* — смешанное условное: авария в прошлом, результат сейчас. *If only it hadn't happened* — то, чего от неё **ждут** другие."
+  - q: "What does Rachel say about the morning of the race?"
+    options: ["Her coach had advised her to stop if the weather got worse.", "She had decided not to race because of the rain.", "Her coach had insisted that she should take part."]
+    answer: 0
+    explain: "*My coach had told me… if the weather got any worse, I should pull out of the race. I wish I'd listened to him.* Совет был, она его не послушала."
+  - q: "Why did Rachel start writing her stories down?"
+    options: ["A doctor said it would help her recover.", "Her nephew kept wanting to know what happened next.", "She needed something to do on Sundays."]
+    answer: 1
+    explain: "*If he hadn't kept asking what happened next, I'd never have written any of it down* — третий тип: племянник спрашивал, поэтому она записала."
+  - q: "What did the tenth publisher ask Rachel to do?"
+    options: ["Write a different ending.", "Make the book shorter for younger children.", "Find a different main character."]
+    answer: 0
+    explain: "*they'd take the book **provided** I changed the ending* — *provided* = «при условии, что». *unless the cat won* — купят, только если кот выиграет."
+  - q: "How does Rachel feel about the change now?"
+    options: ["She is completely happy with it.", "She is a little unhappy but accepts it may have been right.", "She regrets it because the book didn't sell well."]
+    answer: 1
+    explain: "*I'm still slightly annoyed… Mind you, … maybe they had a point.* *Mind you* поворачивает мысль: досада осталась, но правоту издателя она признаёт. Книга продавалась хорошо."
+  - q: "What does Rachel tell older children?"
+    options: ["They should always plan a second career.", "They will find a new passion if they stay curious.", "They should keep a notebook for their ideas."]
+    answer: 1
+    explain: "*as long as you stay curious, you'll find something else to love* — *as long as* = «пока / при условии, что». Блокнот — её привычка, а не совет детям."
+  - q: "Why does Rachel take a notebook when she cycles?"
+    options: ["So that she can write down any ideas she has.", "Because she plans her routes in it.", "Because her coach told her to record her rides."]
+    answer: 0
+    explain: "*I always carry a notebook **in case** I get an idea on the way* — *in case*: на случай, если появится идея."

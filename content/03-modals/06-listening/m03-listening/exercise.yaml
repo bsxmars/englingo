@@ -1,0 +1,89 @@
+title: "Part 1: Six short situations"
+type: listening
+intro: "Ты услышишь шесть коротких отрывков. Перед каждым прозвучит ситуация, она же написана в вопросе. Выбери лучший ответ."
+hints:
+  - "Дослушай отрывок до конца: решение или находка часто звучит в последней реплике."
+  - "must have / can't have — выводы о прошлом; should have — сожаление о том, чего не сделали."
+audio: audio/tts/03/situations.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-JennyNeural, en-GB-RyanNeural, en-AU-NatashaNeural, en-GB-SoniaNeural, en-US-AndrewNeural, en-GB-LibbyNeural, en-GB-ThomasNeural, en-IE-ConnorNeural", license: "TTS"}
+transcript: |
+  **1. You hear a couple talking about some keys.**
+
+  **Man:** I can't find the car keys anywhere. I had them when we got back from the shops.
+
+  **Woman:** Then they must be in the house somewhere. Have you checked your coat?
+
+  **Man:** Twice. You can't have taken them by mistake, can you?
+
+  **Woman:** No, I haven't been near the car all day. Oh, hang on. What's that on top of the fridge?
+
+  **Man:** You're joking. I must have put them down while I was unpacking the shopping.
+
+  **2. You hear a man telling a colleague about a training course.**
+
+  **Woman:** So how was the safety course?
+
+  **Man:** A total waste of a Saturday. I needn't have gone at all. It turns out that if you've already got the certificate, you don't have to do it again for another two years.
+
+  **Woman:** Didn't anyone tell you?
+
+  **Man:** Well, HR said everyone had to go. They should have checked the list first.
+
+  **3. You hear a girl asking her father about a party.**
+
+  **Girl:** Dad, can I go to Emma's party on Saturday? Everyone's allowed to stay till midnight.
+
+  **Father:** Everyone? I doubt it. You can go, but you have to be home by eleven, and you mustn't walk back on your own.
+
+  **Girl:** Emma's mum could drive me.
+
+  **Father:** Fine. If she drives you, half past eleven. That's my final offer.
+
+  **4. You hear a man talking about a job interview.**
+
+  **Man:** It went OK, I suppose. They asked about my last project, and I managed to explain it quite clearly. But then they asked why I wanted to leave my current job, and I just froze. I should have prepared something for that. It's the most obvious question in the world! I could have said I wanted a bigger team. Oh well.
+
+  **5. You hear two friends deciding where to eat.**
+
+  **Woman:** Shall we try that new Thai place on Bridge Street?
+
+  **Man:** We could, but we'd never get a table. It's Friday night. It must be packed by now.
+
+  **Woman:** Not necessarily. It only opened on Tuesday, so not many people can know about it yet.
+
+  **Man:** Maybe. Why don't we ring them first? If they can't fit us in, we'll go for a pizza.
+
+  **6. You hear a woman telling a friend about her driving test.**
+
+  **Man:** So, did you pass in the end?
+
+  **Woman:** I did! Third time lucky. The first time I couldn't even get out of the car park. The second time I was fine until the parking. This time I managed to park perfectly, first go.
+
+  **Man:** What changed?
+
+  **Woman:** My instructor made me practise parking in every lesson for a month. I hated it, but it worked.
+items:
+  - q: "1. You hear a couple talking about some keys. Where were the keys?"
+    options: ["In the man's coat.", "In the car.", "In the kitchen."]
+    answer: 2
+    explain: "*What's that on top of the fridge? — I must have put them down while I was unpacking the shopping.* *must have* — вывод: видимо, положил сам. Пальто он проверил дважды."
+  - q: "2. You hear a man telling a colleague about a training course. Why is he annoyed?"
+    options: ["He attended a course that he didn't need to do.", "He failed to get the certificate.", "He was told about the course too late."]
+    answer: 0
+    explain: "*I needn't have gone at all… you don't have to do it again for another two years.* *needn't have gone* — сходил, хотя было не нужно."
+  - q: "3. You hear a girl asking her father about a party. What does the father insist on?"
+    options: ["She must leave the party before eleven.", "She mustn't come home alone on foot.", "She can stay until midnight if Emma's mum drives her."]
+    answer: 1
+    explain: "*you mustn't walk back on your own* — запрет. Время он потом сдвигает на половину двенадцатого, а полночь — то, что просит дочь."
+  - q: "4. You hear a man talking about a job interview. How does he feel?"
+    options: ["Annoyed that he wasn't ready for a predictable question.", "Unhappy with how he described his last project.", "Upset that the interviewers asked unfair questions."]
+    answer: 0
+    explain: "*I should have prepared something for that. It's the most obvious question in the world!* *should have* + V3 — сожаление о несделанном. Проект он объяснил хорошо: *managed to explain it quite clearly*."
+  - q: "5. You hear two friends deciding where to eat. What do they agree to do?"
+    options: ["Go straight to the Thai restaurant.", "Phone the restaurant before going.", "Go for a pizza instead."]
+    answer: 1
+    explain: "*Why don't we ring them first?* Пицца — только запасной вариант, *if they can't fit us in*. *It must be packed* — вывод мужчины, с которым женщина спорит."
+  - q: "6. You hear a woman telling a friend about her driving test. Why did she pass this time?"
+    options: ["She had practised one skill a lot.", "She had found a new instructor.", "The test didn't include parking."]
+    answer: 0
+    explain: "*My instructor made me practise parking in every lesson for a month.* *managed to park* — смогла в конкретной ситуации; *could* здесь не подходит."

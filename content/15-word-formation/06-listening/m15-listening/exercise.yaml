@@ -1,0 +1,67 @@
+title: "Part 4: How new words get into the dictionary"
+type: listening
+intro: "Послушай радиоинтервью с редактором словаря Беном Хартли и выбери ответ. Вопросы идут по порядку записи."
+hints:
+  - "Отрицательные приставки un-, in-, im- безударные — не пропусти их."
+  - "В вопросах о мнении слушай оценочные слова: worrying, unattractive, enormously."
+audio: audio/tts/15/interview.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-JennyNeural, en-GB-RyanNeural", license: "TTS"}
+transcript: |
+  **Presenter:** Today on *Word of Mouth* I'm talking to Ben Hartley, who has spent twenty years as a dictionary editor. Ben, what does your job actually involve?
+
+  **Ben:** Mostly reading, and listening. We have an enormous collection of real English, from newspapers, websites, even transcripts of radio programmes. When a new word starts appearing regularly, my team looks at how it's used. The decision to include it isn't based on whether we like it. It's based on evidence.
+
+  **Presenter:** So how does a word earn its place?
+
+  **Ben:** It needs to be used widely, by different kinds of people, over a period of several years. A word that's extremely popular for one summer and then disappears is really just a fashion. We usually wait and see, and most of those never make it in.
+
+  **Presenter:** Where do most new words come from these days?
+
+  **Ben:** People often imagine they're completely invented, but that's actually quite rare. The majority are built from parts we already have. Take a prefix like *un-*. Twenty years ago, nobody would have said they'd *unfollowed* someone. Now it's in every dictionary. Or think of suffixes. *-able* is incredibly productive. People talk about a *bingeable* series, or a *walkable* city.
+
+  **Presenter:** Do you ever get complaints?
+
+  **Ben:** All the time! Some listeners write to say that adding words like that is a sign that the language is in decline. I understand the feeling, but English has always worked like this. *Unhelpful* and *careless* were new once, too. What I find more worrying is when people become unwilling to accept any change at all.
+
+  **Presenter:** Is there a word you personally dislike?
+
+  **Ben:** Oh, *impactful*. I find it rather unattractive. But my job isn't to judge. If millions of people use it, it goes in.
+
+  **Presenter:** Has technology made your work easier?
+
+  **Ben:** In some ways, enormously. We can search billions of words in seconds. But the final decisions still depend on human judgement. A computer can tell me how often a word appears, but not whether it's meant as a joke.
+
+  **Presenter:** Finally, any advice for learners who come across a word they don't know?
+
+  **Ben:** Break it into pieces. If you know *employ*, you can usually work out *unemployment*, *employer*, *employable*. That's how native speakers deal with unfamiliar words, too.
+
+  **Presenter:** Ben Hartley, thank you.
+items:
+  - q: "According to Ben, what decides whether a new word goes into the dictionary?"
+    options: ["Whether the editors like the word.", "Evidence of how the word is used.", "How often it appears on the radio."]
+    answer: 1
+    explain: "*The decision to include it isn't based on whether we like it. It's based on **evidence**.* Радио — лишь один из источников (*transcripts of radio programmes*)."
+  - q: "What does Ben say about words that are popular for only a short time?"
+    options: ["Most of them are never included.", "They are added quickly and removed later.", "They usually come from the fashion industry."]
+    answer: 0
+    explain: "*We usually wait and see, and most of those never make it in.* *just a fashion* — «просто мода», а не слова из индустрии моды."
+  - q: "Where do most new words come from, according to Ben?"
+    options: ["They are invented from nothing.", "They are taken from newspapers and websites.", "They are made from existing prefixes, roots and suffixes."]
+    answer: 2
+    explain: "*The majority are built from parts we already have.* Придуманные с нуля слова — *quite rare*; газеты и сайты — то, где словарь ищет примеры."
+  - q: "How does Ben feel about listeners' complaints?"
+    options: ["He agrees that English is getting worse.", "He thinks this kind of change is normal for English.", "He finds the complaints themselves worrying."]
+    answer: 1
+    explain: "*English has always worked like this. Unhelpful and careless were new once, too.* Беспокоят его не жалобы, а *people… unwilling to accept any change* — нежелание принимать перемены."
+  - q: "What does Ben say about the word \"impactful\"?"
+    options: ["He doesn't like it, but it belongs in the dictionary.", "He has refused to include it.", "Most people use it as a joke."]
+    answer: 0
+    explain: "*I find it rather **unattractive**. But my job isn't to judge.* un- + attract + -ive: «непривлекательное». Шутки упоминаются в другом месте — про компьютер."
+  - q: "What is Ben's view of technology in his work?"
+    options: ["It has made decisions much faster.", "It cannot find enough examples.", "It is very useful, but people still have to make the decisions."]
+    answer: 2
+    explain: "*In some ways, enormously… But the final decisions still depend on human **judgement**.* Быстрее стал поиск, а не решения."
+  - q: "What advice does Ben give learners?"
+    options: ["Look up every new word in a dictionary.", "Split unfamiliar words into parts they know.", "Learn the most common suffixes by heart."]
+    answer: 1
+    explain: "*Break it into pieces. If you know employ, you can usually work out unemployment…* — именно этим и занимается модуль."

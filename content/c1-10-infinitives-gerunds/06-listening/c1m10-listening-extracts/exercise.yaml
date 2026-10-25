@@ -1,0 +1,81 @@
+title: "Part 1: Three short conversations"
+type: listening
+intro: "Ты услышишь три коротких диалога. К каждому — два вопроса; выбери ответ, который лучше всего соответствует услышанному."
+hints:
+  - "Прочитай оба вопроса к отрывку до того, как он начнётся."
+  - "Обрати внимание на тон: иногда говорящий имеет в виду противоположное сказанному."
+audio: audio/tts/c1-10/extracts.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural, en-AU-NatashaNeural, en-US-AndrewNeural, en-GB-ThomasNeural, en-US-JennyNeural, en-GB-SoniaNeural, en-IE-ConnorNeural", license: "TTS"}
+transcript: |
+  **Extract one.** You hear two friends talking about learning to drive.
+
+  **Woman:** I can't believe you've finally booked a driving test! What made you decide?
+
+  **Man:** Mostly being sick of asking people for lifts, I think. And my sister offered to lend me her car to practise in, which was too good a chance to miss.
+
+  **Woman:** I keep meaning to learn, but I'm terrified of failing. I'd hate to be seen stalling at the traffic lights by some teenager.
+
+  **Man:** Honestly, that's the least of it. What I found hardest was learning not to trust other drivers. My instructor kept telling me to assume that everyone around me was about to do something stupid.
+
+  **Woman:** That sounds exhausting.
+
+  **Man:** It is, at first. But I'd rather have been taught that than learn it the hard way. Anyway, you should give it a go. If I can manage it at thirty-eight, you certainly can.
+
+  **Woman:** Maybe. Remind me to ask you again once you've passed.
+
+  **Extract two.** You hear two colleagues discussing a decision made by their company.
+
+  **Man:** Did you hear they're closing the Leeds office?
+
+  **Woman:** I did. I'm not surprised, to be honest. They've been talking about it for ages. What surprises me is that nobody seems to have been consulted.
+
+  **Man:** Well, they claim to have consulted the managers.
+
+  **Woman:** Claiming to have consulted people and actually listening to them aren't the same thing. Sarah in Leeds told me she'd found out from the local paper.
+
+  **Man:** That can't be right.
+
+  **Woman:** That's what she said. Anyway, the bigger question is what happens to the staff. They're being offered the chance to relocate, but most of them have families up there. Moving isn't really an option.
+
+  **Man:** I suppose they could always work from home.
+
+  **Woman:** That would make sense, wouldn't it? Which is probably why nobody's suggested it.
+
+  **Extract three.** You hear two friends talking about a pottery course.
+
+  **Woman:** So how's the pottery course going? You were dreading it, weren't you?
+
+  **Man:** I was. I only signed up because my daughter had bought it for my birthday, and it seemed rude not to go. But I'm actually enjoying it. There's something about having your hands covered in clay that stops you thinking about work.
+
+  **Woman:** Have you made anything yet?
+
+  **Man:** A bowl, if you can call it that. It was meant to have been a vase. The teacher says it's not worth trying to make anything perfect in the first few weeks. You're supposed to get used to the feel of the clay first.
+
+  **Woman:** So you'll keep going?
+
+  **Man:** I'm going to try to. The next course starts in March, and I've already put my name down. My daughter is far too pleased with herself, mind you.
+items:
+  - q: "Extract 1. Why did the man decide to learn to drive?"
+    options: ["His sister persuaded him to take a test.", "He was tired of depending on other people.", "He needed to drive for his job."]
+    answer: 1
+    explain: "*Mostly being sick of asking people for lifts* — герундий после *sick of*. Сестра только одолжила машину: *too good a chance to miss*."
+  - q: "Extract 1. What does the woman imply about learning to drive herself?"
+    options: ["She will wait and see how the man gets on first.", "She has already booked her first lesson.", "She would rather be taught by the man's instructor."]
+    answer: 0
+    explain: "*Remind me to ask you again once you've passed* — решение откладывается до его успеха. *remind sb to do* — напомнить сделать в будущем."
+  - q: "Extract 2. What is the woman's main criticism of the company's decision?"
+    options: ["It was made too quickly.", "Staff were not genuinely involved in it.", "It was deliberately leaked to a newspaper."]
+    answer: 1
+    explain: "*Claiming to have consulted people and actually listening to them aren't the same thing.* Её не удивило само закрытие (*They've been talking about it for ages*); газета — пример того, как плохо сообщили, а не утечка."
+  - q: "Extract 2. When the woman says \"Which is probably why nobody's suggested it\", she is"
+    options: ["criticising her colleague's idea.", "being sarcastic about the management.", "hoping that the idea will be considered."]
+    answer: 1
+    explain: "Идея работы из дома разумна, и именно поэтому, по её словам, руководство до неё не додумалось — это сарказм в адрес начальства."
+  - q: "Extract 3. Why did the man start the pottery course?"
+    options: ["He wanted something to take his mind off work.", "He didn't want to seem ungrateful to his daughter.", "A friend recommended the teacher to him."]
+    answer: 1
+    explain: "*My daughter had bought it for my birthday, and it seemed rude not to go.* Отвлечься от работы — то, что он обнаружил **потом**, а не причина записаться."
+  - q: "Extract 3. What does the teacher believe about beginners?"
+    options: ["They should concentrate on getting used to the material.", "They should try to make a vase before a bowl.", "They tend to give up after the first few weeks."]
+    answer: 0
+    explain: "*It's not worth trying to make anything perfect… You're supposed to get used to the feel of the clay first.* *worth + -ing*; *get used to + существительное / -ing*."

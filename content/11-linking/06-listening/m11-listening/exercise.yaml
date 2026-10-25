@@ -1,0 +1,67 @@
+title: "Part 4: The zero-waste restaurant"
+type: listening
+intro: "Послушай радиоинтервью с Рейчел Мур, владелицей ресторана без отходов, и выбери ответ. Вопросы идут по порядку записи."
+hints:
+  - "Ответ чаще звучит после although, however, whereas, чем до них."
+  - "Инверсия и cleft sentences выделяют главное: Only when… did they, What they like is…"
+audio: audio/tts/11/interview.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-AndrewNeural, en-GB-SoniaNeural", license: "TTS"}
+transcript: |
+  **Presenter:** Welcome to *Food Matters*. I'm here with Rachel Moore, whose restaurant in Bristol hasn't sent any rubbish to landfill for three years. Rachel, why did you decide to go zero-waste?
+
+  **Rachel:** Honestly, it started as a money problem rather than an environmental one. When we opened, we were throwing away about a third of the food we bought. Not only was that terrible for the planet, it was killing the business.
+
+  **Presenter:** So what did you change first?
+
+  **Rachel:** The menu. Instead of offering twenty dishes, we now offer six, and they change every day depending on what our suppliers have. Although some customers complained at first, most of them actually prefer it now. What they like is the surprise.
+
+  **Presenter:** And what happens to the food you don't use?
+
+  **Rachel:** Very little is left over these days, but whatever there is goes to a farm down the road, where it's fed to the pigs. In return, the farmer sells us pork at a lower price. So it's a circle, really.
+
+  **Presenter:** Isn't all this more expensive, though?
+
+  **Rachel:** In some ways, yes. Our staff costs are higher, due to the fact that everything takes longer to prepare. Whereas a normal kitchen buys chopped vegetables, we buy everything whole and use every part. However, we spend much less on ingredients, so overall it comes out about the same.
+
+  **Presenter:** What has been the hardest part?
+
+  **Rachel:** Packaging, without a doubt. Suppliers love plastic. It took me nearly a year to find a fish supplier who'd deliver in reusable boxes. Only when I threatened to go elsewhere did they agree to try it.
+
+  **Presenter:** Have other restaurants followed your example?
+
+  **Rachel:** A few have, and I'm always happy to share what we've learned. But I'd be lying if I said it was easy. You need staff who really believe in it. Otherwise, they cut corners the moment you're not looking.
+
+  **Presenter:** Finally, what would you say to someone who wants to waste less at home?
+
+  **Rachel:** Start by looking in your bin. Seriously. Most people have no idea what they throw away. Once you know that, you can plan your shopping so that you only buy what you'll actually eat.
+
+  **Presenter:** Rachel Moore, thank you very much.
+items:
+  - q: "Why did Rachel first decide to stop wasting food?"
+    options: ["Her customers asked her to.", "It was costing the business too much.", "She wanted to protect the environment."]
+    answer: 1
+    explain: "*it started as a money problem rather than an environmental one… it was killing the business.* *Not only was that terrible for the planet* — инверсия; экология важна, но первой причиной были деньги."
+  - q: "How have customers reacted to the shorter menu?"
+    options: ["Most of them enjoy not knowing what will be on it.", "Many of them have stopped coming.", "They would like more dishes to choose from."]
+    answer: 0
+    explain: "*Although some customers complained at first, most of them actually prefer it now. What they like is the surprise.* Жалобы — до *although*, то есть фон."
+  - q: "What happens to the food that is left over?"
+    options: ["It is sold to customers at a lower price.", "It is shared among the staff.", "It goes to a farm that sells Rachel meat more cheaply."]
+    answer: 2
+    explain: "*goes to a farm… In return, the farmer sells us pork at a lower price.* *lower price* звучит в записи, но относится к свинине, а не к блюдам."
+  - q: "What does Rachel say about the restaurant's costs?"
+    options: ["The restaurant is now much cheaper to run.", "Higher staff costs are balanced by lower food costs.", "Buying whole vegetables is more expensive."]
+    answer: 1
+    explain: "*Our staff costs are higher, due to the fact that… However, we spend much less on ingredients, so overall it comes out about the same.* *due to the fact that* + предложение = *because*."
+  - q: "Why did the fish supplier finally agree to use reusable boxes?"
+    options: ["Rachel said she would take her business elsewhere.", "A new law banned plastic packaging.", "Other restaurants asked for the same thing."]
+    answer: 0
+    explain: "*Only when I threatened to go elsewhere did they agree to try it.* После *Only when…* — инверсия *did they agree*: согласились только после угрозы."
+  - q: "What does Rachel say about other restaurants following her example?"
+    options: ["She prefers to keep her methods to herself.", "It only works if the staff are committed to it.", "Most of them have found it easy."]
+    answer: 1
+    explain: "*You need staff who really believe in it. Otherwise, they cut corners.* Делиться она как раз рада: *I'm always happy to share*. *I'd be lying if I said it was easy* — значит, нелегко."
+  - q: "What is Rachel's advice for people who want to waste less at home?"
+    options: ["Stop buying food in plastic packaging.", "Go shopping more often.", "First find out what you usually throw away."]
+    answer: 2
+    explain: "*Start by looking in your bin… Once you know that, you can plan your shopping so that you only buy what you'll actually eat.* *so that* — цель."

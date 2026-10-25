@@ -1,0 +1,60 @@
+title: "Part 2: A lighthouse tour"
+type: listening
+intro: "Послушай экскурсию по старому маяку и впиши в каждый пропуск одно–три слова, которые прозвучали в записи."
+hints:
+  - "Слово для пропуска звучит дословно; предложения задания перефразированы."
+  - "Ответ часто прячется в придаточном после who / which / where — дослушай его до конца."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/07/talk.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural", license: "TTS"}
+transcript: |
+  Good afternoon, everyone, and welcome to Carrick Head Lighthouse. My name's Declan, and I'm the volunteer who'll be showing you around today.
+
+  The tower you're standing under was built in 1868, which makes it one of the oldest lighthouses on this part of the coast. The engineer who designed it chose granite, which was brought here by boat from a quarry about forty miles up the coast.
+
+  Now, the people who kept the light burning were called keepers. There were always three of them, and they worked in shifts of four hours. The keeper I know most about is a man called Thomas Doyle, who lived here for twenty-six years with his wife and five children.
+
+  The small building where the family slept is now our café, so you can have a cup of tea in what used to be their kitchen.
+
+  If you climb to the top, you'll count one hundred and twelve steps. The room at the very top is where the lamp was kept. In the early days it burned whale oil, which was replaced by paraffin in the 1890s.
+
+  Something that surprises a lot of visitors is the keepers' library. Every month a box of books, sent out by a charity in Dublin, arrived on the supply boat, and for the children it was the best day of the month.
+
+  The keepers also kept a logbook, in which they wrote down the weather every three hours. Those logbooks, most of which survived, are now in the county museum, and they're still used by scientists who study how storms on this coast have changed.
+
+  The light became automatic in 1983. The last keeper, having packed up his things, left by helicopter, and that was the end of an era.
+
+  After that, the building stood empty for almost thirty years, until a group of local people who'd grown up with the light decided to save it. Most of the money they needed came from a single online campaign.
+
+  Right, before we go up, just one request. Anyone carrying a large bag, please leave it at the desk, because the staircase is very narrow. Okay, follow me.
+items:
+  - q: "The lighthouse tower was built in ___."
+    answers: ["1868", "eighteen sixty-eight", "eighteen sixty eight"]
+    explain: "*was built in **1868**, which makes it one of the oldest…* — *which* здесь относится ко всему предложению: «что делает его одним из старейших». 1983 — год автоматизации, не постройки."
+  - q: "The granite for the tower was brought by boat from a ___."
+    answers: ["quarry", "a quarry"]
+    explain: "*granite, which was brought here by boat from a **quarry*** — ответ стоит в конце non-defining clause, после *which*."
+  - q: "Each keeper worked a shift of ___ hours."
+    answers: ["four", "4"]
+    explain: "*they worked in shifts of **four** hours.* Три — это число смотрителей, а *every three hours* — записи о погоде."
+  - q: "Thomas Doyle lived at the lighthouse for ___ years."
+    answers: ["twenty-six", "26", "twenty six"]
+    explain: "*a man called Thomas Doyle, who lived here for **twenty-six** years* — non-defining clause добавляет сведения о человеке, уже названном по имени."
+  - q: "The building where the keeper's family slept is now a ___."
+    answers: ["café", "cafe", "the café", "the cafe", "our café", "our cafe"]
+    explain: "*The small building **where** the family slept is now our **café**.* *where* = *in which*; главный глагол *is* идёт после придаточного."
+  - q: "Visitors have to climb ___ steps to reach the top."
+    answers: ["one hundred and twelve", "112", "a hundred and twelve", "one hundred twelve", "a hundred twelve"]
+    explain: "*you'll count **one hundred and twelve** steps.* В британском английском между сотнями и десятками звучит *and*."
+  - q: "Before paraffin, the lamp burned ___."
+    answers: ["whale oil"]
+    explain: "*it burned **whale oil**, which was replaced by paraffin in the 1890s* — *which* относится к *whale oil*: заменили именно его."
+  - q: "The books for the keepers' library were sent by a charity in ___."
+    answers: ["Dublin"]
+    explain: "*a box of books, **sent out by a charity in Dublin**, arrived…* — причастный оборот = *which was sent out*."
+  - q: "The last keeper left the lighthouse by ___."
+    answers: ["helicopter", "a helicopter"]
+    explain: "*The last keeper, having packed up his things, left by **helicopter*** — *having packed*: сначала собрал вещи, потом улетел. Подлежащее *keeper* и глагол *left* разорваны оборотом."
+  - q: "Most of the money to save the building came from a single ___."
+    answers: ["online campaign", "campaign"]
+    explain: "*Most of the money they needed came from a single **online campaign**.* *the money (that) they needed* — местоимение опущено."

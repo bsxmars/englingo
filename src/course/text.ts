@@ -22,5 +22,6 @@ export function day(t: number | Date): string {
 export const KIND: Record<string, string> = {
   reading: 'чтение',
   writing: 'письмо',
+  listening: 'аудирование',
   test: 'тест',
 };

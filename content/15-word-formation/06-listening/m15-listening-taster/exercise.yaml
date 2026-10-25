@@ -1,0 +1,55 @@
+title: "Part 2: A professional chocolate taster"
+type: listening
+intro: "Послушай рассказ дегустатора шоколада и впиши в каждый пропуск одно–три слова, которые прозвучали в записи. Следи за частью речи и написанием суффикса."
+hints:
+  - "До записи определи, какое слово нужно: существительное, прилагательное или наречие."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/15/talk.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural", license: "TTS"}
+transcript: |
+  Hi there. My name's Owen, and for the last eight years I've worked as a professional chocolate taster. Yes, it's a real job, and no, I don't eat chocolate all day!
+
+  People assume the job is all about enjoyment, but it's actually a careful scientific process. My main responsibility is to check that every batch tastes exactly the same as the last one. Consistency is everything in this business.
+
+  When I taste, I look at four things. First, the appearance. Good chocolate should have a smooth, glossy surface. Then I break it and listen. A clean snap shows that it's been properly made. Next comes the smell, and finally the taste itself, where I'm looking at the sweetness, the bitterness and the texture.
+
+  A lot of people think the most important tool is the tongue. In fact, it's the nose. About eighty percent of what we call flavour actually comes from smell. That's why I never wear perfume to work, and I'm not allowed to drink coffee before a tasting session.
+
+  The hardest part of the job? Honestly, it's being objective. If I'm in a bad mood, everything tastes worse, so we always taste in groups of five and compare our scores.
+
+  Before I got this job, I'd studied chemistry, and I thought that would be enough. It wasn't. I had to do a two-year training course, and the most useful thing I learnt there was patience.
+
+  Lots of you have asked me how to get into the industry. My recommendation is to start by keeping a tasting diary. Write down what you notice every time you eat something. It sounds simple, but it develops your sensitivity faster than anything else.
+
+  And one last thing. The best chocolate I've ever tasted came from a tiny family business in Ecuador. Sometimes the smallest producers are the most impressive.
+items:
+  - q: "Owen has been a chocolate taster for ___."
+    answers: ["eight years", "8 years", "the last eight years", "the last 8 years"]
+    explain: "*for the last **eight years** I've worked as a professional chocolate taster.*"
+  - q: "Every batch must taste the same, because in this business ___ is everything."
+    answers: ["consistency"]
+    explain: "*Consistency is everything in this business.* consist + -ency: существительное-подлежащее перед *is*. Не *consistent* — это прилагательное."
+  - q: "Good chocolate should have a smooth, ___ surface."
+    answers: ["glossy"]
+    explain: "*a smooth, **glossy** surface* — gloss (блеск) + -y: прилагательное перед существительным."
+  - q: "A clean snap shows that the chocolate has been ___."
+    answers: ["properly made"]
+    explain: "*A clean snap shows that it's been **properly made**.* proper + -ly: наречие при причастии *made*."
+  - q: "When he tastes, he pays attention to sweetness, bitterness and ___."
+    answers: ["texture", "the texture"]
+    explain: "*the sweetness, the bitterness and the **texture***. В ряду — существительные: *sweet → sweetness, bitter → bitterness*."
+  - q: "About ___ of flavour comes from smell."
+    answers: ["eighty percent", "80 percent", "80%", "eighty per cent", "80 per cent"]
+    explain: "*About **eighty percent** of what we call flavour actually comes from smell.* Британский вариант — *per cent*, оба засчитываются."
+  - q: "Before a tasting session he is not allowed to drink ___."
+    answers: ["coffee"]
+    explain: "*I'm not allowed to drink **coffee** before a tasting session.* Духи (*perfume*) он не носит, но их не пьют."
+  - q: "The most difficult part of the job is being ___."
+    answers: ["objective"]
+    explain: "*The hardest part of the job? Honestly, it's being **objective**.* object + -ive: прилагательное после *being*."
+  - q: "The most useful thing he learnt on his training course was ___."
+    answers: ["patience"]
+    explain: "*the most useful thing I learnt there was **patience***. Существительное от *patient*: суффикс *-ence*, не *-ance*."
+  - q: "To get into the industry, he recommends keeping a ___."
+    answers: ["tasting diary", "a tasting diary"]
+    explain: "*My **recommendation** is to start by keeping a **tasting diary**.* recommend + -ation — так он вводит совет."

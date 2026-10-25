@@ -4,11 +4,13 @@
 //	                 loadLesson(id) and loadCards() — one lazy chunk per lesson
 //	                 and one with all cards
 //
+// Recordings under content/audio/ are served in dev and copied to dist/audio/.
 // Any change under content/ reloads the course and the page.
-import { resolve, sep } from 'node:path';
+import { readdirSync, readFileSync, statSync } from 'node:fs';
+import { join, relative, resolve, sep } from 'node:path';
 import type { Plugin } from 'vite';
 import { compile, type Compiled } from './compile.ts';
-import { load } from './content.ts';
+import { AUDIO_DIR, load } from './content.ts';
 import { dirFS } from './fs.ts';
 
 const ID = 'virtual:course';
@@ -65,6 +67,45 @@ export function course(contentDir = 'content'): Plugin {
         server.ws.send({ type: 'full-reload' });
       };
       server.watcher.on('change', reload).on('add', reload).on('unlink', reload);
+
+      const audio = join(root, AUDIO_DIR);
+      server.middlewares.use((req, res, next) => {
+        const base = server.config.base;
+        const url = decodeURIComponent((req.url ?? '').split('?')[0]!);
+        if (!url.startsWith(base + AUDIO_DIR + '/')) return next();
+        const file = resolve(root, url.slice(base.length));
+        if (!file.startsWith(audio + sep)) return next();
+        try {
+          const data = readFileSync(file);
+          res.setHeader('Content-Type', file.endsWith('.ogg') ? 'audio/ogg' : file.endsWith('.wav') ? 'audio/wav' : 'audio/mpeg');
+          res.end(data);
+        } catch {
+          next();
+        }
+      });
+    },
+
+    generateBundle() {
+      const audio = join(root, AUDIO_DIR);
+      // Only recordings: the voiced scripts (.txt) next to them stay out of the site.
+      for (const file of walk(audio).filter((f) => /\.(mp3|ogg|wav)$/.test(f))) {
+        this.emitFile({ type: 'asset', fileName: relative(root, file).split(sep).join('/'), source: readFileSync(file) });
+      }
     },
   };
+}
+
+function walk(dir: string): string[] {
+  let entries: string[];
+  try {
+    entries = readdirSync(dir);
+  } catch {
+    return [];
+  }
+  return entries
+    .filter((n) => !n.startsWith('.'))
+    .flatMap((n) => {
+      const p = join(dir, n);
+      return statSync(p).isDirectory() ? walk(p) : [p];
+    });
 }

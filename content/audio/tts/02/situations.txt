@@ -1,0 +1,25 @@
+# pause: 600
+B: Part one. You will hear people talking in six different situations.
+B: Number one. You hear two friends talking about the weekend.
+E: Are you coming to Laura's barbecue on Saturday?
+F: Yeah, I'll be there. I was going to go hiking, actually, but it's going to pour all day, so we've called it off.
+E: Lucky you. I'd love to come, but my sister's flying in from Chicago that morning and I'm picking her up from the airport.
+B: Number two. You hear a woman leaving a voicemail message.
+G: Hi, Mark, it's Kate from Riverside Dental, about your appointment tomorrow at ten. I'm afraid Dr Lewis will be away at a conference all week, so we've put you in with Dr Patel instead, same time. If that doesn't suit you, give us a ring before five today and we'll find you another day. Otherwise, see you tomorrow.
+B: Number three. You hear two colleagues talking about a report.
+D: So, are we going to have the report ready by Friday?
+A: Honestly? Not all of it. By Friday we'll have finished the figures, but the design team won't even have started on the charts.
+D: The client's expecting it on Friday, though.
+A: I know. I'll ring them this afternoon and explain. Better now than on Friday.
+B: Number four. You hear a man talking about his new job.
+H: I start on Monday, and I'm a bit nervous. Not about the work itself, I've been doing that for six years. No, it's the journey. This time next week I'll be sitting on a train for an hour and a half each way, and I've never done that in my life. Everyone says I'll get used to it.
+B: Number five. You hear two friends at a bus stop.
+C: The train's due to leave at twenty to seven, and it's already twenty past. We're not going to make it.
+F: We will if we get a taxi right now.
+C: In this traffic? By the time a taxi gets here, the train will have left. Look, there's another one at half past seven. Let's grab something to eat and catch that one.
+F: Fine. But if we miss that one too, I'm going home.
+B: Number six. You hear two friends talking about the woman's plans.
+H: So what's the plan after you graduate? Still thinking about the master's?
+C: Well, I was going to do one, yes, but I've changed my mind. I've been offered a job at an architecture firm in Bristol, and I'm starting in September. I might do the master's part-time later on.
+H: That's brilliant! So you'll be moving to Bristol?
+C: Not straight away. I'm staying with my aunt in Bath for the first few months.

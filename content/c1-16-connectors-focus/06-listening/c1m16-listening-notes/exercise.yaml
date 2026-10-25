@@ -1,0 +1,55 @@
+title: "Part 2: A night at the dark sky park"
+type: listening
+intro: "Послушай вступительную беседу в парке тёмного неба и впиши в каждый пропуск одно–три слова, которые прозвучали в записи."
+hints:
+  - "Связки предупреждают, что будет дальше: however — поворот, as a result и consequently — следствие, moreover — ещё один довод."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/c1-16/talk.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-AndrewNeural", license: "TTS"}
+transcript: |
+  Good evening, everyone. I'm Mark Ellison, and I coordinate the volunteer program here at the Clearwater Dark Sky Park. Before we head outside for tonight's observing session, I'd like to spend a few minutes on why places like this exist at all.
+
+  It's estimated that around eighty percent of people in North America can no longer see the Milky Way from where they live. Not because it's gone, of course, but because our own lights drown it out. What most people don't realize is that this is a fairly recent problem. As recently as the nineteen fifties, most small towns were dark enough at night to see it perfectly clearly.
+
+  Light pollution isn't only a problem for astronomers, however. Migrating birds navigate partly by the stars, and as a result, brightly lit buildings cause the deaths of millions of birds every year. Moreover, baby sea turtles, which instinctively head for the brightest horizon, often crawl inland towards the roads instead of down to the ocean.
+
+  It was a group of amateur astronomers who first campaigned for this park, back in two thousand and nine. Despite fierce opposition from local businesses, who were worried about safety, they persuaded the county to change its rules. Consequently, every streetlight within fifteen miles of here now points downward and uses a warm amber bulb rather than a white one. It took them nearly four years of public meetings, and, by their own account, a great deal of free coffee.
+
+  Interestingly, crime didn't go up. In fact, the county's own figures show a small decrease, although I'd be careful about reading too much into that. What did go up, and dramatically, was tourism. Visitors now come from all over the country, and hence several of the businesses that originally opposed the scheme are among its strongest supporters today. The diner on Main Street, for instance, now stays open until two a.m. on clear nights. Not only do they sell more hot chocolate than ever, they've started renting out telescopes too.
+
+  Meanwhile, the park itself has had to adapt. We no longer allow cars past the visitor center after dark. Instead, visitors walk the last half mile using red flashlights, which protect your night vision far better than white ones. Our eyes, incidentally, take about twenty minutes to fully adjust to the dark, so please be patient once we're outside.
+
+  As for what you'll see tonight, that depends, of course, on the clouds. If the sky stays clear, Jupiter should rise in the east shortly after ten, and, since we're close to the peak of a meteor shower, you may well see a shooting star or two. Bear in mind, though, that the best views often come after midnight, when most visitors have already gone home. So if you're prepared to stay up late, you'll be rewarded.
+
+  A couple of practical points before we go. Firstly, please switch your phones to night mode, or better still, leave them in your pocket. Secondly, it can get surprisingly cold out there, even in summer, so if you didn't bring a jacket, there are blankets by the door. And last but not least, if you spot something you'd like a closer look at, just ask one of our volunteers, all of whom carry a green laser pointer. Right. Let's go and find some stars.
+items:
+  - q: "Around ___ per cent of North Americans cannot see the Milky Way from their homes."
+    answers: ["eighty", "80"]
+    explain: "*around **eighty** percent of people in North America can no longer see the Milky Way*. В американском написании *percent* — одним словом."
+  - q: "As late as the ___, most small towns were dark enough to see it clearly."
+    answers: ["nineteen fifties", "1950s", "fifties", "1950's", "50s", "the 1950s", "the nineteen fifties"]
+    explain: "*As recently as the **nineteen fifties***. Pseudo-cleft *What most people don't realize is that…* подводит к этой мысли."
+  - q: "Brightly lit buildings cause the deaths of millions of ___ every year."
+    answers: ["birds", "migrating birds"]
+    explain: "*Migrating birds navigate partly by the stars, and **as a result**, brightly lit buildings cause the deaths of millions of **birds***."
+  - q: "Baby sea turtles instinctively move towards the brightest ___."
+    answers: ["horizon"]
+    explain: "***Moreover**, baby sea turtles… head for the brightest **horizon***. *Moreover* добавляет второй пример."
+  - q: "The park was first proposed by a group of ___."
+    answers: ["amateur astronomers", "astronomers"]
+    explain: "*It was a group of **amateur astronomers** who first campaigned for this park* — cleft выделяет инициаторов. Местный бизнес, наоборот, был против."
+  - q: "Local businesses opposed the plan because they were worried about ___."
+    answers: ["safety"]
+    explain: "***Despite** fierce opposition from local businesses, who were worried about **safety***. Опасения не подтвердились: преступность не выросла."
+  - q: "Streetlights near the park now have a warm ___ bulb."
+    answers: ["amber"]
+    explain: "***Consequently**, every streetlight… uses a warm **amber** bulb rather than a white one.*"
+  - q: "On clear nights, the diner on Main Street stays open until ___."
+    answers: ["two a.m.", "2 a.m.", "2am", "2 am", "two am", "2:00 a.m.", "two in the morning"]
+    explain: "*now stays open until **two a.m.** on clear nights*. *Not only do they sell more hot chocolate…* — инверсия после *Not only*."
+  - q: "Visitors walk the last half mile with ___ to protect their night vision."
+    answers: ["red flashlights", "red flashlight", "flashlights", "red torches"]
+    explain: "***Instead**, visitors walk the last half mile using **red flashlights**.* *Instead* (без *of*) стоит в начале нового предложения."
+  - q: "Human eyes need about ___ to adjust fully to the dark."
+    answers: ["twenty minutes", "20 minutes", "20 mins"]
+    explain: "*Our eyes, incidentally, take about **twenty minutes** to fully adjust to the dark.* *incidentally* — «кстати», вводное слово."

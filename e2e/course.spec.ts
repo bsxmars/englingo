@@ -130,3 +130,17 @@ test('the whole course works offline once installed', async ({ page, context, br
   await page.goto(`practice/${LESSON}`);
   await solve(page, lessons.get(LESSON)!.exercises[0]!.id);
 });
+
+test('a listening exercise plays its recording and shows the transcript once checked', async ({ page }) => {
+  const id = [...lessons.values()].flatMap((l) => l.exercises).find((e) => e.type === 'listening' && e.audio)?.id;
+  test.skip(!id, 'no listening exercise with local audio');
+  const lesson = [...lessons.values()].find((l) => l.exercises.some((e) => e.id === id))!;
+  await page.goto(`practice/${lesson.id}?ex=${id}`);
+  const player = page.locator('audio.player').first();
+  await expect(player).toHaveAttribute('src', /\/audio\/.+\.mp3$/);
+  const src = await player.getAttribute('src');
+  expect((await page.request.get(src!)).status()).toBe(200);
+  await expect(page.locator('details.transcript')).toHaveCount(0);
+  await page.getByRole('button', { name: '✓ Проверить' }).click();
+  await expect(page.locator('details.transcript')).toHaveCount(1);
+});

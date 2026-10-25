@@ -1,0 +1,47 @@
+title: "Диктант: придаточные-существительные на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения (don't / do not) засчитываются в обе стороны."
+hints:
+  - "В придаточном после what / whether / how порядок слов прямой, как в утверждении."
+  - "После essential / insist / recommend that может стоять базовая форма глагола: that he submit, that it be."
+items:
+  - audio: audio/tts/c1-12/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural", license: "TTS"}
+    answers: ["What surprised me most was how quickly the decision had been made."]
+    explain: "«Больше всего меня удивило, как быстро было принято решение». *What surprised me* — придаточное-подлежащее; *how quickly… had been made* — прямой порядок слов."
+  - audio: audio/tts/c1-12/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-LibbyNeural", license: "TTS"}
+    answers: ["It is essential that every applicant submit the form before the deadline.", "It's essential that every applicant submit the form before the deadline.", "It is essential that every applicant should submit the form before the deadline."]
+    explain: "«Крайне важно, чтобы каждый кандидат подал форму до крайнего срока». *essential that… submit* — сослагательное наклонение: без *-s*, хотя подлежащее в 3-м лице."
+  - audio: audio/tts/c1-12/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-AndrewNeural", license: "TTS"}
+    answers: ["Whether the plan will work depends on how much funding we receive."]
+    explain: "«Сработает ли план, зависит от того, сколько денег мы получим». *Whether*-придаточное в роли подлежащего (*if* здесь невозможно); после *on* — wh-придаточное."
+  - audio: audio/tts/c1-12/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural", license: "TTS"}
+    answers: ["The fact that nobody complained does not mean that everyone was happy.", "The fact that nobody complained doesn't mean that everyone was happy."]
+    explain: "«То, что никто не жаловался, не значит, что все были довольны». *The fact that* делает придаточное подлежащим; второе *that* вводит дополнение к *mean*."
+  - audio: audio/tts/c1-12/s5.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-JennyNeural", license: "TTS"}
+    answers: ["I can't decide whether to accept the offer or wait for something better.", "I cannot decide whether to accept the offer or wait for something better."]
+    explain: "«Не могу решить, принять предложение или подождать чего-то лучшего». *whether to do* — с инфинитивом возможно только *whether*, не *if*."
+  - audio: audio/tatoeba/1112831.mp3
+    audio_source: {title: "Tatoeba #10696176", url: "https://tatoeba.org/en/sentences/show/10696176", author: "Them", license: "CC BY 4.0"}
+    answers: ["Can you check whether they can be trusted?"]
+    explain: "«Можешь проверить, можно ли им доверять?» Косвенный вопрос после *check*: *whether they can* — без инверсии."
+  - audio: audio/tatoeba/1152924.mp3
+    audio_source: {title: "Tatoeba #453115", url: "https://tatoeba.org/en/sentences/show/453115", author: "Them", license: "CC BY 4.0"}
+    answers: ["You don't know what it is you've got until it's gone.", "You do not know what it is you have got until it is gone."]
+    explain: "«Что имеем — не храним, потерявши — плачем». *what it is (that) you've got* — wh-придаточное с выделением; обобщённое *you*."
+  - audio: audio/tatoeba/942425.mp3
+    audio_source: {title: "Tatoeba #304954", url: "https://tatoeba.org/en/sentences/show/304954", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["Ask him whether they still live in Tokyo."]
+    explain: "«Спроси его, живут ли они всё ещё в Токио». *whether* вводит косвенный общий вопрос; *still* — перед смысловым глаголом."
+  - audio: audio/tatoeba/1063583.mp3
+    audio_source: {title: "Tatoeba #270378", url: "https://tatoeba.org/en/sentences/show/270378", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["There is no denying the fact that no one is free from racial prejudice.", "There's no denying the fact that no one is free from racial prejudice."]
+    explain: "«Нельзя отрицать, что никто не свободен от расовых предрассудков». *the fact that* + придаточное раскрывает содержание существительного *fact*; *There is no denying* — «невозможно отрицать»."
+  - audio: audio/tatoeba/990418.mp3
+    audio_source: {title: "Tatoeba #57973", url: "https://tatoeba.org/en/sentences/show/57973", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["I don't know what this word means. I'll look it up in the dictionary.", "I do not know what this word means. I will look it up in the dictionary."]
+    explain: "«Не знаю, что значит это слово. Посмотрю в словаре». *what this word means* — не *what does this word mean*: в придаточном нет вспомогательного *does*."

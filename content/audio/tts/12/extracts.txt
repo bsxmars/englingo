@@ -1,0 +1,32 @@
+# pause: 700
+B: One. You hear a woman phoning a hotel.
+G: Hello, I've got a booking with you from Friday until Monday, under the name Walsh.
+H: Yes, I can see it here, Ms Walsh. Two nights, no, three nights, in a double room.
+G: That's right. The thing is, my flight's been moved, so I won't get to you until Saturday morning. I don't want to cancel. Could you just change the booking so that it starts on Saturday?
+H: Of course. And if you get here before check-in at two, we can keep your bags at reception.
+B: Two. You hear two friends planning to meet before a concert.
+E: So shall we meet in front of the main entrance?
+F: It'll be packed. There are always hundreds of people standing outside. What about the café opposite the station?
+E: The one next to the bank?
+F: No, that one's closed now. The one on the corner, by the bus stop.
+E: Fine. At seven, then?
+F: Let's say quarter to, just in case.
+B: Three. You hear a man talking about his new job.
+H: People keep asking me how it's going, and honestly, it's a bit early to say. I applied over a year ago, believe it or not, and I didn't hear anything until the spring. I've only been there for a fortnight, so ask me again in a couple of months.
+B: Four. You hear a woman talking to a colleague about a report.
+D: Do you need the sales report today?
+A: Not today, no. The meeting's on Thursday morning, so I need it by Wednesday evening at the latest. I'll be in Manchester until Tuesday, though, so just email it to me.
+D: Wednesday evening. OK, no problem.
+B: Five. You hear a man talking about his holiday.
+F: The hotel was lovely and the weather was perfect. My wife was ill for a day, but that was nothing, really. The worst thing happened during the second week. While we were swimming, somebody took my wallet off the beach, so we spent the last afternoon at the police station instead of by the sea.
+B: Six. You hear two colleagues talking about their new manager.
+C: So, what do you think of Mark?
+H: Well, he worked as a teacher for years before he joined us, and you can tell. He explains things really clearly. But sometimes he talks to us as if we were children.
+C: Really? I think he's just being careful.
+B: Seven. You hear a girl talking about a maths competition.
+G: Everyone keeps saying I should be proud of coming second, and I suppose I am, a bit. And I'm not worried about the next round at all. What annoys me is that I made a silly mistake in the final. I knew the answer, I just wrote it down wrong. I'm really disappointed with myself.
+B: Eight. You hear a couple who have just missed a train.
+E: I can't believe it. We got here in time, didn't we?
+F: We did. But we were waiting on the wrong platform. I was sure the board said platform four.
+E: It did say platform four, for the train to Bath. Ours was on platform two.
+F: So I read the wrong line by mistake. Sorry.

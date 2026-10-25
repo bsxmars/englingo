@@ -1,12 +1,13 @@
 <script setup lang="ts">
-// One exercise next to the lesson's theory: the task (or text) in a side
-// card, the answers in the main column.
+// One exercise next to the lesson's theory: the task (or text, or recording)
+// in a side card, the answers in the main column.
 import { Alert, Badge, Tabs } from '@ilomee/aura-vue';
 import { computed, ref } from 'vue';
 import { RouterLink, useRouter } from 'vue-router';
 import { allSolved } from '../../course/levels.ts';
 import type { Exercise, ExerciseMeta, Level, LessonMeta } from '../../course/types.ts';
 import { useProgress } from '../../stores/progress.ts';
+import AudioSource from '../AudioSource.vue';
 import HtmlBlock from '../HtmlBlock.vue';
 import ItemsForm from './ItemsForm.vue';
 import WritingTask from './WritingTask.vue';
@@ -22,6 +23,7 @@ const props = defineProps<{
 
 const progress = useProgress();
 const router = useRouter();
+const base = import.meta.env.BASE_URL;
 
 const state = computed(() => progress.exercise(props.ex.id));
 const status = computed(() => {
@@ -34,9 +36,12 @@ const lessonSolved = computed(() => allSolved(props.lesson, progress.solved));
 
 const tab = ref('task');
 const tabs = computed(() => [
-  { id: 'task', label: props.ex.type === 'reading' ? 'Текст' : 'Задание' },
+  { id: 'task', label: props.ex.type === 'reading' ? 'Текст' : props.ex.type === 'listening' ? 'Запись' : 'Задание' },
   { id: 'theory', label: 'Теория урока' },
 ]);
+
+// Listening: the transcript opens once the answers have been checked.
+const checked = ref(false);
 
 const shown = ref(0);
 const hints = computed(() => props.ex.hints.slice(0, shown.value));
@@ -60,6 +65,18 @@ async function finish() {
             <HtmlBlock v-if="intro" class="muted intro" :html="intro" />
             <HtmlBlock v-if="ex.intro" class="task" :html="ex.intro" />
             <HtmlBlock v-if="ex.text" class="reading-text lesson" lang="en" :html="ex.text" />
+            <audio v-if="ex.audio" class="player" controls preload="metadata" :src="base + ex.audio" />
+            <template v-if="ex.link">
+              <div class="aura-group">
+                <a class="aura-btn aura-btn--secondary" :href="ex.link" target="_blank" rel="noopener">🎧 Открыть запись ↗</a>
+              </div>
+              <p class="aura-text aura-text--caption muted">Запись на сайте источника: послушай там, отвечай здесь.</p>
+            </template>
+            <AudioSource v-if="ex.source" :source="ex.source" />
+            <details v-if="ex.transcript && checked" class="aura-accordion__item transcript">
+              <summary class="aura-accordion__summary">Расшифровка</summary>
+              <HtmlBlock class="aura-accordion__panel lesson" lang="en" :html="ex.transcript" />
+            </details>
             <template v-if="ex.type === 'writing'">
               <HtmlBlock class="task" :html="ex.prompt" />
               <p class="aura-text aura-text--caption muted">Объём: {{ ex.words[0] }}–{{ ex.words[1] }} слов.</p>
@@ -80,8 +97,10 @@ async function finish() {
       <component
         :is="ex.type === 'writing' ? WritingTask : ItemsForm"
         :ex="ex"
+        :base="base"
         :lesson-id="lesson.id"
         :level="level"
+        @checked="checked = true"
       >
         <template #hints>
           <div v-if="hints.length" class="aura-stack hints" style="--aura-gap: var(--space-2)">

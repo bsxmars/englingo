@@ -1,0 +1,26 @@
+# pause: 700
+H: Extract one. You hear two friends talking about a job offer.
+C: So, have you decided whether you're taking the Berlin job?
+F: Not yet. What's holding me back isn't the job itself. It's the fact that I'd have to start in three weeks.
+C: Three weeks? That's ridiculous. Did they say why?
+F: Apparently their current manager is leaving, and they insist that whoever replaces her be there for the handover. Which I understand, in theory.
+C: But?
+F: But I've got a lease on my flat until March, and my landlord's already told me he won't let me leave early. Whether I can find someone to take it over in time is anyone's guess.
+C: Have you asked whether they'd let you start remotely?
+F: That's what I'm going to suggest tomorrow. And if they say no, well, I suppose that tells me something about what it would be like to work for them.
+H: Extract two. You hear two neighbours discussing plans for a local park.
+B: Did you go to the council meeting about the park in the end?
+G: I did. They're proposing that the old bandstand be knocked down and replaced with a café.
+B: A café? There are already three on the high street.
+G: That was my point exactly. But what struck me was how few people had turned up. There were maybe twenty of us. The council will say that proves nobody cares.
+B: Well, I care. I just didn't know the meeting was happening.
+G: Nobody did. That's the problem. It was announced on page twelve of the newsletter. I'm going to request that they hold another one, and that it be advertised properly this time.
+B: Count me in. I'll put a notice up in the shop window, if you like.
+H: Extract three. You hear a student talking to her tutor about her dissertation.
+D: So, how's the dissertation coming along?
+E: Slowly. I've collected all the data, but I'm not sure what it shows. Half the results suggest that the programme worked, and the other half suggest it made no difference at all.
+D: That's not necessarily a problem. Whether a programme works often depends on who it's for. Have you looked at the age groups separately?
+E: No. I hadn't thought of that.
+D: I'd suggest you start there. And it's essential that you state clearly in your introduction what you're not claiming. Examiners are far more impressed by a modest conclusion that's well supported than by an ambitious one that isn't.
+E: That's a relief, honestly. I thought I'd have to prove something dramatic.
+D: Very few dissertations do. What matters is that you show you understand the limits of your data.

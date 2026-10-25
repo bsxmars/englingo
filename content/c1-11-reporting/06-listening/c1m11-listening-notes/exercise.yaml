@@ -1,0 +1,57 @@
+title: "Part 2: The village memory project"
+type: listening
+intro: "Послушай рассказ о проекте, где записывают воспоминания пожилых жителей деревни, и впиши в каждый пропуск одно–три слова, которые прозвучали в записи."
+hints:
+  - "В задании пересказ: прямая речь из записи может стать косвенной."
+  - "Числа и годы можно писать цифрами или словами."
+audio: audio/tts/c1-11/talk.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural", license: "TTS"}
+transcript: |
+  Good evening, everyone. When I started the Kilbride Memory Project four years ago, I had no idea what I was letting myself in for. The idea was simple: to record older people in the village talking about their lives before the stories disappeared. So far, we've recorded sixty-three people, and the oldest was a hundred and two.
+
+  The first thing I learnt was that people rarely tell you what you expect. I'd assumed most of them would want to talk about the war, or about hardship. Instead, again and again, they told me about dancing. One woman, Nora, insisted that the Saturday dances in the parish hall had been the most important thing in her life. More important, she said, than her wedding. She made me promise not to tell her daughter she'd said that.
+
+  Another man, Pat, who'd been a postman for forty years, claimed he knew every secret in the village because he'd read the backs of all the postcards. When I asked whether he'd ever told anyone, he denied having breathed a word, and then he spent the next hour telling me everything.
+
+  Recording people turned out to be a skill in itself. At the beginning, I kept interrupting and asking people to explain what they meant. An old farmer called Michael eventually told me, quite kindly, that if I stopped asking questions, he might actually get round to answering one. He was right. Now I ask one question, and then I keep quiet, sometimes for twenty minutes.
+
+  People often ask how accurate the memories are. Honestly, some of them aren't. Two brothers described the same flood in nineteen fifty-four. One said the water had reached the church steps, while the other swore it had come up to the windows of the pub. I don't try to decide who was right. What I'm recording isn't the past, exactly. It's how people remember the past, and that's interesting in itself.
+
+  The hardest part has been the endings. Eleven of the people we recorded have since died, and their families have often told me that the recording is the only time they ever heard their parent talk about their childhood. One son said it was like meeting his father for the first time.
+
+  One of the nicest surprises has been the local primary school. Every term, a class of ten-year-olds comes to the library to interview one of our older volunteers. The children prepare their own questions, and I can tell you they're far less polite than I am. One boy asked a retired teacher whether she'd ever been sent to the headmaster herself. She admitted that she had, twice.
+
+  All the recordings are now kept in the county library, and anyone can listen to them free of charge. We've also just published a small book of extracts, and every copy sold helps to pay for the equipment.
+
+  If you'd like to get involved, we're particularly looking for volunteers who can type up the interviews. You don't need any experience, just patience and a good ear. My only warning is that once you start listening, you'll find it very hard to stop.
+items:
+  - q: "So far, the project has recorded ___ people."
+    answers: ["sixty-three", "63", "sixty three"]
+    explain: "*So far, we've recorded **sixty-three** people* — *so far* + Present Perfect: итог на сегодня."
+  - q: "The oldest person recorded was ___."
+    answers: ["a hundred and two", "102", "one hundred and two", "a hundred two", "one hundred two"]
+    explain: "*the oldest was **a hundred and two*** — в британском английском между сотнями и десятками звучит *and*."
+  - q: "The speaker had expected people to talk mainly about the war or about ___."
+    answers: ["hardship"]
+    explain: "*I'd assumed most of them would want to talk about the war, or about **hardship**. Instead… dancing.* Past Perfect *I'd assumed* + *would* — сдвиг времён в пересказе ожиданий."
+  - q: "Nora insisted that the dances had mattered more to her than her ___."
+    answers: ["wedding"]
+    explain: "*More important, she said, than her **wedding**.* *insisted that the dances… had been* — *insist* + that-clause со сдвигом времени."
+  - q: "Pat claimed he knew everyone's secrets because he had read the backs of the ___."
+    answers: ["postcards"]
+    explain: "*claimed he knew every secret… because he'd read the backs of all the **postcards*** — *claim* передаёт сомнение пересказчика. Сразу после: *he denied having breathed a word*."
+  - q: "The two brothers described a flood that happened in ___."
+    answers: ["1954", "nineteen fifty-four", "nineteen fifty four"]
+    explain: "*Two brothers described the same flood in **nineteen fifty-four**.*"
+  - q: "One brother swore that the water had come up to the windows of the ___."
+    answers: ["pub", "the pub"]
+    explain: "*the other swore it had come up to the windows of the **pub*** — *church steps* — версия другого брата. *swear (that)* — клясться, уверять."
+  - q: "Every term, children from the local ___ school come to interview a volunteer."
+    answers: ["primary"]
+    explain: "*the local **primary** school… a class of ten-year-olds* — начальная школа. *asked… whether she'd ever been sent to the headmaster* — косвенный вопрос с *whether*."
+  - q: "All the recordings are kept in the ___."
+    answers: ["county library", "the county library"]
+    explain: "*All the recordings are now kept in the **county library**, and anyone can listen to them free of charge.*"
+  - q: "The project is looking for volunteers who can ___ the interviews."
+    answers: ["type up"]
+    explain: "*volunteers who can **type up** the interviews* — *type up* — перепечатать, расшифровать запись."

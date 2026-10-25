@@ -1,0 +1,59 @@
+title: "Part 3: The translator's voice"
+type: listening
+intro: "Послушай интервью с переводчицей Хелен Марш и выбери ответ. Вопросы идут по порядку записи."
+hints:
+  - "В Part 3 C1 спрашивают об отношении и мнении: ответ часто не сказан прямо, а следует из тона и оговорок."
+  - "Придаточные с which, whom, in which case добавляют уточнения — ответ может прятаться именно в них."
+audio: audio/tts/c1-13/interview.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-AndrewNeural, en-GB-LibbyNeural", license: "TTS"}
+transcript: |
+  **Presenter:** Welcome to The Margins, the podcast about the people whose names appear in small print on the title page. My guest today is Helen Marsh, who has translated more than thirty Polish novels into English, two of which were shortlisted for major prizes. Helen, how did it all start?
+
+  **Helen:** Well, rather by accident, actually. I'd gone to Kraków to teach English for a year, which turned into six, and the family I lodged with had a son who wrote short stories. He kept asking me what I thought of them, and the only honest answer was that I couldn't really read them. So I started working through them with a dictionary, more or less out of politeness. The first one I finished was dreadful, I should say. My translation, that is, not his story.
+
+  **Presenter:** And when did it become a job?
+
+  **Helen:** Oh, not for a long time. The publisher to whom I eventually sent a sample turned it down, very kindly, but she passed it on to a colleague, and it was that colleague who gave me my first contract. I think people imagine there's some sort of career ladder. In my experience it's more a series of people who happen to like your work.
+
+  **Presenter:** Your books are mostly crime fiction. Is that a deliberate choice?
+
+  **Helen:** I'd love to say it was. The truth is that crime is what sells in translation, and whoever controls the budget tends to decide what gets translated. Having said that, I've grown genuinely fond of the genre. A good detective novel gives you a whole society, the police, the politicians, the people nobody listens to, which is exactly what a reader abroad is looking for.
+
+  **Presenter:** What's the hardest thing to get across?
+
+  **Helen:** People usually expect me to say jokes, or swearing. But actually it's the forms of address. Polish has a whole system of ways to speak to someone, depending on how well you know them, and English simply flattens all of that. There's a scene in one book in which a detective switches from the formal to the informal halfway through an interrogation, and in Polish it's chilling. In English, well, nothing happens on the surface, so I had to show the shift through the rhythm of what she says instead.
+
+  **Presenter:** Do the authors get involved?
+
+  **Helen:** Some of them do, a few of whom I'd happily never hear from again! No, I'm joking. Mostly. The ones I work with best are those who accept that the English book is a slightly different book. Whatever I do, a reader in Manchester is going to hear it differently from a reader in Gdańsk, and the extent to which an author understands that makes a huge difference.
+
+  **Presenter:** Finally, there's a lot of talk about machine translation. Does it worry you?
+
+  **Helen:** Less than you might think. I use it, in fact, for a first rough draft of dialogue, which saves me hours of typing. But the decisions that make a book readable, what to leave out, where a reader needs a little help, those aren't the kind of decisions a machine is equipped to make. Unless something dramatic happens in the next ten years, in which case you can invite me back and I'll admit I was wrong.
+
+  **Presenter:** I'll hold you to that. Helen Marsh, thank you.
+items:
+  - q: "How did Helen begin translating?"
+    options: ["She was asked to translate a young writer's stories for publication.", "She took it up partly to be polite to someone she was living with.", "She trained as a translator while teaching in Kraków.", "She found that translating came easily to her from the start."]
+    answer: 1
+    explain: "*I started working through them with a dictionary, more or less **out of politeness***. Публикации никто не планировал, а первый перевод она сама называет *dreadful*."
+  - q: "What point does Helen make about getting her first contract?"
+    options: ["Publishers rarely reply to translators who send samples.", "A well-planned career path is essential in translation.", "Her progress depended on individuals who liked what she did.", "The first publisher she approached was rude about her work."]
+    answer: 2
+    explain: "*it's more **a series of people who happen to like your work***. Её отклонили *very kindly*, а идею «карьерной лестницы» она прямо отвергает. Cleft *it was that colleague who…* выделяет, кто дал контракт."
+  - q: "What is Helen's attitude to translating crime fiction?"
+    options: ["She chose it because it is the most respected genre.", "She regrets that she has been limited to one genre.", "She began for practical reasons but has come to enjoy it.", "She thinks readers abroad are only interested in the police."]
+    answer: 2
+    explain: "*crime is what sells… **whoever controls the budget** tends to decide* — причина коммерческая; *Having said that, I've grown genuinely fond of the genre* — поворот к собственному отношению."
+  - q: "According to Helen, the most difficult aspect of translating from Polish is"
+    options: ["finding equivalents for jokes and swearing.", "showing changes in how characters address each other.", "keeping interrogation scenes as frightening as the original.", "copying the rhythm of Polish sentences."]
+    answer: 1
+    explain: "*it's the forms of address*: переход с формального на неформальное обращение. Шутки и ругательства — то, чего *people usually expect*; ритм — её способ решения, а не трудность."
+  - q: "What does Helen suggest about the authors she works with?"
+    options: ["Most of them prefer not to be involved at all.", "The best collaborations are with authors who accept some change.", "Authors from Gdańsk are easier to work with.", "She would rather never hear from any of them."]
+    answer: 1
+    explain: "*The ones I work with best are **those who accept** that the English book is a slightly different book.* Реплика *a few of whom I'd happily never hear from again* — шутка, которую она тут же смягчает."
+  - q: "How does Helen feel about machine translation?"
+    options: ["It already makes most of her decisions for her.", "It is a threat she takes very seriously.", "It is useful for routine tasks but not for creative choices.", "She will stop working in ten years because of it."]
+    answer: 2
+    explain: "*I use it… for a first rough draft of dialogue, **which** saves me hours* — польза; но решения, *what to leave out*, машина принимать не умеет. *in which case* вводит лишь гипотезу, а не прогноз."

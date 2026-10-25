@@ -7,6 +7,7 @@
 //	<module-dir>/<lesson-dir>/<exercise-dir>/    exercise.yaml (see Exercise)
 //	book*.yaml                                   books lessons cite
 //	cards/*.yaml                                 review cards
+//	audio/...                                    audio files for listening and dictation
 import type { FS } from './fs.ts';
 import { parseYAML } from './yaml.ts';
 import {
@@ -16,6 +17,7 @@ import {
   exerciseSchema,
   lessonSchema,
   moduleSchema,
+  type AudioSource,
   type BookFile,
   type CardFile,
   type ExerciseFile,
@@ -24,7 +26,7 @@ import {
   type Unit,
 } from './schema.ts';
 
-export type { Source, Unit };
+export type { AudioSource, Source, Unit };
 
 export interface Level {
   code: string;
@@ -88,6 +90,8 @@ export const EXERCISE_TYPES = [
   'order', // put the words of the answer in order
   'reading', // text plus choice or gap questions
   'writing', // free text, self-checked against a checklist
+  'listening', // one recording (local audio or an external link) plus choice or gap questions
+  'dictation', // each item is a short recording; type what you hear
 ] as const;
 export type ExerciseType = (typeof EXERCISE_TYPES)[number];
 
@@ -110,8 +114,42 @@ export interface Course {
   cardByID: Map<string, Card>;
 }
 
+/** The top-level content directory with audio files. */
+export const AUDIO_DIR = 'audio';
+
+/** Licenses under which audio may be stored in the course and served from it.
+ * TTS is the course's own text voiced by a speech synthesizer; author names the voice. */
+const OPEN_LICENSES = new Set(['CC0', 'CC BY', 'CC BY-SA', 'PD', 'TTS']);
+
+/** Sites a listening exercise may link to: their recordings are copyrighted,
+ * so the course keeps only its own questions and sends the learner there. */
+const LINK_HOSTS = [
+  'bbc.co.uk',
+  'britishcouncil.org',
+  'cambridgeenglish.org',
+  'learningenglish.voanews.com',
+  'ted.com',
+  'youtube.com',
+];
+
 const fields = (s: string) => s.split(/\s+/).filter(Boolean);
 const count = (s: string, sub: string) => s.split(sub).length - 1;
+
+/** licenseBase drops the version: "CC BY 4.0" → "CC BY". */
+export function licenseBase(l: string): string {
+  const f = fields(l);
+  if (f.length > 1 && /[0-9]/.test(f[f.length - 1]!)) f.pop();
+  return f.join(' ');
+}
+
+function validateSource(a: AudioSource | null, stored: boolean) {
+  if (!a) throw new Error('needs audio_source');
+  if (!a.title || !a.url || !a.license) throw new Error('audio_source needs title, url and license');
+  if (stored && !OPEN_LICENSES.has(licenseBase(a.license)))
+    throw new Error(`audio stored in the course must be CC0, CC BY, CC BY-SA, PD or TTS, got "${a.license}"`);
+  if (stored && a.license.startsWith('CC BY') && !a.author) throw new Error(`${a.license} needs author for attribution`);
+  if (a.license === 'TTS' && !a.author) throw new Error('TTS needs author: the voice, e.g. en-GB-SoniaNeural');
+}
 
 export const isChoice = (it: Item) => it.options.length > 0;
 
@@ -138,6 +176,14 @@ function validateExercise(ex: ExerciseFile) {
     return;
   }
   if (ex.type === 'reading' && !ex.text) throw new Error('reading needs a text');
+  if (ex.type === 'listening') {
+    if (!ex.audio === !ex.link) throw new Error('listening needs either audio or link');
+    if (ex.link && !allowedLink(ex.link))
+      throw new Error(`link "${ex.link}": only https pages of known listening sites`);
+    validateSource(ex.audio_source, ex.audio !== '');
+  } else if (ex.audio || ex.link || ex.audio_source || ex.transcript) {
+    throw new Error('audio, link, transcript and audio_source belong to listening');
+  }
   if (ex.items.length === 0) throw new Error('no items');
   if (ex.pass < 0 || ex.pass > 100) throw new Error('pass must be 0..100');
   ex.items.forEach((it, i) => {
@@ -150,8 +196,14 @@ function validateExercise(ex: ExerciseFile) {
 }
 
 function validateItem(it: Item, typ: string) {
-  if (!it.q) throw new Error('missing q');
-  const choice = typ === 'choice' || (typ === 'reading' && isChoice(it));
+  if (!it.q && typ !== 'dictation') throw new Error('missing q');
+  if (typ === 'dictation') {
+    if (!it.audio) throw new Error('dictation item needs audio');
+    validateSource(it.audio_source, true);
+  } else if (it.audio || it.audio_source) {
+    throw new Error('audio on an item belongs to dictation');
+  }
+  const choice = typ === 'choice' || ((typ === 'reading' || typ === 'listening' || typ === 'dictation') && isChoice(it));
   if (choice) {
     if (it.options.length < 2) throw new Error('needs at least two options');
     if (it.answer < 0 || it.answer >= it.options.length) throw new Error(`answer ${it.answer} out of range`);
@@ -209,7 +261,7 @@ export function load(fsys: FS): Course {
     c.books.set(f.name.replace(/\.yaml$/, ''), b);
   }
   for (const e of top) {
-    if (!e.dir || e.name === 'cards') continue;
+    if (!e.dir || e.name === 'cards' || e.name === AUDIO_DIR) continue;
     c.modules.push(wrap(`module ${e.name}`, () => loadModule(fsys, e.name, c)));
   }
 
@@ -324,7 +376,26 @@ function loadExercise(fsys: FS, dir: string): Exercise {
   const name = `${dir}/exercise.yaml`;
   const file = decode(exerciseSchema, readYAML(fsys, name) ?? {}, name);
   validateExercise(file);
+  for (const f of [file.audio, ...file.items.map((it) => it.audio)]) {
+    if (!f) continue;
+    if (!f.startsWith(AUDIO_DIR + '/') || !validPath(f)) throw new Error(`audio "${f}" must be a path under ${AUDIO_DIR}/`);
+    if (!fsys.exists(f)) throw new Error(`audio "${f}": file does not exist`);
+  }
   return { ...file, type: file.type as ExerciseType, id: dir.slice(dir.lastIndexOf('/') + 1), lesson: null };
+}
+
+/** validPath: a relative path without empty, "." or ".." elements. */
+const validPath = (p: string) => p.split('/').every((el) => el !== '' && el !== '.' && el !== '..');
+
+export function allowedLink(raw: string): boolean {
+  let u: URL;
+  try {
+    u = new URL(raw);
+  } catch {
+    return false;
+  }
+  if (u.protocol !== 'https:') return false;
+  return LINK_HOSTS.some((h) => u.host === h || u.host.endsWith('.' + h));
 }
 
 function loadCards(fsys: FS, c: Course) {

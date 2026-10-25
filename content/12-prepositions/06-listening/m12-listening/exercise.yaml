@@ -1,0 +1,103 @@
+title: "Part 1: Eight short extracts"
+type: listening
+intro: "Ты услышишь восемь коротких отрывков из разных ситуаций. К каждому — один вопрос: выбери лучший ответ. Отрывки идут по порядку."
+hints:
+  - "Все три варианта обычно звучат — ищи тот, на котором говорящие в итоге остановились."
+  - "by — «не позже», until — «всё время до»: это разные ответы."
+audio: audio/tts/12/extracts.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural, en-AU-NatashaNeural, en-IE-ConnorNeural, en-US-JennyNeural, en-US-AndrewNeural, en-GB-SoniaNeural, en-GB-ThomasNeural, en-GB-LibbyNeural", license: "TTS"}
+transcript: |
+  **One.** *You hear a woman phoning a hotel.*
+
+  **Woman:** Hello, I've got a booking with you from Friday until Monday, under the name Walsh.
+
+  **Receptionist:** Yes, I can see it here, Ms Walsh. Two nights, no, three nights, in a double room.
+
+  **Woman:** That's right. The thing is, my flight's been moved, so I won't get to you until Saturday morning. I don't want to cancel. Could you just change the booking so that it starts on Saturday?
+
+  **Receptionist:** Of course. And if you get here before check-in at two, we can keep your bags at reception.
+
+  **Two.** *You hear two friends planning to meet before a concert.*
+
+  **Woman:** So shall we meet in front of the main entrance?
+
+  **Man:** It'll be packed. There are always hundreds of people standing outside. What about the café opposite the station?
+
+  **Woman:** The one next to the bank?
+
+  **Man:** No, that one's closed now. The one on the corner, by the bus stop.
+
+  **Woman:** Fine. At seven, then?
+
+  **Man:** Let's say quarter to, just in case.
+
+  **Three.** *You hear a man talking about his new job.*
+
+  **Man:** People keep asking me how it's going, and honestly, it's a bit early to say. I applied over a year ago, believe it or not, and I didn't hear anything until the spring. I've only been there for a fortnight, so ask me again in a couple of months.
+
+  **Four.** *You hear a woman talking to a colleague about a report.*
+
+  **Man:** Do you need the sales report today?
+
+  **Woman:** Not today, no. The meeting's on Thursday morning, so I need it by Wednesday evening at the latest. I'll be in Manchester until Tuesday, though, so just email it to me.
+
+  **Man:** Wednesday evening. OK, no problem.
+
+  **Five.** *You hear a man talking about his holiday.*
+
+  **Man:** The hotel was lovely and the weather was perfect. My wife was ill for a day, but that was nothing, really. The worst thing happened during the second week. While we were swimming, somebody took my wallet off the beach, so we spent the last afternoon at the police station instead of by the sea.
+
+  **Six.** *You hear two colleagues talking about their new manager.*
+
+  **Woman:** So, what do you think of Mark?
+
+  **Man:** Well, he worked as a teacher for years before he joined us, and you can tell. He explains things really clearly. But sometimes he talks to us as if we were children.
+
+  **Woman:** Really? I think he's just being careful.
+
+  **Seven.** *You hear a girl talking about a maths competition.*
+
+  **Girl:** Everyone keeps saying I should be proud of coming second, and I suppose I am, a bit. And I'm not worried about the next round at all. What annoys me is that I made a silly mistake in the final. I knew the answer, I just wrote it down wrong. I'm really disappointed with myself.
+
+  **Eight.** *You hear a couple who have just missed a train.*
+
+  **Woman:** I can't believe it. We got here in time, didn't we?
+
+  **Man:** We did. But we were waiting on the wrong platform. I was sure the board said platform four.
+
+  **Woman:** It did say platform four, for the train to Bath. Ours was on platform two.
+
+  **Man:** So I read the wrong line by mistake. Sorry.
+items:
+  - q: "1. You hear a woman phoning a hotel. Why is she calling?"
+    options: ["To cancel her booking.", "To change the day she arrives.", "To ask if she can check in early."]
+    answer: 1
+    explain: "*Could you just change the booking so that it starts on Saturday?* Отменять она прямо отказывается (*I don't want to cancel*), а о раннем заезде говорит администратор."
+  - q: "2. You hear two friends planning to meet. Where will they meet?"
+    options: ["In front of the main entrance.", "At the café next to the bank.", "At the café on the corner."]
+    answer: 2
+    explain: "*The one on the corner, by the bus stop.* У входа будет толпа, а кафе *next to the bank* закрыто — оба места отвергнуты."
+  - q: "3. You hear a man talking about his new job. How long has he worked there?"
+    options: ["Two weeks.", "A couple of months.", "Over a year."]
+    answer: 0
+    explain: "*I've only been there for a fortnight* — fortnight = две недели. *Over a year ago* — когда он подал заявку (ago — от сейчас назад), *a couple of months* — когда его стоит спросить снова."
+  - q: "4. You hear a woman talking about a report. When does the man have to finish it?"
+    options: ["By Tuesday.", "By Wednesday evening.", "By Thursday morning."]
+    answer: 1
+    explain: "*I need it **by** Wednesday evening at the latest* — by задаёт крайний срок. *until Tuesday* — сколько она будет в Манчестере, а в четверг — само совещание."
+  - q: "5. You hear a man talking about his holiday. What went wrong?"
+    options: ["His wife was ill during the second week.", "His wallet was stolen on the beach.", "The weather was bad for the last few days."]
+    answer: 1
+    explain: "*While we were swimming, somebody took my wallet off the beach.* Жена болела один день (*for a day*) и это он называет мелочью; погода была *perfect*."
+  - q: "6. You hear two colleagues talking about a new manager. What does the man think of him?"
+    options: ["He still works part-time as a teacher.", "He explains things well but sometimes treats staff like children.", "He is too careful when he talks to the team."]
+    answer: 1
+    explain: "*He worked **as** a teacher* — раньше, это его прошлая профессия. *He talks to us **as if** we were children* — «будто мы дети». «Осторожный» — мнение женщины, а не мужчины."
+  - q: "7. You hear a girl talking about a competition. How does she feel?"
+    options: ["Proud of her result.", "Worried about the next round.", "Annoyed about a mistake she made."]
+    answer: 2
+    explain: "*What annoys me is that I made a silly mistake… I'm really disappointed with myself.* Гордиться ей советуют другие, а о следующем туре она *not worried at all*."
+  - q: "8. You hear a couple who have missed a train. Why did they miss it?"
+    options: ["They arrived at the station too late.", "The man read the wrong information on the board.", "The train left from a different station."]
+    answer: 1
+    explain: "*So I read the wrong line by mistake.* Пришли они вовремя (*in time*), а ждали не на той платформе. **by mistake** — «по ошибке»."

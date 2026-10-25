@@ -1,0 +1,43 @@
+title: "Диктант: условные предложения на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения (wouldn't / would not, I'd / I would) засчитываются в обе стороны."
+hints:
+  - "Инверсия без if начинается с вспомогательного глагола: Had…, Should…, Were…"
+  - "would have в быстрой речи звучит как «wouldav» или «woulda» — пиши полностью."
+items:
+  - audio: audio/tts/c1-14/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-SoniaNeural", license: "TTS"}
+    answers: ["Had we left ten minutes earlier, we wouldn't be stuck in this queue now."]
+    explain: "«Выйди мы на десять минут раньше, мы бы сейчас не стояли в этой очереди». Смешанное условие: инверсия **Had we left** (прошлое) + **wouldn't be … now** (настоящее)."
+  - audio: audio/tts/c1-14/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-AU-NatashaNeural", license: "TTS"}
+    answers: ["Should you need any further information, please don't hesitate to contact me."]
+    explain: "«Если вам понадобится дополнительная информация, пожалуйста, обращайтесь». **Should you need** = *If you should need* — вежливое формальное условие из деловых писем."
+  - audio: audio/tts/c1-14/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural", license: "TTS"}
+    answers: ["If it weren't for her quick thinking, the whole evening would have been a disaster.", "If it wasn't for her quick thinking, the whole evening would have been a disaster."]
+    explain: "«Если бы не её находчивость, весь вечер обернулся бы катастрофой». **If it weren't for** — «если бы не»; находчивость — её постоянное качество, поэтому *weren't*, а результат — в прошлом."
+  - audio: audio/tts/c1-14/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-ThomasNeural", license: "TTS"}
+    answers: ["I'll lend you the car on condition that you bring it back with a full tank."]
+    explain: "«Я дам тебе машину при условии, что вернёшь её с полным баком». **on condition that** + Present Simple — строгое условие, как *provided that*."
+  - audio: audio/tatoeba/1004886.mp3
+    audio_source: {title: "Tatoeba #17336", url: "https://tatoeba.org/en/sentences/show/17336", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["Had it not been for your raincoat, I would have been drenched to the skin."]
+    explain: "«Если бы не твой плащ, я бы промок до нитки». **Had it not been for** — книжная инверсия вместо *If it hadn't been for*; *drenched to the skin* — «промокший до нитки»."
+  - audio: audio/tatoeba/956337.mp3
+    audio_source: {title: "Tatoeba #286904", url: "https://tatoeba.org/en/sentences/show/286904", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["Had I known more about his character, I would not have trusted him."]
+    explain: "«Знай я его характер получше, я бы ему не доверился». **Had I known** = *If I had known* — третий тип с инверсией."
+  - audio: audio/tatoeba/1055483.mp3
+    audio_source: {title: "Tatoeba #277647", url: "https://tatoeba.org/en/sentences/show/277647", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["I was allowed to go off by myself provided that I promised to be careful."]
+    explain: "«Меня отпустили одного при условии, что я пообещаю быть осторожным». **provided that** — «при условии, что»; *that* можно опустить."
+  - audio: audio/tatoeba/1130440.mp3
+    audio_source: {title: "Tatoeba #9195538", url: "https://tatoeba.org/en/sentences/show/9195538", author: "Them", license: "CC BY 4.0"}
+    answers: ["Would you go to outer space, even if you could never return home?"]
+    explain: "«Полетели бы вы в космос, даже если бы никогда не смогли вернуться домой?» **even if** — «даже если»: условие не меняет решения; не путай с *even though* (факт)."
+  - audio: audio/tatoeba/956129.mp3
+    audio_source: {title: "Tatoeba #31559", url: "https://tatoeba.org/en/sentences/show/31559", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["We could have our tea in the garden, were it a little warmer."]
+    explain: "«Мы могли бы пить чай в саду, будь чуть потеплее». **were it** = *if it were* — инверсия во втором типе; условие здесь стоит после главной части."

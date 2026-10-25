@@ -1,0 +1,59 @@
+title: "Part 3: Mountain rescue"
+type: listening
+intro: "Послушай радиоинтервью с Оуэном Хейлом, руководителем добровольной горноспасательной команды, и выбери лучший ответ. Вопросы идут по порядку записи."
+hints:
+  - "Вопросы — об отношении, мнении и цели. Слушай оговорки: although, less than you might think."
+  - "must have / needn't have / could have — выводы и оценки прошлого, а не факты."
+audio: audio/tts/c1-02/interview.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-AU-NatashaNeural, en-GB-RyanNeural", license: "TTS"}
+transcript: |
+  **Presenter:** Today I'm talking to Owen Hale, who has led a volunteer mountain rescue team in the Scottish Highlands for twelve years. Owen, you must get asked this all the time. Why would anyone do this for nothing?
+
+  **Owen:** I do get asked, yes, and I'm never quite sure what people want me to say. I suppose the honest answer is that I can't imagine not doing it. I grew up in these hills. When I was nineteen, my uncle was caught out by the weather on a ridge not far from here, and if a team hadn't reached him that night, he might well not have survived. You don't forget something like that. Although I'd be lying if I said it was all noble motives. There's a certain satisfaction in being useful, in being the person who can actually do something.
+
+  **Presenter:** Talk me through a typical call-out.
+
+  **Owen:** There isn't really a typical one, which is part of the appeal, I suppose. But the pattern is often the same. Someone sets off in the morning in lovely weather, in trainers, with a phone at forty per cent and no map, because they assume the phone will do the job. By mid-afternoon the cloud has come down, the battery's dead, and they've no idea which way they ought to go. Now, I'm not going to sit here and say those people should have stayed at home. Everyone has to start somewhere. But they could have saved themselves a great deal of trouble with about ten minutes of planning.
+
+  **Presenter:** Do you find it frustrating?
+
+  **Owen:** Less than you might think. What does get to me is when people refuse to turn back. We had a group last winter, experienced walkers, who must have seen the forecast, because it had been on every news bulletin for two days, and they went up anyway. One of them broke an ankle near the summit, and getting him down took eleven of us nine hours. They needn't have taken that risk at all. The mountain would still have been there the following weekend.
+
+  **Presenter:** There's been some debate recently about whether people should have to pay for their own rescue. Where do you stand?
+
+  **Owen:** Firmly against. I understand the argument. Why should a charity, or the taxpayer, foot the bill for someone else's carelessness? But the moment you charge for rescue, people start hesitating before they call. Someone thinks, well, I might be able to get down on my own, and they wait an extra two hours, and by then it's dark and they're hypothermic. I'd far rather be called out to ten people who turn out to be fine than arrive too late for one who wasn't.
+
+  **Presenter:** How has the work changed since you started?
+
+  **Owen:** The technology, obviously. We can sometimes locate someone from their phone signal to within a few hundred metres, which twenty years ago would have been unthinkable. But there's a downside. People will now set off on routes they'd never have attempted before, because they assume that if things go wrong, someone will be able to find them. And usually we can. Usually.
+
+  **Presenter:** And finally, what would you say to someone who's thinking of joining a team?
+
+  **Owen:** Come and talk to us, but be realistic. You'll be expected to train two evenings a month and at least one weekend, and you'll have to be prepared to leave a family dinner at a moment's notice. It isn't for everyone, and nobody will think any less of you if you decide it isn't for you. But if it is, I can promise you won't regret it.
+
+  **Presenter:** Owen Hale, thank you.
+items:
+  - q: "Why did Owen originally become involved in mountain rescue?"
+    options: ["He had once been rescued himself.", "A relative's narrow escape had made a lasting impression on him.", "He wanted to feel useful in his community.", "His uncle persuaded him to join a team."]
+    answer: 1
+    explain: "*if a team hadn't reached him that night, he might well not have survived. You don't forget something like that.* Желание быть полезным — дополнительный мотив, он вводит его оговоркой *Although I'd be lying if I said…*."
+  - q: "What is Owen's attitude to inexperienced walkers who get into difficulty?"
+    options: ["He thinks they should not be on the mountains at all.", "He is angry that they waste the team's time.", "He is sympathetic, but feels the problem is easily avoided.", "He blames the people who sell them unsuitable equipment."]
+    answer: 2
+    explain: "*I'm not going to sit here and say those people should have stayed at home. Everyone has to start somewhere. But they could have saved themselves…* — *should have* он отвергает, *could have* — упущенная простая возможность."
+  - q: "What annoys Owen most?"
+    options: ["Walkers who set out with a phone that is not fully charged.", "Walkers who ignore warnings they must have been aware of.", "Rescues that require a large number of volunteers.", "Experienced walkers who overestimate their own fitness."]
+    answer: 1
+    explain: "*What does get to me is when people refuse to turn back… who must have seen the forecast* — *must have seen* вывод: прогноз крутили два дня, не знать его было невозможно."
+  - q: "Owen opposes charging people for rescues mainly because"
+    options: ["it would be unfair on the charities that run the teams.", "most people who call for help turn out to be fine.", "it could make people delay asking for help.", "the taxpayer already covers the cost."]
+    answer: 2
+    explain: "*the moment you charge for rescue, people start hesitating before they call* — главный довод. Аргумент про благотворительность и налогоплательщика он приводит как чужую позицию."
+  - q: "What does Owen suggest about modern technology?"
+    options: ["It has made rescue teams less necessary.", "It has encouraged some people to take greater risks.", "It is too unreliable to be used in rescues.", "It works well only over short distances."]
+    answer: 1
+    explain: "*People will now set off on routes they'd never have attempted before* — *will* здесь означает типичное поведение. *Usually.* в конце намекает: найти удаётся не всегда."
+  - q: "What is Owen's main purpose in his final answer?"
+    options: ["To discourage most people from volunteering.", "To explain how the team's training is organised.", "To recruit as many new members as possible.", "To give an honest picture of the commitment involved."]
+    answer: 3
+    explain: "*Come and talk to us, but be realistic. You'll be expected to… you'll have to be prepared to…* — он честно описывает нагрузку, не отпугивая и не агитируя любой ценой."

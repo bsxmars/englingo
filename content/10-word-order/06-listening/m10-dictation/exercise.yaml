@@ -1,0 +1,47 @@
+title: "Диктант: порядок слов и сравнения на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения (haven't / have not) засчитываются в обе стороны."
+hints:
+  - "В косвенном вопросе порядок слов прямой: where the station is."
+  - "Наречия частоты (hardly ever, always) стоят перед смысловым глаголом."
+items:
+  - audio: audio/tts/10/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-SoniaNeural", license: "TTS"}
+    answers: ["Could you tell me where the nearest station is?"]
+    explain: "«Не подскажете, где ближайшая станция?» Косвенный вопрос: *where the station **is***, глагол в конце."
+  - audio: audio/tts/10/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-RyanNeural", license: "TTS"}
+    answers: ["She hardly ever goes out during the week."]
+    explain: "«По будням она почти никуда не ходит». *hardly ever* — перед смысловым глаголом, отрицание без *not*."
+  - audio: audio/tts/10/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-ThomasNeural", license: "TTS"}
+    answers: ["The longer you wait, the more expensive the tickets get."]
+    explain: "«Чем дольше ждёшь, тем дороже билеты». *the + comparative…, the + comparative*."
+  - audio: audio/tts/10/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-AndrewNeural", license: "TTS"}
+    answers: ["You haven't seen my keys anywhere, have you?"]
+    explain: "«Вы нигде не видели моих ключей?» После отрицательной части — положительный хвостик *have you?*; *anywhere* — в отрицании."
+  - audio: audio/tts/10/s5.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-LibbyNeural", license: "TTS"}
+    answers: ["This flat is twice as big as our old one."]
+    explain: "«Эта квартира вдвое больше нашей старой». *twice as … as* — «в два раза»; *one* заменяет *flat*."
+  - audio: audio/tatoeba/1063482.mp3
+    audio_source: {title: "Tatoeba #270605", url: "https://tatoeba.org/en/sentences/show/270605", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["The more we know about life, the better we can understand what we read."]
+    explain: "«Чем больше мы знаем о жизни, тем лучше понимаем прочитанное». *the more…, the better*; *what we read* — придаточное с прямым порядком."
+  - audio: audio/tatoeba/956386.mp3
+    audio_source: {title: "Tatoeba #311869", url: "https://tatoeba.org/en/sentences/show/311869", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["She would not tell me why she had gone home first."]
+    explain: "«Она так и не сказала, почему ушла домой раньше». Косвенный вопрос: *why she had gone*, без *had she*."
+  - audio: audio/tatoeba/978067.mp3
+    audio_source: {title: "Tatoeba #30093", url: "https://tatoeba.org/en/sentences/show/30093", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["It's a nice day, isn't it? Why not go out for a walk?", "It is a nice day, isn't it? Why not go out for a walk?"]
+    explain: "«Хороший денёк, правда? Почему бы не прогуляться?» Утверждение → отрицательный хвостик *isn't it?*; *Why not* + глагол без *to* — предложение."
+  - audio: audio/tatoeba/951189.mp3
+    audio_source: {title: "Tatoeba #265224", url: "https://tatoeba.org/en/sentences/show/265224", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["The actual cost was higher than the estimate."]
+    explain: "«Фактические расходы оказались выше сметы». *higher than* — сравнительная степень односложного прилагательного."
+  - audio: audio/tatoeba/1073639.mp3
+    audio_source: {title: "Tatoeba #254606", url: "https://tatoeba.org/en/sentences/show/254606", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["I had never seen him so completely bewildered as he was on that day."]
+    explain: "«Никогда я не видел его таким растерянным, как в тот день». *never* — между *had* и *seen*; *so … as* — сравнение в отрицании, *completely* усиливает прилагательное."

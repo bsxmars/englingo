@@ -1,0 +1,2 @@
+# rate: -5%
+F: The shop is open from nine until six, but you have to collect your order by five.

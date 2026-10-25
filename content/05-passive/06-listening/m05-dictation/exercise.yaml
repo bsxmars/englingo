@@ -1,0 +1,47 @@
+title: "Диктант: пассив на слух"
+type: dictation
+intro: "Послушай фразу и запиши её целиком. Регистр и знаки препинания не важны; сокращения (we're / we are) засчитываются в обе стороны."
+hints:
+  - "was, been, being звучат коротко и безударно. Если по смыслу действие совершают над подлежащим, вспомогательный глагол там есть."
+  - "У причастий на -ed конечный звук часто сливается со следующим словом: sold by, stolen while."
+items:
+  - audio: audio/tts/05/s1.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-SoniaNeural", license: "TTS"}
+    answers: ["The new bridge is being built by a company from Norway."]
+    explain: "«Новый мост строит норвежская компания». Present Continuous Passive: *is being built* — стройка идёт сейчас."
+  - audio: audio/tts/05/s2.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-AndrewNeural", license: "TTS"}
+    answers: ["We're having our kitchen redecorated next month.", "We are having our kitchen redecorated next month."]
+    explain: "«В следующем месяце нам будут делать ремонт на кухне». *have something done* + Present Continuous для договорённости: ремонтировать будут мастера."
+  - audio: audio/tts/05/s3.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-AU-NatashaNeural", license: "TTS"}
+    answers: ["He is said to have earned a fortune in the nineties.", "He's said to have earned a fortune in the nineties.", "He is said to have earned a fortune in the 1990s.", "He is said to have earned a fortune in the 90s."]
+    explain: "«Говорят, в девяностые он заработал состояние». *be said to have* + V3 — о прошлом событии, которое пересказывают."
+  - audio: audio/tts/05/s4.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-IE-ConnorNeural", license: "TTS"}
+    answers: ["All the tickets had been sold by the time we arrived."]
+    explain: "«К нашему приезду все билеты уже были проданы». Past Perfect Passive: *had been sold* — раньше другого прошлого момента."
+  - audio: audio/tts/05/s5.mp3
+    audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-US-JennyNeural", license: "TTS"}
+    answers: ["My phone was stolen while I was waiting for the train."]
+    explain: "«У меня украли телефон, пока я ждала поезд». *was stolen* — кто украл, неизвестно и неважно, поэтому пассив."
+  - audio: audio/tatoeba/1055479.mp3
+    audio_source: {title: "Tatoeba #278992", url: "https://tatoeba.org/en/sentences/show/278992", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["A good many of the pictures on exhibition were sold on the opening day."]
+    explain: "«Немало картин с выставки продали в первый же день». *a good many* — «довольно много»; *were sold* — Past Simple Passive."
+  - audio: audio/tatoeba/951255.mp3
+    audio_source: {title: "Tatoeba #321261", url: "https://tatoeba.org/en/sentences/show/321261", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["Oil has been discovered under the North Sea."]
+    explain: "«Под Северным морем нашли нефть». Present Perfect Passive: новость, результат важен сейчас."
+  - audio: audio/tatoeba/956336.mp3
+    audio_source: {title: "Tatoeba #285290", url: "https://tatoeba.org/en/sentences/show/285290", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["It is said that his father died in a foreign country.", "It's said that his father died in a foreign country."]
+    explain: "«Говорят, его отец умер на чужбине». *It is said that* + обычное предложение — то же, что *His father is said to have died…*"
+  - audio: audio/tatoeba/961984.mp3
+    audio_source: {title: "Tatoeba #32862", url: "https://tatoeba.org/en/sentences/show/32862", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["Mother Teresa was given the Nobel prize.", "Mother Teresa was given the Nobel Prize."]
+    explain: "«Матери Терезе присудили Нобелевскую премию». Пассив глагола с двумя дополнениями: подлежащим становится человек — *was given the prize*."
+  - audio: audio/tatoeba/1073680.mp3
+    audio_source: {title: "Tatoeba #246364", url: "https://tatoeba.org/en/sentences/show/246364", author: "Auride", license: "CC BY-SA 4.0"}
+    answers: ["The death penalty has been done away with in many states in the USA.", "The death penalty has been done away with in many states in the U.S.A."]
+    explain: "«Во многих штатах США смертную казнь отменили». Пассив фразового глагола: *do away with* → *has been done away with*, предлог остаётся в конце."

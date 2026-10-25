@@ -91,6 +91,10 @@ function exercise(ex: Exercise): T.Exercise {
     intro: md(ex.intro),
     hints: ex.hints,
     text: md(ex.text),
+    audio: ex.audio,
+    link: ex.link,
+    transcript: md(ex.transcript),
+    source: ex.audio_source,
     pass: pass(ex.pass, ex.items.length),
     prompt: md(ex.prompt),
     promptText: ex.prompt,
@@ -110,6 +114,8 @@ function exercise(ex: Exercise): T.Exercise {
         options: [],
         prefill: '',
         words: [],
+        audio: it.audio,
+        source: it.audio_source,
         answer: it.answer,
         answers: it.answers,
         expected: expected(it),
@@ -124,7 +130,7 @@ function exercise(ex: Exercise): T.Exercise {
       if (v.choice) {
         v.q = inl(it.q);
         v.options = it.options.map(inl);
-      } else if (ex.type === 'gap' || ex.type === 'transform' || ex.type === 'reading') {
+      } else if (ex.type === 'gap' || ex.type === 'transform' || ex.type === 'reading' || ex.type === 'listening') {
         const cut = gapped.indexOf('___');
         if (cut >= 0) {
           v.inline = true;
@@ -139,6 +145,8 @@ function exercise(ex: Exercise): T.Exercise {
       } else if (ex.type === 'order') {
         v.q = inl(it.q);
         v.words = shuffled(it.answers[0]!);
+      } else if (ex.type === 'dictation') {
+        v.q = inl(it.q);
       }
       return v;
     }),

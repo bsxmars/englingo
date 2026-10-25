@@ -1,0 +1,26 @@
+# pause: 600
+D: Extract one. You hear two colleagues talking about a training weekend.
+H: So, are you going to the leadership weekend in the Lake District?
+A: I've been told I have to. Have you?
+H: Not yet, but I imagine I will be. Apparently everyone in middle management is expected to.
+A: Well, I went to the one they ran last year, and honestly, it's no use pretending it changed anyone's life. There seemed to be a lot of standing around in the rain and very little actual leadership.
+H: That's not what Martin said. He told me it was the best thing he'd done all year.
+A: He would. He organised it. Look, I'm not saying don't go. Go, by all means. Just don't expect to come back a different person. I didn't, and neither did anyone else, as far as I could tell.
+D: Extract two. You hear two friends discussing a novel.
+B: Did you finish the Harper novel in the end?
+E: I did, finally. Did you?
+B: I meant to, but I gave up about halfway. I kept losing track of who was who. Everyone seemed to have the same name.
+E: Well, two of them actually do. That's sort of the point. The daughter's named after her aunt, and the whole book is about whether she'll turn out like her.
+B: Oh. Nobody told me that.
+E: Nobody's supposed to tell you. You're supposed to work it out! But I know what you mean about the first half. It's slower than it needs to be. I almost gave up myself.
+B: So what made you keep going?
+E: My sister. She'd read it twice, and she said that if I stopped before the last chapter, she'd never lend me another book. So I didn't. And I'm glad I didn't, because the ending changes everything. You go back over the early chapters in your head, and they mean something completely different.
+D: Extract three. You hear two students talking about a presentation they have just given.
+F: So, how do you think it went?
+C: Better than I'd feared, actually. Better than Professor Lane expected, too, judging by her face.
+F: I thought the questions at the end were a bit brutal.
+C: They were meant to be. She does that to everyone. What I'm annoyed about is that Jake didn't turn up to the rehearsal. He said he would, and then he didn't, and we had to guess what he was going to say.
+F: He did apologise.
+C: He always does. That's not the same as being reliable.
+F: True. Still, his section was the strongest part. Whatever he was doing instead of rehearsing, it seems to have worked.
+C: That's what annoys me most! Next time, I'm going to suggest we each record our part beforehand and send it round. If necessary, I'll do the editing myself.

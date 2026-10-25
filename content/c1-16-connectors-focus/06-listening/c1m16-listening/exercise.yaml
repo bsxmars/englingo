@@ -1,0 +1,70 @@
+title: "Part 4: Learning a craft"
+type: listening
+intro: |
+  Пять человек рассказывают о ремесле, которым занялись уже взрослыми. В **Task 1** выбери, почему каждый начал, в **Task 2** — что каждого удивило больше всего. В каждой задаче три варианта лишние.
+hints:
+  - "Cleft-конструкции выносят главное в конец: What got me started was…, The thing it's changed most is…"
+  - "Лишний вариант звучит с отрицанием или оговоркой: Everyone assumes…, that's not what struck me, I can't honestly say…"
+audio: audio/tts/c1-16/speakers.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-ThomasNeural, en-AU-NatashaNeural, en-GB-RyanNeural, en-US-JennyNeural, en-IE-ConnorNeural, en-GB-LibbyNeural", license: "TTS"}
+transcript: |
+  *Speaker one.*
+
+  Everyone assumes I took up pottery to cope with stress at work, but actually, what got me started was a smell. I walked past a studio one evening, and the smell of wet clay took me straight back to my grandmother's garden shed, where I used to spend whole summers making lopsided pots. I signed up that same week. Not until I'd ruined about forty bowls did I realise that every collapse was teaching me something, about pressure, about speed, about when to stop. These days, when a pot goes wrong, I'm almost pleased. It's the failures I've learnt the most from.
+
+  *Speaker two.*
+
+  My sister was expecting her first baby, and I'd decided, rather rashly, that I'd knit her a blanket. Never before had I held a pair of knitting needles. People warned me it would take endless patience, and it does take some, but that's not what struck me. What I hadn't expected was the social side. The group I joined meets in the back room of a pub every Tuesday, and far from being a quiet, solitary hobby, it's the loudest evening of my week. I've made more friends there in two years than I did in ten at work.
+
+  *Speaker three.*
+
+  It was my physiotherapist who suggested woodturning, after I'd had an operation on my shoulder. She said I needed something that would rebuild strength gradually, and, moreover, something I'd actually want to do every day. The thing it's changed most, oddly, is how I shop. Having made a salad bowl myself, I just can't bring myself to pay three dollars for a mass-produced one. Conversely, I'll now happily spend a small fortune on something handmade, because I know exactly how many hours went into it. My husband thinks it's a very expensive kind of therapy.
+
+  *Speaker four.*
+
+  I spend ten hours a day in front of a screen, so what I wanted was something with no undo button. Calligraphy seemed perfect. I didn't go into it to meet people. In fact, I practise alone at the kitchen table. Little did I know how slow it would be, though. Only after a full year could I write my own name without wincing. Some people in my online forum say it's improved their concentration at work. I can't honestly say that's been the case for me. What it has taught me is to wait, and to keep going when nothing seems to change.
+
+  *Speaker five.*
+
+  A friend gave me a bookbinding kit for my fortieth birthday, as a joke, I think, because I'd once said I'd love to make my own notebooks. I'd seen it done on television years before but never tried. What astonished me was how quickly it came. Within a month I was making notebooks good enough to give away, and by Christmas, people were asking to buy them. Admittedly, the leather and the good paper aren't cheap. Nonetheless, I'd say it's the most satisfying present anyone has ever given me, joke or not.
+items:
+  - q: "Task 1 (why each speaker took up the craft). Speaker 1"
+    options: ["to cope with stress at work", "because of a gift", "to make something for a special occasion", "to meet new people", "on a health professional's advice", "to get away from screens", "after seeing it on television", "because of a childhood memory"]
+    answer: 7
+    explain: "*what got me started was a smell… took me straight back to my grandmother's garden shed* — pseudo-cleft *what got me started was…* выносит настоящую причину в конец. Стресс — то, что *everyone assumes*."
+  - q: "Task 1 (why each speaker took up the craft). Speaker 2"
+    options: ["to cope with stress at work", "because of a gift", "to make something for a special occasion", "to meet new people", "on a health professional's advice", "to get away from screens", "after seeing it on television", "because of a childhood memory"]
+    answer: 2
+    explain: "*My sister was expecting her first baby, and I'd decided… that I'd knit her a blanket* — подарок к рождению ребёнка."
+  - q: "Task 1 (why each speaker took up the craft). Speaker 3"
+    options: ["to cope with stress at work", "because of a gift", "to make something for a special occasion", "to meet new people", "on a health professional's advice", "to get away from screens", "after seeing it on television", "because of a childhood memory"]
+    answer: 4
+    explain: "*It was my physiotherapist who suggested woodturning* — cleft *It was… who* выделяет, кто посоветовал."
+  - q: "Task 1 (why each speaker took up the craft). Speaker 4"
+    options: ["to cope with stress at work", "because of a gift", "to make something for a special occasion", "to meet new people", "on a health professional's advice", "to get away from screens", "after seeing it on television", "because of a childhood memory"]
+    answer: 5
+    explain: "*I spend ten hours a day in front of a screen, so what I wanted was something with no undo button.* Знакомства — ловушка: *I didn't go into it to meet people.*"
+  - q: "Task 1 (why each speaker took up the craft). Speaker 5"
+    options: ["to cope with stress at work", "because of a gift", "to make something for a special occasion", "to meet new people", "on a health professional's advice", "to get away from screens", "after seeing it on television", "because of a childhood memory"]
+    answer: 1
+    explain: "*A friend gave me a bookbinding kit for my fortieth birthday.* Телепередача — ловушка: *I'd seen it done on television years before but never tried.*"
+  - q: "Task 2 (what has surprised each speaker most). Speaker 1"
+    options: ["how much patience it requires", "how competitive other people are", "how expensive the materials are", "how much can be learnt from mistakes", "how quickly progress came", "how it has changed the way they shop", "how it has improved their concentration at work", "how sociable it is"]
+    answer: 3
+    explain: "*Not until I'd ruined about forty bowls did I realise that every collapse was teaching me something… It's the failures I've learnt the most from.* — инверсия и cleft выделяют вывод."
+  - q: "Task 2 (what has surprised each speaker most). Speaker 2"
+    options: ["how much patience it requires", "how competitive other people are", "how expensive the materials are", "how much can be learnt from mistakes", "how quickly progress came", "how it has changed the way they shop", "how it has improved their concentration at work", "how sociable it is"]
+    answer: 7
+    explain: "*What I hadn't expected was the social side… far from being a quiet, solitary hobby…* Терпение — ловушка: *it does take some, but that's not what struck me.*"
+  - q: "Task 2 (what has surprised each speaker most). Speaker 3"
+    options: ["how much patience it requires", "how competitive other people are", "how expensive the materials are", "how much can be learnt from mistakes", "how quickly progress came", "how it has changed the way they shop", "how it has improved their concentration at work", "how sociable it is"]
+    answer: 5
+    explain: "*The thing it's changed most, oddly, is how I shop.* **Conversely** вводит обратную сторону: за ручную работу она теперь готова платить много."
+  - q: "Task 2 (what has surprised each speaker most). Speaker 4"
+    options: ["how much patience it requires", "how competitive other people are", "how expensive the materials are", "how much can be learnt from mistakes", "how quickly progress came", "how it has changed the way they shop", "how it has improved their concentration at work", "how sociable it is"]
+    answer: 0
+    explain: "*Little did I know how slow it would be… Only after a full year could I write my own name… What it has taught me is to wait.* Концентрация — ловушка: *I can't honestly say that's been the case for me.*"
+  - q: "Task 2 (what has surprised each speaker most). Speaker 5"
+    options: ["how much patience it requires", "how competitive other people are", "how expensive the materials are", "how much can be learnt from mistakes", "how quickly progress came", "how it has changed the way they shop", "how it has improved their concentration at work", "how sociable it is"]
+    answer: 4
+    explain: "*What astonished me was how quickly it came. Within a month…* Дороговизну она признаёт (*Admittedly…*), но **Nonetheless** возвращает к главному."

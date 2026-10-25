@@ -1,0 +1,67 @@
+title: "Part 3: A night on the fells"
+type: listening
+intro: "Послушай интервью с волонтёром горноспасательной службы Джесс Ковальски и выбери ответ. Вопросы идут по порядку записи."
+hints:
+  - "Союз подсказывает функцию фразы: seeing that и in that — причина, so that и lest — цель, much as — уступка."
+  - "Вопрос «зачем она упоминает…» спрашивает о цели высказывания, а не о факте."
+audio: audio/tts/c1-15/interview.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-SoniaNeural, en-AU-NatashaNeural", license: "TTS"}
+transcript: |
+  **Presenter:** My guest on Outdoor Hour is Jess Kowalski, who has been a volunteer with a mountain rescue team in the Lake District for eleven years. Jess, you grew up in Sydney. How did you end up on a hillside in Cumbria?
+
+  **Jess:** Ha, by accident, like most things in my life. I came over on a two-year work visa, and the moment I saw the hills, I knew I wasn't going home. I'd hardly unpacked when I joined a walking club, and one of the members turned out to be the local team leader. Seeing that I'd done a fair bit of climbing back home, he suggested I come along to a training night.
+
+  **Presenter:** And what does the training involve?
+
+  **Jess:** Far more than people imagine. Before you're allowed on a real call-out, you spend about a year as a trainee, learning first aid, navigation, rope work. Once qualified, you're on call twenty-four hours a day, so that whenever the pager goes off, there's always someone who can be on the hill within the hour.
+
+  **Presenter:** That must be hard to combine with a job.
+
+  **Jess:** It is, and I'm lucky in that my employer is incredibly understanding. I teach in a secondary school, and if necessary, a colleague covers my lessons. Much as I love the rescue work, I simply couldn't do it without that goodwill. I try never to take it for granted.
+
+  **Presenter:** What kind of incidents do you deal with most?
+
+  **Jess:** People tend to picture dramatic falls from cliffs. In reality, most of our call-outs are walkers who've slipped and twisted an ankle, or who've simply got lost as the light faded. A lot of people set off as though they were going for a stroll in the park. Trainers, no map, and a phone on ten per cent battery.
+
+  **Presenter:** Is that frustrating?
+
+  **Jess:** I wouldn't say frustrating, no. We'd far rather people called us early than waited until they were in real trouble. In my very first week, my team leader told me never to make anyone feel stupid for asking for help, lest they hesitate the next time. I've never forgotten that.
+
+  **Presenter:** Is there one rescue that's stayed with you?
+
+  **Jess:** There is. A teenager went missing on a winter afternoon, and the weather was so bad that the helicopter couldn't fly. We searched for six hours, in the dark, in sleet. Exhausted as we were, nobody suggested stopping. When we finally found him, sheltering behind a stone wall, he looked up at us as if we'd been gone for five minutes and asked whether anyone had brought any chocolate.
+
+  **Presenter:** And had anyone?
+
+  **Jess:** Of course. It's on the kit list.
+
+  **Presenter:** What would you say to someone who's thinking of volunteering?
+
+  **Jess:** Do it, but go in with your eyes open. It isn't glamorous. Now that the team's busier than ever, what we really need isn't heroes. It's people who'll turn up reliably, month after month, and do the dull jobs, checking the radios, washing the vehicles, so that the exciting ones can happen at all.
+
+  **Presenter:** Jess Kowalski, thank you.
+items:
+  - q: "Why did Jess first go to a training night?"
+    options: ["She had already decided to settle in England for good.", "Someone suggested it because she had some climbing experience.", "She needed the experience to extend her visa.", "Her walking club required all members to train."]
+    answer: 1
+    explain: "*Seeing that I'd done a fair bit of climbing back home, he suggested I come along* — *seeing that* вводит причину. Решение остаться пришло *the moment I saw the hills*, но на тренировку её позвал руководитель."
+  - q: "Jess mentions her employer in order to"
+    options: ["complain that schools do not support volunteers.", "explain why she may give up teaching.", "acknowledge that her volunteering depends on their flexibility.", "show that rescue work is more important than teaching."]
+    answer: 2
+    explain: "*I'm lucky **in that** my employer is incredibly understanding… **Much as** I love the rescue work, I simply couldn't do it without that goodwill.* *in that* уточняет, в чём именно повезло."
+  - q: "According to Jess, most call-outs involve"
+    options: ["climbers who have fallen from cliffs.", "walkers with minor injuries or who have lost their way.", "people whose phones have stopped working.", "teenagers who go out alone in winter."]
+    answer: 1
+    explain: "*most of our call-outs are walkers who've slipped and twisted an ankle, or who've simply got lost **as** the light faded*. Падения со скал — то, что *people tend to picture*."
+  - q: "What was the point of her team leader's advice?"
+    options: ["To make sure people are not put off asking for help in future.", "To persuade walkers to carry better equipment.", "To warn new volunteers about dangerous situations.", "To stop people from calling the team too early."]
+    answer: 0
+    explain: "*never to make anyone feel stupid for asking for help, **lest** they hesitate the next time* — *lest* = «чтобы не»: цель совета. Команда, наоборот, хочет звонков пораньше."
+  - q: "What does Jess's story about the teenager mainly show?"
+    options: ["How close the team came to giving up.", "How little the boy seemed to realise the danger he was in.", "Why helicopters are essential in winter.", "How well prepared the boy had been."]
+    answer: 1
+    explain: "*he looked up at us **as if** we'd been gone for five minutes and asked whether anyone had brought any chocolate.* Сдаваться никто не думал: *Exhausted as we were, nobody suggested stopping.*"
+  - q: "What kind of volunteers does Jess say the team needs most?"
+    options: ["People who are willing to take risks.", "Experienced climbers and navigators.", "People who will reliably do routine work.", "People who can respond within the hour."]
+    answer: 2
+    explain: "*what we really need isn't heroes. It's people who'll turn up reliably… and do the dull jobs… **so that** the exciting ones can happen at all.*"

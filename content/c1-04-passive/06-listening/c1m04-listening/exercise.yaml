@@ -1,0 +1,61 @@
+title: "Part 2: The lost property office"
+type: listening
+intro: "Послушай рассказ начальника бюро находок на вокзале и впиши в каждый пропуск одно–три слова, которые прозвучали в записи."
+hints:
+  - "Задание перефразирует запись: актив в задании может соответствовать пассиву в записи."
+  - "Числа можно писать цифрами или словами."
+audio: audio/tts/c1-04/talk.mp3
+audio_source: {title: "Course recording (edge-tts)", url: "https://github.com/rany2/edge-tts", author: "en-GB-ThomasNeural", license: "TTS"}
+transcript: |
+  Good evening, and thank you all for coming. I've managed the lost property office at Kingsbridge station for eleven years, and people are often surprised to hear how much work goes into it.
+
+  Last year, just over forty thousand items were handed in to us. Most of them are found by cleaning staff at the end of the line, while the trains are being prepared for their next journey, but a surprising number are brought in by passengers themselves. It's been estimated that only about a third of the people who lose something on a train ever report it, which I find rather sad.
+
+  Every item is logged on our database within twenty-four hours. It's given a reference number, it's photographed, and then it's stored on the shelves according to the date it was found, not according to what it is. That surprises people, but it's actually much quicker to search that way.
+
+  Umbrellas are by far the most common item. In a wet week we can have three hundred of them brought in. After that come phones, and then gloves. Always single gloves, never pairs, for reasons that have never been explained to me.
+
+  Some things can't be kept, of course. Food is thrown away at the end of each day, and anything that might be dangerous is handed over to the police straight away.
+
+  Our busiest time, perhaps surprisingly, isn't the summer. It's the first week of December, when the office parties start. More bags, coats and phones are left on trains that week than in the whole of August. We've even had a laptop handed in with a note stuck to it saying, please don't tell my boss. We didn't, of course. Data protection.
+
+  If you've lost something, the best thing to do is fill in the form on our website. You'll be asked for a description and the time of your journey, and you'll be contacted if a match is found. Please don't just turn up at the office, though. For security reasons, members of the public aren't allowed to search the shelves themselves.
+
+  Items are kept for three months. After that, if they haven't been claimed, they're donated to charity. The exception is anything that contains personal data, like phones and laptops, which are wiped and then recycled.
+
+  The oddest thing I've seen? A stuffed owl was once left on the eight fifteen to Norwich. It was never claimed, and it's since been adopted by the office as a sort of mascot. We've also had a wedding dress, a set of false teeth and, memorably, a canoe. Nobody has ever been able to explain how a canoe got onto a train without being noticed.
+
+  What I find most rewarding is when something of real sentimental value is returned. Last spring, a wedding ring that had been lost seven years earlier was found behind a seat panel during repairs. We managed to trace the owner through the engraving, and I'm told she cried on the phone for ten minutes.
+
+  Before I take your questions, one piece of advice. Write your phone number somewhere on anything you'd hate to lose. You'd be amazed how many things could be returned within an hour, if only they'd been labelled.
+items:
+  - q: "Last year the office received just over ___ items."
+    answers: ["forty thousand", "40,000", "40000", "40 000", "40 thousand"]
+    explain: "*just over **forty thousand** items were handed in to us* — Past Simple passive."
+  - q: "Most items are discovered by ___ ."
+    answers: ["cleaning staff", "the cleaning staff", "cleaners"]
+    explain: "*Most of them are found by **cleaning staff** at the end of the line* — деятель после *by*."
+  - q: "Each item is entered on the database within ___ ."
+    answers: ["twenty-four hours", "24 hours", "twenty four hours", "a day"]
+    explain: "*Every item is logged on our database within **twenty-four hours**.*"
+  - q: "On the shelves, items are organised by the ___ they were found."
+    answers: ["date", "the date"]
+    explain: "*stored on the shelves according to the **date** it was found, not according to what it is.*"
+  - q: "The busiest week of the year is the first week of ___ ."
+    answers: ["December"]
+    explain: "*It's the first week of **December**, when the office parties start.* Лето (*August*) — ловушка."
+  - q: "Anything that could be dangerous is passed on to the ___ ."
+    answers: ["police", "the police"]
+    explain: "*anything that might be dangerous is handed over to the **police** straight away* — модальный глагол в придаточном, пассив в главном."
+  - q: "Members of the public are not permitted to search the ___ ."
+    answers: ["shelves", "the shelves"]
+    explain: "*members of the public aren't allowed to search the **shelves** themselves.*"
+  - q: "After three months, unclaimed items are given to ___ ."
+    answers: ["charity", "a charity", "charities"]
+    explain: "*if they haven't been claimed, they're donated to **charity*** — Present Perfect passive в придаточном."
+  - q: "A stuffed ___ has become the office mascot."
+    answers: ["owl"]
+    explain: "*A stuffed **owl** was once left on the eight fifteen to Norwich… it's since been adopted by the office as a sort of mascot.*"
+  - q: "The owner of the lost wedding ring was found thanks to the ___ ."
+    answers: ["engraving", "the engraving"]
+    explain: "*We managed to trace the owner through the **engraving**.* Само кольцо *had been lost seven years earlier* — Past Perfect passive."
